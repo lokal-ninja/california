@@ -1,0 +1,4 @@
+---
+title: "growing up"
+url: /san-francisco/growing-up/
+---

@@ -1,0 +1,4 @@
+---
+title: "Manor Music"
+url: /pacifica/manor-music/
+---

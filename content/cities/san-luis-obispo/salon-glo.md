@@ -1,0 +1,4 @@
+---
+title: "Salon Glo"
+url: /san-luis-obispo/salon-glo/
+---

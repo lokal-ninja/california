@@ -1,0 +1,4 @@
+---
+title: "Laguna Mountain Lodge"
+url: /mount-laguna/laguna-mountain-lodge/
+---
