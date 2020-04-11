@@ -1,0 +1,15 @@
+baseURL = "https://shoogle.us/california"
+languageCode = "en-US"
+title = "California"
+theme = "ln-base-en"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "california"
