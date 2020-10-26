@@ -8,5 +8,5 @@ city: Newark
 street: "Cedar Boulevard"
 housenumber: 38456
 phone: "510-793-8157"
-opening_hours: "Mo-Th 08:00-17:00 Fri 08:00-16:30"
+opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-16:30"
 website: ""

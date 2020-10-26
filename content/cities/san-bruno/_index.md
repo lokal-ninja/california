@@ -1,6 +1,6 @@
 ---
 title: San Bruno
 url: /san-bruno/
-latitude: 37.6304904
-longitude: -122.4110835
+latitude: 37.626171500000005
+longitude: -122.4332435
 ---

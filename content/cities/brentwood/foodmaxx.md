@@ -1,4 +1,4 @@
 ---
-title: "Foodmaxx"
+title: "FoodMaxx"
 url: /brentwood/foodmaxx/
 ---

@@ -1,4 +1,4 @@
 ---
-title: "AMPM"
+title: "ampm"
 url: /lathrop/ampm/
 ---

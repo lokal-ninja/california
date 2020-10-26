@@ -1,12 +1,12 @@
-id: 2778645545
-type: node
+id: 272970745
+type: way
 shop: books
-latitude: 33.660815500000005
-longitude: -117.8411581
+latitude: 33.6607957
+longitude: -117.84128100000001
 postcode: "92612"
 city: Irvine
 street: "Riparian View"
 housenumber: 5
 phone: ""
-opening_hours: "9am to 4pm (Except Major Holidays)"
-website: "http://www.seaandsageaudubon.org/AudubonHouse/natureshop.htm"
+opening_hours: "Mo-Su 09:00-16:00; PH off"
+website: "https://www.seaandsageaudubon.org/AudubonHouse/natureshop.htm"

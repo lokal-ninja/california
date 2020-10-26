@@ -1,6 +1,6 @@
 ---
 title: La Habra
 url: /la-habra/
-latitude: 33.933015600000004
-longitude: -117.944777
+latitude: 33.9316066
+longitude: -117.9454867
 ---

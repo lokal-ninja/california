@@ -1,12 +1,12 @@
-id: 763985373
-type: node
+id: 749670369
+type: way
 shop: car repair
-latitude: 33.4132562
-longitude: -117.60023340000001
+latitude: 33.413436700000005
+longitude: -117.60031040000001
 postcode: "92672"
 city: San Clemente
 street: "South El Camino Real"
-housenumber: 
+housenumber: 2345
 phone: "+1 949 492 1596"
 opening_hours: ""
 website: ""

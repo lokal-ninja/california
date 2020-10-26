@@ -1,6 +1,6 @@
 ---
 title: Castaic
 url: /castaic/
-latitude: 34.4888822
-longitude: -118.62286560000001
+latitude: 34.482689900000004
+longitude: -118.63070970000001
 ---

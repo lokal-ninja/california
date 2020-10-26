@@ -1,6 +1,6 @@
 ---
 title: Cambria
 url: /cambria/
-latitude: 35.5641381
-longitude: -121.08074680000001
+latitude: 35.5641425
+longitude: -121.08110620000001
 ---

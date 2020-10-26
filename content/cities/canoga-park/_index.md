@@ -1,6 +1,6 @@
 ---
 title: Canoga Park
 url: /canoga-park/
-latitude: 34.201077600000005
-longitude: -118.5978259
+latitude: 34.2010541
+longitude: -118.5977282
 ---

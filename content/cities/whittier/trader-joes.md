@@ -1,0 +1,4 @@
+---
+title: "Trader Joe's"
+url: /whittier/trader-joes/
+---

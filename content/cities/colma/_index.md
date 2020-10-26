@@ -1,6 +1,6 @@
 ---
 title: Colma
 url: /colma/
-latitude: 37.6768779
-longitude: -122.45969500000001
+latitude: 37.6766821
+longitude: -122.45960310000001
 ---

@@ -1,6 +1,6 @@
 ---
 title: Atherton
 url: /atherton/
-latitude: 37.4613272
-longitude: -122.197743
+latitude: 37.453773000000005
+longitude: -122.2058272
 ---
