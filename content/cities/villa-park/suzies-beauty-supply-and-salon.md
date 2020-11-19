@@ -1,4 +1,4 @@
 ---
-title: "Suzie’s Beauty Supply & Salon"
+title: "Suzie's Beauty Supply & Salon"
 url: /villa-park/suzies-beauty-supply-and-salon/
 ---

@@ -8,5 +8,5 @@ city: Irvine
 street: "Warner Avenue"
 housenumber: 3350 1/2
 phone: ""
-opening_hours: "Mo-Fr 07:30-16:30 Sa 8:30-16:30"
+opening_hours: "Mo-Fr 07:30-16:30;Sa 8:30-16:30"
 website: ""
