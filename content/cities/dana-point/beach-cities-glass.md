@@ -1,4 +1,0 @@
----
-title: "Beach Cities Glass"
-url: /dana-point/beach-cities-glass/
----

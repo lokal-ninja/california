@@ -1,4 +1,0 @@
----
-title: "Cain's Self Storage"
-url: /san-marcos/cains-self-storage/
----

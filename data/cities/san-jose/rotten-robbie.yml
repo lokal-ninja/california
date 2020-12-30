@@ -1,12 +1,12 @@
-id: 347401997
-type: way
-shop: convenience
-latitude: 37.3451978
-longitude: -121.885074
-postcode: ""
+id: 8175822576
+type: node
+shop: car repair
+latitude: 37.4004367
+longitude: -121.8467449
+postcode: "95132"
 city: San Jose
-street: "East Julian Street"
-housenumber: 455
+street: "Piedmont Road"
+housenumber: 1304
 phone: ""
 opening_hours: ""
 website: ""
