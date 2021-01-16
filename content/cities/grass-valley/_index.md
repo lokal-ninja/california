@@ -1,6 +1,6 @@
 ---
 title: Grass Valley
 url: /grass-valley/
-latitude: 39.219050800000005
-longitude: -121.06104570000001
+latitude: 39.219079900000004
+longitude: -121.06194620000001
 ---

@@ -8,5 +8,5 @@ city: Dublin
 street: "Dublin Boulevard"
 housenumber: 2880
 phone: ""
-opening_hours: "Mo-Fr 10:00-21:00 Sa 10:00-20:00 Su 11:00-19:00"
+opening_hours: "Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-19:00"
 website: ""
