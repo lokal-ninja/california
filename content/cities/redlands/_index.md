@@ -1,6 +1,6 @@
 ---
 title: Redlands
 url: /redlands/
-latitude: 34.055735000000006
-longitude: -117.18889610000001
+latitude: 34.0550328
+longitude: -117.18274450000001
 ---

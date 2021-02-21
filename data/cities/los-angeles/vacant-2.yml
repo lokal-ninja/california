@@ -1,12 +1,11 @@
-id: 4209682062
+id: 4209682197
 type: node
-shop: clothes
-latitude: 34.0409621
-longitude: -118.25149870000001
+latitude: 34.043092900000005
+longitude: -118.2499289
 postcode: "90014"
 city: Los Angeles
-street: "East 8th Street"
-housenumber: 314
+street: "East 7th Street"
+housenumber: 215 #A
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,4 +1,5 @@
 ---
 title: "Crisp Bake Shop"
 url: /sonoma/crisp-bake-shop/
+shop: bakery
 ---

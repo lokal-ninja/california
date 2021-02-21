@@ -1,12 +1,11 @@
-id: 345802569
-type: way
-shop: supermarket
-latitude: 37.343366800000005
-longitude: -121.8897524
-postcode: "95112"
+id: 7571543302
+type: node
+latitude: 37.357971
+longitude: -121.81829610000001
+postcode: "95127"
 city: San Jose
-street: "East Julian Street"
-housenumber: 235
-phone: "+1-408-292-3177"
+street: "South White Road"
+housenumber: 1070
+phone: ""
 opening_hours: ""
 website: ""

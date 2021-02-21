@@ -1,4 +1,5 @@
 ---
 title: "Trader Joe's"
 url: /claremont/trader-joes/
+shop: supermarket
 ---

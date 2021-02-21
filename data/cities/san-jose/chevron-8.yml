@@ -1,12 +1,11 @@
-id: 44803380
-type: way
-shop: convenience
-latitude: 37.3012667
-longitude: -121.950399
-postcode: "95128"
+id: 8380330807
+type: node
+latitude: 37.2896189
+longitude: -121.88697330000001
+postcode: "95125"
 city: San Jose
-street: "South Winchester Boulevard"
-housenumber: 1301
+street: "Lincoln Avenue"
+housenumber: 2252
 phone: ""
 opening_hours: ""
 website: ""

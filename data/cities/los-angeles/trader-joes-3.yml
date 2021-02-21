@@ -1,12 +1,11 @@
-id: 5237417649
+id: 4015581473
 type: node
-shop: supermarket
-latitude: 34.0257159
-longitude: -118.28480750000001
-postcode: "90089"
+latitude: 34.033720200000005
+longitude: -118.44927980000001
+postcode: "90064"
 city: Los Angeles
-street: "Hoover Street"
-housenumber: 3131
+street: "West Olympic Boulevard"
+housenumber: 11755
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: ""
+opening_hours: "8:00-20:00"
+website: "https://www.traderjoes.com/"

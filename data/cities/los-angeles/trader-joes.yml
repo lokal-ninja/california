@@ -1,12 +1,11 @@
-id: 1902175919
+id: 276600064
 type: node
-shop: supermarket
-latitude: 34.100016600000004
-longitude: -118.32646600000001
-postcode: "90028"
+latitude: 34.0203234
+longitude: -118.42206800000001
+postcode: ""
 city: Los Angeles
-street: "Vine Street"
-housenumber: 1600
+street: "Sepulveda Boulevard"
+housenumber: 3456
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
+opening_hours: ""
 website: ""

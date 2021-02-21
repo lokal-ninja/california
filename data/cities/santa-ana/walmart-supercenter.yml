@@ -1,12 +1,11 @@
-id: 5315599499
-type: node
-shop: supermarket
-latitude: 33.737285
-longitude: -117.91530200000001
+id: 212490897
+type: way
+latitude: 33.736929100000005
+longitude: -117.9158259
 postcode: "92704"
 city: Santa Ana
-street: "West McFadden Avenue"
+street: "McFadden Avenue;West McFadden Avenue"
 housenumber: 3600
 phone: "+1-714-775-1804"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/2517/santa-ana-ca/whats-new"
+opening_hours: "Mo-Su 07:00-23:00"
+website: "https://www.walmart.com/store/2517-santa-ana-ca"
