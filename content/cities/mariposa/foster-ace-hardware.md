@@ -1,5 +1,5 @@
 ---
 title: "Foster Ace Hardware"
 url: /mariposa/foster-ace-hardware/
-shop: hardware
+shop: doityourself
 ---
