@@ -1,0 +1,5 @@
+---
+title: "Brasilian Blow Dry Bar"
+url: /west-hollywood/brasilian-blow-dry-bar-2/
+shop: hairdresser
+---

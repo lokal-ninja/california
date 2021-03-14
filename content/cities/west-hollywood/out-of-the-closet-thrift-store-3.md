@@ -1,0 +1,5 @@
+---
+title: "Out of the Closet Thrift Store"
+url: /west-hollywood/out-of-the-closet-thrift-store-3/
+shop: charity
+---

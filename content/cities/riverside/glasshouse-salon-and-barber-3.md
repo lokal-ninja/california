@@ -1,0 +1,5 @@
+---
+title: "Glasshouse Salon and Barber"
+url: /riverside/glasshouse-salon-and-barber-3/
+shop: hairdresser
+---

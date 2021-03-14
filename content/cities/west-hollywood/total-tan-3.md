@@ -1,0 +1,5 @@
+---
+title: "Total Tan"
+url: /west-hollywood/total-tan-3/
+shop: beauty
+---

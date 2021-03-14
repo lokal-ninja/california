@@ -1,0 +1,5 @@
+---
+title: "One World Fair Trade"
+url: /healdsburg/one-world-fair-trade-3/
+shop: gift
+---

@@ -1,0 +1,5 @@
+---
+title: "Mission Pipe Shop"
+url: /san-jose/mission-pipe-shop-3/
+shop: tobacco
+---

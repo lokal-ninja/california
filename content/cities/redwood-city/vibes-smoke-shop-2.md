@@ -1,0 +1,5 @@
+---
+title: "Vibes Smoke Shop"
+url: /redwood-city/vibes-smoke-shop-2/
+shop: tobacco
+---

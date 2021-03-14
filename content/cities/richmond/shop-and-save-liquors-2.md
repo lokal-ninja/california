@@ -1,0 +1,5 @@
+---
+title: "Shop and Save Liquors"
+url: /richmond/shop-and-save-liquors-2/
+shop: alcohol
+---

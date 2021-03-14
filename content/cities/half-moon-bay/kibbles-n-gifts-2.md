@@ -1,0 +1,5 @@
+---
+title: "Kibbles 'n Gifts"
+url: /half-moon-bay/kibbles-n-gifts-2/
+shop: pet
+---

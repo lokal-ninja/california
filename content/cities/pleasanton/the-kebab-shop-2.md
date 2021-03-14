@@ -1,0 +1,5 @@
+---
+title: "The Kebab Shop"
+url: /pleasanton/the-kebab-shop-2/
+shop: deli
+---

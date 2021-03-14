@@ -1,0 +1,5 @@
+---
+title: "Midway Market and Liquor"
+url: /frazier-park/midway-market-and-liquor-2/
+shop: convenience
+---

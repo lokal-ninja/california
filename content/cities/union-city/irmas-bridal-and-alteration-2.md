@@ -1,0 +1,5 @@
+---
+title: "Irma's Bridal & Alteration"
+url: /union-city/irmas-bridal-and-alteration-2/
+shop: tailor
+---

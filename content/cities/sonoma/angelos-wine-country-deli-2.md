@@ -1,0 +1,5 @@
+---
+title: "Angelo's Wine Country Deli"
+url: /sonoma/angelos-wine-country-deli-2/
+shop: deli
+---

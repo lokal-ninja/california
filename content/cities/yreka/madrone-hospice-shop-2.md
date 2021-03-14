@@ -1,0 +1,5 @@
+---
+title: "Madrone Hospice Shop"
+url: /yreka/madrone-hospice-shop-2/
+shop: clothes
+---

@@ -1,0 +1,5 @@
+---
+title: "Christian Science Reading Room"
+url: /long-beach/christian-science-reading-room-2/
+shop: religion
+---

@@ -1,0 +1,5 @@
+---
+title: "Changing Gears Bike Shop"
+url: /alameda/changing-gears-bike-shop-2/
+shop: bicycle
+---

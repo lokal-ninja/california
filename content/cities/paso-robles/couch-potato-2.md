@@ -1,0 +1,5 @@
+---
+title: "Couch Potato"
+url: /paso-robles/couch-potato-2/
+shop: furniture
+---

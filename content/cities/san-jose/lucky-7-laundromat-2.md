@@ -1,0 +1,5 @@
+---
+title: "Lucky 7 Laundromat"
+url: /san-jose/lucky-7-laundromat-2/
+shop: laundry
+---

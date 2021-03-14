@@ -1,0 +1,5 @@
+---
+title: "La Tira Wax Studio"
+url: /san-francisco/la-tira-wax-studio-2/
+shop: beauty
+---

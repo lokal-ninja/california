@@ -1,0 +1,5 @@
+---
+title: "Farmer's Kites and Surreys"
+url: /morro-bay/farmers-kites-and-surreys-2/
+shop: variety store
+---
