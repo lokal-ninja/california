@@ -1,5 +1,0 @@
----
-title: "FedEx Print And Ship"
-url: /palmdale/fedex-print-and-ship-3/
-shop: office supplies
----

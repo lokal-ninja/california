@@ -1,5 +1,0 @@
----
-title: "Santa Margarita Ford"
-url: /rancho-santa-margarita/santa-margarita-ford-2/
-shop: car
----

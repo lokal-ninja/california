@@ -1,5 +1,0 @@
----
-title: "King Launderland Pure Water"
-url: /san-jose/king-launderland-pure-water-2/
-shop: water
----

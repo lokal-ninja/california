@@ -1,5 +1,0 @@
----
-title: "Out of the closet"
-url: /venice/out-of-the-closet-2/
-shop: clothes
----

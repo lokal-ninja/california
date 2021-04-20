@@ -1,5 +1,0 @@
----
-title: "Grand Goodwill Store"
-url: /santa-ana/grand-goodwill-store-2/
-shop: charity
----

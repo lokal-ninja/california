@@ -1,5 +1,0 @@
----
-title: "Anna Kim Chi"
-url: /redwood-city/anna-kim-chi-2/
-shop: beauty
----

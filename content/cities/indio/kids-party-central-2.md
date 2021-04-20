@@ -1,5 +1,0 @@
----
-title: "Kids Party Central"
-url: /indio/kids-party-central-2/
-shop: shop
----

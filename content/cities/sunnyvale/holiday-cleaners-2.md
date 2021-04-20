@@ -1,5 +1,0 @@
----
-title: "Holiday Cleaners"
-url: /sunnyvale/holiday-cleaners-2/
-shop: laundry
----

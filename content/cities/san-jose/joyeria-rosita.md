@@ -1,5 +1,5 @@
 ---
-title: "Joyeria Rosita"
+title: "Joyería Rosita"
 url: /san-jose/joyeria-rosita/
-shop: clothes
+shop: jewelry
 ---

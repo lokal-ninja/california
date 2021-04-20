@@ -1,5 +1,0 @@
----
-title: "The Pretty Kitty"
-url: /chula-vista/the-pretty-kitty-2/
-shop: beauty
----

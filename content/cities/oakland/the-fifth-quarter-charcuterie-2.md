@@ -1,5 +1,0 @@
----
-title: "The Fifth Quarter Charcuterie"
-url: /oakland/the-fifth-quarter-charcuterie-2/
-shop: butcher
----

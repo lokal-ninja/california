@@ -1,5 +1,0 @@
----
-title: "O'Reilly's Tattoo Parlor"
-url: /santa-cruz/oreillys-tattoo-parlor-3/
-shop: tattoo
----

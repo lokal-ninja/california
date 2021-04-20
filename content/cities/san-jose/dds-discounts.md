@@ -1,5 +1,5 @@
 ---
-title: "dd’s Discounts"
+title: "dd's Discounts"
 url: /san-jose/dds-discounts/
 shop: department store
 ---

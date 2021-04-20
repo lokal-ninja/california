@@ -1,5 +1,0 @@
----
-title: "Mercedes-Benz of Pleasanton"
-url: /pleasanton/mercedes-benz-of-pleasanton-2/
-shop: car
----

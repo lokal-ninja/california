@@ -1,5 +1,0 @@
----
-title: "When Modern Was"
-url: /san-francisco/when-modern-was-3/
-shop: art
----

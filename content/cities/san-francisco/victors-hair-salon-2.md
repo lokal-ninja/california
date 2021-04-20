@@ -1,5 +1,0 @@
----
-title: "Victor's Hair Salon"
-url: /san-francisco/victors-hair-salon-2/
-shop: hairdresser
----

@@ -1,5 +1,5 @@
 ---
 title: "Aveda"
 url: /berkeley/aveda/
-shop: chemist
+shop: beauty
 ---

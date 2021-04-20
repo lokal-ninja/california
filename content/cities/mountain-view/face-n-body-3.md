@@ -1,5 +1,0 @@
----
-title: "Face-N-Body"
-url: /mountain-view/face-n-body-3/
-shop: beauty
----

@@ -1,5 +1,0 @@
----
-title: "Trader Joe's"
-url: /daly-city/trader-joes-2/
-shop: supermarket
----

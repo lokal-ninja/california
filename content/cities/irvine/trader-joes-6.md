@@ -1,5 +1,0 @@
----
-title: "Trader Joe's"
-url: /irvine/trader-joes-6/
-shop: supermarket
----

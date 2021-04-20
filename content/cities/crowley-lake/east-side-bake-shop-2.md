@@ -1,5 +1,0 @@
----
-title: "East Side Bake Shop"
-url: /crowley-lake/east-side-bake-shop-2/
-shop: bakery
----

@@ -1,5 +1,0 @@
----
-title: "Sea Bright Fashion"
-url: /seal-beach/sea-bright-fashion-3/
-shop: clothes
----

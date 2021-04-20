@@ -1,5 +1,0 @@
----
-title: "Depot Garage Inc"
-url: /gustine/depot-garage-inc-3/
-shop: car
----

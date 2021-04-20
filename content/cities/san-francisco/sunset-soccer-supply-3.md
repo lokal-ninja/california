@@ -1,5 +1,0 @@
----
-title: "Sunset Soccer Supply"
-url: /san-francisco/sunset-soccer-supply-3/
-shop: sports
----

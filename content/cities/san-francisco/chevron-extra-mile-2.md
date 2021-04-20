@@ -1,5 +1,0 @@
----
-title: "Chevron Extra Mile"
-url: /san-francisco/chevron-extra-mile-2/
-shop: convenience
----

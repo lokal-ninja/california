@@ -1,11 +1,11 @@
-id: 8198670190
-type: node
-latitude: 38.4060916
-longitude: -121.41385170000001
-postcode: "95757-6299"
+id: 686486549
+type: way
+latitude: 38.405633200000004
+longitude: -121.41467610000001
+postcode: "95757"
 city: Elk Grove
-street: "Elk grove blvd"
+street: "Elk Grove Boulevard"
 housenumber: 7400
-phone: "+1 916-465-6050"
-opening_hours: "Mo-Fr 10:00-20:30, Sa-Su 09:00-19:00, 2020-12-24 09:00-05:00,"
-website: "https://www.costco.com/warehouse-locations/elk-grove-ca-1274.html"
+phone: "+1-916-465-6050"
+opening_hours: "Mo-Fr 09:00-20:30; Sa-Su 09:00-19:00"
+website: ""

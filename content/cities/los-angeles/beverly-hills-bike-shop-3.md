@@ -1,5 +1,0 @@
----
-title: "Beverly Hills Bike Shop"
-url: /los-angeles/beverly-hills-bike-shop-3/
-shop: bicycle
----

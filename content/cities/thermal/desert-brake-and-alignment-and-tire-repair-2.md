@@ -1,5 +1,0 @@
----
-title: "Desert Brake & Alignment & Tire Repair"
-url: /thermal/desert-brake-and-alignment-and-tire-repair-2/
-shop: car repair
----

@@ -1,5 +1,0 @@
----
-title: "Eye Health Optometry"
-url: /san-mateo/eye-health-optometry-2/
-shop: optician
----

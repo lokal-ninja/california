@@ -1,5 +1,0 @@
----
-title: "Food Bowl Market"
-url: /san-diego/food-bowl-market-3/
-shop: supermarket
----

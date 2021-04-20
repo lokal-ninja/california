@@ -1,5 +1,0 @@
----
-title: "Obexer's General Store & Deli"
-url: /homewood/obexers-general-store-and-deli-2/
-shop: convenience
----

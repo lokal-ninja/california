@@ -1,5 +1,0 @@
----
-title: "Flor de Café - Armenian Bakery"
-url: /glendale/flor-de-cafe-armenian-bakery-3/
-shop: bakery
----

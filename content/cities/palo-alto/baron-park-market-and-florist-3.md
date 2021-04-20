@@ -1,5 +1,0 @@
----
-title: "Baron Park Market and Florist"
-url: /palo-alto/baron-park-market-and-florist-3/
-shop: convenience
----

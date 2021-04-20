@@ -1,5 +1,0 @@
----
-title: "Warning Skate Shop"
-url: /los-angeles/warning-skate-shop-6/
-shop: shop
----

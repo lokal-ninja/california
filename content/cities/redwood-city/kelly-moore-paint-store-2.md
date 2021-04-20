@@ -1,5 +1,0 @@
----
-title: "Kelly-Moore Paint Store"
-url: /redwood-city/kelly-moore-paint-store-2/
-shop: paint
----

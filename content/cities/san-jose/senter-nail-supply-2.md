@@ -1,5 +1,5 @@
 ---
 title: "Senter Nail Supply"
 url: /san-jose/senter-nail-supply-2/
-shop: beauty
+shop: hairdresser supply
 ---

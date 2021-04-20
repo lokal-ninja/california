@@ -1,5 +1,0 @@
----
-title: "Storage West Self Storage"
-url: /lake-forest/storage-west-self-storage-3/
-shop: storage rental
----

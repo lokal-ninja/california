@@ -1,5 +1,0 @@
----
-title: "Better Hearing Systems"
-url: /indian-wells/better-hearing-systems-3/
-shop: hearing aids
----

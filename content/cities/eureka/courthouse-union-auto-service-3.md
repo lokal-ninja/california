@@ -1,5 +1,0 @@
----
-title: "Courthouse Union Auto Service"
-url: /eureka/courthouse-union-auto-service-3/
-shop: car repair
----

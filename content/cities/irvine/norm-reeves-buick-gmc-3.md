@@ -1,5 +1,0 @@
----
-title: "Norm Reeves Buick/GMC"
-url: /irvine/norm-reeves-buick-gmc-3/
-shop: car
----

@@ -1,5 +1,0 @@
----
-title: "Brick and Mortar"
-url: /west-hollywood/brick-and-mortar-2/
-shop: clothes
----

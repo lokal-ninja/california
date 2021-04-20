@@ -1,5 +1,0 @@
----
-title: "24 Guerrero"
-url: /san-francisco/24-guerrero-2/
-shop: laundry
----

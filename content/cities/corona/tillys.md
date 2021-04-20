@@ -1,5 +1,5 @@
 ---
-title: "Tilly's"
+title: "Tillys"
 url: /corona/tillys/
 shop: clothes
 ---

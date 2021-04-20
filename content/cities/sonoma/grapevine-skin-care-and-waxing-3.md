@@ -1,5 +1,0 @@
----
-title: "Grapevine Skin Care & Waxing"
-url: /sonoma/grapevine-skin-care-and-waxing-3/
-shop: beauty
----

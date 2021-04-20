@@ -1,5 +1,0 @@
----
-title: "Marlene's Tea and Cakes"
-url: /san-diego/marlenes-tea-and-cakes-2/
-shop: tea
----

@@ -1,5 +1,0 @@
----
-title: "Mount Laguna Sports and Supply"
-url: /mount-laguna/mount-laguna-sports-and-supply-3/
-shop: clothes
----
