@@ -7,5 +7,5 @@ city: San Francisco
 street: "Balboa Street"
 housenumber: 436
 phone: "+1 415 751 9690"
-opening_hours: "Tu-Fr 07:00-19:00; Sa-Su 08:00-19:00; Mo closed"
+opening_hours: "Mo-Su 07:00-19:00"
 website: ""
