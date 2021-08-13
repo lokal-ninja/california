@@ -1,11 +1,11 @@
-id: 8663628548
-type: node
-latitude: 33.936807800000004
-longitude: -117.27654220000001
-postcode: "92553"
+id: 959613487
+type: way
+latitude: 33.9364039
+longitude: -117.27652140000001
+postcode: "92553-7572"
 city: Moreno Valley
 street: "Day Street"
 housenumber: 12630
 phone: "+1 951 547 0372"
-opening_hours: "Mo-Su 09:00-21:00"
+opening_hours: "Mo, We, Fr-Su 09:00-21:00; Tu, Th 08:30-21:00"
 website: "https://www.aldi.us/"

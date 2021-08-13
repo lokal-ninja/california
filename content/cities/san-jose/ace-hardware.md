@@ -1,5 +1,5 @@
 ---
-title: "ACE Hardware"
+title: "Ace Hardware"
 url: /san-jose/ace-hardware/
-shop: hardware
+shop: doityourself
 ---

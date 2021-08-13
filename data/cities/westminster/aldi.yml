@@ -1,11 +1,11 @@
-id: 8670200233
-type: node
-latitude: 33.7603651
-longitude: -118.0065811
-postcode: "92683"
+id: 935637925
+type: way
+latitude: 33.7602369
+longitude: -118.0065249
+postcode: "92683-3804"
 city: Westminster
 street: "Goldenwest Street"
 housenumber: 13900
 phone: "+1 661 836 4305"
-opening_hours: "Mo-Su 09:00-21:00"
+opening_hours: "Mo, We, Fr-Su 09:00-21:00; Tu, Th 08:30-21:00"
 website: "https://www.aldi.us/"

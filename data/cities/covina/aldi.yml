@@ -1,11 +1,11 @@
-id: 8197819206
-type: node
-latitude: 34.104578000000004
-longitude: -117.9072299
-postcode: "91722"
+id: 471034114
+type: way
+latitude: 34.1047917
+longitude: -117.90703680000001
+postcode: "91722-1251"
 city: Covina
 street: "North Azusa Avenue"
 housenumber: 1400
 phone: "+1 626 412 0459"
-opening_hours: "Mo-Su 09:00-21:00"
+opening_hours: "Mo, We, Fr-Su 09:00-21:00; Tu, Th 08:30-21:00"
 website: "https://www.aldi.us/"

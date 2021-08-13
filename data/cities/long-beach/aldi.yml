@@ -1,11 +1,11 @@
-id: 8670186180
-type: node
-latitude: 33.8422572
-longitude: -118.1833938
-postcode: "90807"
+id: 397759255
+type: way
+latitude: 33.8425685
+longitude: -118.18375010000001
+postcode: "90807-1500"
 city: Long Beach
 street: "Atlantic Avenue"
 housenumber: 4580
 phone: "+1 562 287 8516"
-opening_hours: "Mo-Su 09:00-21:00"
+opening_hours: "Mo, We, Fr-Su 09:00-21:00; Tu, Th 08:30-21:00"
 website: "https://www.aldi.us/"

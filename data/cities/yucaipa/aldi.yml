@@ -1,11 +1,11 @@
-id: 8663583437
-type: node
-latitude: 34.034431500000004
-longitude: -117.06167310000001
-postcode: "92399"
+id: 959612901
+type: way
+latitude: 34.0342993
+longitude: -117.0620073
+postcode: "92399-2012"
 city: Yucaipa
 street: "Yucaipa Boulevard"
 housenumber: 34000
 phone: "+1 909 529 0856"
-opening_hours: "Mo-Su 09:00-21:00"
+opening_hours: "Mo, We, Fr-Su 09:00-21:00; Tu, Th 08:30-21:00"
 website: "https://www.aldi.us/"

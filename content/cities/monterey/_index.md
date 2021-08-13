@@ -1,6 +1,6 @@
 ---
 title: Monterey
 url: /monterey/
-latitude: 33.4847302
-longitude: -117.08869100000001
+latitude: 36.600256
+longitude: -121.89463880000001
 ---

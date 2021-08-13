@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /visalia/costco/
-shop: shop
+shop: wholesale
 ---

@@ -1,6 +1,6 @@
 ---
 title: Tracy
 url: /tracy/
-latitude: 37.739651300000006
-longitude: -121.4252227
+latitude: 37.738550700000005
+longitude: -121.4201395
 ---

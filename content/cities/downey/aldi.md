@@ -1,5 +1,5 @@
 ---
-title: "Aldi"
+title: "ALDI"
 url: /downey/aldi/
 shop: supermarket
 ---
