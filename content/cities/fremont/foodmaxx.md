@@ -1,5 +1,5 @@
 ---
-title: "Foodmaxx"
+title: "FoodMaxx"
 url: /fremont/foodmaxx/
 shop: supermarket
 ---

@@ -1,6 +1,6 @@
 ---
 title: Fenner
 url: /fenner/
-latitude: 34.8158313
-longitude: -115.17914510000001
+latitude: 34.8150469
+longitude: -115.18047440000001
 ---
