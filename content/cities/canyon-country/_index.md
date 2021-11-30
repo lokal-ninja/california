@@ -1,6 +1,6 @@
 ---
-title: canyon country
+title: Canyon Country
 url: /canyon-country/
-latitude: 
-longitude: 
+latitude: 34.4233293
+longitude: -118.4720281
 ---

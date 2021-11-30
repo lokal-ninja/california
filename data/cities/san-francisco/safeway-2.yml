@@ -1,11 +1,11 @@
-id: 26135377
-type: way
-latitude: 37.8046226
-longitude: -122.43333820000001
-postcode: "94123"
+id: 732040844
+type: node
+latitude: 37.8064387
+longitude: -122.41289
+postcode: "94133"
 city: San Francisco
-street: "Marina Boulevard"
-housenumber: 15
+street: "Bay Street"
+housenumber: 350
 phone: ""
-opening_hours: "24/7"
-website: "https://local.safeway.com/ca/san-francisco-1711.html"
+opening_hours: "06:00-24:00"
+website: "https://local.safeway.com/ca/san-francisco-1206.html"

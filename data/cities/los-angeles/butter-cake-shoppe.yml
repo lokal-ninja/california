@@ -7,5 +7,5 @@ city: Los Angeles
 street: "Hillhurst Avenue"
 housenumber: 1627
 phone: "+1-323-528-8837"
-opening_hours: "Tu-Fr 10:00-13:30; 15:00-18:00; Sa 10:00-17:00"
+opening_hours: "Tu-Fr 10:00-13:30,15:00-18:00; Sa 10:00-17:00"
 website: "https://www.buttercakeshoppe.com/"

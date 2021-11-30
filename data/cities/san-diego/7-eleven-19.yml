@@ -1,11 +1,11 @@
-id: 31820011
-type: way
-latitude: 32.771768300000005
-longitude: -117.06943360000001
-postcode: "92115"
+id: 9215210449
+type: node
+latitude: 32.7080539
+longitude: -117.15458240000001
+postcode: "92101"
 city: San Diego
-street: "College Avenue"
-housenumber: 5141
+street: "Park Boulevard"
+housenumber: 222
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "24/7"
+website: "https://www.7-eleven.com/locations/ca/san-diego/222-park-blvd-36766"
