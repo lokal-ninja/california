@@ -1,6 +1,6 @@
 ---
 title: Solvang
 url: /solvang/
-latitude: 34.595857200000005
-longitude: -120.1390894
+latitude: 34.595887000000005
+longitude: -120.1390717
 ---

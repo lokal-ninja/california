@@ -1,5 +1,5 @@
 ---
-title: "Sakura  Japanese Groceries & Gifts"
+title: "Sakura Japanese Groceries & Gifts"
 url: /stockton/sakura-japanese-groceries-and-gifts/
 shop: convenience
 ---

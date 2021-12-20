@@ -1,6 +1,6 @@
 ---
 title: Eureka
 url: /eureka/
-latitude: 40.8020712
-longitude: -124.16367290000001
+latitude: 40.7906871
+longitude: -124.1673746
 ---
