@@ -1,5 +1,5 @@
 ---
 title: "H. Lorenzo Men"
 url: /west-hollywood/h-lorenzo-men/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Beaumont
 url: /beaumont/
-latitude: 33.929992500000004
-longitude: -116.9763092
+latitude: 33.922
+longitude: -116.982
 ---

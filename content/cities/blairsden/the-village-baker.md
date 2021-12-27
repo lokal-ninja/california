@@ -1,5 +1,5 @@
 ---
 title: "The Village Baker"
 url: /blairsden/the-village-baker/
-shop: bakery
+shop: Bäckerei
 ---

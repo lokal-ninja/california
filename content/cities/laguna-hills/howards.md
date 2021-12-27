@@ -1,5 +1,5 @@
 ---
 title: "Howards"
 url: /laguna-hills/howards/
-shop: appliance
+shop: Haushaltsgeräte
 ---

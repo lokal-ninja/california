@@ -1,5 +1,5 @@
 ---
 title: "Grower's Direct"
 url: /costa-mesa/growers-direct/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

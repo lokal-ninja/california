@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /moraga/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

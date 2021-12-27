@@ -1,5 +1,5 @@
 ---
 title: "Sprouts Farmers Market"
 url: /san-marcos/sprouts-farmers-market/
-shop: supermarket
+shop: Supermarkt
 ---

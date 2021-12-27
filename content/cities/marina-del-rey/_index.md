@@ -1,6 +1,6 @@
 ---
 title: Marina Del Rey
 url: /marina-del-rey/
-latitude: 
-longitude: 
+latitude: 33.98
+longitude: -118.466
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Patrick James"
 url: /danville/patrick-james/
-shop: clothes
+shop: Kleidung
 ---

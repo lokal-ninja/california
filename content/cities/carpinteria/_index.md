@@ -1,6 +1,6 @@
 ---
 title: Carpinteria
 url: /carpinteria/
-latitude: 34.3988838
-longitude: -119.5184564
+latitude: 34.398
+longitude: -119.519
 ---

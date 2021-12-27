@@ -1,5 +1,5 @@
 ---
 title: "Ron Smith Used Cars"
 url: /merced/ron-smith-used-cars/
-shop: car
+shop: Autohaus
 ---

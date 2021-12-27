@@ -1,5 +1,5 @@
 ---
 title: "Sears"
 url: /ventura/sears/
-shop: department store
+shop: Warenhaus
 ---

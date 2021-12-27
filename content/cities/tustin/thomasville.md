@@ -1,5 +1,5 @@
 ---
 title: "Thomasville"
 url: /tustin/thomasville/
-shop: furniture
+shop: Möbel
 ---

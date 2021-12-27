@@ -1,5 +1,5 @@
 ---
 title: "Westbrae Nursery"
 url: /berkeley/westbrae-nursery/
-shop: garden centre
+shop: Garten-Center
 ---

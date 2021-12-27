@@ -1,6 +1,6 @@
 ---
 title: Morro Bay
 url: /morro-bay/
-latitude: 35.3658075
-longitude: -120.84990130000001
+latitude: 35.366
+longitude: -120.84
 ---

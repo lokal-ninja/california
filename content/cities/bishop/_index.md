@@ -1,6 +1,6 @@
 ---
 title: Bishop
 url: /bishop/
-latitude: 37.363679000000005
-longitude: -118.39524050000001
+latitude: 37.361
+longitude: -118.395
 ---

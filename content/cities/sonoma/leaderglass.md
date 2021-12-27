@@ -1,5 +1,5 @@
 ---
 title: "Leaderglass"
 url: /sonoma/leaderglass/
-shop: art
+shop: Kunst
 ---

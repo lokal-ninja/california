@@ -1,6 +1,6 @@
 ---
 title: Camarilo
 url: /camarilo/
-latitude: 
-longitude: 
+latitude: 34.223
+longitude: -119.04
 ---

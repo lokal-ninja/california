@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /san-diego/goodwill-3/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Waraku"
 url: /venice/waraku/
-shop: clothes
+shop: Kleidung
 ---

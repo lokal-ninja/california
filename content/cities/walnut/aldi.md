@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /walnut/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

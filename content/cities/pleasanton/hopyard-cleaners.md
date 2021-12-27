@@ -1,5 +1,5 @@
 ---
 title: "Hopyard Cleaners"
 url: /pleasanton/hopyard-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

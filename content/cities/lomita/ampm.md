@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /lomita/ampm/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Santa Monica
 url: /santa-monica/
-latitude: 
-longitude: 
+latitude: 34.027
+longitude: -118.489
 ---

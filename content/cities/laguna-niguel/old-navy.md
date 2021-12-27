@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
 url: /laguna-niguel/old-navy/
-shop: clothes
+shop: Kleidung
 ---

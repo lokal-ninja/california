@@ -1,6 +1,6 @@
 ---
 title: Etiwanda
 url: /etiwanda/
-latitude: 34.126120900000004
-longitude: -117.5236622
+latitude: 34.134
+longitude: -117.537
 ---

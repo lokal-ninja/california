@@ -1,5 +1,5 @@
 ---
 title: "World Express"
 url: /chula-vista/world-express/
-shop: convenience
+shop: Lebensmittel
 ---

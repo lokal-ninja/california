@@ -1,5 +1,5 @@
 ---
 title: "BevMo!"
 url: /colma/bevmo/
-shop: alcohol
+shop: Spirituosen
 ---

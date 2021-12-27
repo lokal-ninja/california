@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /mission-viejo/petco/
-shop: pet
+shop: Tiere
 ---

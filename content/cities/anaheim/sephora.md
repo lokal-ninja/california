@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /anaheim/sephora/
-shop: beauty
+shop: Kosmetik
 ---

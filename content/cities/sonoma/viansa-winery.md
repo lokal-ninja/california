@@ -1,5 +1,5 @@
 ---
 title: "Viansa Winery"
 url: /sonoma/viansa-winery/
-shop: wine
+shop: Wein
 ---

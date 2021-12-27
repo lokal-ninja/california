@@ -1,5 +1,5 @@
 ---
 title: "Thrift Trader"
 url: /san-diego/thrift-trader/
-shop: charity
+shop: Gebrauchtwaren
 ---

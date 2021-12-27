@@ -1,5 +1,5 @@
 ---
 title: "Bombshell Boutique"
 url: /campbell/bombshell-boutique/
-shop: clothes
+shop: Kleidung
 ---

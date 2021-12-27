@@ -1,5 +1,5 @@
 ---
 title: "Steinmart"
 url: /carlsbad/steinmart/
-shop: clothes
+shop: Kleidung
 ---

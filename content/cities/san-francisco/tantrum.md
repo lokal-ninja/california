@@ -1,5 +1,5 @@
 ---
 title: "TANTRUM"
 url: /san-francisco/tantrum/
-shop: gift
+shop: Andenken
 ---

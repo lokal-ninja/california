@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /tustin/midas/
-shop: car repair
+shop: Autowerkstatt
 ---

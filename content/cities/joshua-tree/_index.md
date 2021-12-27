@@ -1,6 +1,6 @@
 ---
 title: Joshua Tree
 url: /joshua-tree/
-latitude: 34.135035800000004
-longitude: -116.31527750000001
+latitude: 34.135
+longitude: -116.312
 ---

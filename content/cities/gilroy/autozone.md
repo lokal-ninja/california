@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /gilroy/autozone/
-shop: car parts
+shop: Autoteile
 ---

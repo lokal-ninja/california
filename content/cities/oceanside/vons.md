@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /oceanside/vons/
-shop: supermarket
+shop: Supermarkt
 ---

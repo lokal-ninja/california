@@ -1,5 +1,5 @@
 ---
 title: "diPietro Todd Salon"
 url: /palo-alto/dipietro-todd-salon/
-shop: hairdresser
+shop: Friseur
 ---

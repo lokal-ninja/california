@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
 url: /alturas/holiday/
-shop: convenience
+shop: Lebensmittel
 ---

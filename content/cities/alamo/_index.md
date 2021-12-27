@@ -1,6 +1,6 @@
 ---
 title: Alamo
 url: /alamo/
-latitude: 37.850203300000004
-longitude: -122.032184
+latitude: 37.851
+longitude: -122.036
 ---

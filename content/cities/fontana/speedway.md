@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /fontana/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

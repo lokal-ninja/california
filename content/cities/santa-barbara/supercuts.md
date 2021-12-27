@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /santa-barbara/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

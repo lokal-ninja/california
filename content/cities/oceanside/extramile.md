@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
 url: /oceanside/extramile/
-shop: convenience
+shop: Lebensmittel
 ---

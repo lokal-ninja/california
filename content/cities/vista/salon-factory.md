@@ -1,5 +1,5 @@
 ---
 title: "Salon Factory"
 url: /vista/salon-factory/
-shop: furniture
+shop: Möbel
 ---

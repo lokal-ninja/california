@@ -1,5 +1,5 @@
 ---
 title: "Zion Market"
 url: /irvine/zion-market/
-shop: supermarket
+shop: Supermarkt
 ---

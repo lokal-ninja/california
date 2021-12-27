@@ -1,6 +1,6 @@
 ---
 title: Cerritos
 url: /cerritos/
-latitude: 33.8644291
-longitude: -118.05393230000001
+latitude: 33.869
+longitude: -118.058
 ---

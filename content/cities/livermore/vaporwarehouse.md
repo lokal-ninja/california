@@ -1,5 +1,5 @@
 ---
 title: "VaporWarehouse"
 url: /livermore/vaporwarehouse/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

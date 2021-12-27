@@ -1,5 +1,5 @@
 ---
 title: "Disney Dress Shoppe"
 url: /anaheim/disney-dress-shoppe/
-shop: clothes
+shop: Kleidung
 ---

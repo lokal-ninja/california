@@ -1,6 +1,6 @@
 ---
 title: Winters
 url: /winters/
-latitude: 38.5249065
-longitude: -121.97080170000001
+latitude: 38.522
+longitude: -121.968
 ---

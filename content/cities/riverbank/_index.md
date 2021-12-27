@@ -1,6 +1,6 @@
 ---
 title: Riverbank
 url: /riverbank/
-latitude: 37.736039600000005
-longitude: -120.9354895
+latitude: 37.738
+longitude: -120.939
 ---

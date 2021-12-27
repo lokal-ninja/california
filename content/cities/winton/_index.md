@@ -1,6 +1,6 @@
 ---
 title: Winton
 url: /winton/
-latitude: 37.389383
-longitude: -120.61325160000001
+latitude: 37.389
+longitude: -120.614
 ---

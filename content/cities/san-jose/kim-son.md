@@ -1,5 +1,5 @@
 ---
 title: "Kim Sơn"
 url: /san-jose/kim-son/
-shop: jewelry
+shop: Schmuck
 ---

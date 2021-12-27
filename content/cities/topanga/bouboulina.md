@@ -1,5 +1,5 @@
 ---
 title: "Bouboulina"
 url: /topanga/bouboulina/
-shop: clothes
+shop: Kleidung
 ---

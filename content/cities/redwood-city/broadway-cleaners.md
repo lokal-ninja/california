@@ -1,5 +1,5 @@
 ---
 title: "Broadway Cleaners"
 url: /redwood-city/broadway-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

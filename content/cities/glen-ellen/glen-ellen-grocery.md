@@ -1,5 +1,5 @@
 ---
 title: "Glen Ellen Grocery"
 url: /glen-ellen/glen-ellen-grocery/
-shop: supermarket
+shop: Supermarkt
 ---

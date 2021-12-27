@@ -1,6 +1,6 @@
 ---
 title: Squaw Valley
 url: /squaw-valley/
-latitude: 36.7402261
-longitude: -119.246785
+latitude: 36.755
+longitude: -119.172
 ---

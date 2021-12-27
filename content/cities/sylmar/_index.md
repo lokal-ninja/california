@@ -1,6 +1,6 @@
 ---
 title: Sylmar
 url: /sylmar/
-latitude: 34.307625200000004
-longitude: -118.44921480000001
+latitude: 34.324
+longitude: -118.46
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /grass-valley/great-clips/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,6 +1,6 @@
 ---
 title: Angels Camp
 url: /angels-camp/
-latitude: 38.0695732
-longitude: -120.5405039
+latitude: 38.079
+longitude: -120.556
 ---

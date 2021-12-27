@@ -1,6 +1,6 @@
 ---
 title: Big Bear City
 url: /big-bear-city/
-latitude: 34.2611183
-longitude: -116.84503000000001
+latitude: 34.261
+longitude: -116.85
 ---

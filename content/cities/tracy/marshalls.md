@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /tracy/marshalls/
-shop: department store
+shop: Warenhaus
 ---

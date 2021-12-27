@@ -1,5 +1,5 @@
 ---
 title: "Copy Express"
 url: /albany/copy-express/
-shop: copyshop
+shop: Kopieren
 ---

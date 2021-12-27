@@ -1,6 +1,6 @@
 ---
 title: Camarillo
 url: /camarillo/
-latitude: 34.217637100000005
-longitude: -119.0383541
+latitude: 34.216
+longitude: -119.039
 ---

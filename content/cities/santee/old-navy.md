@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
 url: /santee/old-navy/
-shop: clothes
+shop: Kleidung
 ---

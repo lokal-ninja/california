@@ -1,6 +1,6 @@
 ---
 title: Glendale
 url: /glendale/
-latitude: 40.8998507
-longitude: -124.0170056
+latitude: 34.128
+longitude: -118.255
 ---

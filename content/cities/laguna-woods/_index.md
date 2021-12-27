@@ -1,6 +1,6 @@
 ---
 title: Laguna Woods
 url: /laguna-woods/
-latitude: 33.6106076
-longitude: -117.72497220000001
+latitude: 33.61
+longitude: -117.723
 ---

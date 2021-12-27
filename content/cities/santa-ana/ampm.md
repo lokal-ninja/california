@@ -1,5 +1,5 @@
 ---
 title: "AMPM"
 url: /santa-ana/ampm/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Taj Threading"
 url: /aliso-viejo/taj-threading/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EddieWorld"
 url: /yermo/eddieworld/
-shop: convenience
+shop: Lebensmittel
 ---

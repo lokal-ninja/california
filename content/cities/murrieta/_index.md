@@ -1,6 +1,6 @@
 ---
 title: Murrieta
 url: /murrieta/
-latitude: 33.560832000000005
-longitude: -117.2106564
+latitude: 33.641
+longitude: -117.168
 ---

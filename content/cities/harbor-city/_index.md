@@ -1,6 +1,6 @@
 ---
 title: Harbor City
 url: /harbor-city/
-latitude: 33.7911012
-longitude: -118.3012604
+latitude: 33.79
+longitude: -118.297
 ---

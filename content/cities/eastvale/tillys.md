@@ -1,5 +1,5 @@
 ---
 title: "Tillys"
 url: /eastvale/tillys/
-shop: clothes
+shop: Kleidung
 ---

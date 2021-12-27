@@ -1,6 +1,6 @@
 ---
 title: Fair Oaks
 url: /fair-oaks/
-latitude: 37.9552017
-longitude: -121.25855670000001
+latitude: 38.639
+longitude: -121.274
 ---

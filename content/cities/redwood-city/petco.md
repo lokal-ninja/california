@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /redwood-city/petco/
-shop: pet
+shop: Tiere
 ---

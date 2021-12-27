@@ -1,5 +1,5 @@
 ---
 title: "Insane Audio"
 url: /june-lake/insane-audio/
-shop: radiotechnics
+shop: Radiotechnik
 ---

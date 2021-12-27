@@ -1,5 +1,5 @@
 ---
 title: "Sun Spring"
 url: /simi-valley/sun-spring/
-shop: massage
+shop: Massage
 ---

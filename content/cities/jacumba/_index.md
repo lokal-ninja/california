@@ -1,6 +1,6 @@
 ---
 title: Jacumba
 url: /jacumba/
-latitude: 
-longitude: 
+latitude: 32.635
+longitude: -116.167
 ---

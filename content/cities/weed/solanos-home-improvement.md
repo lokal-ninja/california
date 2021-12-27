@@ -1,5 +1,5 @@
 ---
 title: "Solano's Home Improvement"
 url: /weed/solanos-home-improvement/
-shop: hardware
+shop: Eisenwaren
 ---

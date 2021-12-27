@@ -1,5 +1,5 @@
 ---
 title: "Return Engagement Upscale"
 url: /atascadero/return-engagement-upscale/
-shop: furniture
+shop: Möbel
 ---

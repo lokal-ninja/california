@@ -1,6 +1,6 @@
 ---
 title: Millbrae
 url: /millbrae/
-latitude: 37.598958
-longitude: -122.400941
+latitude: 37.597
+longitude: -122.385
 ---

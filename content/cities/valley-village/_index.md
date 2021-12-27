@@ -1,6 +1,6 @@
 ---
 title: Valley Village
 url: /valley-village/
-latitude: 34.1637147
-longitude: -118.39657580000001
+latitude: 34.167
+longitude: -118.397
 ---

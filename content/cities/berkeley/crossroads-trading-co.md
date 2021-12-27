@@ -1,5 +1,5 @@
 ---
 title: "Crossroads Trading Co."
 url: /berkeley/crossroads-trading-co/
-shop: clothes
+shop: Kleidung
 ---

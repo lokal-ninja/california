@@ -1,5 +1,5 @@
 ---
 title: "BevMo!"
 url: /encinitas/bevmo/
-shop: alcohol
+shop: Spirituosen
 ---

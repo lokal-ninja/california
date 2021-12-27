@@ -1,6 +1,6 @@
 ---
 title: Westlake Village
 url: /westlake-village/
-latitude: 34.146023400000004
-longitude: -118.8061794
+latitude: 34.156
+longitude: -118.792
 ---

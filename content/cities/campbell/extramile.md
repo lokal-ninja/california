@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
 url: /campbell/extramile/
-shop: convenience
+shop: Lebensmittel
 ---

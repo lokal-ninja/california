@@ -1,6 +1,6 @@
 ---
 title: Anaheim
 url: /anaheim/
-latitude: 
-longitude: 
+latitude: 33.809
+longitude: -117.923
 ---

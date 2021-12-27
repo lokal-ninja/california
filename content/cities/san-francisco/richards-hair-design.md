@@ -1,5 +1,5 @@
 ---
 title: "Richard's Hair Design"
 url: /san-francisco/richards-hair-design/
-shop: hairdresser
+shop: Friseur
 ---

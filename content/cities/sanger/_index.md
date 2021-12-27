@@ -1,6 +1,6 @@
 ---
 title: Sanger
 url: /sanger/
-latitude: 36.708006000000005
-longitude: -119.5559652
+latitude: 36.706
+longitude: -119.578
 ---

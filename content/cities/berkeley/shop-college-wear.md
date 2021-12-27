@@ -1,5 +1,5 @@
 ---
 title: "Shop college wear"
 url: /berkeley/shop-college-wear/
-shop: clothes
+shop: Kleidung
 ---

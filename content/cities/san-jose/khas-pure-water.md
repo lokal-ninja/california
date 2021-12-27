@@ -1,5 +1,5 @@
 ---
 title: "Kha’s Pure Water"
 url: /san-jose/khas-pure-water/
-shop: water
+shop: Wasser
 ---

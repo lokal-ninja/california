@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /ceres/walmart/
-shop: supermarket
+shop: Supermarkt
 ---

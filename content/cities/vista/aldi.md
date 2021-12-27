@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /vista/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

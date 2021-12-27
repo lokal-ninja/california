@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /san-jose/rite-aid-3/
-shop: chemist
+shop: Drogerie
 ---

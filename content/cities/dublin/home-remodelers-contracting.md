@@ -1,5 +1,5 @@
 ---
 title: "Home Remodelers Contracting"
 url: /dublin/home-remodelers-contracting/
-shop: kitchen
+shop: Küchen
 ---

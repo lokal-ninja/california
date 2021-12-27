@@ -1,6 +1,6 @@
 ---
 title: Newport Beach
 url: /newport-beach/
-latitude: 
-longitude: 
+latitude: 33.612
+longitude: -117.929
 ---

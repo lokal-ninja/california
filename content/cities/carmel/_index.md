@@ -1,6 +1,6 @@
 ---
 title: Carmel
 url: /carmel/
-latitude: 
-longitude: 
+latitude: 36.538
+longitude: -121.909
 ---

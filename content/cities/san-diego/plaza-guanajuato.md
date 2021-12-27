@@ -1,5 +1,5 @@
 ---
 title: "Plaza Guanajuato"
 url: /san-diego/plaza-guanajuato/
-shop: variety store
+shop: Kramladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AAA"
 url: /berkeley/aaa/
-shop: shop
+shop: Allgemein
 ---

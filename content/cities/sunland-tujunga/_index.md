@@ -1,6 +1,6 @@
 ---
 title: Sunland-Tujunga
 url: /sunland-tujunga/
-latitude: 
-longitude: 
+latitude: 34.26
+longitude: -118.316
 ---

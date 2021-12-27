@@ -1,6 +1,6 @@
 ---
 title: Cloverdale
 url: /cloverdale/
-latitude: 40.4734843
-longitude: -122.4758441
+latitude: 38.784
+longitude: -123.013
 ---

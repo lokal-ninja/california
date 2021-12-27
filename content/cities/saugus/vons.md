@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /saugus/vons/
-shop: supermarket
+shop: Supermarkt
 ---

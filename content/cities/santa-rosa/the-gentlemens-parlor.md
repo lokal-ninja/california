@@ -1,5 +1,5 @@
 ---
 title: "The Gentlemen's Parlor"
 url: /santa-rosa/the-gentlemens-parlor/
-shop: hairdresser
+shop: Friseur
 ---

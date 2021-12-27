@@ -1,6 +1,6 @@
 ---
 title: Ceres
 url: /ceres/
-latitude: 37.5949316
-longitude: -120.9577098
+latitude: 37.606
+longitude: -120.937
 ---

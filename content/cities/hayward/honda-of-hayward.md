@@ -1,5 +1,5 @@
 ---
 title: "Honda of Hayward"
 url: /hayward/honda-of-hayward/
-shop: car
+shop: Autohaus
 ---

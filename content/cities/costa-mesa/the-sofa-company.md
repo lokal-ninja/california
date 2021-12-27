@@ -1,5 +1,5 @@
 ---
 title: "The Sofa Company"
 url: /costa-mesa/the-sofa-company/
-shop: furniture
+shop: Möbel
 ---

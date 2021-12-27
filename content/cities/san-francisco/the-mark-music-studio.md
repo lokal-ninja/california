@@ -1,5 +1,5 @@
 ---
 title: "The Mark Music Studio"
 url: /san-francisco/the-mark-music-studio/
-shop: musical instrument
+shop: Instrumente
 ---

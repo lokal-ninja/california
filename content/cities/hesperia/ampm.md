@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /hesperia/ampm/
-shop: convenience
+shop: Lebensmittel
 ---

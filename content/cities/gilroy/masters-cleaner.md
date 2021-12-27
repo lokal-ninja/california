@@ -1,5 +1,5 @@
 ---
 title: "Masters Cleaner"
 url: /gilroy/masters-cleaner/
-shop: laundry
+shop: Wäscherei
 ---

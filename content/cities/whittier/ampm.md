@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /whittier/ampm/
-shop: convenience
+shop: Lebensmittel
 ---

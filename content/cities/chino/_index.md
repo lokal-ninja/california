@@ -1,6 +1,6 @@
 ---
 title: Chino
 url: /chino/
-latitude: 34.0133561
-longitude: -117.69007500000001
+latitude: 34.034
+longitude: -117.715
 ---

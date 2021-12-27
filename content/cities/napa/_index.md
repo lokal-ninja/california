@@ -1,6 +1,6 @@
 ---
 title: Napa
 url: /napa/
-latitude: 38.4898675
-longitude: -122.32184140000001
+latitude: 38.324
+longitude: -122.286
 ---

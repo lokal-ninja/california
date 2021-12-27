@@ -1,6 +1,6 @@
 ---
 title: Wildomar
 url: /wildomar/
-latitude: 33.5939372
-longitude: -117.24149890000001
+latitude: 33.598
+longitude: -117.243
 ---

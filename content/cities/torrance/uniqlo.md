@@ -1,5 +1,5 @@
 ---
 title: "Uniqlo"
 url: /torrance/uniqlo/
-shop: clothes
+shop: Kleidung
 ---

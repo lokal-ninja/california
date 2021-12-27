@@ -1,5 +1,5 @@
 ---
 title: "Tibet Stars"
 url: /san-francisco/tibet-stars/
-shop: gift
+shop: Andenken
 ---

@@ -1,6 +1,6 @@
 ---
 title: Loomis
 url: /loomis/
-latitude: 38.8212889
-longitude: -121.19300410000001
+latitude: 38.818
+longitude: -121.22
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wishbone"
 url: /san-francisco/wishbone/
-shop: gift
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SaveMart"
 url: /oakdale/savemart/
-shop: supermarket
+shop: Supermarkt
 ---

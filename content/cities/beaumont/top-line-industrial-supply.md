@@ -1,5 +1,5 @@
 ---
 title: "Top-Line Industrial Supply"
 url: /beaumont/top-line-industrial-supply/
-shop: doityourself
+shop: Baumarkt
 ---

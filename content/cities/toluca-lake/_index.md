@@ -1,6 +1,6 @@
 ---
 title: Toluca Lake
 url: /toluca-lake/
-latitude: 
-longitude: 
+latitude: 34.152
+longitude: -118.352
 ---

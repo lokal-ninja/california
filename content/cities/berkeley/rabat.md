@@ -1,5 +1,5 @@
 ---
 title: "Rabat"
 url: /berkeley/rabat/
-shop: shoes
+shop: Schuhe
 ---

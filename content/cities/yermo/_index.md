@@ -1,6 +1,6 @@
 ---
 title: Yermo
 url: /yermo/
-latitude: 34.9049849
-longitude: -116.820312
+latitude: 34.908
+longitude: -116.835
 ---

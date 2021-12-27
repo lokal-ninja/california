@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /redding/ampm-3/
-shop: convenience
+shop: Lebensmittel
 ---

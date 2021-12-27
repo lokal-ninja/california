@@ -1,5 +1,5 @@
 ---
 title: "Tina Nails"
 url: /orinda/tina-nails/
-shop: beauty
+shop: Kosmetik
 ---

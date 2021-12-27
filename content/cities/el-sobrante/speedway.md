@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /el-sobrante/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

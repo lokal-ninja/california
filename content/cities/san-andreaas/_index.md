@@ -1,6 +1,6 @@
 ---
 title: San Andreaas
 url: /san-andreaas/
-latitude: 
-longitude: 
+latitude: 38.186
+longitude: -120.67
 ---

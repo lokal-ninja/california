@@ -1,6 +1,6 @@
 ---
 title: Encinitas
 url: /encinitas/
-latitude: 33.0369867
-longitude: -117.2919818
+latitude: 33.04
+longitude: -117.293
 ---

@@ -1,6 +1,6 @@
 ---
 title: San Diego
 url: /san-diego/
-latitude: 
-longitude: 
+latitude: 32.865
+longitude: -117.231
 ---

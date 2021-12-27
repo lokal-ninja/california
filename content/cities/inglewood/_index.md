@@ -1,6 +1,6 @@
 ---
 title: Inglewood
 url: /inglewood/
-latitude: 33.9562003
-longitude: -118.353132
+latitude: 33.962
+longitude: -118.352
 ---

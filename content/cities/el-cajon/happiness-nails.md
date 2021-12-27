@@ -1,5 +1,5 @@
 ---
 title: "Happiness Nails"
 url: /el-cajon/happiness-nails/
-shop: beauty
+shop: Kosmetik
 ---

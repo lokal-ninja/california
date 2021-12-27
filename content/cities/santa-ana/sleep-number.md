@@ -1,5 +1,5 @@
 ---
 title: "Sleep Number"
 url: /santa-ana/sleep-number/
-shop: bed
+shop: Betten
 ---

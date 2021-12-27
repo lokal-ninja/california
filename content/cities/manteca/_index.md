@@ -1,6 +1,6 @@
 ---
 title: Manteca
 url: /manteca/
-latitude: 37.7986184
-longitude: -121.21171480000001
+latitude: 37.798
+longitude: -121.204
 ---

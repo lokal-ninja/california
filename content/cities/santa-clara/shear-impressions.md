@@ -1,5 +1,5 @@
 ---
 title: "Shear Impressions"
 url: /santa-clara/shear-impressions/
-shop: hairdresser
+shop: Friseur
 ---

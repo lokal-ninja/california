@@ -1,6 +1,6 @@
 ---
 title: Rosamond
 url: /rosamond/
-latitude: 34.8641446
-longitude: -118.1634075
+latitude: 34.861
+longitude: -118.161
 ---

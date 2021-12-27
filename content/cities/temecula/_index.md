@@ -1,6 +1,6 @@
 ---
 title: Temecula
 url: /temecula/
-latitude: 33.4946353
-longitude: -117.14736610000001
+latitude: 33.524
+longitude: -117.15
 ---

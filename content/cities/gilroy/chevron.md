@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /gilroy/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pet Food Express"
 url: /san-francisco/pet-food-express/
-shop: pet
+shop: Tiere
 ---

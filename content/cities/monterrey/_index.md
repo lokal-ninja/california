@@ -1,6 +1,6 @@
 ---
 title: Monterrey
 url: /monterrey/
-latitude: 
-longitude: 
+latitude: 32.982
+longitude: -117.177
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cleanerss"
 url: /sacramento/cleanerss/
-shop: laundry
+shop: Wäscherei
 ---

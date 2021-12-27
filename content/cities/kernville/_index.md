@@ -1,6 +1,6 @@
 ---
 title: Kernville
 url: /kernville/
-latitude: 
-longitude: 
+latitude: 35.753
+longitude: -118.425
 ---

@@ -1,6 +1,6 @@
 ---
 title: San Leandro
 url: /san-leandro/
-latitude: 37.7249296
-longitude: -122.15607680000001
+latitude: 37.7
+longitude: -122.142
 ---

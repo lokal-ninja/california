@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /daly-city/claires/
-shop: shop
+shop: Allgemein
 ---

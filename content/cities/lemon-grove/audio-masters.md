@@ -1,5 +1,5 @@
 ---
 title: "Audio Masters"
 url: /lemon-grove/audio-masters/
-shop: electronics
+shop: Elektronik
 ---

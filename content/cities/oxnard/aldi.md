@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /oxnard/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

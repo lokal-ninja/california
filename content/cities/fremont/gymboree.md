@@ -1,5 +1,5 @@
 ---
 title: "Gymboree"
 url: /fremont/gymboree/
-shop: clothes
+shop: Kleidung
 ---

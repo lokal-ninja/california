@@ -1,6 +1,6 @@
 ---
 title: Antelope
 url: /antelope/
-latitude: 38.7082357
-longitude: -121.3299513
+latitude: 38.716
+longitude: -121.368
 ---

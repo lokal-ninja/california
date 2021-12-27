@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /ventura/firestone/
-shop: car repair
+shop: Autowerkstatt
 ---

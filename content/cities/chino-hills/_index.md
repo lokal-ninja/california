@@ -1,6 +1,6 @@
 ---
 title: Chino Hills
 url: /chino-hills/
-latitude: 33.9926803
-longitude: -117.760056
+latitude: 33.963
+longitude: -117.696
 ---

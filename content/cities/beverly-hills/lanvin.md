@@ -1,5 +1,5 @@
 ---
 title: "Lanvin"
 url: /beverly-hills/lanvin/
-shop: clothes
+shop: Kleidung
 ---

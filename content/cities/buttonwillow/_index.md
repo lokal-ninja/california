@@ -1,6 +1,6 @@
 ---
 title: Buttonwillow
 url: /buttonwillow/
-latitude: 35.3997369
-longitude: -119.4741041
+latitude: 35.403
+longitude: -119.399
 ---

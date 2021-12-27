@@ -1,5 +1,5 @@
 ---
 title: "Laundromat"
 url: /loyalton/laundromat/
-shop: laundry
+shop: Wäscherei
 ---

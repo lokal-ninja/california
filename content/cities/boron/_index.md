@@ -1,6 +1,6 @@
 ---
 title: Boron
 url: /boron/
-latitude: 
-longitude: 
+latitude: 35
+longitude: -117.657
 ---

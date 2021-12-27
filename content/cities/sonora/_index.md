@@ -1,6 +1,6 @@
 ---
 title: Sonora
 url: /sonora/
-latitude: 37.9840911
-longitude: -120.3821381
+latitude: 37.972
+longitude: -120.367
 ---

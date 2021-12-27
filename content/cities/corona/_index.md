@@ -1,6 +1,6 @@
 ---
 title: Corona
 url: /corona/
-latitude: 33.8752945
-longitude: -117.56644490000001
+latitude: 33.823
+longitude: -117.518
 ---

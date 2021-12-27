@@ -1,6 +1,6 @@
 ---
 title: VALLEY SPRINGS
 url: /valley-springs/
-latitude: 
-longitude: 
+latitude: 38.189
+longitude: -120.827
 ---

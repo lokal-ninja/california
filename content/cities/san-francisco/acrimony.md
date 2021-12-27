@@ -1,5 +1,5 @@
 ---
 title: "Acrimony"
 url: /san-francisco/acrimony/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Toyota Lexus Auto Service"
 url: /campbell/toyota-lexus-auto-service/
-shop: car repair
+shop: Autowerkstatt
 ---

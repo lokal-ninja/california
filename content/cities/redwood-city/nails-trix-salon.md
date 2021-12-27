@@ -1,5 +1,5 @@
 ---
 title: "Nails Trix Salon"
 url: /redwood-city/nails-trix-salon/
-shop: beauty
+shop: Kosmetik
 ---

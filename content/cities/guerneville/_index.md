@@ -1,6 +1,6 @@
 ---
 title: Guerneville
 url: /guerneville/
-latitude: 38.5017085
-longitude: -122.99591330000001
+latitude: 38.502
+longitude: -122.999
 ---

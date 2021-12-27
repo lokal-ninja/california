@@ -1,6 +1,6 @@
 ---
 title: Greenview
 url: /greenview/
-latitude: 41.550693700000004
-longitude: -122.905589
+latitude: 41.551
+longitude: -122.902
 ---

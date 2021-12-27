@@ -1,5 +1,5 @@
 ---
 title: "Country Roads Antiques"
 url: /orange/country-roads-antiques/
-shop: antiques
+shop: Antiquitäten
 ---

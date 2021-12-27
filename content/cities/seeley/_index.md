@@ -1,6 +1,6 @@
 ---
 title: Seeley
 url: /seeley/
-latitude: 32.7939857
-longitude: -115.69072600000001
+latitude: 32.791
+longitude: -115.691
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Magnani"
 url: /berkeley/magnani/
-shop: butcher
+shop: Metzgerei
 ---

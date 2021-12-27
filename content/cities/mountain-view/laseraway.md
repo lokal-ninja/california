@@ -1,5 +1,5 @@
 ---
 title: "LaserAway"
 url: /mountain-view/laseraway/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BCBG Maxazria"
 url: /west-hollywood/bcbg-maxazria/
-shop: clothes
+shop: Kleidung
 ---

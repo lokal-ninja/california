@@ -1,6 +1,6 @@
 ---
 title: Thermal
 url: /thermal/
-latitude: 33.640301300000004
-longitude: -116.1394485
+latitude: 33.644
+longitude: -116.181
 ---

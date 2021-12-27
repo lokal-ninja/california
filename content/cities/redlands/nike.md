@@ -1,5 +1,5 @@
 ---
 title: "Nike"
 url: /redlands/nike/
-shop: clothes
+shop: Kleidung
 ---

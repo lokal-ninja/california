@@ -1,5 +1,5 @@
 ---
 title: "Corked"
 url: /long-beach/corked/
-shop: alcohol
+shop: Spirituosen
 ---

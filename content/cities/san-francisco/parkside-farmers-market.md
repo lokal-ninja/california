@@ -1,5 +1,5 @@
 ---
 title: "Parkside Farmers Market"
 url: /san-francisco/parkside-farmers-market/
-shop: supermarket
+shop: Supermarkt
 ---

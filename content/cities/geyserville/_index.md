@@ -1,6 +1,6 @@
 ---
 title: Geyserville
 url: /geyserville/
-latitude: 38.707687
-longitude: -122.9024964
+latitude: 38.706
+longitude: -122.904
 ---

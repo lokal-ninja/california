@@ -1,5 +1,5 @@
 ---
 title: "One Half"
 url: /san-francisco/one-half/
-shop: boutique
+shop: Modehaus
 ---

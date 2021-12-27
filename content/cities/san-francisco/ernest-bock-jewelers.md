@@ -1,5 +1,5 @@
 ---
 title: "Ernest Bock Jewelers"
 url: /san-francisco/ernest-bock-jewelers/
-shop: jewelry
+shop: Schmuck
 ---

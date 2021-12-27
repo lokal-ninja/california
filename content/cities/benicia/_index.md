@@ -1,6 +1,6 @@
 ---
 title: Benicia
 url: /benicia/
-latitude: 38.049365
-longitude: -122.15857770000001
+latitude: 38.067
+longitude: -122.168
 ---

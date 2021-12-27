@@ -1,5 +1,5 @@
 ---
 title: "Tackle Express"
 url: /santa-clarita/tackle-express/
-shop: sports
+shop: Sport
 ---

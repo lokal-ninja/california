@@ -1,5 +1,5 @@
 ---
 title: "Oliver's Market"
 url: /santa-rosa/olivers-market/
-shop: supermarket
+shop: Supermarkt
 ---

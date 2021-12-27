@@ -1,5 +1,5 @@
 ---
 title: "Ecco"
 url: /santa-clara/ecco/
-shop: shoes
+shop: Schuhe
 ---

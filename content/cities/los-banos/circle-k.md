@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /los-banos/circle-k/
-shop: supermarket
+shop: Supermarkt
 ---

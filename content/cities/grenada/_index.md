@@ -1,6 +1,6 @@
 ---
 title: Grenada
 url: /grenada/
-latitude: 
-longitude: 
+latitude: 41.646
+longitude: -122.538
 ---

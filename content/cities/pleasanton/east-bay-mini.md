@@ -1,5 +1,5 @@
 ---
 title: "East Bay Mini"
 url: /pleasanton/east-bay-mini/
-shop: car
+shop: Autohaus
 ---

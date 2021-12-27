@@ -1,5 +1,5 @@
 ---
 title: "Love at First Bite"
 url: /berkeley/love-at-first-bite/
-shop: bakery
+shop: Bäckerei
 ---

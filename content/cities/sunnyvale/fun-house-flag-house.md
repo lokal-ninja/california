@@ -1,5 +1,5 @@
 ---
 title: "Fun House;Flag House"
 url: /sunnyvale/fun-house-flag-house/
-shop: party
+shop: Partyzubehör
 ---

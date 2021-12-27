@@ -1,5 +1,5 @@
 ---
 title: "PostalAnnex"
 url: /indio/postalannex/
-shop: shop
+shop: Allgemein
 ---

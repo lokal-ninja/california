@@ -1,6 +1,6 @@
 ---
 title: La Costa
 url: /la-costa/
-latitude: 
-longitude: 
+latitude: 33.075
+longitude: -117.239
 ---

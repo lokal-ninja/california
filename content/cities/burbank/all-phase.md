@@ -1,5 +1,5 @@
 ---
 title: "All-Phase"
 url: /burbank/all-phase/
-shop: electronics
+shop: Elektronik
 ---

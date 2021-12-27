@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /emeryville/ikea/
-shop: furniture
+shop: Möbel
 ---

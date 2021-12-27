@@ -1,5 +1,5 @@
 ---
 title: "Solemates"
 url: /berkeley/solemates/
-shop: beauty
+shop: Kosmetik
 ---

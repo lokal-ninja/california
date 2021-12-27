@@ -1,6 +1,6 @@
 ---
 title: Valle Vista
 url: /valle-vista/
-latitude: 33.747798100000004
-longitude: -116.89335550000001
+latitude: 33.746
+longitude: -116.866
 ---

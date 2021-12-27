@@ -1,5 +1,5 @@
 ---
 title: "Pompei Nursery"
 url: /oakley/pompei-nursery/
-shop: garden centre
+shop: Garten-Center
 ---

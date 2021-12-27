@@ -1,6 +1,6 @@
 ---
 title: Big Bear Lake
 url: /big-bear-lake/
-latitude: 34.244058700000004
-longitude: -116.9101808
+latitude: 34.242
+longitude: -116.911
 ---

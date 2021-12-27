@@ -1,6 +1,6 @@
 ---
 title: Orcutt
 url: /orcutt/
-latitude: 
-longitude: 
+latitude: 34.865
+longitude: -120.447
 ---

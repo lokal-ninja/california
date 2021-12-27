@@ -1,5 +1,5 @@
 ---
 title: "Ideal Cleaner"
 url: /santa-clara/ideal-cleaner/
-shop: laundry
+shop: Wäscherei
 ---

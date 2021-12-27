@@ -1,5 +1,5 @@
 ---
 title: "Taylor Street Market"
 url: /san-jose/taylor-street-market/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DocuStation"
 url: /eureka/docustation/
-shop: copyshop
+shop: Kopieren
 ---

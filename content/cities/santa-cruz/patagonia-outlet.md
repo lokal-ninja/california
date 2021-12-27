@@ -1,5 +1,5 @@
 ---
 title: "Patagonia Outlet"
 url: /santa-cruz/patagonia-outlet/
-shop: outdoor
+shop: Outdoor
 ---

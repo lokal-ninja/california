@@ -1,5 +1,5 @@
 ---
 title: "Shear Delight"
 url: /sonoma/shear-delight/
-shop: hairdresser
+shop: Friseur
 ---

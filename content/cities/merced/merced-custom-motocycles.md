@@ -1,5 +1,5 @@
 ---
 title: "Merced Custom Motocycles"
 url: /merced/merced-custom-motocycles/
-shop: motorcycle
+shop: Motorrad
 ---

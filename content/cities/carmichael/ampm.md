@@ -1,5 +1,5 @@
 ---
 title: "AMPM"
 url: /carmichael/ampm/
-shop: convenience
+shop: Lebensmittel
 ---

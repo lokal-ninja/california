@@ -1,6 +1,6 @@
 ---
 title: Baldwin Park
 url: /baldwin-park/
-latitude: 34.085473900000004
-longitude: -117.9611761
+latitude: 34.08
+longitude: -117.952
 ---

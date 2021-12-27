@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /orinda/rite-aid/
-shop: chemist
+shop: Drogerie
 ---

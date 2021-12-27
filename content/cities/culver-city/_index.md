@@ -1,6 +1,6 @@
 ---
 title: Culver City
 url: /culver-city/
-latitude: 34.0211224
-longitude: -118.396466
+latitude: 33.984
+longitude: -118.393
 ---

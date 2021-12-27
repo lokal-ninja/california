@@ -1,5 +1,5 @@
 ---
 title: "Tumi"
 url: /carlsbad/tumi/
-shop: bag
+shop: Taschen & Koffer
 ---

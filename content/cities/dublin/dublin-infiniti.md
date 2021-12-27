@@ -1,5 +1,5 @@
 ---
 title: "Dublin Infiniti"
 url: /dublin/dublin-infiniti/
-shop: car
+shop: Autohaus
 ---

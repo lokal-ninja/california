@@ -1,6 +1,6 @@
 ---
 title: Fontana
 url: /fontana/
-latitude: 34.0922335
-longitude: -117.43504800000001
+latitude: 34.138
+longitude: -117.435
 ---

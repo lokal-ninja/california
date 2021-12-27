@@ -1,6 +1,6 @@
 ---
 title: Belden
 url: /belden/
-latitude: 40.0059971
-longitude: -121.24913160000001
+latitude: 40.015
+longitude: -121.225
 ---

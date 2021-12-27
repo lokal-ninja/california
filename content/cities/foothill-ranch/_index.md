@@ -1,6 +1,6 @@
 ---
 title: Foothill Ranch
 url: /foothill-ranch/
-latitude: 33.6837644
-longitude: -117.662249
+latitude: 33.671
+longitude: -117.653
 ---

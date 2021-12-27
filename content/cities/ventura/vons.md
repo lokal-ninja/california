@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /ventura/vons/
-shop: supermarket
+shop: Supermarkt
 ---

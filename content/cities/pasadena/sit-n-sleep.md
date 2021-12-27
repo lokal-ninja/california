@@ -1,5 +1,5 @@
 ---
 title: "Sit 'n Sleep"
 url: /pasadena/sit-n-sleep/
-shop: furniture
+shop: Möbel
 ---

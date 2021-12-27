@@ -1,5 +1,5 @@
 ---
 title: "PotStop"
 url: /moss-landing/potstop/
-shop: pottery
+shop: Töpferei
 ---

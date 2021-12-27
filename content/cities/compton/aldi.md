@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /compton/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Capitol ampm"
 url: /san-jose/capitol-ampm/
-shop: convenience
+shop: Lebensmittel
 ---

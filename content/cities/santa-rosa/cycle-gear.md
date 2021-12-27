@@ -1,5 +1,5 @@
 ---
 title: "Cycle Gear"
 url: /santa-rosa/cycle-gear/
-shop: motorcycle
+shop: Motorrad
 ---

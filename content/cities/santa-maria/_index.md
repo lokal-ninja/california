@@ -1,6 +1,6 @@
 ---
 title: Santa Maria
 url: /santa-maria/
-latitude: 34.9531295
-longitude: -120.43585770000001
+latitude: 34.948
+longitude: -120.453
 ---

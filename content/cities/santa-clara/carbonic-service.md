@@ -1,5 +1,5 @@
 ---
 title: "Carbonic Service"
 url: /santa-clara/carbonic-service/
-shop: shop
+shop: Allgemein
 ---

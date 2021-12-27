@@ -1,6 +1,6 @@
 ---
 title: CA
 url: /ca/
-latitude: 
-longitude: 
+latitude: 32.808
+longitude: -116.953
 ---

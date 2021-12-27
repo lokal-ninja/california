@@ -1,5 +1,5 @@
 ---
 title: "Orick Market"
 url: /orick/orick-market/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Weaverville
 url: /weaverville/
-latitude: 40.730958300000005
-longitude: -122.9390168
+latitude: 40.745
+longitude: -122.919
 ---

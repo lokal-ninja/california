@@ -1,6 +1,6 @@
 ---
 title: Sonoma
 url: /sonoma/
-latitude: 38.5110803
-longitude: -122.8473388
+latitude: 38.276
+longitude: -122.415
 ---

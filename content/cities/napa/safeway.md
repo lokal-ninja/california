@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /napa/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

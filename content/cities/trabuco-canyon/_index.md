@@ -1,6 +1,6 @@
 ---
 title: Trabuco Canyon
 url: /trabuco-canyon/
-latitude: 33.6626232
-longitude: -117.58938
+latitude: 33.649
+longitude: -117.577
 ---

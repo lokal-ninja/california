@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /costa-mesa/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

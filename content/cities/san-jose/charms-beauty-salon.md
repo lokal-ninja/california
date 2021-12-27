@@ -1,5 +1,5 @@
 ---
 title: "Charm’s Beauty Salon"
 url: /san-jose/charms-beauty-salon/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ultra Beauty"
 url: /san-clemente/ultra-beauty/
-shop: beauty
+shop: Kosmetik
 ---

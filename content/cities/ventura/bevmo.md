@@ -1,5 +1,5 @@
 ---
 title: "BevMo!"
 url: /ventura/bevmo/
-shop: alcohol
+shop: Spirituosen
 ---

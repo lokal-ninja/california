@@ -1,5 +1,5 @@
 ---
 title: "Kmart"
 url: /costa-mesa/kmart/
-shop: department store
+shop: Warenhaus
 ---

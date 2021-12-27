@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /san-leandro/valero/
-shop: convenience
+shop: Lebensmittel
 ---

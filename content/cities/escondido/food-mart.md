@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
 url: /escondido/food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

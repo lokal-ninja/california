@@ -1,5 +1,5 @@
 ---
 title: "Perfect Nails"
 url: /los-gatos/perfect-nails/
-shop: beauty
+shop: Kosmetik
 ---

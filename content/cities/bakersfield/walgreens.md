@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /bakersfield/walgreens/
-shop: chemist
+shop: Drogerie
 ---

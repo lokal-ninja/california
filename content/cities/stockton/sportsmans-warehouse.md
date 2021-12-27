@@ -1,5 +1,5 @@
 ---
 title: "Sportsman's Warehouse"
 url: /stockton/sportsmans-warehouse/
-shop: outdoor
+shop: Outdoor
 ---

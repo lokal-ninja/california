@@ -1,5 +1,5 @@
 ---
 title: "Gold Tree Bakery"
 url: /san-jose/gold-tree-bakery/
-shop: bakery
+shop: Bäckerei
 ---

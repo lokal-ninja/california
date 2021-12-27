@@ -1,5 +1,5 @@
 ---
 title: "Sports Headquarters"
 url: /san-diego/sports-headquarters/
-shop: sports
+shop: Sport
 ---

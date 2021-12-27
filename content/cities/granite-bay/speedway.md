@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /granite-bay/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

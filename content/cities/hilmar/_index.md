@@ -1,6 +1,6 @@
 ---
 title: Hilmar
 url: /hilmar/
-latitude: 37.4085479
-longitude: -120.8502035
+latitude: 37.406
+longitude: -120.851
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Century Pure Water"
 url: /san-jose/century-pure-water/
-shop: water
+shop: Wasser
 ---

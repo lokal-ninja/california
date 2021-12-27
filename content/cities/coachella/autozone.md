@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /coachella/autozone/
-shop: car parts
+shop: Autoteile
 ---

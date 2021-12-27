@@ -1,6 +1,6 @@
 ---
 title: Roseville
 url: /roseville/
-latitude: 32.730922
-longitude: -117.22710850000001
+latitude: 38.79
+longitude: -121.28
 ---

@@ -1,6 +1,6 @@
 ---
 title: Merced
 url: /merced/
-latitude: 37.302956800000004
-longitude: -120.48432690000001
+latitude: 37.331
+longitude: -120.528
 ---

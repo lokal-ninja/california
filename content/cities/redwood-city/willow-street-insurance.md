@@ -1,5 +1,5 @@
 ---
 title: "Willow Street Insurance"
 url: /redwood-city/willow-street-insurance/
-shop: shop
+shop: Allgemein
 ---

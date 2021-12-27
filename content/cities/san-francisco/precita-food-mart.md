@@ -1,5 +1,5 @@
 ---
 title: "Precita Food Mart"
 url: /san-francisco/precita-food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

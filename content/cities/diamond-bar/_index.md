@@ -1,6 +1,6 @@
 ---
 title: Diamond Bar
 url: /diamond-bar/
-latitude: 34.028622600000006
-longitude: -117.81033670000001
+latitude: 34.002
+longitude: -117.811
 ---

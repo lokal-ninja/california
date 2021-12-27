@@ -1,6 +1,6 @@
 ---
 title: San Ysidro
 url: /san-ysidro/
-latitude: 32.5520013
-longitude: -117.04308130000001
+latitude: 32.555
+longitude: -117.051
 ---

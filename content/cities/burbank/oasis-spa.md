@@ -1,5 +1,5 @@
 ---
 title: "Oasis Spa"
 url: /burbank/oasis-spa/
-shop: beauty
+shop: Kosmetik
 ---

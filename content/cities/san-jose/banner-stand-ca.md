@@ -1,5 +1,5 @@
 ---
 title: "Banner Stand CA"
 url: /san-jose/banner-stand-ca/
-shop: copyshop
+shop: Kopieren
 ---

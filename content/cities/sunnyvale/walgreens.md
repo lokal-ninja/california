@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /sunnyvale/walgreens/
-shop: chemist
+shop: Drogerie
 ---

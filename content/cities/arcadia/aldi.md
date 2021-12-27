@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /arcadia/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

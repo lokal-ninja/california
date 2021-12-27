@@ -1,6 +1,6 @@
 ---
 title: Grover Beach
 url: /grover-beach/
-latitude: 35.1209452
-longitude: -120.62183700000001
+latitude: 35.121
+longitude: -120.614
 ---

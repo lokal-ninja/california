@@ -1,5 +1,5 @@
 ---
 title: "Loft"
 url: /tustin/loft/
-shop: clothes
+shop: Kleidung
 ---

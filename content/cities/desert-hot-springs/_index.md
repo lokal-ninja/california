@@ -1,6 +1,6 @@
 ---
 title: Desert Hot Springs
 url: /desert-hot-springs/
-latitude: 33.961124000000005
-longitude: -116.5016784
+latitude: 33.945
+longitude: -116.526
 ---

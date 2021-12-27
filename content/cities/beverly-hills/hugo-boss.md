@@ -1,5 +1,5 @@
 ---
 title: "Hugo Boss"
 url: /beverly-hills/hugo-boss/
-shop: clothes
+shop: Kleidung
 ---

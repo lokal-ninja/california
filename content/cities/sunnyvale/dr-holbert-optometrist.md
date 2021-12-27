@@ -1,5 +1,5 @@
 ---
 title: "Dr. Holbert Optometrist"
 url: /sunnyvale/dr-holbert-optometrist/
-shop: optician
+shop: Optiker
 ---

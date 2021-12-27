@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /el-centro/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Agua Dulce
 url: /agua-dulce/
-latitude: 34.4963817
-longitude: -118.3256348
+latitude: 34.519
+longitude: -118.302
 ---

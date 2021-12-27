@@ -1,5 +1,5 @@
 ---
 title: "Fidelina’s"
 url: /gilroy/fidelinas/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Zenia
 url: /zenia/
-latitude: 40.2054245
-longitude: -123.49197160000001
+latitude: 40.205
+longitude: -123.492
 ---

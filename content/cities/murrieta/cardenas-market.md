@@ -1,5 +1,5 @@
 ---
 title: "Cardenas Market"
 url: /murrieta/cardenas-market/
-shop: supermarket
+shop: Supermarkt
 ---

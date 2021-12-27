@@ -1,5 +1,5 @@
 ---
 title: "Village Candy Kitchen"
 url: /redlands/village-candy-kitchen/
-shop: confectionery
+shop: Süßwaren
 ---

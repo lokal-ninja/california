@@ -1,6 +1,6 @@
 ---
 title: Tiburon
 url: /tiburon/
-latitude: 37.8844389
-longitude: -122.454565
+latitude: 37.899
+longitude: -122.5
 ---

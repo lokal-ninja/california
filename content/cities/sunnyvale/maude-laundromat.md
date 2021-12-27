@@ -1,5 +1,5 @@
 ---
 title: "Maude Laundromat"
 url: /sunnyvale/maude-laundromat/
-shop: laundry
+shop: Wäscherei
 ---

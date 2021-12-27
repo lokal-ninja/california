@@ -1,5 +1,5 @@
 ---
 title: "MotoXotica"
 url: /vacaville/motoxotica/
-shop: motorcycle
+shop: Motorrad
 ---

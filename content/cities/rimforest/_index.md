@@ -1,6 +1,6 @@
 ---
 title: Rimforest
 url: /rimforest/
-latitude: 34.2297292
-longitude: -117.22504190000001
+latitude: 34.23
+longitude: -117.224
 ---

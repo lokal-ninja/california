@@ -1,5 +1,5 @@
 ---
 title: "Bump Wine Cellars"
 url: /sonoma/bump-wine-cellars/
-shop: alcohol
+shop: Spirituosen
 ---

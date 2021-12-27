@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /irvine/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

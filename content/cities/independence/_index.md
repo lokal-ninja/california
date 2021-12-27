@@ -1,6 +1,6 @@
 ---
 title: Independence
 url: /independence/
-latitude: 36.8025065
-longitude: -118.1997182
+latitude: 36.8
+longitude: -118.198
 ---

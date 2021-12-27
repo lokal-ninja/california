@@ -1,6 +1,6 @@
 ---
 title: Union City
 url: /union-city/
-latitude: 37.5963232
-longitude: -122.08162970000001
+latitude: 37.598
+longitude: -122.069
 ---

@@ -1,6 +1,6 @@
 ---
 title: LAKE BALBOA
 url: /lake-balboa/
-latitude: 
-longitude: 
+latitude: 34.2
+longitude: -118.494
 ---

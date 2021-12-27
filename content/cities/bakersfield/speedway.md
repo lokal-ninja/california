@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /bakersfield/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

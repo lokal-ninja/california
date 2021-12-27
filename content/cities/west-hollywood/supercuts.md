@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /west-hollywood/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

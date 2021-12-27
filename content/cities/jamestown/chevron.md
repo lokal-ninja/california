@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /jamestown/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maxim Market"
 url: /san-jose/maxim-market-2/
-shop: supermarket
+shop: Supermarkt
 ---

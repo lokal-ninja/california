@@ -1,6 +1,6 @@
 ---
 title: Marina
 url: /marina/
-latitude: 36.6844029
-longitude: -121.80217300000001
+latitude: 36.693
+longitude: -121.801
 ---

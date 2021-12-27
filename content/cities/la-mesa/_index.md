@@ -1,6 +1,6 @@
 ---
 title: La Mesa
 url: /la-mesa/
-latitude: 32.767828800000004
-longitude: -117.0230839
+latitude: 32.772
+longitude: -117.006
 ---

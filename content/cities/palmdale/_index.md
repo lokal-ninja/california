@@ -1,6 +1,6 @@
 ---
 title: Palmdale
 url: /palmdale/
-latitude: 34.5793131
-longitude: -118.1171108
+latitude: 34.602
+longitude: -118.15
 ---

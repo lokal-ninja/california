@@ -1,5 +1,5 @@
 ---
 title: "Shred Nations"
 url: /san-jose/shred-nations/
-shop: copyshop
+shop: Kopieren
 ---

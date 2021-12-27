@@ -1,5 +1,5 @@
 ---
 title: "Del'Oliva"
 url: /burlingame/deloliva/
-shop: deli
+shop: Feinkost
 ---

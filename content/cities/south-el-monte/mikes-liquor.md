@@ -1,5 +1,5 @@
 ---
 title: "Mike's Liquor"
 url: /south-el-monte/mikes-liquor/
-shop: alcohol
+shop: Spirituosen
 ---

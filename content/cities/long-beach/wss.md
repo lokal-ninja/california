@@ -1,5 +1,5 @@
 ---
 title: "WSS"
 url: /long-beach/wss/
-shop: shoes
+shop: Schuhe
 ---

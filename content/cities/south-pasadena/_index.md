@@ -1,6 +1,6 @@
 ---
 title: South Pasadena
 url: /south-pasadena/
-latitude: 34.113306200000004
-longitude: -118.14782910000001
+latitude: 34.116
+longitude: -118.157
 ---

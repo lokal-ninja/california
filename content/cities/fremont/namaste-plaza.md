@@ -1,5 +1,5 @@
 ---
 title: "Namaste Plaza"
 url: /fremont/namaste-plaza/
-shop: supermarket
+shop: Supermarkt
 ---

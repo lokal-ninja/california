@@ -1,5 +1,5 @@
 ---
 title: "theDAPPERY"
 url: /san-leandro/thedappery/
-shop: hairdresser
+shop: Friseur
 ---

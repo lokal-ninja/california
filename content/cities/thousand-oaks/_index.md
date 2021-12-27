@@ -1,6 +1,6 @@
 ---
 title: Thousand Oaks
 url: /thousand-oaks/
-latitude: 37.8953226
-longitude: -122.2814103
+latitude: 34.188
+longitude: -118.873
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Justtix"
 url: /danville/justtix/
-shop: ticket
+shop: Tickets
 ---

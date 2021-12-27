@@ -1,6 +1,6 @@
 ---
 title: El Cajon
 url: /el-cajon/
-latitude: 32.7947731
-longitude: -116.96252600000001
+latitude: 32.739
+longitude: -116.938
 ---

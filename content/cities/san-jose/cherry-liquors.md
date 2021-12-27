@@ -1,5 +1,5 @@
 ---
 title: "Cherry Liquors"
 url: /san-jose/cherry-liquors/
-shop: alcohol
+shop: Spirituosen
 ---

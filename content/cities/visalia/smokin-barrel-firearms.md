@@ -1,5 +1,5 @@
 ---
 title: "Smokin' Barrel Firearms"
 url: /visalia/smokin-barrel-firearms/
-shop: weapons
+shop: Waffen
 ---

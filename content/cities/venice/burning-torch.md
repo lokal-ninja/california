@@ -1,5 +1,5 @@
 ---
 title: "Burning torch"
 url: /venice/burning-torch/
-shop: clothes
+shop: Kleidung
 ---

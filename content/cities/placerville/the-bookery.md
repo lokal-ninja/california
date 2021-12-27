@@ -1,5 +1,5 @@
 ---
 title: "The Bookery"
 url: /placerville/the-bookery/
-shop: books
+shop: Bücher
 ---

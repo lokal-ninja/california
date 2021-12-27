@@ -1,6 +1,6 @@
 ---
 title: Portola Valley
 url: /portola-valley/
-latitude: 37.3736298
-longitude: -122.219047
+latitude: 37.401
+longitude: -122.193
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /chino-hills/great-clips/
-shop: hairdresser
+shop: Friseur
 ---

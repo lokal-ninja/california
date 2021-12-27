@@ -1,6 +1,6 @@
 ---
 title: homewood
 url: /homewood/
-latitude: 
-longitude: 
+latitude: 39.082
+longitude: -120.158
 ---

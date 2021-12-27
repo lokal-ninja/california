@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /madera/valero/
-shop: convenience
+shop: Lebensmittel
 ---

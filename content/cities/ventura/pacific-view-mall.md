@@ -1,5 +1,5 @@
 ---
 title: "Pacific View Mall"
 url: /ventura/pacific-view-mall/
-shop: mall
+shop: Einkaufszentrum
 ---

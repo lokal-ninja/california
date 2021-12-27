@@ -1,5 +1,5 @@
 ---
 title: "Kmart"
 url: /salinas/kmart/
-shop: department store
+shop: Warenhaus
 ---

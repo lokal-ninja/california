@@ -1,6 +1,6 @@
 ---
 title: Brea
 url: /brea/
-latitude: 33.9170444
-longitude: -117.888855
+latitude: 33.914
+longitude: -117.892
 ---

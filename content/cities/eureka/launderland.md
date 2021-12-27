@@ -1,5 +1,5 @@
 ---
 title: "Launderland"
 url: /eureka/launderland/
-shop: laundry
+shop: Wäscherei
 ---

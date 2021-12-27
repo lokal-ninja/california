@@ -1,5 +1,5 @@
 ---
 title: "Bluemercury"
 url: /west-hollywood/bluemercury/
-shop: beauty
+shop: Kosmetik
 ---

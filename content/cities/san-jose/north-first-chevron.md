@@ -1,5 +1,5 @@
 ---
 title: "North First Chevron"
 url: /san-jose/north-first-chevron/
-shop: convenience
+shop: Lebensmittel
 ---

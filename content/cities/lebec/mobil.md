@@ -1,5 +1,5 @@
 ---
 title: "Mobil"
 url: /lebec/mobil/
-shop: convenience
+shop: Lebensmittel
 ---

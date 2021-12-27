@@ -1,5 +1,5 @@
 ---
 title: "Whole Foods Market"
 url: /los-gatos/whole-foods-market/
-shop: supermarket
+shop: Supermarkt
 ---

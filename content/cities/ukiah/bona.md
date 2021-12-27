@@ -1,5 +1,5 @@
 ---
 title: "Bona"
 url: /ukiah/bona/
-shop: jewelry
+shop: Schmuck
 ---

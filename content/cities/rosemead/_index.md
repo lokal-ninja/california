@@ -1,6 +1,6 @@
 ---
 title: Rosemead
 url: /rosemead/
-latitude: 
-longitude: 
+latitude: 34.043
+longitude: -118.092
 ---

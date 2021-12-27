@@ -1,5 +1,5 @@
 ---
 title: "Mollusk Surf Shop"
 url: /san-francisco/mollusk-surf-shop/
-shop: sports
+shop: Sport
 ---

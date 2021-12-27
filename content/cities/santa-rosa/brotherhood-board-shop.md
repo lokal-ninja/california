@@ -1,5 +1,5 @@
 ---
 title: "Brotherhood Board Shop"
 url: /santa-rosa/brotherhood-board-shop/
-shop: sports
+shop: Sport
 ---

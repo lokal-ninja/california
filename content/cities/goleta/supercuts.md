@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /goleta/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cost Plus World Market"
 url: /escondido/cost-plus-world-market/
-shop: interior decoration
+shop: Raumausstattung
 ---

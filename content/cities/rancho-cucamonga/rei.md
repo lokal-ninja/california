@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /rancho-cucamonga/rei/
-shop: outdoor
+shop: Outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cardenas"
 url: /pittsburg/cardenas/
-shop: supermarket
+shop: Supermarkt
 ---

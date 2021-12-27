@@ -1,5 +1,5 @@
 ---
 title: "The Weed Store"
 url: /weed/the-weed-store/
-shop: gift
+shop: Andenken
 ---

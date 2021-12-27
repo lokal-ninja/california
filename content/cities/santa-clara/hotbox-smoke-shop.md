@@ -1,5 +1,5 @@
 ---
 title: "HotBOX Smoke Shop"
 url: /santa-clara/hotbox-smoke-shop/
-shop: tobacco
+shop: Tabak
 ---

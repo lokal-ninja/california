@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
 url: /vacaville/extramile/
-shop: convenience
+shop: Lebensmittel
 ---

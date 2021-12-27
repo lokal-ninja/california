@@ -1,6 +1,6 @@
 ---
 title: Calexico
 url: /calexico/
-latitude: 32.6790572
-longitude: -115.498703
+latitude: 32.683
+longitude: -115.501
 ---

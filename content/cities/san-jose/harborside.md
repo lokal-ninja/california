@@ -1,5 +1,5 @@
 ---
 title: "Harborside"
 url: /san-jose/harborside/
-shop: cannabis
+shop: Hanf
 ---

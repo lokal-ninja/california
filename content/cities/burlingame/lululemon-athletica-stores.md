@@ -1,5 +1,5 @@
 ---
 title: "lululemon athletica stores"
 url: /burlingame/lululemon-athletica-stores/
-shop: sports
+shop: Sport
 ---

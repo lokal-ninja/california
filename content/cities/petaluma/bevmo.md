@@ -1,5 +1,5 @@
 ---
 title: "BevMo!"
 url: /petaluma/bevmo/
-shop: alcohol
+shop: Spirituosen
 ---

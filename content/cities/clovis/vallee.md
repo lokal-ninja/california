@@ -1,5 +1,5 @@
 ---
 title: "Vallee"
 url: /clovis/vallee/
-shop: alcohol
+shop: Spirituosen
 ---

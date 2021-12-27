@@ -1,5 +1,5 @@
 ---
 title: "Munchner Haus Deli"
 url: /fremont/munchner-haus-deli/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Hayfork
 url: /hayfork/
-latitude: 40.5543106
-longitude: -123.18308390000001
+latitude: 40.554
+longitude: -123.171
 ---

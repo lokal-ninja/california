@@ -1,5 +1,5 @@
 ---
 title: "TKB Bakery and Deli"
 url: /indio/tkb-bakery-and-deli/
-shop: bakery
+shop: Bäckerei
 ---

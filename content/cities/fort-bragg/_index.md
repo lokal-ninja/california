@@ -1,6 +1,6 @@
 ---
 title: Fort Bragg
 url: /fort-bragg/
-latitude: 39.445723
-longitude: -123.805294
+latitude: 39.445
+longitude: -123.806
 ---

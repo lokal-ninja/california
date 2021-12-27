@@ -1,6 +1,6 @@
 ---
 title: Livingston
 url: /livingston/
-latitude: 37.3868826
-longitude: -120.72353290000001
+latitude: 37.389
+longitude: -120.721
 ---

@@ -1,6 +1,6 @@
 ---
 title: Clearlake
 url: /clearlake/
-latitude: 38.9582307
-longitude: -122.626372
+latitude: 38.963
+longitude: -122.634
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sunburst Coin Laundry"
 url: /lakeside/sunburst-coin-laundry/
-shop: laundry
+shop: Wäscherei
 ---

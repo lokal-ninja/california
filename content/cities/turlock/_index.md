@@ -1,6 +1,6 @@
 ---
 title: Turlock
 url: /turlock/
-latitude: 37.4946568
-longitude: -120.8465941
+latitude: 37.49
+longitude: -120.849
 ---

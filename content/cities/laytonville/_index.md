@@ -1,6 +1,6 @@
 ---
 title: Laytonville
 url: /laytonville/
-latitude: 39.6882116
-longitude: -123.4827942
+latitude: 39.684
+longitude: -123.479
 ---

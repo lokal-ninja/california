@@ -1,6 +1,6 @@
 ---
 title: Temple City
 url: /temple-city/
-latitude: 
-longitude: 
+latitude: 34.113
+longitude: -118.073
 ---

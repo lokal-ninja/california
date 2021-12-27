@@ -1,6 +1,6 @@
 ---
 title: Monrovia
 url: /monrovia/
-latitude: 34.1483499
-longitude: -118.0014517
+latitude: 34.138
+longitude: -118.012
 ---

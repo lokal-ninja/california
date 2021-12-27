@@ -1,6 +1,6 @@
 ---
 title: Oakhurst
 url: /oakhurst/
-latitude: 37.3279997
-longitude: -119.6493154
+latitude: 37.363
+longitude: -119.636
 ---

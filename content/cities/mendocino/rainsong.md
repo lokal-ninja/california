@@ -1,5 +1,5 @@
 ---
 title: "Rainsong"
 url: /mendocino/rainsong/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Isla Vista
 url: /isla-vista/
-latitude: 34.4115125
-longitude: -119.8562131
+latitude: 34.411
+longitude: -119.857
 ---

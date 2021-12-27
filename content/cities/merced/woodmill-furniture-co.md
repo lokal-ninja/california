@@ -1,5 +1,5 @@
 ---
 title: "Woodmill Furniture Co"
 url: /merced/woodmill-furniture-co/
-shop: furniture
+shop: Möbel
 ---

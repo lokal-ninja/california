@@ -1,6 +1,6 @@
 ---
 title: Orland
 url: /orland/
-latitude: 39.7471106
-longitude: -122.191135
+latitude: 39.739
+longitude: -122.197
 ---

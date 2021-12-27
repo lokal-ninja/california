@@ -1,6 +1,6 @@
 ---
 title: Watsonville
 url: /watsonville/
-latitude: 36.9092773
-longitude: -121.7529071
+latitude: 36.919
+longitude: -121.781
 ---

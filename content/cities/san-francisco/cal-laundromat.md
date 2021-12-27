@@ -1,5 +1,5 @@
 ---
 title: "Cal Laundromat"
 url: /san-francisco/cal-laundromat/
-shop: laundry
+shop: Wäscherei
 ---

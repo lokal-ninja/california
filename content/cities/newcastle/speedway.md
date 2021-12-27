@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /newcastle/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

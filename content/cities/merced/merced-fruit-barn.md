@@ -1,5 +1,5 @@
 ---
 title: "Merced Fruit Barn"
 url: /merced/merced-fruit-barn/
-shop: supermarket
+shop: Supermarkt
 ---

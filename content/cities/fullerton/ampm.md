@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /fullerton/ampm/
-shop: convenience
+shop: Lebensmittel
 ---

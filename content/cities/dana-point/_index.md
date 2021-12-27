@@ -1,6 +1,6 @@
 ---
 title: Dana Point
 url: /dana-point/
-latitude: 33.4669721
-longitude: -117.6981075
+latitude: 33.467
+longitude: -117.701
 ---

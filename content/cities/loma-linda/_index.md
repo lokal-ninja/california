@@ -1,6 +1,6 @@
 ---
 title: Loma Linda
 url: /loma-linda/
-latitude: 34.053797100000004
-longitude: -117.2610925
+latitude: 34.05
+longitude: -117.242
 ---

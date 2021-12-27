@@ -1,6 +1,6 @@
 ---
 title: La Jolla
 url: /la-jolla/
-latitude: 
-longitude: 
+latitude: 32.854
+longitude: -117.255
 ---

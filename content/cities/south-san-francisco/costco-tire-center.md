@@ -1,5 +1,5 @@
 ---
 title: "Costco Tire Center"
 url: /south-san-francisco/costco-tire-center/
-shop: tyres
+shop: Reifen
 ---

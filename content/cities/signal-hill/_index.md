@@ -1,6 +1,6 @@
 ---
 title: Signal Hill
 url: /signal-hill/
-latitude: 33.804826000000006
-longitude: -118.168259
+latitude: 33.807
+longitude: -118.165
 ---

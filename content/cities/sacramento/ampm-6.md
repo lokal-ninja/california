@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /sacramento/ampm-6/
-shop: convenience
+shop: Lebensmittel
 ---

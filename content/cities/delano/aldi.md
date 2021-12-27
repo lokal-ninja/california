@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /delano/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

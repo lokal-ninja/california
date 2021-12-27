@@ -1,5 +1,5 @@
 ---
 title: "Burlington Coat Factory"
 url: /san-leandro/burlington-coat-factory/
-shop: clothes
+shop: Kleidung
 ---

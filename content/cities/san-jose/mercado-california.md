@@ -1,5 +1,5 @@
 ---
 title: "Mercado California"
 url: /san-jose/mercado-california/
-shop: supermarket
+shop: Supermarkt
 ---

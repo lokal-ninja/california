@@ -1,6 +1,6 @@
 ---
 title: Yorba Linda
 url: /yorba-linda/
-latitude: 33.8901096
-longitude: -117.8249705
+latitude: 33.891
+longitude: -117.814
 ---

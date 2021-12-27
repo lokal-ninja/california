@@ -1,6 +1,6 @@
 ---
 title: Cazadero
 url: /cazadero/
-latitude: 38.5334117
-longitude: -123.0854625
+latitude: 38.534
+longitude: -123.086
 ---

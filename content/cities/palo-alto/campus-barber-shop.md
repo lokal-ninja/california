@@ -1,5 +1,5 @@
 ---
 title: "Campus Barber Shop"
 url: /palo-alto/campus-barber-shop/
-shop: hairdresser
+shop: Friseur
 ---

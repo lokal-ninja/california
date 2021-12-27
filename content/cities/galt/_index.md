@@ -1,6 +1,6 @@
 ---
 title: Galt
 url: /galt/
-latitude: 38.2546373
-longitude: -121.29994850000001
+latitude: 38.29
+longitude: -121.305
 ---

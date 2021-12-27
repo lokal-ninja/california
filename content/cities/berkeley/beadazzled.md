@@ -1,5 +1,5 @@
 ---
 title: "Beadazzled"
 url: /berkeley/beadazzled/
-shop: gift
+shop: Andenken
 ---

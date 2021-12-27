@@ -1,5 +1,5 @@
 ---
 title: "Launderland"
 url: /sacramento/launderland/
-shop: laundry
+shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "W.I. Simonson"
 url: /santa-monica/w-i-simonson/
-shop: car
+shop: Autohaus
 ---

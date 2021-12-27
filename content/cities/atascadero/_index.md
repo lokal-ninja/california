@@ -1,6 +1,6 @@
 ---
 title: Atascadero
 url: /atascadero/
-latitude: 35.4894169
-longitude: -120.6707255
+latitude: 35.527
+longitude: -120.702
 ---

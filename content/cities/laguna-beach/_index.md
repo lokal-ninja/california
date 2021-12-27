@@ -1,6 +1,6 @@
 ---
 title: Laguna Beach
 url: /laguna-beach/
-latitude: 33.5426975
-longitude: -117.78536600000001
+latitude: 33.516
+longitude: -117.756
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AMPM"
 url: /newhall/ampm-2/
-shop: convenience
+shop: Lebensmittel
 ---

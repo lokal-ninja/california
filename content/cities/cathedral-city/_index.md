@@ -1,6 +1,6 @@
 ---
 title: Cathedral City
 url: /cathedral-city/
-latitude: 33.7810031
-longitude: -116.464076
+latitude: 33.817
+longitude: -116.486
 ---

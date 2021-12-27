@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /fresno/gamestop/
-shop: video games
+shop: Videospiele
 ---

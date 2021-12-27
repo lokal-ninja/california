@@ -1,5 +1,5 @@
 ---
 title: "Savemart"
 url: /tracy/savemart/
-shop: supermarket
+shop: Supermarkt
 ---

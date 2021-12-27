@@ -1,5 +1,5 @@
 ---
 title: "BauformatUSA"
 url: /glendale/bauformatusa/
-shop: kitchen
+shop: Küchen
 ---

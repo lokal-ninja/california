@@ -1,5 +1,5 @@
 ---
 title: "LLLReptile"
 url: /escondido/lllreptile/
-shop: pet
+shop: Tiere
 ---

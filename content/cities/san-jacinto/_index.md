@@ -1,6 +1,6 @@
 ---
 title: San Jacinto
 url: /san-jacinto/
-latitude: 33.783966400000004
-longitude: -116.9589086
+latitude: 33.769
+longitude: -116.956
 ---

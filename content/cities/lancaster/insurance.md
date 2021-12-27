@@ -1,5 +1,5 @@
 ---
 title: "Insurance"
 url: /lancaster/insurance/
-shop: shop
+shop: Allgemein
 ---

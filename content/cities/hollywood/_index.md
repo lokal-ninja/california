@@ -1,6 +1,6 @@
 ---
 title: Hollywood
 url: /hollywood/
-latitude: 
-longitude: 
+latitude: 34.091
+longitude: -118.331
 ---

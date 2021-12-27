@@ -1,5 +1,5 @@
 ---
 title: "Almaden Hair Illusion"
 url: /san-jose/almaden-hair-illusion/
-shop: hairdresser
+shop: Friseur
 ---

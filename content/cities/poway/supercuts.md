@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /poway/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

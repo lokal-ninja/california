@@ -1,5 +1,5 @@
 ---
 title: "HD Studio"
 url: /san-jose/hd-studio/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,6 +1,6 @@
 ---
 title: Rancho Santa Fe
 url: /rancho-santa-fe/
-latitude: 33.020321100000004
-longitude: -117.202813
+latitude: 32.996
+longitude: -117.193
 ---

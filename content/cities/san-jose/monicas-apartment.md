@@ -1,5 +1,5 @@
 ---
 title: "Monica's Apartment"
 url: /san-jose/monicas-apartment/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,6 +1,6 @@
 ---
 title: Coulterville
 url: /coulterville/
-latitude: 37.710486
-longitude: -120.1979658
+latitude: 37.775
+longitude: -120.185
 ---

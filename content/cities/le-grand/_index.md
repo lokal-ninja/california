@@ -1,6 +1,6 @@
 ---
 title: Le Grand
 url: /le-grand/
-latitude: 37.228554
-longitude: -120.2482336
+latitude: 37.292
+longitude: -120.32
 ---

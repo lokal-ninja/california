@@ -1,6 +1,6 @@
 ---
 title: Camp Connell
 url: /camp-connell/
-latitude: 38.309912100000005
-longitude: -120.2776333
+latitude: 38.31
+longitude: -120.277
 ---

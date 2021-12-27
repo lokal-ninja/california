@@ -1,5 +1,5 @@
 ---
 title: "Max Muscle Sports Nutritions"
 url: /west-hollywood/max-muscle-sports-nutritions/
-shop: nutrition supplements
+shop: Nahrungsergänzung
 ---

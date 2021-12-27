@@ -1,5 +1,5 @@
 ---
 title: "Silhouette Salon"
 url: /union-city/silhouette-salon/
-shop: beauty
+shop: Kosmetik
 ---

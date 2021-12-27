@@ -1,6 +1,6 @@
 ---
 title: North Hills
 url: /north-hills/
-latitude: 34.2429575
-longitude: -118.4854081
+latitude: 34.222
+longitude: -118.474
 ---

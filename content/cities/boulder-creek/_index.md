@@ -1,6 +1,6 @@
 ---
 title: Boulder Creek
 url: /boulder-creek/
-latitude: 37.126057800000005
-longitude: -122.1221869
+latitude: 37.117
+longitude: -122.121
 ---

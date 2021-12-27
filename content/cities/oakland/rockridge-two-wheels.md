@@ -1,5 +1,5 @@
 ---
 title: "Rockridge Two Wheels"
 url: /oakland/rockridge-two-wheels/
-shop: motorcycle
+shop: Motorrad
 ---

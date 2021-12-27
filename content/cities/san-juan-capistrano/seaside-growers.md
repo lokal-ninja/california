@@ -1,5 +1,5 @@
 ---
 title: "Seaside Growers"
 url: /san-juan-capistrano/seaside-growers/
-shop: garden centre
+shop: Garten-Center
 ---

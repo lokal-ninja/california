@@ -1,6 +1,6 @@
 ---
 title: Inyokern
 url: /inyokern/
-latitude: 35.6468991
-longitude: -117.8125674
+latitude: 35.989
+longitude: -118.101
 ---

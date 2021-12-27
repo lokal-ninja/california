@@ -1,5 +1,5 @@
 ---
 title: "Sugarcoat Salon"
 url: /san-francisco/sugarcoat-salon/
-shop: beauty
+shop: Kosmetik
 ---

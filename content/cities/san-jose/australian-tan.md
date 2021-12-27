@@ -1,5 +1,5 @@
 ---
 title: "Australian Tan"
 url: /san-jose/australian-tan/
-shop: beauty
+shop: Kosmetik
 ---

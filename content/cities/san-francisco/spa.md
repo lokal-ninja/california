@@ -1,5 +1,5 @@
 ---
 title: "Spa"
 url: /san-francisco/spa/
-shop: beauty
+shop: Kosmetik
 ---

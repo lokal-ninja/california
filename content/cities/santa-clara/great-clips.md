@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /santa-clara/great-clips/
-shop: hairdresser
+shop: Friseur
 ---

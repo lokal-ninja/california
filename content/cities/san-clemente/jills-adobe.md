@@ -1,5 +1,5 @@
 ---
 title: "Jill's Adobe"
 url: /san-clemente/jills-adobe/
-shop: antiques
+shop: Antiquitäten
 ---

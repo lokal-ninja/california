@@ -1,5 +1,5 @@
 ---
 title: "Mobil"
 url: /buellton/mobil/
-shop: gas
+shop: Gasflaschen
 ---

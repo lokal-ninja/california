@@ -1,5 +1,5 @@
 ---
 title: "Vespa Sherman Oaks"
 url: /sherman-oaks/vespa-sherman-oaks/
-shop: shop
+shop: Allgemein
 ---

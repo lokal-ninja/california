@@ -1,5 +1,5 @@
 ---
 title: "Royal Wholesale Electric"
 url: /santa-ana/royal-wholesale-electric/
-shop: radiotechnics
+shop: Radiotechnik
 ---

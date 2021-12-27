@@ -1,5 +1,5 @@
 ---
 title: "Beauty Avenue"
 url: /los-gatos/beauty-avenue/
-shop: beauty
+shop: Kosmetik
 ---

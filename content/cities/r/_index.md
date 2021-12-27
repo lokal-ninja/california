@@ -1,6 +1,6 @@
 ---
 title: r
 url: /r/
-latitude: 
-longitude: 
+latitude: 38.73
+longitude: -121.291
 ---

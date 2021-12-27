@@ -1,5 +1,5 @@
 ---
 title: "Desi India Bazar"
 url: /san-jose/desi-india-bazar/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Livermore
 url: /livermore/
-latitude: 37.6820583
-longitude: -121.7680531
+latitude: 37.696
+longitude: -121.743
 ---

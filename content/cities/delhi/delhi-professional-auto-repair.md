@@ -1,5 +1,5 @@
 ---
 title: "Delhi Professional Auto Repair"
 url: /delhi/delhi-professional-auto-repair/
-shop: car repair
+shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DEMA"
 url: /san-francisco/dema/
-shop: shop
+shop: Allgemein
 ---

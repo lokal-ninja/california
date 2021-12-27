@@ -1,6 +1,6 @@
 ---
 title: Van Nuys
 url: /van-nuys/
-latitude: 34.186619300000004
-longitude: -118.44866750000001
+latitude: 34.184
+longitude: -118.449
 ---

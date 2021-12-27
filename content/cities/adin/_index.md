@@ -1,6 +1,6 @@
 ---
 title: Adin
 url: /adin/
-latitude: 41.193780000000004
-longitude: -120.94524500000001
+latitude: 41.188
+longitude: -120.945
 ---

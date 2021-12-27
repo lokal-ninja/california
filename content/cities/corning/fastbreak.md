@@ -1,5 +1,5 @@
 ---
 title: "FastBreak"
 url: /corning/fastbreak/
-shop: convenience
+shop: Lebensmittel
 ---

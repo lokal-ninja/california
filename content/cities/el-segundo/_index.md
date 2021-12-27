@@ -1,6 +1,6 @@
 ---
 title: El Segundo
 url: /el-segundo/
-latitude: 33.917028
-longitude: -118.4156337
+latitude: 33.907
+longitude: -118.394
 ---

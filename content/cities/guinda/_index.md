@@ -1,6 +1,6 @@
 ---
 title: Guinda
 url: /guinda/
-latitude: 38.8290674
-longitude: -122.1938633
+latitude: 38.829
+longitude: -122.193
 ---

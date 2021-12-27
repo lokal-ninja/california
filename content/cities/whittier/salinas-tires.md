@@ -1,5 +1,5 @@
 ---
 title: "Salinas Tires"
 url: /whittier/salinas-tires/
-shop: tyres
+shop: Reifen
 ---

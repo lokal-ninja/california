@@ -1,5 +1,5 @@
 ---
 title: "Cole Haan"
 url: /san-francisco/cole-haan/
-shop: shoes
+shop: Schuhe
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lowerlake
 url: /lowerlake/
-latitude: 
-longitude: 
+latitude: 38.913
+longitude: -122.612
 ---

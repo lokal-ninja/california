@@ -1,6 +1,6 @@
 ---
 title: Lathrop
 url: /lathrop/
-latitude: 37.8227046
-longitude: -121.27661
+latitude: 37.812
+longitude: -121.294
 ---

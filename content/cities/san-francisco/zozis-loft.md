@@ -1,5 +1,5 @@
 ---
 title: "Zozi's Loft"
 url: /san-francisco/zozis-loft/
-shop: furniture
+shop: Möbel
 ---

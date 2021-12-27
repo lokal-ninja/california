@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /cupertino/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

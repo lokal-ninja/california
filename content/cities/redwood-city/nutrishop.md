@@ -1,5 +1,5 @@
 ---
 title: "Nutrishop"
 url: /redwood-city/nutrishop/
-shop: chemist
+shop: Drogerie
 ---

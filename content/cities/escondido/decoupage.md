@@ -1,5 +1,5 @@
 ---
 title: "Découpage"
 url: /escondido/decoupage/
-shop: hairdresser
+shop: Friseur
 ---

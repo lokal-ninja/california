@@ -1,6 +1,6 @@
 ---
 title: Moorpark
 url: /moorpark/
-latitude: 34.285558
-longitude: -118.8820414
+latitude: 34.278
+longitude: -118.869
 ---

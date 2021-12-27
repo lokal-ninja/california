@@ -1,6 +1,6 @@
 ---
 title: Loleta
 url: /loleta/
-latitude: 40.6408678
-longitude: -124.22447290000001
+latitude: 40.641
+longitude: -124.225
 ---

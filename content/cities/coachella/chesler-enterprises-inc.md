@@ -1,5 +1,5 @@
 ---
 title: "Chesler Enterprises Inc"
 url: /coachella/chesler-enterprises-inc/
-shop: shop
+shop: Allgemein
 ---

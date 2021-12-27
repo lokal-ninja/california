@@ -1,5 +1,5 @@
 ---
 title: "Stylecuts"
 url: /fullerton/stylecuts/
-shop: hairdresser
+shop: Friseur
 ---
