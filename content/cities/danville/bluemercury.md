@@ -1,5 +1,5 @@
 ---
-title: "Bluemercury"
+title: "bluemercury"
 url: /danville/bluemercury/
 shop: Kosmetik
 ---
