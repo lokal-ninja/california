@@ -1,5 +1,5 @@
 ---
 title: "CWallA"
 url: /san-jose/cwalla/
-shop: Allgemein
+shop: Baustoffe
 ---
