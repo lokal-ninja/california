@@ -1,5 +1,5 @@
 ---
 title: "Extra Mile"
 url: /manhattan-beach/extra-mile/
-shop: Lebensmittel
+shop: convenience
 ---

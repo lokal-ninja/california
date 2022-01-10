@@ -1,5 +1,5 @@
 ---
 title: "Medina Auto Repair"
 url: /newman/medina-auto-repair-2/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /yucca-valley/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /sacramento/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

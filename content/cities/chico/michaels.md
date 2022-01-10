@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /chico/michaels/
-shop: Basteln
+shop: craft
 ---

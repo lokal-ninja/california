@@ -1,5 +1,5 @@
 ---
 title: "Olivenhain Self Storage"
 url: /encinitas/olivenhain-self-storage/
-shop: Mieten
+shop: storage rental
 ---

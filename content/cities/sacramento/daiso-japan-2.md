@@ -1,5 +1,5 @@
 ---
 title: "Daiso Japan"
 url: /sacramento/daiso-japan-2/
-shop: Kramladen
+shop: variety store
 ---

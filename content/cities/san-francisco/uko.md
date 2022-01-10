@@ -1,5 +1,5 @@
 ---
 title: "Uko"
 url: /san-francisco/uko/
-shop: Kleidung
+shop: clothes
 ---

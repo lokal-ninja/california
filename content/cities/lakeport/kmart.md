@@ -1,5 +1,5 @@
 ---
 title: "Kmart"
 url: /lakeport/kmart/
-shop: Warenhaus
+shop: department store
 ---

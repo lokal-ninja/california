@@ -1,5 +1,5 @@
 ---
 title: "Disney Pin Traders"
 url: /anaheim/disney-pin-traders/
-shop: Andenken
+shop: gift
 ---

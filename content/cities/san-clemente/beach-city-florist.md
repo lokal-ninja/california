@@ -1,5 +1,5 @@
 ---
 title: "Beach City Florist"
 url: /san-clemente/beach-city-florist/
-shop: Blumen
+shop: florist
 ---

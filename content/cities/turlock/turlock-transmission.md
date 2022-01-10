@@ -1,5 +1,5 @@
 ---
 title: "Turlock Transmission"
 url: /turlock/turlock-transmission/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Verizon Wireless"
 url: /citrus-heights/verizon-wireless/
-shop: Handy
+shop: mobile phone
 ---

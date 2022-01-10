@@ -1,5 +1,5 @@
 ---
 title: "Bluemercury"
 url: /san-jose/bluemercury/
-shop: Kosmetik
+shop: beauty
 ---

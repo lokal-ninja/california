@@ -1,5 +1,5 @@
 ---
 title: "Iconic Eyes"
 url: /san-jose/iconic-eyes/
-shop: Optiker
+shop: optician
 ---

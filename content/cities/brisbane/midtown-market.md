@@ -1,5 +1,5 @@
 ---
 title: "Midtown Market"
 url: /brisbane/midtown-market/
-shop: Lebensmittel
+shop: convenience
 ---

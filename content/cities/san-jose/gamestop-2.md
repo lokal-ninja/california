@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /san-jose/gamestop-2/
-shop: Videospiele
+shop: video games
 ---

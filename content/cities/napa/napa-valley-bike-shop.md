@@ -1,5 +1,5 @@
 ---
 title: "Napa Valley Bike Shop"
 url: /napa/napa-valley-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

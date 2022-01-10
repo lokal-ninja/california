@@ -1,5 +1,5 @@
 ---
 title: "Kmart"
 url: /oakdale/kmart/
-shop: Warenhaus
+shop: department store
 ---

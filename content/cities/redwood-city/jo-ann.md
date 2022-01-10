@@ -1,5 +1,5 @@
 ---
 title: "Jo-Ann"
 url: /redwood-city/jo-ann/
-shop: Basteln
+shop: craft
 ---

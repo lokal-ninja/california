@@ -1,5 +1,5 @@
 ---
 title: "Handi Stop 2"
 url: /merced/handi-stop-2/
-shop: Supermarkt
+shop: supermarket
 ---

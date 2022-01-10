@@ -1,5 +1,5 @@
 ---
 title: "Lamour Nails Spa"
 url: /san-jose/lamour-nails-spa/
-shop: Kosmetik
+shop: beauty
 ---

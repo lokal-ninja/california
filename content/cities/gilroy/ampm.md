@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /gilroy/ampm/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /mountain-view/sprint/
-shop: Handy
+shop: mobile phone
 ---

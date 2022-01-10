@@ -1,5 +1,5 @@
 ---
 title: "Classic Cleaners"
 url: /santa-clara/classic-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

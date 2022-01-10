@@ -1,5 +1,5 @@
 ---
 title: "Maedae Outpost"
 url: /los-angeles/maedae-outpost/
-shop: Allgemein
+shop: shop
 ---

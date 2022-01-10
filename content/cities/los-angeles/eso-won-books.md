@@ -1,5 +1,5 @@
 ---
 title: "Eso Won Books"
 url: /los-angeles/eso-won-books/
-shop: Bücher
+shop: books
 ---

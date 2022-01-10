@@ -1,5 +1,5 @@
 ---
 title: "Ocean View Growing Grounds"
 url: /san-diego/ocean-view-growing-grounds/
-shop: Garten-Center
+shop: garden centre
 ---

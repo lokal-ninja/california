@@ -1,5 +1,5 @@
 ---
 title: "Massage Rescue"
 url: /los-altos/massage-rescue/
-shop: Massage
+shop: massage
 ---

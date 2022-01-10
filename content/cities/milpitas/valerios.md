@@ -1,5 +1,5 @@
 ---
 title: "Valerio's"
 url: /milpitas/valerios/
-shop: Bäckerei
+shop: bakery
 ---

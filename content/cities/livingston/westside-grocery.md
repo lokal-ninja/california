@@ -1,5 +1,5 @@
 ---
 title: "Westside Grocery"
 url: /livingston/westside-grocery/
-shop: Supermarkt
+shop: supermarket
 ---

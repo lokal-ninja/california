@@ -1,5 +1,5 @@
 ---
 title: "Fern Valley Emporium"
 url: /idyllwild/fern-valley-emporium/
-shop: Gebrauchtwaren
+shop: charity
 ---

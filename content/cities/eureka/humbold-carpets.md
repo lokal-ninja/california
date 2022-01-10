@@ -1,5 +1,5 @@
 ---
 title: "Humbold Carpets"
 url: /eureka/humbold-carpets/
-shop: Teppiche
+shop: carpet
 ---

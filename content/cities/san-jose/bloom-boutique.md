@@ -1,5 +1,5 @@
 ---
 title: "Bloom Boutique"
 url: /san-jose/bloom-boutique/
-shop: Kosmetik
+shop: beauty
 ---

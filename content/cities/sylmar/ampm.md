@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /sylmar/ampm/
-shop: Lebensmittel
+shop: convenience
 ---

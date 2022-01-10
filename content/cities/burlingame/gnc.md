@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /burlingame/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

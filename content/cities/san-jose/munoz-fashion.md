@@ -1,5 +1,5 @@
 ---
 title: "Muñoz Fashion"
 url: /san-jose/munoz-fashion/
-shop: Kleidung
+shop: clothes
 ---

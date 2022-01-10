@@ -1,5 +1,5 @@
 ---
 title: "Porsche of Monterey"
 url: /seaside/porsche-of-monterey/
-shop: Autohaus
+shop: car
 ---

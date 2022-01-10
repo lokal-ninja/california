@@ -1,5 +1,5 @@
 ---
 title: "GTM"
 url: /santee/gtm/
-shop: Warenhaus
+shop: department store
 ---

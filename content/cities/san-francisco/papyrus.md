@@ -1,5 +1,5 @@
 ---
 title: "Papyrus"
 url: /san-francisco/papyrus/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "New Image Salon"
 url: /upland/new-image-salon/
-shop: Kosmetik
+shop: beauty
 ---

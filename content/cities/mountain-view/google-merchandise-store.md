@@ -1,5 +1,5 @@
 ---
 title: "Google Merchandise Store"
 url: /mountain-view/google-merchandise-store/
-shop: Andenken
+shop: gift
 ---

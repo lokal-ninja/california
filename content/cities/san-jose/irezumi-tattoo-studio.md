@@ -1,5 +1,5 @@
 ---
 title: "Irezumi Tattoo Studio"
 url: /san-jose/irezumi-tattoo-studio/
-shop: Tattoo
+shop: tattoo
 ---

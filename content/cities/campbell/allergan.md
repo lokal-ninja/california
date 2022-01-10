@@ -1,5 +1,5 @@
 ---
 title: "Allergan"
 url: /campbell/allergan/
-shop: Sanitätshaus
+shop: medical supply
 ---

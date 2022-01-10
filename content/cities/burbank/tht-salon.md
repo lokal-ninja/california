@@ -1,5 +1,5 @@
 ---
 title: "THT Salon"
 url: /burbank/tht-salon/
-shop: Friseur
+shop: hairdresser
 ---

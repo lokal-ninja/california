@@ -1,5 +1,5 @@
 ---
 title: "reliaprint"
 url: /san-francisco/reliaprint/
-shop: Kopieren
+shop: copyshop
 ---

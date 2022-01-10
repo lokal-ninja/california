@@ -1,5 +1,5 @@
 ---
 title: "B!"
 url: /santa-cruz/b/
-shop: Sport
+shop: sports
 ---

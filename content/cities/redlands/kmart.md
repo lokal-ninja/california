@@ -1,5 +1,5 @@
 ---
 title: "Kmart"
 url: /redlands/kmart/
-shop: Warenhaus
+shop: department store
 ---

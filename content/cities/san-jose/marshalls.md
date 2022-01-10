@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /san-jose/marshalls/
-shop: Warenhaus
+shop: department store
 ---

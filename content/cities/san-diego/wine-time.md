@@ -1,5 +1,5 @@
 ---
 title: "Wine Time"
 url: /san-diego/wine-time/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aldine Books"
 url: /los-angeles/aldine-books/
-shop: Bücher
+shop: books
 ---

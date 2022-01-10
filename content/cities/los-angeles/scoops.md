@@ -1,5 +1,5 @@
 ---
 title: "Scoops"
 url: /los-angeles/scoops/
-shop: Eisprodukte
+shop: ice cream
 ---

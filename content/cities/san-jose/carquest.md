@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /san-jose/carquest/
-shop: Autoteile
+shop: car parts
 ---

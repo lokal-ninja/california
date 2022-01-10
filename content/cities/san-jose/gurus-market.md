@@ -1,5 +1,5 @@
 ---
 title: "Guru’s Market"
 url: /san-jose/gurus-market/
-shop: Lebensmittel
+shop: convenience
 ---

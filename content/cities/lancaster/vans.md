@@ -1,5 +1,5 @@
 ---
 title: "Vans"
 url: /lancaster/vans/
-shop: Schuhe
+shop: shoes
 ---

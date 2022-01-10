@@ -1,5 +1,5 @@
 ---
 title: "The Educated Gardener"
 url: /santa-margarita/the-educated-gardener/
-shop: Garten-Center
+shop: garden centre
 ---

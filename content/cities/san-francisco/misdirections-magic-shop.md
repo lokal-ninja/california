@@ -1,5 +1,5 @@
 ---
 title: "Misdirections Magic Shop"
 url: /san-francisco/misdirections-magic-shop/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "FoodMaxx"
 url: /antioch/foodmaxx/
-shop: Supermarkt
+shop: supermarket
 ---

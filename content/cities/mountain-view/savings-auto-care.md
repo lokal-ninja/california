@@ -1,5 +1,5 @@
 ---
 title: "Savings Auto Care"
 url: /mountain-view/savings-auto-care/
-shop: Autowerkstatt
+shop: car repair
 ---

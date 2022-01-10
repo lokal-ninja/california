@@ -1,5 +1,5 @@
 ---
 title: "Marin Subaru"
 url: /san-rafael/marin-subaru/
-shop: Autohaus
+shop: car
 ---

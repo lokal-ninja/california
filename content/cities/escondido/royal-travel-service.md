@@ -1,5 +1,5 @@
 ---
 title: "Royal Travel Service"
 url: /escondido/royal-travel-service/
-shop: Reisebüro
+shop: travel agency
 ---

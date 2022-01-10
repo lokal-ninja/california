@@ -1,5 +1,5 @@
 ---
 title: "Catalyst"
 url: /san-clemente/catalyst/
-shop: Allgemein
+shop: shop
 ---

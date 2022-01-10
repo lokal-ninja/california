@@ -1,5 +1,5 @@
 ---
 title: "Ralphs Supermarket"
 url: /la-mesa/ralphs-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

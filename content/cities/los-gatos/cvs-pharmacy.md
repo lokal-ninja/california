@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /los-gatos/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

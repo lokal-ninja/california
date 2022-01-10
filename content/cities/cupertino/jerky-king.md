@@ -1,5 +1,5 @@
 ---
 title: "Jerky King"
 url: /cupertino/jerky-king/
-shop: Dorfladen
+shop: general
 ---

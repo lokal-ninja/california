@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /freedom/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

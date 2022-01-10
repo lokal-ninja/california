@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /carlsbad/ampm/
-shop: Lebensmittel
+shop: convenience
 ---

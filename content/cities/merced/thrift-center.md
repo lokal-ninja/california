@@ -1,5 +1,5 @@
 ---
 title: "Thrift Center"
 url: /merced/thrift-center/
-shop: Kramladen
+shop: variety store
 ---

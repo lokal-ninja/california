@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /garden-grove/ross/
-shop: Warenhaus
+shop: department store
 ---

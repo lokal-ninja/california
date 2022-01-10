@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /san-luis-obispo/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

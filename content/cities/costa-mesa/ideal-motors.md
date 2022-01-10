@@ -1,5 +1,5 @@
 ---
 title: "iDeal Motors"
 url: /costa-mesa/ideal-motors/
-shop: Autohaus
+shop: car
 ---

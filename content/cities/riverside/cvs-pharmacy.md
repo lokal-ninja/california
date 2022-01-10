@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /riverside/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

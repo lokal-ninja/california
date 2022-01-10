@@ -1,5 +1,5 @@
 ---
 title: "Stater Bros."
 url: /hesperia/stater-bros/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PCH Rides"
 url: /dana-point/pch-rides/
-shop: Fahrrad
+shop: bicycle
 ---

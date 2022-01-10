@@ -1,5 +1,5 @@
 ---
 title: "Massage Envy"
 url: /ventura/massage-envy/
-shop: Massage
+shop: massage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ebbetts Pass Sporting Goods"
 url: /arnold/ebbetts-pass-sporting-goods/
-shop: Sport
+shop: sports
 ---

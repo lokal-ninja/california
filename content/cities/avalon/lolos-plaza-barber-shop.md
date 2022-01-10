@@ -1,5 +1,5 @@
 ---
 title: "Lolo's Plaza Barber Shop"
 url: /avalon/lolos-plaza-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Best West Fasteners"
 url: /sun-valley/best-west-fasteners/
-shop: Eisenwaren
+shop: hardware
 ---

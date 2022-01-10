@@ -1,5 +1,5 @@
 ---
 title: "Matthews Fine Furniture"
 url: /oakhurst/matthews-fine-furniture/
-shop: Möbel
+shop: furniture
 ---

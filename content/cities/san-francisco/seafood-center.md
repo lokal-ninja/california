@@ -1,5 +1,5 @@
 ---
 title: "Seafood Center"
 url: /san-francisco/seafood-center/
-shop: Fisch
+shop: seafood
 ---

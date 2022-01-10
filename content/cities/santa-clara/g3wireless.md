@@ -1,5 +1,5 @@
 ---
 title: "G3wireless"
 url: /santa-clara/g3wireless/
-shop: Handy
+shop: mobile phone
 ---

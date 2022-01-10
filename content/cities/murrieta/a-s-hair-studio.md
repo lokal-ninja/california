@@ -1,5 +1,5 @@
 ---
 title: "A/S HAIR STUDIO"
 url: /murrieta/a-s-hair-studio/
-shop: Kosmetik
+shop: beauty
 ---

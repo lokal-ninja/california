@@ -1,5 +1,5 @@
 ---
 title: "SDSU Aztecs Ticket Office"
 url: /carson/sdsu-aztecs-ticket-office/
-shop: Tickets
+shop: ticket
 ---

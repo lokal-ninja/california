@@ -1,5 +1,5 @@
 ---
 title: "Ferguson Plumbing (Temecula)"
 url: /temecula/ferguson-plumbing-temecula/
-shop: Baustoffe
+shop: trade
 ---

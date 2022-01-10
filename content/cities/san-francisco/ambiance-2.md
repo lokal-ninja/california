@@ -1,5 +1,5 @@
 ---
 title: "Ambiance"
 url: /san-francisco/ambiance-2/
-shop: Kleidung
+shop: clothes
 ---

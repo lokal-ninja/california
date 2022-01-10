@@ -1,5 +1,5 @@
 ---
 title: "Tammy SL"
 url: /campbell/tammy-sl/
-shop: Kosmetik
+shop: beauty
 ---

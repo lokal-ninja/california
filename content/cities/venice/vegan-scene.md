@@ -1,5 +1,5 @@
 ---
 title: "Vegan scene"
 url: /venice/vegan-scene/
-shop: Kleidung
+shop: clothes
 ---

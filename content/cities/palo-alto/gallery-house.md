@@ -1,5 +1,5 @@
 ---
 title: "Gallery House"
 url: /palo-alto/gallery-house/
-shop: Kunst
+shop: art
 ---

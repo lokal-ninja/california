@@ -1,5 +1,5 @@
 ---
 title: "Mellenium Smoke Shop"
 url: /grass-valley/mellenium-smoke-shop/
-shop: Tabak
+shop: tobacco
 ---

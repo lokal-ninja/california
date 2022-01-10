@@ -1,5 +1,5 @@
 ---
 title: "Scion"
 url: /sunnyvale/scion/
-shop: Autohaus
+shop: car
 ---

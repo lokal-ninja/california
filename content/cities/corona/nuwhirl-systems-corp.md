@@ -1,5 +1,5 @@
 ---
 title: "NuWhirl Systems Corp"
 url: /corona/nuwhirl-systems-corp/
-shop: Badezimmer
+shop: bathroom
 ---

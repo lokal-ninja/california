@@ -1,5 +1,5 @@
 ---
 title: "CC Cosmetics"
 url: /san-jose/cc-cosmetics/
-shop: Kosmetik
+shop: beauty
 ---

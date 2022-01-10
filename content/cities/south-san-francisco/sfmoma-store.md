@@ -1,5 +1,5 @@
 ---
 title: "SFMOMA Store"
 url: /south-san-francisco/sfmoma-store/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mani-Pedi Spa"
 url: /san-francisco/mani-pedi-spa/
-shop: Kosmetik
+shop: beauty
 ---

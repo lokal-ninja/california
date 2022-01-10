@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /glendora/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Prime Relief Therapeutic Massage"
 url: /redlands/prime-relief-therapeutic-massage/
-shop: Massage
+shop: massage
 ---

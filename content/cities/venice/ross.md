@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /venice/ross/
-shop: Warenhaus
+shop: department store
 ---

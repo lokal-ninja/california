@@ -1,5 +1,5 @@
 ---
 title: "Yaza"
 url: /berkeley/yaza/
-shop: Kleidung
+shop: clothes
 ---

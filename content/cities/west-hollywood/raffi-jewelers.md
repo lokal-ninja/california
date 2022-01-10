@@ -1,5 +1,5 @@
 ---
 title: "Raffi Jewelers"
 url: /west-hollywood/raffi-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

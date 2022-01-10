@@ -1,5 +1,5 @@
 ---
 title: "Swank"
 url: /escondido/swank/
-shop: Friseur
+shop: hairdresser
 ---

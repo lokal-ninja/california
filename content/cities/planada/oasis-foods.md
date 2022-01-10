@@ -1,5 +1,5 @@
 ---
 title: "Oasis Foods"
 url: /planada/oasis-foods/
-shop: Supermarkt
+shop: supermarket
 ---

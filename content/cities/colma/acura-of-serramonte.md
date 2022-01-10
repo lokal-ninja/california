@@ -1,5 +1,5 @@
 ---
 title: "Acura Of Serramonte"
 url: /colma/acura-of-serramonte/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pott Belly Shop"
 url: /ramona/pott-belly-shop/
-shop: Allgemein
+shop: shop
 ---

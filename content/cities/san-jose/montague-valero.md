@@ -1,5 +1,5 @@
 ---
 title: "Montague Valero"
 url: /san-jose/montague-valero/
-shop: Lebensmittel
+shop: convenience
 ---

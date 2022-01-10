@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /napa/walgreens/
-shop: Drogerie
+shop: chemist
 ---

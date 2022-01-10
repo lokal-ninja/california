@@ -1,5 +1,5 @@
 ---
 title: "Dollar Shop"
 url: /livingston/dollar-shop/
-shop: Kramladen
+shop: variety store
 ---

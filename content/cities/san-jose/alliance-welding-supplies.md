@@ -1,5 +1,5 @@
 ---
 title: "Alliance Welding Supplies"
 url: /san-jose/alliance-welding-supplies/
-shop: Baustoffe
+shop: trade
 ---

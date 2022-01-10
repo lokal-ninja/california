@@ -1,5 +1,5 @@
 ---
 title: "Mountain Mike's Sports"
 url: /olympic-valley/mountain-mikes-sports/
-shop: Sport
+shop: sports
 ---

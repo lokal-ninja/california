@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /santa-ana/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

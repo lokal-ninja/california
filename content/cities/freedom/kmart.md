@@ -1,5 +1,5 @@
 ---
 title: "Kmart"
 url: /freedom/kmart/
-shop: Warenhaus
+shop: department store
 ---

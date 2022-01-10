@@ -1,5 +1,5 @@
 ---
 title: "Mizuki Auto Service"
 url: /berkeley/mizuki-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

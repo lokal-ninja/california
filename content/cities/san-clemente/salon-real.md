@@ -1,5 +1,5 @@
 ---
 title: "Salon Real"
 url: /san-clemente/salon-real/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ciné Café"
 url: /san-diego/cine-cafe/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The W Salon"
 url: /laguna-hills/the-w-salon/
-shop: Friseur
+shop: hairdresser
 ---

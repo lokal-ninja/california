@@ -1,5 +1,5 @@
 ---
 title: "Transmatic Transmission"
 url: /oakland/transmatic-transmission-3/
-shop: Autowerkstatt
+shop: car repair
 ---

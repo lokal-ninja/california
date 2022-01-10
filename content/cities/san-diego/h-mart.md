@@ -1,5 +1,5 @@
 ---
 title: "H Mart"
 url: /san-diego/h-mart/
-shop: Supermarkt
+shop: supermarket
 ---

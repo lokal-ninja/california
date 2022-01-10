@@ -1,5 +1,5 @@
 ---
 title: "Flower Connection"
 url: /chula-vista/flower-connection/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alan's Automotive"
 url: /cupertino/alans-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

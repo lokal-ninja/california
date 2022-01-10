@@ -1,5 +1,5 @@
 ---
 title: "Spartan Market"
 url: /san-jose/spartan-market/
-shop: Lebensmittel
+shop: convenience
 ---

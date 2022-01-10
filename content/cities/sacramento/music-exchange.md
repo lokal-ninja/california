@@ -1,5 +1,5 @@
 ---
 title: "Music Exchange"
 url: /sacramento/music-exchange/
-shop: Musik
+shop: music
 ---

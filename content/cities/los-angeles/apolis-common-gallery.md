@@ -1,5 +1,5 @@
 ---
 title: "Apolis: Common Gallery"
 url: /los-angeles/apolis-common-gallery/
-shop: Kleidung
+shop: clothes
 ---

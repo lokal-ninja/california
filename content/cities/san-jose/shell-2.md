@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /san-jose/shell-2/
-shop: Autowerkstatt
+shop: car repair
 ---

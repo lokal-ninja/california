@@ -1,5 +1,5 @@
 ---
 title: "Epicurean Connection"
 url: /sonoma/epicurean-connection/
-shop: Allgemein
+shop: shop
 ---

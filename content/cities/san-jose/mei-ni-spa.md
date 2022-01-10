@@ -1,5 +1,5 @@
 ---
 title: "Mei Ni Spa"
 url: /san-jose/mei-ni-spa/
-shop: Kosmetik
+shop: beauty
 ---

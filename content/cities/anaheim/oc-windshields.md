@@ -1,5 +1,5 @@
 ---
 title: "OC Windshields"
 url: /anaheim/oc-windshields/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marie Callender's"
 url: /escondido/marie-callenders/
-shop: Bäckerei
+shop: bakery
 ---

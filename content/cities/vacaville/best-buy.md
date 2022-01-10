@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /vacaville/best-buy/
-shop: Elektronik
+shop: electronics
 ---

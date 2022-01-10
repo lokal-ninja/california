@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree Store"
 url: /atwater/dollar-tree-store/
-shop: Kramladen
+shop: variety store
 ---

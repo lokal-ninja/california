@@ -1,5 +1,5 @@
 ---
 title: "PBI"
 url: /salinas/pbi/
-shop: Möbel
+shop: furniture
 ---

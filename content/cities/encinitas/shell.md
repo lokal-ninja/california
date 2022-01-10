@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /encinitas/shell/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ajax Auto"
 url: /coachella/ajax-auto/
-shop: Autoteile
+shop: car parts
 ---

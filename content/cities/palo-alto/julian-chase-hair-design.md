@@ -1,5 +1,5 @@
 ---
 title: "Julian Chase Hair Design"
 url: /palo-alto/julian-chase-hair-design/
-shop: Friseur
+shop: hairdresser
 ---

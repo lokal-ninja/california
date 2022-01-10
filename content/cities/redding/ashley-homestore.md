@@ -1,5 +1,5 @@
 ---
 title: "Ashley HomeStore"
 url: /redding/ashley-homestore/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bloomster’s"
 url: /san-jose/bloomsters/
-shop: Blumen
+shop: florist
 ---

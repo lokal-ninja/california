@@ -1,5 +1,5 @@
 ---
 title: "Athletic Performance"
 url: /san-jose/athletic-performance/
-shop: Sport
+shop: sports
 ---

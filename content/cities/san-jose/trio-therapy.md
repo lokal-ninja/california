@@ -1,5 +1,5 @@
 ---
 title: "Trio Therapy"
 url: /san-jose/trio-therapy/
-shop: Massage
+shop: massage
 ---

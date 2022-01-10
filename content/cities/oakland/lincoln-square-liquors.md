@@ -1,5 +1,5 @@
 ---
 title: "Lincoln Square Liquors"
 url: /oakland/lincoln-square-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

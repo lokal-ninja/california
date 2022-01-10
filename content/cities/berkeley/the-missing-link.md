@@ -1,5 +1,5 @@
 ---
 title: "The Missing Link"
 url: /berkeley/the-missing-link/
-shop: Fahrrad
+shop: bicycle
 ---

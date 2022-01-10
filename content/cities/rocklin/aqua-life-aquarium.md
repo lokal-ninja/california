@@ -1,5 +1,5 @@
 ---
 title: "Aqua Life Aquarium"
 url: /rocklin/aqua-life-aquarium/
-shop: Allgemein
+shop: shop
 ---

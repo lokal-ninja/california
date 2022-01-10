@@ -1,5 +1,5 @@
 ---
 title: "Kirk Plumbing Supply"
 url: /el-cajon/kirk-plumbing-supply/
-shop: Baustoffe
+shop: trade
 ---

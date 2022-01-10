@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /elk-grove/ampm-2/
-shop: Lebensmittel
+shop: convenience
 ---

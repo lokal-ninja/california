@@ -1,5 +1,5 @@
 ---
 title: "Le's Auto Repair"
 url: /sunnyvale/les-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

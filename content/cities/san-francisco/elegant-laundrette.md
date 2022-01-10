@@ -1,5 +1,5 @@
 ---
 title: "Elegant Laundrette"
 url: /san-francisco/elegant-laundrette/
-shop: Wäscherei
+shop: laundry
 ---

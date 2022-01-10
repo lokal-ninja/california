@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /san-diego/autozone/
-shop: Autoteile
+shop: car parts
 ---

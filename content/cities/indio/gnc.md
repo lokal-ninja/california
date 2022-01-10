@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /indio/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

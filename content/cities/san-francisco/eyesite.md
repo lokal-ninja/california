@@ -1,5 +1,5 @@
 ---
 title: "Eyesite"
 url: /san-francisco/eyesite/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stefano Ricci"
 url: /beverly-hills/stefano-ricci/
-shop: Kleidung
+shop: clothes
 ---

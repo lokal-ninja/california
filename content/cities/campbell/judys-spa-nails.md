@@ -1,5 +1,5 @@
 ---
 title: "Judy's Spa Nails"
 url: /campbell/judys-spa-nails/
-shop: Kosmetik
+shop: beauty
 ---

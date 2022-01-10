@@ -1,5 +1,5 @@
 ---
 title: "United Smoke Shop"
 url: /el-cajon/united-smoke-shop/
-shop: Tabak
+shop: tobacco
 ---

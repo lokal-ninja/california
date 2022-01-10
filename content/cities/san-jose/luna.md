@@ -1,5 +1,5 @@
 ---
 title: "Luna"
 url: /san-jose/luna/
-shop: Mieten
+shop: storage rental
 ---

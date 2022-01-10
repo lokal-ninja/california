@@ -1,5 +1,5 @@
 ---
 title: "The Fox Den"
 url: /bridgeport/the-fox-den/
-shop: Andenken
+shop: gift
 ---

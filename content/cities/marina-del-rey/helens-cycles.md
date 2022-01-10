@@ -1,5 +1,5 @@
 ---
 title: "Helens Cycles"
 url: /marina-del-rey/helens-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

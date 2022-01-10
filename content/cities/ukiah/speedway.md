@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /ukiah/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

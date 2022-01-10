@@ -1,5 +1,5 @@
 ---
 title: "Villa's Market"
 url: /la-verne/villas-market/
-shop: Lebensmittel
+shop: convenience
 ---

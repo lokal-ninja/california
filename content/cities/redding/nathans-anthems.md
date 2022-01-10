@@ -1,5 +1,5 @@
 ---
 title: "Nathan’s Anthems"
 url: /redding/nathans-anthems/
-shop: Tattoo
+shop: tattoo
 ---

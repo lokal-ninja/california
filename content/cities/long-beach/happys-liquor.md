@@ -1,5 +1,5 @@
 ---
 title: "Happy's Liquor"
 url: /long-beach/happys-liquor/
-shop: Lebensmittel
+shop: convenience
 ---

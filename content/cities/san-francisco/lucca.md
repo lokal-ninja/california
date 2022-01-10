@@ -1,5 +1,5 @@
 ---
 title: "Lucca"
 url: /san-francisco/lucca/
-shop: Feinkost
+shop: deli
 ---

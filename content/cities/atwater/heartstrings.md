@@ -1,5 +1,5 @@
 ---
 title: "Heartstrings"
 url: /atwater/heartstrings/
-shop: Andenken
+shop: gift
 ---

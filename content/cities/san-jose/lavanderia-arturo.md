@@ -1,5 +1,5 @@
 ---
 title: "Lavanderia Arturo"
 url: /san-jose/lavanderia-arturo/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /san-jose/chevron-10/
-shop: Autowerkstatt
+shop: car repair
 ---

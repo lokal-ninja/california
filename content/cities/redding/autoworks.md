@@ -1,5 +1,5 @@
 ---
 title: "Autoworks"
 url: /redding/autoworks/
-shop: Autowerkstatt
+shop: car repair
 ---

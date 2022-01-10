@@ -1,5 +1,5 @@
 ---
 title: "Atomic City"
 url: /los-angeles/atomic-city/
-shop: Schmuck
+shop: jewelry
 ---

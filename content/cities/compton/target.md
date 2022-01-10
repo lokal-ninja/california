@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /compton/target/
-shop: Warenhaus
+shop: department store
 ---

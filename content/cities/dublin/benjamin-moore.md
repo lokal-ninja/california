@@ -1,5 +1,5 @@
 ---
 title: "Benjamin Moore"
 url: /dublin/benjamin-moore/
-shop: Farben
+shop: paint
 ---

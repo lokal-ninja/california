@@ -1,5 +1,5 @@
 ---
 title: "Sival"
 url: /santa-clara/sival/
-shop: Lampen
+shop: lamps
 ---

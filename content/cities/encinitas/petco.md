@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /encinitas/petco/
-shop: Tiere
+shop: pet
 ---

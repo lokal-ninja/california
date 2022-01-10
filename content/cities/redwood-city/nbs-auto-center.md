@@ -1,5 +1,5 @@
 ---
 title: "NBS Auto Center"
 url: /redwood-city/nbs-auto-center/
-shop: Autohaus
+shop: car
 ---

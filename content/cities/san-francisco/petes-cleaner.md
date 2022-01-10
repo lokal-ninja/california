@@ -1,5 +1,5 @@
 ---
 title: "Pete's Cleaner"
 url: /san-francisco/petes-cleaner/
-shop: Wäscherei
+shop: laundry
 ---

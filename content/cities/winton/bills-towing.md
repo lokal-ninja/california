@@ -1,5 +1,5 @@
 ---
 title: "Bill's Towing"
 url: /winton/bills-towing/
-shop: Autowerkstatt
+shop: car repair
 ---

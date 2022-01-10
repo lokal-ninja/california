@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /san-francisco/decathlon-2/
-shop: Sport
+shop: sports
 ---

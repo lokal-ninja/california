@@ -1,5 +1,5 @@
 ---
 title: "Union Salon"
 url: /pasadena/union-salon/
-shop: Friseur
+shop: hairdresser
 ---

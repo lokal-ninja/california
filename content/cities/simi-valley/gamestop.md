@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /simi-valley/gamestop/
-shop: Videospiele
+shop: video games
 ---

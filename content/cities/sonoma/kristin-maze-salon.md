@@ -1,5 +1,5 @@
 ---
 title: "Kristin Maze Salon"
 url: /sonoma/kristin-maze-salon/
-shop: Kosmetik
+shop: beauty
 ---

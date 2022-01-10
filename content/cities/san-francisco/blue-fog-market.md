@@ -1,5 +1,5 @@
 ---
 title: "Blue Fog Market"
 url: /san-francisco/blue-fog-market/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trendy Nails"
 url: /roseville/trendy-nails/
-shop: Kosmetik
+shop: beauty
 ---

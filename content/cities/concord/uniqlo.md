@@ -1,5 +1,5 @@
 ---
 title: "Uniqlo"
 url: /concord/uniqlo/
-shop: Kleidung
+shop: clothes
 ---

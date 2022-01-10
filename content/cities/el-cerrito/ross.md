@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /el-cerrito/ross/
-shop: Warenhaus
+shop: department store
 ---

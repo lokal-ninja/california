@@ -1,5 +1,5 @@
 ---
 title: "Rudy's Barbershop"
 url: /vacaville/rudys-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

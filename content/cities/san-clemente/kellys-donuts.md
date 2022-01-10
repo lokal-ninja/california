@@ -1,5 +1,5 @@
 ---
 title: "Kelly's Donuts"
 url: /san-clemente/kellys-donuts/
-shop: Konditorei
+shop: pastry
 ---

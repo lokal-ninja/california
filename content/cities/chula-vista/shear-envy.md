@@ -1,5 +1,5 @@
 ---
 title: "Shear Envy"
 url: /chula-vista/shear-envy/
-shop: Friseur
+shop: hairdresser
 ---

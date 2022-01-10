@@ -1,5 +1,5 @@
 ---
 title: "Superior Auto Repair"
 url: /lebec/superior-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

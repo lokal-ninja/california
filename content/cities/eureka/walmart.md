@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /eureka/walmart/
-shop: Warenhaus
+shop: department store
 ---

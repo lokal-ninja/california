@@ -1,5 +1,5 @@
 ---
 title: "Unique Clothing"
 url: /half-moon-bay/unique-clothing/
-shop: Kleidung
+shop: clothes
 ---

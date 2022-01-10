@@ -1,5 +1,5 @@
 ---
 title: "Pleasure Liquors"
 url: /downey/pleasure-liquors/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Canyon Cleaners"
 url: /west-hollywood/canyon-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

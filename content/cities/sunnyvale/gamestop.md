@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /sunnyvale/gamestop/
-shop: Videospiele
+shop: video games
 ---

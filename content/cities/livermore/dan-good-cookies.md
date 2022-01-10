@@ -1,5 +1,5 @@
 ---
 title: "Dan Good Cookies"
 url: /livermore/dan-good-cookies/
-shop: Bäckerei
+shop: bakery
 ---

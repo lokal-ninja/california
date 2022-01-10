@@ -1,5 +1,5 @@
 ---
 title: "Maya Microblading"
 url: /folsom/maya-microblading/
-shop: Allgemein
+shop: shop
 ---

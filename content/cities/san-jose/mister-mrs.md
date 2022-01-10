@@ -1,5 +1,5 @@
 ---
 title: "Mister+Mrs."
 url: /san-jose/mister-mrs/
-shop: Friseur
+shop: hairdresser
 ---

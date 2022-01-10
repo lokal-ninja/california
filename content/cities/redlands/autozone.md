@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /redlands/autozone/
-shop: Autoteile
+shop: car parts
 ---

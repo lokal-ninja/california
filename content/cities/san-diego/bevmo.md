@@ -1,5 +1,5 @@
 ---
 title: "BevMo!"
 url: /san-diego/bevmo/
-shop: Spirituosen
+shop: alcohol
 ---

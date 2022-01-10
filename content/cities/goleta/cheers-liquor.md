@@ -1,5 +1,5 @@
 ---
 title: "Cheer's Liquor"
 url: /goleta/cheers-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Royal Nail Spa"
 url: /san-jose/royal-nail-spa-2/
-shop: Kosmetik
+shop: beauty
 ---

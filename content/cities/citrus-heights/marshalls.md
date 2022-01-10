@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /citrus-heights/marshalls/
-shop: Warenhaus
+shop: department store
 ---

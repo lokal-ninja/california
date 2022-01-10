@@ -1,5 +1,5 @@
 ---
 title: "Zenergy"
 url: /fremont/zenergy/
-shop: Massage
+shop: massage
 ---

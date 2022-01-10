@@ -1,5 +1,5 @@
 ---
 title: "Modern Market"
 url: /san-francisco/modern-market/
-shop: Lebensmittel
+shop: convenience
 ---

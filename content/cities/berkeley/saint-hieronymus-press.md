@@ -1,5 +1,5 @@
 ---
 title: "Saint Hieronymus Press"
 url: /berkeley/saint-hieronymus-press/
-shop: Schreibwaren
+shop: office supplies
 ---

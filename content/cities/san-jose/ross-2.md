@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /san-jose/ross-2/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Central Valley Collision Center"
 url: /merced/central-valley-collision-center/
-shop: Autowerkstatt
+shop: car repair
 ---

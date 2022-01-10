@@ -1,5 +1,5 @@
 ---
 title: "Hustler Hollywood"
 url: /san-diego/hustler-hollywood/
-shop: Erotik
+shop: erotic
 ---

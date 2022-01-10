@@ -1,5 +1,5 @@
 ---
 title: "Mission"
 url: /san-francisco/mission/
-shop: Sport
+shop: sports
 ---

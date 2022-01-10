@@ -1,5 +1,5 @@
 ---
 title: "Infinitel"
 url: /san-francisco/infinitel/
-shop: Handy
+shop: mobile phone
 ---

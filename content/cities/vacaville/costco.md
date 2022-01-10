@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /vacaville/costco/
-shop: Großhandel
+shop: wholesale
 ---

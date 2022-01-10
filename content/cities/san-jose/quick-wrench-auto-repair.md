@@ -1,5 +1,5 @@
 ---
 title: "Quick Wrench Auto Repair"
 url: /san-jose/quick-wrench-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /la-verne/vons/
-shop: Supermarkt
+shop: supermarket
 ---

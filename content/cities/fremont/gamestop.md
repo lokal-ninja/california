@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /fremont/gamestop/
-shop: Videospiele
+shop: video games
 ---

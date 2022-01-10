@@ -1,5 +1,5 @@
 ---
 title: "Hilmar Travel Agency"
 url: /hilmar/hilmar-travel-agency/
-shop: Reisebüro
+shop: travel agency
 ---

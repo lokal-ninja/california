@@ -1,5 +1,5 @@
 ---
 title: "Aleniz"
 url: /irvine/aleniz/
-shop: Allgemein
+shop: shop
 ---

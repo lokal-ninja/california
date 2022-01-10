@@ -1,5 +1,5 @@
 ---
 title: "Hummingbird Beauty"
 url: /san-jose/hummingbird-beauty/
-shop: Kosmetik
+shop: beauty
 ---

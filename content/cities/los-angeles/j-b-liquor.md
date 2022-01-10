@@ -1,5 +1,5 @@
 ---
 title: "J B Liquor"
 url: /los-angeles/j-b-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

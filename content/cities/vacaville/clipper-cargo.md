@@ -1,5 +1,5 @@
 ---
 title: "Clipper Cargo"
 url: /vacaville/clipper-cargo/
-shop: Leiher
+shop: pawnbroker
 ---

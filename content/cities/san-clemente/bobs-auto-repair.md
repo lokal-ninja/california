@@ -1,5 +1,5 @@
 ---
 title: "Bob's Auto Repair"
 url: /san-clemente/bobs-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

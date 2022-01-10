@@ -1,5 +1,5 @@
 ---
 title: "Hilti"
 url: /cupertino/hilti/
-shop: Eisenwaren
+shop: hardware
 ---

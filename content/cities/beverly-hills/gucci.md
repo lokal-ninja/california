@@ -1,5 +1,5 @@
 ---
 title: "Gucci"
 url: /beverly-hills/gucci/
-shop: Kleidung
+shop: clothes
 ---

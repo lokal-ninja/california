@@ -1,5 +1,5 @@
 ---
 title: "Hair For Today"
 url: /truckee/hair-for-today/
-shop: Friseur
+shop: hairdresser
 ---

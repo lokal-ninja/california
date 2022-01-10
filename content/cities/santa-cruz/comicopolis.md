@@ -1,5 +1,5 @@
 ---
 title: "Comicopolis"
 url: /santa-cruz/comicopolis/
-shop: Allgemein
+shop: shop
 ---

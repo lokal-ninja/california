@@ -1,5 +1,5 @@
 ---
 title: "Tea for U"
 url: /milpitas/tea-for-u/
-shop: Tee
+shop: tea
 ---

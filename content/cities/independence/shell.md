@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /independence/shell/
-shop: Lebensmittel
+shop: convenience
 ---

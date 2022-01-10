@@ -1,5 +1,5 @@
 ---
 title: "OAK Los Angeles"
 url: /los-angeles/oak-los-angeles/
-shop: Kleidung
+shop: clothes
 ---

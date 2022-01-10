@@ -1,5 +1,5 @@
 ---
 title: "Sutter Nails"
 url: /san-francisco/sutter-nails/
-shop: Kosmetik
+shop: beauty
 ---

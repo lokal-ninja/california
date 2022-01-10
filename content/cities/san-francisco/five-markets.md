@@ -1,5 +1,5 @@
 ---
 title: "Five Markets"
 url: /san-francisco/five-markets/
-shop: Supermarkt
+shop: supermarket
 ---

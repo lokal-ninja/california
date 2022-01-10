@@ -1,5 +1,5 @@
 ---
 title: "Afishinados"
 url: /avalon/afishinados/
-shop: Kunst
+shop: art
 ---

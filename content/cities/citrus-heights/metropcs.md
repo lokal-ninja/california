@@ -1,5 +1,5 @@
 ---
 title: "MetroPCS"
 url: /citrus-heights/metropcs/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Discount Cigarettes"
 url: /san-jose/discount-cigarettes-2/
-shop: Tabak
+shop: tobacco
 ---

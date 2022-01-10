@@ -1,5 +1,5 @@
 ---
 title: "Liquor Barn"
 url: /redding/liquor-barn/
-shop: Spirituosen
+shop: alcohol
 ---

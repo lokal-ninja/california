@@ -1,5 +1,5 @@
 ---
 title: "Gilroy Nails"
 url: /gilroy/gilroy-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /goleta/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

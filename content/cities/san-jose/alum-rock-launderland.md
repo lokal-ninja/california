@@ -1,5 +1,5 @@
 ---
 title: "Alum Rock Launderland"
 url: /san-jose/alum-rock-launderland/
-shop: Wäscherei
+shop: laundry
 ---

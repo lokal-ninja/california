@@ -1,5 +1,5 @@
 ---
 title: "growing up"
 url: /san-francisco/growing-up/
-shop: Spielzeug
+shop: toys
 ---

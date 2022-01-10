@@ -1,5 +1,5 @@
 ---
 title: "Uncle Joe's Automotive"
 url: /san-clemente/uncle-joes-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /yucaipa/ross/
-shop: Warenhaus
+shop: department store
 ---

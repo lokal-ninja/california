@@ -1,5 +1,5 @@
 ---
 title: "Salon Novo"
 url: /sonoma/salon-novo/
-shop: Kosmetik
+shop: beauty
 ---

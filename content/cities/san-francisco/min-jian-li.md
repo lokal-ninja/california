@@ -1,5 +1,5 @@
 ---
 title: "Min Jian Li"
 url: /san-francisco/min-jian-li/
-shop: Kräuter
+shop: herbalist
 ---

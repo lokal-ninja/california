@@ -1,5 +1,5 @@
 ---
 title: "Otay Mesa Self Storage"
 url: /san-diego/otay-mesa-self-storage/
-shop: Mieten
+shop: storage rental
 ---

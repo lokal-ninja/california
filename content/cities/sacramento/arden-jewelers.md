@@ -1,5 +1,5 @@
 ---
 title: "Arden Jewelers"
 url: /sacramento/arden-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

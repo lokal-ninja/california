@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /lancaster/sprint/
-shop: Handy
+shop: mobile phone
 ---

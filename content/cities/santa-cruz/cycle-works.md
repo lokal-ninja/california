@@ -1,5 +1,5 @@
 ---
 title: "Cycle Works"
 url: /santa-cruz/cycle-works/
-shop: Fahrrad
+shop: bicycle
 ---

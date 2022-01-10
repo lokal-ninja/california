@@ -1,5 +1,5 @@
 ---
 title: "Manresa Bread"
 url: /los-altos/manresa-bread/
-shop: Bäckerei
+shop: bakery
 ---

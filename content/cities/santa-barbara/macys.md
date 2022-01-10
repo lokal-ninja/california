@@ -1,5 +1,5 @@
 ---
 title: "Macy's"
 url: /santa-barbara/macys/
-shop: Warenhaus
+shop: department store
 ---

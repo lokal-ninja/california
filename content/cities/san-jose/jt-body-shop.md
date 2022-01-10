@@ -1,5 +1,5 @@
 ---
 title: "JT Body Shop"
 url: /san-jose/jt-body-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

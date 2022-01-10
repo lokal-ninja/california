@@ -1,5 +1,5 @@
 ---
 title: "Vino"
 url: /oakland/vino/
-shop: Wein
+shop: wine
 ---

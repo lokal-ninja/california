@@ -1,5 +1,5 @@
 ---
 title: "JJ Nails Care"
 url: /san-jose/jj-nails-care/
-shop: Kosmetik
+shop: beauty
 ---

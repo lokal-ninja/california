@@ -1,5 +1,5 @@
 ---
 title: "Keetsa"
 url: /venice/keetsa/
-shop: Betten
+shop: bed
 ---

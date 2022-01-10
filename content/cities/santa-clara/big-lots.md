@@ -1,5 +1,5 @@
 ---
 title: "Big Lots"
 url: /santa-clara/big-lots/
-shop: Warenhaus
+shop: department store
 ---

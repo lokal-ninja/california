@@ -1,5 +1,5 @@
 ---
 title: "Yelena Bridal"
 url: /monrovia/yelena-bridal/
-shop: Kleidung
+shop: clothes
 ---

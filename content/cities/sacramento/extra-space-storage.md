@@ -1,5 +1,5 @@
 ---
 title: "Extra Space Storage"
 url: /sacramento/extra-space-storage/
-shop: Mieten
+shop: storage rental
 ---

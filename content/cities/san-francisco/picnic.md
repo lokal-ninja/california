@@ -1,5 +1,5 @@
 ---
 title: "Picnic"
 url: /san-francisco/picnic/
-shop: Allgemein
+shop: shop
 ---

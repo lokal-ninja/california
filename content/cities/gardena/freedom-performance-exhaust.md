@@ -1,5 +1,5 @@
 ---
 title: "Freedom Performance Exhaust"
 url: /gardena/freedom-performance-exhaust/
-shop: Autowerkstatt
+shop: car repair
 ---

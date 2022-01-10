@@ -1,5 +1,5 @@
 ---
 title: "Sunrise Mall"
 url: /citrus-heights/sunrise-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

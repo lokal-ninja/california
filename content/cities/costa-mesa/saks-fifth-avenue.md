@@ -1,5 +1,5 @@
 ---
 title: "Saks Fifth Avenue"
 url: /costa-mesa/saks-fifth-avenue/
-shop: Warenhaus
+shop: department store
 ---

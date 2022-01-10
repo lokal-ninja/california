@@ -1,5 +1,5 @@
 ---
 title: "Grocery Outlet"
 url: /livermore/grocery-outlet/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kaliber"
 url: /santa-rosa/kaliber/
-shop: Kleidung
+shop: clothes
 ---

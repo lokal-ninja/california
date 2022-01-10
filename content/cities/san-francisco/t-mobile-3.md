@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /san-francisco/t-mobile-3/
-shop: Handy
+shop: mobile phone
 ---

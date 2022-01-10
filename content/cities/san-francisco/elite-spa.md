@@ -1,5 +1,5 @@
 ---
 title: "Elite Spa"
 url: /san-francisco/elite-spa/
-shop: Massage
+shop: massage
 ---

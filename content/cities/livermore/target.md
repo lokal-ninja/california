@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /livermore/target/
-shop: Warenhaus
+shop: department store
 ---

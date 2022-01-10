@@ -1,5 +1,5 @@
 ---
 title: "Suisun Creek Winery"
 url: /fairfield/suisun-creek-winery/
-shop: Wein
+shop: wine
 ---

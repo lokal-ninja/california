@@ -1,5 +1,5 @@
 ---
 title: "Ralphs"
 url: /rancho-cucamonga/ralphs/
-shop: Supermarkt
+shop: supermarket
 ---

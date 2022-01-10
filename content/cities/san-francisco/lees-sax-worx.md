@@ -1,5 +1,5 @@
 ---
 title: "Lee's Sax Worx"
 url: /san-francisco/lees-sax-worx/
-shop: Instrumente
+shop: musical instrument
 ---

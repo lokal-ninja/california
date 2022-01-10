@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /san-jose/ampm-2/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Advance America"
 url: /san-jose/advance-america/
-shop: Leiher
+shop: pawnbroker
 ---

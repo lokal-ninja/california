@@ -1,5 +1,5 @@
 ---
 title: "timeless"
 url: /los-angeles/timeless/
-shop: Modehaus
+shop: boutique
 ---

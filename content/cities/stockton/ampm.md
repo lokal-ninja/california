@@ -1,5 +1,5 @@
 ---
 title: "AMPM"
 url: /stockton/ampm/
-shop: Lebensmittel
+shop: convenience
 ---

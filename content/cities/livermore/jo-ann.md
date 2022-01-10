@@ -1,5 +1,5 @@
 ---
 title: "Jo-Ann"
 url: /livermore/jo-ann/
-shop: Basteln
+shop: craft
 ---

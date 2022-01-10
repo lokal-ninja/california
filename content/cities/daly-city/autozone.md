@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /daly-city/autozone/
-shop: Autoteile
+shop: car parts
 ---

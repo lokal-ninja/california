@@ -1,5 +1,5 @@
 ---
 title: "Sunny Auto Electric"
 url: /san-jose/sunny-auto-electric/
-shop: Autowerkstatt
+shop: car repair
 ---

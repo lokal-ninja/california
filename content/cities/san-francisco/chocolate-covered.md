@@ -1,5 +1,5 @@
 ---
 title: "Chocolate Covered"
 url: /san-francisco/chocolate-covered/
-shop: Schokolade
+shop: chocolate
 ---

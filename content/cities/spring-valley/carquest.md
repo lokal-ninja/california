@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /spring-valley/carquest/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /vacaville/autozone/
-shop: Autoteile
+shop: car parts
 ---

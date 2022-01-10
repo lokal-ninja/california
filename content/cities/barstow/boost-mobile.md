@@ -1,5 +1,5 @@
 ---
 title: "Boost Mobile"
 url: /barstow/boost-mobile/
-shop: Allgemein
+shop: shop
 ---

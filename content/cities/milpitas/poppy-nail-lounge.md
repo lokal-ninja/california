@@ -1,5 +1,5 @@
 ---
 title: "Poppy Nail Lounge"
 url: /milpitas/poppy-nail-lounge/
-shop: Kosmetik
+shop: beauty
 ---

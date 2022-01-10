@@ -1,5 +1,5 @@
 ---
 title: "Kmart"
 url: /petaluma/kmart/
-shop: Warenhaus
+shop: department store
 ---

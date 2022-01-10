@@ -1,5 +1,5 @@
 ---
 title: "gallery lulo"
 url: /healdsburg/gallery-lulo/
-shop: Kunst
+shop: art
 ---

@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /union-city/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

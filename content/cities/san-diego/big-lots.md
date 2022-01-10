@@ -1,5 +1,5 @@
 ---
 title: "Big Lots"
 url: /san-diego/big-lots/
-shop: Warenhaus
+shop: department store
 ---

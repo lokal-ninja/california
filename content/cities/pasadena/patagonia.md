@@ -1,5 +1,5 @@
 ---
 title: "Patagonia"
 url: /pasadena/patagonia/
-shop: Kleidung
+shop: clothes
 ---

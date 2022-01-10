@@ -1,5 +1,5 @@
 ---
 title: "Nice N Right"
 url: /san-jose/nice-n-right/
-shop: Andenken
+shop: gift
 ---

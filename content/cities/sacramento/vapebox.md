@@ -1,5 +1,5 @@
 ---
 title: "Vapebox"
 url: /sacramento/vapebox/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JC Auto Repair"
 url: /el-centro/jc-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

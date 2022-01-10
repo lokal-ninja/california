@@ -1,5 +1,5 @@
 ---
 title: "FedEx Office"
 url: /palo-alto/fedex-office/
-shop: Kopieren
+shop: copyshop
 ---

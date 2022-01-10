@@ -1,5 +1,5 @@
 ---
 title: "Old Town Furniture"
 url: /vacaville/old-town-furniture/
-shop: Möbel
+shop: furniture
 ---

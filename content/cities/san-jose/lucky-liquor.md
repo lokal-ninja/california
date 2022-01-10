@@ -1,5 +1,5 @@
 ---
 title: "Lucky Liquor"
 url: /san-jose/lucky-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

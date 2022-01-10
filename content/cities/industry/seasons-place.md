@@ -1,5 +1,5 @@
 ---
 title: "Seasons Place"
 url: /industry/seasons-place/
-shop: Einkaufszentrum
+shop: mall
 ---

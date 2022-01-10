@@ -1,5 +1,5 @@
 ---
 title: "Some Crust Bakery"
 url: /claremont/some-crust-bakery/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /calexico/autozone/
-shop: Autoteile
+shop: car parts
 ---

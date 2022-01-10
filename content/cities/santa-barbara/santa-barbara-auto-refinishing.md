@@ -1,5 +1,5 @@
 ---
 title: "Santa Barbara Auto Refinishing"
 url: /santa-barbara/santa-barbara-auto-refinishing/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Motorwerks"
 url: /cathedral-city/motorwerks/
-shop: Autowerkstatt
+shop: car repair
 ---

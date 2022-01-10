@@ -1,5 +1,5 @@
 ---
 title: "Mattress Discounters"
 url: /san-francisco/mattress-discounters/
-shop: Betten
+shop: bed
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Jam Brothers"
 url: /walnut-creek/the-jam-brothers/
-shop: Instrumente
+shop: musical instrument
 ---

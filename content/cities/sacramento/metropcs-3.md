@@ -1,5 +1,5 @@
 ---
 title: "MetroPCS"
 url: /sacramento/metropcs-3/
-shop: Handy
+shop: mobile phone
 ---

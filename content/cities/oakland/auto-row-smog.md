@@ -1,5 +1,5 @@
 ---
 title: "Auto Row Smog"
 url: /oakland/auto-row-smog/
-shop: Autowerkstatt
+shop: car repair
 ---

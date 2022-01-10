@@ -1,5 +1,5 @@
 ---
 title: "Faucets N' Fixtures"
 url: /encinitas/faucets-n-fixtures/
-shop: Eisenwaren
+shop: hardware
 ---

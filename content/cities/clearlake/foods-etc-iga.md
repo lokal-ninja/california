@@ -1,5 +1,5 @@
 ---
 title: "Foods Etc IGA"
 url: /clearlake/foods-etc-iga/
-shop: Supermarkt
+shop: supermarket
 ---

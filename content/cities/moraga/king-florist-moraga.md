@@ -1,5 +1,5 @@
 ---
 title: "King Florist Moraga"
 url: /moraga/king-florist-moraga/
-shop: Blumen
+shop: florist
 ---

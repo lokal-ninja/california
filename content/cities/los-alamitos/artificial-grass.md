@@ -1,5 +1,5 @@
 ---
 title: "Artificial Grass"
 url: /los-alamitos/artificial-grass/
-shop: Garten-Center
+shop: garden centre
 ---

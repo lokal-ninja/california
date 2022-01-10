@@ -1,5 +1,5 @@
 ---
 title: "Venezia Upholstry"
 url: /san-francisco/venezia-upholstry/
-shop: Raumausstattung
+shop: interior decoration
 ---

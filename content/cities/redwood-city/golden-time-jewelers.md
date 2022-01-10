@@ -1,5 +1,5 @@
 ---
 title: "Golden Time Jewelers"
 url: /redwood-city/golden-time-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MedSpa xl"
 url: /encinitas/medspa-xl/
-shop: Kosmetik
+shop: beauty
 ---

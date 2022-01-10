@@ -1,5 +1,5 @@
 ---
 title: "Irving Healthy Foods"
 url: /san-francisco/irving-healthy-foods/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

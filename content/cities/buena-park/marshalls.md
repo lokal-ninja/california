@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /buena-park/marshalls/
-shop: Warenhaus
+shop: department store
 ---

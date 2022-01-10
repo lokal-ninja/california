@@ -1,5 +1,5 @@
 ---
 title: "Zaki Tailoring"
 url: /san-francisco/zaki-tailoring/
-shop: Schneiderei
+shop: tailor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Venus Nail Lounge"
 url: /upland/venus-nail-lounge/
-shop: Kosmetik
+shop: beauty
 ---

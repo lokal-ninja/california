@@ -1,5 +1,5 @@
 ---
 title: "Cheda's Garage"
 url: /point-reyes-station/chedas-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

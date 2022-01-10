@@ -1,5 +1,5 @@
 ---
 title: "Saveway Market"
 url: /san-francisco/saveway-market/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /la-verne/ross/
-shop: Warenhaus
+shop: department store
 ---

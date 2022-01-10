@@ -1,5 +1,5 @@
 ---
 title: "Suisun Valley Filling Station"
 url: /fairfield/suisun-valley-filling-station/
-shop: Wein
+shop: wine
 ---

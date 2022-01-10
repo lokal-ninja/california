@@ -1,5 +1,5 @@
 ---
 title: "Bodhi Leaf Coffee Traders"
 url: /yorba-linda/bodhi-leaf-coffee-traders/
-shop: Kaffee
+shop: coffee
 ---

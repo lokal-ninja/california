@@ -1,5 +1,5 @@
 ---
 title: "Papyrus"
 url: /palo-alto/papyrus/
-shop: Andenken
+shop: gift
 ---

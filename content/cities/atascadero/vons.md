@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /atascadero/vons/
-shop: Supermarkt
+shop: supermarket
 ---

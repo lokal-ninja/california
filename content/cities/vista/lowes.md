@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /vista/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

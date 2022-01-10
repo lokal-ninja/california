@@ -1,5 +1,5 @@
 ---
 title: "Tillys"
 url: /goleta/tillys/
-shop: Kleidung
+shop: clothes
 ---

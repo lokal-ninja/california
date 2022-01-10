@@ -1,5 +1,5 @@
 ---
 title: "RC iPhone Repair"
 url: /sacramento/rc-iphone-repair/
-shop: Elektronik
+shop: electronics
 ---

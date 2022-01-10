@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /palo-alto/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

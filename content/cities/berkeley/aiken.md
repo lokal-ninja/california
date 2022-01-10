@@ -1,5 +1,5 @@
 ---
 title: "Aiken"
 url: /berkeley/aiken/
-shop: Kleidung
+shop: clothes
 ---

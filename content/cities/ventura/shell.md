@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /ventura/shell/
-shop: Lebensmittel
+shop: convenience
 ---

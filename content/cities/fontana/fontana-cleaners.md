@@ -1,5 +1,5 @@
 ---
 title: "Fontana Cleaners"
 url: /fontana/fontana-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

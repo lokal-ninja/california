@@ -1,5 +1,5 @@
 ---
 title: "Rita's Beauty Salon"
 url: /sunnyvale/ritas-beauty-salon/
-shop: Kosmetik
+shop: beauty
 ---

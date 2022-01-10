@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /ventura/target/
-shop: Warenhaus
+shop: department store
 ---

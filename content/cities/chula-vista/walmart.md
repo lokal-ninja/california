@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /chula-vista/walmart/
-shop: Warenhaus
+shop: department store
 ---

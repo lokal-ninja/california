@@ -1,5 +1,5 @@
 ---
 title: "Lucky Supermarket"
 url: /foster-city/lucky-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

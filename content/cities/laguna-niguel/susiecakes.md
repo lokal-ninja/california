@@ -1,5 +1,5 @@
 ---
 title: "SusieCakes"
 url: /laguna-niguel/susiecakes/
-shop: Konditorei
+shop: pastry
 ---

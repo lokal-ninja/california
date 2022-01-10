@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /atascadero/autozone/
-shop: Autoteile
+shop: car parts
 ---

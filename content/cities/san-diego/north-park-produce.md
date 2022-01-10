@@ -1,5 +1,5 @@
 ---
 title: "North Park Produce"
 url: /san-diego/north-park-produce/
-shop: Supermarkt
+shop: supermarket
 ---

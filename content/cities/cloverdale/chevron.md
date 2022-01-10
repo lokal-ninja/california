@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /cloverdale/chevron/
-shop: Lebensmittel
+shop: convenience
 ---

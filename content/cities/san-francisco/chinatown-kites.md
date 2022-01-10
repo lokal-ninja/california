@@ -1,5 +1,5 @@
 ---
 title: "Chinatown Kites"
 url: /san-francisco/chinatown-kites/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kmart"
 url: /temple-city/kmart/
-shop: Warenhaus
+shop: department store
 ---

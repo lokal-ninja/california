@@ -1,5 +1,5 @@
 ---
 title: "Loretto's Auto Body"
 url: /atwater/lorettos-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

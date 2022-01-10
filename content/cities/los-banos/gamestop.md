@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /los-banos/gamestop/
-shop: Videospiele
+shop: video games
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kmart"
 url: /grass-valley/kmart/
-shop: Warenhaus
+shop: department store
 ---

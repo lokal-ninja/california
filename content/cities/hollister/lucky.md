@@ -1,5 +1,5 @@
 ---
 title: "Lucky"
 url: /hollister/lucky/
-shop: Supermarkt
+shop: supermarket
 ---

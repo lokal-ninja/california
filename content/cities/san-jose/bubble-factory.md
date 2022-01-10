@@ -1,5 +1,5 @@
 ---
 title: "Bubble Factory"
 url: /san-jose/bubble-factory/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Caliber Collision"
 url: /san-jose/caliber-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sunset Sewing Center"
 url: /san-francisco/sunset-sewing-center/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wolfreign Motors"
 url: /oakland/wolfreign-motors/
-shop: Autohaus
+shop: car
 ---

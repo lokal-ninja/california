@@ -1,5 +1,5 @@
 ---
 title: "Photo One"
 url: /san-jose/photo-one/
-shop: Foto
+shop: photo
 ---

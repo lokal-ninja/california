@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /sherman-oaks/sprint/
-shop: Handy
+shop: mobile phone
 ---

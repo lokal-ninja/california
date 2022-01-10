@@ -1,5 +1,5 @@
 ---
 title: "Shore Gardens"
 url: /san-clemente/shore-gardens/
-shop: Garten-Center
+shop: garden centre
 ---

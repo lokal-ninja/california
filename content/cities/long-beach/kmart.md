@@ -1,5 +1,5 @@
 ---
 title: "Kmart"
 url: /long-beach/kmart/
-shop: Warenhaus
+shop: department store
 ---

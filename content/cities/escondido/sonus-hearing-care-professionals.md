@@ -1,5 +1,5 @@
 ---
 title: "Sonus Hearing Care Professionals"
 url: /escondido/sonus-hearing-care-professionals/
-shop: Hörgeräte
+shop: hearing aids
 ---

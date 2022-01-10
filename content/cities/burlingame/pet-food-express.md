@@ -1,5 +1,5 @@
 ---
 title: "Pet Food Express"
 url: /burlingame/pet-food-express/
-shop: Tiere
+shop: pet
 ---

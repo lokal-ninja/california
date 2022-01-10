@@ -1,5 +1,5 @@
 ---
 title: "Emerald City Laundry"
 url: /arcata/emerald-city-laundry/
-shop: Wäscherei
+shop: laundry
 ---

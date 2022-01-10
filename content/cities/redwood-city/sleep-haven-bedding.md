@@ -1,5 +1,5 @@
 ---
 title: "Sleep Haven Bedding"
 url: /redwood-city/sleep-haven-bedding/
-shop: Betten
+shop: bed
 ---

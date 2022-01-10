@@ -1,5 +1,5 @@
 ---
 title: "ProVision Optometry"
 url: /fremont/provision-optometry/
-shop: Optiker
+shop: optician
 ---

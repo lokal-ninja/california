@@ -1,5 +1,5 @@
 ---
 title: "Gen X"
 url: /lancaster/gen-x/
-shop: Kleidung
+shop: clothes
 ---

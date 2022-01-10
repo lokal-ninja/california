@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /clovis/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

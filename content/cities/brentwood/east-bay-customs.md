@@ -1,5 +1,5 @@
 ---
 title: "East Bay Customs"
 url: /brentwood/east-bay-customs/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Friendly Cuts"
 url: /san-francisco/friendly-cuts/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Central U Storage"
 url: /san-jose/central-u-storage/
-shop: Mieten
+shop: storage rental
 ---

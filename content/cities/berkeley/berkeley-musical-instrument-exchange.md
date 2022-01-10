@@ -1,5 +1,5 @@
 ---
 title: "Berkeley Musical Instrument Exchange"
 url: /berkeley/berkeley-musical-instrument-exchange/
-shop: Musik
+shop: music
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /madera/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Young's Automotive Service"
 url: /mountain-view/youngs-automotive-service/
-shop: Autowerkstatt
+shop: car repair
 ---

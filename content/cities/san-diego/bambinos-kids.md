@@ -1,5 +1,5 @@
 ---
 title: "Bambinos Kids"
 url: /san-diego/bambinos-kids/
-shop: Friseur
+shop: hairdresser
 ---

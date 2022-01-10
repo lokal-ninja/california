@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /lake-elsinore/autozone/
-shop: Autoteile
+shop: car parts
 ---

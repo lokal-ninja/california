@@ -1,5 +1,5 @@
 ---
 title: "Verizon Wireless"
 url: /san-marcos/verizon-wireless/
-shop: Handy
+shop: mobile phone
 ---

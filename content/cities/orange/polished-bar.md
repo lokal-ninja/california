@@ -1,5 +1,5 @@
 ---
 title: "Polished Bar"
 url: /orange/polished-bar/
-shop: Kosmetik
+shop: beauty
 ---

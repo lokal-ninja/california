@@ -1,5 +1,5 @@
 ---
 title: "Milpitas Launderland"
 url: /milpitas/milpitas-launderland/
-shop: Wäscherei
+shop: laundry
 ---

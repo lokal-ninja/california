@@ -1,5 +1,5 @@
 ---
 title: "Lassen's"
 url: /ventura/lassens/
-shop: Supermarkt
+shop: supermarket
 ---

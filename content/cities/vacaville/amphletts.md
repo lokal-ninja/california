@@ -1,5 +1,5 @@
 ---
 title: "Amphlett's"
 url: /vacaville/amphletts/
-shop: Raumausstattung
+shop: interior decoration
 ---

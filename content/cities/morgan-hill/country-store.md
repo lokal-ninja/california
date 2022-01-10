@@ -1,5 +1,5 @@
 ---
 title: "Country Store"
 url: /morgan-hill/country-store/
-shop: Lebensmittel
+shop: convenience
 ---

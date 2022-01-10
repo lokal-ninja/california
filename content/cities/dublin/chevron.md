@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /dublin/chevron/
-shop: Allgemein
+shop: shop
 ---

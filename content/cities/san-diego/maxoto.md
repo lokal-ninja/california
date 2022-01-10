@@ -1,5 +1,5 @@
 ---
 title: "Maxoto"
 url: /san-diego/maxoto/
-shop: Autowerkstatt
+shop: car repair
 ---

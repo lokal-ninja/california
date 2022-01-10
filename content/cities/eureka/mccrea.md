@@ -1,5 +1,5 @@
 ---
 title: "McCrea"
 url: /eureka/mccrea/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sunbelt Rentals"
 url: /el-cajon/sunbelt-rentals-2/
-shop: Mieten
+shop: storage rental
 ---

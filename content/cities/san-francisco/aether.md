@@ -1,5 +1,5 @@
 ---
 title: "Aether"
 url: /san-francisco/aether/
-shop: Kleidung
+shop: clothes
 ---

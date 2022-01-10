@@ -1,5 +1,5 @@
 ---
 title: "Current eBikes"
 url: /santa-cruz/current-ebikes/
-shop: Fahrrad
+shop: bicycle
 ---

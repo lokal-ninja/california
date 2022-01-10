@@ -1,5 +1,5 @@
 ---
 title: "Santa Rosa Pawn"
 url: /santa-rosa/santa-rosa-pawn/
-shop: Leiher
+shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /santa-cruz/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

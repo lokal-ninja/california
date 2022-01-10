@@ -1,5 +1,5 @@
 ---
 title: "PacSun"
 url: /corona/pacsun/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Circa"
 url: /mendocino/circa/
-shop: Kleidung
+shop: clothes
 ---

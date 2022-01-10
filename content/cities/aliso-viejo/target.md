@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /aliso-viejo/target/
-shop: Warenhaus
+shop: department store
 ---

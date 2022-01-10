@@ -1,5 +1,5 @@
 ---
 title: "Nails for Her"
 url: /san-diego/nails-for-her/
-shop: Kosmetik
+shop: beauty
 ---

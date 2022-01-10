@@ -1,5 +1,5 @@
 ---
 title: "Alan's Cut"
 url: /el-cajon/alans-cut/
-shop: Friseur
+shop: hairdresser
 ---

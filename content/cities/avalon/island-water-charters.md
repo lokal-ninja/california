@@ -1,5 +1,5 @@
 ---
 title: "Island Water Charters"
 url: /avalon/island-water-charters/
-shop: Allgemein
+shop: shop
 ---

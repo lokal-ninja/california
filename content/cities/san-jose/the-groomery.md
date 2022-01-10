@@ -1,5 +1,5 @@
 ---
 title: "The Groomery"
 url: /san-jose/the-groomery/
-shop: Tiersalon
+shop: pet grooming
 ---

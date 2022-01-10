@@ -1,5 +1,5 @@
 ---
 title: "Empire Bikes"
 url: /monrovia/empire-bikes/
-shop: Fahrrad
+shop: bicycle
 ---

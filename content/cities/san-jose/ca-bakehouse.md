@@ -1,5 +1,5 @@
 ---
 title: "CA Bakehouse"
 url: /san-jose/ca-bakehouse/
-shop: Bäckerei
+shop: bakery
 ---

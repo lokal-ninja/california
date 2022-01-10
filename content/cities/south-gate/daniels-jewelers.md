@@ -1,5 +1,5 @@
 ---
 title: "Daniel's Jewelers"
 url: /south-gate/daniels-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

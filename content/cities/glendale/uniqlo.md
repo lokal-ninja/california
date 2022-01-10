@@ -1,5 +1,5 @@
 ---
 title: "Uniqlo"
 url: /glendale/uniqlo/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "OWSLA Goods"
 url: /los-angeles/owsla-goods/
-shop: Allgemein
+shop: shop
 ---

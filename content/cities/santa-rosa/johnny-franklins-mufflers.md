@@ -1,5 +1,5 @@
 ---
 title: "Johnny Franklin's Mufflers"
 url: /santa-rosa/johnny-franklins-mufflers/
-shop: Autowerkstatt
+shop: car repair
 ---

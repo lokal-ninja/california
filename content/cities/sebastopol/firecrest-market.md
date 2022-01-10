@@ -1,5 +1,5 @@
 ---
 title: "Firecrest Market"
 url: /sebastopol/firecrest-market/
-shop: Supermarkt
+shop: supermarket
 ---

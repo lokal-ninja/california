@@ -1,5 +1,5 @@
 ---
 title: "Pep Boys"
 url: /san-carlos/pep-boys/
-shop: Autowerkstatt
+shop: car repair
 ---

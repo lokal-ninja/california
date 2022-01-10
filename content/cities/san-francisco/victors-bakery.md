@@ -1,5 +1,5 @@
 ---
 title: "Victor's Bakery"
 url: /san-francisco/victors-bakery/
-shop: Bäckerei
+shop: bakery
 ---

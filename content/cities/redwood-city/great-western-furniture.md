@@ -1,5 +1,5 @@
 ---
 title: "Great Western Furniture"
 url: /redwood-city/great-western-furniture/
-shop: Möbel
+shop: furniture
 ---

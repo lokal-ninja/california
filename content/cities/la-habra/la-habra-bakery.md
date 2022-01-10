@@ -1,5 +1,5 @@
 ---
 title: "La Habra Bakery"
 url: /la-habra/la-habra-bakery/
-shop: Bäckerei
+shop: bakery
 ---

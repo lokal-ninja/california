@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /kerman/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tankfarm"
 url: /seal-beach/tankfarm/
-shop: Kleidung
+shop: clothes
 ---

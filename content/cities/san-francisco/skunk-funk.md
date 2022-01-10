@@ -1,5 +1,5 @@
 ---
 title: "Skunk Funk"
 url: /san-francisco/skunk-funk/
-shop: Kleidung
+shop: clothes
 ---

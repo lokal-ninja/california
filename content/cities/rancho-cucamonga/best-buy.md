@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /rancho-cucamonga/best-buy/
-shop: Elektronik
+shop: electronics
 ---

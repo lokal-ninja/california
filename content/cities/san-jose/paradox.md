@@ -1,5 +1,5 @@
 ---
 title: "/Paradox/"
 url: /san-jose/paradox/
-shop: Friseur
+shop: hairdresser
 ---

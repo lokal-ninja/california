@@ -1,5 +1,5 @@
 ---
 title: "Hairview Salon"
 url: /san-francisco/hairview-salon/
-shop: Friseur
+shop: hairdresser
 ---

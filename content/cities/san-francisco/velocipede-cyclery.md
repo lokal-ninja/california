@@ -1,5 +1,5 @@
 ---
 title: "Velocipede Cyclery"
 url: /san-francisco/velocipede-cyclery/
-shop: Fahrrad
+shop: bicycle
 ---

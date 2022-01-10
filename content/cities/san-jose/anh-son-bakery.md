@@ -1,5 +1,5 @@
 ---
 title: "Anh Sơn Bakery"
 url: /san-jose/anh-son-bakery/
-shop: Bäckerei
+shop: bakery
 ---

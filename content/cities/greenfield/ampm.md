@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /greenfield/ampm/
-shop: Lebensmittel
+shop: convenience
 ---

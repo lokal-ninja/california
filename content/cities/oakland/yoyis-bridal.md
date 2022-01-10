@@ -1,5 +1,5 @@
 ---
 title: "Yoyi's Bridal"
 url: /oakland/yoyis-bridal/
-shop: Kleidung
+shop: clothes
 ---

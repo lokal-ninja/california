@@ -1,5 +1,5 @@
 ---
 title: "Minnesota Market"
 url: /san-jose/minnesota-market/
-shop: Lebensmittel
+shop: convenience
 ---

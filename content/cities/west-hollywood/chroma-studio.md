@@ -1,5 +1,5 @@
 ---
 title: "Chroma Studio"
 url: /west-hollywood/chroma-studio/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pet Food Express"
 url: /redwood-city/pet-food-express/
-shop: Tiere
+shop: pet
 ---

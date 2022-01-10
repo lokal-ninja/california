@@ -1,5 +1,5 @@
 ---
 title: "Bryant Transmission Center"
 url: /san-francisco/bryant-transmission-center/
-shop: Autowerkstatt
+shop: car repair
 ---

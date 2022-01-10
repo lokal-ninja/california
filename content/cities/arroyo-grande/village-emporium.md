@@ -1,5 +1,5 @@
 ---
 title: "Village Emporium"
 url: /arroyo-grande/village-emporium/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Grocery Outlet"
 url: /vallejo/grocery-outlet/
-shop: Supermarkt
+shop: supermarket
 ---

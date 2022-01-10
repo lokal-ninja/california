@@ -1,5 +1,5 @@
 ---
 title: "Odyssey Liquor"
 url: /long-beach/odyssey-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

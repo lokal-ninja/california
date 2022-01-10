@@ -1,5 +1,5 @@
 ---
 title: "Tesla"
 url: /vallejo/tesla/
-shop: Autohaus
+shop: car
 ---

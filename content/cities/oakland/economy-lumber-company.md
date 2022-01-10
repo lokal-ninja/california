@@ -1,5 +1,5 @@
 ---
 title: "Economy Lumber Company"
 url: /oakland/economy-lumber-company/
-shop: Allgemein
+shop: shop
 ---

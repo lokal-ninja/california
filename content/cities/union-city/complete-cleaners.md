@@ -1,5 +1,5 @@
 ---
 title: "Complete Cleaners"
 url: /union-city/complete-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

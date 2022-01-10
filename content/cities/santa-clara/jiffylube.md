@@ -1,5 +1,5 @@
 ---
 title: "JiffyLube"
 url: /santa-clara/jiffylube/
-shop: Autowerkstatt
+shop: car repair
 ---

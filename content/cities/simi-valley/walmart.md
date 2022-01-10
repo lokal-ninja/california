@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /simi-valley/walmart/
-shop: Warenhaus
+shop: department store
 ---

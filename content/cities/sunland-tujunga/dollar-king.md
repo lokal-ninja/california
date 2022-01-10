@@ -1,5 +1,5 @@
 ---
 title: "Dollar King"
 url: /sunland-tujunga/dollar-king/
-shop: Kramladen
+shop: variety store
 ---

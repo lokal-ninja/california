@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /garden-grove/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

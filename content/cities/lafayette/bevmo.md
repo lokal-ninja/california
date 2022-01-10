@@ -1,5 +1,5 @@
 ---
 title: "BevMo!"
 url: /lafayette/bevmo/
-shop: Spirituosen
+shop: alcohol
 ---

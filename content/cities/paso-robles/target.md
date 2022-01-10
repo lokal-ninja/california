@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /paso-robles/target/
-shop: Warenhaus
+shop: department store
 ---

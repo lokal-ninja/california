@@ -1,5 +1,5 @@
 ---
 title: "Roper's Jewelers - North Auburn"
 url: /auburn/ropers-jewelers-north-auburn/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bill's Market"
 url: /san-jose/bills-market/
-shop: Lebensmittel
+shop: convenience
 ---

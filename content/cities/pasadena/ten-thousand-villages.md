@@ -1,5 +1,5 @@
 ---
 title: "Ten Thousand Villages"
 url: /pasadena/ten-thousand-villages/
-shop: Modehaus
+shop: boutique
 ---

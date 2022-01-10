@@ -1,5 +1,5 @@
 ---
 title: "Dress Barn"
 url: /campbell/dress-barn/
-shop: Kleidung
+shop: clothes
 ---

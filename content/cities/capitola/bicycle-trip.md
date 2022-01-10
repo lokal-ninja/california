@@ -1,5 +1,5 @@
 ---
 title: "Bicycle Trip"
 url: /capitola/bicycle-trip/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /stockton/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /milpitas/chevron/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eureka Spring and Iron"
 url: /eureka/eureka-spring-and-iron/
-shop: Autowerkstatt
+shop: car repair
 ---

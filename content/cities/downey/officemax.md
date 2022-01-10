@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /downey/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

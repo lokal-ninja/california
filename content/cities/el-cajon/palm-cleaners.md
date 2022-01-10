@@ -1,5 +1,5 @@
 ---
 title: "Palm Cleaners"
 url: /el-cajon/palm-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

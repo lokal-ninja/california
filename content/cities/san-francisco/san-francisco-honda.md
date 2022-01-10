@@ -1,5 +1,5 @@
 ---
 title: "San Francisco Honda"
 url: /san-francisco/san-francisco-honda/
-shop: Autowerkstatt
+shop: car repair
 ---

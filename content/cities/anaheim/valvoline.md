@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /anaheim/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

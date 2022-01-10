@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /moreno-valley/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

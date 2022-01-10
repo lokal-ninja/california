@@ -1,5 +1,5 @@
 ---
 title: "Dolly Nail and Spa"
 url: /salinas/dolly-nail-and-spa/
-shop: Kosmetik
+shop: beauty
 ---

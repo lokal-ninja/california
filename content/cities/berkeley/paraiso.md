@@ -1,5 +1,5 @@
 ---
 title: "Paraíso"
 url: /berkeley/paraiso/
-shop: Blumen
+shop: florist
 ---

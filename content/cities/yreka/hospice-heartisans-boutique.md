@@ -1,5 +1,5 @@
 ---
 title: "Hospice Heartisans Boutique"
 url: /yreka/hospice-heartisans-boutique/
-shop: Kleidung
+shop: clothes
 ---

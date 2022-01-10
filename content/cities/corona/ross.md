@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /corona/ross/
-shop: Warenhaus
+shop: department store
 ---

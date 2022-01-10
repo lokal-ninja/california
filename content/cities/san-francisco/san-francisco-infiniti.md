@@ -1,5 +1,5 @@
 ---
 title: "San Francisco Infiniti"
 url: /san-francisco/san-francisco-infiniti/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Sorpresa Barata"
 url: /escondido/la-sorpresa-barata/
-shop: Lebensmittel
+shop: convenience
 ---

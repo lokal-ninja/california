@@ -1,5 +1,5 @@
 ---
 title: "Parreria's Auto Repair"
 url: /gustine/parrerias-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

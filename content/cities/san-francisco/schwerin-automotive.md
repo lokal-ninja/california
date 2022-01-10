@@ -1,5 +1,5 @@
 ---
 title: "Schwerin Automotive"
 url: /san-francisco/schwerin-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

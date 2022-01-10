@@ -1,5 +1,5 @@
 ---
 title: "The Vapor Lair"
 url: /santa-ana/the-vapor-lair/
-shop: Kosmetik
+shop: beauty
 ---

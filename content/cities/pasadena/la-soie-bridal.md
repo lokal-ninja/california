@@ -1,5 +1,5 @@
 ---
 title: "La Soie Bridal"
 url: /pasadena/la-soie-bridal/
-shop: Kleidung
+shop: clothes
 ---

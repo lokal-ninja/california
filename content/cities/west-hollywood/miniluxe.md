@@ -1,5 +1,5 @@
 ---
 title: "MiniLuxe"
 url: /west-hollywood/miniluxe/
-shop: Kosmetik
+shop: beauty
 ---

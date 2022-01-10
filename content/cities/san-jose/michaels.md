@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /san-jose/michaels/
-shop: Basteln
+shop: craft
 ---

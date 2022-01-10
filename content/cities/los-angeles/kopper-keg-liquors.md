@@ -1,5 +1,5 @@
 ---
 title: "Kopper Keg Liquors"
 url: /los-angeles/kopper-keg-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

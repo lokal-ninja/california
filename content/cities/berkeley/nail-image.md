@@ -1,5 +1,5 @@
 ---
 title: "Nail Image"
 url: /berkeley/nail-image/
-shop: Kosmetik
+shop: beauty
 ---

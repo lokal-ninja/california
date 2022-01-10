@@ -1,5 +1,5 @@
 ---
 title: "Face-N-Body"
 url: /mountain-view/face-n-body/
-shop: Kosmetik
+shop: beauty
 ---

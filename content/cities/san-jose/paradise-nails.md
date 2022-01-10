@@ -1,5 +1,5 @@
 ---
 title: "Paradise Nails"
 url: /san-jose/paradise-nails/
-shop: Kosmetik
+shop: beauty
 ---

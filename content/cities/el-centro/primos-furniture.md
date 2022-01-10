@@ -1,5 +1,5 @@
 ---
 title: "Primos Furniture"
 url: /el-centro/primos-furniture/
-shop: Möbel
+shop: furniture
 ---

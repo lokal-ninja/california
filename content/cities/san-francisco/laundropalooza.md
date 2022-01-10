@@ -1,5 +1,5 @@
 ---
 title: "Laundropalooza"
 url: /san-francisco/laundropalooza/
-shop: Wäscherei
+shop: laundry
 ---

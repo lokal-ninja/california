@@ -1,5 +1,5 @@
 ---
 title: "Kmart"
 url: /hayward/kmart/
-shop: Warenhaus
+shop: department store
 ---

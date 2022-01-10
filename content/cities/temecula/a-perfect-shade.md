@@ -1,5 +1,5 @@
 ---
 title: "A Perfect Shade"
 url: /temecula/a-perfect-shade/
-shop: Autoteile
+shop: car parts
 ---

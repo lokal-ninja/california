@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /irvine/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

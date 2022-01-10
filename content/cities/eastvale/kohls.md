@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /eastvale/kohls/
-shop: Warenhaus
+shop: department store
 ---

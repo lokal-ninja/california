@@ -1,5 +1,5 @@
 ---
 title: "A Wireless LLC"
 url: /merced/a-wireless-llc/
-shop: Handy
+shop: mobile phone
 ---

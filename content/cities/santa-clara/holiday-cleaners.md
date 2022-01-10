@@ -1,5 +1,5 @@
 ---
 title: "Holiday Cleaners"
 url: /santa-clara/holiday-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

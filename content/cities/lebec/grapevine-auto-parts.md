@@ -1,5 +1,5 @@
 ---
 title: "Grapevine Auto Parts"
 url: /lebec/grapevine-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Keetsa"
 url: /san-francisco/keetsa/
-shop: Betten
+shop: bed
 ---

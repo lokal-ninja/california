@@ -1,5 +1,5 @@
 ---
 title: "Botanica San Juda's"
 url: /coachella/botanica-san-judas/
-shop: Kräuter
+shop: herbalist
 ---

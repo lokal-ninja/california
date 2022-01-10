@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /turlock/claires/
-shop: Allgemein
+shop: shop
 ---

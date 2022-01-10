@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
 url: /lancaster/extramile/
-shop: Lebensmittel
+shop: convenience
 ---

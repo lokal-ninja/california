@@ -1,5 +1,5 @@
 ---
 title: "Fred's Cleaners Alamo"
 url: /alamo/freds-cleaners-alamo/
-shop: Wäscherei
+shop: laundry
 ---

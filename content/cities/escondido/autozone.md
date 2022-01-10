@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /escondido/autozone/
-shop: Autoteile
+shop: car parts
 ---

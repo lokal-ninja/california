@@ -1,5 +1,5 @@
 ---
 title: "Toss Designs"
 url: /palo-alto/toss-designs/
-shop: Allgemein
+shop: shop
 ---

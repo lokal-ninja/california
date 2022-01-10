@@ -1,5 +1,5 @@
 ---
 title: "El Super"
 url: /santa-ana/el-super/
-shop: Supermarkt
+shop: supermarket
 ---

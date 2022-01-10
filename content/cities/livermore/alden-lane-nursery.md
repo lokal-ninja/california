@@ -1,5 +1,5 @@
 ---
 title: "Alden Lane Nursery"
 url: /livermore/alden-lane-nursery/
-shop: Garten-Center
+shop: garden centre
 ---

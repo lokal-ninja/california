@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /cupertino/chevron/
-shop: Lebensmittel
+shop: convenience
 ---

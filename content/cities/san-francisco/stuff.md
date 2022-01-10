@@ -1,5 +1,5 @@
 ---
 title: "Stuff"
 url: /san-francisco/stuff/
-shop: Möbel
+shop: furniture
 ---

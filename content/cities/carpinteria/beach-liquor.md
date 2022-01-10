@@ -1,5 +1,5 @@
 ---
 title: "Beach Liquor"
 url: /carpinteria/beach-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /livermore/walmart/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /anaheim/ampm/
-shop: Lebensmittel
+shop: convenience
 ---

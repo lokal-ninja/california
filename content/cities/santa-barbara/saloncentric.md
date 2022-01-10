@@ -1,5 +1,5 @@
 ---
 title: "SalonCentric"
 url: /santa-barbara/saloncentric/
-shop: Kosmetik
+shop: beauty
 ---

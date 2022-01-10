@@ -1,5 +1,5 @@
 ---
 title: "Fantastic Sams"
 url: /rancho-cucamonga/fantastic-sams/
-shop: Friseur
+shop: hairdresser
 ---

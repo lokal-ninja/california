@@ -1,5 +1,5 @@
 ---
 title: "The Body Shoppe"
 url: /alameda/the-body-shoppe/
-shop: Autowerkstatt
+shop: car repair
 ---

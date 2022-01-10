@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /san-clemente/albertsons/
-shop: Supermarkt
+shop: supermarket
 ---

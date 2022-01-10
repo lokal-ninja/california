@@ -1,5 +1,5 @@
 ---
 title: "Candelas Guitars"
 url: /los-angeles/candelas-guitars/
-shop: Instrumente
+shop: musical instrument
 ---

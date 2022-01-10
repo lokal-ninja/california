@@ -1,5 +1,5 @@
 ---
 title: "Pioneer Bicycles"
 url: /oakland/pioneer-bicycles/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "StorQuest"
 url: /la-mesa/storquest/
-shop: Mieten
+shop: storage rental
 ---

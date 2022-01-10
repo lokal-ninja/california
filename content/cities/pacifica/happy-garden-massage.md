@@ -1,5 +1,5 @@
 ---
 title: "Happy Garden Massage"
 url: /pacifica/happy-garden-massage/
-shop: Massage
+shop: massage
 ---

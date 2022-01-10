@@ -1,5 +1,5 @@
 ---
 title: "Salon Philosophie"
 url: /vacaville/salon-philosophie/
-shop: Friseur
+shop: hairdresser
 ---

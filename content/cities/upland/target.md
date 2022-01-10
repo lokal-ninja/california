@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /upland/target/
-shop: Warenhaus
+shop: department store
 ---

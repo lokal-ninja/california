@@ -1,5 +1,5 @@
 ---
 title: "USA Furniture"
 url: /moreno-valley/usa-furniture/
-shop: Möbel
+shop: furniture
 ---

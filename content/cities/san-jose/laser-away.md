@@ -1,5 +1,5 @@
 ---
 title: "Laser Away"
 url: /san-jose/laser-away/
-shop: Kosmetik
+shop: beauty
 ---

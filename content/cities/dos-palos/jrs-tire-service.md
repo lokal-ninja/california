@@ -1,5 +1,5 @@
 ---
 title: "JRS Tire Service"
 url: /dos-palos/jrs-tire-service/
-shop: Autowerkstatt
+shop: car repair
 ---

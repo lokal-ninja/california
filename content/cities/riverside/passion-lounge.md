@@ -1,5 +1,5 @@
 ---
 title: "Passion Lounge"
 url: /riverside/passion-lounge/
-shop: Drogerie
+shop: chemist
 ---

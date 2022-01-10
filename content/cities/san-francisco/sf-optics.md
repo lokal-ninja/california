@@ -1,5 +1,5 @@
 ---
 title: "SF Optics"
 url: /san-francisco/sf-optics/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cloverleaf Market"
 url: /san-diego/cloverleaf-market/
-shop: Lebensmittel
+shop: convenience
 ---

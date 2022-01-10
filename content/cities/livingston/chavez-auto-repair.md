@@ -1,5 +1,5 @@
 ---
 title: "Chavez Auto Repair"
 url: /livingston/chavez-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quiksilver"
 url: /riverside/quiksilver/
-shop: Kleidung
+shop: clothes
 ---

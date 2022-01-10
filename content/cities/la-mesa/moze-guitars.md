@@ -1,5 +1,5 @@
 ---
 title: "Moze Guitars"
 url: /la-mesa/moze-guitars/
-shop: Instrumente
+shop: musical instrument
 ---

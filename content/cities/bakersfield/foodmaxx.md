@@ -1,5 +1,5 @@
 ---
 title: "FoodMaxx"
 url: /bakersfield/foodmaxx/
-shop: Supermarkt
+shop: supermarket
 ---

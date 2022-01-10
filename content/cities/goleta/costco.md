@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /goleta/costco/
-shop: Großhandel
+shop: wholesale
 ---

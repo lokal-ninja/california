@@ -1,5 +1,5 @@
 ---
 title: "Bananas at Large"
 url: /santa-rosa/bananas-at-large/
-shop: Instrumente
+shop: musical instrument
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rabat"
 url: /san-francisco/rabat/
-shop: Kleidung
+shop: clothes
 ---

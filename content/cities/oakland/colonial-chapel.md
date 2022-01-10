@@ -1,5 +1,5 @@
 ---
 title: "Colonial Chapel"
 url: /oakland/colonial-chapel/
-shop: Bestattungen
+shop: funeral directors
 ---

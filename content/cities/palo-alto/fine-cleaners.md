@@ -1,5 +1,5 @@
 ---
 title: "Fine Cleaners"
 url: /palo-alto/fine-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

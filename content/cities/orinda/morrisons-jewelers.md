@@ -1,5 +1,5 @@
 ---
 title: "Morrison's Jewelers"
 url: /orinda/morrisons-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

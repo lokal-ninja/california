@@ -1,5 +1,5 @@
 ---
 title: "Diane's Salon"
 url: /portola-valley/dianes-salon/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cinnaholic"
 url: /berkeley/cinnaholic/
-shop: Bäckerei
+shop: bakery
 ---

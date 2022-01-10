@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /spring-valley/gamestop/
-shop: Videospiele
+shop: video games
 ---

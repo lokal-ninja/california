@@ -1,5 +1,5 @@
 ---
 title: "wandering sage"
 url: /san-diego/wandering-sage/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /corona/best-buy/
-shop: Elektronik
+shop: electronics
 ---

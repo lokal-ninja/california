@@ -1,5 +1,5 @@
 ---
 title: "Bella Nails"
 url: /belmont/bella-nails/
-shop: Kosmetik
+shop: beauty
 ---

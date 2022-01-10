@@ -1,5 +1,5 @@
 ---
 title: "Arco"
 url: /ontario/arco/
-shop: Lebensmittel
+shop: convenience
 ---

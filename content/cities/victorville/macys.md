@@ -1,5 +1,5 @@
 ---
 title: "Macy's"
 url: /victorville/macys/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /fontana/target/
-shop: Warenhaus
+shop: department store
 ---

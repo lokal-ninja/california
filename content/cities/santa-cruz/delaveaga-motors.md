@@ -1,5 +1,5 @@
 ---
 title: "Delaveaga Motors"
 url: /santa-cruz/delaveaga-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

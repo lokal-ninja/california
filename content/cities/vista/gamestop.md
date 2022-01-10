@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /vista/gamestop/
-shop: Videospiele
+shop: video games
 ---

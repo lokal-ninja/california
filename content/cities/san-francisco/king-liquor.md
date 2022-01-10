@@ -1,5 +1,5 @@
 ---
 title: "King Liquor"
 url: /san-francisco/king-liquor/
-shop: Lebensmittel
+shop: convenience
 ---

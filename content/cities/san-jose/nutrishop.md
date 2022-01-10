@@ -1,5 +1,5 @@
 ---
 title: "Nutrishop"
 url: /san-jose/nutrishop/
-shop: Kräuter
+shop: herbalist
 ---

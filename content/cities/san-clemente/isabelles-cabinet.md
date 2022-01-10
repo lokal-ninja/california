@@ -1,5 +1,5 @@
 ---
 title: "Isabelle's Cabinet"
 url: /san-clemente/isabelles-cabinet/
-shop: Kleidung
+shop: clothes
 ---

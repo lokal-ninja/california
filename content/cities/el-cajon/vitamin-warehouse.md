@@ -1,5 +1,5 @@
 ---
 title: "Vitamin Warehouse"
 url: /el-cajon/vitamin-warehouse/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

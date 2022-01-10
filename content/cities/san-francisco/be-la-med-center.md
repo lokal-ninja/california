@@ -1,5 +1,5 @@
 ---
 title: "Be La Med Center"
 url: /san-francisco/be-la-med-center/
-shop: Kosmetik
+shop: beauty
 ---

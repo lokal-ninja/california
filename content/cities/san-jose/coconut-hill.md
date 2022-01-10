@@ -1,5 +1,5 @@
 ---
 title: "Coconut Hill"
 url: /san-jose/coconut-hill/
-shop: Lebensmittel
+shop: convenience
 ---

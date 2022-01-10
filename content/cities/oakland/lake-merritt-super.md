@@ -1,5 +1,5 @@
 ---
 title: "Lake Merritt Super"
 url: /oakland/lake-merritt-super/
-shop: Allgemein
+shop: shop
 ---

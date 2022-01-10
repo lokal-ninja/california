@@ -1,5 +1,5 @@
 ---
 title: "Beyond Beads"
 url: /san-francisco/beyond-beads/
-shop: Schmuck
+shop: jewelry
 ---

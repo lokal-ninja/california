@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /carlsbad/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

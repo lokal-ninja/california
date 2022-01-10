@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /simi-valley/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

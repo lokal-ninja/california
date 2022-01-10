@@ -1,5 +1,5 @@
 ---
 title: "Ferguson Waterworks (Poway)"
 url: /poway/ferguson-waterworks-poway/
-shop: Baustoffe
+shop: trade
 ---

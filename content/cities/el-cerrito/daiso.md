@@ -1,5 +1,5 @@
 ---
 title: "Daiso"
 url: /el-cerrito/daiso/
-shop: Kramladen
+shop: variety store
 ---

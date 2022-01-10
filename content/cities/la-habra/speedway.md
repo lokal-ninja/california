@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /la-habra/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

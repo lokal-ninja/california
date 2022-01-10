@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /riverside/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

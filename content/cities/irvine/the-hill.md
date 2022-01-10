@@ -1,5 +1,5 @@
 ---
 title: "The Hill"
 url: /irvine/the-hill/
-shop: Kleidung
+shop: clothes
 ---

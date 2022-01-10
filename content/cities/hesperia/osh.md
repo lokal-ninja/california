@@ -1,5 +1,5 @@
 ---
 title: "OSH"
 url: /hesperia/osh/
-shop: Baumarkt
+shop: doityourself
 ---

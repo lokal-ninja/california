@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /danville/texaco/
-shop: Lebensmittel
+shop: convenience
 ---

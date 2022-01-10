@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /indio/target/
-shop: Warenhaus
+shop: department store
 ---

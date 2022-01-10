@@ -1,5 +1,5 @@
 ---
 title: "Zenia Store"
 url: /zenia/zenia-store/
-shop: Lebensmittel
+shop: convenience
 ---

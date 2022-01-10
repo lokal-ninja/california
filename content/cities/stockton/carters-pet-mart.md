@@ -1,5 +1,5 @@
 ---
 title: "Carter's Pet Mart"
 url: /stockton/carters-pet-mart/
-shop: Tiere
+shop: pet
 ---

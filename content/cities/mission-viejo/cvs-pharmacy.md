@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /mission-viejo/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

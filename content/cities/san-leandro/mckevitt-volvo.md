@@ -1,5 +1,5 @@
 ---
 title: "McKevitt Volvo"
 url: /san-leandro/mckevitt-volvo/
-shop: Autohaus
+shop: car
 ---

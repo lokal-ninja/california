@@ -1,5 +1,5 @@
 ---
 title: "Spangler Mortuary"
 url: /los-altos/spangler-mortuary/
-shop: Bestattungen
+shop: funeral directors
 ---

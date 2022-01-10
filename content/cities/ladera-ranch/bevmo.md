@@ -1,5 +1,5 @@
 ---
 title: "BevMo!"
 url: /ladera-ranch/bevmo/
-shop: Spirituosen
+shop: alcohol
 ---

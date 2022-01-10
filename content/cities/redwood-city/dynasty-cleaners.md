@@ -1,5 +1,5 @@
 ---
 title: "Dynasty Cleaners"
 url: /redwood-city/dynasty-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

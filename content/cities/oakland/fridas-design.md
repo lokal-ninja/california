@@ -1,5 +1,5 @@
 ---
 title: "Frida's Design"
 url: /oakland/fridas-design/
-shop: Kleidung
+shop: clothes
 ---

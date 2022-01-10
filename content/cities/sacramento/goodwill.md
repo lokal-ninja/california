@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /sacramento/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

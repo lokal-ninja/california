@@ -1,5 +1,5 @@
 ---
 title: "Yvettes Bikinis"
 url: /seal-beach/yvettes-bikinis/
-shop: Kleidung
+shop: clothes
 ---

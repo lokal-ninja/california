@@ -1,5 +1,5 @@
 ---
 title: "lucy Activewear"
 url: /burlingame/lucy-activewear/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /sacramento/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

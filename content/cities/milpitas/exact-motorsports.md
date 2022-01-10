@@ -1,5 +1,5 @@
 ---
 title: "Exact Motorsports"
 url: /milpitas/exact-motorsports/
-shop: Autowerkstatt
+shop: car repair
 ---

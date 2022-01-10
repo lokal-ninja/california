@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /rancho-cucamonga/target/
-shop: Warenhaus
+shop: department store
 ---

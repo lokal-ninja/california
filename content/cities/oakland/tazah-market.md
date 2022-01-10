@@ -1,5 +1,5 @@
 ---
 title: "Tazah Market"
 url: /oakland/tazah-market/
-shop: Lebensmittel
+shop: convenience
 ---

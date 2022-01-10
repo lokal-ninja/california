@@ -1,5 +1,5 @@
 ---
 title: "Classic Auto Sales"
 url: /san-clemente/classic-auto-sales/
-shop: Autohaus
+shop: car
 ---

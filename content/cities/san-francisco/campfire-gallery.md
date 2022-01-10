@@ -1,5 +1,5 @@
 ---
 title: "Campfire Gallery"
 url: /san-francisco/campfire-gallery/
-shop: Kunst
+shop: art
 ---

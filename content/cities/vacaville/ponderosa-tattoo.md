@@ -1,5 +1,5 @@
 ---
 title: "Ponderosa Tattoo"
 url: /vacaville/ponderosa-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

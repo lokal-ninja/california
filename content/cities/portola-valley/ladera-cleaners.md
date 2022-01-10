@@ -1,5 +1,5 @@
 ---
 title: "Ladera Cleaners"
 url: /portola-valley/ladera-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Express"
 url: /northridge/express/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kelley's Cutlery Etc."
 url: /modesto/kelleys-cutlery-etc/
-shop: Haushaltsartikel
+shop: houseware
 ---

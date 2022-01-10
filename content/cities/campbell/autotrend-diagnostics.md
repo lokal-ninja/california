@@ -1,5 +1,5 @@
 ---
 title: "Autotrend Diagnostics"
 url: /campbell/autotrend-diagnostics/
-shop: Autowerkstatt
+shop: car repair
 ---

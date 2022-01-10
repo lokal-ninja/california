@@ -1,5 +1,5 @@
 ---
 title: "MAACO"
 url: /san-jose/maaco/
-shop: Autowerkstatt
+shop: car repair
 ---

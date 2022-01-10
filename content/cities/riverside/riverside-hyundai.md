@@ -1,5 +1,5 @@
 ---
 title: "Riverside Hyundai"
 url: /riverside/riverside-hyundai/
-shop: Autohaus
+shop: car
 ---

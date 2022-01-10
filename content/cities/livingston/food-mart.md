@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
 url: /livingston/food-mart/
-shop: Kramladen
+shop: variety store
 ---

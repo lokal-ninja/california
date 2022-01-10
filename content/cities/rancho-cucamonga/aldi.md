@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /rancho-cucamonga/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "OZ Salon"
 url: /san-jose/oz-salon/
-shop: Kosmetik
+shop: beauty
 ---

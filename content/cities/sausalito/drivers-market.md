@@ -1,5 +1,5 @@
 ---
 title: "Driver's Market"
 url: /sausalito/drivers-market/
-shop: Supermarkt
+shop: supermarket
 ---

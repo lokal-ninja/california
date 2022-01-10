@@ -1,5 +1,5 @@
 ---
 title: "Jalene Perfumes"
 url: /san-jose/jalene-perfumes/
-shop: Parfümerie
+shop: perfumery
 ---

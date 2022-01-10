@@ -1,5 +1,5 @@
 ---
 title: "Genray Hair Salon"
 url: /san-francisco/genray-hair-salon/
-shop: Friseur
+shop: hairdresser
 ---

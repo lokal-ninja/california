@@ -1,5 +1,5 @@
 ---
 title: "Aly's Grace"
 url: /los-altos/alys-grace/
-shop: Kleidung
+shop: clothes
 ---

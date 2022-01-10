@@ -1,5 +1,5 @@
 ---
 title: "Beltone"
 url: /merced/beltone/
-shop: Hörgeräte
+shop: hearing aids
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dance Closet"
 url: /redding/dance-closet/
-shop: Kleidung
+shop: clothes
 ---

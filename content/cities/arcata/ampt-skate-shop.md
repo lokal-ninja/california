@@ -1,5 +1,5 @@
 ---
 title: "AMPT Skate Shop"
 url: /arcata/ampt-skate-shop/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /escondido/albertsons/
-shop: Supermarkt
+shop: supermarket
 ---

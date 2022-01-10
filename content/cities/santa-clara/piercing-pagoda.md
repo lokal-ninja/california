@@ -1,5 +1,5 @@
 ---
 title: "Piercing Pagoda"
 url: /santa-clara/piercing-pagoda/
-shop: Schmuck
+shop: jewelry
 ---

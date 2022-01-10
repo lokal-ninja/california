@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /rancho-cordova/sprint/
-shop: Handy
+shop: mobile phone
 ---

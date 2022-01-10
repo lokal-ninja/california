@@ -1,5 +1,5 @@
 ---
 title: "Gold Exchange"
 url: /red-bluff/gold-exchange/
-shop: Leiher
+shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Delmas Market"
 url: /san-jose/delmas-market/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "FoodMaxx"
 url: /rohnert-park/foodmaxx/
-shop: Supermarkt
+shop: supermarket
 ---

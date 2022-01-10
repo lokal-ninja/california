@@ -1,5 +1,5 @@
 ---
 title: "Suchada"
 url: /san-francisco/suchada/
-shop: Massage
+shop: massage
 ---

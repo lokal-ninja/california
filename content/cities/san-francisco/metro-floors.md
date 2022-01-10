@@ -1,5 +1,5 @@
 ---
 title: "Metro Floors"
 url: /san-francisco/metro-floors/
-shop: Raumausstattung
+shop: interior decoration
 ---

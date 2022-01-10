@@ -1,5 +1,5 @@
 ---
 title: "Bridgestone"
 url: /hilmar/bridgestone/
-shop: Autowerkstatt
+shop: car repair
 ---

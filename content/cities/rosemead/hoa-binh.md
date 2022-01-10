@@ -1,5 +1,5 @@
 ---
 title: "Hoa Binh"
 url: /rosemead/hoa-binh/
-shop: Supermarkt
+shop: supermarket
 ---

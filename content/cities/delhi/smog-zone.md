@@ -1,5 +1,5 @@
 ---
 title: "Smog Zone"
 url: /delhi/smog-zone/
-shop: Autowerkstatt
+shop: car repair
 ---

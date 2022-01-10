@@ -1,5 +1,5 @@
 ---
 title: "Modani"
 url: /west-hollywood/modani/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Liquor Mart"
 url: /costa-mesa/liquor-mart/
-shop: Spirituosen
+shop: alcohol
 ---

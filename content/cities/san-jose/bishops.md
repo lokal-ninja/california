@@ -1,5 +1,5 @@
 ---
 title: "Bishops"
 url: /san-jose/bishops/
-shop: Friseur
+shop: hairdresser
 ---

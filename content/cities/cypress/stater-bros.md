@@ -1,5 +1,5 @@
 ---
 title: "Stater Bros."
 url: /cypress/stater-bros/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pro Speed Auto"
 url: /oakland/pro-speed-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

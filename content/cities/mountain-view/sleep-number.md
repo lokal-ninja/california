@@ -1,5 +1,5 @@
 ---
 title: "Sleep Number"
 url: /mountain-view/sleep-number/
-shop: Betten
+shop: bed
 ---

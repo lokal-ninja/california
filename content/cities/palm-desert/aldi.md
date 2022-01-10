@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /palm-desert/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

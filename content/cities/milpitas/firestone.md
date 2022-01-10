@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /milpitas/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

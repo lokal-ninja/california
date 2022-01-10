@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /santa-clarita/walgreens/
-shop: Drogerie
+shop: chemist
 ---

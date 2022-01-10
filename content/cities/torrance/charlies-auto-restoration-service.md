@@ -1,5 +1,5 @@
 ---
 title: "Charlie's auto Restoration Service"
 url: /torrance/charlies-auto-restoration-service/
-shop: Autowerkstatt
+shop: car repair
 ---

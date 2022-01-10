@@ -1,5 +1,5 @@
 ---
 title: "CopyMax"
 url: /rancho-cucamonga/copymax/
-shop: Allgemein
+shop: shop
 ---

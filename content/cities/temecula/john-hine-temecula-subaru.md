@@ -1,5 +1,5 @@
 ---
 title: "John Hine Temecula Subaru"
 url: /temecula/john-hine-temecula-subaru/
-shop: Autohaus
+shop: car
 ---

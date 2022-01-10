@@ -1,5 +1,5 @@
 ---
 title: "Mark Mahoney's Shamrock Tattoo"
 url: /west-hollywood/mark-mahoneys-shamrock-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

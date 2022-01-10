@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /fresno/rite-aid/
-shop: Drogerie
+shop: chemist
 ---

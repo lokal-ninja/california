@@ -1,5 +1,5 @@
 ---
 title: "Infiniti"
 url: /san-diego/infiniti/
-shop: Autohaus
+shop: car
 ---

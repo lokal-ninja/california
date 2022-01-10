@@ -1,5 +1,5 @@
 ---
 title: "Little Tibet"
 url: /berkeley/little-tibet/
-shop: Andenken
+shop: gift
 ---

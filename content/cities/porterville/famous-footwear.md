@@ -1,5 +1,5 @@
 ---
 title: "Famous Footwear"
 url: /porterville/famous-footwear/
-shop: Schuhe
+shop: shoes
 ---

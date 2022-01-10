@@ -1,5 +1,5 @@
 ---
 title: "Modern Cuts"
 url: /modesto/modern-cuts/
-shop: Friseur
+shop: hairdresser
 ---

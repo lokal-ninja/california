@@ -1,5 +1,5 @@
 ---
 title: "metro"
 url: /san-francisco/metro/
-shop: Handy
+shop: mobile phone
 ---

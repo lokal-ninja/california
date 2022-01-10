@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /tustin/ampm/
-shop: Lebensmittel
+shop: convenience
 ---

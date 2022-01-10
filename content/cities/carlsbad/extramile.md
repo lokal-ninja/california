@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
 url: /carlsbad/extramile/
-shop: Lebensmittel
+shop: convenience
 ---

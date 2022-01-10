@@ -1,5 +1,5 @@
 ---
 title: "Beyer Deli"
 url: /san-diego/beyer-deli/
-shop: Feinkost
+shop: deli
 ---

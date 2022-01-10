@@ -1,5 +1,5 @@
 ---
 title: "Grooves"
 url: /san-francisco/grooves/
-shop: Musik
+shop: music
 ---

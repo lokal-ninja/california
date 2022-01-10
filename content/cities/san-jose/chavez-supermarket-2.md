@@ -1,5 +1,5 @@
 ---
 title: "Chavez Supermarket"
 url: /san-jose/chavez-supermarket-2/
-shop: Supermarkt
+shop: supermarket
 ---

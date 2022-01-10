@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /poway/walgreens/
-shop: Drogerie
+shop: chemist
 ---

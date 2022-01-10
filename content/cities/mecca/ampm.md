@@ -1,5 +1,5 @@
 ---
 title: "AMPM"
 url: /mecca/ampm/
-shop: Lebensmittel
+shop: convenience
 ---

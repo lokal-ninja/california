@@ -1,5 +1,5 @@
 ---
 title: "Foothill Point Laundry Mat"
 url: /oakland/foothill-point-laundry-mat/
-shop: Wäscherei
+shop: laundry
 ---

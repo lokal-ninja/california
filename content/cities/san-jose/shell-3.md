@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /san-jose/shell-3/
-shop: Lebensmittel
+shop: convenience
 ---

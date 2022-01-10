@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /atwater/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

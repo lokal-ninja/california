@@ -1,5 +1,5 @@
 ---
 title: "Natural Transformations Massage Therapy"
 url: /aptos/natural-transformations-massage-therapy/
-shop: Massage
+shop: massage
 ---

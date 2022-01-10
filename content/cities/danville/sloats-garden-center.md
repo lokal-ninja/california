@@ -1,5 +1,5 @@
 ---
 title: "Sloat's Garden Center"
 url: /danville/sloats-garden-center/
-shop: Garten-Center
+shop: garden centre
 ---

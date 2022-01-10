@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /escondido/target/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /poway/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

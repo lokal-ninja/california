@@ -1,5 +1,5 @@
 ---
 title: "Humboldt Herbals"
 url: /eureka/humboldt-herbals/
-shop: Drogerie
+shop: chemist
 ---

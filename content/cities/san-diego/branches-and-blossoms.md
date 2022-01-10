@@ -1,5 +1,5 @@
 ---
 title: "Branches and Blossoms"
 url: /san-diego/branches-and-blossoms/
-shop: Allgemein
+shop: shop
 ---

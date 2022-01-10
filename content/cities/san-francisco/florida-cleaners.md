@@ -1,5 +1,5 @@
 ---
 title: "Florida Cleaners"
 url: /san-francisco/florida-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

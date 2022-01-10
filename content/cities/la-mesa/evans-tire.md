@@ -1,5 +1,5 @@
 ---
 title: "Evans Tire"
 url: /la-mesa/evans-tire/
-shop: Reifen
+shop: tyres
 ---

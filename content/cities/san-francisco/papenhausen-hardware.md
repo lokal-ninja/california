@@ -1,5 +1,5 @@
 ---
 title: "Papenhausen Hardware"
 url: /san-francisco/papenhausen-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

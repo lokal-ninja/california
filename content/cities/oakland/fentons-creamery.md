@@ -1,5 +1,5 @@
 ---
 title: "Fentons Creamery"
 url: /oakland/fentons-creamery/
-shop: Eisprodukte
+shop: ice cream
 ---

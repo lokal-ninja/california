@@ -1,5 +1,5 @@
 ---
 title: "Redwood Estates Store"
 url: /los-gatos/redwood-estates-store/
-shop: Lebensmittel
+shop: convenience
 ---

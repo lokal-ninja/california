@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /lake-forest/petco/
-shop: Tiere
+shop: pet
 ---

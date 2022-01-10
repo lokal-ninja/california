@@ -1,5 +1,5 @@
 ---
 title: "Young Auto Parts"
 url: /redwood-city/young-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

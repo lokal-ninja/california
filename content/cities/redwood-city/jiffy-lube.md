@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
 url: /redwood-city/jiffy-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

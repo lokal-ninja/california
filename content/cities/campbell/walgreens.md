@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /campbell/walgreens/
-shop: Drogerie
+shop: chemist
 ---

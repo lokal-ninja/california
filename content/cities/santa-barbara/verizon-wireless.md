@@ -1,5 +1,5 @@
 ---
 title: "Verizon Wireless"
 url: /santa-barbara/verizon-wireless/
-shop: Handy
+shop: mobile phone
 ---

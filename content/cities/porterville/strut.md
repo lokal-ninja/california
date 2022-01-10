@@ -1,5 +1,5 @@
 ---
 title: "Strut"
 url: /porterville/strut/
-shop: Kleidung
+shop: clothes
 ---

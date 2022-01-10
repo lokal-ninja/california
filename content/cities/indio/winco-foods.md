@@ -1,5 +1,5 @@
 ---
 title: "WinCo Foods"
 url: /indio/winco-foods/
-shop: Supermarkt
+shop: supermarket
 ---

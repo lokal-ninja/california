@@ -1,5 +1,5 @@
 ---
 title: "S. J. Garden Inc."
 url: /san-jose/s-j-garden-inc/
-shop: Garten-Center
+shop: garden centre
 ---

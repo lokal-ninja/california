@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /compton/marshalls/
-shop: Warenhaus
+shop: department store
 ---

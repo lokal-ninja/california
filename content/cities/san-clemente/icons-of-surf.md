@@ -1,5 +1,5 @@
 ---
 title: "Icons of Surf"
 url: /san-clemente/icons-of-surf/
-shop: Sport
+shop: sports
 ---

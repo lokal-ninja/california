@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /lake-forest/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

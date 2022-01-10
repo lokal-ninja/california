@@ -1,5 +1,5 @@
 ---
 title: "Linda's Laundromat"
 url: /salinas/lindas-laundromat/
-shop: Wäscherei
+shop: laundry
 ---

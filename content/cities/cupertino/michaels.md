@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /cupertino/michaels/
-shop: Basteln
+shop: craft
 ---

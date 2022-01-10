@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /mill-valley/chevron/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Desi Outlet"
 url: /vacaville/desi-outlet/
-shop: Supermarkt
+shop: supermarket
 ---

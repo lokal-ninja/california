@@ -1,5 +1,5 @@
 ---
 title: "Northgate Market"
 url: /east-compton/northgate-market/
-shop: Supermarkt
+shop: supermarket
 ---

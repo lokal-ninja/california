@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /mission-viejo/autozone/
-shop: Autoteile
+shop: car parts
 ---

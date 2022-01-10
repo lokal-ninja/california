@@ -1,5 +1,5 @@
 ---
 title: "Speedway Muffler"
 url: /rancho-cucamonga/speedway-muffler/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Royal Computers"
 url: /cathedral-city/royal-computers/
-shop: Computer
+shop: computer
 ---

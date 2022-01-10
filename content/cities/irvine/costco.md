@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /irvine/costco/
-shop: Großhandel
+shop: wholesale
 ---

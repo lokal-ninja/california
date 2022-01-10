@@ -1,5 +1,5 @@
 ---
 title: "Solano florist"
 url: /berkeley/solano-florist/
-shop: Blumen
+shop: florist
 ---

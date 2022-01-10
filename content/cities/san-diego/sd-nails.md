@@ -1,5 +1,5 @@
 ---
 title: "SD Nails"
 url: /san-diego/sd-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /santee/costco/
-shop: Großhandel
+shop: wholesale
 ---

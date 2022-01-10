@@ -1,5 +1,5 @@
 ---
 title: "Dok Champa Store"
 url: /fresno/dok-champa-store/
-shop: Kleidung
+shop: clothes
 ---

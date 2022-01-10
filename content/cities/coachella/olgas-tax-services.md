@@ -1,5 +1,5 @@
 ---
 title: "Olga's Tax Services"
 url: /coachella/olgas-tax-services/
-shop: Allgemein
+shop: shop
 ---

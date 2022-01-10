@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /king-city/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

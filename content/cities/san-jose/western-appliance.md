@@ -1,5 +1,5 @@
 ---
 title: "Western Appliance"
 url: /san-jose/western-appliance/
-shop: Haushaltsgeräte
+shop: appliance
 ---

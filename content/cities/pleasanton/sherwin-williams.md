@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /pleasanton/sherwin-williams/
-shop: Farben
+shop: paint
 ---

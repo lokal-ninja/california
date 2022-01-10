@@ -1,5 +1,5 @@
 ---
 title: "Advantage Office Solutions"
 url: /san-jose/advantage-office-solutions/
-shop: Allgemein
+shop: shop
 ---

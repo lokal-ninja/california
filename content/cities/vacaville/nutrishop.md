@@ -1,5 +1,5 @@
 ---
 title: "Nutrishop"
 url: /vacaville/nutrishop/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

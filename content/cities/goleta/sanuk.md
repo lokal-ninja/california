@@ -1,5 +1,5 @@
 ---
 title: "Sanuk"
 url: /goleta/sanuk/
-shop: Schuhe
+shop: shoes
 ---

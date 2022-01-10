@@ -1,5 +1,5 @@
 ---
 title: "Al Lasher's Electronics"
 url: /berkeley/al-lashers-electronics/
-shop: Elektronik
+shop: electronics
 ---

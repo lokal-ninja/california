@@ -1,5 +1,5 @@
 ---
 title: "Kirkland's"
 url: /sacramento/kirklands/
-shop: Raumausstattung
+shop: interior decoration
 ---

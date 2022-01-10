@@ -1,5 +1,5 @@
 ---
 title: "Ben’s Auto Body"
 url: /san-jose/bens-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

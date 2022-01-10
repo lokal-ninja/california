@@ -1,5 +1,5 @@
 ---
 title: "Macy's Valley Fair"
 url: /san-jose/macys-valley-fair/
-shop: Warenhaus
+shop: department store
 ---

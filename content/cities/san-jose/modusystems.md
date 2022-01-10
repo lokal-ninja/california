@@ -1,5 +1,5 @@
 ---
 title: "ModuSystems"
 url: /san-jose/modusystems/
-shop: Baustoffe
+shop: trade
 ---

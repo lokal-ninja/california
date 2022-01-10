@@ -1,5 +1,5 @@
 ---
 title: "Charmed"
 url: /los-angeles/charmed/
-shop: Allgemein
+shop: shop
 ---

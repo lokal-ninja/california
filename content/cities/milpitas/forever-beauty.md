@@ -1,5 +1,5 @@
 ---
 title: "Forever Beauty"
 url: /milpitas/forever-beauty/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /grass-valley/verizon/
-shop: Handy
+shop: mobile phone
 ---

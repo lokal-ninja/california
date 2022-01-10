@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /lodi/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

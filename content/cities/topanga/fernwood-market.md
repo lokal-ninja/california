@@ -1,5 +1,5 @@
 ---
 title: "Fernwood Market"
 url: /topanga/fernwood-market/
-shop: Lebensmittel
+shop: convenience
 ---

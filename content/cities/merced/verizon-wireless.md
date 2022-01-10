@@ -1,5 +1,5 @@
 ---
 title: "Verizon Wireless"
 url: /merced/verizon-wireless/
-shop: Handy
+shop: mobile phone
 ---

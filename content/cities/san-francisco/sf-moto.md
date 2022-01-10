@@ -1,5 +1,5 @@
 ---
 title: "SF Moto"
 url: /san-francisco/sf-moto/
-shop: Motorrad
+shop: motorcycle
 ---

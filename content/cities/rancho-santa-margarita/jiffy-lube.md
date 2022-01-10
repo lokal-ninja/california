@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
 url: /rancho-santa-margarita/jiffy-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

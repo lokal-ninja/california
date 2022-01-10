@@ -1,5 +1,5 @@
 ---
 title: "A Superior Collision Shop"
 url: /campbell/a-superior-collision-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Charming Nails"
 url: /redwood-city/charming-nails/
-shop: Kosmetik
+shop: beauty
 ---

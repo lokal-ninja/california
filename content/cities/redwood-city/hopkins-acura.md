@@ -1,5 +1,5 @@
 ---
 title: "Hopkins Acura"
 url: /redwood-city/hopkins-acura/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /lake-forest/autozone/
-shop: Autoteile
+shop: car parts
 ---

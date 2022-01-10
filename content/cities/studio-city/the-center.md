@@ -1,5 +1,5 @@
 ---
 title: "The Center"
 url: /studio-city/the-center/
-shop: Einkaufszentrum
+shop: mall
 ---

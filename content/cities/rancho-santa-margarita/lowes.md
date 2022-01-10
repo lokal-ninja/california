@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /rancho-santa-margarita/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

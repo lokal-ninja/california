@@ -1,5 +1,5 @@
 ---
 title: "Dublin Chevrolet Cadillac"
 url: /dublin/dublin-chevrolet-cadillac/
-shop: Autohaus
+shop: car
 ---

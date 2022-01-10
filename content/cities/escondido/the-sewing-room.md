@@ -1,5 +1,5 @@
 ---
 title: "The Sewing Room"
 url: /escondido/the-sewing-room/
-shop: Schneiderei
+shop: tailor
 ---

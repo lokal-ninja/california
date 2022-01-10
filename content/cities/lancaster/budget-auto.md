@@ -1,5 +1,5 @@
 ---
 title: "Budget Auto"
 url: /lancaster/budget-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

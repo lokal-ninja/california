@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /el-cajon/carquest/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Folio Books"
 url: /san-francisco/folio-books/
-shop: Bücher
+shop: books
 ---

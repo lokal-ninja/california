@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /riverside/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

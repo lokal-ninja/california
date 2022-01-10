@@ -1,5 +1,5 @@
 ---
 title: "Interior Furniture"
 url: /moreno-valley/interior-furniture/
-shop: Möbel
+shop: furniture
 ---

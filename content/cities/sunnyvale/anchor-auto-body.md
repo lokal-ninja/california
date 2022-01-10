@@ -1,5 +1,5 @@
 ---
 title: "Anchor Auto Body"
 url: /sunnyvale/anchor-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

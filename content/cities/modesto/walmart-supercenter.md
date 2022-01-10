@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /modesto/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

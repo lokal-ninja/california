@@ -1,5 +1,5 @@
 ---
 title: "Tustin Plaza"
 url: /orange/tustin-plaza/
-shop: Einkaufszentrum
+shop: mall
 ---

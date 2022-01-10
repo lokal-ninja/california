@@ -1,5 +1,5 @@
 ---
 title: "Ralphs"
 url: /cerritos/ralphs/
-shop: Supermarkt
+shop: supermarket
 ---

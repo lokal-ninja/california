@@ -1,5 +1,5 @@
 ---
 title: "AAMCO Auto Service"
 url: /dana-point/aamco-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

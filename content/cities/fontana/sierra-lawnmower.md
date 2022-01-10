@@ -1,5 +1,5 @@
 ---
 title: "Sierra Lawnmower"
 url: /fontana/sierra-lawnmower/
-shop: Allgemein
+shop: shop
 ---

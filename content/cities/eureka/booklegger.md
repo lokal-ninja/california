@@ -1,5 +1,5 @@
 ---
 title: "Booklegger"
 url: /eureka/booklegger/
-shop: Bücher
+shop: books
 ---

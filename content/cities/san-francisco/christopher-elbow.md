@@ -1,5 +1,5 @@
 ---
 title: "Christopher Elbow"
 url: /san-francisco/christopher-elbow/
-shop: Schokolade
+shop: chocolate
 ---

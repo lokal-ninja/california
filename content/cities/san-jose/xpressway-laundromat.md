@@ -1,5 +1,5 @@
 ---
 title: "Xpressway Laundromat"
 url: /san-jose/xpressway-laundromat/
-shop: Wäscherei
+shop: laundry
 ---

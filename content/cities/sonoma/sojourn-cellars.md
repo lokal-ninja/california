@@ -1,5 +1,5 @@
 ---
 title: "Sojourn Cellars"
 url: /sonoma/sojourn-cellars/
-shop: Spirituosen
+shop: alcohol
 ---

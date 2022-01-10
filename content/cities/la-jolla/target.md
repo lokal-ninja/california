@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /la-jolla/target/
-shop: Warenhaus
+shop: department store
 ---

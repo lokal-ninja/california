@@ -1,5 +1,5 @@
 ---
 title: "Stuart Event Rentals"
 url: /milpitas/stuart-event-rentals/
-shop: Partyzubehör
+shop: party
 ---

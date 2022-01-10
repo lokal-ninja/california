@@ -1,5 +1,5 @@
 ---
 title: "Eden Spa"
 url: /palo-alto/eden-spa/
-shop: Massage
+shop: massage
 ---

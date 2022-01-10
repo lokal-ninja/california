@@ -1,5 +1,5 @@
 ---
 title: "Cigarland"
 url: /morgan-hill/cigarland/
-shop: Tabak
+shop: tobacco
 ---

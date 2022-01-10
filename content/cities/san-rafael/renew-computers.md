@@ -1,5 +1,5 @@
 ---
 title: "Renew Computers"
 url: /san-rafael/renew-computers/
-shop: Computer
+shop: computer
 ---

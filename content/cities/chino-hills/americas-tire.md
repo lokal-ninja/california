@@ -1,5 +1,5 @@
 ---
 title: "America's Tire"
 url: /chino-hills/americas-tire/
-shop: Autowerkstatt
+shop: car repair
 ---

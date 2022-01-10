@@ -1,5 +1,5 @@
 ---
 title: "Strelitzia Fllowers"
 url: /davis/strelitzia-fllowers/
-shop: Blumen
+shop: florist
 ---

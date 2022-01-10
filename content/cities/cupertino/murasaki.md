@@ -1,5 +1,5 @@
 ---
 title: "Murasaki"
 url: /cupertino/murasaki/
-shop: Möbel
+shop: furniture
 ---

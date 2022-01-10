@@ -1,5 +1,5 @@
 ---
 title: "Rebox"
 url: /el-centro/rebox/
-shop: Videothek
+shop: video
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Skyway Tool Center"
 url: /chico/skyway-tool-center/
-shop: Eisenwaren
+shop: hardware
 ---

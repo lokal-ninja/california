@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /redwood-city/ross/
-shop: Warenhaus
+shop: department store
 ---

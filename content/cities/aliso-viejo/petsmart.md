@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /aliso-viejo/petsmart/
-shop: Tiere
+shop: pet
 ---

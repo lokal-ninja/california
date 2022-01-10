@@ -1,5 +1,5 @@
 ---
 title: "Nail Galleria"
 url: /sunnyvale/nail-galleria/
-shop: Kosmetik
+shop: beauty
 ---

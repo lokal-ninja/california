@@ -1,5 +1,5 @@
 ---
 title: "Evergreen Farm"
 url: /san-jose/evergreen-farm/
-shop: Allgemein
+shop: shop
 ---

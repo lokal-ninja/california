@@ -1,5 +1,5 @@
 ---
 title: "Happy Liquor"
 url: /san-jose/happy-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

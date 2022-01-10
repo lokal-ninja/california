@@ -1,5 +1,5 @@
 ---
 title: "Frank's Auto"
 url: /berkeley/franks-auto/
-shop: Autohaus
+shop: car
 ---

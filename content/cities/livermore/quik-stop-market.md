@@ -1,5 +1,5 @@
 ---
 title: "Quik Stop Market"
 url: /livermore/quik-stop-market/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aldea Home"
 url: /san-francisco/aldea-home/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Park and Pond"
 url: /san-francisco/park-and-pond/
-shop: Schreibwaren
+shop: office supplies
 ---

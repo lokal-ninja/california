@@ -1,5 +1,5 @@
 ---
 title: "California Sole"
 url: /anaheim/california-sole/
-shop: Kleidung
+shop: clothes
 ---

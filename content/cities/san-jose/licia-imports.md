@@ -1,5 +1,5 @@
 ---
 title: "LICIA Imports"
 url: /san-jose/licia-imports/
-shop: Andenken
+shop: gift
 ---

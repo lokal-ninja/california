@@ -1,5 +1,5 @@
 ---
 title: "Scribble Me Happy"
 url: /san-mateo/scribble-me-happy/
-shop: Kunst
+shop: art
 ---

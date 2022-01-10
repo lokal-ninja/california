@@ -1,5 +1,5 @@
 ---
 title: "Weight Watchers"
 url: /el-cerrito/weight-watchers/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sorento Imports"
 url: /sonoma/sorento-imports/
-shop: Motorrad
+shop: motorcycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Snack 'n' Bottle Shop"
 url: /escondido/snack-n-bottle-shop/
-shop: Lebensmittel
+shop: convenience
 ---

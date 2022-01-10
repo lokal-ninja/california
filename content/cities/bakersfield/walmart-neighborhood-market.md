@@ -1,5 +1,5 @@
 ---
 title: "Walmart Neighborhood Market"
 url: /bakersfield/walmart-neighborhood-market/
-shop: Warenhaus
+shop: department store
 ---

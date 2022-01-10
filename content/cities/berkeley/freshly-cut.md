@@ -1,5 +1,5 @@
 ---
 title: "Freshly Cut"
 url: /berkeley/freshly-cut/
-shop: Blumen
+shop: florist
 ---

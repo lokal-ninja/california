@@ -1,5 +1,5 @@
 ---
 title: "Dovetail Design"
 url: /grass-valley/dovetail-design-2/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Castillo's Video"
 url: /los-banos/castillos-video/
-shop: Videothek
+shop: video
 ---

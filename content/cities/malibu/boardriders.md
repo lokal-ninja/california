@@ -1,5 +1,5 @@
 ---
 title: "Boardriders"
 url: /malibu/boardriders/
-shop: Kleidung
+shop: clothes
 ---

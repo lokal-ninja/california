@@ -1,5 +1,5 @@
 ---
 title: "Portos Bakery"
 url: /west-covina/portos-bakery/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /rancho-cucamonga/costco/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Patek Philippe"
 url: /beverly-hills/patek-philippe/
-shop: Uhren
+shop: watches
 ---

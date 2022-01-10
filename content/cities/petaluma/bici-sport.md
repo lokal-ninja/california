@@ -1,5 +1,5 @@
 ---
 title: "Bici Sport"
 url: /petaluma/bici-sport/
-shop: Fahrrad
+shop: bicycle
 ---

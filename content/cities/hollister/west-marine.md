@@ -1,5 +1,5 @@
 ---
 title: "West Marine"
 url: /hollister/west-marine/
-shop: Boot
+shop: boat
 ---

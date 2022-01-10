@@ -1,5 +1,5 @@
 ---
 title: "Portal World Travel"
 url: /san-francisco/portal-world-travel/
-shop: Reisebüro
+shop: travel agency
 ---

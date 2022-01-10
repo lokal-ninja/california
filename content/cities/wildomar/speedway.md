@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /wildomar/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

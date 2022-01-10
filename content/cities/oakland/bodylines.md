@@ -1,5 +1,5 @@
 ---
 title: "Bodylines"
 url: /oakland/bodylines/
-shop: Autowerkstatt
+shop: car repair
 ---

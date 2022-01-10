@@ -1,5 +1,5 @@
 ---
 title: "RF Phone Shop"
 url: /sacramento/rf-phone-shop/
-shop: Handy
+shop: mobile phone
 ---

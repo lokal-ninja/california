@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /la-mesa/walmart/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Scott's Body Shop"
 url: /santa-cruz/scotts-body-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

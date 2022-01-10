@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /alamo/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

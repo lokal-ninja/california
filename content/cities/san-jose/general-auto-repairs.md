@@ -1,5 +1,5 @@
 ---
 title: "General Auto Repairs"
 url: /san-jose/general-auto-repairs/
-shop: Autowerkstatt
+shop: car repair
 ---

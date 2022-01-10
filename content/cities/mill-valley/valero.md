@@ -1,5 +1,5 @@
 ---
 title: "VALERO"
 url: /mill-valley/valero/
-shop: Allgemein
+shop: shop
 ---

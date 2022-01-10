@@ -1,5 +1,5 @@
 ---
 title: "Penny's Place"
 url: /atwater/pennys-place/
-shop: Antiquitäten
+shop: antiques
 ---

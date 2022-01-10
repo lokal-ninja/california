@@ -1,5 +1,5 @@
 ---
 title: "Sweetwater Outpost"
 url: /bridgeport/sweetwater-outpost/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Contreras Market"
 url: /livermore/contreras-market/
-shop: Supermarkt
+shop: supermarket
 ---

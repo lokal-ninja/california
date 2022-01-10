@@ -1,5 +1,5 @@
 ---
 title: "lief"
 url: /west-hollywood/lief/
-shop: Antiquitäten
+shop: antiques
 ---

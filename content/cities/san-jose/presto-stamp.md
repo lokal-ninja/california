@@ -1,5 +1,5 @@
 ---
 title: "Presto Stamp"
 url: /san-jose/presto-stamp/
-shop: Schreibwaren
+shop: office supplies
 ---

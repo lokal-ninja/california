@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
 url: /bakersfield/old-navy/
-shop: Kleidung
+shop: clothes
 ---

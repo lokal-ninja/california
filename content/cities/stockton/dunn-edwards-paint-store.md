@@ -1,5 +1,5 @@
 ---
 title: "Dunn-Edwards Paint Store"
 url: /stockton/dunn-edwards-paint-store/
-shop: Farben
+shop: paint
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Feed Barn"
 url: /dana-point/feed-barn/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

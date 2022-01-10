@@ -1,5 +1,5 @@
 ---
 title: "One Hour Cleaners"
 url: /san-francisco/one-hour-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

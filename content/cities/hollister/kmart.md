@@ -1,5 +1,5 @@
 ---
 title: "Kmart"
 url: /hollister/kmart/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Unique By Design"
 url: /newman/unique-by-design/
-shop: Friseur
+shop: hairdresser
 ---

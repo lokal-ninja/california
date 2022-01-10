@@ -1,5 +1,5 @@
 ---
 title: "STANS BIKE SHOP"
 url: /azusa/stans-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

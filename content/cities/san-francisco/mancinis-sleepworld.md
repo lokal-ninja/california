@@ -1,5 +1,5 @@
 ---
 title: "Mancini's Sleepworld"
 url: /san-francisco/mancinis-sleepworld/
-shop: Betten
+shop: bed
 ---

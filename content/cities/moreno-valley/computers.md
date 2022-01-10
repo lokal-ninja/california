@@ -1,5 +1,5 @@
 ---
 title: "Computers"
 url: /moreno-valley/computers/
-shop: Computer
+shop: computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /encinitas/kohls/
-shop: Warenhaus
+shop: department store
 ---

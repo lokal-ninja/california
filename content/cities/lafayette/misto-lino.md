@@ -1,5 +1,5 @@
 ---
 title: "Misto Lino"
 url: /lafayette/misto-lino/
-shop: Allgemein
+shop: shop
 ---

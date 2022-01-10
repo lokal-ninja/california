@@ -1,5 +1,5 @@
 ---
 title: "Sunshine Cleaners"
 url: /san-francisco/sunshine-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

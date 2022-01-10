@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
 url: /gilroy/extramile/
-shop: Lebensmittel
+shop: convenience
 ---

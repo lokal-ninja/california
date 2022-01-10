@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /stockton/chevron/
-shop: Lebensmittel
+shop: convenience
 ---

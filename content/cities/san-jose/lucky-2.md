@@ -1,5 +1,5 @@
 ---
 title: "Lucky"
 url: /san-jose/lucky-2/
-shop: Supermarkt
+shop: supermarket
 ---

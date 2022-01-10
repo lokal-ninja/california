@@ -1,5 +1,5 @@
 ---
 title: "Flax"
 url: /san-francisco/flax/
-shop: Basteln
+shop: craft
 ---

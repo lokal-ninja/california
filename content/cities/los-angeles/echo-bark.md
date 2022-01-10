@@ -1,5 +1,5 @@
 ---
 title: "Echo Bark"
 url: /los-angeles/echo-bark/
-shop: Tiere
+shop: pet
 ---

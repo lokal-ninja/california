@@ -1,5 +1,5 @@
 ---
 title: "Sunrise Deli"
 url: /san-francisco/sunrise-deli/
-shop: Feinkost
+shop: deli
 ---

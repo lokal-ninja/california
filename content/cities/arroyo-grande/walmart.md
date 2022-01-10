@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /arroyo-grande/walmart/
-shop: Warenhaus
+shop: department store
 ---

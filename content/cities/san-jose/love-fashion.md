@@ -1,5 +1,5 @@
 ---
 title: "Love Fashion"
 url: /san-jose/love-fashion/
-shop: Kleidung
+shop: clothes
 ---

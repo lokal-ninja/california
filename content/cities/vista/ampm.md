@@ -1,5 +1,5 @@
 ---
 title: "AMPM"
 url: /vista/ampm/
-shop: Lebensmittel
+shop: convenience
 ---
