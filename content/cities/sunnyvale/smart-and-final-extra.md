@@ -1,5 +1,5 @@
 ---
-title: "Smart and Final Extra!"
+title: "Smart & Final Extra!"
 url: /sunnyvale/smart-and-final-extra/
 shop: supermarket
 ---
