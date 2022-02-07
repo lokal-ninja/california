@@ -1,6 +1,6 @@
 ---
 title: Compton
 url: /compton/
-latitude: 33.909
-longitude: -118.208
+latitude: 33.877
+longitude: -118.218
 ---

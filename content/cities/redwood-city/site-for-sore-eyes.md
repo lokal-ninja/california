@@ -1,5 +1,5 @@
 ---
-title: "Site For Sore Eyes"
+title: "Site for Sore Eyes"
 url: /redwood-city/site-for-sore-eyes/
 shop: optician
 ---
