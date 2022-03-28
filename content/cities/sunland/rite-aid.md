@@ -1,5 +1,5 @@
 ---
-title: "Rite-Aid"
+title: "Rite Aid"
 url: /sunland/rite-aid/
-shop: supermarket
+shop: chemist
 ---
