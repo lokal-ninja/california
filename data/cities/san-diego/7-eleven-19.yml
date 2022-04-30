@@ -1,11 +1,11 @@
-id: 9215210449
-type: node
-latitude: 32.70805
-longitude: -117.15458
-postcode: "92101"
+id: 31802976
+type: way
+latitude: 32.75205
+longitude: -117.24696
+postcode: "92107"
 city: San Diego
-street: "Park Boulevard"
-housenumber: 222
+street: "Bacon Street"
+housenumber: 2190
 phone: ""
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ca/san-diego/222-park-blvd-36766"
+opening_hours: ""
+website: ""
