@@ -1,5 +1,5 @@
 ---
 title: "Pacific Body Shop"
 url: /los-angeles/pacific-body-shop/
-shop: shop
+shop: car repair
 ---

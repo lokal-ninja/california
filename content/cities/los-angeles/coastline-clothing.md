@@ -1,5 +1,5 @@
 ---
 title: "Coastline Clothing"
 url: /los-angeles/coastline-clothing/
-shop: shop
+shop: clothes
 ---

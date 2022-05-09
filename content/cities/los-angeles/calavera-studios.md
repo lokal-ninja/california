@@ -1,5 +1,5 @@
 ---
 title: "Calavera Studios"
 url: /los-angeles/calavera-studios/
-shop: shop
+shop: tattoo
 ---
