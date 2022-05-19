@@ -1,6 +1,6 @@
 ---
 title: Santa Barbara
 url: /santa-barbara/
-latitude: 34.436
-longitude: -119.804
+latitude: 34.403
+longitude: -119.724
 ---

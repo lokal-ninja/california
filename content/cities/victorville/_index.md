@@ -1,6 +1,6 @@
 ---
 title: Victorville
 url: /victorville/
-latitude: 34.506
-longitude: -117.329
+latitude: 34.519
+longitude: -117.315
 ---
