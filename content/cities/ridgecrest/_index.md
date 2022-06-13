@@ -1,6 +1,6 @@
 ---
-title: Ridgecrest
+title: RIDGECREST
 url: /ridgecrest/
-latitude: 35.607
-longitude: -117.667
+latitude: 35.645
+longitude: -117.679
 ---

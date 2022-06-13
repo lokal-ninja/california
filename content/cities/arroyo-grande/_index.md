@@ -1,6 +1,6 @@
 ---
 title: Arroyo Grande
 url: /arroyo-grande/
-latitude: 35.106
-longitude: -120.601
+latitude: 35.13
+longitude: -120.603
 ---
