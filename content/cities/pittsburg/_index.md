@@ -1,6 +1,6 @@
 ---
 title: Pittsburg
 url: /pittsburg/
-latitude: 38.009
-longitude: -121.868
+latitude: 38.021
+longitude: -121.892
 ---
