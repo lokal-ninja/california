@@ -1,5 +1,5 @@
 ---
 title: "Rootz Unchrtd"
 url: /los-angeles/rootz-unchrtd/
-shop: clothes
+shop: shop
 ---
