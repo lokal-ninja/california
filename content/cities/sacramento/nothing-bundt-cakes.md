@@ -1,5 +1,5 @@
 ---
 title: "Nothing Bundt Cakes"
 url: /sacramento/nothing-bundt-cakes/
-shop: bakery
+shop: pastry
 ---
