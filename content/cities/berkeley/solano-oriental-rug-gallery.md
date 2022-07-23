@@ -1,0 +1,5 @@
+---
+title: "Solano Oriental Rug Gallery"
+url: /berkeley/solano-oriental-rug-gallery/
+shop: carpet
+---

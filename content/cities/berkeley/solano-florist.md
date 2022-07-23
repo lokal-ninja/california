@@ -1,5 +1,5 @@
 ---
-title: "Solano florist"
+title: "Solano Florist"
 url: /berkeley/solano-florist/
 shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Bluemercury"
+title: "bluemercury"
 url: /west-hollywood/bluemercury/
 shop: beauty
 ---
