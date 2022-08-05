@@ -1,6 +1,6 @@
 ---
 title: Vista
 url: /vista/
-latitude: 33.222
-longitude: -117.245
+latitude: 33.193
+longitude: -117.251
 ---
