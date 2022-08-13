@@ -1,5 +1,5 @@
 ---
-title: "BIDLANE"
+title: "Bidlane"
 url: /los-angeles/bidlane/
 shop: car
 ---
