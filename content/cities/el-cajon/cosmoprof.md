@@ -1,5 +1,5 @@
 ---
 title: "CosmoProf"
 url: /el-cajon/cosmoprof/
-shop: beauty
+shop: hairdresser supply
 ---

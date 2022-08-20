@@ -1,5 +1,5 @@
 ---
-title: "Therapy stores"
+title: "Therapy Stores"
 url: /berkeley/therapy-stores/
 shop: gift
 ---
