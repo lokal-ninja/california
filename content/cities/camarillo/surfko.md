@@ -1,5 +1,5 @@
 ---
 title: "SURFKO"
 url: /camarillo/surfko/
-shop: shop
+shop: clothes
 ---
