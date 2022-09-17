@@ -1,11 +1,11 @@
 id: 1684102326
 type: node
-latitude: 37.78294
-longitude: -122.40597
+latitude: 37.7829
+longitude: -122.40602
 postcode: "94103"
 city: San Francisco
 street: "Mission Street"
 housenumber: 899
-phone: "+1 (415) 513-1635"
-opening_hours: ""
-website: "http://www.goodvibes.com"
+phone: "+1 415 5131635"
+opening_hours: "Mo-Su 12:00-20:00"
+website: "https://www.goodvibes.com"
