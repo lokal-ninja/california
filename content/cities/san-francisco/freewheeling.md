@@ -1,5 +1,5 @@
 ---
 title: "Freewheeling"
 url: /san-francisco/freewheeling/
-shop: boutique
+shop: clothes
 ---
