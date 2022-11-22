@@ -1,6 +1,6 @@
 ---
 title: Yucca Valley
 url: /yucca-valley/
-latitude: 34.119
-longitude: -116.424
+latitude: 34.121
+longitude: -116.418
 ---

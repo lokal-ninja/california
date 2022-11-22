@@ -1,11 +1,11 @@
-id: 173220472
-type: way
-latitude: 38.42583
-longitude: -121.3995
-postcode: "95758"
+id: 10203025663
+type: node
+latitude: 38.40857
+longitude: -121.41426
+postcode: ""
 city: Elk Grove
-street: "West Stockton Boulevard"
-housenumber: 9139
-phone: ""
-opening_hours: ""
-website: ""
+street: ""
+housenumber: 
+phone: "+1 916 602 4929"
+opening_hours: "Mo-Fr 08:30-20:00; Sa-Su 08:30-17:00"
+website: "waxcenter.com"
