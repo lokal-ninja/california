@@ -1,5 +1,5 @@
 ---
 title: "Seaside Donuts"
 url: /newport-beach/seaside-donuts/
-shop: shop
+shop: bakery
 ---
