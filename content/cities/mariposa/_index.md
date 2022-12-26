@@ -1,6 +1,6 @@
 ---
 title: Mariposa
 url: /mariposa/
-latitude: 37.45
-longitude: -119.852
+latitude: 37.451
+longitude: -119.761
 ---
