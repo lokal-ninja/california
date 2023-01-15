@@ -1,11 +1,11 @@
-id: 26135377
-type: way
-latitude: 37.80462
-longitude: -122.43334
-postcode: "94123"
+id: 10311776854
+type: node
+latitude: 37.77461
+longitude: -122.46513
+postcode: "94118"
 city: San Francisco
-street: "Marina Boulevard"
-housenumber: 15
-phone: ""
-opening_hours: "24/7"
-website: "https://local.safeway.com/ca/san-francisco-1711.html"
+street: "7th Avenue"
+housenumber: 735
+phone: "+1-415-683-4070"
+opening_hours: "Mo-Su 06:00-00:00"
+website: "https://local.safeway.com/safeway/ca/san-francisco/735-7th-ave.html"
