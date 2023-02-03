@@ -1,6 +1,6 @@
 ---
 title: Apple Valley
 url: /apple-valley/
-latitude: 34.528
-longitude: -117.217
+latitude: 34.5
+longitude: -117.17
 ---
