@@ -1,5 +1,5 @@
 ---
 title: "Macy's"
-url: /northridge/macys-2/
+url: /northridge/macys/
 shop: department store
 ---

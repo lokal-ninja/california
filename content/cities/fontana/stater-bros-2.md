@@ -1,5 +1,0 @@
----
-title: "Stater Bros."
-url: /fontana/stater-bros-2/
-shop: supermarket
----

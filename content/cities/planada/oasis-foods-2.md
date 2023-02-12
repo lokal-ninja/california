@@ -1,5 +1,5 @@
 ---
 title: "Oasis Foods"
-url: /planada/oasis-foods-2/
+url: /planada/oasis-foods/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
-url: /west-sacramento/dollar-tree-2/
+url: /west-sacramento/dollar-tree/
 shop: variety store
 ---

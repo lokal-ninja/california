@@ -1,5 +1,5 @@
 ---
 title: "Ross"
-url: /elk-grove/ross-2/
+url: /elk-grove/ross/
 shop: department store
 ---
