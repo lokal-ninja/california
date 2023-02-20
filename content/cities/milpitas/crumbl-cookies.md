@@ -1,5 +1,5 @@
 ---
 title: "Crumbl Cookies"
 url: /milpitas/crumbl-cookies/
-shop: bakery
+shop: pastry
 ---

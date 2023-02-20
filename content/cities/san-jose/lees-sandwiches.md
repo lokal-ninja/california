@@ -1,5 +1,5 @@
 ---
-title: "Lee’s Sandwiches"
+title: "Lee's Sandwiches"
 url: /san-jose/lees-sandwiches/
 shop: bakery
 ---
