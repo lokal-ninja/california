@@ -1,6 +1,6 @@
 ---
 title: Los Altos
 url: /los-altos/
-latitude: 37.401
-longitude: -122.113
+latitude: 37.361
+longitude: -122.097
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ramona
 url: /ramona/
-latitude: 33.043
-longitude: -116.868
+latitude: 33.039
+longitude: -116.877
 ---

@@ -1,6 +1,6 @@
 ---
 title: Idyllwild
 url: /idyllwild/
-latitude: 33.744
-longitude: -116.714
+latitude: 33.745
+longitude: -116.713
 ---
