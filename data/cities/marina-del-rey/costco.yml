@@ -1,11 +1,11 @@
-id: 6639727776
-type: node
-latitude: 33.99312
-longitude: -118.44722
+id: 160400943
+type: way
+latitude: 33.99265
+longitude: -118.44623
 postcode: "90292"
 city: Marina del Rey
-street: "W Washington Boulevard"
+street: "Washington Blvd.;W Washington Boulevard"
 housenumber: 13463
-phone: ""
-opening_hours: "Mo-Fr 09:00-20:30; Sa-Su 09:00-18:00; PH off"
-website: ""
+phone: "+1 310 754 2003"
+opening_hours: "Mo-Fr 10:00-20:30;Sa 09:30-18:00;Su 10:00-18:00;Mo-Fr 09:00-20:30;Sa-Su 09:00-18:00;PH off"
+website: "https://www.costco.com/WarehouseLocatorDetailsView?langId=-1&storeId=10301&catalogId=10701&warehouseNumber=479&BeginAddress=90230&numOfWarehousesToReturn=null&location=90230&callingPage=WarehouseLocatorView"

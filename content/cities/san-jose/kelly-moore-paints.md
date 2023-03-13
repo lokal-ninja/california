@@ -1,5 +1,5 @@
 ---
-title: "Kelly Moore Paints"
+title: "Kelly-Moore Paints"
 url: /san-jose/kelly-moore-paints/
 shop: paint
 ---
