@@ -1,6 +1,6 @@
 ---
 title: El Cerrito
 url: /el-cerrito/
-latitude: 37.899
-longitude: -122.3
+latitude: 37.901
+longitude: -122.303
 ---

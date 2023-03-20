@@ -1,6 +1,6 @@
 ---
 title: Campo
 url: /campo/
-latitude: 32.679
-longitude: -116.505
+latitude: 32.608
+longitude: -116.475
 ---
