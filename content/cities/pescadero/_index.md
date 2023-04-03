@@ -1,6 +1,6 @@
 ---
 title: Pescadero
 url: /pescadero/
-latitude: 37.253
-longitude: -122.384
+latitude: 37.254
+longitude: -122.383
 ---
