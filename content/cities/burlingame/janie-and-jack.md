@@ -1,5 +1,5 @@
 ---
-title: "Janie and Jack"
+title: "Janie & Jack"
 url: /burlingame/janie-and-jack/
 shop: clothes
 ---

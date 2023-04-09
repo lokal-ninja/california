@@ -1,6 +1,6 @@
 ---
 title: Cupertino
 url: /cupertino/
-latitude: 37.322
-longitude: -122.019
+latitude: 37.323
+longitude: -122.035
 ---
