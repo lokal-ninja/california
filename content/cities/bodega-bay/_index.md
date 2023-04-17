@@ -1,6 +1,6 @@
 ---
 title: Bodega Bay
 url: /bodega-bay/
-latitude: 38.33
-longitude: -123.046
+latitude: 38.335
+longitude: -123.049
 ---
