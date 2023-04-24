@@ -1,6 +1,6 @@
 ---
 title: Alameda
 url: /alameda/
-latitude: 37.767
-longitude: -122.242
+latitude: 37.766
+longitude: -122.241
 ---
