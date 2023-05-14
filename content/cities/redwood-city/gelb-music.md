@@ -1,5 +1,5 @@
 ---
 title: "Gelb Music"
 url: /redwood-city/gelb-music/
-shop: music
+shop: musical instrument
 ---
