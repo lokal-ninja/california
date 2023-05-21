@@ -1,6 +1,6 @@
 ---
 title: Downey
 url: /downey/
-latitude: 33.963
-longitude: -118.112
+latitude: 33.943
+longitude: -118.137
 ---
