@@ -1,6 +1,6 @@
 ---
 title: Susanville
 url: /susanville/
-latitude: 40.414
-longitude: -120.638
+latitude: 40.418
+longitude: -120.661
 ---
