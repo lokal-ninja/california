@@ -1,5 +1,5 @@
 ---
 title: "A Better Day"
 url: /lake-forest/a-better-day/
-shop: nutrition supplements
+shop: health food
 ---

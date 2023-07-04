@@ -1,5 +1,5 @@
 ---
 title: "Hair Expo"
 url: /milpitas/hair-expo/
-shop: beauty
+shop: hairdresser
 ---
