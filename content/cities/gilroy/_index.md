@@ -1,6 +1,6 @@
 ---
 title: Gilroy
 url: /gilroy/
-latitude: 37.014
-longitude: -121.586
+latitude: 37.008
+longitude: -121.569
 ---
