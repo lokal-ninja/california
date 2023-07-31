@@ -1,6 +1,6 @@
 ---
-title: garden grove
+title: Garden Grove
 url: /garden-grove/
-latitude: 33.774
-longitude: -117.941
+latitude: 33.79
+longitude: -117.964
 ---

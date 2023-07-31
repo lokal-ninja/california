@@ -1,6 +1,6 @@
 ---
-title: winnetka
+title: Winnetka
 url: /winnetka/
-latitude: 34.201
-longitude: -118.563
+latitude: 34.221
+longitude: -118.588
 ---

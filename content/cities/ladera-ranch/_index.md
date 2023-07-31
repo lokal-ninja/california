@@ -1,6 +1,6 @@
 ---
 title: Ladera Ranch
 url: /ladera-ranch/
-latitude: 33.561
-longitude: -117.628
+latitude: 33.562
+longitude: -117.646
 ---
