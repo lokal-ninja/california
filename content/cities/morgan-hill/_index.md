@@ -1,6 +1,6 @@
 ---
 title: Morgan Hill
 url: /morgan-hill/
-latitude: 37.121
-longitude: -121.648
+latitude: 37.131
+longitude: -121.652
 ---
