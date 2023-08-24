@@ -1,6 +1,6 @@
 ---
 title: American Canyon
 url: /american-canyon/
-latitude: 38.205
-longitude: -122.293
+latitude: 38.179
+longitude: -122.256
 ---
