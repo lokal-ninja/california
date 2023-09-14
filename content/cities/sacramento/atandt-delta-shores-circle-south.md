@@ -1,5 +1,5 @@
 ---
 title: "AT&T"
-url: /sacramento/atandt/
+url: /sacramento/atandt-delta-shores-circle-south/
 shop: mobile phone
 ---

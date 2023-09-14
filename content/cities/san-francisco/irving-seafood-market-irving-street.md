@@ -1,5 +1,5 @@
 ---
 title: "Irving Seafood Market"
-url: /san-francisco/irving-seafood-market/
+url: /san-francisco/irving-seafood-market-irving-street/
 shop: greengrocer
 ---

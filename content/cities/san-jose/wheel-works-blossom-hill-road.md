@@ -1,5 +1,5 @@
 ---
 title: "Wheel Works"
-url: /san-jose/wheel-works/
+url: /san-jose/wheel-works-blossom-hill-road/
 shop: tyres
 ---

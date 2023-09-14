@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
-url: /san-jose/michaels/
+url: /san-jose/michaels-kooser-road/
 shop: craft
 ---

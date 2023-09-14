@@ -1,5 +1,5 @@
 ---
 title: "Raley's"
-url: /sacramento/raleys/
+url: /sacramento/raleys-marconi-avenue/
 shop: supermarket
 ---

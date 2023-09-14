@@ -1,5 +1,5 @@
 ---
 title: "New Balance"
-url: /camarillo/new-balance/
+url: /camarillo/new-balance-ventura-boulevard/
 shop: shoes
 ---

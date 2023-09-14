@@ -1,5 +1,5 @@
 ---
 title: "Laundry"
-url: /livingston/laundry/
+url: /livingston/laundry-2/
 shop: laundry
 ---

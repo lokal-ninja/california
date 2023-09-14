@@ -1,5 +1,5 @@
 ---
 title: "Saving Cleaners"
-url: /san-jose/saving-cleaners/
+url: /san-jose/saving-cleaners-cropley-avenue/
 shop: laundry
 ---

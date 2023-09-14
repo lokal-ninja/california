@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /stockton/autozone/
+url: /stockton/autozone-west-lane/
 shop: car parts
 ---

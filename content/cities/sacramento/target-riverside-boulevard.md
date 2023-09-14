@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /sacramento/target/
+url: /sacramento/target-riverside-boulevard/
 shop: department store
 ---

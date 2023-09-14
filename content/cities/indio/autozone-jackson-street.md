@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /indio/autozone/
+url: /indio/autozone-jackson-street/
 shop: car parts
 ---

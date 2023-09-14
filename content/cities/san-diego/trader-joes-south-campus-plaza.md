@@ -1,5 +1,5 @@
 ---
 title: "Trader Joe's"
-url: /san-diego/trader-joes/
+url: /san-diego/trader-joes-south-campus-plaza/
 shop: supermarket
 ---

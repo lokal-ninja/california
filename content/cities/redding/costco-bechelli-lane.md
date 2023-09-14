@@ -1,5 +1,5 @@
 ---
 title: "Costco"
-url: /redding/costco/
+url: /redding/costco-bechelli-lane/
 shop: wholesale
 ---

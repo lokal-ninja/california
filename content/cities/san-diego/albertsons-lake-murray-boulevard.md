@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
-url: /san-diego/albertsons/
+url: /san-diego/albertsons-lake-murray-boulevard/
 shop: supermarket
 ---

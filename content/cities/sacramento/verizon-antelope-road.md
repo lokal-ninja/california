@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /sacramento/verizon/
+url: /sacramento/verizon-antelope-road/
 shop: mobile phone
 ---

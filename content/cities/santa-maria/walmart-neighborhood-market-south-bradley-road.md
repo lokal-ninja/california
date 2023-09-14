@@ -1,5 +1,5 @@
 ---
 title: "Walmart Neighborhood Market"
-url: /santa-maria/walmart-neighborhood-market/
+url: /santa-maria/walmart-neighborhood-market-south-bradley-road/
 shop: supermarket
 ---

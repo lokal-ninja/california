@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /riverside/speedway/
+url: /riverside/speedway-central-avenue/
 shop: convenience
 ---

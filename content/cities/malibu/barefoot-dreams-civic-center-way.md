@@ -1,5 +1,5 @@
 ---
 title: "Barefoot Dreams"
-url: /malibu/barefoot-dreams/
+url: /malibu/barefoot-dreams-civic-center-way/
 shop: clothes
 ---

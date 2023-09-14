@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /clovis/walmart-supercenter/
+url: /clovis/walmart-supercenter-west-shaw-avenue/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Farmers Market"
-url: /sacramento/farmers-market/
+url: /sacramento/farmers-market-butano-drive/
 shop: farm
 ---

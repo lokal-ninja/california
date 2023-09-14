@@ -1,5 +1,5 @@
 ---
 title: "Van Heusen"
-url: /gilroy/van-heusen/
+url: /gilroy/van-heusen-arroyo-circle/
 shop: clothes
 ---

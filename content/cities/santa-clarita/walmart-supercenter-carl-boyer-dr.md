@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /santa-clarita/walmart-supercenter/
+url: /santa-clarita/walmart-supercenter-carl-boyer-dr/
 shop: supermarket
 ---

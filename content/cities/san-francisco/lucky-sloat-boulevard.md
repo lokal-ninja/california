@@ -1,5 +1,5 @@
 ---
 title: "Lucky"
-url: /san-francisco/lucky/
+url: /san-francisco/lucky-sloat-boulevard/
 shop: supermarket
 ---

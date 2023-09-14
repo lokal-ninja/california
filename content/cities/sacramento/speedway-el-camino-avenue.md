@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /sacramento/speedway/
+url: /sacramento/speedway-el-camino-avenue/
 shop: convenience
 ---

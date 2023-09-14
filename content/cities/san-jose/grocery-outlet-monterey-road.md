@@ -1,5 +1,5 @@
 ---
 title: "Grocery Outlet"
-url: /san-jose/grocery-outlet/
+url: /san-jose/grocery-outlet-monterey-road/
 shop: supermarket
 ---

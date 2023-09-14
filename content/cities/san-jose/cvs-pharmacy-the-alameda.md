@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
-url: /san-jose/cvs-pharmacy/
+url: /san-jose/cvs-pharmacy-the-alameda/
 shop: chemist
 ---

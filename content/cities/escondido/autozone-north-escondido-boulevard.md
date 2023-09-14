@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /escondido/autozone/
+url: /escondido/autozone-north-escondido-boulevard/
 shop: car parts
 ---

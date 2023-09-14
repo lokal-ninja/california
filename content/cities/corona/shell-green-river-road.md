@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /corona/shell/
+url: /corona/shell-green-river-road/
 shop: convenience
 ---

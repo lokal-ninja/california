@@ -1,5 +1,5 @@
 ---
 title: "Diva Nails Spa & Wax Center"
-url: /san-jose/diva-nails-spa-and-wax-center/
+url: /san-jose/diva-nails-spa-and-wax-center-tully-road/
 shop: beauty
 ---

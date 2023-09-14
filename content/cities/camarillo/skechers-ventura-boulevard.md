@@ -1,5 +1,5 @@
 ---
 title: "Skechers"
-url: /camarillo/skechers/
+url: /camarillo/skechers-ventura-boulevard/
 shop: shoes
 ---

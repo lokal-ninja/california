@@ -1,5 +1,5 @@
 ---
 title: "Extra Space Storage"
-url: /sacramento/extra-space-storage/
+url: /sacramento/extra-space-storage-roseville-road/
 shop: storage rental
 ---

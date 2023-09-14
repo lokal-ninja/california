@@ -1,5 +1,5 @@
 ---
 title: "ampm"
-url: /sacramento/ampm/
+url: /sacramento/ampm-16th-street/
 shop: convenience
 ---

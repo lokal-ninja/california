@@ -1,5 +1,5 @@
 ---
 title: "Whole Foods Market"
-url: /santa-monica/whole-foods-market/
+url: /santa-monica/whole-foods-market-montana-avenue/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AT&T"
-url: /fremont/atandt/
+url: /fremont/atandt-osgood-road/
 shop: mobile phone
 ---

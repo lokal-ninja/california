@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /redding/speedway/
+url: /redding/speedway-churn-creek-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lids"
-url: /camarillo/lids/
+url: /camarillo/lids-ventura-boulevard/
 shop: clothes
 ---

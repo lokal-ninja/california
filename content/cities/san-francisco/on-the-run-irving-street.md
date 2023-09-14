@@ -1,5 +1,5 @@
 ---
 title: "On the Run"
-url: /san-francisco/on-the-run/
+url: /san-francisco/on-the-run-irving-street/
 shop: shoes
 ---

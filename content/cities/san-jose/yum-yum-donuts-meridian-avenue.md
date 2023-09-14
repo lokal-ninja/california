@@ -1,5 +1,5 @@
 ---
 title: "Yum Yum Donuts"
-url: /san-jose/yum-yum-donuts/
+url: /san-jose/yum-yum-donuts-meridian-avenue/
 shop: bakery
 ---

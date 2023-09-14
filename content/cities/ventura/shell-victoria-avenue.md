@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /ventura/shell/
+url: /ventura/shell-victoria-avenue/
 shop: convenience
 ---

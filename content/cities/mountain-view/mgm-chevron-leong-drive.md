@@ -1,5 +1,5 @@
 ---
 title: "MGM Chevron"
-url: /mountain-view/mgm-chevron/
+url: /mountain-view/mgm-chevron-leong-drive/
 shop: convenience
 ---

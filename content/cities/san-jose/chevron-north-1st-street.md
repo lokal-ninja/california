@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
-url: /san-jose/chevron/
+url: /san-jose/chevron-north-1st-street/
 shop: convenience
 ---

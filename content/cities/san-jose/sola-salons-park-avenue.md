@@ -1,5 +1,5 @@
 ---
 title: "Sola Salons"
-url: /san-jose/sola-salons/
+url: /san-jose/sola-salons-park-avenue/
 shop: beauty
 ---

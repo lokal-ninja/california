@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /orland/speedway/
+url: /orland/speedway-south-street/
 shop: convenience
 ---

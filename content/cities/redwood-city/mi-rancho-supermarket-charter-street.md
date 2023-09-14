@@ -1,5 +1,5 @@
 ---
 title: "Mi Rancho Supermarket"
-url: /redwood-city/mi-rancho-supermarket/
+url: /redwood-city/mi-rancho-supermarket-charter-street/
 shop: supermarket
 ---

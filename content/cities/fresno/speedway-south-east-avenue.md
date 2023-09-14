@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /fresno/speedway/
+url: /fresno/speedway-south-east-avenue/
 shop: convenience
 ---

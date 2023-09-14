@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /san-diego/speedway/
+url: /san-diego/speedway-university-avenue/
 shop: convenience
 ---

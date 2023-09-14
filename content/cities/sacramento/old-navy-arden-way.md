@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
-url: /sacramento/old-navy/
+url: /sacramento/old-navy-arden-way/
 shop: clothes
 ---

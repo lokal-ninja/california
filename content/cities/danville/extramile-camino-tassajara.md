@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
-url: /danville/extramile/
+url: /danville/extramile-camino-tassajara/
 shop: convenience
 ---

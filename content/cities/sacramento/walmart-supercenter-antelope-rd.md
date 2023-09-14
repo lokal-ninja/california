@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /sacramento/walmart-supercenter/
+url: /sacramento/walmart-supercenter-antelope-rd/
 shop: supermarket
 ---

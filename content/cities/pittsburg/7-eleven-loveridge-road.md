@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /pittsburg/7-eleven/
+url: /pittsburg/7-eleven-loveridge-road/
 shop: convenience
 ---

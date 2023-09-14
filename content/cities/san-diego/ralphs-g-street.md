@@ -1,5 +1,5 @@
 ---
 title: "Ralphs"
-url: /san-diego/ralphs/
+url: /san-diego/ralphs-g-street/
 shop: supermarket
 ---

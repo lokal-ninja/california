@@ -1,5 +1,5 @@
 ---
 title: "Paris Baguette"
-url: /san-jose/paris-baguette/
+url: /san-jose/paris-baguette-story-road/
 shop: bakery
 ---

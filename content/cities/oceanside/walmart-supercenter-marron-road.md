@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /oceanside/walmart-supercenter/
+url: /oceanside/walmart-supercenter-marron-road/
 shop: supermarket
 ---

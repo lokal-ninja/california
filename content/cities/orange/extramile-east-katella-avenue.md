@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
-url: /orange/extramile/
+url: /orange/extramile-east-katella-avenue/
 shop: convenience
 ---

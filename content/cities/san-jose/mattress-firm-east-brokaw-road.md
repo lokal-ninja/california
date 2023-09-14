@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
-url: /san-jose/mattress-firm/
+url: /san-jose/mattress-firm-east-brokaw-road/
 shop: bed
 ---

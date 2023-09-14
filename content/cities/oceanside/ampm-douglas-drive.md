@@ -1,5 +1,5 @@
 ---
 title: "AMPM"
-url: /oceanside/ampm/
+url: /oceanside/ampm-douglas-drive/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /anaheim/target/
+url: /anaheim/target-south-euclid-street/
 shop: department store
 ---

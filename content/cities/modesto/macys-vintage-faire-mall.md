@@ -1,5 +1,5 @@
 ---
 title: "Macy's"
-url: /modesto/macys/
+url: /modesto/macys-vintage-faire-mall/
 shop: department store
 ---

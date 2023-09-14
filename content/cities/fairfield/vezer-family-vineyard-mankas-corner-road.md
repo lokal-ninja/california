@@ -1,5 +1,5 @@
 ---
 title: "Vezer Family Vineyard"
-url: /fairfield/vezer-family-vineyard/
+url: /fairfield/vezer-family-vineyard-mankas-corner-road/
 shop: wine
 ---

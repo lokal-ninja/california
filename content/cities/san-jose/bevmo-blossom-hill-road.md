@@ -1,5 +1,5 @@
 ---
 title: "BevMo!"
-url: /san-jose/bevmo/
+url: /san-jose/bevmo-blossom-hill-road/
 shop: alcohol
 ---

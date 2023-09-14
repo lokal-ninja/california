@@ -1,5 +1,5 @@
 ---
 title: "Kahoots"
-url: /san-diego/kahoots/
+url: /san-diego/kahoots-jamacha-road/
 shop: pet
 ---

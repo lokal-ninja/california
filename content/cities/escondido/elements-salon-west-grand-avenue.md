@@ -1,5 +1,5 @@
 ---
 title: "Elements Salon"
-url: /escondido/elements-salon/
+url: /escondido/elements-salon-west-grand-avenue/
 shop: hairdresser
 ---

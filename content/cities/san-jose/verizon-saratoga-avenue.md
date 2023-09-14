@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /san-jose/verizon/
+url: /san-jose/verizon-saratoga-avenue/
 shop: mobile phone
 ---

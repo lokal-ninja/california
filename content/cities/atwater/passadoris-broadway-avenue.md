@@ -1,5 +1,5 @@
 ---
 title: "Passadori's"
-url: /atwater/passadoris/
+url: /atwater/passadoris-broadway-avenue/
 shop: furniture
 ---

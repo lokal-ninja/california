@@ -1,5 +1,5 @@
 ---
 title: "Stater Bros."
-url: /riverside/stater-bros/
+url: /riverside/stater-bros-iowa-avenue/
 shop: supermarket
 ---

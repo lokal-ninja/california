@@ -1,5 +1,5 @@
 ---
 title: "AT&T"
-url: /san-jose/atandt/
+url: /san-jose/atandt-east-brokaw-road/
 shop: mobile phone
 ---

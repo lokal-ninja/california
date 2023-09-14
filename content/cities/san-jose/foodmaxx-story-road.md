@@ -1,5 +1,5 @@
 ---
 title: "FoodMaxx"
-url: /san-jose/foodmaxx/
+url: /san-jose/foodmaxx-story-road/
 shop: supermarket
 ---

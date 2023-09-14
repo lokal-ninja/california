@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
-url: /san-jose/dollar-tree/
+url: /san-jose/dollar-tree-north-capitol-avenue/
 shop: variety store
 ---

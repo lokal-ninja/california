@@ -1,5 +1,5 @@
 ---
 title: "ampm"
-url: /elk-grove/ampm/
+url: /elk-grove/ampm-elk-grove-boulevard/
 shop: convenience
 ---

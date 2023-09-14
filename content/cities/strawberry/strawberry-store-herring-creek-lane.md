@@ -1,5 +1,5 @@
 ---
 title: "Strawberry Store"
-url: /strawberry/strawberry-store/
+url: /strawberry/strawberry-store-herring-creek-lane/
 shop: convenience
 ---

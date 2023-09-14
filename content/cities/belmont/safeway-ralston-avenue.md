@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
-url: /belmont/safeway/
+url: /belmont/safeway-ralston-avenue/
 shop: supermarket
 ---

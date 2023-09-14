@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /escondido/aldi/
+url: /escondido/aldi-east-valley-parkway/
 shop: supermarket
 ---

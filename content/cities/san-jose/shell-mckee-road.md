@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /san-jose/shell/
+url: /san-jose/shell-mckee-road/
 shop: convenience
 ---

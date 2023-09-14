@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
-url: /san-diego/extramile/
+url: /san-diego/extramile-lake-murray-boulevard/
 shop: convenience
 ---

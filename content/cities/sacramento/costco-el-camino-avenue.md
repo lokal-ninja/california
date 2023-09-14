@@ -1,5 +1,5 @@
 ---
 title: "Costco"
-url: /sacramento/costco/
+url: /sacramento/costco-el-camino-avenue/
 shop: wholesale
 ---

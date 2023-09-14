@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /redding/speedway/
+url: /redding/speedway-east-cypress-avenue/
 shop: convenience
 ---

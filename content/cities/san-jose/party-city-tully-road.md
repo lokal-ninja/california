@@ -1,5 +1,5 @@
 ---
 title: "Party City"
-url: /san-jose/party-city/
+url: /san-jose/party-city-tully-road/
 shop: party
 ---

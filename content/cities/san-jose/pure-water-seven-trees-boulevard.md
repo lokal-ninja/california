@@ -1,5 +1,5 @@
 ---
 title: "Pure Water"
-url: /san-jose/pure-water/
+url: /san-jose/pure-water-seven-trees-boulevard/
 shop: water
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Whole Foods Market"
-url: /san-jose/whole-foods-market/
+url: /san-jose/whole-foods-market-the-alameda/
 shop: supermarket
 ---

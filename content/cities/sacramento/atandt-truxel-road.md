@@ -1,5 +1,5 @@
 ---
 title: "AT&T"
-url: /sacramento/atandt/
+url: /sacramento/atandt-truxel-road/
 shop: mobile phone
 ---

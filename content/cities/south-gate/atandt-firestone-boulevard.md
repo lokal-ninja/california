@@ -1,5 +1,5 @@
 ---
 title: "AT&T"
-url: /south-gate/atandt/
+url: /south-gate/atandt-firestone-boulevard/
 shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AT&T"
-url: /orange/atandt/
+url: /orange/atandt-east-village-way/
 shop: mobile phone
 ---

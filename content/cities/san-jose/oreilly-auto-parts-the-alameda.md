@@ -1,5 +1,5 @@
 ---
 title: "O'Reilly Auto Parts"
-url: /san-jose/oreilly-auto-parts/
+url: /san-jose/oreilly-auto-parts-the-alameda/
 shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Caliber Collision"
-url: /san-jose/caliber-collision/
+url: /san-jose/caliber-collision-terminal-avenue/
 shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Home Depot"
-url: /san-jose/the-home-depot/
+url: /san-jose/the-home-depot-story-road/
 shop: doityourself
 ---

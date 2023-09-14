@@ -1,5 +1,5 @@
 ---
 title: "Lunardi's"
-url: /san-jose/lunardis/
+url: /san-jose/lunardis-south-bascom-avenue/
 shop: supermarket
 ---

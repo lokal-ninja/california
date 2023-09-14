@@ -1,5 +1,5 @@
 ---
 title: "Costco"
-url: /san-jose/costco/
+url: /san-jose/costco-almaden-expressway/
 shop: wholesale
 ---

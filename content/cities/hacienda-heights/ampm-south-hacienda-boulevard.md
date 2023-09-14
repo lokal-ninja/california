@@ -1,5 +1,5 @@
 ---
 title: "ampm"
-url: /hacienda-heights/ampm/
+url: /hacienda-heights/ampm-south-hacienda-boulevard/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
-url: /sacramento/staples/
+url: /sacramento/staples-howe-avenue/
 shop: office supplies
 ---

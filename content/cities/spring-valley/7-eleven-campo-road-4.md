@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /spring-valley/7-eleven/
+url: /spring-valley/7-eleven-campo-road-4/
 shop: convenience
 ---

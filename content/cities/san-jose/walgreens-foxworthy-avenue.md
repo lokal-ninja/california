@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
-url: /san-jose/walgreens/
+url: /san-jose/walgreens-foxworthy-avenue/
 shop: chemist
 ---

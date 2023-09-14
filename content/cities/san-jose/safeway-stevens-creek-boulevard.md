@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
-url: /san-jose/safeway/
+url: /san-jose/safeway-stevens-creek-boulevard/
 shop: supermarket
 ---

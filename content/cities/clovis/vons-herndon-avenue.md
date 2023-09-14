@@ -1,5 +1,5 @@
 ---
 title: "Vons"
-url: /clovis/vons/
+url: /clovis/vons-herndon-avenue/
 shop: supermarket
 ---

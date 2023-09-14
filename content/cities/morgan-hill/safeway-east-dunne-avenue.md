@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
-url: /morgan-hill/safeway/
+url: /morgan-hill/safeway-east-dunne-avenue/
 shop: supermarket
 ---

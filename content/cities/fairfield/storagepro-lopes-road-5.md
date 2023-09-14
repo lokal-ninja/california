@@ -1,5 +1,5 @@
 ---
 title: "StoragePRO"
-url: /fairfield/storagepro/
+url: /fairfield/storagepro-lopes-road-5/
 shop: storage rental
 ---

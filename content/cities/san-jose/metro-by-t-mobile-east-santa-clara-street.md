@@ -1,5 +1,5 @@
 ---
 title: "Metro by T-Mobile"
-url: /san-jose/metro-by-t-mobile/
+url: /san-jose/metro-by-t-mobile-east-santa-clara-street/
 shop: mobile phone
 ---

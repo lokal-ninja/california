@@ -1,5 +1,5 @@
 ---
 title: "Save Mart"
-url: /sacramento/save-mart/
+url: /sacramento/save-mart-2/
 shop: supermarket
 ---

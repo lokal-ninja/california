@@ -1,5 +1,5 @@
 ---
 title: "Elite Cleaners"
-url: /campbell/elite-cleaners/
+url: /campbell/elite-cleaners-south-bascom-avenue/
 shop: laundry
 ---

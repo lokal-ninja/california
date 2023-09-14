@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /american-canyon/7-eleven/
+url: /american-canyon/7-eleven-rio-del-mar/
 shop: convenience
 ---

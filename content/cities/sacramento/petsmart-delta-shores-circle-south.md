@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
-url: /sacramento/petsmart/
+url: /sacramento/petsmart-delta-shores-circle-south/
 shop: pet
 ---

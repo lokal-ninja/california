@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
-url: /el-cajon/cvs-pharmacy/
+url: /el-cajon/cvs-pharmacy-fletcher-parkway/
 shop: chemist
 ---

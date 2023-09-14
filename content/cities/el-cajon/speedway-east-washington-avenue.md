@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /el-cajon/speedway/
+url: /el-cajon/speedway-east-washington-avenue/
 shop: convenience
 ---

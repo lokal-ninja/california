@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
-url: /fremont/walmart/
+url: /fremont/walmart-osgood-road/
 shop: department store
 ---

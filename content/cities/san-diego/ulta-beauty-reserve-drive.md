@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
-url: /san-diego/ulta-beauty/
+url: /san-diego/ulta-beauty-reserve-drive/
 shop: beauty
 ---

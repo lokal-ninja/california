@@ -1,5 +1,5 @@
 ---
 title: "Moe’s Stop"
-url: /san-jose/moes-stop/
+url: /san-jose/moes-stop-camden-avenue/
 shop: convenience
 ---

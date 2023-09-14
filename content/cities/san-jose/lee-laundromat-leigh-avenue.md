@@ -1,5 +1,5 @@
 ---
 title: "Lee Laundromat"
-url: /san-jose/lee-laundromat/
+url: /san-jose/lee-laundromat-leigh-avenue/
 shop: laundry
 ---

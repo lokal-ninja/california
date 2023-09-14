@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
-url: /los-angeles/albertsons/
+url: /los-angeles/albertsons-crenshaw-boulevard/
 shop: supermarket
 ---

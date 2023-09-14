@@ -1,5 +1,5 @@
 ---
 title: "Lucky"
-url: /santa-clara/lucky/
+url: /santa-clara/lucky-saratoga-avenue/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vons"
-url: /ventura/vons/
+url: /ventura/vons-east-thompson-blvd/
 shop: supermarket
 ---

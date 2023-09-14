@@ -1,5 +1,5 @@
 ---
 title: "Valero"
-url: /redding/valero/
+url: /redding/valero-college-view-drive/
 shop: convenience
 ---
