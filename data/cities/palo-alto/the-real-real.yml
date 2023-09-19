@@ -1,11 +1,11 @@
-id: 11011585813
-type: node
-latitude: 37.44701
-longitude: -122.16072
+id: 131995310
+type: way
+latitude: 37.44706
+longitude: -122.16064
 postcode: "94301"
 city: Palo Alto
 street: "University Avenue"
-housenumber: 379
+housenumber: 375;379
 phone: ""
 opening_hours: ""
 website: ""
