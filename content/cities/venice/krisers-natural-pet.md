@@ -1,5 +1,5 @@
 ---
-title: "Kriser's natural pet"
+title: "Kriser's Natural Pet"
 url: /venice/krisers-natural-pet/
 shop: pet
 ---
