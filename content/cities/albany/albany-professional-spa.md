@@ -1,5 +1,5 @@
 ---
-title: "Albany professional spa"
+title: "Albany Professional Spa"
 url: /albany/albany-professional-spa/
 shop: massage
 ---
