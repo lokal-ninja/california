@@ -1,5 +1,5 @@
 ---
-title: "A/S HAIR STUDIO"
+title: "A/S Hair Studio"
 url: /murrieta/a-s-hair-studio/
-shop: beauty
+shop: hairdresser
 ---
