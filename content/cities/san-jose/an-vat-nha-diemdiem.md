@@ -1,5 +1,5 @@
 ---
-title: "An Vat Nha DiemDiem"
+title: "Ăn Vặt Nhà DiemDiem"
 url: /san-jose/an-vat-nha-diemdiem/
 shop: convenience
 ---
