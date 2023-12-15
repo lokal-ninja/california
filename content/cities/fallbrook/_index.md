@@ -1,6 +1,6 @@
 ---
 title: Fallbrook
 url: /fallbrook/
-latitude: 33.329
-longitude: -117.163
+latitude: 33.382
+longitude: -117.252
 ---

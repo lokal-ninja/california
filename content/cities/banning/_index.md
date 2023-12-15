@@ -2,5 +2,5 @@
 title: Banning
 url: /banning/
 latitude: 33.925
-longitude: -116.902
+longitude: -116.868
 ---
