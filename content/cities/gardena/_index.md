@@ -1,6 +1,6 @@
 ---
 title: Gardena
 url: /gardena/
-latitude: 33.861
-longitude: -118.286
+latitude: 33.859
+longitude: -118.295
 ---
