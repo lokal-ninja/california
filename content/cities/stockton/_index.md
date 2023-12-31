@@ -1,6 +1,6 @@
 ---
 title: Stockton
 url: /stockton/
-latitude: 38.006
-longitude: -121.319
+latitude: 37.987
+longitude: -121.312
 ---
