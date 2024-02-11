@@ -1,6 +1,6 @@
 ---
 title: Reseda
 url: /reseda/
-latitude: 34.2
-longitude: -118.534
+latitude: 34.209
+longitude: -118.554
 ---

@@ -1,6 +1,6 @@
 ---
 title: Azusa
 url: /azusa/
-latitude: 34.114
-longitude: -117.916
+latitude: 34.13
+longitude: -117.883
 ---

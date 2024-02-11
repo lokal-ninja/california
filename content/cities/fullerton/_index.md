@@ -1,6 +1,6 @@
 ---
 title: Fullerton
 url: /fullerton/
-latitude: 33.874
-longitude: -117.887
+latitude: 33.898
+longitude: -117.911
 ---

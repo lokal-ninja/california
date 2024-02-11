@@ -1,6 +1,6 @@
 ---
 title: Greenbrae
 url: /greenbrae/
-latitude: 37.946
-longitude: -122.525
+latitude: 37.938
+longitude: -122.515
 ---

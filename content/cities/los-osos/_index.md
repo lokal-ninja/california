@@ -1,6 +1,6 @@
 ---
 title: Los Osos
 url: /los-osos/
-latitude: 35.315
-longitude: -120.832
+latitude: 35.311
+longitude: -120.827
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lemon Grove
 url: /lemon-grove/
-latitude: 32.742
-longitude: -117.039
+latitude: 32.744
+longitude: -117.045
 ---

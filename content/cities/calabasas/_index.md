@@ -1,6 +1,6 @@
 ---
 title: Calabasas
 url: /calabasas/
-latitude: 34.145
-longitude: -118.7
+latitude: 34.154
+longitude: -118.643
 ---

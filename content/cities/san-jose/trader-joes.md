@@ -1,5 +1,5 @@
 ---
-title: "Trader Joe’s"
+title: "Trader Joe's"
 url: /san-jose/trader-joes/
 shop: supermarket
 ---

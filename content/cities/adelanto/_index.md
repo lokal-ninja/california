@@ -1,6 +1,6 @@
 ---
 title: Adelanto
 url: /adelanto/
-latitude: 34.572
-longitude: -117.409
+latitude: 34.508
+longitude: -117.402
 ---

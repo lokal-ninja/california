@@ -1,6 +1,6 @@
 ---
 title: Burbank
 url: /burbank/
-latitude: 34.169
-longitude: -118.344
+latitude: 34.187
+longitude: -118.319
 ---

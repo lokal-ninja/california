@@ -1,6 +1,6 @@
 ---
 title: Aptos
 url: /aptos/
-latitude: 36.969
-longitude: -121.905
+latitude: 36.979
+longitude: -121.909
 ---

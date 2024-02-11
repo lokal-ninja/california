@@ -1,6 +1,6 @@
 ---
 title: Glendora
 url: /glendora/
-latitude: 34.128
-longitude: -117.877
+latitude: 34.137
+longitude: -117.872
 ---

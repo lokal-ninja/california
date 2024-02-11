@@ -1,6 +1,6 @@
 ---
 title: Calimesa
 url: /calimesa/
-latitude: 34.001
-longitude: -117.06
+latitude: 33.996
+longitude: -117.057
 ---

@@ -1,6 +1,6 @@
 ---
 title: Spring Valley
 url: /spring-valley/
-latitude: 32.715
-longitude: -116.998
+latitude: 32.708
+longitude: -117.009
 ---
