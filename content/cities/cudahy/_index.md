@@ -1,6 +1,6 @@
 ---
 title: Cudahy
 url: /cudahy/
-latitude: 33.97
-longitude: -118.187
+latitude: 33.963
+longitude: -118.188
 ---
