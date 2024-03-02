@@ -1,5 +1,5 @@
 ---
-title: "A+ Mailboxes & More"
+title: "A+ MailBoxes & More"
 url: /san-francisco/a-mailboxes-and-more/
 shop: shop
 ---

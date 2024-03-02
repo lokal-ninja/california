@@ -1,6 +1,6 @@
 ---
 title: Ventura
 url: /ventura/
-latitude: 34.282
-longitude: -119.303
+latitude: 34.273
+longitude: -119.267
 ---
