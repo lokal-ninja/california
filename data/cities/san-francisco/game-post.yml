@@ -7,5 +7,5 @@ city: San Francisco
 street: "3rd Street"
 housenumber: 689
 phone: "(415) 566-0700"
-opening_hours: "Mo,Tu,Th,Sa  12:00-18:00; We,Fr 12:00-21:00"
+opening_hours: "Mo-Sa 12:00-18:00"
 website: "https://sfgamepost.com/"

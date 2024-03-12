@@ -7,5 +7,5 @@ city: Berkeley
 street: "Shattuck Avenue"
 housenumber: 3033;3039
 phone: "+1-510-849-4201"
-opening_hours: "Mo-Fr 08:00-21:00 // Sa-Sun 09:00-21:00"
+opening_hours: "Mo-Fr 08:00-21:00; Sa,Su 09:00-21:00"
 website: "https://www.cbcbberkeley.com/"
