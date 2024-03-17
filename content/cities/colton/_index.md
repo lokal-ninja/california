@@ -1,6 +1,6 @@
 ---
 title: Colton
 url: /colton/
-latitude: 34.051
-longitude: -117.306
+latitude: 34.076
+longitude: -117.314
 ---
