@@ -1,6 +1,6 @@
 ---
 title: Thai Town
 url: /thai-town/
-latitude: 34.102
-longitude: -118.305
+latitude: 34.101
+longitude: -118.306
 ---
