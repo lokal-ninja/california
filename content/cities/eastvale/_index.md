@@ -1,6 +1,6 @@
 ---
 title: Eastvale
 url: /eastvale/
-latitude: 33.974
-longitude: -117.561
+latitude: 33.976
+longitude: -117.59
 ---

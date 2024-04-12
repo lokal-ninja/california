@@ -1,6 +1,6 @@
 ---
 title: Perris
 url: /perris/
-latitude: 33.805
-longitude: -117.229
+latitude: 33.809
+longitude: -117.228
 ---
