@@ -1,6 +1,6 @@
 ---
 title: Cottonwood
 url: /cottonwood/
-latitude: 40.388
-longitude: -122.288
+latitude: 40.37
+longitude: -122.283
 ---
