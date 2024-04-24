@@ -1,6 +1,6 @@
 ---
 title: Tarzana
 url: /tarzana/
-latitude: 34.171
-longitude: -118.541
+latitude: 34.179
+longitude: -118.535
 ---
