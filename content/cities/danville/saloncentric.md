@@ -1,5 +1,5 @@
 ---
 title: "SalonCentric"
 url: /danville/saloncentric/
-shop: beauty
+shop: hairdresser supply
 ---
