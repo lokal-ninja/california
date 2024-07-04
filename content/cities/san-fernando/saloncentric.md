@@ -1,5 +1,5 @@
 ---
 title: "SalonCentric"
 url: /san-fernando/saloncentric/
-shop: beauty
+shop: hairdresser supply
 ---

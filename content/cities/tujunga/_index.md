@@ -1,6 +1,6 @@
 ---
 title: Tujunga
 url: /tujunga/
-latitude: 34.241
-longitude: -118.268
+latitude: 34.242
+longitude: -118.27
 ---
