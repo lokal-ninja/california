@@ -1,6 +1,6 @@
 ---
 title: Healdsburg
 url: /healdsburg/
-latitude: 38.627
-longitude: -122.874
+latitude: 38.604
+longitude: -122.863
 ---

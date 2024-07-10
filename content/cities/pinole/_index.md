@@ -1,6 +1,6 @@
 ---
 title: Pinole
 url: /pinole/
-latitude: 38
-longitude: -122.287
+latitude: 37.988
+longitude: -122.309
 ---
