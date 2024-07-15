@@ -1,6 +1,6 @@
 ---
 title: Nipomo
 url: /nipomo/
-latitude: 35.037
-longitude: -120.487
+latitude: 35.035
+longitude: -120.485
 ---

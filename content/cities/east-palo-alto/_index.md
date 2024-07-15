@@ -1,6 +1,6 @@
 ---
 title: East Palo Alto
 url: /east-palo-alto/
-latitude: 37.46
-longitude: -122.135
+latitude: 37.457
+longitude: -122.137
 ---

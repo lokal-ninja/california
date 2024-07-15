@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /murrieta/walmart/
-shop: department store
+shop: supermarket
 ---

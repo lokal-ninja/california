@@ -1,6 +1,6 @@
 ---
-title: castro valley
+title: Castro Valley
 url: /castro-valley/
-latitude: 37.702
-longitude: -122.047
+latitude: 37.697
+longitude: -122.077
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sunland
 url: /sunland/
-latitude: 34.261
-longitude: -118.327
+latitude: 34.26
+longitude: -118.324
 ---

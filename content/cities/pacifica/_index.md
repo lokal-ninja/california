@@ -1,6 +1,6 @@
 ---
 title: Pacifica
 url: /pacifica/
-latitude: 37.594
-longitude: -122.504
+latitude: 37.63
+longitude: -122.491
 ---

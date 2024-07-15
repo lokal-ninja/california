@@ -1,6 +1,6 @@
 ---
 title: Kings Beach
 url: /kings-beach/
-latitude: 39.238
-longitude: -120.027
+latitude: 39.236
+longitude: -120.022
 ---

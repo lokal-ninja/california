@@ -1,6 +1,6 @@
 ---
 title: Huntington Beach
 url: /huntington-beach/
-latitude: 33.671
-longitude: -117.952
+latitude: 33.716
+longitude: -118.069
 ---

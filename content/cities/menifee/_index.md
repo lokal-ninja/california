@@ -1,6 +1,6 @@
 ---
 title: Menifee
 url: /menifee/
-latitude: 33.701
-longitude: -117.24
+latitude: 33.684
+longitude: -117.17
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ukiah
 url: /ukiah/
-latitude: 39.143
-longitude: -123.205
+latitude: 39.153
+longitude: -123.2
 ---

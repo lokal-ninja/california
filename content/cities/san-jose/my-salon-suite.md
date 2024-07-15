@@ -1,5 +1,5 @@
 ---
-title: "My Salon Suite"
+title: "MY SALON Suite"
 url: /san-jose/my-salon-suite/
 shop: beauty
 ---

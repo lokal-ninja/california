@@ -1,6 +1,6 @@
 ---
 title: Westchester
 url: /westchester/
-latitude: 33.959
-longitude: -118.397
+latitude: 33.958
+longitude: -118.396
 ---

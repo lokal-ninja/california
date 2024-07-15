@@ -1,6 +1,6 @@
 ---
 title: Covina
 url: /covina/
-latitude: 34.103
-longitude: -117.91
+latitude: 34.089
+longitude: -117.916
 ---

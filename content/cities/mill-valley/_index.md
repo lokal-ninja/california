@@ -1,6 +1,6 @@
 ---
 title: Mill Valley
 url: /mill-valley/
-latitude: 37.905
-longitude: -122.547
+latitude: 37.879
+longitude: -122.533
 ---

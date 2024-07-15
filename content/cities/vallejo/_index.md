@@ -1,6 +1,6 @@
 ---
 title: Vallejo
 url: /vallejo/
-latitude: 38.124
-longitude: -122.259
+latitude: 38.132
+longitude: -122.216
 ---
