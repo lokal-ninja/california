@@ -1,6 +1,6 @@
 ---
 title: Universal City
 url: /universal-city/
-latitude: 34.137
-longitude: -118.352
+latitude: 34.136
+longitude: -118.351
 ---

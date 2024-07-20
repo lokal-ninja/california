@@ -1,6 +1,6 @@
 ---
 title: Capitola
 url: /capitola/
-latitude: 36.974
-longitude: -121.964
+latitude: 36.977
+longitude: -121.967
 ---

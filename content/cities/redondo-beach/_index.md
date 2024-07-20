@@ -1,6 +1,6 @@
 ---
 title: Redondo Beach
 url: /redondo-beach/
-latitude: 33.819
-longitude: -118.386
+latitude: 33.893
+longitude: -118.362
 ---
