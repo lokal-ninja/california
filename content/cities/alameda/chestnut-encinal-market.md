@@ -1,5 +1,5 @@
 ---
-title: "Chestnut Encinal market"
+title: "Chestnut Encinal Market"
 url: /alameda/chestnut-encinal-market/
-shop: greengrocer
+shop: convenience
 ---
