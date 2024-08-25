@@ -1,5 +1,5 @@
 ---
 title: "Kendra Scott"
 url: /san-jose/kendra-scott/
-shop: boutique
+shop: jewelry
 ---
