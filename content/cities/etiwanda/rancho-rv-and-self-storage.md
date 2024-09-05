@@ -1,5 +1,5 @@
 ---
 title: "Rancho RV and Self Storage"
 url: /etiwanda/rancho-rv-and-self-storage/
-shop: storage rental
+shop: Mieten
 ---

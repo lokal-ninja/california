@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /riverside/speedway-tyler-street/
-shop: convenience
+shop: Lebensmittel
 ---

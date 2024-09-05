@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /clearlake/valero/
-shop: convenience
+shop: Lebensmittel
 ---

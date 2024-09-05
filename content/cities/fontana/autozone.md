@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /fontana/autozone/
-shop: car parts
+shop: Autoteile
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trader Joe's"
 url: /rancho-cucamonga/trader-joes/
-shop: supermarket
+shop: Supermarkt
 ---

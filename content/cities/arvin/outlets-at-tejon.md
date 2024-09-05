@@ -1,5 +1,5 @@
 ---
 title: "Outlets at Tejon"
 url: /arvin/outlets-at-tejon/
-shop: mall
+shop: Einkaufszentrum
 ---

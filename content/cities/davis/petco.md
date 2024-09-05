@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /davis/petco/
-shop: pet
+shop: Tiere
 ---

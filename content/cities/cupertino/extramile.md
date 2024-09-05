@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
 url: /cupertino/extramile/
-shop: convenience
+shop: Lebensmittel
 ---

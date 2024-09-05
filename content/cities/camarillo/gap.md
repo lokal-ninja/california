@@ -1,5 +1,5 @@
 ---
 title: "Gap"
 url: /camarillo/gap/
-shop: clothes
+shop: Kleidung
 ---

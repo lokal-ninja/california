@@ -1,5 +1,5 @@
 ---
 title: "FCD"
 url: /ventura/fcd/
-shop: outdoor
+shop: Outdoor
 ---

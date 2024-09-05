@@ -1,5 +1,5 @@
 ---
 title: "Tails"
 url: /fresno/tails/
-shop: pet
+shop: Tiere
 ---

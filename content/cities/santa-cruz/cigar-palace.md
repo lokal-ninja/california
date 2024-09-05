@@ -1,5 +1,5 @@
 ---
 title: "Cigar Palace"
 url: /santa-cruz/cigar-palace/
-shop: tobacco
+shop: Tabak
 ---

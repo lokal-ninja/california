@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /clearlake/walmart/
-shop: supermarket
+shop: Supermarkt
 ---

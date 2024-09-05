@@ -1,5 +1,5 @@
 ---
 title: "Mobil"
 url: /aliso-viejo/mobil/
-shop: convenience
+shop: Lebensmittel
 ---

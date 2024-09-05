@@ -1,5 +1,5 @@
 ---
 title: "Oropel"
 url: /visalia/oropel/
-shop: clothes
+shop: Kleidung
 ---

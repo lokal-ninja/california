@@ -1,5 +1,5 @@
 ---
 title: "Sparkling Cleaners"
 url: /west-hollywood/sparkling-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

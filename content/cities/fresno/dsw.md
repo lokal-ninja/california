@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /fresno/dsw/
-shop: shoes
+shop: Schuhe
 ---

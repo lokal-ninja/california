@@ -1,5 +1,5 @@
 ---
 title: "Fleet Feet"
 url: /burbank/fleet-feet/
-shop: shoes
+shop: Schuhe
 ---

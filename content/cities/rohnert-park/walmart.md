@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /rohnert-park/walmart/
-shop: supermarket
+shop: Supermarkt
 ---

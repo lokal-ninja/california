@@ -1,5 +1,5 @@
 ---
 title: "Beta Appliances"
 url: /santa-clara/beta-appliances/
-shop: appliance
+shop: Haushaltsgeräte
 ---

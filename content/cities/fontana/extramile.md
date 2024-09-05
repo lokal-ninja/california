@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
 url: /fontana/extramile/
-shop: convenience
+shop: Lebensmittel
 ---

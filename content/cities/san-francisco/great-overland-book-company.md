@@ -1,5 +1,5 @@
 ---
 title: "Great Overland Book Company"
 url: /san-francisco/great-overland-book-company/
-shop: books
+shop: Bücher
 ---

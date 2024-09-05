@@ -1,5 +1,5 @@
 ---
 title: "Stater Bros."
 url: /placentia/stater-bros/
-shop: supermarket
+shop: Supermarkt
 ---

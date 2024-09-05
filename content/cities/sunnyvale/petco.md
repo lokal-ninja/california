@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /sunnyvale/petco/
-shop: pet
+shop: Tiere
 ---

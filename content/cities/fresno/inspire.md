@@ -1,5 +1,5 @@
 ---
 title: "Inspire"
 url: /fresno/inspire/
-shop: clothes
+shop: Kleidung
 ---

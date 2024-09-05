@@ -1,5 +1,5 @@
 ---
 title: "FoodMaxx"
 url: /chico/foodmaxx/
-shop: supermarket
+shop: Supermarkt
 ---

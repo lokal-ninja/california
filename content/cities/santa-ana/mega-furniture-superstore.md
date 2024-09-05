@@ -1,5 +1,5 @@
 ---
 title: "Mega Furniture Superstore"
 url: /santa-ana/mega-furniture-superstore/
-shop: furniture
+shop: Möbel
 ---

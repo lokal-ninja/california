@@ -1,5 +1,5 @@
 ---
 title: "Laura Walker"
 url: /san-jose/laura-walker/
-shop: hairdresser
+shop: Friseur
 ---

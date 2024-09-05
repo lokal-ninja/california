@@ -1,5 +1,5 @@
 ---
 title: "Brass Bear Delicatessen"
 url: /alamo/brass-bear-delicatessen/
-shop: deli
+shop: Feinkost
 ---

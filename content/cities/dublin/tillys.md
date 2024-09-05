@@ -1,5 +1,5 @@
 ---
 title: "Tillys"
 url: /dublin/tillys/
-shop: clothes
+shop: Kleidung
 ---

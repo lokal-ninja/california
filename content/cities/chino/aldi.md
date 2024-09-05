@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /chino/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

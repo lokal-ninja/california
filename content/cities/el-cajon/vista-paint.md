@@ -1,5 +1,5 @@
 ---
 title: "Vista Paint"
 url: /el-cajon/vista-paint/
-shop: paint
+shop: Farben
 ---

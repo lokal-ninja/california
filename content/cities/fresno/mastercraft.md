@@ -1,5 +1,5 @@
 ---
 title: "Mastercraft"
 url: /fresno/mastercraft/
-shop: laundry
+shop: Wäscherei
 ---

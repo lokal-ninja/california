@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /colma/michaels/
-shop: craft
+shop: Basteln
 ---

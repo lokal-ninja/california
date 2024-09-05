@@ -1,5 +1,5 @@
 ---
 title: "Fantastic Sams"
 url: /corona/fantastic-sams/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /monrovia/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

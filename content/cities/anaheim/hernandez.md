@@ -1,5 +1,5 @@
 ---
 title: "Hernandez"
 url: /anaheim/hernandez/
-shop: car
+shop: Autohaus
 ---

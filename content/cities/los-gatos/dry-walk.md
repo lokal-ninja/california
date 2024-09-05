@@ -1,5 +1,5 @@
 ---
 title: "Dry Walk"
 url: /los-gatos/dry-walk/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nothing Bundt Cakes"
 url: /fresno/nothing-bundt-cakes/
-shop: pastry
+shop: Konditorei
 ---

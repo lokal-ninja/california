@@ -1,5 +1,5 @@
 ---
 title: "Anchor Tattoo"
 url: /vacaville/anchor-tattoo/
-shop: tattoo
+shop: Tattoo
 ---

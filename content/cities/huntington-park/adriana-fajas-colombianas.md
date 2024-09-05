@@ -1,5 +1,5 @@
 ---
 title: "Adriana Fajas Colombianas"
 url: /huntington-park/adriana-fajas-colombianas/
-shop: clothes
+shop: Kleidung
 ---

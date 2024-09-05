@@ -1,5 +1,5 @@
 ---
 title: "Arco"
 url: /downey/arco/
-shop: convenience
+shop: Lebensmittel
 ---

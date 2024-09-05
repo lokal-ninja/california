@@ -1,5 +1,5 @@
 ---
 title: "Raley's"
 url: /sacramento/raleys-freeport-boulevard/
-shop: supermarket
+shop: Supermarkt
 ---

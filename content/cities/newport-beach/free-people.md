@@ -1,5 +1,5 @@
 ---
 title: "Free People"
 url: /newport-beach/free-people/
-shop: clothes
+shop: Kleidung
 ---

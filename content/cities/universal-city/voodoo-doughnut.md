@@ -1,5 +1,5 @@
 ---
 title: "Voodoo Doughnut"
 url: /universal-city/voodoo-doughnut/
-shop: bakery
+shop: Bäckerei
 ---

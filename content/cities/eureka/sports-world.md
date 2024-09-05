@@ -1,5 +1,5 @@
 ---
 title: "Sports World"
 url: /eureka/sports-world/
-shop: sports
+shop: Sport
 ---

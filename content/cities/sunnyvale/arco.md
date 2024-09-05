@@ -1,5 +1,5 @@
 ---
 title: "Arco"
 url: /sunnyvale/arco/
-shop: convenience
+shop: Lebensmittel
 ---

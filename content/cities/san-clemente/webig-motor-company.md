@@ -1,5 +1,5 @@
 ---
 title: "Webig Motor Company"
 url: /san-clemente/webig-motor-company/
-shop: bicycle
+shop: Fahrrad
 ---

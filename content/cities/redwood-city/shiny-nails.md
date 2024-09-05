@@ -1,5 +1,5 @@
 ---
 title: "Shiny Nails"
 url: /redwood-city/shiny-nails/
-shop: beauty
+shop: Kosmetik
 ---

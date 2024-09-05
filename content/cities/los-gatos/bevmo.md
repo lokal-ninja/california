@@ -1,5 +1,5 @@
 ---
 title: "BevMo!"
 url: /los-gatos/bevmo/
-shop: alcohol
+shop: Spirituosen
 ---

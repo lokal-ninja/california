@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /manteca/petco/
-shop: pet
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ralphs"
 url: /placentia/ralphs/
-shop: supermarket
+shop: Supermarkt
 ---

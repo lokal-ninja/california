@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /sacramento/ampm-mack-road/
-shop: convenience
+shop: Lebensmittel
 ---

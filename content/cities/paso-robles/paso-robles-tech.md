@@ -1,5 +1,5 @@
 ---
 title: "Paso Robles Tech"
 url: /paso-robles/paso-robles-tech/
-shop: computer
+shop: Computer
 ---

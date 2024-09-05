@@ -1,5 +1,5 @@
 ---
 title: "International India Bazaar"
 url: /tustin/international-india-bazaar/
-shop: supermarket
+shop: Supermarkt
 ---

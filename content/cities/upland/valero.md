@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /upland/valero/
-shop: convenience
+shop: Lebensmittel
 ---

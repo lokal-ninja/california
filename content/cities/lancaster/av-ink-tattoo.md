@@ -1,5 +1,5 @@
 ---
 title: "AV Ink Tattoo"
 url: /lancaster/av-ink-tattoo/
-shop: tattoo
+shop: Tattoo
 ---

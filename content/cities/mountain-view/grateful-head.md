@@ -1,5 +1,5 @@
 ---
 title: "Grateful Head"
 url: /mountain-view/grateful-head/
-shop: hairdresser
+shop: Friseur
 ---

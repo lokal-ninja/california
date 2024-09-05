@@ -1,5 +1,5 @@
 ---
 title: "FedEx Office"
 url: /san-francisco/fedex-office-kearny-street/
-shop: copyshop
+shop: Kopieren
 ---

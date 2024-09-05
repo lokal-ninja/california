@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /costa-mesa/best-buy/
-shop: electronics
+shop: Elektronik
 ---

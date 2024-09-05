@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /fresno/costco-north-abby-street/
-shop: wholesale
+shop: Großhandel
 ---

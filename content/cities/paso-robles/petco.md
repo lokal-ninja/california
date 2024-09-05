@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /paso-robles/petco/
-shop: pet
+shop: Tiere
 ---

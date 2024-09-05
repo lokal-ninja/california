@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /laguna-woods/officemax/
-shop: office supplies
+shop: Schreibwaren
 ---

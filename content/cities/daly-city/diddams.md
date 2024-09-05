@@ -1,5 +1,5 @@
 ---
 title: "Diddams"
 url: /daly-city/diddams/
-shop: party
+shop: Partyzubehör
 ---

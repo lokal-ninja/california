@@ -1,5 +1,5 @@
 ---
 title: "Gless Ranch"
 url: /riverside/gless-ranch/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

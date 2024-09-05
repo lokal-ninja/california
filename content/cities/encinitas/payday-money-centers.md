@@ -1,5 +1,5 @@
 ---
 title: "Payday Money Centers"
 url: /encinitas/payday-money-centers/
-shop: pawnbroker
+shop: Leiher
 ---

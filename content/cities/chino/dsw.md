@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /chino/dsw/
-shop: shoes
+shop: Schuhe
 ---

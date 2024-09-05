@@ -1,5 +1,5 @@
 ---
 title: "Halcyon Hair Studio"
 url: /campbell/halcyon-hair-studio/
-shop: hairdresser
+shop: Friseur
 ---

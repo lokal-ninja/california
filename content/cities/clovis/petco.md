@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /clovis/petco/
-shop: pet
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LensCrafters"
 url: /emeryville/lenscrafters/
-shop: optician
+shop: Optiker
 ---

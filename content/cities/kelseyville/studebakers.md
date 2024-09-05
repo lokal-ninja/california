@@ -1,5 +1,5 @@
 ---
 title: "Studebakers"
 url: /kelseyville/studebakers/
-shop: deli
+shop: Feinkost
 ---

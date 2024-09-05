@@ -1,5 +1,5 @@
 ---
 title: "Sunny Country Foods"
 url: /san-francisco/sunny-country-foods/
-shop: convenience
+shop: Lebensmittel
 ---

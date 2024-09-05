@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /napa/staples/
-shop: office supplies
+shop: Schreibwaren
 ---

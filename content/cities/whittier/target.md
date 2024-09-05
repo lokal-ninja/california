@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /whittier/target/
-shop: department store
+shop: Warenhaus
 ---

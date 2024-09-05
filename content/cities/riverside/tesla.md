@@ -1,5 +1,5 @@
 ---
 title: "Tesla"
 url: /riverside/tesla/
-shop: car
+shop: Autohaus
 ---

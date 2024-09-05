@@ -1,5 +1,5 @@
 ---
 title: "Volkswagen of Fairfield"
 url: /fairfield/volkswagen-of-fairfield/
-shop: car
+shop: Autohaus
 ---

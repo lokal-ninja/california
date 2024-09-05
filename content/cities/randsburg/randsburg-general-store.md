@@ -1,5 +1,5 @@
 ---
 title: "Randsburg General Store"
 url: /randsburg/randsburg-general-store/
-shop: general
+shop: Dorfladen
 ---

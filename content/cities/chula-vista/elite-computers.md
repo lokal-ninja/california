@@ -1,5 +1,5 @@
 ---
 title: "Elite Computers"
 url: /chula-vista/elite-computers/
-shop: computer
+shop: Computer
 ---

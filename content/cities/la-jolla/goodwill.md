@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /la-jolla/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

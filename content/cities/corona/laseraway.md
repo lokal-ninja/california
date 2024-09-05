@@ -1,5 +1,5 @@
 ---
 title: "LaserAway"
 url: /corona/laseraway/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "rhe Artisans"
 url: /san-francisco/rhe-artisans/
-shop: frame
+shop: Rahmen
 ---

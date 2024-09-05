@@ -1,5 +1,5 @@
 ---
 title: "Sinclair"
 url: /indio/sinclair/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /oakley/ampm/
-shop: convenience
+shop: Lebensmittel
 ---

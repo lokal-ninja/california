@@ -1,5 +1,5 @@
 ---
 title: "SEV"
 url: /san-francisco/sev/
-shop: beauty
+shop: Kosmetik
 ---

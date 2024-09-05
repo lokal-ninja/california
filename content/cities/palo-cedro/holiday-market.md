@@ -1,5 +1,5 @@
 ---
 title: "Holiday Market"
 url: /palo-cedro/holiday-market/
-shop: supermarket
+shop: Supermarkt
 ---

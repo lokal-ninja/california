@@ -1,5 +1,5 @@
 ---
 title: "BevMo!"
 url: /fremont/bevmo/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Darkside"
 url: /redding/darkside/
-shop: tobacco
+shop: Tabak
 ---

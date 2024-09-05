@@ -1,5 +1,5 @@
 ---
 title: "Rachael Faye Martines"
 url: /san-jose/rachael-faye-martines/
-shop: hairdresser
+shop: Friseur
 ---

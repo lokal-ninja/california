@@ -1,5 +1,5 @@
 ---
 title: "Uniqlo"
 url: /san-mateo/uniqlo/
-shop: clothes
+shop: Kleidung
 ---

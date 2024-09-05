@@ -1,5 +1,5 @@
 ---
 title: "Subaru"
 url: /long-beach/subaru/
-shop: car
+shop: Autohaus
 ---

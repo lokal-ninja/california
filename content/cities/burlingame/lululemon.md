@@ -1,5 +1,5 @@
 ---
 title: "Lululemon"
 url: /burlingame/lululemon/
-shop: clothes
+shop: Kleidung
 ---

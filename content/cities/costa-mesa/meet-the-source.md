@@ -1,5 +1,5 @@
 ---
 title: "Meet The Source"
 url: /costa-mesa/meet-the-source/
-shop: bakery
+shop: Bäckerei
 ---

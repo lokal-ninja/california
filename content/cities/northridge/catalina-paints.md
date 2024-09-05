@@ -1,5 +1,5 @@
 ---
 title: "Catalina Paints"
 url: /northridge/catalina-paints/
-shop: paint
+shop: Farben
 ---

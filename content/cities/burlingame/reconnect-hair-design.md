@@ -1,5 +1,5 @@
 ---
 title: "Reconnect Hair Design"
 url: /burlingame/reconnect-hair-design/
-shop: hairdresser
+shop: Friseur
 ---

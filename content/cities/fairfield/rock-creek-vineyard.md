@@ -1,5 +1,5 @@
 ---
 title: "Rock Creek Vineyard"
 url: /fairfield/rock-creek-vineyard/
-shop: wine
+shop: Wein
 ---

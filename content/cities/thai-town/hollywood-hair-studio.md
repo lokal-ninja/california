@@ -1,5 +1,5 @@
 ---
 title: "Hollywood Hair Studio"
 url: /thai-town/hollywood-hair-studio/
-shop: hairdresser
+shop: Friseur
 ---

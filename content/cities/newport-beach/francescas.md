@@ -1,5 +1,5 @@
 ---
 title: "Francesca's"
 url: /newport-beach/francescas/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Napoleon's"
 url: /oakland/napoleons/
-shop: beauty
+shop: Kosmetik
 ---

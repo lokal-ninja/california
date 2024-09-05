@@ -1,5 +1,5 @@
 ---
 title: "Essentia"
 url: /berkeley/essentia/
-shop: furniture
+shop: Möbel
 ---

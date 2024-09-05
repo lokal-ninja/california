@@ -1,5 +1,5 @@
 ---
 title: "Kahoots"
 url: /poway/kahoots/
-shop: pet
+shop: Tiere
 ---

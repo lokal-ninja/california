@@ -1,5 +1,5 @@
 ---
 title: "Lexus of Marin"
 url: /san-rafael/lexus-of-marin/
-shop: car
+shop: Autohaus
 ---

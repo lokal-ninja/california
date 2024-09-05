@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /huntington-beach/albertsons-beach-boulevard/
-shop: supermarket
+shop: Supermarkt
 ---

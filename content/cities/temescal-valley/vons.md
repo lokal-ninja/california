@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /temescal-valley/vons/
-shop: supermarket
+shop: Supermarkt
 ---

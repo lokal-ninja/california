@@ -1,5 +1,5 @@
 ---
 title: "Tony's Shoes"
 url: /little-bangladesh/tonys-shoes/
-shop: shoes
+shop: Schuhe
 ---

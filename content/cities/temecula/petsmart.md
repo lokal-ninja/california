@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /temecula/petsmart/
-shop: pet
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Protocol Telecomunications"
 url: /los-angeles/protocol-telecomunications/
-shop: shop
+shop: Allgemein
 ---

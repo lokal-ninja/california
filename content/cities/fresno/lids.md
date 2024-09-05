@@ -1,5 +1,5 @@
 ---
 title: "Lids"
 url: /fresno/lids/
-shop: clothes
+shop: Kleidung
 ---

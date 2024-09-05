@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /carlsbad/petco/
-shop: pet
+shop: Tiere
 ---

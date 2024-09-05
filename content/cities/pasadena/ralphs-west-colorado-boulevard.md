@@ -1,5 +1,5 @@
 ---
 title: "Ralphs"
 url: /pasadena/ralphs-west-colorado-boulevard/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cigarette Station"
 url: /clovis/cigarette-station/
-shop: tobacco
+shop: Tabak
 ---

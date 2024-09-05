@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /temecula/petco/
-shop: pet
+shop: Tiere
 ---

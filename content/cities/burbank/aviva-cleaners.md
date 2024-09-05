@@ -1,5 +1,5 @@
 ---
 title: "Aviva Cleaners"
 url: /burbank/aviva-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

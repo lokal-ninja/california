@@ -1,5 +1,5 @@
 ---
 title: "Golden West Supply Co"
 url: /monrovia/golden-west-supply-co/
-shop: clothes
+shop: Kleidung
 ---

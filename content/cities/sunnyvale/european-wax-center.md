@@ -1,5 +1,5 @@
 ---
 title: "European Wax Center"
 url: /sunnyvale/european-wax-center/
-shop: beauty
+shop: Kosmetik
 ---

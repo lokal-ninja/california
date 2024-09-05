@@ -1,5 +1,5 @@
 ---
 title: "Sunset Kids"
 url: /west-hollywood/sunset-kids/
-shop: clothes
+shop: Kleidung
 ---

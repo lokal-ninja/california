@@ -1,5 +1,5 @@
 ---
 title: "Romantix"
 url: /long-beach/romantix/
-shop: erotic
+shop: Erotik
 ---

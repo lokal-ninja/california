@@ -1,5 +1,5 @@
 ---
 title: "Campus Cuts"
 url: /isla-vista/campus-cuts/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
 url: /san-jose/extramile-north-1st-street/
-shop: convenience
+shop: Lebensmittel
 ---

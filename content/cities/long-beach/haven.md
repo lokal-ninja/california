@@ -1,5 +1,5 @@
 ---
 title: "Haven"
 url: /long-beach/haven/
-shop: cannabis
+shop: Hanf
 ---

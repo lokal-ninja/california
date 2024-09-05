@@ -1,5 +1,5 @@
 ---
 title: "Tullemoss"
 url: /long-beach/tullemoss/
-shop: clothes
+shop: Kleidung
 ---

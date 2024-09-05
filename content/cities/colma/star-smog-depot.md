@@ -1,5 +1,5 @@
 ---
 title: "Star Smog Depot"
 url: /colma/star-smog-depot/
-shop: shop
+shop: Allgemein
 ---

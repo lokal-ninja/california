@@ -1,5 +1,5 @@
 ---
 title: "Styles With Heart"
 url: /elk-grove/styles-with-heart/
-shop: clothes
+shop: Kleidung
 ---

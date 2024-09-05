@@ -1,5 +1,5 @@
 ---
 title: "Tina Nails"
 url: /morgan-hill/tina-nails/
-shop: beauty
+shop: Kosmetik
 ---

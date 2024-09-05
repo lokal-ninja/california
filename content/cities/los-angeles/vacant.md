@@ -1,5 +1,5 @@
 ---
 title: "(Vacant)"
 url: /los-angeles/vacant/
-shop: vacant
+shop: Leerstehend
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Harry Winston"
 url: /beverly-hills/harry-winston/
-shop: jewelry
+shop: Schmuck
 ---

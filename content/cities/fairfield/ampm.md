@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /fairfield/ampm/
-shop: convenience
+shop: Lebensmittel
 ---

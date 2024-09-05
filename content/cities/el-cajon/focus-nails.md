@@ -1,5 +1,5 @@
 ---
 title: "Focus Nails"
 url: /el-cajon/focus-nails/
-shop: beauty
+shop: Kosmetik
 ---

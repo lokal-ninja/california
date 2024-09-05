@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /milbrae/walgreens/
-shop: chemist
+shop: Drogerie
 ---

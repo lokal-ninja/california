@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /west-hollywood/best-buy/
-shop: electronics
+shop: Elektronik
 ---

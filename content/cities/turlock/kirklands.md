@@ -1,5 +1,5 @@
 ---
 title: "Kirkland's"
 url: /turlock/kirklands/
-shop: interior decoration
+shop: Raumausstattung
 ---

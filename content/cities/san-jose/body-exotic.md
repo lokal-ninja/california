@@ -1,5 +1,5 @@
 ---
 title: "Body Exotic"
 url: /san-jose/body-exotic/
-shop: piercing
+shop: Piercing
 ---

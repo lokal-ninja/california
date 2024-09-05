@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /montrose/vons/
-shop: supermarket
+shop: Supermarkt
 ---

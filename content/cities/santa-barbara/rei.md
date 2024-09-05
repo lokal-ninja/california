@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /santa-barbara/rei/
-shop: outdoor
+shop: Outdoor
 ---

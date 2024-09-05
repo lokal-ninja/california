@@ -1,5 +1,5 @@
 ---
 title: "Liberty Cleaners"
 url: /simi-valley/liberty-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

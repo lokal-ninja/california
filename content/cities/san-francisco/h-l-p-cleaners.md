@@ -1,5 +1,5 @@
 ---
 title: "H.L.P. Cleaners"
 url: /san-francisco/h-l-p-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

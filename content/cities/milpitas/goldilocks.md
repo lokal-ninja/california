@@ -1,5 +1,5 @@
 ---
 title: "Goldilocks"
 url: /milpitas/goldilocks/
-shop: bakery
+shop: Bäckerei
 ---

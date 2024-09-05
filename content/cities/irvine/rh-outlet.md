@@ -1,5 +1,5 @@
 ---
 title: "RH Outlet"
 url: /irvine/rh-outlet/
-shop: furniture
+shop: Möbel
 ---

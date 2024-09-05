@@ -1,5 +1,5 @@
 ---
 title: "Speed Addicts"
 url: /orange/speed-addicts/
-shop: shop
+shop: Allgemein
 ---

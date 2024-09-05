@@ -1,5 +1,5 @@
 ---
 title: "Ethos"
 url: /capitola/ethos/
-shop: general
+shop: Dorfladen
 ---

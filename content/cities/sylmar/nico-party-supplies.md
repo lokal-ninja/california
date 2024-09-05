@@ -1,5 +1,5 @@
 ---
 title: "Nico Party Supplies"
 url: /sylmar/nico-party-supplies/
-shop: party
+shop: Partyzubehör
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carniceria Del Valle"
 url: /sacramento/carniceria-del-valle/
-shop: supermarket
+shop: Supermarkt
 ---

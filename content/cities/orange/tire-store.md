@@ -1,5 +1,5 @@
 ---
 title: "Tire Store"
 url: /orange/tire-store/
-shop: car repair
+shop: Autowerkstatt
 ---

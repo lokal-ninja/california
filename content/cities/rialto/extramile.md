@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
 url: /rialto/extramile/
-shop: convenience
+shop: Lebensmittel
 ---

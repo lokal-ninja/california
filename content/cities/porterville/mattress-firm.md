@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /porterville/mattress-firm/
-shop: bed
+shop: Betten
 ---

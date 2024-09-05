@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /santa-clara/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

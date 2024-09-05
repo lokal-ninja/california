@@ -1,5 +1,5 @@
 ---
 title: "The Hair Saloon"
 url: /newbury-park/the-hair-saloon/
-shop: hairdresser
+shop: Friseur
 ---

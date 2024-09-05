@@ -1,5 +1,5 @@
 ---
 title: "Samsonite"
 url: /camarillo/samsonite/
-shop: bag
+shop: Taschen & Koffer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cha Redefine"
 url: /pasadena/cha-redefine/
-shop: tea
+shop: Tee
 ---

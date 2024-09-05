@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /salinas/marathon/
-shop: convenience
+shop: Lebensmittel
 ---

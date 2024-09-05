@@ -1,5 +1,5 @@
 ---
 title: "Sassy Hair"
 url: /cupertino/sassy-hair/
-shop: hairdresser
+shop: Friseur
 ---

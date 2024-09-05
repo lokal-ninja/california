@@ -1,5 +1,5 @@
 ---
 title: "Tesla Collision Santa Monica"
 url: /santa-monica/tesla-collision-santa-monica/
-shop: car repair
+shop: Autowerkstatt
 ---

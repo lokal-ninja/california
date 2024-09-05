@@ -1,5 +1,5 @@
 ---
 title: "Van Ness Vallejo Market"
 url: /san-francisco/van-ness-vallejo-market/
-shop: convenience
+shop: Lebensmittel
 ---

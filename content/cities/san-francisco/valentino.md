@@ -1,5 +1,5 @@
 ---
 title: "Valentino"
 url: /san-francisco/valentino/
-shop: clothes
+shop: Kleidung
 ---

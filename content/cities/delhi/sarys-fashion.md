@@ -1,5 +1,5 @@
 ---
 title: "Sary's Fashion"
 url: /delhi/sarys-fashion/
-shop: clothes
+shop: Kleidung
 ---

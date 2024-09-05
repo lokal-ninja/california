@@ -1,5 +1,5 @@
 ---
 title: "Solano Town Center"
 url: /fairfield/solano-town-center/
-shop: mall
+shop: Einkaufszentrum
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nina Religión"
 url: /los-angeles/nina-religion/
-shop: religion
+shop: Religion
 ---

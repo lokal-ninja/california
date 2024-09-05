@@ -1,5 +1,5 @@
 ---
 title: "FedEx"
 url: /ukiah/fedex/
-shop: copyshop
+shop: Kopieren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /san-jose/costco-automation-parkway/
-shop: wholesale
+shop: Großhandel
 ---

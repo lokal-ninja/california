@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /tujunga/albertsons/
-shop: supermarket
+shop: Supermarkt
 ---

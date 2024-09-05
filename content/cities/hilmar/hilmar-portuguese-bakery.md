@@ -1,5 +1,5 @@
 ---
 title: "Hilmar Portuguese Bakery"
 url: /hilmar/hilmar-portuguese-bakery/
-shop: bakery
+shop: Bäckerei
 ---

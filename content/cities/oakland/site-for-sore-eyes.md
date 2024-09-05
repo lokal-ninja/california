@@ -1,5 +1,5 @@
 ---
 title: "Site for Sore Eyes"
 url: /oakland/site-for-sore-eyes/
-shop: optician
+shop: Optiker
 ---

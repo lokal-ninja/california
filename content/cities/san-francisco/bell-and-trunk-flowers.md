@@ -1,5 +1,5 @@
 ---
 title: "Bell and Trunk Flowers"
 url: /san-francisco/bell-and-trunk-flowers/
-shop: florist
+shop: Blumen
 ---

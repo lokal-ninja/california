@@ -1,5 +1,5 @@
 ---
 title: "Serenity Hair Salon"
 url: /sherman-oaks/serenity-hair-salon/
-shop: hairdresser
+shop: Friseur
 ---

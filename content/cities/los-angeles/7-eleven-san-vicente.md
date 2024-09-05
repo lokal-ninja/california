@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
 url: /los-angeles/7-eleven-san-vicente/
-shop: convenience
+shop: Lebensmittel
 ---

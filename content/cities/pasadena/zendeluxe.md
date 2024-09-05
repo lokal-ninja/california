@@ -1,5 +1,5 @@
 ---
 title: "zenDeluxe"
 url: /pasadena/zendeluxe/
-shop: gift
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Anchor Electronics"
 url: /santa-clara/anchor-electronics/
-shop: radiotechnics
+shop: Radiotechnik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ralphs"
 url: /etiwanda/ralphs/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Karma Wellness Boutique"
 url: /pacifica/karma-wellness-boutique/
-shop: beauty
+shop: Kosmetik
 ---

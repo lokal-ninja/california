@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /bellflower/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

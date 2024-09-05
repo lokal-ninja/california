@@ -1,5 +1,5 @@
 ---
 title: "Babylon City Market"
 url: /sacramento/babylon-city-market/
-shop: supermarket
+shop: Supermarkt
 ---

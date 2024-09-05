@@ -1,5 +1,5 @@
 ---
 title: "Niello Audi"
 url: /sacramento/niello-audi/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rebecca Taylor"
 url: /camarillo/rebecca-taylor/
-shop: clothes
+shop: Kleidung
 ---

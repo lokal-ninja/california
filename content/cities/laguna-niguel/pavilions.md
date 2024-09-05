@@ -1,5 +1,5 @@
 ---
 title: "Pavilions"
 url: /laguna-niguel/pavilions/
-shop: supermarket
+shop: Supermarkt
 ---

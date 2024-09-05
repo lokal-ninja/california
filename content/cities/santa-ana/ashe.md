@@ -1,5 +1,5 @@
 ---
 title: "Ashe"
 url: /santa-ana/ashe/
-shop: cannabis
+shop: Hanf
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aerie"
 url: /newport-beach/aerie/
-shop: clothes
+shop: Kleidung
 ---

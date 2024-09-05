@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /fresno/ampm/
-shop: convenience
+shop: Lebensmittel
 ---

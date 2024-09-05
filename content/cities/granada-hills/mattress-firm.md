@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /granada-hills/mattress-firm/
-shop: bed
+shop: Betten
 ---

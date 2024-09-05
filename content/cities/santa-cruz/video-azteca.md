@@ -1,5 +1,5 @@
 ---
 title: "Video Azteca"
 url: /santa-cruz/video-azteca/
-shop: video
+shop: Videothek
 ---

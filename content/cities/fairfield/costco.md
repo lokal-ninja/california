@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /fairfield/costco/
-shop: wholesale
+shop: Großhandel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lovely Nails"
 url: /burbank/lovely-nails/
-shop: beauty
+shop: Kosmetik
 ---

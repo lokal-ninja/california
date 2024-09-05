@@ -1,5 +1,5 @@
 ---
 title: "Nooshi"
 url: /san-jose/nooshi/
-shop: hairdresser
+shop: Friseur
 ---

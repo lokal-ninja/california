@@ -1,5 +1,5 @@
 ---
 title: "La Favorita Market"
 url: /shafter/la-favorita-market/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /laguna-hills/rei/
-shop: outdoor
+shop: Outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Merced Gardens"
 url: /merced/merced-gardens/
-shop: garden centre
+shop: Garten-Center
 ---

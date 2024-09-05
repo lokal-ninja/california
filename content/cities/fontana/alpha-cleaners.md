@@ -1,5 +1,5 @@
 ---
 title: "Alpha Cleaners"
 url: /fontana/alpha-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

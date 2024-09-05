@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /burbank/vons/
-shop: supermarket
+shop: Supermarkt
 ---

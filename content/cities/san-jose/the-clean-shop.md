@@ -1,5 +1,5 @@
 ---
 title: "The Clean Shop"
 url: /san-jose/the-clean-shop/
-shop: laundry
+shop: Wäscherei
 ---

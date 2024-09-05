@@ -1,5 +1,5 @@
 ---
 title: "Pink Dot"
 url: /west-hollywood/pink-dot/
-shop: convenience
+shop: Lebensmittel
 ---

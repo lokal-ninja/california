@@ -1,5 +1,5 @@
 ---
 title: "Beauty Unlimited"
 url: /tustin/beauty-unlimited/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beauty Love Alchemy"
 url: /morgan-hill/beauty-love-alchemy/
-shop: hairdresser
+shop: Friseur
 ---

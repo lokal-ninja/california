@@ -1,5 +1,5 @@
 ---
 title: "Apatzingan"
 url: /san-jose/apatzingan/
-shop: supermarket
+shop: Supermarkt
 ---

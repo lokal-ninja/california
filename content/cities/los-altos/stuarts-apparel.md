@@ -1,5 +1,5 @@
 ---
 title: "Stuart's Apparel"
 url: /los-altos/stuarts-apparel/
-shop: clothes
+shop: Kleidung
 ---

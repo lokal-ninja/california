@@ -1,5 +1,5 @@
 ---
 title: "Jaz Hair Salon"
 url: /escondido/jaz-hair-salon/
-shop: hairdresser
+shop: Friseur
 ---

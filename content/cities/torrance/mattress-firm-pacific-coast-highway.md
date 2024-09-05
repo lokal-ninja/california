@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /torrance/mattress-firm-pacific-coast-highway/
-shop: bed
+shop: Betten
 ---

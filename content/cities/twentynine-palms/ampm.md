@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /twentynine-palms/ampm/
-shop: convenience
+shop: Lebensmittel
 ---

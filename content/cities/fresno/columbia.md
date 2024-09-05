@@ -1,5 +1,5 @@
 ---
 title: "Columbia"
 url: /fresno/columbia/
-shop: clothes
+shop: Kleidung
 ---

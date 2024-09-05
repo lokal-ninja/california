@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /west-covina/walmart-supercenter/
-shop: supermarket
+shop: Supermarkt
 ---

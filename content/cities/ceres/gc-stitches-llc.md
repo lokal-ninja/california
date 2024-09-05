@@ -1,5 +1,5 @@
 ---
 title: "GC Stitches LLC"
 url: /ceres/gc-stitches-llc/
-shop: clothes
+shop: Kleidung
 ---

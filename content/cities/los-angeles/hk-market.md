@@ -1,5 +1,5 @@
 ---
 title: "HK Market"
 url: /los-angeles/hk-market/
-shop: supermarket
+shop: Supermarkt
 ---

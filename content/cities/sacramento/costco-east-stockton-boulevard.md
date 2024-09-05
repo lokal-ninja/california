@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /sacramento/costco-east-stockton-boulevard/
-shop: wholesale
+shop: Großhandel
 ---

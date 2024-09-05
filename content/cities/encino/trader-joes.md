@@ -1,5 +1,5 @@
 ---
 title: "Trader Joe's"
 url: /encino/trader-joes/
-shop: supermarket
+shop: Supermarkt
 ---

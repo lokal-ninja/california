@@ -1,5 +1,5 @@
 ---
 title: "Sepulveda Laundry"
 url: /north-hills/sepulveda-laundry/
-shop: laundry
+shop: Wäscherei
 ---

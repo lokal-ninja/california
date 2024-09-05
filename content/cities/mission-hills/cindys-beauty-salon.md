@@ -1,5 +1,5 @@
 ---
 title: "Cindy's Beauty Salon"
 url: /mission-hills/cindys-beauty-salon/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stevens Creek Subaru"
 url: /san-jose/stevens-creek-subaru/
-shop: car
+shop: Autohaus
 ---

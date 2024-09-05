@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /el-cajon/michaels/
-shop: craft
+shop: Basteln
 ---

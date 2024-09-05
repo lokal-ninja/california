@@ -1,5 +1,5 @@
 ---
 title: "Black Market"
 url: /los-angeles/black-market/
-shop: clothes
+shop: Kleidung
 ---

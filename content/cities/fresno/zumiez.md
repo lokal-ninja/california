@@ -1,5 +1,5 @@
 ---
 title: "Zumiez"
 url: /fresno/zumiez/
-shop: clothes
+shop: Kleidung
 ---

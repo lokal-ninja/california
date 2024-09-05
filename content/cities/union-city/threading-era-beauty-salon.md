@@ -1,5 +1,5 @@
 ---
 title: "Threading Era Beauty Salon"
 url: /union-city/threading-era-beauty-salon/
-shop: beauty
+shop: Kosmetik
 ---

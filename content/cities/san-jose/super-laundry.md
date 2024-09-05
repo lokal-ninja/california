@@ -1,5 +1,5 @@
 ---
 title: "Super Laundry"
 url: /san-jose/super-laundry/
-shop: laundry
+shop: Wäscherei
 ---

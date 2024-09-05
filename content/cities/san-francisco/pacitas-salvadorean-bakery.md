@@ -1,5 +1,5 @@
 ---
 title: "Pacitas Salvadorean Bakery"
 url: /san-francisco/pacitas-salvadorean-bakery/
-shop: bakery
+shop: Bäckerei
 ---

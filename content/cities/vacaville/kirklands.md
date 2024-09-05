@@ -1,5 +1,5 @@
 ---
 title: "Kirkland's"
 url: /vacaville/kirklands/
-shop: interior decoration
+shop: Raumausstattung
 ---

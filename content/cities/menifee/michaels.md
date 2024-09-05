@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /menifee/michaels/
-shop: craft
+shop: Basteln
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CWallA"
 url: /fresno/cwalla/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Balboa Shore Store"
 url: /newport-beach/balboa-shore-store/
-shop: clothes
+shop: Kleidung
 ---

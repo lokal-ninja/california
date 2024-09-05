@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /rancho-cordova/ampm-sunrise-boulevard/
-shop: convenience
+shop: Lebensmittel
 ---

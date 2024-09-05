@@ -1,5 +1,5 @@
 ---
 title: "Noble Learning"
 url: /san-diego/noble-learning/
-shop: gift
+shop: Andenken
 ---

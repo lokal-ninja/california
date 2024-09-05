@@ -1,5 +1,5 @@
 ---
 title: "Floors Reborn, Inc."
 url: /bakersfield/floors-reborn-inc/
-shop: flooring
+shop: Fußböden
 ---

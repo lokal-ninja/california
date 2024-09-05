@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /torrance/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hollister"
 url: /fresno/hollister/
-shop: clothes
+shop: Kleidung
 ---

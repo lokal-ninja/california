@@ -1,5 +1,5 @@
 ---
 title: "Vapor Room Dispensary"
 url: /san-francisco/vapor-room-dispensary/
-shop: cannabis
+shop: Hanf
 ---

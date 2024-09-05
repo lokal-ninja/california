@@ -1,5 +1,5 @@
 ---
 title: "Private Sneaker"
 url: /san-pedro/private-sneaker/
-shop: shoes
+shop: Schuhe
 ---

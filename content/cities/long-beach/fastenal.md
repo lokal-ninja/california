@@ -1,5 +1,5 @@
 ---
 title: "Fastenal"
 url: /long-beach/fastenal/
-shop: trade
+shop: Baustoffe
 ---

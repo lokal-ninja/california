@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /menlo-park/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Crown Nails"
 url: /north-highlands/crown-nails/
-shop: beauty
+shop: Kosmetik
 ---

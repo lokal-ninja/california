@@ -1,5 +1,5 @@
 ---
 title: "Tasty Bakery"
 url: /san-diego/tasty-bakery/
-shop: bakery
+shop: Bäckerei
 ---

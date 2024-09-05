@@ -1,5 +1,5 @@
 ---
 title: "Martinez Used Cars"
 url: /livingston/martinez-used-cars/
-shop: car
+shop: Autohaus
 ---

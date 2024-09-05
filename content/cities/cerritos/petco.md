@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /cerritos/petco/
-shop: pet
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cliff's Variety"
 url: /san-francisco/cliffs-variety-castro-street/
-shop: general
+shop: Dorfladen
 ---

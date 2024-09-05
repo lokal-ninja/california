@@ -1,5 +1,5 @@
 ---
 title: "Princess Nails"
 url: /concord/princess-nails/
-shop: beauty
+shop: Kosmetik
 ---

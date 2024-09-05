@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /camarilo/firestone/
-shop: car repair
+shop: Autowerkstatt
 ---

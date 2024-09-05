@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /atwater/target/
-shop: department store
+shop: Warenhaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /fresno/valero/
-shop: convenience
+shop: Lebensmittel
 ---

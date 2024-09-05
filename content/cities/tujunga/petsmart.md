@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /tujunga/petsmart/
-shop: pet
+shop: Tiere
 ---

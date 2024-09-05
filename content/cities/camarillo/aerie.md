@@ -1,5 +1,5 @@
 ---
 title: "Aerie"
 url: /camarillo/aerie/
-shop: clothes
+shop: Kleidung
 ---

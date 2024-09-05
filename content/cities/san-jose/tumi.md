@@ -1,5 +1,5 @@
 ---
 title: "Tumi"
 url: /san-jose/tumi/
-shop: bag
+shop: Taschen & Koffer
 ---

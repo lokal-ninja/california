@@ -1,5 +1,5 @@
 ---
 title: "Sheila's Hair Salon"
 url: /fresno/sheilas-hair-salon/
-shop: beauty
+shop: Kosmetik
 ---

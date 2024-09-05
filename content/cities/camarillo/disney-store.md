@@ -1,5 +1,5 @@
 ---
 title: "Disney Store"
 url: /camarillo/disney-store/
-shop: gift
+shop: Andenken
 ---

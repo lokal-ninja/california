@@ -1,5 +1,5 @@
 ---
 title: "Margaret O’Leary"
 url: /palo-alto/margaret-oleary/
-shop: clothes
+shop: Kleidung
 ---

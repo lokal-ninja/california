@@ -1,5 +1,5 @@
 ---
 title: "Jones Lumber"
 url: /lynwood/jones-lumber/
-shop: trade
+shop: Baustoffe
 ---

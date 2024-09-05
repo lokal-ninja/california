@@ -1,5 +1,5 @@
 ---
 title: "BikeBling.com"
 url: /escondido/bikebling-com/
-shop: bicycle
+shop: Fahrrad
 ---

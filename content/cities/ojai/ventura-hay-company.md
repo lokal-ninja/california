@@ -1,5 +1,5 @@
 ---
 title: "Ventura Hay Company"
 url: /ojai/ventura-hay-company/
-shop: agrarian
+shop: Landwirtschaftlich
 ---

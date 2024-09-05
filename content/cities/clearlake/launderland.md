@@ -1,5 +1,5 @@
 ---
 title: "Launderland"
 url: /clearlake/launderland/
-shop: laundry
+shop: Wäscherei
 ---

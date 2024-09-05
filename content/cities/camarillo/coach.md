@@ -1,5 +1,5 @@
 ---
 title: "Coach"
 url: /camarillo/coach/
-shop: bag
+shop: Taschen & Koffer
 ---

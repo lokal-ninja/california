@@ -1,5 +1,5 @@
 ---
 title: "KIREI"
 url: /torrance/kirei/
-shop: beauty
+shop: Kosmetik
 ---

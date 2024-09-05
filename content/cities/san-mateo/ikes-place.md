@@ -1,5 +1,5 @@
 ---
 title: "Ike's Place"
 url: /san-mateo/ikes-place/
-shop: deli
+shop: Feinkost
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LaunderLand"
 url: /fremont/launderland/
-shop: laundry
+shop: Wäscherei
 ---

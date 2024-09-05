@@ -1,5 +1,5 @@
 ---
 title: "Elizabeth Barragan"
 url: /sunnyvale/elizabeth-barragan/
-shop: hairdresser
+shop: Friseur
 ---

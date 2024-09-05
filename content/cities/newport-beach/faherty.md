@@ -1,5 +1,5 @@
 ---
 title: "Faherty"
 url: /newport-beach/faherty/
-shop: clothes
+shop: Kleidung
 ---

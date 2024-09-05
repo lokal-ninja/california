@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /antelope/kohls/
-shop: department store
+shop: Warenhaus
 ---

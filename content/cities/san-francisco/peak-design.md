@@ -1,5 +1,5 @@
 ---
 title: "Peak Design"
 url: /san-francisco/peak-design/
-shop: bag
+shop: Taschen & Koffer
 ---

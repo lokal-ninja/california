@@ -1,5 +1,5 @@
 ---
 title: "Mega Mart"
 url: /la-jolla/mega-mart/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
 url: /susanville/food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

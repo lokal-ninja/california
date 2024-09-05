@@ -1,5 +1,5 @@
 ---
 title: "Marco Polo Laundry"
 url: /san-jose/marco-polo-laundry/
-shop: laundry
+shop: Wäscherei
 ---

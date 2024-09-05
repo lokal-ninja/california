@@ -1,5 +1,5 @@
 ---
 title: "Ralphs"
 url: /glendale/ralphs/
-shop: supermarket
+shop: Supermarkt
 ---

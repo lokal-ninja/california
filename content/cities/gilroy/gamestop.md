@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /gilroy/gamestop/
-shop: video games
+shop: Videospiele
 ---

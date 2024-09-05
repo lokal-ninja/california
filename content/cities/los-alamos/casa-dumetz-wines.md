@@ -1,5 +1,5 @@
 ---
 title: "Casa Dumetz Wines"
 url: /los-alamos/casa-dumetz-wines/
-shop: wine
+shop: Wein
 ---

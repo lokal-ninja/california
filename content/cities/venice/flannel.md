@@ -1,5 +1,5 @@
 ---
 title: "Flannel"
 url: /venice/flannel/
-shop: clothes
+shop: Kleidung
 ---

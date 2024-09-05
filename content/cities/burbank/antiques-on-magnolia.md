@@ -1,5 +1,5 @@
 ---
 title: "Antiques On Magnolia"
 url: /burbank/antiques-on-magnolia/
-shop: antiques
+shop: Antiquitäten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Signs by Tomorrow"
 url: /sacramento/signs-by-tomorrow/
-shop: shop
+shop: Allgemein
 ---

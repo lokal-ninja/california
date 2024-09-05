@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /camarillo/claires/
-shop: boutique
+shop: Modehaus
 ---

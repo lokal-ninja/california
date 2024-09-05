@@ -1,5 +1,5 @@
 ---
 title: "Demaray Pool Supply"
 url: /vacaville/demaray-pool-supply/
-shop: sports
+shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "E-Z Credit"
 url: /coachella/e-z-credit/
-shop: shop
+shop: Allgemein
 ---

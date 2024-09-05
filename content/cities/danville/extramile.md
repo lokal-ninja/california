@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
 url: /danville/extramile/
-shop: convenience
+shop: Lebensmittel
 ---

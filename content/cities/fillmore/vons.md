@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /fillmore/vons/
-shop: supermarket
+shop: Supermarkt
 ---

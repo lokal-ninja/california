@@ -1,5 +1,5 @@
 ---
 title: "Tumi"
 url: /camarillo/tumi/
-shop: bag
+shop: Taschen & Koffer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /san-luis-obispo/dsw/
-shop: shoes
+shop: Schuhe
 ---

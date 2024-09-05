@@ -1,5 +1,5 @@
 ---
 title: "Ashley HomeStore"
 url: /santa-clarita/ashley-homestore/
-shop: furniture
+shop: Möbel
 ---

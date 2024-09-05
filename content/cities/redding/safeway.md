@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /redding/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

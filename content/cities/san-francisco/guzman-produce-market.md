@@ -1,5 +1,5 @@
 ---
 title: "Guzman Produce Market"
 url: /san-francisco/guzman-produce-market/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

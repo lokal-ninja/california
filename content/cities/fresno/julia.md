@@ -1,5 +1,5 @@
 ---
 title: "JULIA"
 url: /fresno/julia/
-shop: jewelry
+shop: Schmuck
 ---

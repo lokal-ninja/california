@@ -1,5 +1,5 @@
 ---
 title: "Mission Tile"
 url: /santa-cruz/mission-tile/
-shop: tiles
+shop: Fliesen
 ---

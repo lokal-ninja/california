@@ -1,5 +1,5 @@
 ---
 title: "Milk Shop"
 url: /los-angeles/milk-shop/
-shop: bakery
+shop: Bäckerei
 ---

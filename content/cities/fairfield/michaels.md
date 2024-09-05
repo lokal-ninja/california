@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /fairfield/michaels/
-shop: craft
+shop: Basteln
 ---

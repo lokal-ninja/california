@@ -1,5 +1,5 @@
 ---
 title: "R Image Market"
 url: /san-francisco/r-image-market/
-shop: convenience
+shop: Lebensmittel
 ---

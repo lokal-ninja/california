@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /canoga-park/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

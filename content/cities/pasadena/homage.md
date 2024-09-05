@@ -1,5 +1,5 @@
 ---
 title: "Homage"
 url: /pasadena/homage/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /bakersfield/michaels/
-shop: craft
+shop: Basteln
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /huntington-beach/walmart/
-shop: supermarket
+shop: Supermarkt
 ---

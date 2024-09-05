@@ -1,5 +1,5 @@
 ---
 title: "BevMo!"
 url: /gilroy/bevmo/
-shop: alcohol
+shop: Spirituosen
 ---

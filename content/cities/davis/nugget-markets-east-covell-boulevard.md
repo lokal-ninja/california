@@ -1,5 +1,5 @@
 ---
 title: "Nugget Markets"
 url: /davis/nugget-markets-east-covell-boulevard/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hilton House"
 url: /orinda/hilton-house/
-shop: charity
+shop: Gebrauchtwaren
 ---

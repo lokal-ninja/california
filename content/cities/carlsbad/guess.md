@@ -1,5 +1,5 @@
 ---
 title: "Guess"
 url: /carlsbad/guess/
-shop: clothes
+shop: Kleidung
 ---

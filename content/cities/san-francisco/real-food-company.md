@@ -1,5 +1,5 @@
 ---
 title: "Real Food Company"
 url: /san-francisco/real-food-company/
-shop: supermarket
+shop: Supermarkt
 ---

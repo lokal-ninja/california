@@ -1,5 +1,5 @@
 ---
 title: "Cardenas"
 url: /hayward/cardenas/
-shop: supermarket
+shop: Supermarkt
 ---

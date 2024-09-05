@@ -1,5 +1,5 @@
 ---
 title: "Center Hardware"
 url: /san-francisco/center-hardware/
-shop: hardware
+shop: Eisenwaren
 ---

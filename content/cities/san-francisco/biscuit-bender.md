@@ -1,5 +1,5 @@
 ---
 title: "Biscuit Bender"
 url: /san-francisco/biscuit-bender/
-shop: bakery
+shop: Bäckerei
 ---

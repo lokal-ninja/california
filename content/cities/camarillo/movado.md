@@ -1,5 +1,5 @@
 ---
 title: "Movado"
 url: /camarillo/movado/
-shop: watches
+shop: Uhren
 ---

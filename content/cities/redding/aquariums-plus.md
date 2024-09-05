@@ -1,5 +1,5 @@
 ---
 title: "Aquariums Plus"
 url: /redding/aquariums-plus/
-shop: pet
+shop: Tiere
 ---

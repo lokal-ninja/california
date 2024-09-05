@@ -1,5 +1,5 @@
 ---
 title: "Frame 2000"
 url: /los-angeles/frame-2000/
-shop: frame
+shop: Rahmen
 ---

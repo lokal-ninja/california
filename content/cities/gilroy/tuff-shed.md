@@ -1,5 +1,5 @@
 ---
 title: "Tuff Shed"
 url: /gilroy/tuff-shed/
-shop: hardware
+shop: Eisenwaren
 ---

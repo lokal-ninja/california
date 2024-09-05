@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /city-of-industry/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

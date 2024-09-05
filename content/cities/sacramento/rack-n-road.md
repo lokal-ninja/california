@@ -1,5 +1,5 @@
 ---
 title: "Rack N Road"
 url: /sacramento/rack-n-road/
-shop: sports
+shop: Sport
 ---

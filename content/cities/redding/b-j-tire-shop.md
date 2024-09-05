@@ -1,5 +1,5 @@
 ---
 title: "B J Tire Shop"
 url: /redding/b-j-tire-shop/
-shop: tyres
+shop: Reifen
 ---

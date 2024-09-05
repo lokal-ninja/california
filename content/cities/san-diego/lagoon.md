@@ -1,5 +1,5 @@
 ---
 title: "Lagoon"
 url: /san-diego/lagoon/
-shop: furniture
+shop: Möbel
 ---

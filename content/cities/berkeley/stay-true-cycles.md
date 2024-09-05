@@ -1,5 +1,5 @@
 ---
 title: "Stay True Cycles"
 url: /berkeley/stay-true-cycles/
-shop: bicycle
+shop: Fahrrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /murrieta/albertsons/
-shop: supermarket
+shop: Supermarkt
 ---

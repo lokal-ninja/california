@@ -1,5 +1,5 @@
 ---
 title: "Fiori"
 url: /burlingame/fiori/
-shop: florist
+shop: Blumen
 ---

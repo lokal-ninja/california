@@ -1,5 +1,5 @@
 ---
 title: "Verdalee"
 url: /fresno/verdalee/
-shop: gift
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Litzy's Hair Salon"
 url: /san-jose/litzys-hair-salon/
-shop: hairdresser
+shop: Friseur
 ---

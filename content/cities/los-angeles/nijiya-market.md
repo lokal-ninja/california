@@ -1,5 +1,5 @@
 ---
 title: "Nijiya Market"
 url: /los-angeles/nijiya-market/
-shop: supermarket
+shop: Supermarkt
 ---

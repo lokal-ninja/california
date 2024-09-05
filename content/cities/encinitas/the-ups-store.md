@@ -1,5 +1,5 @@
 ---
 title: "The UPS Store"
 url: /encinitas/the-ups-store/
-shop: copyshop
+shop: Kopieren
 ---

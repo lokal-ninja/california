@@ -1,5 +1,5 @@
 ---
 title: "Ralphs"
 url: /stevenson-ranch/ralphs/
-shop: supermarket
+shop: Supermarkt
 ---

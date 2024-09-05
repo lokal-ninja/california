@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /santa-ana/vons/
-shop: supermarket
+shop: Supermarkt
 ---

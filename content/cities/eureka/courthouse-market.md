@@ -1,5 +1,5 @@
 ---
 title: "Courthouse Market"
 url: /eureka/courthouse-market/
-shop: convenience
+shop: Lebensmittel
 ---

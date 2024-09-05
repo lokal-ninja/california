@@ -1,5 +1,5 @@
 ---
 title: "Ăn Vặt Nhà DiemDiem"
 url: /san-jose/an-vat-nha-diemdiem/
-shop: convenience
+shop: Lebensmittel
 ---

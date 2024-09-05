@@ -1,5 +1,5 @@
 ---
 title: "Ralphs"
 url: /calabasas/ralphs/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /poway/michaels/
-shop: craft
+shop: Basteln
 ---

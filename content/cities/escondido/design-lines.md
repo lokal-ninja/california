@@ -1,5 +1,5 @@
 ---
 title: "Design Lines"
 url: /escondido/design-lines/
-shop: hairdresser
+shop: Friseur
 ---

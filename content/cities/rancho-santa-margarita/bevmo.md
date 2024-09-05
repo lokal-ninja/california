@@ -1,5 +1,5 @@
 ---
 title: "BevMo!"
 url: /rancho-santa-margarita/bevmo/
-shop: alcohol
+shop: Spirituosen
 ---

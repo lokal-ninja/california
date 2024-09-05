@@ -1,5 +1,5 @@
 ---
 title: "Draeger's"
 url: /san-mateo/draegers/
-shop: supermarket
+shop: Supermarkt
 ---

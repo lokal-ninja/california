@@ -1,5 +1,5 @@
 ---
 title: "HearUSA"
 url: /torrance/hearusa/
-shop: hearing aids
+shop: Hörgeräte
 ---

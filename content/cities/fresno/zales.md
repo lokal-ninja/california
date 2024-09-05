@@ -1,5 +1,5 @@
 ---
 title: "Zales"
 url: /fresno/zales/
-shop: jewelry
+shop: Schmuck
 ---

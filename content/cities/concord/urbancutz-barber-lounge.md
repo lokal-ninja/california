@@ -1,5 +1,5 @@
 ---
 title: "Urbancutz Barber Lounge"
 url: /concord/urbancutz-barber-lounge/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
 url: /chula-vista/food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

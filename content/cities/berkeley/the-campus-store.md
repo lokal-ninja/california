@@ -1,5 +1,5 @@
 ---
 title: "The Campus Store"
 url: /berkeley/the-campus-store/
-shop: general
+shop: Dorfladen
 ---

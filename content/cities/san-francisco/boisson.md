@@ -1,5 +1,5 @@
 ---
 title: "Boisson"
 url: /san-francisco/boisson/
-shop: beverages
+shop: Getränke
 ---

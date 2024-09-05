@@ -1,5 +1,5 @@
 ---
 title: "Brightomat"
 url: /san-francisco/brightomat/
-shop: laundry
+shop: Wäscherei
 ---

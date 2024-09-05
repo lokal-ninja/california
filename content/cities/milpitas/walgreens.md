@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /milpitas/walgreens/
-shop: chemist
+shop: Drogerie
 ---

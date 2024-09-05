@@ -1,5 +1,5 @@
 ---
 title: "Alo"
 url: /palo-alto/alo/
-shop: clothes
+shop: Kleidung
 ---

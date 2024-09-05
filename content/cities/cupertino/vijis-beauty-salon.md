@@ -1,5 +1,5 @@
 ---
 title: "Viji's Beauty Salon"
 url: /cupertino/vijis-beauty-salon/
-shop: beauty
+shop: Kosmetik
 ---

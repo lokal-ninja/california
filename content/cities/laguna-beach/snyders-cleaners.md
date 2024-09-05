@@ -1,5 +1,5 @@
 ---
 title: "Snyder's Cleaners"
 url: /laguna-beach/snyders-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

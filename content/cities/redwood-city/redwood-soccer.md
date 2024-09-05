@@ -1,5 +1,5 @@
 ---
 title: "Redwood Soccer"
 url: /redwood-city/redwood-soccer/
-shop: sports
+shop: Sport
 ---

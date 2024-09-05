@@ -1,5 +1,5 @@
 ---
 title: "Ragamuffin"
 url: /modesto/ragamuffin/
-shop: clothes
+shop: Kleidung
 ---

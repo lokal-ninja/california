@@ -1,5 +1,5 @@
 ---
 title: "Lululemon"
 url: /fresno/lululemon/
-shop: clothes
+shop: Kleidung
 ---

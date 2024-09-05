@@ -1,5 +1,5 @@
 ---
 title: "Prestige Studio"
 url: /san-jose/prestige-studio/
-shop: hairdresser
+shop: Friseur
 ---

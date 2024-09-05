@@ -1,5 +1,5 @@
 ---
 title: "Europa Bicycle Center"
 url: /sherman-oaks/europa-bicycle-center/
-shop: bicycle
+shop: Fahrrad
 ---

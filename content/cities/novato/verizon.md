@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /novato/verizon/
-shop: mobile phone
+shop: Handy
 ---

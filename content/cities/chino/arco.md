@@ -1,5 +1,5 @@
 ---
 title: "Arco"
 url: /chino/arco/
-shop: convenience
+shop: Lebensmittel
 ---

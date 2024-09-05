@@ -1,5 +1,5 @@
 ---
 title: "Mautto"
 url: /hollister/mautto/
-shop: boutique
+shop: Modehaus
 ---

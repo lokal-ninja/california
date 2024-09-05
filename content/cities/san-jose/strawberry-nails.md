@@ -1,5 +1,5 @@
 ---
 title: "Strawberry Nails"
 url: /san-jose/strawberry-nails/
-shop: beauty
+shop: Kosmetik
 ---

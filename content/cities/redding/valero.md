@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /redding/valero/
-shop: convenience
+shop: Lebensmittel
 ---

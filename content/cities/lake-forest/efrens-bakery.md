@@ -1,5 +1,5 @@
 ---
 title: "Efren's Bakery"
 url: /lake-forest/efrens-bakery/
-shop: bakery
+shop: Bäckerei
 ---

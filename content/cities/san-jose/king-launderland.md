@@ -1,5 +1,5 @@
 ---
 title: "King Launderland"
 url: /san-jose/king-launderland/
-shop: laundry
+shop: Wäscherei
 ---

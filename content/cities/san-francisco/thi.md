@@ -1,5 +1,5 @@
 ---
 title: "Thi"
 url: /san-francisco/thi/
-shop: beauty
+shop: Kosmetik
 ---

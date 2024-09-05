@@ -1,5 +1,5 @@
 ---
 title: "Mingos on Main"
 url: /angels-camp/mingos-on-main/
-shop: clothes
+shop: Kleidung
 ---

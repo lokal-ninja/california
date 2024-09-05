@@ -1,5 +1,5 @@
 ---
 title: "Pawramount"
 url: /torrance/pawramount/
-shop: pet
+shop: Tiere
 ---

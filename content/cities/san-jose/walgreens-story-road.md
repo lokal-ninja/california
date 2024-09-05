@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /san-jose/walgreens-story-road/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Joybound Thrift Store"
 url: /concord/joybound-thrift-store/
-shop: charity
+shop: Gebrauchtwaren
 ---

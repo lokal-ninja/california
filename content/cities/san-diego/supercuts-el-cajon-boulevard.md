@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /san-diego/supercuts-el-cajon-boulevard/
-shop: hairdresser
+shop: Friseur
 ---

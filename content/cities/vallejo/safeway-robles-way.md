@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /vallejo/safeway-robles-way/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HearingLife"
 url: /roseville/hearinglife/
-shop: shop
+shop: Allgemein
 ---

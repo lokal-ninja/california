@@ -1,5 +1,5 @@
 ---
 title: "El Torito Market"
 url: /los-angeles/el-torito-market/
-shop: convenience
+shop: Lebensmittel
 ---

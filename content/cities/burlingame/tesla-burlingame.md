@@ -1,5 +1,5 @@
 ---
 title: "Tesla Burlingame"
 url: /burlingame/tesla-burlingame/
-shop: car
+shop: Autohaus
 ---

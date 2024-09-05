@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
 url: /sunnyvale/extramile/
-shop: convenience
+shop: Lebensmittel
 ---

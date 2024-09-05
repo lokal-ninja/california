@@ -1,5 +1,5 @@
 ---
 title: "AK Auto"
 url: /san-jose/ak-auto/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shoeteria"
 url: /anaheim/shoeteria/
-shop: shoes
+shop: Schuhe
 ---

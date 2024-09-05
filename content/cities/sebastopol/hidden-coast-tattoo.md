@@ -1,5 +1,5 @@
 ---
 title: "Hidden Coast Tattoo"
 url: /sebastopol/hidden-coast-tattoo/
-shop: tattoo
+shop: Tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pro Nails"
 url: /arroyo-grande/pro-nails/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vinh Phat"
 url: /sacramento/vinh-phat/
-shop: supermarket
+shop: Supermarkt
 ---

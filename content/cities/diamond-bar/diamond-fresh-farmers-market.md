@@ -1,5 +1,5 @@
 ---
 title: "Diamond Fresh Farmers Market"
 url: /diamond-bar/diamond-fresh-farmers-market/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Catalina Kids"
 url: /avalon/catalina-kids/
-shop: clothes
+shop: Kleidung
 ---

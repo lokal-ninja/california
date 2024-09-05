@@ -1,5 +1,5 @@
 ---
 title: "American Weight Loss"
 url: /aliso-viejo/american-weight-loss/
-shop: shop
+shop: Allgemein
 ---

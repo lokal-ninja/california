@@ -1,5 +1,5 @@
 ---
 title: "PAIGE"
 url: /san-jose/paige/
-shop: clothes
+shop: Kleidung
 ---

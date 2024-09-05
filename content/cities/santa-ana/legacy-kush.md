@@ -1,5 +1,5 @@
 ---
 title: "Legacy Kush"
 url: /santa-ana/legacy-kush/
-shop: cannabis
+shop: Hanf
 ---

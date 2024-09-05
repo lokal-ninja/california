@@ -1,5 +1,5 @@
 ---
 title: "LATHER"
 url: /pasadena/lather/
-shop: beauty
+shop: Kosmetik
 ---

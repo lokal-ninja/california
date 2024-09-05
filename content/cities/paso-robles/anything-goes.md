@@ -1,5 +1,5 @@
 ---
 title: "Anything Goes"
 url: /paso-robles/anything-goes/
-shop: convenience
+shop: Lebensmittel
 ---

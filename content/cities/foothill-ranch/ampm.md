@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /foothill-ranch/ampm/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Starline Motors"
 url: /los-angeles/starline-motors/
-shop: car
+shop: Autohaus
 ---

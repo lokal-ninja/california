@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /livermore/costco/
-shop: wholesale
+shop: Großhandel
 ---

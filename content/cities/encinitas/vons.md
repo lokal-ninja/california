@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /encinitas/vons/
-shop: supermarket
+shop: Supermarkt
 ---

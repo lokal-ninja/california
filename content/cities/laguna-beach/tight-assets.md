@@ -1,5 +1,5 @@
 ---
 title: "Tight Assets"
 url: /laguna-beach/tight-assets/
-shop: clothes
+shop: Kleidung
 ---

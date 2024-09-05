@@ -1,5 +1,5 @@
 ---
 title: "The Optician"
 url: /berkeley/the-optician/
-shop: optician
+shop: Optiker
 ---

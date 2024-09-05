@@ -1,5 +1,5 @@
 ---
 title: "Legacy Studio"
 url: /sunnyvale/legacy-studio/
-shop: hairdresser
+shop: Friseur
 ---

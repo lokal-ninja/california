@@ -1,5 +1,5 @@
 ---
 title: "Spotlight Beauty Salon"
 url: /clovis/spotlight-beauty-salon/
-shop: beauty
+shop: Kosmetik
 ---

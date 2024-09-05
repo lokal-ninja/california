@@ -1,5 +1,5 @@
 ---
 title: "Tillys"
 url: /laguna-niguel/tillys/
-shop: clothes
+shop: Kleidung
 ---

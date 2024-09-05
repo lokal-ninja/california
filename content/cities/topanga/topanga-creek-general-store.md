@@ -1,5 +1,5 @@
 ---
 title: "Topanga Creek General Store"
 url: /topanga/topanga-creek-general-store/
-shop: supermarket
+shop: Supermarkt
 ---

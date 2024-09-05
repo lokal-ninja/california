@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /signal-hill/petsmart/
-shop: pet
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ralphs"
 url: /san-diego/ralphs-mission-center-road/
-shop: supermarket
+shop: Supermarkt
 ---

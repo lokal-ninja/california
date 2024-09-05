@@ -1,5 +1,5 @@
 ---
 title: "Away"
 url: /san-francisco/away/
-shop: bag
+shop: Taschen & Koffer
 ---

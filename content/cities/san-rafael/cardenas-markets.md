@@ -1,5 +1,5 @@
 ---
 title: "Cardenas Markets"
 url: /san-rafael/cardenas-markets/
-shop: supermarket
+shop: Supermarkt
 ---

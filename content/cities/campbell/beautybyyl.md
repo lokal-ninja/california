@@ -1,5 +1,5 @@
 ---
 title: "BeautyByYL"
 url: /campbell/beautybyyl/
-shop: beauty
+shop: Kosmetik
 ---

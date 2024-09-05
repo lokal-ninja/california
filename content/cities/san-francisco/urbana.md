@@ -1,5 +1,5 @@
 ---
 title: "Urbana"
 url: /san-francisco/urbana/
-shop: cannabis
+shop: Hanf
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferguson Plumbing (Mission Valley)"
 url: /san-diego/ferguson-plumbing-mission-valley/
-shop: trade
+shop: Baustoffe
 ---

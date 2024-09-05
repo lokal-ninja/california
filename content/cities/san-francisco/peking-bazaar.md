@@ -1,5 +1,5 @@
 ---
 title: "Peking Bazaar"
 url: /san-francisco/peking-bazaar/
-shop: shop
+shop: Allgemein
 ---

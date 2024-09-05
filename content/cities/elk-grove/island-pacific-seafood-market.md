@@ -1,5 +1,5 @@
 ---
 title: "Island Pacific Seafood Market"
 url: /elk-grove/island-pacific-seafood-market/
-shop: supermarket
+shop: Supermarkt
 ---

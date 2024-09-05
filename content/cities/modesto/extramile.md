@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
 url: /modesto/extramile/
-shop: convenience
+shop: Lebensmittel
 ---

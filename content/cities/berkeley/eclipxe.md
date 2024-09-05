@@ -1,5 +1,5 @@
 ---
 title: "Eclipxe"
 url: /berkeley/eclipxe/
-shop: hairdresser
+shop: Friseur
 ---

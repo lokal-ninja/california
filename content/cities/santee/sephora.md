@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /santee/sephora/
-shop: beauty
+shop: Kosmetik
 ---

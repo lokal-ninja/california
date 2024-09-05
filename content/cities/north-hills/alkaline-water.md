@@ -1,5 +1,5 @@
 ---
 title: "Alkaline Water"
 url: /north-hills/alkaline-water/
-shop: water
+shop: Wasser
 ---

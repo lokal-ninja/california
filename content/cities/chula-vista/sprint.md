@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /chula-vista/sprint/
-shop: mobile phone
+shop: Handy
 ---

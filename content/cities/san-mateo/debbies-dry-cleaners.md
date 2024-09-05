@@ -1,5 +1,5 @@
 ---
 title: "Debbie's Dry Cleaners"
 url: /san-mateo/debbies-dry-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

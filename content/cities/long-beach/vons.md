@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /long-beach/vons/
-shop: supermarket
+shop: Supermarkt
 ---

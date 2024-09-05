@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /covina/vons/
-shop: supermarket
+shop: Supermarkt
 ---

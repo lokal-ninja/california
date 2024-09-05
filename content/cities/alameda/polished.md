@@ -1,5 +1,5 @@
 ---
 title: "Polished"
 url: /alameda/polished/
-shop: hairdresser
+shop: Friseur
 ---

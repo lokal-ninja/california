@@ -1,5 +1,5 @@
 ---
 title: "Victory Liquor"
 url: /coachella/victory-liquor/
-shop: convenience
+shop: Lebensmittel
 ---

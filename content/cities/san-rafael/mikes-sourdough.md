@@ -1,5 +1,5 @@
 ---
 title: "Mike's Sourdough"
 url: /san-rafael/mikes-sourdough/
-shop: deli
+shop: Feinkost
 ---

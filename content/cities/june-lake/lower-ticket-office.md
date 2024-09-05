@@ -1,5 +1,5 @@
 ---
 title: "Lower Ticket Office"
 url: /june-lake/lower-ticket-office/
-shop: ticket
+shop: Tickets
 ---

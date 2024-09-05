@@ -1,5 +1,5 @@
 ---
 title: "Ranchero Market"
 url: /simi-valley/ranchero-market/
-shop: supermarket
+shop: Supermarkt
 ---

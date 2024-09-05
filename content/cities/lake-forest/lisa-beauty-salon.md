@@ -1,5 +1,5 @@
 ---
 title: "Lisa Beauty Salon"
 url: /lake-forest/lisa-beauty-salon/
-shop: hairdresser
+shop: Friseur
 ---

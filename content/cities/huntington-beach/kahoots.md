@@ -1,5 +1,5 @@
 ---
 title: "Kahoots"
 url: /huntington-beach/kahoots/
-shop: pet
+shop: Tiere
 ---

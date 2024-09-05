@@ -1,5 +1,5 @@
 ---
 title: "tusean gardens"
 url: /petaluma/tusean-gardens/
-shop: garden centre
+shop: Garten-Center
 ---

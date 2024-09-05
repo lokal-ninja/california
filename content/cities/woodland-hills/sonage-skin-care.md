@@ -1,5 +1,5 @@
 ---
 title: "Sonage Skin Care"
 url: /woodland-hills/sonage-skin-care/
-shop: beauty
+shop: Kosmetik
 ---

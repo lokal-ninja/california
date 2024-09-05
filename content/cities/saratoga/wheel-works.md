@@ -1,5 +1,5 @@
 ---
 title: "Wheel Works"
 url: /saratoga/wheel-works/
-shop: tyres
+shop: Reifen
 ---

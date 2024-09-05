@@ -1,5 +1,5 @@
 ---
 title: "Madewell"
 url: /burlingame/madewell/
-shop: clothes
+shop: Kleidung
 ---

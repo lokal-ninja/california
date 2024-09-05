@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /el-centro/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

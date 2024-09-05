@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /folsom/michaels/
-shop: craft
+shop: Basteln
 ---

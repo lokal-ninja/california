@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /san-diego/vons-highlands-village-place/
-shop: supermarket
+shop: Supermarkt
 ---

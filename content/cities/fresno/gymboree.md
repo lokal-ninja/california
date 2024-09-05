@@ -1,5 +1,5 @@
 ---
 title: "Gymboree"
 url: /fresno/gymboree/
-shop: clothes
+shop: Kleidung
 ---

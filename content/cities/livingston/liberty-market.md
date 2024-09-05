@@ -1,5 +1,5 @@
 ---
 title: "Liberty Market"
 url: /livingston/liberty-market/
-shop: supermarket
+shop: Supermarkt
 ---

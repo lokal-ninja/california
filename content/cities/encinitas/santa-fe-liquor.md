@@ -1,5 +1,5 @@
 ---
 title: "Santa Fe Liquor"
 url: /encinitas/santa-fe-liquor/
-shop: convenience
+shop: Lebensmittel
 ---

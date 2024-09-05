@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /cupertino/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

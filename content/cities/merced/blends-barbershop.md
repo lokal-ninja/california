@@ -1,5 +1,5 @@
 ---
 title: "Blends Barbershop"
 url: /merced/blends-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /pasadena/valvoline/
-shop: car repair
+shop: Autowerkstatt
 ---

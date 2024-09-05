@@ -1,5 +1,5 @@
 ---
 title: "The Flower Boutique"
 url: /sylmar/the-flower-boutique/
-shop: florist
+shop: Blumen
 ---

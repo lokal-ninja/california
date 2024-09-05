@@ -1,5 +1,5 @@
 ---
 title: "Ralphs"
 url: /murrieta/ralphs/
-shop: supermarket
+shop: Supermarkt
 ---

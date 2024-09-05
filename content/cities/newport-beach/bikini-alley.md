@@ -1,5 +1,5 @@
 ---
 title: "Bikini Alley"
 url: /newport-beach/bikini-alley/
-shop: clothes
+shop: Kleidung
 ---

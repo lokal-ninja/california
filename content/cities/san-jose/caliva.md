@@ -1,5 +1,5 @@
 ---
 title: "Caliva"
 url: /san-jose/caliva/
-shop: cannabis
+shop: Hanf
 ---

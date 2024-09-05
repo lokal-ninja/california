@@ -1,5 +1,5 @@
 ---
 title: "BigFish Vapor Lab"
 url: /arcata/bigfish-vapor-lab/
-shop: tobacco
+shop: Tabak
 ---

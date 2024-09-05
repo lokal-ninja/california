@@ -1,5 +1,5 @@
 ---
 title: "Roaring Mouse Cycles"
 url: /san-francisco/roaring-mouse-cycles/
-shop: bicycle
+shop: Fahrrad
 ---

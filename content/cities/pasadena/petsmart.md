@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /pasadena/petsmart/
-shop: pet
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /riverside/ampm/
-shop: convenience
+shop: Lebensmittel
 ---

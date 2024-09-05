@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /bakersfield/ampm/
-shop: convenience
+shop: Lebensmittel
 ---

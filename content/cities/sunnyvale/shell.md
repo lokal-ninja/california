@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /sunnyvale/shell/
-shop: kiosk
+shop: Kiosk
 ---

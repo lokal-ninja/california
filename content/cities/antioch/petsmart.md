@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /antioch/petsmart/
-shop: pet
+shop: Tiere
 ---

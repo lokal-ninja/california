@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /la-quinta/vons/
-shop: supermarket
+shop: Supermarkt
 ---

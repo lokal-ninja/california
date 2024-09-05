@@ -1,5 +1,5 @@
 ---
 title: "Gladrags"
 url: /shafter/gladrags/
-shop: antiques
+shop: Antiquitäten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PSN"
 url: /san-jose/psn/
-shop: nutrition supplements
+shop: Nahrungsergänzung
 ---

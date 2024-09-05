@@ -1,5 +1,5 @@
 ---
 title: "Tillys"
 url: /fresno/tillys-east-via-del-oro/
-shop: clothes
+shop: Kleidung
 ---

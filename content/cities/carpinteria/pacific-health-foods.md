@@ -1,5 +1,5 @@
 ---
 title: "Pacific Health Foods"
 url: /carpinteria/pacific-health-foods/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

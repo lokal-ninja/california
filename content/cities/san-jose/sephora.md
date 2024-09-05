@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /san-jose/sephora/
-shop: beauty
+shop: Kosmetik
 ---

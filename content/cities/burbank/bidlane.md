@@ -1,5 +1,5 @@
 ---
 title: "Bidlane"
 url: /burbank/bidlane/
-shop: car
+shop: Autohaus
 ---

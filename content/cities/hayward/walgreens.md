@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /hayward/walgreens/
-shop: chemist
+shop: Drogerie
 ---

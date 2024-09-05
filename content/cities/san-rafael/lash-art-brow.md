@@ -1,5 +1,5 @@
 ---
 title: "Lash Art Brow"
 url: /san-rafael/lash-art-brow/
-shop: beauty
+shop: Kosmetik
 ---

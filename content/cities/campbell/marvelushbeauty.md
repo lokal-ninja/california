@@ -1,5 +1,5 @@
 ---
 title: "Marvelushbeauty"
 url: /campbell/marvelushbeauty/
-shop: beauty
+shop: Kosmetik
 ---

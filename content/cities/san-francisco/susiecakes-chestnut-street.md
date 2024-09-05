@@ -1,5 +1,5 @@
 ---
 title: "SusieCakes"
 url: /san-francisco/susiecakes-chestnut-street/
-shop: bakery
+shop: Bäckerei
 ---

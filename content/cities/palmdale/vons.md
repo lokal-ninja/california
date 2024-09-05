@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /palmdale/vons/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hardesters"
 url: /middletown/hardesters/
-shop: hardware
+shop: Eisenwaren
 ---

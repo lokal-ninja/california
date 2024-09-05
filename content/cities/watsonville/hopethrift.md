@@ -1,5 +1,5 @@
 ---
 title: "HopeThrift"
 url: /watsonville/hopethrift/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yawh Mini Market"
 url: /san-jose/yawh-mini-market/
-shop: convenience
+shop: Lebensmittel
 ---

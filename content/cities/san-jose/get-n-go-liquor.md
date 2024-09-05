@@ -1,5 +1,5 @@
 ---
 title: "Get N Go Liquor"
 url: /san-jose/get-n-go-liquor/
-shop: alcohol
+shop: Spirituosen
 ---

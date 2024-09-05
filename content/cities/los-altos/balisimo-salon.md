@@ -1,5 +1,5 @@
 ---
 title: "Balisimo Salon"
 url: /los-altos/balisimo-salon/
-shop: beauty
+shop: Kosmetik
 ---

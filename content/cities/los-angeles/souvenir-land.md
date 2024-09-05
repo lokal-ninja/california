@@ -1,5 +1,5 @@
 ---
 title: "Souvenir Land"
 url: /los-angeles/souvenir-land/
-shop: gift
+shop: Andenken
 ---

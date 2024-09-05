@@ -1,5 +1,5 @@
 ---
 title: "Lego"
 url: /santa-clara/lego/
-shop: toys
+shop: Spielzeug
 ---

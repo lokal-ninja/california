@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /anaheim/vons/
-shop: supermarket
+shop: Supermarkt
 ---

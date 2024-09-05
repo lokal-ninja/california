@@ -1,5 +1,5 @@
 ---
 title: "Best Choice Cleaners"
 url: /san-francisco/best-choice-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

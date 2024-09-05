@@ -1,5 +1,5 @@
 ---
 title: "Sakura"
 url: /san-francisco/sakura/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lucky"
 url: /napa/lucky/
-shop: supermarket
+shop: Supermarkt
 ---

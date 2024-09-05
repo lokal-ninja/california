@@ -1,5 +1,5 @@
 ---
 title: "Olhausen Gamerooms and Outdoors"
 url: /san-diego/olhausen-gamerooms-and-outdoors/
-shop: games
+shop: Spiele
 ---

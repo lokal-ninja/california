@@ -1,5 +1,5 @@
 ---
 title: "Wasteland Studio City"
 url: /studio-city/wasteland-studio-city/
-shop: clothes
+shop: Kleidung
 ---

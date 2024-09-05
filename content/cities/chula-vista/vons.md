@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /chula-vista/vons/
-shop: supermarket
+shop: Supermarkt
 ---

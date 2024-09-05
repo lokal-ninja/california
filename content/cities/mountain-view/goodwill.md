@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /mountain-view/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

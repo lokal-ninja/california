@@ -1,5 +1,5 @@
 ---
 title: "Launderland"
 url: /fontana/launderland/
-shop: laundry
+shop: Wäscherei
 ---

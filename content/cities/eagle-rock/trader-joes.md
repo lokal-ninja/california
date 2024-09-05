@@ -1,5 +1,5 @@
 ---
 title: "Trader Joe's"
 url: /eagle-rock/trader-joes/
-shop: supermarket
+shop: Supermarkt
 ---

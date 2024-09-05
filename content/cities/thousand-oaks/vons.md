@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /thousand-oaks/vons/
-shop: supermarket
+shop: Supermarkt
 ---

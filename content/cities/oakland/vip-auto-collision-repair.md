@@ -1,5 +1,5 @@
 ---
 title: "VIP Auto Collision Repair"
 url: /oakland/vip-auto-collision-repair/
-shop: car repair
+shop: Autowerkstatt
 ---

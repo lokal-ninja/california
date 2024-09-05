@@ -1,5 +1,5 @@
 ---
 title: "The Kebab Shop"
 url: /san-diego/the-kebab-shop/
-shop: supermarket
+shop: Supermarkt
 ---

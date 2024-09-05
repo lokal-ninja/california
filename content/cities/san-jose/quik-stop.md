@@ -1,5 +1,5 @@
 ---
 title: "Quik Stop"
 url: /san-jose/quik-stop/
-shop: convenience
+shop: Lebensmittel
 ---

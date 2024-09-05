@@ -1,5 +1,5 @@
 ---
 title: "Sunset Bakery Inc."
 url: /san-francisco/sunset-bakery-inc/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lytt"
 url: /pacifica/lytt/
-shop: cannabis
+shop: Hanf
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rent-A-Center"
 url: /modesto/rent-a-center/
-shop: furniture
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ralphs"
 url: /eastvale/ralphs/
-shop: supermarket
+shop: Supermarkt
 ---

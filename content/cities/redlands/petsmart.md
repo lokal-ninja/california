@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /redlands/petsmart/
-shop: pet
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Incycle Bicycles"
 url: /pasadena/incycle-bicycles/
-shop: bicycle
+shop: Fahrrad
 ---

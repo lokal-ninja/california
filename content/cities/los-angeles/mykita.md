@@ -1,5 +1,5 @@
 ---
 title: "Mykita"
 url: /los-angeles/mykita/
-shop: optician
+shop: Optiker
 ---

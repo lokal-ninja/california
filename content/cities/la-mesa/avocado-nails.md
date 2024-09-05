@@ -1,5 +1,5 @@
 ---
 title: "Avocado Nails"
 url: /la-mesa/avocado-nails/
-shop: beauty
+shop: Kosmetik
 ---

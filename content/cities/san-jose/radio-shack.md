@@ -1,5 +1,5 @@
 ---
 title: "Radio Shack"
 url: /san-jose/radio-shack/
-shop: electronics
+shop: Elektronik
 ---

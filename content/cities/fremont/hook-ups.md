@@ -1,5 +1,5 @@
 ---
 title: "Hook Ups"
 url: /fremont/hook-ups/
-shop: electronics
+shop: Elektronik
 ---

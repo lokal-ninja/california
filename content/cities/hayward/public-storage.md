@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
 url: /hayward/public-storage/
-shop: storage rental
+shop: Mieten
 ---

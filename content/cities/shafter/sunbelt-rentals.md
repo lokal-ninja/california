@@ -1,5 +1,5 @@
 ---
 title: "Sunbelt Rentals"
 url: /shafter/sunbelt-rentals/
-shop: shop
+shop: Allgemein
 ---

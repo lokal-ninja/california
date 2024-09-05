@@ -1,5 +1,5 @@
 ---
 title: "ARCHED by Alyssa"
 url: /modesto/arched-by-alyssa/
-shop: beauty
+shop: Kosmetik
 ---

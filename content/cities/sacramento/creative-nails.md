@@ -1,5 +1,5 @@
 ---
 title: "Creative Nails"
 url: /sacramento/creative-nails/
-shop: beauty
+shop: Kosmetik
 ---

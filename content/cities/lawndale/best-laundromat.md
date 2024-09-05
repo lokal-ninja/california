@@ -1,5 +1,5 @@
 ---
 title: "Best Laundromat"
 url: /lawndale/best-laundromat/
-shop: laundry
+shop: Wäscherei
 ---

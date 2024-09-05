@@ -1,5 +1,5 @@
 ---
 title: "Williams Selyem Winery"
 url: /healdsburg/williams-selyem-winery/
-shop: wine
+shop: Wein
 ---

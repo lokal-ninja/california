@@ -1,5 +1,5 @@
 ---
 title: "Audi"
 url: /burlingame/audi/
-shop: car
+shop: Autohaus
 ---

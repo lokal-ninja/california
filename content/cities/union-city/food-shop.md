@@ -1,5 +1,5 @@
 ---
 title: "Food Shop"
 url: /union-city/food-shop/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alys Grace"
 url: /menlo-park/alys-grace/
-shop: clothes
+shop: Kleidung
 ---

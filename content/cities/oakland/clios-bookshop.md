@@ -1,5 +1,5 @@
 ---
 title: "Clio’s Bookshop"
 url: /oakland/clios-bookshop/
-shop: books
+shop: Bücher
 ---

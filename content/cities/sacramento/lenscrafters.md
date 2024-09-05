@@ -1,5 +1,5 @@
 ---
 title: "Lenscrafters"
 url: /sacramento/lenscrafters/
-shop: optician
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stater Bros."
 url: /rialto/stater-bros/
-shop: supermarket
+shop: Supermarkt
 ---

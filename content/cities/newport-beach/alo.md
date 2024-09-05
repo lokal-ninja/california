@@ -1,5 +1,5 @@
 ---
 title: "Alo"
 url: /newport-beach/alo/
-shop: clothes
+shop: Kleidung
 ---

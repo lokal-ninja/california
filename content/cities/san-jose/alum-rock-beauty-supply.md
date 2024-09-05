@@ -1,5 +1,5 @@
 ---
 title: "Alum Rock Beauty Supply"
 url: /san-jose/alum-rock-beauty-supply/
-shop: hairdresser supply
+shop: Friseurbedarf
 ---

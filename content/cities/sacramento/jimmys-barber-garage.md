@@ -1,5 +1,5 @@
 ---
 title: "Jimmy's Barber Garage"
 url: /sacramento/jimmys-barber-garage/
-shop: hairdresser
+shop: Friseur
 ---

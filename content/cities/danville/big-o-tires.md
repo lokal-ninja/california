@@ -1,5 +1,5 @@
 ---
 title: "Big O Tires"
 url: /danville/big-o-tires/
-shop: tyres
+shop: Reifen
 ---

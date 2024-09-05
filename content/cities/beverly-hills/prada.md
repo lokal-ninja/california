@@ -1,5 +1,5 @@
 ---
 title: "Prada"
 url: /beverly-hills/prada/
-shop: clothes
+shop: Kleidung
 ---

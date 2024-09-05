@@ -1,5 +1,5 @@
 ---
 title: "Red Sea Market"
 url: /san-francisco/red-sea-market/
-shop: convenience
+shop: Lebensmittel
 ---

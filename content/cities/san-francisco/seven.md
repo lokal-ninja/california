@@ -1,5 +1,5 @@
 ---
 title: "Seven"
 url: /san-francisco/seven/
-shop: variety store
+shop: Kramladen
 ---

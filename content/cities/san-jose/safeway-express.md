@@ -1,5 +1,5 @@
 ---
 title: "Safeway Express"
 url: /san-jose/safeway-express/
-shop: convenience
+shop: Lebensmittel
 ---

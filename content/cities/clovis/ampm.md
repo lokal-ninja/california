@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /clovis/ampm/
-shop: convenience
+shop: Lebensmittel
 ---

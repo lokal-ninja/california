@@ -1,5 +1,5 @@
 ---
 title: "BevMo!"
 url: /emeryville/bevmo/
-shop: alcohol
+shop: Spirituosen
 ---

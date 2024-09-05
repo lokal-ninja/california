@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /camarillo/vons/
-shop: supermarket
+shop: Supermarkt
 ---

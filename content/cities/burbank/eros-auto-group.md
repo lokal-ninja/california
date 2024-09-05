@@ -1,5 +1,5 @@
 ---
 title: "Eros Auto Group"
 url: /burbank/eros-auto-group/
-shop: car
+shop: Autohaus
 ---

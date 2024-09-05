@@ -1,5 +1,5 @@
 ---
 title: "Stanton Optical"
 url: /fresno/stanton-optical/
-shop: optician
+shop: Optiker
 ---

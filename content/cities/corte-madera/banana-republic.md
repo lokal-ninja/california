@@ -1,5 +1,5 @@
 ---
 title: "Banana Republic"
 url: /corte-madera/banana-republic/
-shop: clothes
+shop: Kleidung
 ---

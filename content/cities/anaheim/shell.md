@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /anaheim/shell/
-shop: convenience
+shop: Lebensmittel
 ---

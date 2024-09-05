@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /palm-desert/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

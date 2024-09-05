@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /bishop/vons/
-shop: supermarket
+shop: Supermarkt
 ---

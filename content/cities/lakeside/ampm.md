@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /lakeside/ampm/
-shop: convenience
+shop: Lebensmittel
 ---

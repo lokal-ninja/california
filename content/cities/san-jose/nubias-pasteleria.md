@@ -1,5 +1,5 @@
 ---
 title: "Nubia's Pasteleria"
 url: /san-jose/nubias-pasteleria/
-shop: pastry
+shop: Konditorei
 ---

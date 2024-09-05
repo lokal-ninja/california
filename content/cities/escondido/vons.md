@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /escondido/vons/
-shop: supermarket
+shop: Supermarkt
 ---

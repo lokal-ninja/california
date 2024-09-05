@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /thousand-oaks/petsmart/
-shop: pet
+shop: Tiere
 ---

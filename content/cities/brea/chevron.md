@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /brea/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

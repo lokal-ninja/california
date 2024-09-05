@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /lynwood/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

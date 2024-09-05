@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /hollister/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

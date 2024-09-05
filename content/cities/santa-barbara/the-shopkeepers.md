@@ -1,5 +1,5 @@
 ---
 title: "The Shopkeepers"
 url: /santa-barbara/the-shopkeepers/
-shop: clothes
+shop: Kleidung
 ---

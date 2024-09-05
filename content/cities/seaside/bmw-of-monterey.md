@@ -1,5 +1,5 @@
 ---
 title: "BMW of Monterey"
 url: /seaside/bmw-of-monterey/
-shop: car
+shop: Autohaus
 ---

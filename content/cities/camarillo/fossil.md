@@ -1,5 +1,5 @@
 ---
 title: "Fossil"
 url: /camarillo/fossil/
-shop: watches
+shop: Uhren
 ---

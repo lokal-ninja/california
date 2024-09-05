@@ -1,5 +1,5 @@
 ---
 title: "FastBreak"
 url: /red-bluff/fastbreak/
-shop: convenience
+shop: Lebensmittel
 ---

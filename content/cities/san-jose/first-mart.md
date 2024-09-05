@@ -1,5 +1,5 @@
 ---
 title: "First Mart"
 url: /san-jose/first-mart/
-shop: convenience
+shop: Lebensmittel
 ---

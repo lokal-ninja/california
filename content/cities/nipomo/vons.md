@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /nipomo/vons/
-shop: supermarket
+shop: Supermarkt
 ---

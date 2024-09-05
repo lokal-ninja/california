@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /antioch/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

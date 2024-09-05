@@ -1,5 +1,5 @@
 ---
 title: "Jasmine Creek Florist"
 url: /el-cajon/jasmine-creek-florist/
-shop: florist
+shop: Blumen
 ---

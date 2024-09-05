@@ -1,5 +1,5 @@
 ---
 title: "Madewell"
 url: /corte-madera/madewell/
-shop: clothes
+shop: Kleidung
 ---

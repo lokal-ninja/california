@@ -1,5 +1,5 @@
 ---
 title: "Valley Wine Shack"
 url: /sonoma/valley-wine-shack/
-shop: wine
+shop: Wein
 ---

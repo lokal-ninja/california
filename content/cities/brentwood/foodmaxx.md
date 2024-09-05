@@ -1,5 +1,5 @@
 ---
 title: "FoodMaxx"
 url: /brentwood/foodmaxx/
-shop: supermarket
+shop: Supermarkt
 ---

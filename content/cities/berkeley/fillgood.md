@@ -1,5 +1,5 @@
 ---
 title: "Fillgood"
 url: /berkeley/fillgood/
-shop: convenience
+shop: Lebensmittel
 ---

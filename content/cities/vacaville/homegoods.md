@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /vacaville/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

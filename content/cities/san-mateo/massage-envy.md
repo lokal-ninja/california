@@ -1,5 +1,5 @@
 ---
 title: "Massage Envy"
 url: /san-mateo/massage-envy/
-shop: massage
+shop: Massage
 ---

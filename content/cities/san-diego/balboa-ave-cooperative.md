@@ -1,5 +1,5 @@
 ---
 title: "Balboa Ave Cooperative"
 url: /san-diego/balboa-ave-cooperative/
-shop: cannabis
+shop: Hanf
 ---

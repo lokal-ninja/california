@@ -1,5 +1,5 @@
 ---
 title: "Make Asobi"
 url: /los-angeles/make-asobi/
-shop: beauty
+shop: Kosmetik
 ---

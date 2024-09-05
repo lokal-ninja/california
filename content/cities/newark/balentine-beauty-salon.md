@@ -1,5 +1,5 @@
 ---
 title: "Balentine Beauty Salon"
 url: /newark/balentine-beauty-salon/
-shop: hairdresser
+shop: Friseur
 ---

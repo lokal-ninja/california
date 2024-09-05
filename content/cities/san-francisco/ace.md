@@ -1,5 +1,5 @@
 ---
 title: "Ace"
 url: /san-francisco/ace/
-shop: hardware
+shop: Eisenwaren
 ---

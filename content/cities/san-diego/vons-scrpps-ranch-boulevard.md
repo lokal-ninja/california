@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /san-diego/vons-scrpps-ranch-boulevard/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /escondido/walmart/
-shop: supermarket
+shop: Supermarkt
 ---

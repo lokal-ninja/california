@@ -1,5 +1,5 @@
 ---
 title: "BevMo!"
 url: /burlingame/bevmo/
-shop: alcohol
+shop: Spirituosen
 ---

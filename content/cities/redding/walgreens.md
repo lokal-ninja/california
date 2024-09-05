@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /redding/walgreens/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /fontana/costco/
-shop: wholesale
+shop: Großhandel
 ---

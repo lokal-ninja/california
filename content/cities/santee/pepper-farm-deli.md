@@ -1,5 +1,5 @@
 ---
 title: "Pepper Farm Deli"
 url: /santee/pepper-farm-deli/
-shop: deli
+shop: Feinkost
 ---

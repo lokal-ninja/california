@@ -1,5 +1,5 @@
 ---
 title: "DL Nail Spa"
 url: /pleasant-hill/dl-nail-spa/
-shop: beauty
+shop: Kosmetik
 ---

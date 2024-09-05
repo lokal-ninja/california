@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /sylmar/vons/
-shop: supermarket
+shop: Supermarkt
 ---

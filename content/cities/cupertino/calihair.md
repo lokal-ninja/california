@@ -1,5 +1,5 @@
 ---
 title: "Calihair"
 url: /cupertino/calihair/
-shop: hairdresser
+shop: Friseur
 ---

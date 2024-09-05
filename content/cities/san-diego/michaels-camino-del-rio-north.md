@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /san-diego/michaels-camino-del-rio-north/
-shop: craft
+shop: Basteln
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eva Nails"
 url: /el-cajon/eva-nails/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /moreno-valley/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rainbow"
 url: /sacramento/rainbow/
-shop: clothes
+shop: Kleidung
 ---

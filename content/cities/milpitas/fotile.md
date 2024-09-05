@@ -1,5 +1,5 @@
 ---
 title: "Fotile"
 url: /milpitas/fotile/
-shop: houseware
+shop: Haushaltsartikel
 ---

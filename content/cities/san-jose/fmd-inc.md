@@ -1,5 +1,5 @@
 ---
 title: "FMD Inc."
 url: /san-jose/fmd-inc/
-shop: flooring
+shop: Fußböden
 ---

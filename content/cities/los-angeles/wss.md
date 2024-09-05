@@ -1,5 +1,5 @@
 ---
 title: "WSS"
 url: /los-angeles/wss/
-shop: shoes
+shop: Schuhe
 ---

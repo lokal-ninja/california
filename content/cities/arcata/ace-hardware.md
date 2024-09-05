@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /arcata/ace-hardware/
-shop: doityourself
+shop: Baumarkt
 ---

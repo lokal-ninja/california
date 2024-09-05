@@ -1,5 +1,5 @@
 ---
 title: "Main Spot Barbershop"
 url: /visalia/main-spot-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

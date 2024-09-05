@@ -1,5 +1,5 @@
 ---
 title: "Mancini’s Sleepworld"
 url: /palo-alto/mancinis-sleepworld/
-shop: bed
+shop: Betten
 ---

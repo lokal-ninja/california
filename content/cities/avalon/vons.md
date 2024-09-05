@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /avalon/vons/
-shop: supermarket
+shop: Supermarkt
 ---

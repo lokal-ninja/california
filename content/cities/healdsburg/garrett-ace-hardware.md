@@ -1,5 +1,5 @@
 ---
 title: "Garrett Ace Hardware"
 url: /healdsburg/garrett-ace-hardware/
-shop: doityourself
+shop: Baumarkt
 ---

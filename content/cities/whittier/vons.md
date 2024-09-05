@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /whittier/vons/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Clean and Beauty Salon"
 url: /sunnyvale/clean-and-beauty-salon/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Munchies of Sausalito"
 url: /sausalito/munchies-of-sausalito/
-shop: confectionery
+shop: Süßwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vic's Cleaners"
 url: /san-francisco/vics-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Von Mortgage"
 url: /redding/von-mortgage/
-shop: pawnbroker
+shop: Leiher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pinky Nails"
 url: /san-mateo/pinky-nails/
-shop: beauty
+shop: Kosmetik
 ---

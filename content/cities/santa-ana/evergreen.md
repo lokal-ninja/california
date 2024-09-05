@@ -1,5 +1,5 @@
 ---
 title: "Evergreen"
 url: /santa-ana/evergreen/
-shop: cannabis
+shop: Hanf
 ---

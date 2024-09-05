@@ -1,5 +1,5 @@
 ---
 title: "Santa Cruz Market"
 url: /goleta/santa-cruz-market/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /sunnyvale/chevron/
-shop: kiosk
+shop: Kiosk
 ---

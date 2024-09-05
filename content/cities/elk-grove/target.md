@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /elk-grove/target/
-shop: department store
+shop: Warenhaus
 ---

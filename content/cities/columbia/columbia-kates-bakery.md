@@ -1,5 +1,5 @@
 ---
 title: "Columbia Kate's Bakery"
 url: /columbia/columbia-kates-bakery/
-shop: bakery
+shop: Bäckerei
 ---

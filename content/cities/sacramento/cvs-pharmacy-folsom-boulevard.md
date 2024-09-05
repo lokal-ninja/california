@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /sacramento/cvs-pharmacy-folsom-boulevard/
-shop: chemist
+shop: Drogerie
 ---

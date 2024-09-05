@@ -1,5 +1,5 @@
 ---
 title: "Patagonia"
 url: /santa-monica/patagonia/
-shop: clothes
+shop: Kleidung
 ---

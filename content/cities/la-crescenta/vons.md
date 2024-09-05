@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /la-crescenta/vons/
-shop: supermarket
+shop: Supermarkt
 ---

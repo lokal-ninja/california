@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /sunnyvale/rei/
-shop: outdoor
+shop: Outdoor
 ---

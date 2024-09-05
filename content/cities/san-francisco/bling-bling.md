@@ -1,5 +1,5 @@
 ---
 title: "Bling Bling"
 url: /san-francisco/bling-bling/
-shop: shop
+shop: Allgemein
 ---

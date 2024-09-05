@@ -1,5 +1,5 @@
 ---
 title: "Happy Foot Massage"
 url: /clovis/happy-foot-massage/
-shop: massage
+shop: Massage
 ---

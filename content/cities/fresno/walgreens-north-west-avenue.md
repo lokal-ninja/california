@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /fresno/walgreens-north-west-avenue/
-shop: chemist
+shop: Drogerie
 ---

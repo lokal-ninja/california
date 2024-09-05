@@ -1,5 +1,5 @@
 ---
 title: "Trader Joe's"
 url: /palo-alto/trader-joes/
-shop: supermarket
+shop: Supermarkt
 ---

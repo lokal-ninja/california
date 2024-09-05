@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /goleta/petsmart/
-shop: pet
+shop: Tiere
 ---

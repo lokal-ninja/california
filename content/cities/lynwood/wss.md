@@ -1,5 +1,5 @@
 ---
 title: "WSS"
 url: /lynwood/wss/
-shop: shoes
+shop: Schuhe
 ---

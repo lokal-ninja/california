@@ -1,5 +1,5 @@
 ---
 title: "Lana Beauty Salon"
 url: /san-francisco/lana-beauty-salon/
-shop: hairdresser
+shop: Friseur
 ---

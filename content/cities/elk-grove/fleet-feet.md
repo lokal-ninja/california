@@ -1,5 +1,5 @@
 ---
 title: "Fleet Feet"
 url: /elk-grove/fleet-feet/
-shop: shoes
+shop: Schuhe
 ---

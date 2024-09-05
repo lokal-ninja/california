@@ -1,5 +1,5 @@
 ---
 title: "Mike's Barber Shop"
 url: /morro-bay/mikes-barber-shop/
-shop: hairdresser
+shop: Friseur
 ---

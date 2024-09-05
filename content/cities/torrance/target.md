@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /torrance/target/
-shop: department store
+shop: Warenhaus
 ---

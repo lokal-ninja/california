@@ -1,5 +1,5 @@
 ---
 title: "St. John"
 url: /san-francisco/st-john/
-shop: clothes
+shop: Kleidung
 ---

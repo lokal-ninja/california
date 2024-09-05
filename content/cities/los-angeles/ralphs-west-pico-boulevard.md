@@ -1,5 +1,5 @@
 ---
 title: "Ralphs"
 url: /los-angeles/ralphs-west-pico-boulevard/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kosher News"
 url: /los-angeles/kosher-news/
-shop: newsagent
+shop: Zeitungen
 ---

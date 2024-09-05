@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
 url: /inglewood/7-eleven-west-century-boulevard/
-shop: convenience
+shop: Lebensmittel
 ---

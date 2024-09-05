@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /escondido/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

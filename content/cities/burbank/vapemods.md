@@ -1,5 +1,5 @@
 ---
 title: "Vapemods"
 url: /burbank/vapemods/
-shop: tobacco
+shop: Tabak
 ---

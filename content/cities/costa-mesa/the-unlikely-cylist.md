@@ -1,5 +1,5 @@
 ---
 title: "The Unlikely Cylist"
 url: /costa-mesa/the-unlikely-cylist/
-shop: bicycle
+shop: Fahrrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /menlo-park/safeway-south-sharon-park-drive/
-shop: supermarket
+shop: Supermarkt
 ---

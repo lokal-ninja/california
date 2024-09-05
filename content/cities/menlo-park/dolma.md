@@ -1,5 +1,5 @@
 ---
 title: "dolma"
 url: /menlo-park/dolma/
-shop: shop
+shop: Allgemein
 ---

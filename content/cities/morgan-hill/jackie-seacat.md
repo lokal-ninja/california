@@ -1,5 +1,5 @@
 ---
 title: "Jackie Seacat"
 url: /morgan-hill/jackie-seacat/
-shop: hairdresser
+shop: Friseur
 ---

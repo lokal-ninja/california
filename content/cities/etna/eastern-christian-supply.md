@@ -1,5 +1,5 @@
 ---
 title: "Eastern Christian Supply"
 url: /etna/eastern-christian-supply/
-shop: religion
+shop: Religion
 ---

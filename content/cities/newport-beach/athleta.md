@@ -1,5 +1,5 @@
 ---
 title: "Athleta"
 url: /newport-beach/athleta/
-shop: clothes
+shop: Kleidung
 ---

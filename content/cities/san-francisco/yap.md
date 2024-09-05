@@ -1,5 +1,5 @@
 ---
 title: "Yap"
 url: /san-francisco/yap/
-shop: pet
+shop: Tiere
 ---

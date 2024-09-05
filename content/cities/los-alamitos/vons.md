@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /los-alamitos/vons/
-shop: supermarket
+shop: Supermarkt
 ---

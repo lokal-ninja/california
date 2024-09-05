@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /vacaville/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

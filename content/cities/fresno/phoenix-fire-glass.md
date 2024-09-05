@@ -1,5 +1,5 @@
 ---
 title: "Phoenix Fire Glass"
 url: /fresno/phoenix-fire-glass/
-shop: tobacco
+shop: Tabak
 ---

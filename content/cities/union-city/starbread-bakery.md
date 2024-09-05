@@ -1,5 +1,5 @@
 ---
 title: "Starbread Bakery"
 url: /union-city/starbread-bakery/
-shop: bakery
+shop: Bäckerei
 ---

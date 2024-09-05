@@ -1,5 +1,5 @@
 ---
 title: "Galamart"
 url: /sunnyvale/galamart/
-shop: convenience
+shop: Lebensmittel
 ---

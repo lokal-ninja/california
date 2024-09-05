@@ -1,5 +1,5 @@
 ---
 title: "FedEx OnSite"
 url: /fresno/fedex-onsite/
-shop: copyshop
+shop: Kopieren
 ---

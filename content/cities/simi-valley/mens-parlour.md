@@ -1,5 +1,5 @@
 ---
 title: "Men's Parlour"
 url: /simi-valley/mens-parlour/
-shop: hairdresser
+shop: Friseur
 ---

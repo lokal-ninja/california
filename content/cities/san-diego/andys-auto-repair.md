@@ -1,5 +1,5 @@
 ---
 title: "Andy's Auto Repair"
 url: /san-diego/andys-auto-repair/
-shop: motorcycle
+shop: Motorrad
 ---

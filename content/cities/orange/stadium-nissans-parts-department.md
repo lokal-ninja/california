@@ -1,5 +1,5 @@
 ---
 title: "Stadium Nissan's Parts Department"
 url: /orange/stadium-nissans-parts-department/
-shop: car parts
+shop: Autoteile
 ---

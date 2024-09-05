@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /temecula/ross/
-shop: department store
+shop: Warenhaus
 ---

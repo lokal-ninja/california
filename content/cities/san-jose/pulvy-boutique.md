@@ -1,5 +1,5 @@
 ---
 title: "Pulvy Boutique"
 url: /san-jose/pulvy-boutique/
-shop: clothes
+shop: Kleidung
 ---

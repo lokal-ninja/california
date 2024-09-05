@@ -1,5 +1,5 @@
 ---
 title: "Berkeley Natural Grocery"
 url: /berkeley/berkeley-natural-grocery/
-shop: convenience
+shop: Lebensmittel
 ---

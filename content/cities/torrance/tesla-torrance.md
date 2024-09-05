@@ -1,5 +1,5 @@
 ---
 title: "Tesla Torrance"
 url: /torrance/tesla-torrance/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /san-francisco/ikea/
-shop: furniture
+shop: Möbel
 ---

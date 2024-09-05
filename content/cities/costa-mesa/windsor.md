@@ -1,5 +1,5 @@
 ---
 title: "Windsor"
 url: /costa-mesa/windsor/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Copymat"
 url: /escondido/copymat/
-shop: copyshop
+shop: Kopieren
 ---

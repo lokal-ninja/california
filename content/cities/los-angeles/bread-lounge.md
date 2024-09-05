@@ -1,5 +1,5 @@
 ---
 title: "Bread Lounge"
 url: /los-angeles/bread-lounge/
-shop: bakery
+shop: Bäckerei
 ---

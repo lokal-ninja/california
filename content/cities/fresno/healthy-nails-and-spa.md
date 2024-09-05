@@ -1,5 +1,5 @@
 ---
 title: "Healthy Nails and Spa"
 url: /fresno/healthy-nails-and-spa/
-shop: beauty
+shop: Kosmetik
 ---

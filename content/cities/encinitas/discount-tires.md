@@ -1,5 +1,5 @@
 ---
 title: "Discount Tires"
 url: /encinitas/discount-tires/
-shop: tyres
+shop: Reifen
 ---

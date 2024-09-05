@@ -1,5 +1,5 @@
 ---
 title: "Hair Addix Salon"
 url: /carlsbad/hair-addix-salon/
-shop: beauty
+shop: Kosmetik
 ---

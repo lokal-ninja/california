@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
 url: /san-jose/extramile-newhall-drive/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Castro's Design"
 url: /oakland/castros-design/
-shop: shop
+shop: Allgemein
 ---

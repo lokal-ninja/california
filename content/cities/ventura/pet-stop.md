@@ -1,5 +1,5 @@
 ---
 title: "Pet Stop"
 url: /ventura/pet-stop/
-shop: pet
+shop: Tiere
 ---

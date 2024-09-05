@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /fresno/target/
-shop: department store
+shop: Warenhaus
 ---

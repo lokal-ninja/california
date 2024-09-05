@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /corona/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
 url: /wildomar/extramile/
-shop: convenience
+shop: Lebensmittel
 ---

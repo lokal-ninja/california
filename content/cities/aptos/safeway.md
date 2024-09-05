@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /aptos/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

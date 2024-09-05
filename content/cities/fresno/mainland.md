@@ -1,5 +1,5 @@
 ---
 title: "Mainland"
 url: /fresno/mainland/
-shop: general
+shop: Dorfladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pacific Doorcraft, Inc."
 url: /san-jose/pacific-doorcraft-inc/
-shop: doors
+shop: Türen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shorthand"
 url: /los-angeles/shorthand/
-shop: office supplies
+shop: Schreibwaren
 ---

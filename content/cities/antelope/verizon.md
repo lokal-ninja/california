@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /antelope/verizon/
-shop: mobile phone
+shop: Handy
 ---

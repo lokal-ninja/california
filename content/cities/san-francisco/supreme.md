@@ -1,5 +1,5 @@
 ---
 title: "Supreme"
 url: /san-francisco/supreme/
-shop: clothes
+shop: Kleidung
 ---

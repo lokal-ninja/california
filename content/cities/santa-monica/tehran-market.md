@@ -1,5 +1,5 @@
 ---
 title: "Tehran Market"
 url: /santa-monica/tehran-market/
-shop: supermarket
+shop: Supermarkt
 ---

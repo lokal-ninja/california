@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /milpitas/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

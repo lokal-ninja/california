@@ -1,5 +1,5 @@
 ---
 title: "JONS Marketplace"
 url: /van-nuys/jons-marketplace/
-shop: supermarket
+shop: Supermarkt
 ---

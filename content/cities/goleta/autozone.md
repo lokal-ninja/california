@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /goleta/autozone/
-shop: car parts
+shop: Autoteile
 ---

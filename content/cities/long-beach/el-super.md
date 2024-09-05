@@ -1,5 +1,5 @@
 ---
 title: "El Super"
 url: /long-beach/el-super/
-shop: supermarket
+shop: Supermarkt
 ---

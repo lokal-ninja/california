@@ -1,5 +1,5 @@
 ---
 title: "Giant RV"
 url: /downey/giant-rv/
-shop: caravan
+shop: Wohnwagen
 ---

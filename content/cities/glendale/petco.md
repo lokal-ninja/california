@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /glendale/petco/
-shop: pet
+shop: Tiere
 ---

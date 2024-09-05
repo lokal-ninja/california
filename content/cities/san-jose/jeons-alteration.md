@@ -1,5 +1,5 @@
 ---
 title: "Jeon's Alteration"
 url: /san-jose/jeons-alteration/
-shop: tailor
+shop: Schneiderei
 ---

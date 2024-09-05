@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /oceanside/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

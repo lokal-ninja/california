@@ -1,5 +1,5 @@
 ---
 title: "Glendale Infiniti"
 url: /glendale/glendale-infiniti/
-shop: car
+shop: Autohaus
 ---

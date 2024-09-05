@@ -1,5 +1,5 @@
 ---
 title: "Converse"
 url: /gilroy/converse/
-shop: shoes
+shop: Schuhe
 ---

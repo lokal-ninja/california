@@ -1,5 +1,5 @@
 ---
 title: "Tory Burch"
 url: /camarillo/tory-burch/
-shop: clothes
+shop: Kleidung
 ---

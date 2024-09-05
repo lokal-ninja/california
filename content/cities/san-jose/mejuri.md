@@ -1,5 +1,5 @@
 ---
 title: "Mejuri"
 url: /san-jose/mejuri/
-shop: jewelry
+shop: Schmuck
 ---

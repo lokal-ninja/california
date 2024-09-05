@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /orcutt/albertsons/
-shop: supermarket
+shop: Supermarkt
 ---

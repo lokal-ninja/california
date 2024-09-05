@@ -1,5 +1,5 @@
 ---
 title: "Sola Salons"
 url: /santa-clara/sola-salons/
-shop: beauty
+shop: Kosmetik
 ---

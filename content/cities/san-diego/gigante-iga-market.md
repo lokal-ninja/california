@@ -1,5 +1,5 @@
 ---
 title: "Gigante Iga Market"
 url: /san-diego/gigante-iga-market/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Greenery"
 url: /turlock/the-greenery/
-shop: garden centre
+shop: Garten-Center
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /orange/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

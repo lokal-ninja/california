@@ -1,5 +1,5 @@
 ---
 title: "Sunset Collection"
 url: /west-hollywood/sunset-collection/
-shop: mall
+shop: Einkaufszentrum
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /sacramento/petco-arden-way/
-shop: pet
+shop: Tiere
 ---

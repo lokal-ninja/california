@@ -1,5 +1,5 @@
 ---
 title: "Halal Market"
 url: /santa-clara/halal-market/
-shop: convenience
+shop: Lebensmittel
 ---

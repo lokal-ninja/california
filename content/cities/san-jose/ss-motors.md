@@ -1,5 +1,5 @@
 ---
 title: "SS motors"
 url: /san-jose/ss-motors/
-shop: car
+shop: Autohaus
 ---

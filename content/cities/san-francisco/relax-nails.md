@@ -1,5 +1,5 @@
 ---
 title: "Relax Nails"
 url: /san-francisco/relax-nails/
-shop: beauty
+shop: Kosmetik
 ---

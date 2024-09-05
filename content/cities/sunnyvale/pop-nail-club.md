@@ -1,5 +1,5 @@
 ---
 title: "POP Nail Club"
 url: /sunnyvale/pop-nail-club/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Captain's"
 url: /redwood-city/captains/
-shop: hairdresser
+shop: Friseur
 ---

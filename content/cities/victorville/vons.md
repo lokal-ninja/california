@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /victorville/vons/
-shop: supermarket
+shop: Supermarkt
 ---

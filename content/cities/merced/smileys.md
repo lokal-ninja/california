@@ -1,5 +1,5 @@
 ---
 title: "Smileys"
 url: /merced/smileys/
-shop: electronics
+shop: Elektronik
 ---

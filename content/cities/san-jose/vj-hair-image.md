@@ -1,5 +1,5 @@
 ---
 title: "VJ Hair Image"
 url: /san-jose/vj-hair-image/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /dinuba/valero/
-shop: convenience
+shop: Lebensmittel
 ---

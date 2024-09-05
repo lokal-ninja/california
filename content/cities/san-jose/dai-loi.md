@@ -1,5 +1,5 @@
 ---
 title: "Đại Lợi"
 url: /san-jose/dai-loi/
-shop: toys
+shop: Spielzeug
 ---

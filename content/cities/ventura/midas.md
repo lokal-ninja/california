@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /ventura/midas/
-shop: car repair
+shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Talia"
 url: /newport-beach/talia/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Noble Locksmith"
 url: /san-diego/noble-locksmith/
-shop: locksmith
+shop: Schlüsseldienst
 ---

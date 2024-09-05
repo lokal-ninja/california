@@ -1,5 +1,5 @@
 ---
 title: "Rebeka Benitez"
 url: /san-jose/rebeka-benitez/
-shop: hairdresser
+shop: Friseur
 ---

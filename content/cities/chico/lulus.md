@@ -1,5 +1,5 @@
 ---
 title: "Lulus"
 url: /chico/lulus/
-shop: clothes
+shop: Kleidung
 ---

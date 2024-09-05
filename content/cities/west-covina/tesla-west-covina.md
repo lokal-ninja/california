@@ -1,5 +1,5 @@
 ---
 title: "Tesla West Covina"
 url: /west-covina/tesla-west-covina/
-shop: car
+shop: Autohaus
 ---

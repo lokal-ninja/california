@@ -1,5 +1,5 @@
 ---
 title: "BevMo!"
 url: /fresno/bevmo/
-shop: alcohol
+shop: Spirituosen
 ---

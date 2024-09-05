@@ -1,5 +1,5 @@
 ---
 title: "Gorjana"
 url: /newport-beach/gorjana/
-shop: jewelry
+shop: Schmuck
 ---

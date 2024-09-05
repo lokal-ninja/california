@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /ione/ace-hardware/
-shop: hardware
+shop: Eisenwaren
 ---

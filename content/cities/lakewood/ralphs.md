@@ -1,5 +1,5 @@
 ---
 title: "Ralphs"
 url: /lakewood/ralphs/
-shop: supermarket
+shop: Supermarkt
 ---

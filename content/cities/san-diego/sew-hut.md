@@ -1,5 +1,5 @@
 ---
 title: "SEW Hut"
 url: /san-diego/sew-hut/
-shop: sewing
+shop: Nähzubehör
 ---

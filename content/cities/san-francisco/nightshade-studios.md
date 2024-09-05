@@ -1,5 +1,5 @@
 ---
 title: "NightShade Studios"
 url: /san-francisco/nightshade-studios/
-shop: tattoo
+shop: Tattoo
 ---

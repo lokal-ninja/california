@@ -1,5 +1,5 @@
 ---
 title: "SDTrophy"
 url: /carlsbad/sdtrophy/
-shop: trophy
+shop: Pokal
 ---

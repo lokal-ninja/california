@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /marysville/circle-k/
-shop: supermarket
+shop: Supermarkt
 ---

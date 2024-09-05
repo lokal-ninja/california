@@ -1,5 +1,5 @@
 ---
 title: "House of Blonde"
 url: /los-gatos/house-of-blonde/
-shop: hairdresser
+shop: Friseur
 ---

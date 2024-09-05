@@ -1,5 +1,5 @@
 ---
 title: "Pavilions"
 url: /santa-barbara/pavilions/
-shop: supermarket
+shop: Supermarkt
 ---

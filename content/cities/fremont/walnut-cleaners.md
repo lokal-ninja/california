@@ -1,5 +1,5 @@
 ---
 title: "Walnut Cleaners"
 url: /fremont/walnut-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

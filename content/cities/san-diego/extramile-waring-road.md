@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
 url: /san-diego/extramile-waring-road/
-shop: convenience
+shop: Lebensmittel
 ---

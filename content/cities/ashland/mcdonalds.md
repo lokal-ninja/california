@@ -1,5 +1,5 @@
 ---
 title: "McDonald's"
 url: /ashland/mcdonalds/
-shop: convenience
+shop: Lebensmittel
 ---

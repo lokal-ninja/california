@@ -1,5 +1,5 @@
 ---
 title: "Dogma!"
 url: /irvine/dogma/
-shop: pet
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "francesca's"
 url: /burlingame/francescas/
-shop: shoes
+shop: Schuhe
 ---

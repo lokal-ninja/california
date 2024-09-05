@@ -1,5 +1,5 @@
 ---
 title: "FoodMaxx"
 url: /modesto/foodmaxx/
-shop: supermarket
+shop: Supermarkt
 ---

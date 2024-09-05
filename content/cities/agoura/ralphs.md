@@ -1,5 +1,5 @@
 ---
 title: "Ralphs"
 url: /agoura/ralphs/
-shop: supermarket
+shop: Supermarkt
 ---

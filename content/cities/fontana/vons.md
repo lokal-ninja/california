@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /fontana/vons/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Refine"
 url: /san-clemente/refine/
-shop: clothes
+shop: Kleidung
 ---

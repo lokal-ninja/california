@@ -1,5 +1,5 @@
 ---
 title: "Kongo Barbershop"
 url: /clovis/kongo-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

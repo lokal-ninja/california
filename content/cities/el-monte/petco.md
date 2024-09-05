@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /el-monte/petco/
-shop: pet
+shop: Tiere
 ---

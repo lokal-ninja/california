@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /yucaipa/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

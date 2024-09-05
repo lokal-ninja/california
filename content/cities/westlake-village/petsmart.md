@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /westlake-village/petsmart/
-shop: pet
+shop: Tiere
 ---

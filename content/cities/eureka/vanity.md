@@ -1,5 +1,5 @@
 ---
 title: "Vanity"
 url: /eureka/vanity/
-shop: hairdresser
+shop: Friseur
 ---

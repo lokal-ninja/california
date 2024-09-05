@@ -1,5 +1,5 @@
 ---
 title: "Big O Tires"
 url: /brentwood/big-o-tires/
-shop: tyres
+shop: Reifen
 ---

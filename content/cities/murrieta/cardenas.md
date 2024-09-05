@@ -1,5 +1,5 @@
 ---
 title: "Cardenas"
 url: /murrieta/cardenas/
-shop: supermarket
+shop: Supermarkt
 ---

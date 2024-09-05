@@ -1,5 +1,5 @@
 ---
 title: "Shafter Family Discount"
 url: /shafter/shafter-family-discount/
-shop: convenience
+shop: Lebensmittel
 ---

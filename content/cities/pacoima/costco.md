@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /pacoima/costco/
-shop: wholesale
+shop: Großhandel
 ---

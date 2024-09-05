@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /winters/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

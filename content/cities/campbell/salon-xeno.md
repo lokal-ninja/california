@@ -1,5 +1,5 @@
 ---
 title: "Salon Xeno"
 url: /campbell/salon-xeno/
-shop: hairdresser
+shop: Friseur
 ---

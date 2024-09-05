@@ -1,5 +1,5 @@
 ---
 title: "Ralphs"
 url: /malibu/ralphs/
-shop: supermarket
+shop: Supermarkt
 ---

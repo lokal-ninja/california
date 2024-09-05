@@ -1,5 +1,5 @@
 ---
 title: "L.A. Roxx"
 url: /los-angeles/l-a-roxx/
-shop: shop
+shop: Allgemein
 ---

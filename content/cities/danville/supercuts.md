@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /danville/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

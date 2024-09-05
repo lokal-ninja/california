@@ -1,5 +1,5 @@
 ---
 title: "Arlene's Cleaners"
 url: /san-francisco/arlenes-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

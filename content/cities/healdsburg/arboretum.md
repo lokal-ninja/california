@@ -1,5 +1,5 @@
 ---
 title: "ARBORETUM"
 url: /healdsburg/arboretum/
-shop: clothes
+shop: Kleidung
 ---

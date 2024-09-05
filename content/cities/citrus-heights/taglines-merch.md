@@ -1,5 +1,5 @@
 ---
 title: "Taglines Merch"
 url: /citrus-heights/taglines-merch/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /escondido/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

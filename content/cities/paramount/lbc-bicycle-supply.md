@@ -1,5 +1,5 @@
 ---
 title: "LBC Bicycle Supply"
 url: /paramount/lbc-bicycle-supply/
-shop: bicycle
+shop: Fahrrad
 ---

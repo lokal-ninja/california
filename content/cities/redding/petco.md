@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /redding/petco/
-shop: pet
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "UGG"
 url: /camarillo/ugg/
-shop: shoes
+shop: Schuhe
 ---

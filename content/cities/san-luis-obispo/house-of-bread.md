@@ -1,5 +1,5 @@
 ---
 title: "House of Bread"
 url: /san-luis-obispo/house-of-bread/
-shop: bakery
+shop: Bäckerei
 ---

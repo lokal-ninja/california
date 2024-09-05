@@ -1,5 +1,5 @@
 ---
 title: "FedEx"
 url: /torrance/fedex/
-shop: copyshop
+shop: Kopieren
 ---

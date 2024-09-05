@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /banning/albertsons/
-shop: supermarket
+shop: Supermarkt
 ---

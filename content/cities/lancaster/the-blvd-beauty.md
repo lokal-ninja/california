@@ -1,5 +1,5 @@
 ---
 title: "The BLVD Beauty"
 url: /lancaster/the-blvd-beauty/
-shop: beauty
+shop: Kosmetik
 ---

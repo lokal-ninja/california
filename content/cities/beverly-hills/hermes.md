@@ -1,5 +1,5 @@
 ---
 title: "Hermès"
 url: /beverly-hills/hermes/
-shop: clothes
+shop: Kleidung
 ---

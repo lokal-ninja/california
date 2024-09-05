@@ -1,5 +1,5 @@
 ---
 title: "B B Bridal"
 url: /san-jose/b-b-bridal/
-shop: clothes
+shop: Kleidung
 ---

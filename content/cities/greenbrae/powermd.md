@@ -1,5 +1,5 @@
 ---
 title: "PowerMD"
 url: /greenbrae/powermd/
-shop: beauty
+shop: Kosmetik
 ---

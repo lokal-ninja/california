@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /fontana/michaels/
-shop: craft
+shop: Basteln
 ---

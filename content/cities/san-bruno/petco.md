@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /san-bruno/petco/
-shop: pet
+shop: Tiere
 ---

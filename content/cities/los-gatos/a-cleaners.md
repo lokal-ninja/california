@@ -1,5 +1,5 @@
 ---
 title: "A+ Cleaners"
 url: /los-gatos/a-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

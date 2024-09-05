@@ -1,5 +1,5 @@
 ---
 title: "JC Bridal"
 url: /san-jose/jc-bridal/
-shop: hairdresser
+shop: Friseur
 ---

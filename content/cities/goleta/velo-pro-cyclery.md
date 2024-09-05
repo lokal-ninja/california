@@ -1,5 +1,5 @@
 ---
 title: "Velo Pro Cyclery"
 url: /goleta/velo-pro-cyclery/
-shop: bicycle
+shop: Fahrrad
 ---

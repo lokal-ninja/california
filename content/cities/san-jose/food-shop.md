@@ -1,5 +1,5 @@
 ---
 title: "Food Shop"
 url: /san-jose/food-shop/
-shop: convenience
+shop: Lebensmittel
 ---

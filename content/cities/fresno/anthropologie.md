@@ -1,5 +1,5 @@
 ---
 title: "Anthropologie"
 url: /fresno/anthropologie/
-shop: clothes
+shop: Kleidung
 ---

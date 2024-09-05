@@ -1,5 +1,5 @@
 ---
 title: "Beard Papa's"
 url: /los-angeles/beard-papas/
-shop: bakery
+shop: Bäckerei
 ---

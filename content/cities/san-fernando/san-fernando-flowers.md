@@ -1,5 +1,5 @@
 ---
 title: "San Fernando Flowers"
 url: /san-fernando/san-fernando-flowers/
-shop: clothes
+shop: Kleidung
 ---

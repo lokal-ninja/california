@@ -1,5 +1,5 @@
 ---
 title: "Truck Depot"
 url: /north-hills/truck-depot/
-shop: car
+shop: Autohaus
 ---

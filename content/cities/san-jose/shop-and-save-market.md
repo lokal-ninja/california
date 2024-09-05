@@ -1,5 +1,5 @@
 ---
 title: "Shop and Save Market"
 url: /san-jose/shop-and-save-market/
-shop: convenience
+shop: Lebensmittel
 ---

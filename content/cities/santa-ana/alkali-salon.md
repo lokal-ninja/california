@@ -1,5 +1,5 @@
 ---
 title: "Alkali Salon"
 url: /santa-ana/alkali-salon/
-shop: hairdresser
+shop: Friseur
 ---

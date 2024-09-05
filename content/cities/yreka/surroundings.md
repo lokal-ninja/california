@@ -1,5 +1,5 @@
 ---
 title: "Surroundings"
 url: /yreka/surroundings/
-shop: gift
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Compliments"
 url: /indian-wells/compliments/
-shop: clothes
+shop: Kleidung
 ---

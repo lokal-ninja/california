@@ -1,5 +1,5 @@
 ---
 title: "Rexel"
 url: /el-centro/rexel/
-shop: electrical
+shop: Elektrisch
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /shafter/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

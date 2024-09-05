@@ -1,5 +1,5 @@
 ---
 title: "Solful"
 url: /sebastopol/solful/
-shop: cannabis
+shop: Hanf
 ---

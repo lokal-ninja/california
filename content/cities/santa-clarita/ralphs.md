@@ -1,5 +1,5 @@
 ---
 title: "Ralphs"
 url: /santa-clarita/ralphs/
-shop: supermarket
+shop: Supermarkt
 ---

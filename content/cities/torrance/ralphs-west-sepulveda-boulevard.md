@@ -1,5 +1,5 @@
 ---
 title: "Ralphs"
 url: /torrance/ralphs-west-sepulveda-boulevard/
-shop: supermarket
+shop: Supermarkt
 ---

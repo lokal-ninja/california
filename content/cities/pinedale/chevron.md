@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /pinedale/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

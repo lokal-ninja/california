@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /lodi/ampm/
-shop: convenience
+shop: Lebensmittel
 ---

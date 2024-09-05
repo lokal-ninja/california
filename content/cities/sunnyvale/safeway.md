@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /sunnyvale/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

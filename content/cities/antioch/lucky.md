@@ -1,5 +1,5 @@
 ---
 title: "Lucky"
 url: /antioch/lucky/
-shop: supermarket
+shop: Supermarkt
 ---

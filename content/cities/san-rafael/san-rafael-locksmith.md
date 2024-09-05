@@ -1,5 +1,5 @@
 ---
 title: "San Rafael Locksmith"
 url: /san-rafael/san-rafael-locksmith/
-shop: locksmith
+shop: Schlüsseldienst
 ---

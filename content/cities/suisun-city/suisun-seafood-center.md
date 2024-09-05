@@ -1,5 +1,5 @@
 ---
 title: "Suisun Seafood Center"
 url: /suisun-city/suisun-seafood-center/
-shop: supermarket
+shop: Supermarkt
 ---

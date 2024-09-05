@@ -1,5 +1,5 @@
 ---
 title: "Pin-up Parlor"
 url: /berkeley/pin-up-parlor/
-shop: hairdresser
+shop: Friseur
 ---

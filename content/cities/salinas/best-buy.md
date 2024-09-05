@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /salinas/best-buy/
-shop: electronics
+shop: Elektronik
 ---

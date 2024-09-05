@@ -1,5 +1,5 @@
 ---
 title: "Tesla"
 url: /san-jose/tesla/
-shop: car repair
+shop: Autowerkstatt
 ---

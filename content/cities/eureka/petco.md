@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /eureka/petco/
-shop: pet
+shop: Tiere
 ---

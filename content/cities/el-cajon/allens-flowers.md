@@ -1,5 +1,5 @@
 ---
 title: "Allen's Flowers"
 url: /el-cajon/allens-flowers/
-shop: florist
+shop: Blumen
 ---

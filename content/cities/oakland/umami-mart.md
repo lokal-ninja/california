@@ -1,5 +1,5 @@
 ---
 title: "Umami Mart"
 url: /oakland/umami-mart/
-shop: houseware
+shop: Haushaltsartikel
 ---

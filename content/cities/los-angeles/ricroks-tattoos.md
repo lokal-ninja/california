@@ -1,5 +1,5 @@
 ---
 title: "RicRoks Tattoos"
 url: /los-angeles/ricroks-tattoos/
-shop: tattoo
+shop: Tattoo
 ---

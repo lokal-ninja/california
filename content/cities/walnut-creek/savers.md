@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /walnut-creek/savers/
-shop: charity
+shop: Gebrauchtwaren
 ---

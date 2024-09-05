@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /rancho-cordova/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

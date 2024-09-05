@@ -1,5 +1,5 @@
 ---
 title: "Tiffany Hunter"
 url: /newport-beach/tiffany-hunter/
-shop: furniture
+shop: Möbel
 ---

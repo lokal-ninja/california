@@ -1,5 +1,5 @@
 ---
 title: "Urban Outfitters"
 url: /newport-beach/urban-outfitters/
-shop: clothes
+shop: Kleidung
 ---

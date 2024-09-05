@@ -1,5 +1,5 @@
 ---
 title: "Lacoste"
 url: /camarillo/lacoste/
-shop: clothes
+shop: Kleidung
 ---

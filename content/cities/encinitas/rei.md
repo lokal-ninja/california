@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /encinitas/rei/
-shop: outdoor
+shop: Outdoor
 ---

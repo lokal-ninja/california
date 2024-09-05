@@ -1,5 +1,5 @@
 ---
 title: "FRUTERIA SOFIA"
 url: /tecate/fruteria-sofia/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

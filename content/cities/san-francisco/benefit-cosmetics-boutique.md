@@ -1,5 +1,5 @@
 ---
 title: "Benefit Cosmetics Boutique"
 url: /san-francisco/benefit-cosmetics-boutique/
-shop: beauty
+shop: Kosmetik
 ---

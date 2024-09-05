@@ -1,5 +1,5 @@
 ---
 title: "City Salon"
 url: /san-diego/city-salon/
-shop: beauty
+shop: Kosmetik
 ---

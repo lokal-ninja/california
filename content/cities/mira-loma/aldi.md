@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /mira-loma/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

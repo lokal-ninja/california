@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /redding/michaels/
-shop: craft
+shop: Basteln
 ---

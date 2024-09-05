@@ -1,5 +1,5 @@
 ---
 title: "Wilsons"
 url: /madera/wilsons/
-shop: motorcycle
+shop: Motorrad
 ---

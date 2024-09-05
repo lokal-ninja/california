@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /sonora/ampm/
-shop: convenience
+shop: Lebensmittel
 ---

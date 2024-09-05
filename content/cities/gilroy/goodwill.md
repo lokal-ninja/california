@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /gilroy/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

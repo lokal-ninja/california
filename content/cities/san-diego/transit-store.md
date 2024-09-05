@@ -1,5 +1,5 @@
 ---
 title: "Transit Store"
 url: /san-diego/transit-store/
-shop: ticket
+shop: Tickets
 ---

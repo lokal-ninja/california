@@ -1,5 +1,5 @@
 ---
 title: "Smoke Town Plus"
 url: /north-highlands/smoke-town-plus/
-shop: tobacco
+shop: Tabak
 ---

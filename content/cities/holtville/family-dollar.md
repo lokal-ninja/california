@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /holtville/family-dollar/
-shop: variety store
+shop: Kramladen
 ---

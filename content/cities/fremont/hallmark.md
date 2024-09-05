@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /fremont/hallmark/
-shop: gift
+shop: Andenken
 ---

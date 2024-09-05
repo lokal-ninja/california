@@ -1,5 +1,5 @@
 ---
 title: "Trinethra Super Market"
 url: /sunnyvale/trinethra-super-market/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

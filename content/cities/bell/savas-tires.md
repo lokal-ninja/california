@@ -1,5 +1,5 @@
 ---
 title: "Savas Tires"
 url: /bell/savas-tires/
-shop: tyres
+shop: Reifen
 ---

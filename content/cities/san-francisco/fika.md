@@ -1,5 +1,5 @@
 ---
 title: "Fika"
 url: /san-francisco/fika/
-shop: florist
+shop: Blumen
 ---

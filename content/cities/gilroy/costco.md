@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /gilroy/costco/
-shop: wholesale
+shop: Großhandel
 ---

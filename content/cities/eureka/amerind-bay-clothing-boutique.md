@@ -1,5 +1,5 @@
 ---
 title: "Amerind Bay Clothing Boutique"
 url: /eureka/amerind-bay-clothing-boutique/
-shop: clothes
+shop: Kleidung
 ---

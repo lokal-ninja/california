@@ -1,5 +1,5 @@
 ---
 title: "Maxi Foods Market"
 url: /riverside/maxi-foods-market/
-shop: supermarket
+shop: Supermarkt
 ---

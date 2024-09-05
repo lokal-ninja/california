@@ -1,5 +1,5 @@
 ---
 title: "ScreenWorks"
 url: /pleasanton/screenworks/
-shop: computer
+shop: Computer
 ---

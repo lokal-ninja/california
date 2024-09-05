@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /gardena/albertsons/
-shop: supermarket
+shop: Supermarkt
 ---

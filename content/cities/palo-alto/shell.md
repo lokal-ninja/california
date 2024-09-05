@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /palo-alto/shell/
-shop: convenience
+shop: Lebensmittel
 ---

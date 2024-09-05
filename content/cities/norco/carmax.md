@@ -1,5 +1,5 @@
 ---
 title: "CarMax"
 url: /norco/carmax/
-shop: car
+shop: Autohaus
 ---

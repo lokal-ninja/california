@@ -1,5 +1,5 @@
 ---
 title: "BevMo!"
 url: /fairfield/bevmo/
-shop: alcohol
+shop: Spirituosen
 ---

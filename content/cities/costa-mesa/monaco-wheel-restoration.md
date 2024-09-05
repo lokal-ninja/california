@@ -1,5 +1,5 @@
 ---
 title: "Monaco Wheel Restoration"
 url: /costa-mesa/monaco-wheel-restoration/
-shop: shop
+shop: Allgemein
 ---

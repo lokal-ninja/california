@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /carlsbad/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

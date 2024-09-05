@@ -1,5 +1,5 @@
 ---
 title: "Insomnia Cookies"
 url: /san-francisco/insomnia-cookies/
-shop: pastry
+shop: Konditorei
 ---

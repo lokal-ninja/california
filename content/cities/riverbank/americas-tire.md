@@ -1,5 +1,5 @@
 ---
 title: "America's Tire"
 url: /riverbank/americas-tire/
-shop: tyres
+shop: Reifen
 ---

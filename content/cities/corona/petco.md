@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /corona/petco/
-shop: pet
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "M.A.C."
 url: /berkeley/m-a-c/
-shop: computer
+shop: Computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Allmotive"
 url: /campbell/allmotive/
-shop: car repair
+shop: Autowerkstatt
 ---

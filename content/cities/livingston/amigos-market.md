@@ -1,5 +1,5 @@
 ---
 title: "Amigos Market"
 url: /livingston/amigos-market/
-shop: convenience
+shop: Lebensmittel
 ---

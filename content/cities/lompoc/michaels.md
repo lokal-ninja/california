@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /lompoc/michaels/
-shop: craft
+shop: Basteln
 ---

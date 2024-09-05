@@ -1,5 +1,5 @@
 ---
 title: "LA Bike Shop"
 url: /west-hollywood/la-bike-shop/
-shop: bicycle
+shop: Fahrrad
 ---

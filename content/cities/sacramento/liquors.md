@@ -1,5 +1,5 @@
 ---
 title: "Liquors"
 url: /sacramento/liquors/
-shop: convenience
+shop: Lebensmittel
 ---

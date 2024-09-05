@@ -1,5 +1,5 @@
 ---
 title: "Skiff's Cakes"
 url: /simi-valley/skiffs-cakes/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cindy's Nails"
 url: /san-diego/cindys-nails/
-shop: beauty
+shop: Kosmetik
 ---
