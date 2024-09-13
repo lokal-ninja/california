@@ -1,5 +1,5 @@
 ---
 title: "Top Cuts and Nails"
 url: /north-highlands/top-cuts-and-nails/
-shop: Kosmetik
+shop: beauty
 ---

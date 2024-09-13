@@ -1,5 +1,5 @@
 ---
 title: "Angie Rose"
 url: /san-jose/angie-rose/
-shop: Friseur
+shop: hairdresser
 ---

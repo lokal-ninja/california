@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /rancho-cordova/ampm-tributary-point-drive/
-shop: Lebensmittel
+shop: convenience
 ---

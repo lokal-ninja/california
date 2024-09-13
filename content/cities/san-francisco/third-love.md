@@ -1,5 +1,5 @@
 ---
 title: "Third Love"
 url: /san-francisco/third-love/
-shop: Kleidung
+shop: clothes
 ---

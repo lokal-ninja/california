@@ -1,5 +1,5 @@
 ---
 title: "Unfiltered Barbershop"
 url: /simi-valley/unfiltered-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

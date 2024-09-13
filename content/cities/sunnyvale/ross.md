@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /sunnyvale/ross/
-shop: Warenhaus
+shop: department store
 ---

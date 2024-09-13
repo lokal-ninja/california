@@ -1,5 +1,5 @@
 ---
 title: "Belmont Shell Auto Repair"
 url: /belmont/belmont-shell-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

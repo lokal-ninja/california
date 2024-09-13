@@ -1,5 +1,5 @@
 ---
 title: "Glam City"
 url: /milpitas/glam-city/
-shop: Kosmetik
+shop: beauty
 ---

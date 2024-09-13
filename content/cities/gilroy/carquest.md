@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /gilroy/carquest/
-shop: Autoteile
+shop: car parts
 ---

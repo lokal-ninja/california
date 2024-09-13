@@ -1,5 +1,5 @@
 ---
 title: "Crow Salon"
 url: /la-mesa/crow-salon/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bellacherta"
 url: /los-angeles/bellacherta/
-shop: Kleidung
+shop: clothes
 ---

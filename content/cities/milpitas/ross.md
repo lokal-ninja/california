@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /milpitas/ross/
-shop: Warenhaus
+shop: department store
 ---

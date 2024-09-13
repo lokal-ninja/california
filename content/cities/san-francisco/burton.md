@@ -1,5 +1,5 @@
 ---
 title: "Burton"
 url: /san-francisco/burton/
-shop: Kleidung
+shop: clothes
 ---

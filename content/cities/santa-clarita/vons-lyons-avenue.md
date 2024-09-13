@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /santa-clarita/vons-lyons-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

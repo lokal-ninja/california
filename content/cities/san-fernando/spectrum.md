@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /san-fernando/spectrum/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fox That"
 url: /los-angeles/fox-that/
-shop: Kleidung
+shop: clothes
 ---

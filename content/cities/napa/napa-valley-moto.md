@@ -1,5 +1,5 @@
 ---
 title: "Napa Valley Moto"
 url: /napa/napa-valley-moto/
-shop: Autoteile
+shop: car parts
 ---

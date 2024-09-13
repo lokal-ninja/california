@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /los-angeles/target-eagle-rock-boulevard/
-shop: Warenhaus
+shop: department store
 ---

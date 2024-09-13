@@ -1,5 +1,5 @@
 ---
 title: "Gents Barber Club"
 url: /san-jose/gents-barber-club/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,6 +1,6 @@
 ---
 title: Covelo
 url: /covelo/
-latitude: 39.791
-longitude: -123.248
+latitude: 39.78
+longitude: -123.189
 ---

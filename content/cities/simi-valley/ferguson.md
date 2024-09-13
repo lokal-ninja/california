@@ -1,5 +1,5 @@
 ---
 title: "Ferguson"
 url: /simi-valley/ferguson/
-shop: Baustoffe
+shop: trade
 ---

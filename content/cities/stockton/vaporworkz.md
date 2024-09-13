@@ -1,5 +1,5 @@
 ---
 title: "VaporWorkz"
 url: /stockton/vaporworkz/
-shop: Tabak
+shop: tobacco
 ---

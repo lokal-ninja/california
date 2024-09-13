@@ -1,5 +1,5 @@
 ---
 title: "Grocery Outlet"
 url: /san-luis-obispo/grocery-outlet/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /livermore/sprint/
-shop: Handy
+shop: mobile phone
 ---

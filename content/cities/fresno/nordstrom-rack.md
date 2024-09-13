@@ -1,5 +1,5 @@
 ---
 title: "Nordstrom Rack"
 url: /fresno/nordstrom-rack/
-shop: Kleidung
+shop: clothes
 ---

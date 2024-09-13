@@ -1,5 +1,5 @@
 ---
 title: "Coast Hardware"
 url: /laguna-beach/coast-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

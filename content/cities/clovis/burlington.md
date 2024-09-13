@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /clovis/burlington/
-shop: Warenhaus
+shop: department store
 ---

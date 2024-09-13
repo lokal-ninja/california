@@ -1,5 +1,5 @@
 ---
 title: "Colours Hair Studio"
 url: /pleasant-hill/colours-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

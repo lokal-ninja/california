@@ -1,5 +1,5 @@
 ---
 title: "Tesla"
 url: /newport-beach/tesla/
-shop: Autohaus
+shop: car
 ---

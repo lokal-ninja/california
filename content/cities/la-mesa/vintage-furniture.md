@@ -1,5 +1,5 @@
 ---
 title: "Vintage Furniture"
 url: /la-mesa/vintage-furniture/
-shop: Möbel
+shop: furniture
 ---

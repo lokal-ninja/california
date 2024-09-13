@@ -1,5 +1,5 @@
 ---
 title: "SpeeDee"
 url: /turlock/speedee/
-shop: Autowerkstatt
+shop: car repair
 ---

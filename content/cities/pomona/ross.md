@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /pomona/ross/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /chico/walmart/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Accent on Eyewear"
 url: /menlo-park/accent-on-eyewear/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "High Gravity Rentals"
 url: /joshua-tree/high-gravity-rentals/
-shop: Mieten
+shop: storage rental
 ---

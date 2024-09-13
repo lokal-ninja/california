@@ -1,5 +1,5 @@
 ---
 title: "Current Comics"
 url: /monterey/current-comics/
-shop: Sammler
+shop: collector
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goldconnection559"
 url: /fresno/goldconnection559/
-shop: Schmuck
+shop: jewelry
 ---

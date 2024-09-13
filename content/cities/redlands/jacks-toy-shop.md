@@ -1,5 +1,5 @@
 ---
 title: "Jacks Toy Shop"
 url: /redlands/jacks-toy-shop/
-shop: Spielzeug
+shop: toys
 ---

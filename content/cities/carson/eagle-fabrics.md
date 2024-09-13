@@ -1,5 +1,5 @@
 ---
 title: "Eagle Fabrics"
 url: /carson/eagle-fabrics/
-shop: Textil
+shop: fabric
 ---

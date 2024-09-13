@@ -1,5 +1,5 @@
 ---
 title: "Big Bear Mortuary"
 url: /big-bear-city/big-bear-mortuary/
-shop: Bestattungen
+shop: funeral directors
 ---

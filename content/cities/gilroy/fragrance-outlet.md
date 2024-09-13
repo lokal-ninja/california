@@ -1,5 +1,5 @@
 ---
 title: "Fragrance Outlet"
 url: /gilroy/fragrance-outlet/
-shop: Kosmetik
+shop: beauty
 ---

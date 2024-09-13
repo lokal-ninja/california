@@ -1,5 +1,5 @@
 ---
 title: "United Rentals"
 url: /sunnyvale/united-rentals/
-shop: Allgemein
+shop: shop
 ---

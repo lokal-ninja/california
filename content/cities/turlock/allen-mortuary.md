@@ -1,5 +1,5 @@
 ---
 title: "Allen Mortuary"
 url: /turlock/allen-mortuary/
-shop: Bestattungen
+shop: funeral directors
 ---

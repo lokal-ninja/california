@@ -1,5 +1,5 @@
 ---
 title: "Greenwood-Chevrolet-Buick-GMC"
 url: /hollister/greenwood-chevrolet-buick-gmc/
-shop: Autohaus
+shop: car
 ---

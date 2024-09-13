@@ -1,5 +1,5 @@
 ---
 title: "Angelo Automotive Machine"
 url: /merced/angelo-automotive-machine/
-shop: Autowerkstatt
+shop: car repair
 ---

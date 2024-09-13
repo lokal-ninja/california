@@ -1,5 +1,5 @@
 ---
 title: "Paparazzi"
 url: /san-francisco/paparazzi/
-shop: Kleidung
+shop: clothes
 ---

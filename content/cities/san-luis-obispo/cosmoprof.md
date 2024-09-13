@@ -1,5 +1,5 @@
 ---
 title: "CosmoProf"
 url: /san-luis-obispo/cosmoprof/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

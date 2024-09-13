@@ -1,5 +1,5 @@
 ---
 title: "Blackstone Chevrolet"
 url: /fresno/blackstone-chevrolet/
-shop: Autohaus
+shop: car
 ---

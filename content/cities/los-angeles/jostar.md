@@ -1,5 +1,5 @@
 ---
 title: "Jostar"
 url: /los-angeles/jostar/
-shop: Kleidung
+shop: clothes
 ---

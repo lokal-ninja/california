@@ -1,5 +1,5 @@
 ---
 title: "Diva International"
 url: /san-francisco/diva-international/
-shop: Friseur
+shop: hairdresser
 ---

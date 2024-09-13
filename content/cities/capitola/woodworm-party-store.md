@@ -1,5 +1,5 @@
 ---
 title: "Woodworm Party Store"
 url: /capitola/woodworm-party-store/
-shop: Kramladen
+shop: variety store
 ---

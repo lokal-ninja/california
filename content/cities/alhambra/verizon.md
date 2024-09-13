@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /alhambra/verizon/
-shop: Handy
+shop: mobile phone
 ---

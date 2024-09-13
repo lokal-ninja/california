@@ -1,5 +1,5 @@
 ---
 title: "The Fifth Season"
 url: /mount-shasta/the-fifth-season/
-shop: Outdoor
+shop: outdoor
 ---

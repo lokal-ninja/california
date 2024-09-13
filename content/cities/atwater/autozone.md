@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /atwater/autozone/
-shop: Autoteile
+shop: car parts
 ---

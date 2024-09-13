@@ -1,5 +1,5 @@
 ---
 title: "Protegé"
 url: /bakersfield/protege/
-shop: Friseur
+shop: hairdresser
 ---

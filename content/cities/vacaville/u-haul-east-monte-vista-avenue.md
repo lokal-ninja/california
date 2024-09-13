@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /vacaville/u-haul-east-monte-vista-avenue/
-shop: Mieten
+shop: storage rental
 ---

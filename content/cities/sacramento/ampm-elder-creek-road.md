@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /sacramento/ampm-elder-creek-road/
-shop: Lebensmittel
+shop: convenience
 ---

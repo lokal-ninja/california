@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /lompoc/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

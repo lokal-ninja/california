@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /garden-grove/burlington/
-shop: Warenhaus
+shop: department store
 ---

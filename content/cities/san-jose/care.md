@@ -1,5 +1,5 @@
 ---
 title: "CARE"
 url: /san-jose/care/
-shop: Tiere
+shop: pet
 ---

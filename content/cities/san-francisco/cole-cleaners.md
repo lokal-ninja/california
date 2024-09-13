@@ -1,5 +1,5 @@
 ---
 title: "Cole Cleaners"
 url: /san-francisco/cole-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

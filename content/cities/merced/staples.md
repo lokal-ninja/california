@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /merced/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

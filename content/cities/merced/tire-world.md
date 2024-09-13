@@ -1,5 +1,5 @@
 ---
 title: "Tire World"
 url: /merced/tire-world/
-shop: Autowerkstatt
+shop: car repair
 ---

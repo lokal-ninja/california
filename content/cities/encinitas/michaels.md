@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /encinitas/michaels/
-shop: Basteln
+shop: craft
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /san-jose/dollar-tree-snell-avenue/
-shop: Kramladen
+shop: variety store
 ---

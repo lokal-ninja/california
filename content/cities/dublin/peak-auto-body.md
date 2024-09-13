@@ -1,5 +1,5 @@
 ---
 title: "Peak Auto Body"
 url: /dublin/peak-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

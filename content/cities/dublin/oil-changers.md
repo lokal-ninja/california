@@ -1,5 +1,5 @@
 ---
 title: "Oil Changers"
 url: /dublin/oil-changers/
-shop: Autowerkstatt
+shop: car repair
 ---

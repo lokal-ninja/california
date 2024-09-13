@@ -1,5 +1,5 @@
 ---
 title: "Hunter's Liquor"
 url: /el-cajon/hunters-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

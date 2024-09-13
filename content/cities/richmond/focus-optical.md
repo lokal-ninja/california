@@ -1,5 +1,5 @@
 ---
 title: "Focus Optical"
 url: /richmond/focus-optical/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /fullerton/michaels/
-shop: Basteln
+shop: craft
 ---

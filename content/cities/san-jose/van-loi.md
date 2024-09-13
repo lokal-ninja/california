@@ -1,5 +1,5 @@
 ---
 title: "Vân Lợi"
 url: /san-jose/van-loi/
-shop: Bäckerei
+shop: bakery
 ---

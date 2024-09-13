@@ -1,5 +1,5 @@
 ---
 title: "Pavilions"
 url: /irvine/pavilions/
-shop: Supermarkt
+shop: supermarket
 ---

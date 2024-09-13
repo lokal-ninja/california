@@ -1,5 +1,5 @@
 ---
 title: "Volvo"
 url: /walnut-creek/volvo/
-shop: Autohaus
+shop: car
 ---

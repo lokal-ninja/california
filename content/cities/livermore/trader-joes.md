@@ -1,5 +1,5 @@
 ---
 title: "Trader Joe's"
 url: /livermore/trader-joes/
-shop: Supermarkt
+shop: supermarket
 ---

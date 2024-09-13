@@ -1,5 +1,5 @@
 ---
 title: "SCUBA/FUSION"
 url: /san-mateo/scuba-fusion/
-shop: Tauchen
+shop: diving
 ---

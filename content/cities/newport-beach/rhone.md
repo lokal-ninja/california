@@ -1,5 +1,5 @@
 ---
 title: "Rhone"
 url: /newport-beach/rhone/
-shop: Kleidung
+shop: clothes
 ---

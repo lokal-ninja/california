@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /apple-valley/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

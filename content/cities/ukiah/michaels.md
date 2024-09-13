@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /ukiah/michaels/
-shop: Basteln
+shop: craft
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lion"
 url: /san-jose/lion/
-shop: Supermarkt
+shop: supermarket
 ---

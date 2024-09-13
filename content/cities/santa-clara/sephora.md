@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /santa-clara/sephora/
-shop: Kosmetik
+shop: beauty
 ---

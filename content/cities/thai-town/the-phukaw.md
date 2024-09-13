@@ -1,5 +1,5 @@
 ---
 title: "The Phukaw"
 url: /thai-town/the-phukaw/
-shop: Kleidung
+shop: clothes
 ---

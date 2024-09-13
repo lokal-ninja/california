@@ -1,5 +1,5 @@
 ---
 title: "Florey's Book Co."
 url: /pacifica/floreys-book-co/
-shop: Bücher
+shop: books
 ---

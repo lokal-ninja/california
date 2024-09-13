@@ -1,5 +1,5 @@
 ---
 title: "Sanjha Punjab"
 url: /fresno/sanjha-punjab/
-shop: Lebensmittel
+shop: convenience
 ---

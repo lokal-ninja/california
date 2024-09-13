@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /santa-monica/target-wilshire-boulevard/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /hesperia/rite-aid/
-shop: Drogerie
+shop: chemist
 ---

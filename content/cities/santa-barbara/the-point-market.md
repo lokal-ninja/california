@@ -1,5 +1,5 @@
 ---
 title: "The Point Market"
 url: /santa-barbara/the-point-market/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /cerritos/target/
-shop: Warenhaus
+shop: department store
 ---

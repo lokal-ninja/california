@@ -1,5 +1,5 @@
 ---
 title: "AZ WRAP"
 url: /el-segundo/az-wrap/
-shop: Autowerkstatt
+shop: car repair
 ---

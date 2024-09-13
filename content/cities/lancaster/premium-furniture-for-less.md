@@ -1,5 +1,5 @@
 ---
 title: "Premium Furniture for Less"
 url: /lancaster/premium-furniture-for-less/
-shop: Möbel
+shop: furniture
 ---

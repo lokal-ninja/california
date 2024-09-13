@@ -1,5 +1,5 @@
 ---
 title: "Mitsuwa"
 url: /costa-mesa/mitsuwa/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pro Massage"
 url: /citrus-heights/pro-massage/
-shop: Massage
+shop: massage
 ---

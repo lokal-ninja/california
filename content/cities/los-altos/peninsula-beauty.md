@@ -1,5 +1,5 @@
 ---
 title: "Peninsula Beauty"
 url: /los-altos/peninsula-beauty/
-shop: Kosmetik
+shop: beauty
 ---

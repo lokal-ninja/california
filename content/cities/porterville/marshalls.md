@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /porterville/marshalls/
-shop: Warenhaus
+shop: department store
 ---

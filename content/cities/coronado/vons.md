@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /coronado/vons/
-shop: Supermarkt
+shop: supermarket
 ---

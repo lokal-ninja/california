@@ -1,5 +1,5 @@
 ---
 title: "Almaden Valley Florist"
 url: /san-jose/almaden-valley-florist/
-shop: Blumen
+shop: florist
 ---

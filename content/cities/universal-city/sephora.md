@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /universal-city/sephora/
-shop: Kosmetik
+shop: beauty
 ---

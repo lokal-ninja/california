@@ -1,5 +1,5 @@
 ---
 title: "City Wireless"
 url: /richmond/city-wireless/
-shop: Handy
+shop: mobile phone
 ---

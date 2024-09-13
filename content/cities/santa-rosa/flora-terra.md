@@ -1,5 +1,5 @@
 ---
 title: "Flora Terra"
 url: /santa-rosa/flora-terra/
-shop: Hanf
+shop: cannabis
 ---

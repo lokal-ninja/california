@@ -1,5 +1,5 @@
 ---
 title: "Jeffrey Neve Interior Design"
 url: /walnut-creek/jeffrey-neve-interior-design/
-shop: Raumausstattung
+shop: interior decoration
 ---

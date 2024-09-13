@@ -1,5 +1,5 @@
 ---
 title: "Jessica’s Beauty Salon"
 url: /milpitas/jessicas-beauty-salon/
-shop: Kosmetik
+shop: beauty
 ---

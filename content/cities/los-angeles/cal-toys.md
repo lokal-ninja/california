@@ -1,5 +1,5 @@
 ---
 title: "CAL Toys"
 url: /los-angeles/cal-toys/
-shop: Spielzeug
+shop: toys
 ---

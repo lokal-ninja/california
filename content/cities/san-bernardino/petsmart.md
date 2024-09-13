@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /san-bernardino/petsmart/
-shop: Tiere
+shop: pet
 ---

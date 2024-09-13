@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /walnut-creek/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

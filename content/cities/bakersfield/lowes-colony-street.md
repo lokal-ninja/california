@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /bakersfield/lowes-colony-street/
-shop: Baumarkt
+shop: doityourself
 ---

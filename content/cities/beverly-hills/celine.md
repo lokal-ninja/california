@@ -1,5 +1,5 @@
 ---
 title: "Celine"
 url: /beverly-hills/celine/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El-Pane-Sito"
 url: /fontana/el-pane-sito/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bal-Lance Salon"
 url: /saratoga/bal-lance-salon/
-shop: Friseur
+shop: hairdresser
 ---

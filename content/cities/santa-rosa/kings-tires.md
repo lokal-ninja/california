@@ -1,5 +1,5 @@
 ---
 title: "King's Tires"
 url: /santa-rosa/kings-tires/
-shop: Autowerkstatt
+shop: car repair
 ---

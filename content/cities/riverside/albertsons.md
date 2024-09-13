@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /riverside/albertsons/
-shop: Supermarkt
+shop: supermarket
 ---

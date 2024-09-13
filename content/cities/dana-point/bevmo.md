@@ -1,5 +1,5 @@
 ---
 title: "BevMo!"
 url: /dana-point/bevmo/
-shop: Spirituosen
+shop: alcohol
 ---

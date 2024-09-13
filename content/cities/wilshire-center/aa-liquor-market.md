@@ -1,5 +1,5 @@
 ---
 title: "AA Liquor Market"
 url: /wilshire-center/aa-liquor-market/
-shop: Spirituosen
+shop: alcohol
 ---

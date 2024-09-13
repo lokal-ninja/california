@@ -1,5 +1,5 @@
 ---
 title: "JayNet Hair Studio"
 url: /san-jose/jaynet-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

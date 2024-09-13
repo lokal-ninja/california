@@ -1,5 +1,5 @@
 ---
 title: "BudBees"
 url: /mission-hills/budbees/
-shop: Hanf
+shop: cannabis
 ---

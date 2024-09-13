@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
 url: /livermore/extramile/
-shop: Lebensmittel
+shop: convenience
 ---

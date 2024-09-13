@@ -1,5 +1,5 @@
 ---
 title: "Ricochet"
 url: /san-mateo/ricochet/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /vallejo/michaels/
-shop: Basteln
+shop: craft
 ---

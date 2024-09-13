@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /manteca/costco/
-shop: Großhandel
+shop: wholesale
 ---

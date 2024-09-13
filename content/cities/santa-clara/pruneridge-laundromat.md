@@ -1,5 +1,5 @@
 ---
 title: "Pruneridge Laundromat"
 url: /santa-clara/pruneridge-laundromat/
-shop: Wäscherei
+shop: laundry
 ---

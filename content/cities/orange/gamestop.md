@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /orange/gamestop/
-shop: Videospiele
+shop: video games
 ---

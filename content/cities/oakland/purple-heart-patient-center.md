@@ -1,5 +1,5 @@
 ---
 title: "Purple Heart Patient Center"
 url: /oakland/purple-heart-patient-center/
-shop: Sanitätshaus
+shop: medical supply
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Loop"
 url: /san-francisco/loop/
-shop: Lebensmittel
+shop: convenience
 ---

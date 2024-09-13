@@ -1,5 +1,5 @@
 ---
 title: "Landeros"
 url: /beaumont/landeros/
-shop: Möbel
+shop: furniture
 ---

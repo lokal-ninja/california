@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /ladera-ranch/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

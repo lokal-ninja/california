@@ -1,5 +1,5 @@
 ---
 title: "GoWireless"
 url: /san-jose/gowireless/
-shop: Handy
+shop: mobile phone
 ---

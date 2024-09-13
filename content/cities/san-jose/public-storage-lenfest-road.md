@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
 url: /san-jose/public-storage-lenfest-road/
-shop: Mieten
+shop: storage rental
 ---

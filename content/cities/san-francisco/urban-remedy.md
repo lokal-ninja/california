@@ -1,5 +1,5 @@
 ---
 title: "Urban Remedy"
 url: /san-francisco/urban-remedy/
-shop: Bioladen
+shop: health food
 ---

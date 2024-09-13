@@ -1,5 +1,5 @@
 ---
 title: "Lassen Nail Spa"
 url: /susanville/lassen-nail-spa/
-shop: Kosmetik
+shop: beauty
 ---

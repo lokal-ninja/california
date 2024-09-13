@@ -1,5 +1,5 @@
 ---
 title: "BlueMercury"
 url: /burlingame/bluemercury/
-shop: Kosmetik
+shop: beauty
 ---

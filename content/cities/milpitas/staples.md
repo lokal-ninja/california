@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /milpitas/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

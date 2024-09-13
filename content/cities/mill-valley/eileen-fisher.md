@@ -1,5 +1,5 @@
 ---
 title: "Eileen Fisher"
 url: /mill-valley/eileen-fisher/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /salinas/dsw/
-shop: Schuhe
+shop: shoes
 ---

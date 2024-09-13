@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /corona/verizon/
-shop: Handy
+shop: mobile phone
 ---

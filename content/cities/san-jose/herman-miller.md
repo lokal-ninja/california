@@ -1,5 +1,5 @@
 ---
 title: "Herman Miller"
 url: /san-jose/herman-miller/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Araparts"
 url: /elk-grove/araparts/
-shop: Autoteile
+shop: car parts
 ---

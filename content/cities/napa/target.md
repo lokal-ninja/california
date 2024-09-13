@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /napa/target/
-shop: Warenhaus
+shop: department store
 ---

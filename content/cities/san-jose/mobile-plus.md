@@ -1,5 +1,5 @@
 ---
 title: "Mobile Plus"
 url: /san-jose/mobile-plus/
-shop: Handy
+shop: mobile phone
 ---

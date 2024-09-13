@@ -1,5 +1,5 @@
 ---
 title: "Smith Truck Repair"
 url: /merced/smith-truck-repair/
-shop: Allgemein
+shop: shop
 ---

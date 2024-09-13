@@ -1,5 +1,5 @@
 ---
 title: "AMPM"
 url: /san-diego/ampm-carmel-valley-road/
-shop: Lebensmittel
+shop: convenience
 ---

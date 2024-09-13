@@ -1,5 +1,5 @@
 ---
 title: "Raisa's Flowers"
 url: /san-fernando/raisas-flowers/
-shop: Blumen
+shop: florist
 ---

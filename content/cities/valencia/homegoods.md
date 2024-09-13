@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /valencia/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

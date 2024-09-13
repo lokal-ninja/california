@@ -1,5 +1,5 @@
 ---
 title: "Supertints"
 url: /oroville/supertints/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Le Joli"
 url: /los-angeles/le-joli/
-shop: Kleidung
+shop: clothes
 ---

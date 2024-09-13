@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /encinitas/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

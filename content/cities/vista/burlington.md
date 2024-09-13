@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /vista/burlington/
-shop: Warenhaus
+shop: department store
 ---

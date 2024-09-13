@@ -1,5 +1,5 @@
 ---
 title: "Ralphs"
 url: /san-diego/ralphs-rosecrans-street/
-shop: Supermarkt
+shop: supermarket
 ---

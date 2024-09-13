@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /lake-elsinore/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

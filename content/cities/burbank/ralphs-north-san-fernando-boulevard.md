@@ -1,5 +1,5 @@
 ---
 title: "Ralphs"
 url: /burbank/ralphs-north-san-fernando-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Naturepedic"
 url: /san-jose/naturepedic/
-shop: Betten
+shop: bed
 ---

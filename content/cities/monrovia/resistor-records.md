@@ -1,5 +1,5 @@
 ---
 title: "Resistor Records"
 url: /monrovia/resistor-records/
-shop: Musik
+shop: music
 ---

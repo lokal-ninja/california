@@ -1,5 +1,5 @@
 ---
 title: "River Park Shopping Center"
 url: /fresno/river-park-shopping-center/
-shop: Einkaufszentrum
+shop: mall
 ---

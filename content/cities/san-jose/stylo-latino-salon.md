@@ -1,5 +1,5 @@
 ---
 title: "Stylo Latino Salon"
 url: /san-jose/stylo-latino-salon/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Island Market"
 url: /oakland/island-market/
-shop: Lebensmittel
+shop: convenience
 ---

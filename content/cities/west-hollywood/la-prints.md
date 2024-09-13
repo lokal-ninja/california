@@ -1,5 +1,5 @@
 ---
 title: "LA Prints"
 url: /west-hollywood/la-prints/
-shop: Kopieren
+shop: copyshop
 ---

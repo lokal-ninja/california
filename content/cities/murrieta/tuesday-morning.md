@@ -1,5 +1,5 @@
 ---
 title: "Tuesday Morning"
 url: /murrieta/tuesday-morning/
-shop: Haushaltsartikel
+shop: houseware
 ---

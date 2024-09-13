@@ -1,5 +1,5 @@
 ---
 title: "Ralphs"
 url: /san-diego/ralphs-alta-view-drive/
-shop: Supermarkt
+shop: supermarket
 ---

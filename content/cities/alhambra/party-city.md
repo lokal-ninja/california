@@ -1,5 +1,5 @@
 ---
 title: "Party City"
 url: /alhambra/party-city/
-shop: Partyzubehör
+shop: party
 ---

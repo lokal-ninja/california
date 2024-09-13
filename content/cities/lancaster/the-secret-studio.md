@@ -1,5 +1,5 @@
 ---
 title: "The Secret Studio"
 url: /lancaster/the-secret-studio/
-shop: Allgemein
+shop: shop
 ---

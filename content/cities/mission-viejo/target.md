@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /mission-viejo/target/
-shop: Warenhaus
+shop: department store
 ---

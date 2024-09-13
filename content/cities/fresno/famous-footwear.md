@@ -1,5 +1,5 @@
 ---
 title: "Famous Footwear"
 url: /fresno/famous-footwear/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ellis Self Storage"
 url: /turlock/ellis-self-storage/
-shop: Mieten
+shop: storage rental
 ---

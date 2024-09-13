@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /poway/ross/
-shop: Warenhaus
+shop: department store
 ---

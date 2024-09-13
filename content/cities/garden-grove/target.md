@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /garden-grove/target/
-shop: Warenhaus
+shop: department store
 ---

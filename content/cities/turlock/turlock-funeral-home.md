@@ -1,5 +1,5 @@
 ---
 title: "Turlock Funeral Home"
 url: /turlock/turlock-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

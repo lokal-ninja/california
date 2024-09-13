@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /ojai/vons/
-shop: Supermarkt
+shop: supermarket
 ---

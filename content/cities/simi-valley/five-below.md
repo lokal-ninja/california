@@ -1,5 +1,5 @@
 ---
 title: "Five Below"
 url: /simi-valley/five-below/
-shop: Kramladen
+shop: variety store
 ---

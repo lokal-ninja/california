@@ -1,5 +1,5 @@
 ---
 title: "Nail Elegance"
 url: /san-jose/nail-elegance/
-shop: Kosmetik
+shop: beauty
 ---

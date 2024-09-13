@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /hanford/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

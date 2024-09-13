@@ -1,5 +1,5 @@
 ---
 title: "Speed Craft"
 url: /san-jose/speed-craft/
-shop: Kleidung
+shop: clothes
 ---

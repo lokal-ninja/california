@@ -1,5 +1,5 @@
 ---
 title: "Rapid Skateboarding"
 url: /simi-valley/rapid-skateboarding/
-shop: Sport
+shop: sports
 ---

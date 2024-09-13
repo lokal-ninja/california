@@ -1,5 +1,5 @@
 ---
 title: "Bel Air Supermarket"
 url: /sacramento/bel-air-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

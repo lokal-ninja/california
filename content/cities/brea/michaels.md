@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /brea/michaels/
-shop: Basteln
+shop: craft
 ---

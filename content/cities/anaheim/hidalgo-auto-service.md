@@ -1,5 +1,5 @@
 ---
 title: "Hidalgo Auto Service"
 url: /anaheim/hidalgo-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

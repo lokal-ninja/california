@@ -1,5 +1,5 @@
 ---
 title: "Yeto's Market"
 url: /ventura/yetos-market/
-shop: Lebensmittel
+shop: convenience
 ---

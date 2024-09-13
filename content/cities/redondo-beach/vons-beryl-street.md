@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /redondo-beach/vons-beryl-street/
-shop: Supermarkt
+shop: supermarket
 ---

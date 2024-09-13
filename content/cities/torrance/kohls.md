@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /torrance/kohls/
-shop: Warenhaus
+shop: department store
 ---

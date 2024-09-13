@@ -1,5 +1,5 @@
 ---
 title: "Pep Boys"
 url: /modesto/pep-boys/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spangler Mortuary"
 url: /mountain-view/spangler-mortuary/
-shop: Bestattungen
+shop: funeral directors
 ---

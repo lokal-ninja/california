@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
 url: /danville/extramile-camino-tassajara/
-shop: Lebensmittel
+shop: convenience
 ---

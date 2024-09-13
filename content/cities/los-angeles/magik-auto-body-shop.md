@@ -1,5 +1,5 @@
 ---
 title: "Magik Auto Body Shop"
 url: /los-angeles/magik-auto-body-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

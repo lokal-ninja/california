@@ -1,5 +1,5 @@
 ---
 title: "Velo City"
 url: /winters/velo-city/
-shop: Fahrrad
+shop: bicycle
 ---

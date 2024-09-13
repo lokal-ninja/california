@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /sunnyvale/sprint/
-shop: Handy
+shop: mobile phone
 ---

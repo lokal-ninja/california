@@ -1,5 +1,5 @@
 ---
 title: "KD's Donuts"
 url: /ramona/kds-donuts/
-shop: Süßwaren
+shop: confectionery
 ---

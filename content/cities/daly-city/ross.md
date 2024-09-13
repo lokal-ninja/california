@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /daly-city/ross/
-shop: Warenhaus
+shop: department store
 ---

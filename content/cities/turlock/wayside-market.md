@@ -1,5 +1,5 @@
 ---
 title: "Wayside Market"
 url: /turlock/wayside-market/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "O'Reilly Auto Parts"
 url: /simi-valley/oreilly-auto-parts-east-los-angeles-avenue/
-shop: Autoteile
+shop: car parts
 ---

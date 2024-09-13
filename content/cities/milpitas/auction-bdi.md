@@ -1,5 +1,5 @@
 ---
 title: "Auction BDI"
 url: /milpitas/auction-bdi/
-shop: Auktionshaus
+shop: auction house
 ---

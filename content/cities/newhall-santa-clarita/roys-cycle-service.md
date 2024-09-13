@@ -1,5 +1,5 @@
 ---
 title: "Roy's Cycle Service"
 url: /newhall-santa-clarita/roys-cycle-service/
-shop: Motorrad
+shop: motorcycle
 ---

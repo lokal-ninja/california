@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /oakley/autozone/
-shop: Autoteile
+shop: car parts
 ---

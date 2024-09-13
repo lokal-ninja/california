@@ -1,5 +1,5 @@
 ---
 title: "Blue Rooster Art Supplies"
 url: /pasadena/blue-rooster-art-supplies/
-shop: Kunst
+shop: art
 ---

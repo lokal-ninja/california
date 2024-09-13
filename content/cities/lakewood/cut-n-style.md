@@ -1,5 +1,5 @@
 ---
 title: "Cut N' Style"
 url: /lakewood/cut-n-style/
-shop: Kosmetik
+shop: beauty
 ---

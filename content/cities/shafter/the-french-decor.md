@@ -1,5 +1,5 @@
 ---
 title: "The French Decor"
 url: /shafter/the-french-decor/
-shop: Raumausstattung
+shop: interior decoration
 ---

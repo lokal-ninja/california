@@ -1,5 +1,5 @@
 ---
 title: "Columbia"
 url: /gilroy/columbia/
-shop: Kleidung
+shop: clothes
 ---

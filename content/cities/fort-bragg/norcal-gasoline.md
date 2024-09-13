@@ -1,5 +1,5 @@
 ---
 title: "Norcal Gasoline"
 url: /fort-bragg/norcal-gasoline/
-shop: Lebensmittel
+shop: convenience
 ---

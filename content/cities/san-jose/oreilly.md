@@ -1,5 +1,5 @@
 ---
 title: "O’Reilly"
 url: /san-jose/oreilly/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Outdoor Supply Hardware"
 url: /napa/outdoor-supply-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

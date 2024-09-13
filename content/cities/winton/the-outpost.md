@@ -1,5 +1,5 @@
 ---
 title: "The Outpost"
 url: /winton/the-outpost/
-shop: Kramladen
+shop: variety store
 ---

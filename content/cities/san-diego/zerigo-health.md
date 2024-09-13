@@ -1,5 +1,5 @@
 ---
 title: "Zerigo Health"
 url: /san-diego/zerigo-health/
-shop: Sanitätshaus
+shop: medical supply
 ---

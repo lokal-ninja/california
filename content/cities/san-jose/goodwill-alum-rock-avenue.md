@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /san-jose/goodwill-alum-rock-avenue/
-shop: Gebrauchtwaren
+shop: charity
 ---

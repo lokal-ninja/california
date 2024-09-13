@@ -1,5 +1,5 @@
 ---
 title: "Mason Tire"
 url: /farmersville/mason-tire/
-shop: Reifen
+shop: tyres
 ---

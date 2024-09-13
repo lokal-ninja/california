@@ -1,5 +1,5 @@
 ---
 title: "Trek"
 url: /berkeley/trek/
-shop: Fahrrad
+shop: bicycle
 ---

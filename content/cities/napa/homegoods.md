@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /napa/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

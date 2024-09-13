@@ -1,5 +1,5 @@
 ---
 title: "Model Bakery"
 url: /st-helena/model-bakery/
-shop: Bäckerei
+shop: bakery
 ---

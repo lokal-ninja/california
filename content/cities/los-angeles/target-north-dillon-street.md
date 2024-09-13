@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /los-angeles/target-north-dillon-street/
-shop: Warenhaus
+shop: department store
 ---

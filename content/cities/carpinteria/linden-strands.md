@@ -1,5 +1,5 @@
 ---
 title: "Linden Strands"
 url: /carpinteria/linden-strands/
-shop: Friseur
+shop: hairdresser
 ---

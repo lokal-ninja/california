@@ -1,5 +1,5 @@
 ---
 title: "Gallegos Sala de Belleza"
 url: /gilroy/gallegos-sala-de-belleza/
-shop: Kosmetik
+shop: beauty
 ---

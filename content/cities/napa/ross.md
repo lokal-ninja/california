@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /napa/ross/
-shop: Warenhaus
+shop: department store
 ---

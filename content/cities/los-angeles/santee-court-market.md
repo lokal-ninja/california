@@ -1,5 +1,5 @@
 ---
 title: "Santee Court Market"
 url: /los-angeles/santee-court-market/
-shop: Lebensmittel
+shop: convenience
 ---

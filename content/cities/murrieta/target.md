@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /murrieta/target/
-shop: Warenhaus
+shop: department store
 ---

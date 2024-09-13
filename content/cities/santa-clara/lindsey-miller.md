@@ -1,5 +1,5 @@
 ---
 title: "Lindsey Miller"
 url: /santa-clara/lindsey-miller/
-shop: Friseur
+shop: hairdresser
 ---

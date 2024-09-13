@@ -1,5 +1,5 @@
 ---
 title: "Sunshine Auto Service"
 url: /san-jose/sunshine-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

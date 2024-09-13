@@ -1,5 +1,5 @@
 ---
 title: "Zack's Auto Shack"
 url: /mi-wuk-village/zacks-auto-shack/
-shop: Autowerkstatt
+shop: car repair
 ---

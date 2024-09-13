@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /brea/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

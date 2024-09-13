@@ -1,5 +1,5 @@
 ---
 title: "Party City"
 url: /thousand-oaks/party-city/
-shop: Partyzubehör
+shop: party
 ---

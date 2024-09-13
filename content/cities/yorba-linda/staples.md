@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /yorba-linda/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

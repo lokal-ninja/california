@@ -1,5 +1,5 @@
 ---
 title: "Recellit"
 url: /sherman-oaks/recellit/
-shop: Computer
+shop: computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Orange Motors"
 url: /orange/orange-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

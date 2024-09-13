@@ -1,5 +1,5 @@
 ---
 title: "Monrovia Floral"
 url: /monrovia/monrovia-floral/
-shop: Blumen
+shop: florist
 ---

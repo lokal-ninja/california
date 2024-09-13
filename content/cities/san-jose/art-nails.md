@@ -1,5 +1,5 @@
 ---
 title: "Art Nails"
 url: /san-jose/art-nails/
-shop: Kosmetik
+shop: beauty
 ---

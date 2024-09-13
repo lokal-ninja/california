@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /fresno/burlington-north-blackstone-avenue/
-shop: Warenhaus
+shop: department store
 ---

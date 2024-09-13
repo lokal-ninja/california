@@ -1,5 +1,5 @@
 ---
 title: "DeMartini RV Sales"
 url: /grass-valley/demartini-rv-sales/
-shop: Wohnwagen
+shop: caravan
 ---

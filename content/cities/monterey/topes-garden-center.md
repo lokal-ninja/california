@@ -1,5 +1,5 @@
 ---
 title: "Tope's Garden Center"
 url: /monterey/topes-garden-center/
-shop: Garten-Center
+shop: garden centre
 ---

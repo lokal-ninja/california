@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /fontana/great-clips/
-shop: Friseur
+shop: hairdresser
 ---

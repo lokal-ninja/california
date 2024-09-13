@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /santa-clara/safeway-rivermark-plaza/
-shop: Supermarkt
+shop: supermarket
 ---

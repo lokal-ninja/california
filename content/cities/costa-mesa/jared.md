@@ -1,5 +1,5 @@
 ---
 title: "Jared"
 url: /costa-mesa/jared/
-shop: Schmuck
+shop: jewelry
 ---

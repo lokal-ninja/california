@@ -1,5 +1,5 @@
 ---
 title: "Stranded Beauty Bar"
 url: /santa-cruz/stranded-beauty-bar/
-shop: Kosmetik
+shop: beauty
 ---

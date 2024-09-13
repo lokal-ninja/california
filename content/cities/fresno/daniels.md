@@ -1,5 +1,5 @@
 ---
 title: "Daniel's"
 url: /fresno/daniels/
-shop: Schmuck
+shop: jewelry
 ---

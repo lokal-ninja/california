@@ -1,5 +1,5 @@
 ---
 title: "Newport Lexus"
 url: /newport-beach/newport-lexus/
-shop: Autohaus
+shop: car
 ---

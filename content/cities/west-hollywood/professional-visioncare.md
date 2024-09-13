@@ -1,5 +1,5 @@
 ---
 title: "Professional Visioncare"
 url: /west-hollywood/professional-visioncare/
-shop: Optiker
+shop: optician
 ---

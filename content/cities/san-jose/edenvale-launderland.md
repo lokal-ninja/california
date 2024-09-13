@@ -1,5 +1,5 @@
 ---
 title: "Edenvale Launderland"
 url: /san-jose/edenvale-launderland/
-shop: Wäscherei
+shop: laundry
 ---

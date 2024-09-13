@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /modesto/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Laurel Realty"
 url: /san-francisco/laurel-realty/
-shop: Immobilien
+shop: estate agent
 ---

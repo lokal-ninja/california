@@ -1,5 +1,5 @@
 ---
 title: "Tomato"
 url: /pasadena/tomato/
-shop: Raumausstattung
+shop: interior decoration
 ---

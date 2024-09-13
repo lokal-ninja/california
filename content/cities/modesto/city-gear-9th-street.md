@@ -1,5 +1,5 @@
 ---
 title: "City Gear"
 url: /modesto/city-gear-9th-street/
-shop: Autohaus
+shop: car
 ---

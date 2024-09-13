@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /capitola/target/
-shop: Warenhaus
+shop: department store
 ---

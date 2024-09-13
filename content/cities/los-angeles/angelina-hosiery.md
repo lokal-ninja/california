@@ -1,5 +1,5 @@
 ---
 title: "Angelina Hosiery"
 url: /los-angeles/angelina-hosiery/
-shop: Kleidung
+shop: clothes
 ---

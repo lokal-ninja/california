@@ -1,5 +1,5 @@
 ---
 title: "Cosmopawlitan"
 url: /simi-valley/cosmopawlitan/
-shop: Tiersalon
+shop: pet grooming
 ---

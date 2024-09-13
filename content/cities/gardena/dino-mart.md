@@ -1,5 +1,5 @@
 ---
 title: "Dino Mart"
 url: /gardena/dino-mart/
-shop: Lebensmittel
+shop: convenience
 ---

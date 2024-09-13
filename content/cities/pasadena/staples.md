@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /pasadena/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

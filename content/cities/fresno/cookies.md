@@ -1,5 +1,5 @@
 ---
 title: "Cookies"
 url: /fresno/cookies/
-shop: Hanf
+shop: cannabis
 ---

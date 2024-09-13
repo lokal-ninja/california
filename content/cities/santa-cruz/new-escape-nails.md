@@ -1,5 +1,5 @@
 ---
 title: "New Escape Nails"
 url: /santa-cruz/new-escape-nails/
-shop: Kosmetik
+shop: beauty
 ---

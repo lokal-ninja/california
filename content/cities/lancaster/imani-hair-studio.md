@@ -1,5 +1,5 @@
 ---
 title: "Imani Hair Studio"
 url: /lancaster/imani-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

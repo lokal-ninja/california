@@ -1,5 +1,5 @@
 ---
 title: "Stylist Anayeli"
 url: /long-beach/stylist-anayeli/
-shop: Friseur
+shop: hairdresser
 ---

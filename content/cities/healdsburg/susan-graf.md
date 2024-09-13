@@ -1,5 +1,5 @@
 ---
 title: "Susan Graf"
 url: /healdsburg/susan-graf/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Athleta"
 url: /emeryville/athleta/
-shop: Kleidung
+shop: clothes
 ---

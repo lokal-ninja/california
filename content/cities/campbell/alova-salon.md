@@ -1,5 +1,5 @@
 ---
 title: "Alova Salon"
 url: /campbell/alova-salon/
-shop: Friseur
+shop: hairdresser
 ---

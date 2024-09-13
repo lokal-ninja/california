@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
 url: /san-francisco/public-storage/
-shop: Mieten
+shop: storage rental
 ---

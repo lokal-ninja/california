@@ -1,5 +1,5 @@
 ---
 title: "Duggan's Serra Mortuary"
 url: /daly-city/duggans-serra-mortuary/
-shop: Bestattungen
+shop: funeral directors
 ---

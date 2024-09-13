@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /la-habra/target/
-shop: Warenhaus
+shop: department store
 ---

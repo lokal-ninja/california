@@ -1,5 +1,5 @@
 ---
 title: "Sprouts Farmers Market"
 url: /los-angeles/sprouts-farmers-market-westwood-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

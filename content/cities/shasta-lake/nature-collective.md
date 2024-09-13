@@ -1,5 +1,5 @@
 ---
 title: "Nature Collective"
 url: /shasta-lake/nature-collective/
-shop: Hanf
+shop: cannabis
 ---

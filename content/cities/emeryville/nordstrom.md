@@ -1,5 +1,5 @@
 ---
 title: "Nordstrom"
 url: /emeryville/nordstrom/
-shop: Warenhaus
+shop: department store
 ---

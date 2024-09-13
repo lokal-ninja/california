@@ -1,5 +1,5 @@
 ---
 title: "K Auto Body Repair"
 url: /santa-clara/k-auto-body-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

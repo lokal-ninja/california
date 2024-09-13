@@ -1,5 +1,5 @@
 ---
 title: "UNTUCKit"
 url: /corte-madera/untuckit/
-shop: Kleidung
+shop: clothes
 ---

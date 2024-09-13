@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /westlake-village/target/
-shop: Warenhaus
+shop: department store
 ---

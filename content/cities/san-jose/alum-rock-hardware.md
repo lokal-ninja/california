@@ -1,5 +1,5 @@
 ---
 title: "Alum Rock Hardware"
 url: /san-jose/alum-rock-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

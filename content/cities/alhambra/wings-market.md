@@ -1,5 +1,5 @@
 ---
 title: "Wing's Market"
 url: /alhambra/wings-market/
-shop: Lebensmittel
+shop: convenience
 ---

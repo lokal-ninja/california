@@ -1,5 +1,5 @@
 ---
 title: "Panavia"
 url: /campbell/panavia/
-shop: Autowerkstatt
+shop: car repair
 ---

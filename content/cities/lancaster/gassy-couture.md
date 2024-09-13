@@ -1,5 +1,5 @@
 ---
 title: "Gassy Couture"
 url: /lancaster/gassy-couture/
-shop: Kosmetik
+shop: beauty
 ---

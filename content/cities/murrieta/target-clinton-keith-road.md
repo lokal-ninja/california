@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /murrieta/target-clinton-keith-road/
-shop: Supermarkt
+shop: supermarket
 ---

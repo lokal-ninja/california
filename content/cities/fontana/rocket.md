@@ -1,5 +1,5 @@
 ---
 title: "Rocket"
 url: /fontana/rocket/
-shop: Lebensmittel
+shop: convenience
 ---

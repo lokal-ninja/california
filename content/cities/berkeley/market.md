@@ -1,5 +1,5 @@
 ---
 title: "____ ___ _____ Market"
 url: /berkeley/market/
-shop: Lebensmittel
+shop: convenience
 ---

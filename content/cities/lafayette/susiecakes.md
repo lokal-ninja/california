@@ -1,5 +1,5 @@
 ---
 title: "SusieCakes"
 url: /lafayette/susiecakes/
-shop: Bäckerei
+shop: bakery
 ---

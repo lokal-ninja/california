@@ -1,5 +1,5 @@
 ---
 title: "Downtown Ford"
 url: /sacramento/downtown-ford/
-shop: Autohaus
+shop: car
 ---

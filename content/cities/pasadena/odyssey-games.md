@@ -1,5 +1,5 @@
 ---
 title: "Odyssey Games"
 url: /pasadena/odyssey-games/
-shop: Spiele
+shop: games
 ---

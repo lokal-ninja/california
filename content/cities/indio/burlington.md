@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /indio/burlington/
-shop: Warenhaus
+shop: department store
 ---

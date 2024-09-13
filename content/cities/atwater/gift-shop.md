@@ -1,5 +1,5 @@
 ---
 title: "Gift Shop"
 url: /atwater/gift-shop/
-shop: Andenken
+shop: gift
 ---

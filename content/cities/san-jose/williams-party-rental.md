@@ -1,5 +1,5 @@
 ---
 title: "Williams Party Rental"
 url: /san-jose/williams-party-rental/
-shop: Partyzubehör
+shop: party
 ---

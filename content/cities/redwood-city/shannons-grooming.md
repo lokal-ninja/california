@@ -1,5 +1,5 @@
 ---
 title: "Shannon's Grooming"
 url: /redwood-city/shannons-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

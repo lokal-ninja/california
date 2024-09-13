@@ -1,5 +1,5 @@
 ---
 title: "JLLWC Thrift Store"
 url: /june-lake/jllwc-thrift-store/
-shop: Kramladen
+shop: variety store
 ---

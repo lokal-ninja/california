@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /porterville/dollar-tree-west-olive-avenue/
-shop: Kramladen
+shop: variety store
 ---

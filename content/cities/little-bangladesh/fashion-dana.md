@@ -1,5 +1,5 @@
 ---
 title: "Fashion DANA"
 url: /little-bangladesh/fashion-dana/
-shop: Kleidung
+shop: clothes
 ---

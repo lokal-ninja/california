@@ -1,5 +1,5 @@
 ---
 title: "Fish's Smog Service"
 url: /winton/fishs-smog-service/
-shop: Autowerkstatt
+shop: car repair
 ---

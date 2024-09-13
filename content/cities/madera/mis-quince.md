@@ -1,5 +1,5 @@
 ---
 title: "Mis Quince"
 url: /madera/mis-quince/
-shop: Kleidung
+shop: clothes
 ---

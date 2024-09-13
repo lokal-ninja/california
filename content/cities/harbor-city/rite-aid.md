@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /harbor-city/rite-aid/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "We Olive"
 url: /san-francisco/we-olive/
-shop: Feinkost
+shop: deli
 ---

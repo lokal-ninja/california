@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /gilroy/target/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boost Mobile"
 url: /sacramento/boost-mobile-broadway/
-shop: Handy
+shop: mobile phone
 ---

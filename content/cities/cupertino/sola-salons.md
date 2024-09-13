@@ -1,5 +1,5 @@
 ---
 title: "Sola Salons"
 url: /cupertino/sola-salons/
-shop: Kosmetik
+shop: beauty
 ---

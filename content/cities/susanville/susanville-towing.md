@@ -1,5 +1,5 @@
 ---
 title: "Susanville Towing"
 url: /susanville/susanville-towing/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "T S Emporium"
 url: /industry/t-s-emporium/
-shop: Warenhaus
+shop: department store
 ---

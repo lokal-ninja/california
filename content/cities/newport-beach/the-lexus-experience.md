@@ -1,5 +1,5 @@
 ---
 title: "The Lexus Experience"
 url: /newport-beach/the-lexus-experience/
-shop: Autohaus
+shop: car
 ---

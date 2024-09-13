@@ -1,5 +1,5 @@
 ---
 title: "Hollister Furniture"
 url: /hollister/hollister-furniture/
-shop: Möbel
+shop: furniture
 ---

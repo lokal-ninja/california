@@ -1,5 +1,5 @@
 ---
 title: "Dollar Star"
 url: /union-city/dollar-star/
-shop: Kramladen
+shop: variety store
 ---

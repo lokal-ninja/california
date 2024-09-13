@@ -1,5 +1,5 @@
 ---
 title: "El Super"
 url: /fontana/el-super-sierra-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

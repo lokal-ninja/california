@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /la-mirada/shell/
-shop: Lebensmittel
+shop: convenience
 ---

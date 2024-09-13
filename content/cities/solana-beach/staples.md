@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /solana-beach/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

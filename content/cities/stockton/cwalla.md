@@ -1,5 +1,5 @@
 ---
 title: "CWallA"
 url: /stockton/cwalla/
-shop: Allgemein
+shop: shop
 ---

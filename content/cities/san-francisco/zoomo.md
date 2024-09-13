@@ -1,5 +1,5 @@
 ---
 title: "Zoomo"
 url: /san-francisco/zoomo/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nailnation"
 url: /los-angeles/nailnation/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /grass-valley/target/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /chino/ross/
-shop: Warenhaus
+shop: department store
 ---

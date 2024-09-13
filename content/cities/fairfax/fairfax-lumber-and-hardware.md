@@ -1,5 +1,5 @@
 ---
 title: "Fairfax Lumber and Hardware"
 url: /fairfax/fairfax-lumber-and-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

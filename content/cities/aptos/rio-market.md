@@ -1,5 +1,5 @@
 ---
 title: "Rio Market"
 url: /aptos/rio-market/
-shop: Lebensmittel
+shop: convenience
 ---

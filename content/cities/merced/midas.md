@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /merced/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

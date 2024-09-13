@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /reseda/albertsons/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /modesto/michaels/
-shop: Basteln
+shop: craft
 ---

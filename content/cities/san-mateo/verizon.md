@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /san-mateo/verizon/
-shop: Handy
+shop: mobile phone
 ---

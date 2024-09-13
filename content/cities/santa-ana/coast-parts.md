@@ -1,5 +1,5 @@
 ---
 title: "Coast Parts"
 url: /santa-ana/coast-parts/
-shop: Allgemein
+shop: shop
 ---

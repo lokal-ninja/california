@@ -1,5 +1,5 @@
 ---
 title: "Social Salon"
 url: /palo-alto/social-salon/
-shop: Friseur
+shop: hairdresser
 ---

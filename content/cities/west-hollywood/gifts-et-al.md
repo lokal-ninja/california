@@ -1,5 +1,5 @@
 ---
 title: "Gifts et al"
 url: /west-hollywood/gifts-et-al/
-shop: Andenken
+shop: gift
 ---

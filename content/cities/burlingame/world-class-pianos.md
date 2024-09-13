@@ -1,5 +1,5 @@
 ---
 title: "World Class Pianos"
 url: /burlingame/world-class-pianos/
-shop: Instrumente
+shop: musical instrument
 ---

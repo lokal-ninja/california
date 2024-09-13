@@ -1,5 +1,5 @@
 ---
 title: "Browser Books"
 url: /san-francisco/browser-books/
-shop: Bücher
+shop: books
 ---

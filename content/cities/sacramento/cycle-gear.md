@@ -1,5 +1,5 @@
 ---
 title: "Cycle Gear"
 url: /sacramento/cycle-gear/
-shop: Kleidung
+shop: clothes
 ---

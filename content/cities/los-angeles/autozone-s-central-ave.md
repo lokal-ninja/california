@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /los-angeles/autozone-s-central-ave/
-shop: Autoteile
+shop: car parts
 ---

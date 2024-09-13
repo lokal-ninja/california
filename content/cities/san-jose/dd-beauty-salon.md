@@ -1,5 +1,5 @@
 ---
 title: "DD Beauty Salon"
 url: /san-jose/dd-beauty-salon/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beverly Kenmore Check Cashing"
 url: /wilshire-center/beverly-kenmore-check-cashing/
-shop: Leiher
+shop: pawnbroker
 ---

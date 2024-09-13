@@ -1,5 +1,5 @@
 ---
 title: "Lucky Stop Liquor"
 url: /venice/lucky-stop-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

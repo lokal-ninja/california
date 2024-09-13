@@ -1,5 +1,5 @@
 ---
 title: "Lavande Nail Spa"
 url: /san-francisco/lavande-nail-spa/
-shop: Kosmetik
+shop: beauty
 ---

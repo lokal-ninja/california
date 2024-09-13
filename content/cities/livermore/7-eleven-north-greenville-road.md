@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
 url: /livermore/7-eleven-north-greenville-road/
-shop: Lebensmittel
+shop: convenience
 ---

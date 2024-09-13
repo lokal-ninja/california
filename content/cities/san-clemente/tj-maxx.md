@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /san-clemente/tj-maxx/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /chula-vista/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

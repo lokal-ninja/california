@@ -1,5 +1,5 @@
 ---
 title: "Cricket Wireless"
 url: /san-diego/cricket-wireless-euclid-avenue/
-shop: Handy
+shop: mobile phone
 ---

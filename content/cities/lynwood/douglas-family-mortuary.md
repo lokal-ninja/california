@@ -1,5 +1,5 @@
 ---
 title: "Douglas Family Mortuary"
 url: /lynwood/douglas-family-mortuary/
-shop: Bestattungen
+shop: funeral directors
 ---

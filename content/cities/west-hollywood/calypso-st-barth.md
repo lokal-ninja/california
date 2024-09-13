@@ -1,5 +1,5 @@
 ---
 title: "Calypso St. Barth"
 url: /west-hollywood/calypso-st-barth/
-shop: Kleidung
+shop: clothes
 ---

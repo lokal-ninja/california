@@ -1,5 +1,5 @@
 ---
 title: "Tesla"
 url: /temecula/tesla/
-shop: Autohaus
+shop: car
 ---

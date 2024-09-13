@@ -1,5 +1,5 @@
 ---
 title: "Art Glass Studio"
 url: /livermore/art-glass-studio/
-shop: Andenken
+shop: gift
 ---

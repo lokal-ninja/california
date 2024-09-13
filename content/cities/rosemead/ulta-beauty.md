@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /rosemead/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

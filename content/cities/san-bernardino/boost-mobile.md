@@ -1,5 +1,5 @@
 ---
 title: "Boost Mobile"
 url: /san-bernardino/boost-mobile/
-shop: Handy
+shop: mobile phone
 ---

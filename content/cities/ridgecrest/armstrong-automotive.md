@@ -1,5 +1,5 @@
 ---
 title: "Armstrong Automotive"
 url: /ridgecrest/armstrong-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

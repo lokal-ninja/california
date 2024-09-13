@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
 url: /turlock/old-navy/
-shop: Kleidung
+shop: clothes
 ---

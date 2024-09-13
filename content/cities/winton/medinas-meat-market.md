@@ -1,5 +1,5 @@
 ---
 title: "Medina's Meat Market"
 url: /winton/medinas-meat-market/
-shop: Metzgerei
+shop: butcher
 ---

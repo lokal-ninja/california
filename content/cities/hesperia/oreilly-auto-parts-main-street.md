@@ -1,5 +1,5 @@
 ---
 title: "O'Reilly Auto Parts"
 url: /hesperia/oreilly-auto-parts-main-street/
-shop: Autoteile
+shop: car parts
 ---

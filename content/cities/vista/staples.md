@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /vista/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

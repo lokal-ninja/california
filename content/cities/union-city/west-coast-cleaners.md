@@ -1,5 +1,5 @@
 ---
 title: "West Coast Cleaners"
 url: /union-city/west-coast-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

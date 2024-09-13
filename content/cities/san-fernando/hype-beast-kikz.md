@@ -1,5 +1,5 @@
 ---
 title: "Hype Beast Kikz"
 url: /san-fernando/hype-beast-kikz/
-shop: Schuhe
+shop: shoes
 ---

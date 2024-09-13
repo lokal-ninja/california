@@ -1,5 +1,5 @@
 ---
 title: "Purple"
 url: /fresno/purple/
-shop: Betten
+shop: bed
 ---

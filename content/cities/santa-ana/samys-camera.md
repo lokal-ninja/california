@@ -1,5 +1,5 @@
 ---
 title: "Samy's Camera"
 url: /santa-ana/samys-camera/
-shop: Kamera
+shop: camera
 ---

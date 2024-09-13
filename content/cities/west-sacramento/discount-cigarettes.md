@@ -1,5 +1,5 @@
 ---
 title: "Discount Cigarettes"
 url: /west-sacramento/discount-cigarettes/
-shop: Tabak
+shop: tobacco
 ---

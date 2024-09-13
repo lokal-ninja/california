@@ -1,5 +1,5 @@
 ---
 title: "Foster-Gardner Inc."
 url: /coachella/foster-gardner-inc/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valliani Jewelers"
 url: /fresno/valliani-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

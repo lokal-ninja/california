@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /mammoth-lakes/vons/
-shop: Supermarkt
+shop: supermarket
 ---

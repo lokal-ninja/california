@@ -1,5 +1,5 @@
 ---
 title: "DeMartini Orchard"
 url: /los-altos/demartini-orchard/
-shop: Supermarkt
+shop: supermarket
 ---

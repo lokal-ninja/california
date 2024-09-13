@@ -1,5 +1,5 @@
 ---
 title: "Slakey Brothers"
 url: /san-jose/slakey-brothers/
-shop: Baustoffe
+shop: trade
 ---

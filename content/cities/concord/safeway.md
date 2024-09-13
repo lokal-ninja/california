@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /concord/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

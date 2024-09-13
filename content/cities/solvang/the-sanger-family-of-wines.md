@@ -1,5 +1,5 @@
 ---
 title: "The Sanger Family of Wines"
 url: /solvang/the-sanger-family-of-wines/
-shop: Spirituosen
+shop: alcohol
 ---

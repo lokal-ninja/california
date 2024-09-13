@@ -1,5 +1,5 @@
 ---
 title: "Contractors' Warehouse"
 url: /pacoima/contractors-warehouse/
-shop: Baumarkt
+shop: doityourself
 ---

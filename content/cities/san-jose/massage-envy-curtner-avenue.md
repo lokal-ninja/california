@@ -1,5 +1,5 @@
 ---
 title: "Massage Envy"
 url: /san-jose/massage-envy-curtner-avenue/
-shop: Massage
+shop: massage
 ---

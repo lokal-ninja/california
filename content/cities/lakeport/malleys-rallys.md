@@ -1,5 +1,5 @@
 ---
 title: "Malley's Rallys"
 url: /lakeport/malleys-rallys/
-shop: Autowerkstatt
+shop: car repair
 ---

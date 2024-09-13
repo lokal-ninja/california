@@ -1,5 +1,5 @@
 ---
 title: "CarMax"
 url: /bakersfield/carmax/
-shop: Autohaus
+shop: car
 ---

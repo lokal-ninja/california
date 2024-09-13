@@ -1,5 +1,5 @@
 ---
 title: "Ralphs"
 url: /fullerton/ralphs/
-shop: Supermarkt
+shop: supermarket
 ---

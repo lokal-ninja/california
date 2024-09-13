@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /novato/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

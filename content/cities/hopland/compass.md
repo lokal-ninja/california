@@ -1,5 +1,5 @@
 ---
 title: "Compass"
 url: /hopland/compass/
-shop: Immobilien
+shop: estate agent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LoveSac"
 url: /fresno/lovesac/
-shop: Möbel
+shop: furniture
 ---

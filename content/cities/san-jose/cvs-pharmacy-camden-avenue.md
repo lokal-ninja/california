@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /san-jose/cvs-pharmacy-camden-avenue/
-shop: Drogerie
+shop: chemist
 ---

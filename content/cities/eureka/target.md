@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /eureka/target/
-shop: Warenhaus
+shop: department store
 ---

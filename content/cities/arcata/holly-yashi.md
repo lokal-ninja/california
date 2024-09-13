@@ -1,5 +1,5 @@
 ---
 title: "holly yashi"
 url: /arcata/holly-yashi/
-shop: Schmuck
+shop: jewelry
 ---

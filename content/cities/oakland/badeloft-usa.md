@@ -1,5 +1,5 @@
 ---
 title: "Badeloft USA"
 url: /oakland/badeloft-usa/
-shop: Badezimmer
+shop: bathroom
 ---

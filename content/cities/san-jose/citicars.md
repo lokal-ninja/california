@@ -1,5 +1,5 @@
 ---
 title: "CitiCars"
 url: /san-jose/citicars/
-shop: Autohaus
+shop: car
 ---

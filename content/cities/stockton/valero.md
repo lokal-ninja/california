@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /stockton/valero/
-shop: Lebensmittel
+shop: convenience
 ---

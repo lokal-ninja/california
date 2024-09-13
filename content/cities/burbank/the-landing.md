@@ -1,5 +1,5 @@
 ---
 title: "The Landing"
 url: /burbank/the-landing/
-shop: Spirituosen
+shop: alcohol
 ---

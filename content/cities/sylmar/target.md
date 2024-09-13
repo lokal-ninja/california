@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /sylmar/target/
-shop: Warenhaus
+shop: department store
 ---

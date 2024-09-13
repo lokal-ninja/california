@@ -1,5 +1,5 @@
 ---
 title: "Forest Tailoring"
 url: /san-jose/forest-tailoring/
-shop: Schneiderei
+shop: tailor
 ---

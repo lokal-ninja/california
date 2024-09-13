@@ -1,5 +1,5 @@
 ---
 title: "Bonneau"
 url: /sonoma/bonneau/
-shop: Lebensmittel
+shop: convenience
 ---

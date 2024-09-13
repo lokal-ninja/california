@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /citrus-heights/gamestop/
-shop: Videospiele
+shop: video games
 ---

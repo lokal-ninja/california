@@ -1,5 +1,5 @@
 ---
 title: "Ryder"
 url: /shafter/ryder/
-shop: Mieten
+shop: storage rental
 ---

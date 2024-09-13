@@ -1,5 +1,5 @@
 ---
 title: "Nutrimart"
 url: /la-mesa/nutrimart/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

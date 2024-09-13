@@ -1,5 +1,5 @@
 ---
 title: "Honda Used Cars"
 url: /stockton/honda-used-cars/
-shop: Autohaus
+shop: car
 ---

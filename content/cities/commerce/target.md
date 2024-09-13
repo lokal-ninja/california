@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /commerce/target/
-shop: Warenhaus
+shop: department store
 ---

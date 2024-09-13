@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /orange/claires/
-shop: Modehaus
+shop: boutique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /fresno/walgreens/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Smog Spot"
 url: /elk-grove/the-smog-spot/
-shop: Autowerkstatt
+shop: car repair
 ---

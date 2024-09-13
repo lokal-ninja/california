@@ -1,5 +1,5 @@
 ---
 title: "Store"
 url: /calexico/store/
-shop: Lebensmittel
+shop: convenience
 ---

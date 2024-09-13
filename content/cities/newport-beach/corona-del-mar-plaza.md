@@ -1,5 +1,5 @@
 ---
 title: "Corona del Mar Plaza"
 url: /newport-beach/corona-del-mar-plaza/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jersey Mike's Subs"
 url: /lake-forest/jersey-mikes-subs/
-shop: Feinkost
+shop: deli
 ---

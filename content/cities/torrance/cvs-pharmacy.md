@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /torrance/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

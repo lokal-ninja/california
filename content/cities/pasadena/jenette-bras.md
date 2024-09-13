@@ -1,5 +1,5 @@
 ---
 title: "Jenette Bras"
 url: /pasadena/jenette-bras/
-shop: Kleidung
+shop: clothes
 ---

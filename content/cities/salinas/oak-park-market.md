@@ -1,5 +1,5 @@
 ---
 title: "Oak Park Market"
 url: /salinas/oak-park-market/
-shop: Supermarkt
+shop: supermarket
 ---

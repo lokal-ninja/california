@@ -1,5 +1,5 @@
 ---
 title: "Pink Sassy Nails"
 url: /gilroy/pink-sassy-nails/
-shop: Kosmetik
+shop: beauty
 ---

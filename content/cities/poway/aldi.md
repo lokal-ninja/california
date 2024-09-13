@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /poway/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

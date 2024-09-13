@@ -1,5 +1,5 @@
 ---
 title: "Lamy"
 url: /san-francisco/lamy/
-shop: Schreibwaren
+shop: office supplies
 ---

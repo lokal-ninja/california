@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /buena-park/michaels/
-shop: Basteln
+shop: craft
 ---

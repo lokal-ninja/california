@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /temecula/target/
-shop: Warenhaus
+shop: department store
 ---

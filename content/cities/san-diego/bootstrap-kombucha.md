@@ -1,5 +1,5 @@
 ---
 title: "Bootstrap Kombucha"
 url: /san-diego/bootstrap-kombucha/
-shop: Tee
+shop: tea
 ---

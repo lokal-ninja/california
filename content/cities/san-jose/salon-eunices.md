@@ -1,5 +1,5 @@
 ---
 title: "Salon Eunice's"
 url: /san-jose/salon-eunices/
-shop: Friseur
+shop: hairdresser
 ---

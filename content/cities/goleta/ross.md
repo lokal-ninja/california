@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /goleta/ross/
-shop: Warenhaus
+shop: department store
 ---

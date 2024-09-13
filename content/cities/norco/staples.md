@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /norco/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

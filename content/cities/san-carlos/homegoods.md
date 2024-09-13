@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /san-carlos/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

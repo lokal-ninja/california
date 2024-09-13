@@ -1,5 +1,5 @@
 ---
 title: "Agua Dulce Winery"
 url: /agua-dulce/agua-dulce-winery/
-shop: Wein
+shop: wine
 ---

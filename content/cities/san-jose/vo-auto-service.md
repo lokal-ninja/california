@@ -1,5 +1,5 @@
 ---
 title: "VO Auto Service"
 url: /san-jose/vo-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

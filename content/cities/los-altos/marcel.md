@@ -1,5 +1,5 @@
 ---
 title: "Marcel"
 url: /los-altos/marcel/
-shop: Schmuck
+shop: jewelry
 ---

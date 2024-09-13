@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /modesto/ampm/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Professor Toy"
 url: /fresno/professor-toy/
-shop: Spielzeug
+shop: toys
 ---

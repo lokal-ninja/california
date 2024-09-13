@@ -1,5 +1,5 @@
 ---
 title: "Hillsdale Market"
 url: /san-jose/hillsdale-market/
-shop: Lebensmittel
+shop: convenience
 ---

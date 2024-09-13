@@ -1,5 +1,5 @@
 ---
 title: "Trader Joe's"
 url: /san-jose/trader-joes-bollinger-road/
-shop: Supermarkt
+shop: supermarket
 ---

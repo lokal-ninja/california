@@ -1,5 +1,5 @@
 ---
 title: "Chung Chou City"
 url: /milpitas/chung-chou-city/
-shop: Kräuter
+shop: herbalist
 ---

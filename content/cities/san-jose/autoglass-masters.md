@@ -1,5 +1,5 @@
 ---
 title: "Autoglass Masters"
 url: /san-jose/autoglass-masters/
-shop: Autowerkstatt
+shop: car repair
 ---

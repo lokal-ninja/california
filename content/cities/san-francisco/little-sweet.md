@@ -1,5 +1,5 @@
 ---
 title: "Little Sweet"
 url: /san-francisco/little-sweet/
-shop: Getränke
+shop: beverages
 ---

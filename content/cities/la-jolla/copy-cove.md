@@ -1,5 +1,5 @@
 ---
 title: "Copy Cove"
 url: /la-jolla/copy-cove/
-shop: Kopieren
+shop: copyshop
 ---

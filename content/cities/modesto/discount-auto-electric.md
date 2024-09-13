@@ -1,5 +1,5 @@
 ---
 title: "Discount Auto Electric"
 url: /modesto/discount-auto-electric/
-shop: Autowerkstatt
+shop: car repair
 ---

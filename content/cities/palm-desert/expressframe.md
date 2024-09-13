@@ -1,5 +1,5 @@
 ---
 title: "Expressframe"
 url: /palm-desert/expressframe/
-shop: Rahmen
+shop: frame
 ---

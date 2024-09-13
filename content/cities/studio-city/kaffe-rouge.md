@@ -1,5 +1,5 @@
 ---
 title: "Kaffe Rouge"
 url: /studio-city/kaffe-rouge/
-shop: Tabak
+shop: tobacco
 ---

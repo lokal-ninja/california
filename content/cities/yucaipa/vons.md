@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /yucaipa/vons/
-shop: Supermarkt
+shop: supermarket
 ---

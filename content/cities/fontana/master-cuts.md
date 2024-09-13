@@ -1,5 +1,5 @@
 ---
 title: "Master Cuts"
 url: /fontana/master-cuts/
-shop: Friseur
+shop: hairdresser
 ---

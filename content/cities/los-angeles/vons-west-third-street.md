@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /los-angeles/vons-west-third-street/
-shop: Supermarkt
+shop: supermarket
 ---

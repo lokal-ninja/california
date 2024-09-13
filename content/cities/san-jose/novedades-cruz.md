@@ -1,5 +1,5 @@
 ---
 title: "Novedades Cruz"
 url: /san-jose/novedades-cruz/
-shop: Andenken
+shop: gift
 ---

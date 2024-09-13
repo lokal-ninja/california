@@ -1,5 +1,5 @@
 ---
 title: "WinCo Foods"
 url: /fontana/winco-foods/
-shop: Supermarkt
+shop: supermarket
 ---

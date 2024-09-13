@@ -1,5 +1,5 @@
 ---
 title: "Perfumania"
 url: /camarillo/perfumania/
-shop: Parfümerie
+shop: perfumery
 ---

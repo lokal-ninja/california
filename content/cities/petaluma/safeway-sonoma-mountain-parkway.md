@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /petaluma/safeway-sonoma-mountain-parkway/
-shop: Supermarkt
+shop: supermarket
 ---

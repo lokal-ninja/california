@@ -1,5 +1,5 @@
 ---
 title: "V-Mart"
 url: /san-jose/v-mart/
-shop: Lebensmittel
+shop: convenience
 ---

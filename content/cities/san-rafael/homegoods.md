@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /san-rafael/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

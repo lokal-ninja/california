@@ -1,5 +1,5 @@
 ---
 title: "Starlight Retail Inc"
 url: /los-angeles/starlight-retail-inc/
-shop: Elektronik
+shop: electronics
 ---

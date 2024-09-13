@@ -1,5 +1,5 @@
 ---
 title: "Masterpiece Tattoo"
 url: /san-francisco/masterpiece-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /pleasanton/autozone/
-shop: Autoteile
+shop: car parts
 ---

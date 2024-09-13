@@ -1,5 +1,5 @@
 ---
 title: "Epiphany"
 url: /carmel-by-the-sea/epiphany/
-shop: Kleidung
+shop: clothes
 ---

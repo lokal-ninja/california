@@ -1,5 +1,5 @@
 ---
 title: "Arbon Equipment Corporation"
 url: /elk-grove/arbon-equipment-corporation/
-shop: Baustoffe
+shop: trade
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ralphs"
 url: /oxnard/ralphs/
-shop: Supermarkt
+shop: supermarket
 ---

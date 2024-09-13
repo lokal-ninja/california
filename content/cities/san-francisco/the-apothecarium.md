@@ -1,5 +1,5 @@
 ---
 title: "The Apothecarium"
 url: /san-francisco/the-apothecarium/
-shop: Hanf
+shop: cannabis
 ---

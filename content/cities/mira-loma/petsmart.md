@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /mira-loma/petsmart/
-shop: Tiere
+shop: pet
 ---

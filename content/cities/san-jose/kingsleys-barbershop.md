@@ -1,5 +1,5 @@
 ---
 title: "Kingsley’s Barbershop"
 url: /san-jose/kingsleys-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

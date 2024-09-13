@@ -1,5 +1,5 @@
 ---
 title: "Oakland Kia"
 url: /oakland/oakland-kia/
-shop: Autohaus
+shop: car
 ---

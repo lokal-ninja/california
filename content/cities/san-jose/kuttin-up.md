@@ -1,5 +1,5 @@
 ---
 title: "Kuttin Up!"
 url: /san-jose/kuttin-up/
-shop: Friseur
+shop: hairdresser
 ---

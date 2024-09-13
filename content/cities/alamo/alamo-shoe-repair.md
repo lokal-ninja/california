@@ -1,5 +1,5 @@
 ---
 title: "Alamo Shoe Repair"
 url: /alamo/alamo-shoe-repair/
-shop: Schuhe
+shop: shoes
 ---

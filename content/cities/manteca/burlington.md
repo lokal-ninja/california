@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /manteca/burlington/
-shop: Warenhaus
+shop: department store
 ---

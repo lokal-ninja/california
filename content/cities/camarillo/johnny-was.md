@@ -1,5 +1,5 @@
 ---
 title: "Johnny Was"
 url: /camarillo/johnny-was/
-shop: Kleidung
+shop: clothes
 ---

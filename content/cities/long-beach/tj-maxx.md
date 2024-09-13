@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /long-beach/tj-maxx/
-shop: Warenhaus
+shop: department store
 ---

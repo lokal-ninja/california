@@ -1,5 +1,5 @@
 ---
 title: "TerraBrazil"
 url: /san-clemente/terrabrazil/
-shop: Kleidung
+shop: clothes
 ---

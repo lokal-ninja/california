@@ -1,5 +1,5 @@
 ---
 title: "Ralphs"
 url: /pasadena/ralphs/
-shop: Supermarkt
+shop: supermarket
 ---

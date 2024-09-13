@@ -1,5 +1,5 @@
 ---
 title: "Ralphs"
 url: /venice/ralphs/
-shop: Supermarkt
+shop: supermarket
 ---

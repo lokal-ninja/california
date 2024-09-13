@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /elk-grove/great-clips/
-shop: Friseur
+shop: hairdresser
 ---

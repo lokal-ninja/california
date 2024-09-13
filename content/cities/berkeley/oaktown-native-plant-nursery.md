@@ -1,5 +1,5 @@
 ---
 title: "Oaktown Native Plant Nursery"
 url: /berkeley/oaktown-native-plant-nursery/
-shop: Garten-Center
+shop: garden centre
 ---

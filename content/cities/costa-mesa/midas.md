@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /costa-mesa/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

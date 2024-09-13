@@ -1,5 +1,5 @@
 ---
 title: "Art In Stone"
 url: /colma/art-in-stone/
-shop: Allgemein
+shop: shop
 ---

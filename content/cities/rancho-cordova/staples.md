@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /rancho-cordova/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

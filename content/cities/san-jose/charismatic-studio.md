@@ -1,5 +1,5 @@
 ---
 title: "Charismatic Studio"
 url: /san-jose/charismatic-studio/
-shop: Kosmetik
+shop: beauty
 ---

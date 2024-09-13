@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /san-luis-obispo/rei/
-shop: Outdoor
+shop: outdoor
 ---

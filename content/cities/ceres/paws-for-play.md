@@ -1,5 +1,5 @@
 ---
 title: "Paws For Play"
 url: /ceres/paws-for-play/
-shop: Tiere
+shop: pet
 ---

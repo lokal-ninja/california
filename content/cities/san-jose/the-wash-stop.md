@@ -1,5 +1,5 @@
 ---
 title: "The Wash Stop"
 url: /san-jose/the-wash-stop/
-shop: Wäscherei
+shop: laundry
 ---

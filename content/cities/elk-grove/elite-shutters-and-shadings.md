@@ -1,5 +1,5 @@
 ---
 title: "Elite Shutters and Shadings"
 url: /elk-grove/elite-shutters-and-shadings/
-shop: Jalousien
+shop: window blind
 ---

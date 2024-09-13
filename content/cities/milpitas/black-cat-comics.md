@@ -1,5 +1,5 @@
 ---
 title: "Black Cat Comics"
 url: /milpitas/black-cat-comics/
-shop: Bücher
+shop: books
 ---

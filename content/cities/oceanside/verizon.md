@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /oceanside/verizon/
-shop: Handy
+shop: mobile phone
 ---

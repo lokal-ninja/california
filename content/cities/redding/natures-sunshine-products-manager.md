@@ -1,5 +1,5 @@
 ---
 title: "Nature's Sunshine Products Manager"
 url: /redding/natures-sunshine-products-manager/
-shop: Bioladen
+shop: health food
 ---

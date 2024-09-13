@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /cupertino/target/
-shop: Warenhaus
+shop: department store
 ---

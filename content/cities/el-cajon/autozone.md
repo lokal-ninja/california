@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /el-cajon/autozone/
-shop: Autoteile
+shop: car parts
 ---

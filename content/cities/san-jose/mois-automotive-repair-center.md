@@ -1,5 +1,5 @@
 ---
 title: "Moi's Automotive Repair Center"
 url: /san-jose/mois-automotive-repair-center/
-shop: Autowerkstatt
+shop: car repair
 ---

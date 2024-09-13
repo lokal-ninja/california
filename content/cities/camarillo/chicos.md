@@ -1,5 +1,5 @@
 ---
 title: "Chico's"
 url: /camarillo/chicos/
-shop: Kleidung
+shop: clothes
 ---

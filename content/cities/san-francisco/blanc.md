@@ -1,5 +1,5 @@
 ---
 title: "blanc"
 url: /san-francisco/blanc/
-shop: Kleidung
+shop: clothes
 ---

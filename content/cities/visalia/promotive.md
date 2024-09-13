@@ -1,5 +1,5 @@
 ---
 title: "ProMotive"
 url: /visalia/promotive/
-shop: Autowerkstatt
+shop: car repair
 ---

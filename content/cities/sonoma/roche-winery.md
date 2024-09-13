@@ -1,5 +1,5 @@
 ---
 title: "Roche Winery"
 url: /sonoma/roche-winery/
-shop: Spirituosen
+shop: alcohol
 ---

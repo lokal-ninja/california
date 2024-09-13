@@ -1,5 +1,5 @@
 ---
 title: "Giant Robot"
 url: /los-angeles/giant-robot/
-shop: Andenken
+shop: gift
 ---

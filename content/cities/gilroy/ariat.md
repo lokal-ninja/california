@@ -1,5 +1,5 @@
 ---
 title: "Ariat"
 url: /gilroy/ariat/
-shop: Kleidung
+shop: clothes
 ---

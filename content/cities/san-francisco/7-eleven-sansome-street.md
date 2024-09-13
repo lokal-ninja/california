@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
 url: /san-francisco/7-eleven-sansome-street/
-shop: Lebensmittel
+shop: convenience
 ---

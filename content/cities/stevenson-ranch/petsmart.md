@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /stevenson-ranch/petsmart/
-shop: Tiere
+shop: pet
 ---

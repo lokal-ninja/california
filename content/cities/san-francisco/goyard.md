@@ -1,5 +1,5 @@
 ---
 title: "Goyard"
 url: /san-francisco/goyard/
-shop: Modehaus
+shop: boutique
 ---

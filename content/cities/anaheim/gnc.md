@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /anaheim/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

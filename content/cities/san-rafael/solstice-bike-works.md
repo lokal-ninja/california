@@ -1,5 +1,5 @@
 ---
 title: "Solstice Bike Works"
 url: /san-rafael/solstice-bike-works/
-shop: Fahrrad
+shop: bicycle
 ---

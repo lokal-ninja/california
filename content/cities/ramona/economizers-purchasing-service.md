@@ -1,5 +1,5 @@
 ---
 title: "Economizers Purchasing Service"
 url: /ramona/economizers-purchasing-service/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pools by Nelson"
 url: /ceres/pools-by-nelson/
-shop: Pool
+shop: swimming pool
 ---

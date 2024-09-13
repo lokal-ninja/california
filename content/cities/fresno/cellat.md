@@ -1,5 +1,5 @@
 ---
 title: "Cellat"
 url: /fresno/cellat/
-shop: Handy
+shop: mobile phone
 ---

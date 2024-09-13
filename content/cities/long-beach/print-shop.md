@@ -1,5 +1,5 @@
 ---
 title: "Print Shop"
 url: /long-beach/print-shop/
-shop: Kopieren
+shop: copyshop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /wasco/ross/
-shop: Warenhaus
+shop: department store
 ---

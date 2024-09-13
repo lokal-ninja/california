@@ -1,5 +1,5 @@
 ---
 title: "Cycle Gear"
 url: /san-diego/cycle-gear/
-shop: Kleidung
+shop: clothes
 ---

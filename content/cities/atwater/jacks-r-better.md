@@ -1,5 +1,5 @@
 ---
 title: "Jack's R Better"
 url: /atwater/jacks-r-better/
-shop: Autowerkstatt
+shop: car repair
 ---

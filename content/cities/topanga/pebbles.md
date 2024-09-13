@@ -1,5 +1,5 @@
 ---
 title: "Pebbles"
 url: /topanga/pebbles/
-shop: Kleidung
+shop: clothes
 ---

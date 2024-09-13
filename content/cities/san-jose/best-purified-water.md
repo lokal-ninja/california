@@ -1,5 +1,5 @@
 ---
 title: "Best Purified Water"
 url: /san-jose/best-purified-water/
-shop: Wasser
+shop: water
 ---

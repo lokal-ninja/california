@@ -1,5 +1,5 @@
 ---
 title: "ARCO"
 url: /riverside/arco/
-shop: Lebensmittel
+shop: convenience
 ---

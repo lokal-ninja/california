@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /capitola/kohls/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Harley-Davidson Motorcycles"
 url: /merced/harley-davidson-motorcycles/
-shop: Motorrad
+shop: motorcycle
 ---

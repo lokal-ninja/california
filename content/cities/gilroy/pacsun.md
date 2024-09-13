@@ -1,5 +1,5 @@
 ---
 title: "PacSun"
 url: /gilroy/pacsun/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Graciela's Party"
 url: /north-hills/gracielas-party/
-shop: Partyzubehör
+shop: party
 ---

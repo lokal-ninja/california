@@ -1,5 +1,5 @@
 ---
 title: "Prime Time Nutrition"
 url: /salinas/prime-time-nutrition/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

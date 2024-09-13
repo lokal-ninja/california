@@ -1,5 +1,5 @@
 ---
 title: "Maris Delights"
 url: /san-jose/maris-delights/
-shop: Konditorei
+shop: pastry
 ---

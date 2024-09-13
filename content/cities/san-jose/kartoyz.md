@@ -1,5 +1,5 @@
 ---
 title: "Kartoyz"
 url: /san-jose/kartoyz/
-shop: Autowerkstatt
+shop: car repair
 ---

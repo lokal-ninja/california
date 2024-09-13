@@ -1,5 +1,5 @@
 ---
 title: "Moncler"
 url: /santa-clara/moncler/
-shop: Kleidung
+shop: clothes
 ---

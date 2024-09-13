@@ -1,5 +1,5 @@
 ---
 title: "Tobacco Zone"
 url: /fontana/tobacco-zone/
-shop: Tabak
+shop: tobacco
 ---

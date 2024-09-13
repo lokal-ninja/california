@@ -1,5 +1,5 @@
 ---
 title: "Fancy Fur Pet Salon"
 url: /woodland-hills/fancy-fur-pet-salon/
-shop: Tiersalon
+shop: pet grooming
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /garden-grove/vons-valley-view-street/
-shop: Supermarkt
+shop: supermarket
 ---

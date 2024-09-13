@@ -1,5 +1,5 @@
 ---
 title: "AmayaS' Auto Repair"
 url: /san-rafael/amayas-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

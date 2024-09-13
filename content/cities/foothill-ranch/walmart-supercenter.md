@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /foothill-ranch/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

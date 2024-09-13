@@ -1,5 +1,5 @@
 ---
 title: "Always Pure Water"
 url: /san-jose/always-pure-water/
-shop: Wasser
+shop: water
 ---

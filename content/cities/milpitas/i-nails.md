@@ -1,5 +1,5 @@
 ---
 title: "I Nails"
 url: /milpitas/i-nails/
-shop: Kosmetik
+shop: beauty
 ---

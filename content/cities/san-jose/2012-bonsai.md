@@ -1,5 +1,5 @@
 ---
 title: "2012 Bonsai"
 url: /san-jose/2012-bonsai/
-shop: Garten-Center
+shop: garden centre
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blackgrapes"
 url: /san-jose/blackgrapes/
-shop: Friseur
+shop: hairdresser
 ---

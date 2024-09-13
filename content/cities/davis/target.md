@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /davis/target/
-shop: Warenhaus
+shop: department store
 ---

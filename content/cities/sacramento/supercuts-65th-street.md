@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /sacramento/supercuts-65th-street/
-shop: Friseur
+shop: hairdresser
 ---

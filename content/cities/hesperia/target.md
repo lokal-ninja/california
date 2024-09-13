@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /hesperia/target/
-shop: Warenhaus
+shop: department store
 ---

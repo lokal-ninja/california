@@ -1,5 +1,5 @@
 ---
 title: "London Reign"
 url: /los-gatos/london-reign/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /santa-fe-springs/target/
-shop: Warenhaus
+shop: department store
 ---

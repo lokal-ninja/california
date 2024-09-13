@@ -1,5 +1,5 @@
 ---
 title: "Removery"
 url: /san-jose/removery/
-shop: Kosmetik
+shop: beauty
 ---

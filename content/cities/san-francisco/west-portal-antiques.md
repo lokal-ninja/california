@@ -1,5 +1,5 @@
 ---
 title: "West Portal Antiques"
 url: /san-francisco/west-portal-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

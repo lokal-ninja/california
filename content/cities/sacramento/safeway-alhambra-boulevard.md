@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /sacramento/safeway-alhambra-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

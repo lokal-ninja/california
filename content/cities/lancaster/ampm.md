@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /lancaster/ampm/
-shop: Lebensmittel
+shop: convenience
 ---

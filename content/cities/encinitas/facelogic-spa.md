@@ -1,5 +1,5 @@
 ---
 title: "Facelogic Spa"
 url: /encinitas/facelogic-spa/
-shop: Kosmetik
+shop: beauty
 ---

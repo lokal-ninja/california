@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
 url: /fresno/jiffy-lube-west-spruce-avenue/
-shop: Autowerkstatt
+shop: car repair
 ---

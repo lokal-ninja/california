@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /tracy/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sprouts Farmers Market"
 url: /brentwood/sprouts-farmers-market/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /reseda/vons/
-shop: Supermarkt
+shop: supermarket
 ---

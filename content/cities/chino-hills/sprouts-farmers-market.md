@@ -1,5 +1,5 @@
 ---
 title: "Sprouts Farmers Market"
 url: /chino-hills/sprouts-farmers-market/
-shop: Supermarkt
+shop: supermarket
 ---

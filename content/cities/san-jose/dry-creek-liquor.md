@@ -1,5 +1,5 @@
 ---
 title: "Dry Creek Liquor"
 url: /san-jose/dry-creek-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

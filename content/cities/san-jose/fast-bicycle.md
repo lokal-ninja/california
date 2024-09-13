@@ -1,5 +1,5 @@
 ---
 title: "Fast Bicycle"
 url: /san-jose/fast-bicycle/
-shop: Fahrrad
+shop: bicycle
 ---

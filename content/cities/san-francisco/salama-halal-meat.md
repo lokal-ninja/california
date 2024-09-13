@@ -1,5 +1,5 @@
 ---
 title: "Salama Halal Meat"
 url: /san-francisco/salama-halal-meat/
-shop: Metzgerei
+shop: butcher
 ---

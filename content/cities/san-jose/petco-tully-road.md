@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /san-jose/petco-tully-road/
-shop: Tiere
+shop: pet
 ---

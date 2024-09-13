@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /mountain-view/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

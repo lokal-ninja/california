@@ -1,5 +1,5 @@
 ---
 title: "Grand Venue"
 url: /los-angeles/grand-venue/
-shop: Bäckerei
+shop: bakery
 ---

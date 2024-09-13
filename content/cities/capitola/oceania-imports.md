@@ -1,5 +1,5 @@
 ---
 title: "Oceania Imports"
 url: /capitola/oceania-imports/
-shop: Kleidung
+shop: clothes
 ---

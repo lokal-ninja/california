@@ -1,5 +1,5 @@
 ---
 title: "Starlight Market"
 url: /san-francisco/starlight-market/
-shop: Lebensmittel
+shop: convenience
 ---

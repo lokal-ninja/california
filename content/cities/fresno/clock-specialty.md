@@ -1,5 +1,5 @@
 ---
 title: "Clock Specialty"
 url: /fresno/clock-specialty/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /livermore/kohls/
-shop: Warenhaus
+shop: department store
 ---

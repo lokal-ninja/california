@@ -1,5 +1,5 @@
 ---
 title: "Lula’s Chocolate"
 url: /santa-clara/lulas-chocolate/
-shop: Schokolade
+shop: chocolate
 ---

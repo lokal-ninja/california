@@ -1,5 +1,5 @@
 ---
 title: "Glamorous Nail Salon"
 url: /sunnyvale/glamorous-nail-salon/
-shop: Kosmetik
+shop: beauty
 ---

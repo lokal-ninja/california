@@ -1,5 +1,5 @@
 ---
 title: "The Dry Cleaner"
 url: /menlo-park/the-dry-cleaner/
-shop: Wäscherei
+shop: laundry
 ---

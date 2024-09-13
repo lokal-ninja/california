@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /camarillo/target/
-shop: Warenhaus
+shop: department store
 ---

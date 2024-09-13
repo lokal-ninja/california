@@ -1,5 +1,5 @@
 ---
 title: "Against the Grain"
 url: /long-beach/against-the-grain/
-shop: Friseur
+shop: hairdresser
 ---

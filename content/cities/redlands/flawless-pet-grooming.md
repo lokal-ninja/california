@@ -1,5 +1,5 @@
 ---
 title: "Flawless Pet Grooming"
 url: /redlands/flawless-pet-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

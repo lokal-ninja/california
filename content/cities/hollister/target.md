@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /hollister/target/
-shop: Warenhaus
+shop: department store
 ---

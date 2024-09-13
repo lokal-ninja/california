@@ -1,5 +1,5 @@
 ---
 title: "Anawalt Lumber"
 url: /north-hollywood/anawalt-lumber/
-shop: Eisenwaren
+shop: hardware
 ---

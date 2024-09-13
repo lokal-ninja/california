@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /alhambra/burlington/
-shop: Warenhaus
+shop: department store
 ---

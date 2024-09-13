@@ -1,5 +1,5 @@
 ---
 title: "Irene Neuwirth Jewelry"
 url: /west-hollywood/irene-neuwirth-jewelry/
-shop: Schmuck
+shop: jewelry
 ---

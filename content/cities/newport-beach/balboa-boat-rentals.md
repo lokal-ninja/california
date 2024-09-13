@@ -1,5 +1,5 @@
 ---
 title: "Balboa Boat Rentals"
 url: /newport-beach/balboa-boat-rentals/
-shop: Mieten
+shop: storage rental
 ---

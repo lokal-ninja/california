@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /spring-valley/circle-k-campo-road/
-shop: Lebensmittel
+shop: convenience
 ---

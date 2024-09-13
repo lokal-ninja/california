@@ -1,5 +1,5 @@
 ---
 title: "Le Gởi quà"
 url: /milpitas/le-goi-qua/
-shop: Reisebüro
+shop: travel agency
 ---

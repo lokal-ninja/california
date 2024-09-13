@@ -1,5 +1,5 @@
 ---
 title: "Beck's Shoes"
 url: /milpitas/becks-shoes/
-shop: Schuhe
+shop: shoes
 ---

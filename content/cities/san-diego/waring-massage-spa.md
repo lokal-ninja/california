@@ -1,5 +1,5 @@
 ---
 title: "Waring Massage Spa"
 url: /san-diego/waring-massage-spa/
-shop: Massage
+shop: massage
 ---

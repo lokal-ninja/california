@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /el-cajon/petsmart/
-shop: Tiere
+shop: pet
 ---

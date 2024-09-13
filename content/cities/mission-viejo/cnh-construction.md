@@ -1,5 +1,5 @@
 ---
 title: "CNH Construction"
 url: /mission-viejo/cnh-construction/
-shop: Küchen
+shop: kitchen
 ---

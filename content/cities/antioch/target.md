@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /antioch/target/
-shop: Warenhaus
+shop: department store
 ---

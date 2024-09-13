@@ -1,5 +1,5 @@
 ---
 title: "AAA"
 url: /roseville/aaa/
-shop: Reisebüro
+shop: travel agency
 ---

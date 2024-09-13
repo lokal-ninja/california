@@ -1,5 +1,5 @@
 ---
 title: "Forden's"
 url: /san-luis-obispo/fordens/
-shop: Haushaltsartikel
+shop: houseware
 ---

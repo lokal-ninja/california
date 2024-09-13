@@ -1,5 +1,5 @@
 ---
 title: "RCAT"
 url: /redding/rcat/
-shop: Autowerkstatt
+shop: car repair
 ---

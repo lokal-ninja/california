@@ -1,5 +1,5 @@
 ---
 title: "Airport Home Appliance"
 url: /roseville/airport-home-appliance/
-shop: Haushaltsgeräte
+shop: appliance
 ---

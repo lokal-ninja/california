@@ -1,5 +1,5 @@
 ---
 title: "Cigar Loft"
 url: /pleasant-hill/cigar-loft/
-shop: Tabak
+shop: tobacco
 ---

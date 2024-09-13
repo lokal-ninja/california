@@ -1,5 +1,5 @@
 ---
 title: "Finders Keepers"
 url: /san-luis-obispo/finders-keepers/
-shop: Kleidung
+shop: clothes
 ---

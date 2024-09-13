@@ -1,5 +1,5 @@
 ---
 title: "Up N' Atom soap"
 url: /felton/up-n-atom-soap/
-shop: Allgemein
+shop: shop
 ---

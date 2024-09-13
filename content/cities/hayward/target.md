@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /hayward/target/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /el-segundo/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

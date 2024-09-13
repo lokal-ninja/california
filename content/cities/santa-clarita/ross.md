@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /santa-clarita/ross/
-shop: Warenhaus
+shop: department store
 ---

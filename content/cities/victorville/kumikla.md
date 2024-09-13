@@ -1,5 +1,5 @@
 ---
 title: "Kumikla"
 url: /victorville/kumikla/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Payday Advance"
 url: /fullerton/payday-advance/
-shop: Leiher
+shop: pawnbroker
 ---

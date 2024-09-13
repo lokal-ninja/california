@@ -1,5 +1,5 @@
 ---
 title: "Paw Prints Salon"
 url: /union-city/paw-prints-salon/
-shop: Tiersalon
+shop: pet grooming
 ---

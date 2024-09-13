@@ -1,5 +1,5 @@
 ---
 title: "Northgate Market"
 url: /long-beach/northgate-market/
-shop: Supermarkt
+shop: supermarket
 ---

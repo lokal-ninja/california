@@ -1,5 +1,5 @@
 ---
 title: "Indian Groceries"
 url: /sacramento/indian-groceries/
-shop: Supermarkt
+shop: supermarket
 ---

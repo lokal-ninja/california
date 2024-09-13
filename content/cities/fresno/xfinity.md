@@ -1,5 +1,5 @@
 ---
 title: "Xfinity"
 url: /fresno/xfinity/
-shop: Handy
+shop: mobile phone
 ---

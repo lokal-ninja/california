@@ -1,5 +1,5 @@
 ---
 title: "Bagel Street Cafe"
 url: /alameda/bagel-street-cafe/
-shop: Bäckerei
+shop: bakery
 ---

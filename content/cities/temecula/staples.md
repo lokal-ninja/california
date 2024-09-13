@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /temecula/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

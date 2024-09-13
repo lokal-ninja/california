@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /merced/target/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sprout"
 url: /palo-alto/sprout/
-shop: Kleidung
+shop: clothes
 ---

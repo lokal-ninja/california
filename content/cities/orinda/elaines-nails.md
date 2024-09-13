@@ -1,5 +1,5 @@
 ---
 title: "Elaine's Nails"
 url: /orinda/elaines-nails/
-shop: Kosmetik
+shop: beauty
 ---

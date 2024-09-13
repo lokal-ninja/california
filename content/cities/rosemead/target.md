@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /rosemead/target/
-shop: Warenhaus
+shop: department store
 ---

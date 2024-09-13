@@ -1,5 +1,5 @@
 ---
 title: "Sprint Wireless"
 url: /capitola/sprint-wireless/
-shop: Handy
+shop: mobile phone
 ---

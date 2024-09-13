@@ -1,5 +1,5 @@
 ---
 title: "El Amigo Auto Service"
 url: /los-angeles/el-amigo-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

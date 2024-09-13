@@ -1,5 +1,5 @@
 ---
 title: "Christina Silveira"
 url: /san-jose/christina-silveira/
-shop: Friseur
+shop: hairdresser
 ---

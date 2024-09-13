@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /ontario/ross/
-shop: Warenhaus
+shop: department store
 ---

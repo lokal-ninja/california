@@ -1,5 +1,5 @@
 ---
 title: "Tesla Carlsbad"
 url: /carlsbad/tesla-carlsbad/
-shop: Autohaus
+shop: car
 ---

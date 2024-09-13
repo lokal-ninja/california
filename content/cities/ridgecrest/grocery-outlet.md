@@ -1,5 +1,5 @@
 ---
 title: "Grocery Outlet"
 url: /ridgecrest/grocery-outlet/
-shop: Supermarkt
+shop: supermarket
 ---

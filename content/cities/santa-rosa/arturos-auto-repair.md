@@ -1,5 +1,5 @@
 ---
 title: "Arturo's Auto Repair"
 url: /santa-rosa/arturos-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

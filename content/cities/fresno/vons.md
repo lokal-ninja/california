@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /fresno/vons/
-shop: Supermarkt
+shop: supermarket
 ---

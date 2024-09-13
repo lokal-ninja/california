@@ -1,5 +1,5 @@
 ---
 title: "Kay Jewelers"
 url: /fresno/kay-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

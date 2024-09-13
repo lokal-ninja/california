@@ -1,5 +1,5 @@
 ---
 title: "Gelson's"
 url: /rancho-mission-viejo/gelsons/
-shop: Supermarkt
+shop: supermarket
 ---

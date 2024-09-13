@@ -1,5 +1,5 @@
 ---
 title: "Eileen Fisher"
 url: /pasadena/eileen-fisher/
-shop: Kleidung
+shop: clothes
 ---

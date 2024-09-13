@@ -1,5 +1,5 @@
 ---
 title: "DentPro Inc"
 url: /elk-grove/dentpro-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

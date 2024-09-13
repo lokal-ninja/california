@@ -1,5 +1,5 @@
 ---
 title: "BIDLANE"
 url: /woodland-hills/bidlane/
-shop: Autohaus
+shop: car
 ---

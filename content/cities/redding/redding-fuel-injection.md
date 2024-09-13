@@ -1,5 +1,5 @@
 ---
 title: "Redding Fuel Injection"
 url: /redding/redding-fuel-injection/
-shop: Autowerkstatt
+shop: car repair
 ---

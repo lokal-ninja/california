@@ -1,5 +1,5 @@
 ---
 title: "Rosewood San Diego"
 url: /san-diego/rosewood-san-diego/
-shop: Schuhe
+shop: shoes
 ---

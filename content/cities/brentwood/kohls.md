@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /brentwood/kohls/
-shop: Warenhaus
+shop: department store
 ---

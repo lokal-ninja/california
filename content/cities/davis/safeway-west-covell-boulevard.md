@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /davis/safeway-west-covell-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

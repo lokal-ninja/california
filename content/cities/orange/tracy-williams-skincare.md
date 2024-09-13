@@ -1,5 +1,5 @@
 ---
 title: "Tracy Williams Skincare"
 url: /orange/tracy-williams-skincare/
-shop: Friseur
+shop: hairdresser
 ---

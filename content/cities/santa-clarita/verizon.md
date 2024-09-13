@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /santa-clarita/verizon/
-shop: Handy
+shop: mobile phone
 ---

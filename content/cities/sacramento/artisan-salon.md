@@ -1,5 +1,5 @@
 ---
 title: "Artisan Salon"
 url: /sacramento/artisan-salon/
-shop: Friseur
+shop: hairdresser
 ---

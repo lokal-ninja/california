@@ -1,5 +1,5 @@
 ---
 title: "Greeley Hill Market"
 url: /coulterville/greeley-hill-market/
-shop: Supermarkt
+shop: supermarket
 ---

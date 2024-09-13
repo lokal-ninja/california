@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /visalia/rite-aid/
-shop: Drogerie
+shop: chemist
 ---

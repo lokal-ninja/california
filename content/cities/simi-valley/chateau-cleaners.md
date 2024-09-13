@@ -1,5 +1,5 @@
 ---
 title: "Chateau Cleaners"
 url: /simi-valley/chateau-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

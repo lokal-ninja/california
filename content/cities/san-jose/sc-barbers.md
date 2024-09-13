@@ -1,5 +1,5 @@
 ---
 title: "SC Barbers"
 url: /san-jose/sc-barbers/
-shop: Friseur
+shop: hairdresser
 ---

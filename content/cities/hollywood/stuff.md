@@ -1,5 +1,5 @@
 ---
 title: "Stuff"
 url: /hollywood/stuff/
-shop: Garten-Center
+shop: garden centre
 ---

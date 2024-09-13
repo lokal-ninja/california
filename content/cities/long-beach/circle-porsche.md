@@ -1,5 +1,5 @@
 ---
 title: "Circle Porsche"
 url: /long-beach/circle-porsche/
-shop: Autohaus
+shop: car
 ---

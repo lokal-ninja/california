@@ -1,5 +1,5 @@
 ---
 title: "Sound Systems"
 url: /san-jose/sound-systems/
-shop: Autoteile
+shop: car parts
 ---

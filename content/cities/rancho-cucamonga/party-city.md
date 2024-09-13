@@ -1,5 +1,5 @@
 ---
 title: "Party City"
 url: /rancho-cucamonga/party-city/
-shop: Partyzubehör
+shop: party
 ---

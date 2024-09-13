@@ -1,5 +1,5 @@
 ---
 title: "Quiksmog"
 url: /sunnyvale/quiksmog/
-shop: Autowerkstatt
+shop: car repair
 ---

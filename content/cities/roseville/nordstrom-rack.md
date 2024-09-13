@@ -1,5 +1,5 @@
 ---
 title: "Nordstrom Rack"
 url: /roseville/nordstrom-rack/
-shop: Kleidung
+shop: clothes
 ---

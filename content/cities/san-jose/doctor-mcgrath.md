@@ -1,5 +1,5 @@
 ---
 title: "Doctor McGrath"
 url: /san-jose/doctor-mcgrath/
-shop: Optiker
+shop: optician
 ---

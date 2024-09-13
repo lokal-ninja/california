@@ -1,5 +1,5 @@
 ---
 title: "Cell Planet"
 url: /orange/cell-planet/
-shop: Kiosk
+shop: kiosk
 ---

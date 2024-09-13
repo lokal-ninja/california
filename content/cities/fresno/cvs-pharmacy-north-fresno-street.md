@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /fresno/cvs-pharmacy-north-fresno-street/
-shop: Drogerie
+shop: chemist
 ---

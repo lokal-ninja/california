@@ -1,5 +1,5 @@
 ---
 title: "Wetmores"
 url: /el-cajon/wetmores/
-shop: Autoteile
+shop: car parts
 ---

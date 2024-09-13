@@ -1,5 +1,5 @@
 ---
 title: "Circle C Market"
 url: /sanger/circle-c-market/
-shop: Spirituosen
+shop: alcohol
 ---

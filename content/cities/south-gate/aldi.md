@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /south-gate/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

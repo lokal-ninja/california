@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /fullerton/petsmart/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "True Religion"
 url: /camarillo/true-religion/
-shop: Kleidung
+shop: clothes
 ---

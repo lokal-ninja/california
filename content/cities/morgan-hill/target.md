@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /morgan-hill/target/
-shop: Warenhaus
+shop: department store
 ---

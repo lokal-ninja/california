@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /san-jose/t-mobile-union-avenue/
-shop: Handy
+shop: mobile phone
 ---

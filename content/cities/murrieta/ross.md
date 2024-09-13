@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /murrieta/ross/
-shop: Warenhaus
+shop: department store
 ---

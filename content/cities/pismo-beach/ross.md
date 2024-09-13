@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /pismo-beach/ross/
-shop: Warenhaus
+shop: department store
 ---

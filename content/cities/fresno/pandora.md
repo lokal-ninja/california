@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /fresno/pandora/
-shop: Schmuck
+shop: jewelry
 ---

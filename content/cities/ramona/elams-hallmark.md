@@ -1,5 +1,5 @@
 ---
 title: "Elam's Hallmark"
 url: /ramona/elams-hallmark/
-shop: Andenken
+shop: gift
 ---

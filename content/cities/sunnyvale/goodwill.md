@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /sunnyvale/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

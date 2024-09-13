@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /san-mateo/safeway-de-anza-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

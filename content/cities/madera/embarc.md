@@ -1,5 +1,5 @@
 ---
 title: "embarc"
 url: /madera/embarc/
-shop: Hanf
+shop: cannabis
 ---

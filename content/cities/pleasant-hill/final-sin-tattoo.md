@@ -1,5 +1,5 @@
 ---
 title: "Final Sin Tattoo"
 url: /pleasant-hill/final-sin-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

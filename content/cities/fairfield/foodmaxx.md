@@ -1,5 +1,5 @@
 ---
 title: "FoodMaxx"
 url: /fairfield/foodmaxx/
-shop: Supermarkt
+shop: supermarket
 ---

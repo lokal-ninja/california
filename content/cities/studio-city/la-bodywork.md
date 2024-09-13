@@ -1,5 +1,5 @@
 ---
 title: "LA Bodywork"
 url: /studio-city/la-bodywork/
-shop: Massage
+shop: massage
 ---

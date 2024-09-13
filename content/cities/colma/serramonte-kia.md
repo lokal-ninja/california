@@ -1,5 +1,5 @@
 ---
 title: "Serramonte Kia"
 url: /colma/serramonte-kia/
-shop: Autohaus
+shop: car
 ---

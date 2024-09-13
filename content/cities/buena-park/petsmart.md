@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /buena-park/petsmart/
-shop: Tiere
+shop: pet
 ---

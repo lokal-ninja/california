@@ -1,5 +1,5 @@
 ---
 title: "Kirkland's"
 url: /livermore/kirklands/
-shop: Raumausstattung
+shop: interior decoration
 ---

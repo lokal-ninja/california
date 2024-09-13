@@ -1,5 +1,5 @@
 ---
 title: "Hisco"
 url: /milpitas/hisco/
-shop: Baustoffe
+shop: trade
 ---

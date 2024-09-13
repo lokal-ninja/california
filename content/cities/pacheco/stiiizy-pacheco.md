@@ -1,5 +1,5 @@
 ---
 title: "STIIIZY Pacheco"
 url: /pacheco/stiiizy-pacheco/
-shop: Hanf
+shop: cannabis
 ---

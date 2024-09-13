@@ -1,5 +1,5 @@
 ---
 title: "Heat Culinary"
 url: /laguna-niguel/heat-culinary/
-shop: Haushaltsartikel
+shop: houseware
 ---

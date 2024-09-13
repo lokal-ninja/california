@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /downey/burlington/
-shop: Warenhaus
+shop: department store
 ---

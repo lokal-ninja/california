@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /huntington-beach/rei/
-shop: Outdoor
+shop: outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /pomona/target/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Master's Donuts"
 url: /santa-maria/masters-donuts/
-shop: Bäckerei
+shop: bakery
 ---

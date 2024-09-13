@@ -1,5 +1,5 @@
 ---
 title: "Margarita's Flowers"
 url: /san-jose/margaritas-flowers/
-shop: Blumen
+shop: florist
 ---

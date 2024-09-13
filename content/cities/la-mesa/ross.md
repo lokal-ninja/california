@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /la-mesa/ross/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Golden Gloves, Inc."
 url: /santa-clara/golden-gloves-inc/
-shop: Großhandel
+shop: wholesale
 ---

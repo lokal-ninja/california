@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /redwood-city/safeway-woodside-road/
-shop: Supermarkt
+shop: supermarket
 ---

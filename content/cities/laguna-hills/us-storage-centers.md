@@ -1,5 +1,5 @@
 ---
 title: "US Storage Centers"
 url: /laguna-hills/us-storage-centers/
-shop: Mieten
+shop: storage rental
 ---

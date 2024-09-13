@@ -1,5 +1,5 @@
 ---
 title: "Creative Nails"
 url: /spring-valley/creative-nails/
-shop: Kosmetik
+shop: beauty
 ---

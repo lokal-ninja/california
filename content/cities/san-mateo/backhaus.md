@@ -1,5 +1,5 @@
 ---
 title: "Backhaus"
 url: /san-mateo/backhaus/
-shop: Bäckerei
+shop: bakery
 ---

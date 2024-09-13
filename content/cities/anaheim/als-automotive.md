@@ -1,5 +1,5 @@
 ---
 title: "Al's Automotive"
 url: /anaheim/als-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cycle Gear"
 url: /gilroy/cycle-gear/
-shop: Fahrrad
+shop: bicycle
 ---

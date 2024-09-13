@@ -1,5 +1,5 @@
 ---
 title: "Golden State Quilting"
 url: /campbell/golden-state-quilting/
-shop: Textil
+shop: fabric
 ---

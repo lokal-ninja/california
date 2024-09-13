@@ -1,5 +1,5 @@
 ---
 title: "Blacksuit Tattoo"
 url: /san-jose/blacksuit-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

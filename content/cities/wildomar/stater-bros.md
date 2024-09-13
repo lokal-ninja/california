@@ -1,5 +1,5 @@
 ---
 title: "Stater Bros."
 url: /wildomar/stater-bros/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Therapeutic Massage CMT"
 url: /vacaville/therapeutic-massage-cmt/
-shop: Massage
+shop: massage
 ---

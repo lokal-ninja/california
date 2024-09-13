@@ -1,5 +1,5 @@
 ---
 title: "Empty Vase"
 url: /west-hollywood/empty-vase/
-shop: Garten-Center
+shop: garden centre
 ---

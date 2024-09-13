@@ -1,5 +1,5 @@
 ---
 title: "Duke's Hardware"
 url: /san-francisco/dukes-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

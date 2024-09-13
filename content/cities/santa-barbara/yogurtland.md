@@ -1,5 +1,5 @@
 ---
 title: "Yogurtland"
 url: /santa-barbara/yogurtland/
-shop: Süßwaren
+shop: confectionery
 ---

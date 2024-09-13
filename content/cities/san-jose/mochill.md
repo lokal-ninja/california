@@ -1,5 +1,5 @@
 ---
 title: "Mochill"
 url: /san-jose/mochill/
-shop: Konditorei
+shop: pastry
 ---

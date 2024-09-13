@@ -1,5 +1,5 @@
 ---
 title: "Duxiana"
 url: /newport-beach/duxiana/
-shop: Betten
+shop: bed
 ---

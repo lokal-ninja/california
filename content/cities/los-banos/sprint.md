@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /los-banos/sprint/
-shop: Handy
+shop: mobile phone
 ---

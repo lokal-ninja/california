@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
 url: /torrance/7-eleven-prairie/
-shop: Lebensmittel
+shop: convenience
 ---

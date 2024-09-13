@@ -1,5 +1,5 @@
 ---
 title: "Western Relics"
 url: /san-francisco/western-relics/
-shop: Musik
+shop: music
 ---

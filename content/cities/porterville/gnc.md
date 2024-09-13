@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /porterville/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kepler's Books"
 url: /menlo-park/keplers-books/
-shop: Bücher
+shop: books
 ---

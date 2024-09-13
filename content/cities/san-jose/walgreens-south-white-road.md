@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /san-jose/walgreens-south-white-road/
-shop: Drogerie
+shop: chemist
 ---

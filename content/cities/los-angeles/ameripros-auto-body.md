@@ -1,5 +1,5 @@
 ---
 title: "AmeriPros Auto Body"
 url: /los-angeles/ameripros-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

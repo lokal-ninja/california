@@ -1,5 +1,5 @@
 ---
 title: "Milfelds Nursery"
 url: /riverside/milfelds-nursery/
-shop: Garten-Center
+shop: garden centre
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Splendid"
 url: /camarillo/splendid/
-shop: Kleidung
+shop: clothes
 ---

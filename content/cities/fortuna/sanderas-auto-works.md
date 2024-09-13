@@ -1,5 +1,5 @@
 ---
 title: "Sandera's Auto Works"
 url: /fortuna/sanderas-auto-works/
-shop: Autowerkstatt
+shop: car repair
 ---

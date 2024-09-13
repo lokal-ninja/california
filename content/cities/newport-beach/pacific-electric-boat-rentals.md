@@ -1,5 +1,5 @@
 ---
 title: "Pacific Electric Boat Rentals"
 url: /newport-beach/pacific-electric-boat-rentals/
-shop: Mieten
+shop: storage rental
 ---

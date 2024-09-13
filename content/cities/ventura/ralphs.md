@@ -1,5 +1,5 @@
 ---
 title: "Ralphs"
 url: /ventura/ralphs/
-shop: Supermarkt
+shop: supermarket
 ---

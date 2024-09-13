@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /fresno/mattress-firm/
-shop: Betten
+shop: bed
 ---

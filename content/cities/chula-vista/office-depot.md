@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
 url: /chula-vista/office-depot/
-shop: Schreibwaren
+shop: office supplies
 ---

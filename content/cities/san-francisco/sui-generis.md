@@ -1,5 +1,5 @@
 ---
 title: "Sui Generis"
 url: /san-francisco/sui-generis/
-shop: Kleidung
+shop: clothes
 ---

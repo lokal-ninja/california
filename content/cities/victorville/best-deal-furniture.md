@@ -1,5 +1,5 @@
 ---
 title: "Best Deal Furniture"
 url: /victorville/best-deal-furniture/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blue Polish"
 url: /santa-rosa/blue-polish/
-shop: Kosmetik
+shop: beauty
 ---

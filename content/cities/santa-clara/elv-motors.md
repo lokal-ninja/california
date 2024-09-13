@@ -1,5 +1,5 @@
 ---
 title: "ELV Motors"
 url: /santa-clara/elv-motors/
-shop: Fahrrad
+shop: bicycle
 ---

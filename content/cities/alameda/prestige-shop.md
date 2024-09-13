@@ -1,5 +1,5 @@
 ---
 title: "Prestige Shop"
 url: /alameda/prestige-shop/
-shop: Schuhe
+shop: shoes
 ---

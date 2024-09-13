@@ -1,5 +1,5 @@
 ---
 title: "Miniso"
 url: /alhambra/miniso/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stater Bros."
 url: /azusa/stater-bros/
-shop: Supermarkt
+shop: supermarket
 ---

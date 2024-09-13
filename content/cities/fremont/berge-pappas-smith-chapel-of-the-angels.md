@@ -1,5 +1,5 @@
 ---
 title: "Berge-Pappas-Smith Chapel of the Angels"
 url: /fremont/berge-pappas-smith-chapel-of-the-angels/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Extreme Lashes Official"
 url: /san-jose/extreme-lashes-official/
-shop: Kosmetik
+shop: beauty
 ---

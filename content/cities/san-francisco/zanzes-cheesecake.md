@@ -1,5 +1,5 @@
 ---
 title: "Zanze's Cheesecake"
 url: /san-francisco/zanzes-cheesecake/
-shop: Bäckerei
+shop: bakery
 ---

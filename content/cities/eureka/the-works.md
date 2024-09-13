@@ -1,5 +1,5 @@
 ---
 title: "The Works"
 url: /eureka/the-works/
-shop: Hifi
+shop: hifi
 ---

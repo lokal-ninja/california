@@ -1,5 +1,5 @@
 ---
 title: "Pedego Electric Bikes"
 url: /menlo-park/pedego-electric-bikes/
-shop: Fahrrad
+shop: bicycle
 ---

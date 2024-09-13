@@ -1,5 +1,5 @@
 ---
 title: "UVA Nursery"
 url: /carson/uva-nursery/
-shop: Garten-Center
+shop: garden centre
 ---

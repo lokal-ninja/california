@@ -1,5 +1,5 @@
 ---
 title: "Sherry Salon"
 url: /san-francisco/sherry-salon/
-shop: Friseur
+shop: hairdresser
 ---

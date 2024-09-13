@@ -1,5 +1,5 @@
 ---
 title: "Beauty Queen Nails"
 url: /san-jose/beauty-queen-nails/
-shop: Kosmetik
+shop: beauty
 ---

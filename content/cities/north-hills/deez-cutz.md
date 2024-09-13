@@ -1,5 +1,5 @@
 ---
 title: "Deez Cutz"
 url: /north-hills/deez-cutz/
-shop: Friseur
+shop: hairdresser
 ---

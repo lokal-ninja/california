@@ -1,5 +1,5 @@
 ---
 title: "Balboa Candy"
 url: /newport-beach/balboa-candy/
-shop: Süßwaren
+shop: confectionery
 ---

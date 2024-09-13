@@ -1,5 +1,5 @@
 ---
 title: "Goldsmith's Sports"
 url: /big-bear-lake/goldsmiths-sports/
-shop: Ski
+shop: ski
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /fairfield/autozone/
-shop: Autoteile
+shop: car parts
 ---

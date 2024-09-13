@@ -1,5 +1,5 @@
 ---
 title: "Professional Collision"
 url: /garden-grove/professional-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /chico/target/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /menifee/petco/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /sacramento/ross-northgate-boulevard/
-shop: Warenhaus
+shop: department store
 ---

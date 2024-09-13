@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /north-hills/autozone-nordhoff-street/
-shop: Autoteile
+shop: car parts
 ---

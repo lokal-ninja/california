@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /san-leandro/walmart-lewelling-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

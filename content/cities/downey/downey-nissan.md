@@ -1,5 +1,5 @@
 ---
 title: "Downey Nissan"
 url: /downey/downey-nissan/
-shop: Autohaus
+shop: car
 ---

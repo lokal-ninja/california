@@ -1,5 +1,5 @@
 ---
 title: "Stater Bros."
 url: /norwalk/stater-bros/
-shop: Supermarkt
+shop: supermarket
 ---

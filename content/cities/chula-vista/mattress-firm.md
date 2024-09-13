@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /chula-vista/mattress-firm/
-shop: Betten
+shop: bed
 ---

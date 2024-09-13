@@ -1,5 +1,5 @@
 ---
 title: "Surfer's Outlet"
 url: /san-clemente/surfers-outlet/
-shop: Kleidung
+shop: clothes
 ---

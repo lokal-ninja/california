@@ -1,5 +1,5 @@
 ---
 title: "Plumpjack Wine and Spirits"
 url: /san-francisco/plumpjack-wine-and-spirits/
-shop: Spirituosen
+shop: alcohol
 ---

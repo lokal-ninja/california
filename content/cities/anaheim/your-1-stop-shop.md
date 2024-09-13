@@ -1,5 +1,5 @@
 ---
 title: "Your 1 Stop Shop"
 url: /anaheim/your-1-stop-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

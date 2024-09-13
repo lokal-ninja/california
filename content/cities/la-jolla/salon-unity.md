@@ -1,5 +1,5 @@
 ---
 title: "Salon Unity"
 url: /la-jolla/salon-unity/
-shop: Friseur
+shop: hairdresser
 ---

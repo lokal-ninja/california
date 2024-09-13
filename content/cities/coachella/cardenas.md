@@ -1,5 +1,5 @@
 ---
 title: "Cardenas"
 url: /coachella/cardenas/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trojan Storage"
 url: /rancho-cucamonga/trojan-storage/
-shop: Mieten
+shop: storage rental
 ---

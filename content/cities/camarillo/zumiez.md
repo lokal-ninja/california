@@ -1,5 +1,5 @@
 ---
 title: "Zumiez"
 url: /camarillo/zumiez/
-shop: Kleidung
+shop: clothes
 ---

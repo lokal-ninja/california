@@ -1,5 +1,5 @@
 ---
 title: "Electronics Plus"
 url: /san-rafael/electronics-plus/
-shop: Elektronik
+shop: electronics
 ---

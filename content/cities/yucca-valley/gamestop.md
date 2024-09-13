@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /yucca-valley/gamestop/
-shop: Videospiele
+shop: video games
 ---

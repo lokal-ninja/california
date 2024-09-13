@@ -1,5 +1,5 @@
 ---
 title: "Winkler"
 url: /albany/winkler/
-shop: Immobilien
+shop: estate agent
 ---

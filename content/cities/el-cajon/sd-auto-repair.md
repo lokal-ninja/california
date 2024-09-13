@@ -1,5 +1,5 @@
 ---
 title: "SD Auto Repair"
 url: /el-cajon/sd-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /pico-rivera/target/
-shop: Warenhaus
+shop: department store
 ---

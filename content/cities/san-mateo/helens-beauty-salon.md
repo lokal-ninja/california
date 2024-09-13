@@ -1,5 +1,5 @@
 ---
 title: "Helen's Beauty Salon"
 url: /san-mateo/helens-beauty-salon/
-shop: Kosmetik
+shop: beauty
 ---

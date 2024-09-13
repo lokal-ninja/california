@@ -1,5 +1,5 @@
 ---
 title: "Central Coast Vintage"
 url: /san-luis-obispo/central-coast-vintage/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Etminan Market"
 url: /san-jose/etminan-market/
-shop: Supermarkt
+shop: supermarket
 ---

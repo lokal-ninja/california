@@ -1,5 +1,5 @@
 ---
 title: "Himalayan Handicrafts"
 url: /san-francisco/himalayan-handicrafts/
-shop: Andenken
+shop: gift
 ---

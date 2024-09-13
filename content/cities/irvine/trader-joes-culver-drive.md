@@ -1,5 +1,5 @@
 ---
 title: "Trader Joe's"
 url: /irvine/trader-joes-culver-drive/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Connors Body Shop"
 url: /san-jose/connors-body-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /buena-park/gamestop/
-shop: Videospiele
+shop: video games
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /tustin/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /madera/walmart/
-shop: Supermarkt
+shop: supermarket
 ---

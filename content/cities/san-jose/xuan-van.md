@@ -1,5 +1,5 @@
 ---
 title: "Xuân Vân"
 url: /san-jose/xuan-van/
-shop: Kosmetik
+shop: beauty
 ---

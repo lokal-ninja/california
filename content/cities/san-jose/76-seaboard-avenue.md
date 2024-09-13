@@ -1,5 +1,5 @@
 ---
 title: "76"
 url: /san-jose/76-seaboard-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

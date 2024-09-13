@@ -1,5 +1,5 @@
 ---
 title: "Insight Dentalogics"
 url: /san-jose/insight-dentalogics/
-shop: Sanitätshaus
+shop: medical supply
 ---

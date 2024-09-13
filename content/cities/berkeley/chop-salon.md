@@ -1,5 +1,5 @@
 ---
 title: "Chop Salon"
 url: /berkeley/chop-salon/
-shop: Friseur
+shop: hairdresser
 ---

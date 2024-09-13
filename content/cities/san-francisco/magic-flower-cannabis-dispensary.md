@@ -1,5 +1,5 @@
 ---
 title: "Magic Flower Cannabis Dispensary"
 url: /san-francisco/magic-flower-cannabis-dispensary/
-shop: Hanf
+shop: cannabis
 ---

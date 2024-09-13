@@ -1,5 +1,5 @@
 ---
 title: "Smith Auto Parts"
 url: /merced/smith-auto-parts/
-shop: Autowerkstatt
+shop: car repair
 ---

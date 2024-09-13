@@ -1,5 +1,5 @@
 ---
 title: "Escentials"
 url: /calabasas/escentials/
-shop: Kosmetik
+shop: beauty
 ---

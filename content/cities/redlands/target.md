@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /redlands/target/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /lake-forest/cvs-pharmacy-lake-forest-drive/
-shop: Drogerie
+shop: chemist
 ---

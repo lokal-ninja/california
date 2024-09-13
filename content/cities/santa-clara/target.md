@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /santa-clara/target/
-shop: Warenhaus
+shop: department store
 ---

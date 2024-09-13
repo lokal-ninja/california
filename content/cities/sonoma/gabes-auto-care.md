@@ -1,5 +1,5 @@
 ---
 title: "Gabes Auto Care"
 url: /sonoma/gabes-auto-care/
-shop: Autowerkstatt
+shop: car repair
 ---

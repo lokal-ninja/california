@@ -1,5 +1,5 @@
 ---
 title: "Sleep Number"
 url: /orange/sleep-number/
-shop: Betten
+shop: bed
 ---

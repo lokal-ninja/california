@@ -1,5 +1,5 @@
 ---
 title: "Kiko's Auto Repair"
 url: /indio/kikos-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

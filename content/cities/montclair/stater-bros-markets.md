@@ -1,5 +1,5 @@
 ---
 title: "Stater Bros. Markets"
 url: /montclair/stater-bros-markets/
-shop: Supermarkt
+shop: supermarket
 ---

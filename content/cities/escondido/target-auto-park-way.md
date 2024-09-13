@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /escondido/target-auto-park-way/
-shop: Warenhaus
+shop: department store
 ---

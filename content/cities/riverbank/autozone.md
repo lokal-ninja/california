@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /riverbank/autozone/
-shop: Autoteile
+shop: car parts
 ---

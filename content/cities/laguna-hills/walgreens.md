@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /laguna-hills/walgreens/
-shop: Drogerie
+shop: chemist
 ---

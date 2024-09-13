@@ -1,5 +1,5 @@
 ---
 title: "Miraloma Market"
 url: /san-francisco/miraloma-market/
-shop: Supermarkt
+shop: supermarket
 ---

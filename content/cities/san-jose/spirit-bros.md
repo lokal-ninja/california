@@ -1,5 +1,5 @@
 ---
 title: "Spirit Bros."
 url: /san-jose/spirit-bros/
-shop: Kleidung
+shop: clothes
 ---

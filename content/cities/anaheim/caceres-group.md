@@ -1,5 +1,5 @@
 ---
 title: "Caceres Group"
 url: /anaheim/caceres-group/
-shop: Autohaus
+shop: car
 ---

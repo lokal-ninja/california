@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /bakersfield/albertsons-brundage-lane/
-shop: Supermarkt
+shop: supermarket
 ---

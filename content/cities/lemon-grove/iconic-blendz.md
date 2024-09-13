@@ -1,5 +1,5 @@
 ---
 title: "Iconic Blendz"
 url: /lemon-grove/iconic-blendz/
-shop: Friseur
+shop: hairdresser
 ---

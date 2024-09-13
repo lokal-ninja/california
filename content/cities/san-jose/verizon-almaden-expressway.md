@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /san-jose/verizon-almaden-expressway/
-shop: Handy
+shop: mobile phone
 ---

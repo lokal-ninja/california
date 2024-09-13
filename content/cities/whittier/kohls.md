@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /whittier/kohls/
-shop: Warenhaus
+shop: department store
 ---

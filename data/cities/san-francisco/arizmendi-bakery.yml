@@ -7,5 +7,5 @@ city: San Francisco
 street: "Valencia Street"
 housenumber: 1268
 phone: "+1 415 826-9218"
-opening_hours: "We-Mo 08:00-19:00"
+opening_hours: "Mo,We-Fr 07:00-19:00; Tu off; Sa-Su 08:00-19:00"
 website: "https://arizmendi.coop"

@@ -1,5 +1,5 @@
 ---
 title: "Bride Jewelry"
 url: /el-cajon/bride-jewelry/
-shop: Schmuck
+shop: jewelry
 ---

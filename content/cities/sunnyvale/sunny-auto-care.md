@@ -1,5 +1,5 @@
 ---
 title: "Sunny Auto Care"
 url: /sunnyvale/sunny-auto-care/
-shop: Autowerkstatt
+shop: car repair
 ---

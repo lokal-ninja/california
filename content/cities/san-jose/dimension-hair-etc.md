@@ -1,5 +1,5 @@
 ---
 title: "Dimension Hair, Etc."
 url: /san-jose/dimension-hair-etc/
-shop: Friseur
+shop: hairdresser
 ---

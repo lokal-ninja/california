@@ -1,5 +1,5 @@
 ---
 title: "Lashey Lady"
 url: /sebastopol/lashey-lady/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "FoodMaxx"
 url: /fremont/foodmaxx-fremont-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

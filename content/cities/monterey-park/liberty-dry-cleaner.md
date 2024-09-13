@@ -1,5 +1,5 @@
 ---
 title: "Liberty Dry Cleaner"
 url: /monterey-park/liberty-dry-cleaner/
-shop: Wäscherei
+shop: laundry
 ---

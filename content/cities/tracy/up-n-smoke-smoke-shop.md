@@ -1,5 +1,5 @@
 ---
 title: "Up 'N Smoke Smoke Shop"
 url: /tracy/up-n-smoke-smoke-shop/
-shop: Allgemein
+shop: shop
 ---

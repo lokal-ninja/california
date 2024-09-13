@@ -1,5 +1,5 @@
 ---
 title: "The Cinderella Cellar"
 url: /fresno/the-cinderella-cellar/
-shop: Kleidung
+shop: clothes
 ---

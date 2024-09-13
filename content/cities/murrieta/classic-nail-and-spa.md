@@ -1,5 +1,5 @@
 ---
 title: "Classic NAIL and SPA"
 url: /murrieta/classic-nail-and-spa/
-shop: Kosmetik
+shop: beauty
 ---

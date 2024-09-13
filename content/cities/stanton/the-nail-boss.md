@@ -1,5 +1,5 @@
 ---
 title: "The Nail Boss"
 url: /stanton/the-nail-boss/
-shop: Kosmetik
+shop: beauty
 ---

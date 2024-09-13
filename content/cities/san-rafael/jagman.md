@@ -1,5 +1,5 @@
 ---
 title: "Jagman"
 url: /san-rafael/jagman/
-shop: Autowerkstatt
+shop: car repair
 ---

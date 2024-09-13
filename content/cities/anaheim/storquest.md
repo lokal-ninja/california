@@ -1,5 +1,5 @@
 ---
 title: "StorQuest"
 url: /anaheim/storquest/
-shop: Mieten
+shop: storage rental
 ---

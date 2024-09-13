@@ -1,5 +1,5 @@
 ---
 title: "Angelica's Fiesta Supplies"
 url: /slymar/angelicas-fiesta-supplies/
-shop: Partyzubehör
+shop: party
 ---

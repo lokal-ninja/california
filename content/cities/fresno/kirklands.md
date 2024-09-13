@@ -1,5 +1,5 @@
 ---
 title: "Kirkland's"
 url: /fresno/kirklands/
-shop: Raumausstattung
+shop: interior decoration
 ---

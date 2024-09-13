@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /hercules/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

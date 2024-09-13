@@ -1,5 +1,5 @@
 ---
 title: "Trek"
 url: /dublin/trek/
-shop: Fahrrad
+shop: bicycle
 ---

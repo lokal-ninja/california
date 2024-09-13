@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /vallejo/kohls/
-shop: Warenhaus
+shop: department store
 ---

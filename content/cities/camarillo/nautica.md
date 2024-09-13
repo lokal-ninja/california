@@ -1,5 +1,5 @@
 ---
 title: "Nautica"
 url: /camarillo/nautica/
-shop: Kleidung
+shop: clothes
 ---

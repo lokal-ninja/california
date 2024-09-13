@@ -1,5 +1,5 @@
 ---
 title: "Feelmore"
 url: /oakland/feelmore/
-shop: Erotik
+shop: erotic
 ---

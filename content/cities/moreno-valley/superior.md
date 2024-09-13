@@ -1,5 +1,5 @@
 ---
 title: "Superior"
 url: /moreno-valley/superior/
-shop: Supermarkt
+shop: supermarket
 ---

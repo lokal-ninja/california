@@ -1,5 +1,5 @@
 ---
 title: "The UPS Store"
 url: /simi-valley/the-ups-store-cochran-street/
-shop: Kopieren
+shop: copyshop
 ---

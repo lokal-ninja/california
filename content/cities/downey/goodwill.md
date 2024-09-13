@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /downey/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

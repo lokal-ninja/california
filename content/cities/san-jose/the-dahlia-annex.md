@@ -1,5 +1,5 @@
 ---
 title: "The Dahlia Annex"
 url: /san-jose/the-dahlia-annex/
-shop: Friseur
+shop: hairdresser
 ---

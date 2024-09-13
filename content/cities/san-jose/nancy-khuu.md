@@ -1,5 +1,5 @@
 ---
 title: "Nancy Khuu"
 url: /san-jose/nancy-khuu/
-shop: Optiker
+shop: optician
 ---

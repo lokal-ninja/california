@@ -1,5 +1,5 @@
 ---
 title: "GROW Mortgages"
 url: /long-beach/grow-mortgages/
-shop: Leiher
+shop: pawnbroker
 ---

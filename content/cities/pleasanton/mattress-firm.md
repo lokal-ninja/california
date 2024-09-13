@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /pleasanton/mattress-firm/
-shop: Betten
+shop: bed
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Skin Design Tattoo"
 url: /stanton/skin-design-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

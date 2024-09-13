@@ -1,5 +1,5 @@
 ---
 title: "Village Shoes"
 url: /fresno/village-shoes/
-shop: Schuhe
+shop: shoes
 ---

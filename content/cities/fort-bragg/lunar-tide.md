@@ -1,5 +1,5 @@
 ---
 title: "Lunar Tide"
 url: /fort-bragg/lunar-tide/
-shop: Esoterik
+shop: esoteric
 ---

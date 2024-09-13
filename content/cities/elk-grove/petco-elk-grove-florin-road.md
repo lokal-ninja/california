@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /elk-grove/petco-elk-grove-florin-road/
-shop: Tiere
+shop: pet
 ---

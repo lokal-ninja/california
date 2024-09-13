@@ -1,5 +1,5 @@
 ---
 title: "Oaklandish"
 url: /oakland/oaklandish/
-shop: Kleidung
+shop: clothes
 ---

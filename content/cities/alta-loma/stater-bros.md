@@ -1,5 +1,5 @@
 ---
 title: "Stater Bros."
 url: /alta-loma/stater-bros/
-shop: Supermarkt
+shop: supermarket
 ---

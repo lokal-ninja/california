@@ -1,5 +1,5 @@
 ---
 title: "Central Self Storage"
 url: /rohnert-park/central-self-storage/
-shop: Mieten
+shop: storage rental
 ---

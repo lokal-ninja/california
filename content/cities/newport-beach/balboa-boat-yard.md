@@ -1,5 +1,5 @@
 ---
 title: "Balboa Boat Yard"
 url: /newport-beach/balboa-boat-yard/
-shop: Allgemein
+shop: shop
 ---

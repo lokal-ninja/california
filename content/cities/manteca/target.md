@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /manteca/target/
-shop: Warenhaus
+shop: department store
 ---

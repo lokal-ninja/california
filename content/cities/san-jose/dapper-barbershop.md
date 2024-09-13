@@ -1,5 +1,5 @@
 ---
 title: "Dapper Barbershop"
 url: /san-jose/dapper-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

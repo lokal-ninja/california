@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /palmdale/best-buy/
-shop: Elektronik
+shop: electronics
 ---

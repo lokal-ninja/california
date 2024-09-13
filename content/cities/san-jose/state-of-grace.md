@@ -1,5 +1,5 @@
 ---
 title: "State of Grace"
 url: /san-jose/state-of-grace/
-shop: Tattoo
+shop: tattoo
 ---

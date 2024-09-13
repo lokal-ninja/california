@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /san-jose/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

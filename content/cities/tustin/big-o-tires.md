@@ -1,5 +1,5 @@
 ---
 title: "Big O Tires"
 url: /tustin/big-o-tires/
-shop: Reifen
+shop: tyres
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Skechers"
 url: /fresno/skechers/
-shop: Schuhe
+shop: shoes
 ---

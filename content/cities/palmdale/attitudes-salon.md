@@ -1,5 +1,5 @@
 ---
 title: "Attitudes Salon"
 url: /palmdale/attitudes-salon/
-shop: Friseur
+shop: hairdresser
 ---

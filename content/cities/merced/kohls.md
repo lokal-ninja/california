@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /merced/kohls/
-shop: Warenhaus
+shop: department store
 ---

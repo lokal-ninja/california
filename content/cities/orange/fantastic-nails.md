@@ -1,5 +1,5 @@
 ---
 title: "Fantastic Nails"
 url: /orange/fantastic-nails/
-shop: Kosmetik
+shop: beauty
 ---

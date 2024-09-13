@@ -1,5 +1,5 @@
 ---
 title: "Branham Barber"
 url: /san-jose/branham-barber/
-shop: Friseur
+shop: hairdresser
 ---

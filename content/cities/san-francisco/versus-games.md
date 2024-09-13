@@ -1,5 +1,5 @@
 ---
 title: "Versus Games"
 url: /san-francisco/versus-games/
-shop: Spiele
+shop: games
 ---

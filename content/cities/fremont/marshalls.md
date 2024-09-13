@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /fremont/marshalls/
-shop: Warenhaus
+shop: department store
 ---

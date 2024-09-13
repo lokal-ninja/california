@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /west-covina/ross/
-shop: Warenhaus
+shop: department store
 ---

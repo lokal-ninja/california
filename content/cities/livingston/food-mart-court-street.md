@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
 url: /livingston/food-mart-court-street/
-shop: Lebensmittel
+shop: convenience
 ---

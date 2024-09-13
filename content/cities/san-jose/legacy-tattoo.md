@@ -1,5 +1,5 @@
 ---
 title: "Legacy Tattoo"
 url: /san-jose/legacy-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

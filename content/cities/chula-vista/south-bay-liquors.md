@@ -1,5 +1,5 @@
 ---
 title: "South Bay Liquors"
 url: /chula-vista/south-bay-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Khoobsurat Threading Salon"
 url: /santa-clara/khoobsurat-threading-salon/
-shop: Kosmetik
+shop: beauty
 ---

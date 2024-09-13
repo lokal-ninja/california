@@ -1,5 +1,5 @@
 ---
 title: "Helen's Nails"
 url: /auburn/helens-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valenciaga"
 url: /burbank/valenciaga/
-shop: Friseur
+shop: hairdresser
 ---

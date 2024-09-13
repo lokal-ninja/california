@@ -1,5 +1,5 @@
 ---
 title: "Storage West"
 url: /santa-ana/storage-west/
-shop: Mieten
+shop: storage rental
 ---

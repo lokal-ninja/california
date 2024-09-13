@@ -1,5 +1,5 @@
 ---
 title: "Samson eBikes"
 url: /simi-valley/samson-ebikes/
-shop: Fahrrad
+shop: bicycle
 ---

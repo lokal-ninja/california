@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /novato/ross/
-shop: Warenhaus
+shop: department store
 ---

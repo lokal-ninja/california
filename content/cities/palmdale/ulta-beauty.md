@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /palmdale/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

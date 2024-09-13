@@ -1,5 +1,5 @@
 ---
 title: "Knapek's Auto Repair"
 url: /eureka/knapeks-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

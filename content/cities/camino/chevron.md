@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /camino/chevron/
-shop: Lebensmittel
+shop: convenience
 ---

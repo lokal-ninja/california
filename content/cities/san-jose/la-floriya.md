@@ -1,5 +1,5 @@
 ---
 title: "La Floriya"
 url: /san-jose/la-floriya/
-shop: Blumen
+shop: florist
 ---

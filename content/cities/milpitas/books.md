@@ -1,5 +1,5 @@
 ---
 title: "Books"
 url: /milpitas/books/
-shop: Bücher
+shop: books
 ---

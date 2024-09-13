@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /sonora/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

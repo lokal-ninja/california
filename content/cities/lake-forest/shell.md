@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /lake-forest/shell/
-shop: Lebensmittel
+shop: convenience
 ---

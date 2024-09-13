@@ -1,5 +1,5 @@
 ---
 title: "Flight on Cherry"
 url: /long-beach/flight-on-cherry/
-shop: Hanf
+shop: cannabis
 ---

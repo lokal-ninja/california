@@ -1,5 +1,5 @@
 ---
 title: "FTS Auto Repair"
 url: /san-diego/fts-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

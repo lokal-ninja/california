@@ -1,5 +1,5 @@
 ---
 title: "Vuori"
 url: /newport-beach/vuori/
-shop: Kleidung
+shop: clothes
 ---

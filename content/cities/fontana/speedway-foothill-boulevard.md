@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /fontana/speedway-foothill-boulevard/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AG Smog Station"
 url: /san-jose/ag-smog-station/
-shop: Autowerkstatt
+shop: car repair
 ---

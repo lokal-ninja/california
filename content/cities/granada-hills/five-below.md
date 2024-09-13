@@ -1,5 +1,5 @@
 ---
 title: "Five Below"
 url: /granada-hills/five-below/
-shop: Kramladen
+shop: variety store
 ---

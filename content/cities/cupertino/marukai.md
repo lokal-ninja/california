@@ -1,5 +1,5 @@
 ---
 title: "Marukai"
 url: /cupertino/marukai/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gabriel Travel"
 url: /sacramento/gabriel-travel/
-shop: Reisebüro
+shop: travel agency
 ---

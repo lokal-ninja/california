@@ -1,5 +1,5 @@
 ---
 title: "America's Tire"
 url: /lake-forest/americas-tire/
-shop: Reifen
+shop: tyres
 ---

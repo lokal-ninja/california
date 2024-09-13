@@ -1,5 +1,5 @@
 ---
 title: "Main Street Antiques"
 url: /turlock/main-street-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

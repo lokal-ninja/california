@@ -1,5 +1,5 @@
 ---
 title: "Cynderella"
 url: /chula-vista/cynderella/
-shop: Kleidung
+shop: clothes
 ---

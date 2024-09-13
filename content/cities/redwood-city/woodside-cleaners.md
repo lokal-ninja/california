@@ -1,5 +1,5 @@
 ---
 title: "Woodside Cleaners"
 url: /redwood-city/woodside-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

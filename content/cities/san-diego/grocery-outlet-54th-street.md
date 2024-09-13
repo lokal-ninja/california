@@ -1,5 +1,5 @@
 ---
 title: "Grocery Outlet"
 url: /san-diego/grocery-outlet-54th-street/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sunde White Industries"
 url: /pacifica/sunde-white-industries/
-shop: Andenken
+shop: gift
 ---

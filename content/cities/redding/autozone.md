@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /redding/autozone/
-shop: Autoteile
+shop: car parts
 ---

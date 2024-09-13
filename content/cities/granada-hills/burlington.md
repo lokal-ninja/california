@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /granada-hills/burlington/
-shop: Warenhaus
+shop: department store
 ---

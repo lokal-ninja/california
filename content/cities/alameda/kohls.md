@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /alameda/kohls/
-shop: Warenhaus
+shop: department store
 ---

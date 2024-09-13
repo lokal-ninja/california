@@ -1,5 +1,5 @@
 ---
 title: "Teddy's Market"
 url: /san-francisco/teddys-market/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Saloon Elegante"
 url: /orinda/saloon-elegante/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hyland Studio"
 url: /santa-clara/hyland-studio/
-shop: Glaserei
+shop: glaziery
 ---

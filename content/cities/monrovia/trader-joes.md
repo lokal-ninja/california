@@ -1,5 +1,5 @@
 ---
 title: "Trader Joe's"
 url: /monrovia/trader-joes/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "European Wax Center"
 url: /milpitas/european-wax-center/
-shop: Kosmetik
+shop: beauty
 ---

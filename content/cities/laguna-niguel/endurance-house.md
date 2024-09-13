@@ -1,5 +1,5 @@
 ---
 title: "Endurance House"
 url: /laguna-niguel/endurance-house/
-shop: Allgemein
+shop: shop
 ---

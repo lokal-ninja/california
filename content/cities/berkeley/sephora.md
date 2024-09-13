@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /berkeley/sephora/
-shop: Kosmetik
+shop: beauty
 ---

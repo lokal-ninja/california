@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /saint-helena/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

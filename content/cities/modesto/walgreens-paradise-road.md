@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /modesto/walgreens-paradise-road/
-shop: Drogerie
+shop: chemist
 ---

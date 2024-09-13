@@ -1,5 +1,5 @@
 ---
 title: "Pizzazz Day Spa"
 url: /atwater/pizzazz-day-spa/
-shop: Kosmetik
+shop: beauty
 ---

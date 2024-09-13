@@ -1,5 +1,5 @@
 ---
 title: "Piercey Toyota"
 url: /milpitas/piercey-toyota/
-shop: Autowerkstatt
+shop: car repair
 ---

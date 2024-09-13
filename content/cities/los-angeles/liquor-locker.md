@@ -1,5 +1,5 @@
 ---
 title: "Liquor Locker"
 url: /los-angeles/liquor-locker/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hair by Chelsea Voight"
 url: /san-jose/hair-by-chelsea-voight/
-shop: Friseur
+shop: hairdresser
 ---

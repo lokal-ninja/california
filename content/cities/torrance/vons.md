@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /torrance/vons/
-shop: Supermarkt
+shop: supermarket
 ---

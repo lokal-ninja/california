@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /rocklin/tj-maxx/
-shop: Warenhaus
+shop: department store
 ---

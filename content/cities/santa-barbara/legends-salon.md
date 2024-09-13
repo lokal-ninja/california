@@ -1,5 +1,5 @@
 ---
 title: "Legends Salon"
 url: /santa-barbara/legends-salon/
-shop: Friseur
+shop: hairdresser
 ---

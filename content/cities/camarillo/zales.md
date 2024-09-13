@@ -1,5 +1,5 @@
 ---
 title: "Zales"
 url: /camarillo/zales/
-shop: Schmuck
+shop: jewelry
 ---

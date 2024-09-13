@@ -1,5 +1,5 @@
 ---
 title: "The General Store"
 url: /newport-beach/the-general-store/
-shop: Haushaltsartikel
+shop: houseware
 ---

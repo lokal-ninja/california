@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /palmdale/target/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sunnyside Cremation and Funeral"
 url: /garden-grove/sunnyside-cremation-and-funeral/
-shop: Bestattungen
+shop: funeral directors
 ---

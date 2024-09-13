@@ -1,5 +1,5 @@
 ---
 title: "ABC Kids"
 url: /little-bangladesh/abc-kids/
-shop: Spielzeug
+shop: toys
 ---

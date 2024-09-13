@@ -1,5 +1,5 @@
 ---
 title: "The Cakery by Morfit"
 url: /san-jose/the-cakery-by-morfit/
-shop: Bäckerei
+shop: bakery
 ---

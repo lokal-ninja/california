@@ -1,5 +1,5 @@
 ---
 title: "Brothers Market"
 url: /san-francisco/brothers-market/
-shop: Lebensmittel
+shop: convenience
 ---

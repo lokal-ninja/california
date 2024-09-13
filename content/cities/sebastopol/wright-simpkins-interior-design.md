@@ -1,5 +1,5 @@
 ---
 title: "Wright Simpkins Interior Design"
 url: /sebastopol/wright-simpkins-interior-design/
-shop: Raumausstattung
+shop: interior decoration
 ---

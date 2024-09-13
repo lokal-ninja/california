@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /yucca-valley/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AJ's Market"
 url: /soquel/ajs-market/
-shop: Supermarkt
+shop: supermarket
 ---

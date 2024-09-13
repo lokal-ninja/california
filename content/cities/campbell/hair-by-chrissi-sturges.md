@@ -1,5 +1,5 @@
 ---
 title: "Hair by Chrissi Sturges"
 url: /campbell/hair-by-chrissi-sturges/
-shop: Friseur
+shop: hairdresser
 ---

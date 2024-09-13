@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /cerritos/mattress-firm/
-shop: Betten
+shop: bed
 ---

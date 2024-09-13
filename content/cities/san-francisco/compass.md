@@ -1,5 +1,5 @@
 ---
 title: "Compass"
 url: /san-francisco/compass/
-shop: Immobilien
+shop: estate agent
 ---

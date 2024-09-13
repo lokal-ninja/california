@@ -1,5 +1,5 @@
 ---
 title: "sucrée pâtisserie"
 url: /redlands/sucree-patisserie/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Orkin"
 url: /cathedral-city/orkin/
-shop: Schädlingsbekämpfung
+shop: pest control
 ---

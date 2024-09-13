@@ -1,5 +1,5 @@
 ---
 title: "South County Brakes"
 url: /laguna-niguel/south-county-brakes/
-shop: Autowerkstatt
+shop: car repair
 ---

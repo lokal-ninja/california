@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /san-dimas/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Julian's Barber Shop"
 url: /mission-hills/julians-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

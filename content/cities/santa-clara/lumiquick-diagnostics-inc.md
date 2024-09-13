@@ -1,5 +1,5 @@
 ---
 title: "LumiQuick Diagnostics, Inc."
 url: /santa-clara/lumiquick-diagnostics-inc/
-shop: Sanitätshaus
+shop: medical supply
 ---

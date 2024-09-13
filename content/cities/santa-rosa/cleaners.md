@@ -1,5 +1,5 @@
 ---
 title: "Cleaners"
 url: /santa-rosa/cleaners/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /fountain-valley/albertsons/
-shop: Supermarkt
+shop: supermarket
 ---

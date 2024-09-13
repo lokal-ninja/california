@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /visalia/ross/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /elk-grove/ross-laguna-boulevard/
-shop: Warenhaus
+shop: department store
 ---

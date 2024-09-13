@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /redding/sprint/
-shop: Handy
+shop: mobile phone
 ---

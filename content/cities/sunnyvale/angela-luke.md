@@ -1,5 +1,5 @@
 ---
 title: "Angela Luke"
 url: /sunnyvale/angela-luke/
-shop: Friseur
+shop: hairdresser
 ---

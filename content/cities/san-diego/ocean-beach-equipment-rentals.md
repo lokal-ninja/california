@@ -1,5 +1,5 @@
 ---
 title: "Ocean Beach Equipment Rentals"
 url: /san-diego/ocean-beach-equipment-rentals/
-shop: Mieten
+shop: storage rental
 ---

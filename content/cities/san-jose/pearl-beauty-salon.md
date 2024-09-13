@@ -1,5 +1,5 @@
 ---
 title: "Pearl Beauty Salon"
 url: /san-jose/pearl-beauty-salon/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Allied Auto Works"
 url: /los-altos/allied-auto-works/
-shop: Autowerkstatt
+shop: car repair
 ---

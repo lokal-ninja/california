@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /redding/valero-college-view-drive/
-shop: Lebensmittel
+shop: convenience
 ---

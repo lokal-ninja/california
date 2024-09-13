@@ -1,5 +1,5 @@
 ---
 title: "Advance Door Products"
 url: /san-jose/advance-door-products/
-shop: Türen
+shop: doors
 ---

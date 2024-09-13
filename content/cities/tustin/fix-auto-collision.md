@@ -1,5 +1,5 @@
 ---
 title: "Fix Auto Collision"
 url: /tustin/fix-auto-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

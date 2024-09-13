@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /vallejo/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Unique Beauty"
 url: /san-francisco/unique-beauty/
-shop: Kosmetik
+shop: beauty
 ---

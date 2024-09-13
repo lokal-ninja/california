@@ -1,5 +1,5 @@
 ---
 title: "The Bicycle Stand"
 url: /long-beach/the-bicycle-stand/
-shop: Fahrrad
+shop: bicycle
 ---

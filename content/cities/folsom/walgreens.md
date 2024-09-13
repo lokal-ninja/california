@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /folsom/walgreens/
-shop: Drogerie
+shop: chemist
 ---

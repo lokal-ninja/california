@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /tustin/petsmart-el-camino-real/
-shop: Tiere
+shop: pet
 ---

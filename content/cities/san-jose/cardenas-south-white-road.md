@@ -1,5 +1,5 @@
 ---
 title: "Cardenas"
 url: /san-jose/cardenas-south-white-road/
-shop: Supermarkt
+shop: supermarket
 ---

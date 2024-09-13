@@ -1,5 +1,5 @@
 ---
 title: "New Cali Beauty Salon"
 url: /san-jose/new-cali-beauty-salon/
-shop: Kosmetik
+shop: beauty
 ---

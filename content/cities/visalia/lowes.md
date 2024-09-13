@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /visalia/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

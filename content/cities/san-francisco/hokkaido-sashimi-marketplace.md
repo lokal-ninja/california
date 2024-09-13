@@ -1,5 +1,5 @@
 ---
 title: "Hokkaido Sashimi Marketplace"
 url: /san-francisco/hokkaido-sashimi-marketplace/
-shop: Lebensmittel
+shop: convenience
 ---

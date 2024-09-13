@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /san-mateo/claires/
-shop: Modehaus
+shop: boutique
 ---

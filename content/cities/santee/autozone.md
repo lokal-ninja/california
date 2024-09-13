@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /santee/autozone/
-shop: Autoteile
+shop: car parts
 ---

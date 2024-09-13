@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /signal-hill/target/
-shop: Warenhaus
+shop: department store
 ---

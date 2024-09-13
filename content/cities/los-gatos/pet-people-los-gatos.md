@@ -1,5 +1,5 @@
 ---
 title: "Pet People Los Gatos"
 url: /los-gatos/pet-people-los-gatos/
-shop: Tiere
+shop: pet
 ---

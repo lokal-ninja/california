@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /gilroy/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

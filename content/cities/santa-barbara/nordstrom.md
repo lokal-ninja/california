@@ -1,5 +1,5 @@
 ---
 title: "Nordstrom"
 url: /santa-barbara/nordstrom/
-shop: Warenhaus
+shop: department store
 ---

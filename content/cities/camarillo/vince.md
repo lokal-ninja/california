@@ -1,5 +1,5 @@
 ---
 title: "VINCE."
 url: /camarillo/vince/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mardikian Automotive"
 url: /redondo-beach/mardikian-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Freeway Auto"
 url: /san-clemente/freeway-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

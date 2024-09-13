@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /tustin/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

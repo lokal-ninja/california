@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /san-francisco/petco-sloat-boulevard/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Angelus Florist"
 url: /los-angeles/angelus-florist/
-shop: Blumen
+shop: florist
 ---

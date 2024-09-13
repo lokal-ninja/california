@@ -1,5 +1,5 @@
 ---
 title: "Adidas"
 url: /vacaville/adidas/
-shop: Sport
+shop: sports
 ---

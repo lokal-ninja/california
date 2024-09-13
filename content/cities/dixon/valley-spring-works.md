@@ -1,5 +1,5 @@
 ---
 title: "Valley Spring Works"
 url: /dixon/valley-spring-works/
-shop: Autowerkstatt
+shop: car repair
 ---

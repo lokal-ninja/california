@@ -1,5 +1,5 @@
 ---
 title: "Ralphs"
 url: /brea/ralphs/
-shop: Supermarkt
+shop: supermarket
 ---

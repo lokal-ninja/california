@@ -1,5 +1,5 @@
 ---
 title: "D'Lite Cleaners"
 url: /san-diego/dlite-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

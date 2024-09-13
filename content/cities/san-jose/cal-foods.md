@@ -1,5 +1,5 @@
 ---
 title: "Cal Foods"
 url: /san-jose/cal-foods/
-shop: Lebensmittel
+shop: convenience
 ---

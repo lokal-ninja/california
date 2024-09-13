@@ -1,5 +1,5 @@
 ---
 title: "Blossom Nail Spa"
 url: /san-jose/blossom-nail-spa/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /tustin/costco-el-camino-real/
-shop: Großhandel
+shop: wholesale
 ---

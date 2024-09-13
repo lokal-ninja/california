@@ -1,5 +1,5 @@
 ---
 title: "Meiners Oaks Nursery"
 url: /ojai/meiners-oaks-nursery/
-shop: Garten-Center
+shop: garden centre
 ---

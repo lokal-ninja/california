@@ -1,5 +1,5 @@
 ---
 title: "Beyond Veneer"
 url: /sunnyvale/beyond-veneer/
-shop: Friseur
+shop: hairdresser
 ---

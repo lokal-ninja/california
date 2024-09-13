@@ -1,5 +1,5 @@
 ---
 title: "Hye Market"
 url: /fresno/hye-market/
-shop: Lebensmittel
+shop: convenience
 ---

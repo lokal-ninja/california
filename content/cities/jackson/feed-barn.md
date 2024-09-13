@@ -1,5 +1,5 @@
 ---
 title: "Feed Barn"
 url: /jackson/feed-barn/
-shop: Tiere
+shop: pet
 ---

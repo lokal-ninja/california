@@ -1,5 +1,5 @@
 ---
 title: "Lincoln Shoe Repair"
 url: /san-jose/lincoln-shoe-repair/
-shop: Schuhe
+shop: shoes
 ---

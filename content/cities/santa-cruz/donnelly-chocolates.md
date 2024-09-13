@@ -1,5 +1,5 @@
 ---
 title: "Donnelly Chocolates"
 url: /santa-cruz/donnelly-chocolates/
-shop: Süßwaren
+shop: confectionery
 ---

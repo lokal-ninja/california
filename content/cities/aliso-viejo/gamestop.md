@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /aliso-viejo/gamestop/
-shop: Videospiele
+shop: video games
 ---

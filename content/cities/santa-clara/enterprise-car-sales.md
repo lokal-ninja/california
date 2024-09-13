@@ -1,5 +1,5 @@
 ---
 title: "Enterprise Car Sales"
 url: /santa-clara/enterprise-car-sales/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AAMCO Transmissions"
 url: /san-luis-obispo/aamco-transmissions/
-shop: Autowerkstatt
+shop: car repair
 ---

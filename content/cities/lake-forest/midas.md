@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /lake-forest/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

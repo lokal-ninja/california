@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /west-sacramento/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

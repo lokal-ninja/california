@@ -1,5 +1,5 @@
 ---
 title: "Dietz Brothers Music"
 url: /manhattan-beach/dietz-brothers-music/
-shop: Instrumente
+shop: musical instrument
 ---

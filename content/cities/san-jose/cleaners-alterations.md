@@ -1,5 +1,5 @@
 ---
 title: "Cleaners Alterations"
 url: /san-jose/cleaners-alterations/
-shop: Wäscherei
+shop: laundry
 ---

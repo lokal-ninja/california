@@ -1,5 +1,5 @@
 ---
 title: "Oakdale Bike Shop"
 url: /oakdale/oakdale-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

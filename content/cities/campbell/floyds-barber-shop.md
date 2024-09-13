@@ -1,5 +1,5 @@
 ---
 title: "Floyd's Barber Shop"
 url: /campbell/floyds-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

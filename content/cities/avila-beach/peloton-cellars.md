@@ -1,5 +1,5 @@
 ---
 title: "Peloton Cellars"
 url: /avila-beach/peloton-cellars/
-shop: Wein
+shop: wine
 ---

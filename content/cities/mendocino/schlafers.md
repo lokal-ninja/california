@@ -1,5 +1,5 @@
 ---
 title: "Schlafer's"
 url: /mendocino/schlafers/
-shop: Autowerkstatt
+shop: car repair
 ---

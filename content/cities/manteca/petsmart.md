@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /manteca/petsmart/
-shop: Tiere
+shop: pet
 ---

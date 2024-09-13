@@ -1,5 +1,5 @@
 ---
 title: "Marina Supermarket"
 url: /san-francisco/marina-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

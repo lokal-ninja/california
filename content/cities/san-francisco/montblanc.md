@@ -1,5 +1,5 @@
 ---
 title: "Montblanc"
 url: /san-francisco/montblanc/
-shop: Modehaus
+shop: boutique
 ---

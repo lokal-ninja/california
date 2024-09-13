@@ -1,5 +1,5 @@
 ---
 title: "Murphy's Paw"
 url: /livermore/murphys-paw/
-shop: Kleidung
+shop: clothes
 ---

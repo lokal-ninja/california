@@ -1,5 +1,5 @@
 ---
 title: "MGM Smog"
 url: /moreno-valley/mgm-smog/
-shop: Autowerkstatt
+shop: car repair
 ---

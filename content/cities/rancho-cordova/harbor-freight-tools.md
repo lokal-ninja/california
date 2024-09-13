@@ -1,5 +1,5 @@
 ---
 title: "Harbor Freight Tools"
 url: /rancho-cordova/harbor-freight-tools/
-shop: Eisenwaren
+shop: hardware
 ---

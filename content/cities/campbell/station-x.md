@@ -1,5 +1,5 @@
 ---
 title: "Station X"
 url: /campbell/station-x/
-shop: Friseur
+shop: hairdresser
 ---

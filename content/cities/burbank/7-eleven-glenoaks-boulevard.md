@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
 url: /burbank/7-eleven-glenoaks-boulevard/
-shop: Lebensmittel
+shop: convenience
 ---

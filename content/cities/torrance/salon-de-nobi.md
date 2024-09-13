@@ -1,5 +1,5 @@
 ---
 title: "Salon de Nobi"
 url: /torrance/salon-de-nobi/
-shop: Kosmetik
+shop: beauty
 ---

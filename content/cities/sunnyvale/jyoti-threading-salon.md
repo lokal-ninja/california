@@ -1,5 +1,5 @@
 ---
 title: "Jyoti Threading Salon"
 url: /sunnyvale/jyoti-threading-salon/
-shop: Kosmetik
+shop: beauty
 ---

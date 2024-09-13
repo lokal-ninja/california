@@ -1,5 +1,5 @@
 ---
 title: "Olivia"
 url: /los-altos/olivia/
-shop: Kleidung
+shop: clothes
 ---

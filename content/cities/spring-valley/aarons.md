@@ -1,5 +1,5 @@
 ---
 title: "Aaron's"
 url: /spring-valley/aarons/
-shop: Möbel
+shop: furniture
 ---

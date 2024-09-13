@@ -1,5 +1,5 @@
 ---
 title: "WSS"
 url: /fontana/wss/
-shop: Schuhe
+shop: shoes
 ---

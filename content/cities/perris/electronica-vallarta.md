@@ -1,5 +1,5 @@
 ---
 title: "Electronica Vallarta"
 url: /perris/electronica-vallarta/
-shop: Elektronik
+shop: electronics
 ---

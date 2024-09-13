@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /manteca/kohls/
-shop: Warenhaus
+shop: department store
 ---

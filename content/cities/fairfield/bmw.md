@@ -1,5 +1,5 @@
 ---
 title: "BMW"
 url: /fairfield/bmw/
-shop: Autowerkstatt
+shop: car repair
 ---

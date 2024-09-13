@@ -1,5 +1,5 @@
 ---
 title: "Tesla Chico-Huss"
 url: /chico/tesla-chico-huss/
-shop: Autohaus
+shop: car
 ---

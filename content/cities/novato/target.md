@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /novato/target/
-shop: Warenhaus
+shop: department store
 ---

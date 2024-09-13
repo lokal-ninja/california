@@ -1,5 +1,5 @@
 ---
 title: "Miracle Cleaners"
 url: /san-francisco/miracle-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

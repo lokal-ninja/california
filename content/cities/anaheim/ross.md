@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /anaheim/ross/
-shop: Warenhaus
+shop: department store
 ---

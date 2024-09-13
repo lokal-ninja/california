@@ -1,5 +1,5 @@
 ---
 title: "Paper Source"
 url: /san-francisco/paper-source/
-shop: Schreibwaren
+shop: office supplies
 ---

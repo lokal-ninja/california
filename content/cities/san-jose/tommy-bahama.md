@@ -1,5 +1,5 @@
 ---
 title: "Tommy Bahama"
 url: /san-jose/tommy-bahama/
-shop: Kleidung
+shop: clothes
 ---

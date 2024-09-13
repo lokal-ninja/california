@@ -1,5 +1,5 @@
 ---
 title: "Ralphs"
 url: /la-crescenta/ralphs/
-shop: Supermarkt
+shop: supermarket
 ---

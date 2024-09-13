@@ -1,5 +1,5 @@
 ---
 title: "Brandy Melville"
 url: /palo-alto/brandy-melville/
-shop: Kleidung
+shop: clothes
 ---

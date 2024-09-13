@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /fresno/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

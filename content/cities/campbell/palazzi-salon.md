@@ -1,5 +1,5 @@
 ---
 title: "Palazzi Salon"
 url: /campbell/palazzi-salon/
-shop: Kosmetik
+shop: beauty
 ---

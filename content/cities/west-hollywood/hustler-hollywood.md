@@ -1,5 +1,5 @@
 ---
 title: "Hustler Hollywood"
 url: /west-hollywood/hustler-hollywood/
-shop: Warenhaus
+shop: department store
 ---

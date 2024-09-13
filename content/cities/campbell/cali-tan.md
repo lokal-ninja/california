@@ -1,5 +1,5 @@
 ---
 title: "Cali Tan"
 url: /campbell/cali-tan/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sears"
 url: /fairfield/sears/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /fremont/dsw/
-shop: Schuhe
+shop: shoes
 ---

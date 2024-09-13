@@ -1,5 +1,5 @@
 ---
 title: "Coast Automotive Warehouse"
 url: /salinas/coast-automotive-warehouse/
-shop: Autoteile
+shop: car parts
 ---

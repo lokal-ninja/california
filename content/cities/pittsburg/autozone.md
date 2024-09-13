@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /pittsburg/autozone/
-shop: Autoteile
+shop: car parts
 ---

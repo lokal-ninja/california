@@ -1,5 +1,5 @@
 ---
 title: "AA Hair Design"
 url: /jackson/aa-hair-design/
-shop: Friseur
+shop: hairdresser
 ---

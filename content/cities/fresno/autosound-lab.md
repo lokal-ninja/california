@@ -1,5 +1,5 @@
 ---
 title: "Autosound Lab"
 url: /fresno/autosound-lab/
-shop: Hifi
+shop: hifi
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ralphs"
 url: /west-hollywood/ralphs-beverly-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

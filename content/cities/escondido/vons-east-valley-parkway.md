@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /escondido/vons-east-valley-parkway/
-shop: Supermarkt
+shop: supermarket
 ---

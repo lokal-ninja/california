@@ -1,5 +1,5 @@
 ---
 title: "BevMo!"
 url: /el-cajon/bevmo/
-shop: Spirituosen
+shop: alcohol
 ---

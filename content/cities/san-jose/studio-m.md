@@ -1,5 +1,5 @@
 ---
 title: "Studio M"
 url: /san-jose/studio-m/
-shop: Friseur
+shop: hairdresser
 ---

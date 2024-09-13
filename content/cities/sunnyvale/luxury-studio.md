@@ -1,5 +1,5 @@
 ---
 title: "Luxury Studio"
 url: /sunnyvale/luxury-studio/
-shop: Friseur
+shop: hairdresser
 ---

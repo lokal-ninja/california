@@ -1,5 +1,5 @@
 ---
 title: "Encinal Shopping Center"
 url: /alameda/encinal-shopping-center/
-shop: Einkaufszentrum
+shop: mall
 ---

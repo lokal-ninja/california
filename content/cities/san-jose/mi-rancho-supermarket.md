@@ -1,5 +1,5 @@
 ---
 title: "Mi Rancho Supermarket"
 url: /san-jose/mi-rancho-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

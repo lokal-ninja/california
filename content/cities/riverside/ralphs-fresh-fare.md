@@ -1,5 +1,5 @@
 ---
 title: "Ralphs Fresh Fare"
 url: /riverside/ralphs-fresh-fare/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Salon Elegante"
 url: /san-jose/salon-elegante/
-shop: Friseur
+shop: hairdresser
 ---

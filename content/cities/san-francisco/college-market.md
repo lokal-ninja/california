@@ -1,5 +1,5 @@
 ---
 title: "College Market"
 url: /san-francisco/college-market/
-shop: Lebensmittel
+shop: convenience
 ---

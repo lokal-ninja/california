@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /valencia/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

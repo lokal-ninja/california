@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /whitter/autozone/
-shop: Autoteile
+shop: car parts
 ---

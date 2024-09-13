@@ -1,5 +1,5 @@
 ---
 title: "Raley's"
 url: /napa/raleys/
-shop: Supermarkt
+shop: supermarket
 ---

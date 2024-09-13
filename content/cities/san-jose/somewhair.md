@@ -1,5 +1,5 @@
 ---
 title: "SomeWhair"
 url: /san-jose/somewhair/
-shop: Kosmetik
+shop: beauty
 ---

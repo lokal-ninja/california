@@ -1,5 +1,5 @@
 ---
 title: "Miss Nails"
 url: /sacramento/miss-nails/
-shop: Kosmetik
+shop: beauty
 ---

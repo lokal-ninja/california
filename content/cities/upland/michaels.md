@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /upland/michaels/
-shop: Basteln
+shop: craft
 ---

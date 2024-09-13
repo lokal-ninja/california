@@ -1,5 +1,5 @@
 ---
 title: "Pacific Ocean Sports"
 url: /concord/pacific-ocean-sports/
-shop: Tauchen
+shop: diving
 ---

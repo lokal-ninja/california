@@ -1,5 +1,5 @@
 ---
 title: "Chico's"
 url: /fresno/chicos/
-shop: Kleidung
+shop: clothes
 ---

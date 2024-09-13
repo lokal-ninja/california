@@ -1,5 +1,5 @@
 ---
 title: "BevMo!"
 url: /pasadena/bevmo/
-shop: Spirituosen
+shop: alcohol
 ---

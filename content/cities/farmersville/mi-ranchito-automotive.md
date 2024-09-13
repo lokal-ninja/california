@@ -1,5 +1,5 @@
 ---
 title: "Mi Ranchito Automotive"
 url: /farmersville/mi-ranchito-automotive/
-shop: Autohaus
+shop: car
 ---

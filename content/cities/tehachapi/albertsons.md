@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /tehachapi/albertsons/
-shop: Supermarkt
+shop: supermarket
 ---

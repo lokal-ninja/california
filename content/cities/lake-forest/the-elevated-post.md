@@ -1,5 +1,5 @@
 ---
 title: "The Elevated Post"
 url: /lake-forest/the-elevated-post/
-shop: Schreibwaren
+shop: office supplies
 ---

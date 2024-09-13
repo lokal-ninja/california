@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /elk-grove/burlington/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /corona/walgreens/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alice + Olivia"
 url: /newport-beach/alice-olivia/
-shop: Kleidung
+shop: clothes
 ---

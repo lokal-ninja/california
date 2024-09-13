@@ -1,5 +1,5 @@
 ---
 title: "Tehama Oaks Winary: Downtown Tasting Room"
 url: /red-bluff/tehama-oaks-winary-downtown-tasting-room/
-shop: Wein
+shop: wine
 ---

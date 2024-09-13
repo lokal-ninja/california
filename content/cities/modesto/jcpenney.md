@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /modesto/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

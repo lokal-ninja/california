@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /bonita/vons/
-shop: Supermarkt
+shop: supermarket
 ---

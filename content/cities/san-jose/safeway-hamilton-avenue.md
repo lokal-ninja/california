@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /san-jose/safeway-hamilton-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

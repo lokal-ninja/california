@@ -1,5 +1,5 @@
 ---
 title: "Sympathetic Innovation"
 url: /san-diego/sympathetic-innovation/
-shop: Radiotechnik
+shop: radiotechnics
 ---

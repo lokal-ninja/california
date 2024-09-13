@@ -1,5 +1,5 @@
 ---
 title: "Redwave Liquor"
 url: /fresno/redwave-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

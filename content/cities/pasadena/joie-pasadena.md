@@ -1,5 +1,5 @@
 ---
 title: "Joie Pasadena"
 url: /pasadena/joie-pasadena/
-shop: Kleidung
+shop: clothes
 ---

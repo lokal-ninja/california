@@ -1,5 +1,5 @@
 ---
 title: "SadieKHairStudio"
 url: /sunnyvale/sadiekhairstudio/
-shop: Friseur
+shop: hairdresser
 ---

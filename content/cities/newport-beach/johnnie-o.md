@@ -1,5 +1,5 @@
 ---
 title: "Johnnie-O"
 url: /newport-beach/johnnie-o/
-shop: Kleidung
+shop: clothes
 ---

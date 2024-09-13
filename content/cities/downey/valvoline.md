@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /downey/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

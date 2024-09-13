@@ -1,5 +1,5 @@
 ---
 title: "ALS Auto Service"
 url: /milpitas/als-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bakeshop"
 url: /modesto/bakeshop/
-shop: Bäckerei
+shop: bakery
 ---

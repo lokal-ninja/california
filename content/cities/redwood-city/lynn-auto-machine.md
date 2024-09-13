@@ -1,5 +1,5 @@
 ---
 title: "Lynn Auto Machine"
 url: /redwood-city/lynn-auto-machine/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "uBreakiFix by Asurion"
 url: /union-city/ubreakifix-by-asurion/
-shop: Handy
+shop: mobile phone
 ---

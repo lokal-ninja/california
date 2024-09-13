@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /scotts-valley/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Muse Salon"
 url: /cupertino/muse-salon/
-shop: Friseur
+shop: hairdresser
 ---

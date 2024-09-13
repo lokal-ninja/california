@@ -1,5 +1,5 @@
 ---
 title: "Salon B"
 url: /los-gatos/salon-b/
-shop: Friseur
+shop: hairdresser
 ---

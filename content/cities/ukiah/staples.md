@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /ukiah/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

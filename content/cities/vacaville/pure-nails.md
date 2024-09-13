@@ -1,5 +1,5 @@
 ---
 title: "Pure Nails"
 url: /vacaville/pure-nails/
-shop: Kosmetik
+shop: beauty
 ---

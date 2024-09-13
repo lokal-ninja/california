@@ -1,5 +1,5 @@
 ---
 title: "Domnic's Family Hair"
 url: /bishop/domnics-family-hair/
-shop: Friseur
+shop: hairdresser
 ---

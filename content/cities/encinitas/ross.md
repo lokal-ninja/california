@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /encinitas/ross/
-shop: Warenhaus
+shop: department store
 ---

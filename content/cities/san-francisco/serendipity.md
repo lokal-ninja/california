@@ -1,5 +1,5 @@
 ---
 title: "Serendipity"
 url: /san-francisco/serendipity/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lady Dianne Sanchez"
 url: /cupertino/lady-dianne-sanchez/
-shop: Friseur
+shop: hairdresser
 ---

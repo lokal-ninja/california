@@ -1,5 +1,5 @@
 ---
 title: "Rapido"
 url: /anaheim/rapido/
-shop: Reisebüro
+shop: travel agency
 ---

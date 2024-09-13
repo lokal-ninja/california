@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /visalia/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

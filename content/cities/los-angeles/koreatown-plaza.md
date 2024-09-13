@@ -1,5 +1,5 @@
 ---
 title: "Koreatown Plaza"
 url: /los-angeles/koreatown-plaza/
-shop: Einkaufszentrum
+shop: mall
 ---

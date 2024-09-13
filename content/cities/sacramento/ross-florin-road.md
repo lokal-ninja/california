@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /sacramento/ross-florin-road/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Faces Plus"
 url: /san-francisco/faces-plus/
-shop: Kosmetik
+shop: beauty
 ---

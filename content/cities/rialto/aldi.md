@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /rialto/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ralphs"
 url: /riverside/ralphs/
-shop: Supermarkt
+shop: supermarket
 ---

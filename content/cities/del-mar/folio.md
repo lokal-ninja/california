@@ -1,5 +1,5 @@
 ---
 title: "Folio"
 url: /del-mar/folio/
-shop: Raumausstattung
+shop: interior decoration
 ---

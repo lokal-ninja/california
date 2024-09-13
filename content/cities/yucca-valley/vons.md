@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /yucca-valley/vons/
-shop: Supermarkt
+shop: supermarket
 ---

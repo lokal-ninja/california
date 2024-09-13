@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
 url: /san-diego/office-depot/
-shop: Schreibwaren
+shop: office supplies
 ---

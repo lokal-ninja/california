@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /lompoc/ross/
-shop: Warenhaus
+shop: department store
 ---

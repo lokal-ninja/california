@@ -1,5 +1,5 @@
 ---
 title: "Marina Market"
 url: /martinez/marina-market/
-shop: Lebensmittel
+shop: convenience
 ---

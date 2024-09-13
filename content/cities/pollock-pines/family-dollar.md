@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /pollock-pines/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

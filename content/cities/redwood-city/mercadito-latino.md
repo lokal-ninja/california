@@ -1,5 +1,5 @@
 ---
 title: "Mercadito Latino"
 url: /redwood-city/mercadito-latino/
-shop: Supermarkt
+shop: supermarket
 ---

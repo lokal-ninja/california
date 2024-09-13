@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /lathrop/target/
-shop: Warenhaus
+shop: department store
 ---

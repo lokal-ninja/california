@@ -1,5 +1,5 @@
 ---
 title: "Diva's Hair Salon"
 url: /fresno/divas-hair-salon/
-shop: Friseur
+shop: hairdresser
 ---

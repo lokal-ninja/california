@@ -1,5 +1,5 @@
 ---
 title: "Kingway Cabinet Outlet"
 url: /san-jose/kingway-cabinet-outlet/
-shop: Küchen
+shop: kitchen
 ---

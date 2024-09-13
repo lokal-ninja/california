@@ -1,5 +1,5 @@
 ---
 title: "Anaheim Motorsports"
 url: /anaheim/anaheim-motorsports/
-shop: Autohaus
+shop: car
 ---

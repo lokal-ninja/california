@@ -1,5 +1,5 @@
 ---
 title: "Lamps Plus"
 url: /san-jose/lamps-plus/
-shop: Möbel
+shop: furniture
 ---

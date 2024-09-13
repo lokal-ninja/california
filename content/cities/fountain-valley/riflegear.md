@@ -1,5 +1,5 @@
 ---
 title: "RifleGear"
 url: /fountain-valley/riflegear/
-shop: Waffen
+shop: weapons
 ---

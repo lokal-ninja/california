@@ -1,5 +1,5 @@
 ---
 title: "Cigar Pipe"
 url: /redlands/cigar-pipe/
-shop: Lebensmittel
+shop: convenience
 ---

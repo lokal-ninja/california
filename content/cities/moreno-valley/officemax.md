@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /moreno-valley/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AMPM"
 url: /newhall/ampm-sierra-highway/
-shop: Lebensmittel
+shop: convenience
 ---

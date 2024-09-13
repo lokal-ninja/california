@@ -1,5 +1,5 @@
 ---
 title: "Pamperurself"
 url: /laguna-niguel/pamperurself/
-shop: Massage
+shop: massage
 ---

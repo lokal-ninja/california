@@ -1,5 +1,5 @@
 ---
 title: "Jo-Ann"
 url: /san-leandro/jo-ann/
-shop: Basteln
+shop: craft
 ---

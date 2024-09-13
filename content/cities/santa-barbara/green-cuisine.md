@@ -1,5 +1,5 @@
 ---
 title: "Green Cuisine"
 url: /santa-barbara/green-cuisine/
-shop: Hanf
+shop: cannabis
 ---

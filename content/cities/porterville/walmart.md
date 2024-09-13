@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /porterville/walmart/
-shop: Supermarkt
+shop: supermarket
 ---

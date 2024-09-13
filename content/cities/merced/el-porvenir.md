@@ -1,5 +1,5 @@
 ---
 title: "El Porvenir"
 url: /merced/el-porvenir/
-shop: Supermarkt
+shop: supermarket
 ---

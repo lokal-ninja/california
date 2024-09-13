@@ -1,5 +1,5 @@
 ---
 title: "Fix Auto"
 url: /san-clemente/fix-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

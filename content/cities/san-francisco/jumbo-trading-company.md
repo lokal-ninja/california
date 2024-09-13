@@ -1,5 +1,5 @@
 ---
 title: "Jumbo Trading Company"
 url: /san-francisco/jumbo-trading-company/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Monterey Auto Sertive"
 url: /san-jose/monterey-auto-sertive/
-shop: Autowerkstatt
+shop: car repair
 ---

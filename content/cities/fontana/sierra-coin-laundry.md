@@ -1,5 +1,5 @@
 ---
 title: "Sierra Coin Laundry"
 url: /fontana/sierra-coin-laundry/
-shop: Wäscherei
+shop: laundry
 ---

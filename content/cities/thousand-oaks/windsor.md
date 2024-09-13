@@ -1,5 +1,5 @@
 ---
 title: "Windsor"
 url: /thousand-oaks/windsor/
-shop: Kleidung
+shop: clothes
 ---

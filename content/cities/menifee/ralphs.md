@@ -1,5 +1,5 @@
 ---
 title: "Ralphs"
 url: /menifee/ralphs/
-shop: Supermarkt
+shop: supermarket
 ---

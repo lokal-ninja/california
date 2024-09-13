@@ -1,5 +1,5 @@
 ---
 title: "Tony's Collision Center"
 url: /san-francisco/tonys-collision-center/
-shop: Autowerkstatt
+shop: car repair
 ---

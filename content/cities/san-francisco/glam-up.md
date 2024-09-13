@@ -1,5 +1,5 @@
 ---
 title: "Glam Up"
 url: /san-francisco/glam-up/
-shop: Friseur
+shop: hairdresser
 ---

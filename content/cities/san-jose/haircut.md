@@ -1,5 +1,5 @@
 ---
 title: "Haircut"
 url: /san-jose/haircut/
-shop: Friseur
+shop: hairdresser
 ---

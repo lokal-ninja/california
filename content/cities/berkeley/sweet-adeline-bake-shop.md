@@ -1,5 +1,5 @@
 ---
 title: "Sweet Adeline Bake Shop"
 url: /berkeley/sweet-adeline-bake-shop/
-shop: Bäckerei
+shop: bakery
 ---

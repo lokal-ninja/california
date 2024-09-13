@@ -1,5 +1,5 @@
 ---
 title: "Amazon Fresh"
 url: /moorpark/amazon-fresh/
-shop: Supermarkt
+shop: supermarket
 ---

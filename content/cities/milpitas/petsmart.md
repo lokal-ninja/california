@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /milpitas/petsmart/
-shop: Tiere
+shop: pet
 ---

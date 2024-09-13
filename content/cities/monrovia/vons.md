@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /monrovia/vons/
-shop: Supermarkt
+shop: supermarket
 ---

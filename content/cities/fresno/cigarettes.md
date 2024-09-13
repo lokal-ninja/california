@@ -1,5 +1,5 @@
 ---
 title: "Cigarettes"
 url: /fresno/cigarettes/
-shop: Tabak
+shop: tobacco
 ---

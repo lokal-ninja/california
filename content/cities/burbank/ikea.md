@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /burbank/ikea/
-shop: Möbel
+shop: furniture
 ---

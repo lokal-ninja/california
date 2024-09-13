@@ -1,5 +1,5 @@
 ---
 title: "Smallcakes"
 url: /danville/smallcakes/
-shop: Konditorei
+shop: pastry
 ---

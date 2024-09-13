@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /santa-rosa/rei/
-shop: Outdoor
+shop: outdoor
 ---

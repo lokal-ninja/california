@@ -1,5 +1,5 @@
 ---
 title: "Bonfare"
 url: /san-jose/bonfare/
-shop: Lebensmittel
+shop: convenience
 ---

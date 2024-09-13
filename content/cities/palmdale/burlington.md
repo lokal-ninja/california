@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /palmdale/burlington/
-shop: Warenhaus
+shop: department store
 ---

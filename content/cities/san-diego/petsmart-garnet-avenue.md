@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /san-diego/petsmart-garnet-avenue/
-shop: Tiere
+shop: pet
 ---

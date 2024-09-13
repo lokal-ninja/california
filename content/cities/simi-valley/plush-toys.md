@@ -1,5 +1,5 @@
 ---
 title: "Plush Toys"
 url: /simi-valley/plush-toys/
-shop: Spielzeug
+shop: toys
 ---

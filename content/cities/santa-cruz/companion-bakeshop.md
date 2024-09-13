@@ -1,5 +1,5 @@
 ---
 title: "Companion Bakeshop"
 url: /santa-cruz/companion-bakeshop/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Precision Auto Collision"
 url: /laguna-niguel/precision-auto-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

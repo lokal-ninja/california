@@ -1,5 +1,5 @@
 ---
 title: "The Pure Path"
 url: /los-gatos/the-pure-path/
-shop: Friseur
+shop: hairdresser
 ---

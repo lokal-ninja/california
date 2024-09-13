@@ -1,5 +1,5 @@
 ---
 title: "Tire Shop"
 url: /hawthorne/tire-shop/
-shop: Reifen
+shop: tyres
 ---

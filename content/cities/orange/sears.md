@@ -1,5 +1,5 @@
 ---
 title: "Sears"
 url: /orange/sears/
-shop: Warenhaus
+shop: department store
 ---

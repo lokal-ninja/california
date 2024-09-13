@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /fresno/marshalls/
-shop: Warenhaus
+shop: department store
 ---

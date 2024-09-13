@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /san-jose/autozone-hillsdale-avenue/
-shop: Autoteile
+shop: car parts
 ---

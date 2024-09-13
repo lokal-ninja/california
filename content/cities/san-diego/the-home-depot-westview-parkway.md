@@ -1,5 +1,5 @@
 ---
 title: "The Home Depot"
 url: /san-diego/the-home-depot-westview-parkway/
-shop: Baumarkt
+shop: doityourself
 ---

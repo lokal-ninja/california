@@ -1,5 +1,5 @@
 ---
 title: "Buckle"
 url: /fresno/buckle/
-shop: Kleidung
+shop: clothes
 ---

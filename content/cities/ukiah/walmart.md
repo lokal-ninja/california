@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /ukiah/walmart/
-shop: Supermarkt
+shop: supermarket
 ---

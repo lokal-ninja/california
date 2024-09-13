@@ -1,5 +1,5 @@
 ---
 title: "San Pedro Auto Parts"
 url: /san-pedro/san-pedro-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferndale Jewelers"
 url: /fortuna/ferndale-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

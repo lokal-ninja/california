@@ -1,5 +1,5 @@
 ---
 title: "Unique Auto Plaza"
 url: /san-jose/unique-auto-plaza/
-shop: Autohaus
+shop: car
 ---

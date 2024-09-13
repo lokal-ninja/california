@@ -1,5 +1,5 @@
 ---
 title: "Designs by Sandra"
 url: /sunnyvale/designs-by-sandra/
-shop: Friseur
+shop: hairdresser
 ---

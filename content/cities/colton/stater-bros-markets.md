@@ -1,5 +1,5 @@
 ---
 title: "Stater Bros. Markets"
 url: /colton/stater-bros-markets/
-shop: Supermarkt
+shop: supermarket
 ---

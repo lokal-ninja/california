@@ -1,5 +1,5 @@
 ---
 title: "Hobby Lobby"
 url: /citrus-heights/hobby-lobby/
-shop: Basteln
+shop: craft
 ---

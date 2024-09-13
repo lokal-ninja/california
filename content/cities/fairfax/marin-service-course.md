@@ -1,5 +1,5 @@
 ---
 title: "Marin Service Course"
 url: /fairfax/marin-service-course/
-shop: Fahrrad
+shop: bicycle
 ---

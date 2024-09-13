@@ -1,5 +1,5 @@
 ---
 title: "Two Cats"
 url: /san-francisco/two-cats/
-shop: Bücher
+shop: books
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dino Mart"
 url: /chico/dino-mart/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Car Stereo City"
 url: /san-diego/car-stereo-city/
-shop: Autowerkstatt
+shop: car repair
 ---

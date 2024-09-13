@@ -1,5 +1,5 @@
 ---
 title: "Diamond Food Center"
 url: /gustine/diamond-food-center/
-shop: Supermarkt
+shop: supermarket
 ---

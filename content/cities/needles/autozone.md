@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /needles/autozone/
-shop: Autoteile
+shop: car parts
 ---

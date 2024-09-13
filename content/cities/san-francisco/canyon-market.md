@@ -1,5 +1,5 @@
 ---
 title: "Canyon Market"
 url: /san-francisco/canyon-market/
-shop: Supermarkt
+shop: supermarket
 ---

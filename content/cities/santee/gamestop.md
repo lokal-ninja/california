@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /santee/gamestop/
-shop: Videospiele
+shop: video games
 ---

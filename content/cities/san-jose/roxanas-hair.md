@@ -1,5 +1,5 @@
 ---
 title: "Roxana's Hair"
 url: /san-jose/roxanas-hair/
-shop: Friseur
+shop: hairdresser
 ---

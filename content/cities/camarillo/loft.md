@@ -1,5 +1,5 @@
 ---
 title: "Loft"
 url: /camarillo/loft/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AG Jeans"
 url: /newport-beach/ag-jeans/
-shop: Kleidung
+shop: clothes
 ---

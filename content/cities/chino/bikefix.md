@@ -1,5 +1,5 @@
 ---
 title: "BikeFix"
 url: /chino/bikefix/
-shop: Fahrrad
+shop: bicycle
 ---

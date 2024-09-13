@@ -1,5 +1,5 @@
 ---
 title: "Lundy Liquor"
 url: /san-jose/lundy-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

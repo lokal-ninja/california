@@ -1,5 +1,5 @@
 ---
 title: "Fiesta Depot"
 url: /gilroy/fiesta-depot/
-shop: Partyzubehör
+shop: party
 ---

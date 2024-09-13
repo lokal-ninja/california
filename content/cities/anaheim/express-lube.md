@@ -1,5 +1,5 @@
 ---
 title: "Express Lube"
 url: /anaheim/express-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

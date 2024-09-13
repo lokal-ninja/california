@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /west-covina/sprint/
-shop: Handy
+shop: mobile phone
 ---

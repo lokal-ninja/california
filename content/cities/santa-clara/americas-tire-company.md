@@ -1,5 +1,5 @@
 ---
 title: "America's Tire Company"
 url: /santa-clara/americas-tire-company/
-shop: Reifen
+shop: tyres
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trader Joe's"
 url: /san-francisco/trader-joes-bay-street/
-shop: Supermarkt
+shop: supermarket
 ---

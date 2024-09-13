@@ -1,5 +1,5 @@
 ---
 title: "Ana's Beauty Salon"
 url: /coachella/anas-beauty-salon/
-shop: Friseur
+shop: hairdresser
 ---

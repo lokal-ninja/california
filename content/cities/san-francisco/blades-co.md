@@ -1,5 +1,5 @@
 ---
 title: "Blades Co."
 url: /san-francisco/blades-co/
-shop: Friseur
+shop: hairdresser
 ---

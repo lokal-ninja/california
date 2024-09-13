@@ -1,5 +1,5 @@
 ---
 title: "Big Lots"
 url: /gilroy/big-lots/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Earthbound Tire Center"
 url: /san-fernando/earthbound-tire-center/
-shop: Autowerkstatt
+shop: car repair
 ---

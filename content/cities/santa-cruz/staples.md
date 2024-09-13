@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /santa-cruz/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

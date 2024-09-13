@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /fresno/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

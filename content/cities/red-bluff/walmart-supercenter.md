@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /red-bluff/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Fanta Sports"
 url: /coachella/el-fanta-sports/
-shop: Sport
+shop: sports
 ---

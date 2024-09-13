@@ -1,5 +1,5 @@
 ---
 title: "Checkered Flag Classics"
 url: /gilroy/checkered-flag-classics/
-shop: Autohaus
+shop: car
 ---

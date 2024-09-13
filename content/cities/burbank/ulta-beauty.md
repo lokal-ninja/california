@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /burbank/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

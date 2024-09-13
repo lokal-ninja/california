@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /dos-palos/autozone/
-shop: Autoteile
+shop: car parts
 ---

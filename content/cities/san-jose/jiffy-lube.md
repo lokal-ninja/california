@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
 url: /san-jose/jiffy-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

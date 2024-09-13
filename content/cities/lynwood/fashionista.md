@@ -1,5 +1,5 @@
 ---
 title: "Fashionista"
 url: /lynwood/fashionista/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DestinationXL"
 url: /irvine/destinationxl/
-shop: Kleidung
+shop: clothes
 ---

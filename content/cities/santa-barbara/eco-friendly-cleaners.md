@@ -1,5 +1,5 @@
 ---
 title: "Eco Friendly Cleaners"
 url: /santa-barbara/eco-friendly-cleaners/
-shop: Allgemein
+shop: shop
 ---

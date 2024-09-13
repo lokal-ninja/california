@@ -1,5 +1,5 @@
 ---
 title: "Windsong"
 url: /fort-bragg/windsong/
-shop: Bücher
+shop: books
 ---

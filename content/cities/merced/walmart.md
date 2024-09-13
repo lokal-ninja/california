@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /merced/walmart/
-shop: Supermarkt
+shop: supermarket
 ---

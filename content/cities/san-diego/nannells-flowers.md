@@ -1,5 +1,5 @@
 ---
 title: "Nannell’s Flowers"
 url: /san-diego/nannells-flowers/
-shop: Blumen
+shop: florist
 ---

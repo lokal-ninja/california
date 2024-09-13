@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /riverside/ross-madison-street/
-shop: Warenhaus
+shop: department store
 ---

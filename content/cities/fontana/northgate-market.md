@@ -1,5 +1,5 @@
 ---
 title: "Northgate Market"
 url: /fontana/northgate-market/
-shop: Supermarkt
+shop: supermarket
 ---

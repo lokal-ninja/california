@@ -1,5 +1,5 @@
 ---
 title: "Jacuzzi"
 url: /palo-alto/jacuzzi/
-shop: Pool
+shop: swimming pool
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BevMo!"
 url: /whittier/bevmo/
-shop: Spirituosen
+shop: alcohol
 ---

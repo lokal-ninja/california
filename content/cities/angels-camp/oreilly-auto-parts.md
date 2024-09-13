@@ -1,5 +1,5 @@
 ---
 title: "O'Reilly Auto Parts"
 url: /angels-camp/oreilly-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

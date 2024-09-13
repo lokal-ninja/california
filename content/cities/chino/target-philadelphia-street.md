@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /chino/target-philadelphia-street/
-shop: Warenhaus
+shop: department store
 ---

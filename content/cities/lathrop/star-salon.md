@@ -1,5 +1,5 @@
 ---
 title: "Star Salon"
 url: /lathrop/star-salon/
-shop: Friseur
+shop: hairdresser
 ---

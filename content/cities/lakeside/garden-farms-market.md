@@ -1,5 +1,5 @@
 ---
 title: "Garden Farms Market"
 url: /lakeside/garden-farms-market/
-shop: Supermarkt
+shop: supermarket
 ---

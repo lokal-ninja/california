@@ -1,5 +1,5 @@
 ---
 title: "Gateway Tattoo Company"
 url: /visalia/gateway-tattoo-company/
-shop: Tattoo
+shop: tattoo
 ---

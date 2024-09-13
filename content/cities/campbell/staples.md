@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /campbell/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

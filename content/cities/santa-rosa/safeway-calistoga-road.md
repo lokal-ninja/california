@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /santa-rosa/safeway-calistoga-road/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CosmoProf"
 url: /fresno/cosmoprof/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

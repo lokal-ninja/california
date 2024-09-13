@@ -1,5 +1,5 @@
 ---
 title: "Tractor Supply Company"
 url: /jamul/tractor-supply-company/
-shop: Dorfladen
+shop: general
 ---

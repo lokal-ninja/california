@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /aliso-viejo/chevron/
-shop: Lebensmittel
+shop: convenience
 ---

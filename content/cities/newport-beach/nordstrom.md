@@ -1,5 +1,5 @@
 ---
 title: "Nordstrom"
 url: /newport-beach/nordstrom/
-shop: Warenhaus
+shop: department store
 ---

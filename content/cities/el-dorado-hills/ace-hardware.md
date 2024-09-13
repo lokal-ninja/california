@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /el-dorado-hills/ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

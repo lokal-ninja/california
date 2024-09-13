@@ -1,5 +1,5 @@
 ---
 title: "Smog Check"
 url: /los-angeles/smog-check/
-shop: Autowerkstatt
+shop: car repair
 ---

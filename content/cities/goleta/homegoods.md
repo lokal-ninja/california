@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /goleta/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

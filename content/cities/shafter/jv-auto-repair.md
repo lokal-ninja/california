@@ -1,5 +1,5 @@
 ---
 title: "JV Auto Repair"
 url: /shafter/jv-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

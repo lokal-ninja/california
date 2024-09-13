@@ -1,5 +1,5 @@
 ---
 title: "McRoskey Mattress Company"
 url: /san-francisco/mcroskey-mattress-company/
-shop: Betten
+shop: bed
 ---

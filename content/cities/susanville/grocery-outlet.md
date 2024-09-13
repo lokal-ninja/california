@@ -1,5 +1,5 @@
 ---
 title: "Grocery Outlet"
 url: /susanville/grocery-outlet/
-shop: Supermarkt
+shop: supermarket
 ---

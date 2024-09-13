@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /pleasant-hill/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

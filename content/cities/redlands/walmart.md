@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /redlands/walmart/
-shop: Supermarkt
+shop: supermarket
 ---

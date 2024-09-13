@@ -1,5 +1,5 @@
 ---
 title: "Five Below"
 url: /elk-grove/five-below/
-shop: Kramladen
+shop: variety store
 ---

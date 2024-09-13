@@ -1,5 +1,5 @@
 ---
 title: "Mabel's"
 url: /san-diego/mabels/
-shop: Kleidung
+shop: clothes
 ---

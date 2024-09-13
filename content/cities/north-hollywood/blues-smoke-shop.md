@@ -1,5 +1,5 @@
 ---
 title: "Blues Smoke Shop"
 url: /north-hollywood/blues-smoke-shop/
-shop: Tabak
+shop: tobacco
 ---

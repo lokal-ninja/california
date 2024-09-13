@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /monrovia/burlington/
-shop: Warenhaus
+shop: department store
 ---

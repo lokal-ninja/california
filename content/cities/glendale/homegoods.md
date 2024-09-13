@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /glendale/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /san-jose/dollar-tree-almaden-expressway/
-shop: Kramladen
+shop: variety store
 ---

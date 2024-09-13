@@ -1,5 +1,5 @@
 ---
 title: "Elite Nail Spa"
 url: /walnut-creek/elite-nail-spa/
-shop: Kosmetik
+shop: beauty
 ---

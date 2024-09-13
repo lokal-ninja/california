@@ -1,5 +1,5 @@
 ---
 title: "Ray-Ban"
 url: /newport-beach/ray-ban/
-shop: Optiker
+shop: optician
 ---

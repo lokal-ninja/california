@@ -1,5 +1,5 @@
 ---
 title: "Ralphs"
 url: /woodland-hills/ralphs/
-shop: Supermarkt
+shop: supermarket
 ---

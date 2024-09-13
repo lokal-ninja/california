@@ -1,5 +1,5 @@
 ---
 title: "beauty shop"
 url: /san-francisco/beauty-shop/
-shop: Kramladen
+shop: variety store
 ---

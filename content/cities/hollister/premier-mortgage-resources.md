@@ -1,5 +1,5 @@
 ---
 title: "Premier Mortgage Resources"
 url: /hollister/premier-mortgage-resources/
-shop: Leiher
+shop: pawnbroker
 ---

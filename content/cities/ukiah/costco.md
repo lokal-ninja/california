@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /ukiah/costco/
-shop: Großhandel
+shop: wholesale
 ---

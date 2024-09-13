@@ -1,5 +1,5 @@
 ---
 title: "Foxworthy Liquors"
 url: /san-jose/foxworthy-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

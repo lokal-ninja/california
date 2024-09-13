@@ -1,5 +1,5 @@
 ---
 title: "DIY Home Center"
 url: /south-lake-tahoe/diy-home-center/
-shop: Baumarkt
+shop: doityourself
 ---

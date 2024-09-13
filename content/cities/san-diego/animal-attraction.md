@@ -1,5 +1,5 @@
 ---
 title: "Animal Attraction"
 url: /san-diego/animal-attraction/
-shop: Tiersalon
+shop: pet grooming
 ---

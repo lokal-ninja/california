@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /laguna-woods/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "T B A Auto Parts"
 url: /atwater/t-b-a-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

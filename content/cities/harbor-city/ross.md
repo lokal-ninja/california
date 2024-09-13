@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /harbor-city/ross/
-shop: Warenhaus
+shop: department store
 ---

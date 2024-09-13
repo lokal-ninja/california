@@ -1,5 +1,5 @@
 ---
 title: "Del Sol"
 url: /avila-beach/del-sol/
-shop: Kleidung
+shop: clothes
 ---

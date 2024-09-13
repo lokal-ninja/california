@@ -1,5 +1,5 @@
 ---
 title: "Salty Hair"
 url: /santa-cruz/salty-hair/
-shop: Friseur
+shop: hairdresser
 ---

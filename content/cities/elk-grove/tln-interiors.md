@@ -1,5 +1,5 @@
 ---
 title: "TLN Interiors"
 url: /elk-grove/tln-interiors/
-shop: Raumausstattung
+shop: interior decoration
 ---

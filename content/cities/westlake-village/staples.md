@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /westlake-village/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /menifee/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

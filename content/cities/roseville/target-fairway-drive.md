@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /roseville/target-fairway-drive/
-shop: Warenhaus
+shop: department store
 ---

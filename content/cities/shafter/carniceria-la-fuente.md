@@ -1,5 +1,5 @@
 ---
 title: "Carniceria La Fuente"
 url: /shafter/carniceria-la-fuente/
-shop: Metzgerei
+shop: butcher
 ---

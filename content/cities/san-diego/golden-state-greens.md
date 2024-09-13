@@ -1,5 +1,5 @@
 ---
 title: "Golden State Greens"
 url: /san-diego/golden-state-greens/
-shop: Hanf
+shop: cannabis
 ---

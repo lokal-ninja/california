@@ -1,5 +1,5 @@
 ---
 title: "Taylor Co"
 url: /pomona/taylor-co/
-shop: Autowerkstatt
+shop: car repair
 ---

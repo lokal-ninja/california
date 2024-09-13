@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /murrieta/aldi-clinton-keith-road/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tillys"
 url: /vacaville/tillys/
-shop: Kleidung
+shop: clothes
 ---

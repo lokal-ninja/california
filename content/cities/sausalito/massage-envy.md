@@ -1,5 +1,5 @@
 ---
 title: "Massage Envy"
 url: /sausalito/massage-envy/
-shop: Massage
+shop: massage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hardcastle Autothon"
 url: /san-jose/hardcastle-autothon/
-shop: Autowerkstatt
+shop: car repair
 ---

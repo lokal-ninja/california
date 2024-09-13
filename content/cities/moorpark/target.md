@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /moorpark/target/
-shop: Warenhaus
+shop: department store
 ---

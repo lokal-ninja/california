@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /santa-cruz/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

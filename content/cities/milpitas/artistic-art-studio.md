@@ -1,5 +1,5 @@
 ---
 title: "Artistic Art Studio"
 url: /milpitas/artistic-art-studio/
-shop: Kunst
+shop: art
 ---

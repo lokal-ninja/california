@@ -1,5 +1,5 @@
 ---
 title: "Qwik stop"
 url: /porterville/qwik-stop/
-shop: Lebensmittel
+shop: convenience
 ---

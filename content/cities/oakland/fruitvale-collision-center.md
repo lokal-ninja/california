@@ -1,5 +1,5 @@
 ---
 title: "Fruitvale Collision Center"
 url: /oakland/fruitvale-collision-center/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mollie Stone's"
 url: /san-francisco/mollie-stones/
-shop: Supermarkt
+shop: supermarket
 ---

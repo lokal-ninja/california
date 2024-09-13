@@ -1,5 +1,5 @@
 ---
 title: "Aquatic Zoo Tropical Fish"
 url: /thousand-oaks/aquatic-zoo-tropical-fish/
-shop: Tiere
+shop: pet
 ---

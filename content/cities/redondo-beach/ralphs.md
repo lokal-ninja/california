@@ -1,5 +1,5 @@
 ---
 title: "Ralphs"
 url: /redondo-beach/ralphs/
-shop: Supermarkt
+shop: supermarket
 ---

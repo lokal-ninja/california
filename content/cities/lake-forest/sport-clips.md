@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /lake-forest/sport-clips/
-shop: Friseur
+shop: hairdresser
 ---

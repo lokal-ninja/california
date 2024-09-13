@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /pacifica/verizon/
-shop: Handy
+shop: mobile phone
 ---

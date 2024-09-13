@@ -1,5 +1,5 @@
 ---
 title: "Nothing Bundt Cakes"
 url: /mission-viejo/nothing-bundt-cakes/
-shop: Konditorei
+shop: pastry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /irvine/target-jamboree-road/
-shop: Warenhaus
+shop: department store
 ---

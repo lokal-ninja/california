@@ -1,5 +1,5 @@
 ---
 title: "International Bread"
 url: /san-jose/international-bread/
-shop: Bäckerei
+shop: bakery
 ---

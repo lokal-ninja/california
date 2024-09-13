@@ -1,5 +1,5 @@
 ---
 title: "JB's Jewelers"
 url: /santa-maria/jbs-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

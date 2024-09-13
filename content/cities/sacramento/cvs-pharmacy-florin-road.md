@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /sacramento/cvs-pharmacy-florin-road/
-shop: Drogerie
+shop: chemist
 ---

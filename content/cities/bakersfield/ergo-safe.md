@@ -1,5 +1,5 @@
 ---
 title: "Ergo Safe"
 url: /bakersfield/ergo-safe/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /redlands/vons/
-shop: Supermarkt
+shop: supermarket
 ---

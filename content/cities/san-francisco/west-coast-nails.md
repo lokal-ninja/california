@@ -1,5 +1,5 @@
 ---
 title: "West Coast Nails"
 url: /san-francisco/west-coast-nails/
-shop: Kosmetik
+shop: beauty
 ---

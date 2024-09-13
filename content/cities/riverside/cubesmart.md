@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /riverside/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

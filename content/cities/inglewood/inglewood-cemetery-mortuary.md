@@ -1,5 +1,5 @@
 ---
 title: "Inglewood Cemetery Mortuary"
 url: /inglewood/inglewood-cemetery-mortuary/
-shop: Bestattungen
+shop: funeral directors
 ---

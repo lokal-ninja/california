@@ -1,5 +1,5 @@
 ---
 title: "West Marine"
 url: /sausalito/west-marine/
-shop: Boot
+shop: boat
 ---

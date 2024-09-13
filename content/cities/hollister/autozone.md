@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /hollister/autozone/
-shop: Autoteile
+shop: car parts
 ---

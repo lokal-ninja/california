@@ -1,5 +1,5 @@
 ---
 title: "Party City"
 url: /daly-city/party-city/
-shop: Partyzubehör
+shop: party
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Z Salon"
 url: /santa-clara/z-salon/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "USA Mini Mart"
 url: /sacramento/usa-mini-mart/
-shop: Lebensmittel
+shop: convenience
 ---

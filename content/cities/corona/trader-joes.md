@@ -1,5 +1,5 @@
 ---
 title: "Trader Joe's"
 url: /corona/trader-joes/
-shop: Supermarkt
+shop: supermarket
 ---

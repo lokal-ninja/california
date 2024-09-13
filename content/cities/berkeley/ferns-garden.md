@@ -1,5 +1,5 @@
 ---
 title: "Fern's Garden"
 url: /berkeley/ferns-garden/
-shop: Andenken
+shop: gift
 ---

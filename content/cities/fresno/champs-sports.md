@@ -1,5 +1,5 @@
 ---
 title: "Champs Sports"
 url: /fresno/champs-sports/
-shop: Sport
+shop: sports
 ---

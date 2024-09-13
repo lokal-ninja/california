@@ -1,5 +1,5 @@
 ---
 title: "ABM Computers"
 url: /alameda/abm-computers/
-shop: Computer
+shop: computer
 ---

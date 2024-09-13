@@ -1,5 +1,5 @@
 ---
 title: "Dream Automotive Repair"
 url: /eureka/dream-automotive-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

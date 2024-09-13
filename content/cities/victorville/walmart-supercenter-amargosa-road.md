@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /victorville/walmart-supercenter-amargosa-road/
-shop: Supermarkt
+shop: supermarket
 ---

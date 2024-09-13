@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /orange/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

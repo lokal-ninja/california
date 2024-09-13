@@ -1,5 +1,5 @@
 ---
 title: "iContemporary Furniture"
 url: /fountain-valley/icontemporary-furniture/
-shop: Möbel
+shop: furniture
 ---

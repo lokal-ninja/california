@@ -1,5 +1,5 @@
 ---
 title: "Willow Market"
 url: /san-jose/willow-market/
-shop: Lebensmittel
+shop: convenience
 ---

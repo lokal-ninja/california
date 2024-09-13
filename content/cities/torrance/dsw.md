@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /torrance/dsw/
-shop: Schuhe
+shop: shoes
 ---

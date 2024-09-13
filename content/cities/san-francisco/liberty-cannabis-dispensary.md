@@ -1,5 +1,5 @@
 ---
 title: "Liberty Cannabis Dispensary"
 url: /san-francisco/liberty-cannabis-dispensary/
-shop: Hanf
+shop: cannabis
 ---

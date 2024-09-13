@@ -1,5 +1,5 @@
 ---
 title: "Central Valley Tire Works"
 url: /atwater/central-valley-tire-works/
-shop: Autowerkstatt
+shop: car repair
 ---

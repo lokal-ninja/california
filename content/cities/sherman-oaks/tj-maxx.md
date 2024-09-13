@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /sherman-oaks/tj-maxx/
-shop: Warenhaus
+shop: department store
 ---

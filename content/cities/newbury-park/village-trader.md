@@ -1,5 +1,5 @@
 ---
 title: "Village Trader"
 url: /newbury-park/village-trader/
-shop: Lebensmittel
+shop: convenience
 ---

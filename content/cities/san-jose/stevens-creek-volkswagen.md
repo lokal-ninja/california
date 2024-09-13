@@ -1,5 +1,5 @@
 ---
 title: "Stevens Creek Volkswagen"
 url: /san-jose/stevens-creek-volkswagen/
-shop: Autowerkstatt
+shop: car repair
 ---

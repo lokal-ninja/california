@@ -1,5 +1,5 @@
 ---
 title: "Clairemont Equipment"
 url: /san-diego/clairemont-equipment/
-shop: Allgemein
+shop: shop
 ---

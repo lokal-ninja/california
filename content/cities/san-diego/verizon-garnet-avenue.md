@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /san-diego/verizon-garnet-avenue/
-shop: Handy
+shop: mobile phone
 ---

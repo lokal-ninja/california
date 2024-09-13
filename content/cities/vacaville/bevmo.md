@@ -1,5 +1,5 @@
 ---
 title: "BevMo!"
 url: /vacaville/bevmo/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pothong Market"
 url: /sacramento/pothong-market/
-shop: Supermarkt
+shop: supermarket
 ---

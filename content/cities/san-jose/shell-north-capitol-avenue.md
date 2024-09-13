@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /san-jose/shell-north-capitol-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

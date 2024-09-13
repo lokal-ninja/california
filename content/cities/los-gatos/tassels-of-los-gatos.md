@@ -1,5 +1,5 @@
 ---
 title: "Tassels of Los Gatos"
 url: /los-gatos/tassels-of-los-gatos/
-shop: Allgemein
+shop: shop
 ---

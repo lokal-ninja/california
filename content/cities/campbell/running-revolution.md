@@ -1,5 +1,5 @@
 ---
 title: "Running Revolution"
 url: /campbell/running-revolution/
-shop: Sport
+shop: sports
 ---

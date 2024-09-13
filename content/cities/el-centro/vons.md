@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /el-centro/vons/
-shop: Supermarkt
+shop: supermarket
 ---

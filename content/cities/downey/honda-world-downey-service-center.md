@@ -1,5 +1,5 @@
 ---
 title: "Honda World Downey Service Center"
 url: /downey/honda-world-downey-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

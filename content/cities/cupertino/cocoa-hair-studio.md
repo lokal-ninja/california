@@ -1,5 +1,5 @@
 ---
 title: "Cocoa Hair Studio"
 url: /cupertino/cocoa-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

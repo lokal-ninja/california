@@ -1,5 +1,5 @@
 ---
 title: "Ralphs"
 url: /rancho-palos-verdes/ralphs/
-shop: Supermarkt
+shop: supermarket
 ---

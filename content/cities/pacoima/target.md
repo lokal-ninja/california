@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /pacoima/target/
-shop: Warenhaus
+shop: department store
 ---

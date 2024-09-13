@@ -1,5 +1,5 @@
 ---
 title: "Service King"
 url: /san-diego/service-king/
-shop: Autowerkstatt
+shop: car repair
 ---

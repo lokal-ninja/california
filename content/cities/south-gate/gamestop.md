@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /south-gate/gamestop/
-shop: Videospiele
+shop: video games
 ---

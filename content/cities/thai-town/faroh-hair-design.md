@@ -1,5 +1,5 @@
 ---
 title: "Faroh Hair Design"
 url: /thai-town/faroh-hair-design/
-shop: Friseur
+shop: hairdresser
 ---

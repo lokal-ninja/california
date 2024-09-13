@@ -1,5 +1,5 @@
 ---
 title: "Akins Body Shop"
 url: /palo-alto/akins-body-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

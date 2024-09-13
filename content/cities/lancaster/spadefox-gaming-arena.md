@@ -1,5 +1,5 @@
 ---
 title: "SpadeFox Gaming Arena"
 url: /lancaster/spadefox-gaming-arena/
-shop: Videospiele
+shop: video games
 ---

@@ -1,5 +1,5 @@
 ---
 title: "House of Colours"
 url: /san-jose/house-of-colours/
-shop: Friseur
+shop: hairdresser
 ---

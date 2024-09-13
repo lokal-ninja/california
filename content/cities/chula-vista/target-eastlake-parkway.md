@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /chula-vista/target-eastlake-parkway/
-shop: Warenhaus
+shop: department store
 ---

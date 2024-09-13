@@ -1,5 +1,5 @@
 ---
 title: "La Vogue Beauty Shoppe"
 url: /fresno/la-vogue-beauty-shoppe/
-shop: Friseur
+shop: hairdresser
 ---

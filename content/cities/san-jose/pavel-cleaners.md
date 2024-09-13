@@ -1,5 +1,5 @@
 ---
 title: "Pavel Cleaners"
 url: /san-jose/pavel-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Arseen Auto Body"
 url: /san-jose/arseen-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

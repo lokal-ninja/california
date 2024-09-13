@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /santee/ross/
-shop: Warenhaus
+shop: department store
 ---

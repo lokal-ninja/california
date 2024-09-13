@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /inglewood/costco/
-shop: Großhandel
+shop: wholesale
 ---

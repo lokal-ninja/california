@@ -1,5 +1,5 @@
 ---
 title: "Kyle Lawrence Salon"
 url: /simi-valley/kyle-lawrence-salon/
-shop: Friseur
+shop: hairdresser
 ---

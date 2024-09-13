@@ -1,5 +1,5 @@
 ---
 title: "Lobella"
 url: /daly-city/lobella/
-shop: Andenken
+shop: gift
 ---

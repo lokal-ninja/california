@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /alhambra/costco/
-shop: Großhandel
+shop: wholesale
 ---

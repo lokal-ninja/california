@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /mission-hills/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Synergy"
 url: /redding/synergy/
-shop: Hanf
+shop: cannabis
 ---

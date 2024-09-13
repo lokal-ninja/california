@@ -1,5 +1,5 @@
 ---
 title: "United Rentals"
 url: /san-diego/united-rentals/
-shop: Mieten
+shop: storage rental
 ---

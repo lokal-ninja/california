@@ -1,5 +1,5 @@
 ---
 title: "Eric's Salon"
 url: /scotts-valley/erics-salon/
-shop: Friseur
+shop: hairdresser
 ---

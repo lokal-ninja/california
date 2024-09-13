@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /ventura/autozone/
-shop: Autoteile
+shop: car parts
 ---

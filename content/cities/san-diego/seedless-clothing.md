@@ -1,5 +1,5 @@
 ---
 title: "seedleSs Clothing"
 url: /san-diego/seedless-clothing/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /hesperia/walgreens/
-shop: Drogerie
+shop: chemist
 ---

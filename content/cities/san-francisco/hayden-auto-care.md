@@ -1,5 +1,5 @@
 ---
 title: "Hayden Auto Care"
 url: /san-francisco/hayden-auto-care/
-shop: Autowerkstatt
+shop: car repair
 ---

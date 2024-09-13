@@ -1,5 +1,5 @@
 ---
 title: "Groom R Paws"
 url: /los-angeles/groom-r-paws/
-shop: Tiersalon
+shop: pet grooming
 ---

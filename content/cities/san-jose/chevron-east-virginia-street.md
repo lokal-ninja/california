@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /san-jose/chevron-east-virginia-street/
-shop: Autowerkstatt
+shop: car repair
 ---

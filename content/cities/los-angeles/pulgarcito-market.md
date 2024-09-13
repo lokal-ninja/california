@@ -1,5 +1,5 @@
 ---
 title: "Pulgarcito Market"
 url: /los-angeles/pulgarcito-market/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Happiness Nails"
 url: /indio/happiness-nails/
-shop: Allgemein
+shop: shop
 ---

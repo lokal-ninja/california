@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
 url: /gilroy/7-eleven-first-street/
-shop: Lebensmittel
+shop: convenience
 ---

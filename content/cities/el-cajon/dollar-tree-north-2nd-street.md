@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /el-cajon/dollar-tree-north-2nd-street/
-shop: Kramladen
+shop: variety store
 ---

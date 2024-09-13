@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /el-centro/shell/
-shop: Lebensmittel
+shop: convenience
 ---

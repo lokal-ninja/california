@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /simi-valley/ross/
-shop: Warenhaus
+shop: department store
 ---

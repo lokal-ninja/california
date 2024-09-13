@@ -1,5 +1,5 @@
 ---
 title: "Nob Hill"
 url: /martinez/nob-hill/
-shop: Supermarkt
+shop: supermarket
 ---

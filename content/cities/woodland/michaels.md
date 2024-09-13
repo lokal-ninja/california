@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /woodland/michaels/
-shop: Basteln
+shop: craft
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Delizias Bakery"
 url: /san-jose/delizias-bakery/
-shop: Bäckerei
+shop: bakery
 ---

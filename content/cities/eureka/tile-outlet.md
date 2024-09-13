@@ -1,5 +1,5 @@
 ---
 title: "Tile Outlet"
 url: /eureka/tile-outlet/
-shop: Eisenwaren
+shop: hardware
 ---

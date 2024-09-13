@@ -1,5 +1,5 @@
 ---
 title: "BIDLANE"
 url: /redlands/bidlane/
-shop: Autohaus
+shop: car
 ---

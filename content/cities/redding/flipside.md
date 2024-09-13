@@ -1,5 +1,5 @@
 ---
 title: "Flipside"
 url: /redding/flipside/
-shop: Kosmetik
+shop: beauty
 ---

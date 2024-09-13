@@ -1,5 +1,5 @@
 ---
 title: "7th Street Self Storage"
 url: /chico/7th-street-self-storage/
-shop: Mieten
+shop: storage rental
 ---

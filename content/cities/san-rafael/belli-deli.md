@@ -1,5 +1,5 @@
 ---
 title: "Belli-Deli"
 url: /san-rafael/belli-deli/
-shop: Feinkost
+shop: deli
 ---

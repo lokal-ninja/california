@@ -1,5 +1,5 @@
 ---
 title: "Hondacraft"
 url: /sunnyvale/hondacraft/
-shop: Autowerkstatt
+shop: car repair
 ---

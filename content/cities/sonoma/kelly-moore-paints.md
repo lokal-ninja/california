@@ -1,5 +1,5 @@
 ---
 title: "Kelly-Moore Paints"
 url: /sonoma/kelly-moore-paints/
-shop: Farben
+shop: paint
 ---

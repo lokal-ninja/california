@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
 url: /los-gatos/office-depot/
-shop: Schreibwaren
+shop: office supplies
 ---

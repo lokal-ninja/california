@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /san-jose/ross-almaden-expressway/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /blythe/albertsons/
-shop: Supermarkt
+shop: supermarket
 ---

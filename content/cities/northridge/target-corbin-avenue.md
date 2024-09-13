@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /northridge/target-corbin-avenue/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mademoiselle Colette"
 url: /menlo-park/mademoiselle-colette/
-shop: Konditorei
+shop: pastry
 ---

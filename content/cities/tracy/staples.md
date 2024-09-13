@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /tracy/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

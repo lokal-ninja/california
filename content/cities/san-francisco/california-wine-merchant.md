@@ -1,5 +1,5 @@
 ---
 title: "California Wine Merchant"
 url: /san-francisco/california-wine-merchant/
-shop: Wein
+shop: wine
 ---

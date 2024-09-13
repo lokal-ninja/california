@@ -1,5 +1,5 @@
 ---
 title: "Flowerland"
 url: /albany/flowerland/
-shop: Garten-Center
+shop: garden centre
 ---

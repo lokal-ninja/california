@@ -1,5 +1,5 @@
 ---
 title: "Total Wine"
 url: /fremont/total-wine/
-shop: Spirituosen
+shop: alcohol
 ---

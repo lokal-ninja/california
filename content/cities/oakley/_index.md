@@ -1,6 +1,6 @@
 ---
 title: Oakley
 url: /oakley/
-latitude: 37.998
-longitude: -121.73
+latitude: 37.991
+longitude: -121.697
 ---

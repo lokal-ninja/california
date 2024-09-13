@@ -1,5 +1,5 @@
 ---
 title: "Hollywood Rock"
 url: /citrus-heights/hollywood-rock/
-shop: Tabak
+shop: tobacco
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tillys"
 url: /turlock/tillys/
-shop: Kleidung
+shop: clothes
 ---

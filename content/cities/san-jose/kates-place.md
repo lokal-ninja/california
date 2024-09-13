@@ -1,5 +1,5 @@
 ---
 title: "Kate's Place"
 url: /san-jose/kates-place/
-shop: Friseur
+shop: hairdresser
 ---

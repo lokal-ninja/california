@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /oxnard/costco/
-shop: Großhandel
+shop: wholesale
 ---

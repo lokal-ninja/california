@@ -1,5 +1,5 @@
 ---
 title: "Moe Greens Dispensary"
 url: /san-francisco/moe-greens-dispensary/
-shop: Hanf
+shop: cannabis
 ---

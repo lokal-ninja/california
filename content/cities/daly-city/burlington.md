@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /daly-city/burlington/
-shop: Warenhaus
+shop: department store
 ---

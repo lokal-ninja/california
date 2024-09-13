@@ -1,5 +1,5 @@
 ---
 title: "Capital Ace Hardware"
 url: /sacramento/capital-ace-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

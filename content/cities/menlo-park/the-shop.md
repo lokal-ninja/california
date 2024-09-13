@@ -1,5 +1,5 @@
 ---
 title: "The Shop"
 url: /menlo-park/the-shop/
-shop: Kleidung
+shop: clothes
 ---

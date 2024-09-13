@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /diamond-bar/target/
-shop: Warenhaus
+shop: department store
 ---

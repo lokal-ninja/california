@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /mountain-view/target/
-shop: Warenhaus
+shop: department store
 ---

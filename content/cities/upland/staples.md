@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /upland/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

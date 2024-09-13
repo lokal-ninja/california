@@ -1,5 +1,5 @@
 ---
 title: "Coastal"
 url: /stockton/coastal/
-shop: Hanf
+shop: cannabis
 ---

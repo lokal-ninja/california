@@ -1,5 +1,5 @@
 ---
 title: "Ralphs"
 url: /irvine/ralphs/
-shop: Supermarkt
+shop: supermarket
 ---

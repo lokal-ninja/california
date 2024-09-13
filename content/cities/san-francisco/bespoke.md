@@ -1,5 +1,5 @@
 ---
 title: "Bespoke"
 url: /san-francisco/bespoke/
-shop: Fahrrad
+shop: bicycle
 ---

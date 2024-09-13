@@ -1,5 +1,5 @@
 ---
 title: "Plaza"
 url: /arcata/plaza/
-shop: Andenken
+shop: gift
 ---

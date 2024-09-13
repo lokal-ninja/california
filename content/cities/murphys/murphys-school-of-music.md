@@ -1,5 +1,5 @@
 ---
 title: "Murphys School of Music"
 url: /murphys/murphys-school-of-music/
-shop: Musik
+shop: music
 ---

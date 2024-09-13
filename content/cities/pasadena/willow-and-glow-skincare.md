@@ -1,5 +1,5 @@
 ---
 title: "Willow And Glow Skincare"
 url: /pasadena/willow-and-glow-skincare/
-shop: Kosmetik
+shop: beauty
 ---

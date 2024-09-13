@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /winnetka/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

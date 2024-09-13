@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /san-mateo/ross/
-shop: Warenhaus
+shop: department store
 ---

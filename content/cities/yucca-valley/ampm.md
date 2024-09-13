@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /yucca-valley/ampm/
-shop: Lebensmittel
+shop: convenience
 ---

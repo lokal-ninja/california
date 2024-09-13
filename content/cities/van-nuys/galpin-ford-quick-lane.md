@@ -1,5 +1,5 @@
 ---
 title: "Galpin Ford Quick Lane"
 url: /van-nuys/galpin-ford-quick-lane/
-shop: Autowerkstatt
+shop: car repair
 ---

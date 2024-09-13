@@ -1,5 +1,5 @@
 ---
 title: "Massage Envy"
 url: /fresno/massage-envy/
-shop: Massage
+shop: massage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sitting Pretty Inc."
 url: /reseda/sitting-pretty-inc/
-shop: Möbel
+shop: furniture
 ---

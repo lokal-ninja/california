@@ -1,5 +1,5 @@
 ---
 title: "Animalia NoHo"
 url: /north-hollywood/animalia-noho/
-shop: Tiersalon
+shop: pet grooming
 ---

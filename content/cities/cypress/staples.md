@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /cypress/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

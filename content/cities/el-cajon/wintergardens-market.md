@@ -1,5 +1,5 @@
 ---
 title: "Wintergardens Market"
 url: /el-cajon/wintergardens-market/
-shop: Spirituosen
+shop: alcohol
 ---

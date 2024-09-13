@@ -1,5 +1,5 @@
 ---
 title: "Monterey Bay Kayaks"
 url: /monterey/monterey-bay-kayaks/
-shop: Mieten
+shop: storage rental
 ---

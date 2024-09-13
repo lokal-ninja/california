@@ -1,5 +1,5 @@
 ---
 title: "Surefoot"
 url: /los-angeles/surefoot/
-shop: Sport
+shop: sports
 ---

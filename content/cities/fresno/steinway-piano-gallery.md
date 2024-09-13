@@ -1,5 +1,5 @@
 ---
 title: "Steinway Piano Gallery"
 url: /fresno/steinway-piano-gallery/
-shop: Instrumente
+shop: musical instrument
 ---

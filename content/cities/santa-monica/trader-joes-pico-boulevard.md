@@ -1,5 +1,5 @@
 ---
 title: "Trader Joe's"
 url: /santa-monica/trader-joes-pico-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /sacramento/safeway-elk-grove-florin-road/
-shop: Supermarkt
+shop: supermarket
 ---

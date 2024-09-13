@@ -1,5 +1,5 @@
 ---
 title: "Mazda"
 url: /san-leandro/mazda/
-shop: Autohaus
+shop: car
 ---

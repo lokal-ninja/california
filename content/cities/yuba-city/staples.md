@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /yuba-city/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

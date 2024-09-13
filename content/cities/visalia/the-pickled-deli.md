@@ -1,5 +1,5 @@
 ---
 title: "The Pickled Deli"
 url: /visalia/the-pickled-deli/
-shop: Feinkost
+shop: deli
 ---

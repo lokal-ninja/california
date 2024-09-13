@@ -1,5 +1,5 @@
 ---
 title: "Sheng Kee"
 url: /union-city/sheng-kee/
-shop: Bäckerei
+shop: bakery
 ---

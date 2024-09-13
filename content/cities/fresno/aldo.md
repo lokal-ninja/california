@@ -1,5 +1,5 @@
 ---
 title: "Aldo"
 url: /fresno/aldo/
-shop: Schuhe
+shop: shoes
 ---

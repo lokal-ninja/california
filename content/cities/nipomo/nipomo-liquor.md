@@ -1,5 +1,5 @@
 ---
 title: "Nipomo Liquor"
 url: /nipomo/nipomo-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

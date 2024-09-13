@@ -1,5 +1,5 @@
 ---
 title: "Tagua Fair Trade"
 url: /fresno/tagua-fair-trade/
-shop: Andenken
+shop: gift
 ---

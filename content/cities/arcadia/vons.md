@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /arcadia/vons/
-shop: Supermarkt
+shop: supermarket
 ---

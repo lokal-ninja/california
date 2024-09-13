@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /san-jose/gamestop-south-king-road/
-shop: Videospiele
+shop: video games
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Palo Cedro Feed"
 url: /palo-cedro/palo-cedro-feed/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

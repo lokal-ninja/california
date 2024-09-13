@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /lake-forest/petsmart/
-shop: Tiere
+shop: pet
 ---

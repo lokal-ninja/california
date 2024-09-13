@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /bakersfield/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

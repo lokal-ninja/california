@@ -1,5 +1,5 @@
 ---
 title: "UGG"
 url: /goleta/ugg/
-shop: Schuhe
+shop: shoes
 ---

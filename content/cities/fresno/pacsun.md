@@ -1,5 +1,5 @@
 ---
 title: "PacSun"
 url: /fresno/pacsun/
-shop: Kleidung
+shop: clothes
 ---

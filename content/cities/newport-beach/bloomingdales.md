@@ -1,5 +1,5 @@
 ---
 title: "Bloomingdale's"
 url: /newport-beach/bloomingdales/
-shop: Warenhaus
+shop: department store
 ---

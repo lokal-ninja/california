@@ -1,5 +1,5 @@
 ---
 title: "Clark's Auto Parts and Machine Shop"
 url: /cupertino/clarks-auto-parts-and-machine-shop/
-shop: Autoteile
+shop: car parts
 ---

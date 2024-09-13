@@ -1,5 +1,5 @@
 ---
 title: "Candy"
 url: /alameda/candy/
-shop: Süßwaren
+shop: confectionery
 ---

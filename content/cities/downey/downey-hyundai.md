@@ -1,5 +1,5 @@
 ---
 title: "Downey Hyundai"
 url: /downey/downey-hyundai/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /compton/gamestop/
-shop: Videospiele
+shop: video games
 ---

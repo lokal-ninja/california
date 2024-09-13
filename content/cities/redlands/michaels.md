@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /redlands/michaels/
-shop: Basteln
+shop: craft
 ---

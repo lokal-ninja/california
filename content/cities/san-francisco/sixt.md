@@ -1,5 +1,5 @@
 ---
 title: "SIXT"
 url: /san-francisco/sixt/
-shop: Autohaus
+shop: car
 ---

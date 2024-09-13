@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /mountain-view/safeway-north-shoreline-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

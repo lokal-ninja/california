@@ -1,5 +1,5 @@
 ---
 title: "De Young Flowers"
 url: /campbell/de-young-flowers/
-shop: Blumen
+shop: florist
 ---

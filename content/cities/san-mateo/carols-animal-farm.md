@@ -1,5 +1,5 @@
 ---
 title: "Carol's Animal Farm"
 url: /san-mateo/carols-animal-farm/
-shop: Tiersalon
+shop: pet grooming
 ---

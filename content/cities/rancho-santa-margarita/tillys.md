@@ -1,5 +1,5 @@
 ---
 title: "Tillys"
 url: /rancho-santa-margarita/tillys/
-shop: Kleidung
+shop: clothes
 ---

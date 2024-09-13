@@ -1,5 +1,5 @@
 ---
 title: "Union Music Co."
 url: /san-francisco/union-music-co/
-shop: Instrumente
+shop: musical instrument
 ---

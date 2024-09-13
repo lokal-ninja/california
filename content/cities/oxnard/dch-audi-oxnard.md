@@ -1,5 +1,5 @@
 ---
 title: "DCH Audi Oxnard"
 url: /oxnard/dch-audi-oxnard/
-shop: Autohaus
+shop: car
 ---

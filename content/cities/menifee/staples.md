@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /menifee/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

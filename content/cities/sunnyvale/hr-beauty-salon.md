@@ -1,5 +1,5 @@
 ---
 title: "HR Beauty Salon"
 url: /sunnyvale/hr-beauty-salon/
-shop: Friseur
+shop: hairdresser
 ---

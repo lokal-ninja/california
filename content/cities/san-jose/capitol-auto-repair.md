@@ -1,5 +1,5 @@
 ---
 title: "Capitol Auto Repair"
 url: /san-jose/capitol-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

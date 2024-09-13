@@ -1,5 +1,5 @@
 ---
 title: "Perkins Store"
 url: /descanso/perkins-store/
-shop: Dorfladen
+shop: general
 ---

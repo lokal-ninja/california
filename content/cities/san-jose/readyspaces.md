@@ -1,5 +1,5 @@
 ---
 title: "ReadySpaces"
 url: /san-jose/readyspaces/
-shop: Mieten
+shop: storage rental
 ---

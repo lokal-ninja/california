@@ -1,5 +1,5 @@
 ---
 title: "BevMo!"
 url: /goleta/bevmo/
-shop: Spirituosen
+shop: alcohol
 ---

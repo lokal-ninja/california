@@ -1,5 +1,5 @@
 ---
 title: "Foot Locker"
 url: /hawthorne/foot-locker/
-shop: Schuhe
+shop: shoes
 ---

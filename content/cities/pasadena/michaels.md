@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /pasadena/michaels/
-shop: Basteln
+shop: craft
 ---

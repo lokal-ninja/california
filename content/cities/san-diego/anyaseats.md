@@ -1,5 +1,5 @@
 ---
 title: "anyaseats"
 url: /san-diego/anyaseats/
-shop: Bioladen
+shop: health food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Urban Lighting"
 url: /san-diego/urban-lighting/
-shop: Lampen
+shop: lamps
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Lion's Den Barbershop"
 url: /fresno/the-lions-den-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

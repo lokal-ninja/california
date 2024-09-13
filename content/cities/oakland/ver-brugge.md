@@ -1,5 +1,5 @@
 ---
 title: "Ver Brugge"
 url: /oakland/ver-brugge/
-shop: Metzgerei
+shop: butcher
 ---

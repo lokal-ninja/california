@@ -1,5 +1,5 @@
 ---
 title: "Parkside Garage"
 url: /san-francisco/parkside-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

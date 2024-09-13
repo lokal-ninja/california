@@ -1,5 +1,5 @@
 ---
 title: "Salon Cozzolino"
 url: /menlo-park/salon-cozzolino/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /san-diego/staples-camino-de-la-reina/
-shop: Schreibwaren
+shop: office supplies
 ---

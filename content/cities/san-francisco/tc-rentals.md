@@ -1,5 +1,5 @@
 ---
 title: "TC Rentals"
 url: /san-francisco/tc-rentals/
-shop: Mieten
+shop: storage rental
 ---

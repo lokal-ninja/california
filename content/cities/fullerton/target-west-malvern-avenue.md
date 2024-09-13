@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /fullerton/target-west-malvern-avenue/
-shop: Warenhaus
+shop: department store
 ---

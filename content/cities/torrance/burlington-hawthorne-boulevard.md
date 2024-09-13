@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /torrance/burlington-hawthorne-boulevard/
-shop: Warenhaus
+shop: department store
 ---

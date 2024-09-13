@@ -1,5 +1,5 @@
 ---
 title: "Prolific Barbers"
 url: /gilroy/prolific-barbers/
-shop: Friseur
+shop: hairdresser
 ---

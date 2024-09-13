@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /torrance/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /poway/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

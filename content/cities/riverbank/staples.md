@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /riverbank/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

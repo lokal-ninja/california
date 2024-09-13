@@ -1,5 +1,5 @@
 ---
 title: "Marcella's"
 url: /alameda/marcellas/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Berkeley Luggage"
 url: /berkeley/berkeley-luggage/
-shop: Taschen & Koffer
+shop: bag
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /la-mesa/gamestop/
-shop: Videospiele
+shop: video games
 ---

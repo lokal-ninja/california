@@ -1,5 +1,5 @@
 ---
 title: "BLS Auto Detail"
 url: /santa-rosa/bls-auto-detail/
-shop: Autowerkstatt
+shop: car repair
 ---

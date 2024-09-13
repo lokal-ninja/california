@@ -1,5 +1,5 @@
 ---
 title: "UNI Hair"
 url: /torrance/uni-hair/
-shop: Friseur
+shop: hairdresser
 ---

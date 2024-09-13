@@ -1,5 +1,5 @@
 ---
 title: "Maidenform"
 url: /camarillo/maidenform/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maita Nissan"
 url: /sacramento/maita-nissan/
-shop: Autohaus
+shop: car
 ---

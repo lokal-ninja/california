@@ -1,5 +1,5 @@
 ---
 title: "Tokyo Automotive Repair"
 url: /placentia/tokyo-automotive-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

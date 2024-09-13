@@ -1,5 +1,5 @@
 ---
 title: "American Mini-Storage"
 url: /lake-forest/american-mini-storage/
-shop: Mieten
+shop: storage rental
 ---

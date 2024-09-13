@@ -1,5 +1,5 @@
 ---
 title: "Uomo"
 url: /san-francisco/uomo/
-shop: Kleidung
+shop: clothes
 ---

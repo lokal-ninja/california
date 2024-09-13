@@ -1,5 +1,5 @@
 ---
 title: "Walker General Store"
 url: /coleville/walker-general-store/
-shop: Lebensmittel
+shop: convenience
 ---

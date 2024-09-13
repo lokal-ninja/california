@@ -1,5 +1,5 @@
 ---
 title: "Novedades"
 url: /livingston/novedades/
-shop: Kleidung
+shop: clothes
 ---

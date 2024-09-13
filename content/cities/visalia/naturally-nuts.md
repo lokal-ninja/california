@@ -1,5 +1,5 @@
 ---
 title: "Naturally Nuts"
 url: /visalia/naturally-nuts/
-shop: Allgemein
+shop: shop
 ---

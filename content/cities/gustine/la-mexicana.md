@@ -1,5 +1,5 @@
 ---
 title: "La Mexicana"
 url: /gustine/la-mexicana/
-shop: Supermarkt
+shop: supermarket
 ---

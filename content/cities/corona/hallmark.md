@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /corona/hallmark/
-shop: Andenken
+shop: gift
 ---

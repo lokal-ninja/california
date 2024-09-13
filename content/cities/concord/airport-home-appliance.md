@@ -1,5 +1,5 @@
 ---
 title: "Airport Home Appliance"
 url: /concord/airport-home-appliance/
-shop: Haushaltsgeräte
+shop: appliance
 ---

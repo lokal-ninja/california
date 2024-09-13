@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /el-cerrito/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

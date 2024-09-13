@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /glendale/ross-south-brand-boulevard/
-shop: Warenhaus
+shop: department store
 ---

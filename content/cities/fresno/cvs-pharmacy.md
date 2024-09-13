@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /fresno/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shade Nail Spa"
 url: /san-francisco/shade-nail-spa/
-shop: Kosmetik
+shop: beauty
 ---

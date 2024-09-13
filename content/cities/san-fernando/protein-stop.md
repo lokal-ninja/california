@@ -1,5 +1,5 @@
 ---
 title: "Protein Stop"
 url: /san-fernando/protein-stop/
-shop: Bioladen
+shop: health food
 ---

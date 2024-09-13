@@ -1,5 +1,5 @@
 ---
 title: "Santa Fe"
 url: /san-jose/santa-fe/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CarMax"
 url: /costa-mesa/carmax/
-shop: Autohaus
+shop: car
 ---

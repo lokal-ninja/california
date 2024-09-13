@@ -1,5 +1,5 @@
 ---
 title: "Showplace Liquors"
 url: /los-angeles/showplace-liquors/
-shop: Getränke
+shop: beverages
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LensCrafters"
 url: /fresno/lenscrafters/
-shop: Optiker
+shop: optician
 ---

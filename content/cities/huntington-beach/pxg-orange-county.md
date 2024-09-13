@@ -1,5 +1,5 @@
 ---
 title: "PXG Orange County"
 url: /huntington-beach/pxg-orange-county/
-shop: Sport
+shop: sports
 ---

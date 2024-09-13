@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /santa-barbara/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

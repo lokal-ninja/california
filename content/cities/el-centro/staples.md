@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /el-centro/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

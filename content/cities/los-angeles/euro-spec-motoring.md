@@ -1,5 +1,5 @@
 ---
 title: "Euro Spec Motoring"
 url: /los-angeles/euro-spec-motoring/
-shop: Autowerkstatt
+shop: car repair
 ---

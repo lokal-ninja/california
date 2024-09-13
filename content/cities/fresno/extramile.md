@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
 url: /fresno/extramile/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /redding/target/
-shop: Warenhaus
+shop: department store
 ---

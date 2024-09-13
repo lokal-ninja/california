@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /san-jose/sally-beauty-blossom-hill-road/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oliver Peoples"
 url: /san-francisco/oliver-peoples/
-shop: Optiker
+shop: optician
 ---

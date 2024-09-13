@@ -1,5 +1,5 @@
 ---
 title: "Country Liquor"
 url: /mission-hills/country-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

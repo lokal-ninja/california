@@ -1,5 +1,5 @@
 ---
 title: "Village Silversmith"
 url: /san-diego/village-silversmith/
-shop: Allgemein
+shop: shop
 ---

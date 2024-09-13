@@ -1,5 +1,5 @@
 ---
 title: "Cypress Eyewear"
 url: /cypress/cypress-eyewear/
-shop: Optiker
+shop: optician
 ---

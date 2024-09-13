@@ -1,5 +1,5 @@
 ---
 title: "Jockey"
 url: /gilroy/jockey/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /menifee/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

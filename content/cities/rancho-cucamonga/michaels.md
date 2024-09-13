@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /rancho-cucamonga/michaels/
-shop: Basteln
+shop: craft
 ---

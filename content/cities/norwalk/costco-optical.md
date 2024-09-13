@@ -1,5 +1,5 @@
 ---
 title: "Costco Optical"
 url: /norwalk/costco-optical/
-shop: Optiker
+shop: optician
 ---

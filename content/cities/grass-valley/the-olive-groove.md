@@ -1,5 +1,5 @@
 ---
 title: "The Olive Groove"
 url: /grass-valley/the-olive-groove/
-shop: Allgemein
+shop: shop
 ---

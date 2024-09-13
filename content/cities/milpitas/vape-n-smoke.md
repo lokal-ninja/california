@@ -1,5 +1,5 @@
 ---
 title: "Vape N Smoke"
 url: /milpitas/vape-n-smoke/
-shop: Tabak
+shop: tobacco
 ---

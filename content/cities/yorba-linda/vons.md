@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /yorba-linda/vons/
-shop: Supermarkt
+shop: supermarket
 ---

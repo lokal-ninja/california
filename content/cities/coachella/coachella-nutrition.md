@@ -1,5 +1,5 @@
 ---
 title: "Coachella Nutrition"
 url: /coachella/coachella-nutrition/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

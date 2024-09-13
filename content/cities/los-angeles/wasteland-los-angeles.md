@@ -1,5 +1,5 @@
 ---
 title: "Wasteland Los Angeles"
 url: /los-angeles/wasteland-los-angeles/
-shop: Kleidung
+shop: clothes
 ---

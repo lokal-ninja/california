@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /ladera-ranch/albertsons/
-shop: Supermarkt
+shop: supermarket
 ---

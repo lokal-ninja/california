@@ -1,5 +1,5 @@
 ---
 title: "Detail Garage"
 url: /lake-forest/detail-garage/
-shop: Autoteile
+shop: car parts
 ---

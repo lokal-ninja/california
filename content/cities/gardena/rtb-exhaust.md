@@ -1,5 +1,5 @@
 ---
 title: "RTB Exhaust"
 url: /gardena/rtb-exhaust/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Scotty's Automotive"
 url: /campbell/scottys-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

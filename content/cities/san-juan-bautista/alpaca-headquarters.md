@@ -1,5 +1,5 @@
 ---
 title: "Alpaca Headquarters"
 url: /san-juan-bautista/alpaca-headquarters/
-shop: Kleidung
+shop: clothes
 ---

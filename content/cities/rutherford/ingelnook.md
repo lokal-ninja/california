@@ -1,5 +1,5 @@
 ---
 title: "ingelnook"
 url: /rutherford/ingelnook/
-shop: Wein
+shop: wine
 ---

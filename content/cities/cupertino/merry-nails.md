@@ -1,5 +1,5 @@
 ---
 title: "Merry Nails"
 url: /cupertino/merry-nails/
-shop: Kosmetik
+shop: beauty
 ---

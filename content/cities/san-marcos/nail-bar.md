@@ -1,5 +1,5 @@
 ---
 title: "Nail Bar"
 url: /san-marcos/nail-bar/
-shop: Kosmetik
+shop: beauty
 ---

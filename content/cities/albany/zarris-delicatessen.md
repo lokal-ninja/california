@@ -1,5 +1,5 @@
 ---
 title: "Zarri's Delicatessen"
 url: /albany/zarris-delicatessen/
-shop: Feinkost
+shop: deli
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bird of Paradise Couture Florals"
 url: /irvine/bird-of-paradise-couture-florals/
-shop: Blumen
+shop: florist
 ---

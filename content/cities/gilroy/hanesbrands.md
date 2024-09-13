@@ -1,5 +1,5 @@
 ---
 title: "Hanesbrands"
 url: /gilroy/hanesbrands/
-shop: Kleidung
+shop: clothes
 ---

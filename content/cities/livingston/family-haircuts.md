@@ -1,5 +1,5 @@
 ---
 title: "Family Haircuts"
 url: /livingston/family-haircuts/
-shop: Friseur
+shop: hairdresser
 ---

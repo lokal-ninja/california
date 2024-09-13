@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /redding/ross/
-shop: Warenhaus
+shop: department store
 ---

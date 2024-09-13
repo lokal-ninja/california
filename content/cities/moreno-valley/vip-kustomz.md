@@ -1,5 +1,5 @@
 ---
 title: "VIP Kustomz"
 url: /moreno-valley/vip-kustomz/
-shop: Autowerkstatt
+shop: car repair
 ---

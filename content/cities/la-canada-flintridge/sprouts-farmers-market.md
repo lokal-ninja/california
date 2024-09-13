@@ -1,5 +1,5 @@
 ---
 title: "Sprouts Farmers Market"
 url: /la-canada-flintridge/sprouts-farmers-market/
-shop: Supermarkt
+shop: supermarket
 ---

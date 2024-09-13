@@ -1,5 +1,5 @@
 ---
 title: "Shoe Repair"
 url: /san-francisco/shoe-repair/
-shop: Schuhe
+shop: shoes
 ---

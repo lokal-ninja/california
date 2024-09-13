@@ -1,5 +1,5 @@
 ---
 title: "Let’s Go RV"
 url: /riverside/lets-go-rv/
-shop: Wohnwagen
+shop: caravan
 ---

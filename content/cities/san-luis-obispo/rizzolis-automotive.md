@@ -1,5 +1,5 @@
 ---
 title: "Rizzoli's Automotive"
 url: /san-luis-obispo/rizzolis-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

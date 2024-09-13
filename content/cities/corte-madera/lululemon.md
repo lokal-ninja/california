@@ -1,5 +1,5 @@
 ---
 title: "Lululemon"
 url: /corte-madera/lululemon/
-shop: Kleidung
+shop: clothes
 ---

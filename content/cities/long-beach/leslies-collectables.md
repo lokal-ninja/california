@@ -1,5 +1,5 @@
 ---
 title: "Leslie's Collectables"
 url: /long-beach/leslies-collectables/
-shop: Antiquitäten
+shop: antiques
 ---

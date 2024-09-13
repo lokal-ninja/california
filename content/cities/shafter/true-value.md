@@ -1,5 +1,5 @@
 ---
 title: "True Value"
 url: /shafter/true-value/
-shop: Eisenwaren
+shop: hardware
 ---

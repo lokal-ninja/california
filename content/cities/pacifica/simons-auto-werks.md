@@ -1,5 +1,5 @@
 ---
 title: "Simon’s Auto Werks"
 url: /pacifica/simons-auto-werks/
-shop: Autowerkstatt
+shop: car repair
 ---

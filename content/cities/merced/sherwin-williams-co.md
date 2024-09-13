@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams Co"
 url: /merced/sherwin-williams-co/
-shop: Eisenwaren
+shop: hardware
 ---

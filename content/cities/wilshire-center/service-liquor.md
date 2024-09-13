@@ -1,5 +1,5 @@
 ---
 title: "Service Liquor"
 url: /wilshire-center/service-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

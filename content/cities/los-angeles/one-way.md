@@ -1,5 +1,5 @@
 ---
 title: "one way"
 url: /los-angeles/one-way/
-shop: Kleidung
+shop: clothes
 ---

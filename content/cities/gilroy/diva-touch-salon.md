@@ -1,5 +1,5 @@
 ---
 title: "Diva Touch Salon"
 url: /gilroy/diva-touch-salon/
-shop: Friseur
+shop: hairdresser
 ---

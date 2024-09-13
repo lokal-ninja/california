@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /lodi/burlington/
-shop: Warenhaus
+shop: department store
 ---

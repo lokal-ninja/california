@@ -1,5 +1,5 @@
 ---
 title: "Trina Fashion"
 url: /san-jose/trina-fashion/
-shop: Kleidung
+shop: clothes
 ---

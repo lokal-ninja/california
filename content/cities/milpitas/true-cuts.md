@@ -1,5 +1,5 @@
 ---
 title: "True Cuts"
 url: /milpitas/true-cuts/
-shop: Friseur
+shop: hairdresser
 ---

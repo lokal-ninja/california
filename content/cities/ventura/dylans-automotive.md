@@ -1,5 +1,5 @@
 ---
 title: "Dylan's Automotive"
 url: /ventura/dylans-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

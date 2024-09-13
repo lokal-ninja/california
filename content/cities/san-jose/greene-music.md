@@ -1,5 +1,5 @@
 ---
 title: "Greene Music"
 url: /san-jose/greene-music/
-shop: Instrumente
+shop: musical instrument
 ---

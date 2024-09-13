@@ -1,5 +1,5 @@
 ---
 title: "Ciana Salon"
 url: /los-altos/ciana-salon/
-shop: Friseur
+shop: hairdresser
 ---

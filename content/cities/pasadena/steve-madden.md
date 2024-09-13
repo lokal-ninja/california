@@ -1,5 +1,5 @@
 ---
 title: "Steve Madden"
 url: /pasadena/steve-madden/
-shop: Schuhe
+shop: shoes
 ---

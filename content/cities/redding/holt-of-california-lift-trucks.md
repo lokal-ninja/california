@@ -1,5 +1,5 @@
 ---
 title: "Holt of California Lift Trucks"
 url: /redding/holt-of-california-lift-trucks/
-shop: Allgemein
+shop: shop
 ---

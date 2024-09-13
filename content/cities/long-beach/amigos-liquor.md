@@ -1,5 +1,5 @@
 ---
 title: "Amigos Liquor"
 url: /long-beach/amigos-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

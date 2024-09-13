@@ -1,5 +1,5 @@
 ---
 title: "Pep Boys"
 url: /la-mirada/pep-boys/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TJ Automotive"
 url: /sunnyvale/tj-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Papillon Salon"
 url: /sacramento/papillon-salon/
-shop: Kosmetik
+shop: beauty
 ---

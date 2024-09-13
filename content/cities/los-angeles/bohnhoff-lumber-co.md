@@ -1,5 +1,5 @@
 ---
 title: "Bohnhoff Lumber Co."
 url: /los-angeles/bohnhoff-lumber-co/
-shop: Baustoffe
+shop: trade
 ---

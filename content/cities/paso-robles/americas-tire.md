@@ -1,5 +1,5 @@
 ---
 title: "America's Tire"
 url: /paso-robles/americas-tire/
-shop: Reifen
+shop: tyres
 ---

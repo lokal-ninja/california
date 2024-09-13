@@ -1,5 +1,5 @@
 ---
 title: "Globus Books"
 url: /san-francisco/globus-books/
-shop: Bücher
+shop: books
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gryphon Stringed Instruments"
 url: /palo-alto/gryphon-stringed-instruments/
-shop: Instrumente
+shop: musical instrument
 ---

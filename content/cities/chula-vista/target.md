@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /chula-vista/target/
-shop: Warenhaus
+shop: department store
 ---

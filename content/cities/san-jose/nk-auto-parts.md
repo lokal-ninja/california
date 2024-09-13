@@ -1,5 +1,5 @@
 ---
 title: "NK Auto Parts"
 url: /san-jose/nk-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

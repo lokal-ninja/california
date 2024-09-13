@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /vista/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

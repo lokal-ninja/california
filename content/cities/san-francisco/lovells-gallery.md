@@ -1,5 +1,5 @@
 ---
 title: "Lovell's Gallery"
 url: /san-francisco/lovells-gallery/
-shop: Antiquitäten
+shop: antiques
 ---

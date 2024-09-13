@@ -1,5 +1,5 @@
 ---
 title: "Precision Auto Care"
 url: /san-leandro/precision-auto-care/
-shop: Autowerkstatt
+shop: car repair
 ---

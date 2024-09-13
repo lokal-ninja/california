@@ -1,5 +1,5 @@
 ---
 title: "Macy's"
 url: /modesto/macys/
-shop: Warenhaus
+shop: department store
 ---

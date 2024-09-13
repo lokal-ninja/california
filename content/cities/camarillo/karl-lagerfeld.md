@@ -1,5 +1,5 @@
 ---
 title: "Karl Lagerfeld"
 url: /camarillo/karl-lagerfeld/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /fremont/safeway-washington-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

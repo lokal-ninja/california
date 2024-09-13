@@ -1,5 +1,5 @@
 ---
 title: "Special Discount Furniture"
 url: /los-banos/special-discount-furniture/
-shop: Möbel
+shop: furniture
 ---

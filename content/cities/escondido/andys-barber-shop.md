@@ -1,5 +1,5 @@
 ---
 title: "Andy's Barber Shop"
 url: /escondido/andys-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

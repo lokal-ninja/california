@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /northridge/costco/
-shop: Großhandel
+shop: wholesale
 ---

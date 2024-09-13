@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /pleasant-hill/safeway-contra-costa-boulevard-2/
-shop: Supermarkt
+shop: supermarket
 ---

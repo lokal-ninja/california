@@ -1,5 +1,5 @@
 ---
 title: "Yosemite Auto Repair, Inc"
 url: /simi-valley/yosemite-auto-repair-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

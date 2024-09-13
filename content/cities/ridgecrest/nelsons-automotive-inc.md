@@ -1,5 +1,5 @@
 ---
 title: "Nelson's Automotive Inc"
 url: /ridgecrest/nelsons-automotive-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

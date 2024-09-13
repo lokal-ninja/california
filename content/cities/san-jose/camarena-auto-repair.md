@@ -1,5 +1,5 @@
 ---
 title: "Camarena Auto Repair"
 url: /san-jose/camarena-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

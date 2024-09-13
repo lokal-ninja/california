@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /fresno/verizon-north-palm-avenue/
-shop: Handy
+shop: mobile phone
 ---

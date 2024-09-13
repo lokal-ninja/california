@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /los-angeles/autozone-south-main-street/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /escondido/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

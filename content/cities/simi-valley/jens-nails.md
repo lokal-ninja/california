@@ -1,5 +1,5 @@
 ---
 title: "Jen's Nails"
 url: /simi-valley/jens-nails/
-shop: Kosmetik
+shop: beauty
 ---

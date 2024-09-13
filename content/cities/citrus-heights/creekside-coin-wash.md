@@ -1,5 +1,5 @@
 ---
 title: "Creekside Coin Wash"
 url: /citrus-heights/creekside-coin-wash/
-shop: Wäscherei
+shop: laundry
 ---

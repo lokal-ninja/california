@@ -1,5 +1,5 @@
 ---
 title: "Ralphs"
 url: /la-jolla/ralphs/
-shop: Supermarkt
+shop: supermarket
 ---

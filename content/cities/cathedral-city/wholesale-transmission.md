@@ -1,5 +1,5 @@
 ---
 title: "Wholesale Transmission"
 url: /cathedral-city/wholesale-transmission/
-shop: Autowerkstatt
+shop: car repair
 ---

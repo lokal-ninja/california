@@ -1,5 +1,5 @@
 ---
 title: "Hospice Thrift Shoppes"
 url: /pleasant-hill/hospice-thrift-shoppes/
-shop: Gebrauchtwaren
+shop: charity
 ---

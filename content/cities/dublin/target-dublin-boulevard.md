@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /dublin/target-dublin-boulevard/
-shop: Warenhaus
+shop: department store
 ---

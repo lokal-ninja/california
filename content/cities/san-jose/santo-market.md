@@ -1,5 +1,5 @@
 ---
 title: "Santo Market"
 url: /san-jose/santo-market/
-shop: Supermarkt
+shop: supermarket
 ---

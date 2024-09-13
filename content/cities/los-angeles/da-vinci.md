@@ -1,5 +1,5 @@
 ---
 title: "Da Vinci"
 url: /los-angeles/da-vinci/
-shop: Kleidung
+shop: clothes
 ---

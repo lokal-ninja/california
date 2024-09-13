@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /culver-city/petsmart/
-shop: Tiere
+shop: pet
 ---

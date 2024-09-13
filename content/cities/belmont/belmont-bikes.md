@@ -1,5 +1,5 @@
 ---
 title: "Belmont Bikes"
 url: /belmont/belmont-bikes/
-shop: Fahrrad
+shop: bicycle
 ---

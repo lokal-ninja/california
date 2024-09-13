@@ -1,5 +1,5 @@
 ---
 title: "A Friendly Storage Place"
 url: /san-rafael/a-friendly-storage-place/
-shop: Mieten
+shop: storage rental
 ---

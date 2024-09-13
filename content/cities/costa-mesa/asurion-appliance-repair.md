@@ -1,5 +1,5 @@
 ---
 title: "Asurion Appliance Repair"
 url: /costa-mesa/asurion-appliance-repair/
-shop: Haushaltsgeräte
+shop: appliance
 ---

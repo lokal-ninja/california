@@ -1,5 +1,5 @@
 ---
 title: "SKYH CAPITAL FUNDING"
 url: /bellflower/skyh-capital-funding/
-shop: Leiher
+shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Super Quick Mart"
 url: /sunnyvale/super-quick-mart/
-shop: Lebensmittel
+shop: convenience
 ---

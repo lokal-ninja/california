@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /san-diego/vons-carmel-mountain-road/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /gilroy/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

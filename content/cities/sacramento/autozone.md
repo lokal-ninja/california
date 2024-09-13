@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /sacramento/autozone/
-shop: Autoteile
+shop: car parts
 ---

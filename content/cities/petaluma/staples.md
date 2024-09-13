@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /petaluma/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

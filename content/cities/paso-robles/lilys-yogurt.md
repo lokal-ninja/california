@@ -1,5 +1,5 @@
 ---
 title: "Lily's Yogurt"
 url: /paso-robles/lilys-yogurt/
-shop: Süßwaren
+shop: confectionery
 ---

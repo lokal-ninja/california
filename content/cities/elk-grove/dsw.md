@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /elk-grove/dsw/
-shop: Schuhe
+shop: shoes
 ---

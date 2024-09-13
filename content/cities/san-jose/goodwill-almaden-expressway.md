@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /san-jose/goodwill-almaden-expressway/
-shop: Gebrauchtwaren
+shop: charity
 ---

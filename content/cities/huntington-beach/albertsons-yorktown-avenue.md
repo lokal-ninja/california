@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /huntington-beach/albertsons-yorktown-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

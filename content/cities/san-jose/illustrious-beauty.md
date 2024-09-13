@@ -1,5 +1,5 @@
 ---
 title: "Illustrious Beauty"
 url: /san-jose/illustrious-beauty/
-shop: Friseur
+shop: hairdresser
 ---

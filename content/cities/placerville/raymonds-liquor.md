@@ -1,5 +1,5 @@
 ---
 title: "Raymond's Liquor"
 url: /placerville/raymonds-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Galaxy Barber Shop"
 url: /milpitas/galaxy-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

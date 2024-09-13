@@ -1,5 +1,5 @@
 ---
 title: "Broadway Market"
 url: /sonoma/broadway-market/
-shop: Dorfladen
+shop: general
 ---

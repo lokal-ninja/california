@@ -1,5 +1,5 @@
 ---
 title: "Marc Jacobs"
 url: /camarillo/marc-jacobs/
-shop: Kleidung
+shop: clothes
 ---

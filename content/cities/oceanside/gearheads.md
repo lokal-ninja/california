@@ -1,5 +1,5 @@
 ---
 title: "Gearheads"
 url: /oceanside/gearheads/
-shop: Autowerkstatt
+shop: car repair
 ---

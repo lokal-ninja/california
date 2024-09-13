@@ -1,5 +1,5 @@
 ---
 title: "Gelson's"
 url: /los-angeles/gelsons/
-shop: Supermarkt
+shop: supermarket
 ---

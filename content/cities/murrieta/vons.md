@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /murrieta/vons/
-shop: Supermarkt
+shop: supermarket
 ---

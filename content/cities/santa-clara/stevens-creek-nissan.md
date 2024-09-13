@@ -1,5 +1,5 @@
 ---
 title: "Stevens Creek Nissan"
 url: /santa-clara/stevens-creek-nissan/
-shop: Autohaus
+shop: car
 ---

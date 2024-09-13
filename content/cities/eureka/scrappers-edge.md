@@ -1,5 +1,5 @@
 ---
 title: "Scrapper's Edge"
 url: /eureka/scrappers-edge/
-shop: Kopieren
+shop: copyshop
 ---

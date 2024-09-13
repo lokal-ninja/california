@@ -1,5 +1,5 @@
 ---
 title: "bluemercury"
 url: /palo-alto/bluemercury/
-shop: Kosmetik
+shop: beauty
 ---

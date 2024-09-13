@@ -1,5 +1,5 @@
 ---
 title: "Ryder"
 url: /ventura/ryder/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Angelus Funeral Home"
 url: /los-angeles/angelus-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

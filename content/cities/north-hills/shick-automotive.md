@@ -1,5 +1,5 @@
 ---
 title: "Shick Automotive"
 url: /north-hills/shick-automotive/
-shop: Autohaus
+shop: car
 ---

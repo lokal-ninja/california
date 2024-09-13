@@ -1,5 +1,5 @@
 ---
 title: "Self Serve Pet Spa"
 url: /bakersfield/self-serve-pet-spa/
-shop: Tiere
+shop: pet
 ---

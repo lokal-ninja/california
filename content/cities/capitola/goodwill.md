@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /capitola/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gypsy Rose"
 url: /san-jose/gypsy-rose/
-shop: Friseur
+shop: hairdresser
 ---

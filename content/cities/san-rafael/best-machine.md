@@ -1,5 +1,5 @@
 ---
 title: "Best Machine"
 url: /san-rafael/best-machine/
-shop: Autowerkstatt
+shop: car repair
 ---

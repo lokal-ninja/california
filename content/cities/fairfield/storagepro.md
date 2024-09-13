@@ -1,5 +1,5 @@
 ---
 title: "StoragePRO"
 url: /fairfield/storagepro/
-shop: Mieten
+shop: storage rental
 ---

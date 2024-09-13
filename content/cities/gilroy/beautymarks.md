@@ -1,5 +1,5 @@
 ---
 title: "BeautyMarks"
 url: /gilroy/beautymarks/
-shop: Kosmetik
+shop: beauty
 ---

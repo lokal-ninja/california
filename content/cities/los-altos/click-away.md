@@ -1,5 +1,5 @@
 ---
 title: "Click Away"
 url: /los-altos/click-away/
-shop: Computer
+shop: computer
 ---

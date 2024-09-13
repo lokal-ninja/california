@@ -1,5 +1,5 @@
 ---
 title: "Serenity Spa"
 url: /pleasant-hill/serenity-spa/
-shop: Massage
+shop: massage
 ---

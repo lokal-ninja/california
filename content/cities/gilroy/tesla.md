@@ -1,5 +1,5 @@
 ---
 title: "Tesla"
 url: /gilroy/tesla/
-shop: Autohaus
+shop: car
 ---

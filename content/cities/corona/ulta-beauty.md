@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /corona/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

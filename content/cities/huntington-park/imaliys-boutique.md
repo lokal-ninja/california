@@ -1,5 +1,5 @@
 ---
 title: "Imaliy's Boutique"
 url: /huntington-park/imaliys-boutique/
-shop: Kleidung
+shop: clothes
 ---

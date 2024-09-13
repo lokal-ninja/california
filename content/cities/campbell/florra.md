@@ -1,5 +1,5 @@
 ---
 title: "Florra"
 url: /campbell/florra/
-shop: Parfümerie
+shop: perfumery
 ---

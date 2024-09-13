@@ -1,5 +1,5 @@
 ---
 title: "Pinelli's Flowerland"
 url: /san-francisco/pinellis-flowerland/
-shop: Blumen
+shop: florist
 ---

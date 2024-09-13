@@ -1,5 +1,5 @@
 ---
 title: "Aubergine emporium"
 url: /simi-valley/aubergine-emporium/
-shop: Antiquitäten
+shop: antiques
 ---

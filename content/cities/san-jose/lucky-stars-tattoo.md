@@ -1,5 +1,5 @@
 ---
 title: "Lucky Stars Tattoo"
 url: /san-jose/lucky-stars-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

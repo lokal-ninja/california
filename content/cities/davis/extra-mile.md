@@ -1,5 +1,5 @@
 ---
 title: "Extra Mile"
 url: /davis/extra-mile/
-shop: Lebensmittel
+shop: convenience
 ---

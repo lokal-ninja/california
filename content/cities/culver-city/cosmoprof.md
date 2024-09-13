@@ -1,5 +1,5 @@
 ---
 title: "CosmoProf"
 url: /culver-city/cosmoprof/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

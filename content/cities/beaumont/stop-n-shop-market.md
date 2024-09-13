@@ -1,5 +1,5 @@
 ---
 title: "Stop N Shop Market"
 url: /beaumont/stop-n-shop-market/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

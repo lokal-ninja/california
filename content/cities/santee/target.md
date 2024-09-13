@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /santee/target/
-shop: Warenhaus
+shop: department store
 ---

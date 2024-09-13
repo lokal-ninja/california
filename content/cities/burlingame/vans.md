@@ -1,5 +1,5 @@
 ---
 title: "Vans"
 url: /burlingame/vans/
-shop: Schuhe
+shop: shoes
 ---

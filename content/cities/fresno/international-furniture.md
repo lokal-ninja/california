@@ -1,5 +1,5 @@
 ---
 title: "International Furniture"
 url: /fresno/international-furniture/
-shop: Möbel
+shop: furniture
 ---

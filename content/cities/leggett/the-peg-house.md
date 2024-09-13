@@ -1,5 +1,5 @@
 ---
 title: "The Peg House"
 url: /leggett/the-peg-house/
-shop: Lebensmittel
+shop: convenience
 ---

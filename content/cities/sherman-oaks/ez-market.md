@@ -1,5 +1,5 @@
 ---
 title: "EZ Market"
 url: /sherman-oaks/ez-market/
-shop: Lebensmittel
+shop: convenience
 ---

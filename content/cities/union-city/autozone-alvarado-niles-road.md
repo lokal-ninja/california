@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /union-city/autozone-alvarado-niles-road/
-shop: Autoteile
+shop: car parts
 ---

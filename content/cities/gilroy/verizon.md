@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /gilroy/verizon/
-shop: Handy
+shop: mobile phone
 ---

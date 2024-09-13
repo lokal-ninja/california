@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /inglewood/target-west-century-boulevard/
-shop: Warenhaus
+shop: department store
 ---

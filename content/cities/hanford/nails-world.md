@@ -1,5 +1,5 @@
 ---
 title: "Nails World"
 url: /hanford/nails-world/
-shop: Kosmetik
+shop: beauty
 ---

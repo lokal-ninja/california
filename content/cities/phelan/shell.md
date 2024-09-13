@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /phelan/shell/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tower Clock Shop"
 url: /fresno/tower-clock-shop/
-shop: Uhren
+shop: watches
 ---

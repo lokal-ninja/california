@@ -1,5 +1,5 @@
 ---
 title: "The Village Store"
 url: /san-diego/the-village-store/
-shop: Spirituosen
+shop: alcohol
 ---

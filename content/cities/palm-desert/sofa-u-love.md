@@ -1,5 +1,5 @@
 ---
 title: "Sofa U Love"
 url: /palm-desert/sofa-u-love/
-shop: Möbel
+shop: furniture
 ---

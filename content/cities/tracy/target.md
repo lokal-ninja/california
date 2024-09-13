@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /tracy/target/
-shop: Warenhaus
+shop: department store
 ---

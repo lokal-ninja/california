@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /west-covina/target/
-shop: Warenhaus
+shop: department store
 ---

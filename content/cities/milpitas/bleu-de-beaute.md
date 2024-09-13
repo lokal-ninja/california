@@ -1,5 +1,5 @@
 ---
 title: "Bleu de Beaute"
 url: /milpitas/bleu-de-beaute/
-shop: Kosmetik
+shop: beauty
 ---

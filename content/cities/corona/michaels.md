@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /corona/michaels/
-shop: Basteln
+shop: craft
 ---

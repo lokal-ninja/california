@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /la-habra/walgreens/
-shop: Drogerie
+shop: chemist
 ---

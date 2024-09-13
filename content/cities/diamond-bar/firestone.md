@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /diamond-bar/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

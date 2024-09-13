@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /hollywood/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

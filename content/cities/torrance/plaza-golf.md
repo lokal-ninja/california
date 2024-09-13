@@ -1,5 +1,5 @@
 ---
 title: "Plaza Golf"
 url: /torrance/plaza-golf/
-shop: Sport
+shop: sports
 ---

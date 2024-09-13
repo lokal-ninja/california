@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /upland/vons/
-shop: Supermarkt
+shop: supermarket
 ---

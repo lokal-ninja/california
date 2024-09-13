@@ -1,5 +1,5 @@
 ---
 title: "Neil Dahl Jewelers"
 url: /menlo-park/neil-dahl-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

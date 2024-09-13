@@ -1,5 +1,5 @@
 ---
 title: "The Riv"
 url: /santa-barbara/the-riv-state-street/
-shop: Erotik
+shop: erotic
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boost Mobile"
 url: /modesto/boost-mobile/
-shop: Handy
+shop: mobile phone
 ---

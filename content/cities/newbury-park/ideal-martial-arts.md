@@ -1,5 +1,5 @@
 ---
 title: "Ideal Martial Arts"
 url: /newbury-park/ideal-martial-arts/
-shop: Sport
+shop: sports
 ---

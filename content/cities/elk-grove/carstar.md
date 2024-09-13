@@ -1,5 +1,5 @@
 ---
 title: "Carstar"
 url: /elk-grove/carstar/
-shop: Autowerkstatt
+shop: car repair
 ---

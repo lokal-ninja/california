@@ -1,5 +1,5 @@
 ---
 title: "Orange Tree Liquor"
 url: /orange/orange-tree-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kmart"
 url: /tehachapi/kmart/
-shop: Warenhaus
+shop: department store
 ---

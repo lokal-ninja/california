@@ -1,5 +1,5 @@
 ---
 title: "Xfinity"
 url: /concord/xfinity/
-shop: Handy
+shop: mobile phone
 ---

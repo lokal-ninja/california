@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /cerritos/burlington/
-shop: Warenhaus
+shop: department store
 ---

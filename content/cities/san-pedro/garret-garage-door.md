@@ -1,5 +1,5 @@
 ---
 title: "Garret Garage Door"
 url: /san-pedro/garret-garage-door/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Exploring Music"
 url: /san-francisco/exploring-music/
-shop: Instrumente
+shop: musical instrument
 ---

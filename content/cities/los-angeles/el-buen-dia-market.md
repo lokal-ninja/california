@@ -1,5 +1,5 @@
 ---
 title: "El Buen Dia Market"
 url: /los-angeles/el-buen-dia-market/
-shop: Spirituosen
+shop: alcohol
 ---

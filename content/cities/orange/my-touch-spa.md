@@ -1,5 +1,5 @@
 ---
 title: "My Touch Spa"
 url: /orange/my-touch-spa/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /san-diego/valvoline-navajo-road/
-shop: Autowerkstatt
+shop: car repair
 ---

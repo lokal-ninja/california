@@ -1,5 +1,5 @@
 ---
 title: "Mangini's Farm"
 url: /pleasant-hill/manginis-farm/
-shop: Hofladen
+shop: farm
 ---

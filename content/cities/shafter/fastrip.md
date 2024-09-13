@@ -1,5 +1,5 @@
 ---
 title: "Fastrip"
 url: /shafter/fastrip/
-shop: Lebensmittel
+shop: convenience
 ---

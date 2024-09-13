@@ -1,5 +1,5 @@
 ---
 title: "Stater Bros."
 url: /fountain-valley/stater-bros/
-shop: Supermarkt
+shop: supermarket
 ---

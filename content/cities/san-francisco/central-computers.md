@@ -1,5 +1,5 @@
 ---
 title: "Central Computers"
 url: /san-francisco/central-computers/
-shop: Computer
+shop: computer
 ---

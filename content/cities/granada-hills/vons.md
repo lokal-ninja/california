@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /granada-hills/vons/
-shop: Supermarkt
+shop: supermarket
 ---

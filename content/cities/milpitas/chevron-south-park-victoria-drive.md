@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /milpitas/chevron-south-park-victoria-drive/
-shop: Lebensmittel
+shop: convenience
 ---

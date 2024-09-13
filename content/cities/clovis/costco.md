@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /clovis/costco/
-shop: Großhandel
+shop: wholesale
 ---

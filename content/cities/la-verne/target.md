@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /la-verne/target/
-shop: Warenhaus
+shop: department store
 ---

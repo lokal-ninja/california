@@ -1,5 +1,5 @@
 ---
 title: "Ben's Auto Tech"
 url: /redwood-city/bens-auto-tech/
-shop: Autowerkstatt
+shop: car repair
 ---

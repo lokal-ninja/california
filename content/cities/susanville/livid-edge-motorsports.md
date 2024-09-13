@@ -1,5 +1,5 @@
 ---
 title: "Livid Edge Motorsports"
 url: /susanville/livid-edge-motorsports/
-shop: Reifen
+shop: tyres
 ---

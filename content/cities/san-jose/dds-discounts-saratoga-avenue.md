@@ -1,5 +1,5 @@
 ---
 title: "dd's Discounts"
 url: /san-jose/dds-discounts-saratoga-avenue/
-shop: Warenhaus
+shop: department store
 ---

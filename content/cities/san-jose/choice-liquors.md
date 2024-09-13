@@ -1,5 +1,5 @@
 ---
 title: "Choice Liquors"
 url: /san-jose/choice-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eco-Groovy Deals"
 url: /arcata/eco-groovy-deals/
-shop: Gebrauchtwaren
+shop: charity
 ---

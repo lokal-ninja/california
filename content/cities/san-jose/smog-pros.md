@@ -1,5 +1,5 @@
 ---
 title: "Smog Pros"
 url: /san-jose/smog-pros/
-shop: Autowerkstatt
+shop: car repair
 ---

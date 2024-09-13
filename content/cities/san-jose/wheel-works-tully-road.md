@@ -1,5 +1,5 @@
 ---
 title: "Wheel Works"
 url: /san-jose/wheel-works-tully-road/
-shop: Reifen
+shop: tyres
 ---

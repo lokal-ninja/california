@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /downey/chevron/
-shop: Lebensmittel
+shop: convenience
 ---

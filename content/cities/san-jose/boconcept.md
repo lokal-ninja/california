@@ -1,5 +1,5 @@
 ---
 title: "BoConcept"
 url: /san-jose/boconcept/
-shop: Möbel
+shop: furniture
 ---

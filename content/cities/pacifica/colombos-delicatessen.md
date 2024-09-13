@@ -1,5 +1,5 @@
 ---
 title: "Colombo's Delicatessen"
 url: /pacifica/colombos-delicatessen/
-shop: Feinkost
+shop: deli
 ---

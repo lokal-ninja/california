@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /indio/autozone/
-shop: Autoteile
+shop: car parts
 ---

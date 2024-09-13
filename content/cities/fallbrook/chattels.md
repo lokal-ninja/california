@@ -1,5 +1,5 @@
 ---
 title: "Chattels"
 url: /fallbrook/chattels/
-shop: Raumausstattung
+shop: interior decoration
 ---

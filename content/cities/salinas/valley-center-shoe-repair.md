@@ -1,5 +1,5 @@
 ---
 title: "Valley Center Shoe Repair"
 url: /salinas/valley-center-shoe-repair/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /sand-city/target/
-shop: Warenhaus
+shop: department store
 ---

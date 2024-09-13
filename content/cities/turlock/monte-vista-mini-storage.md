@@ -1,5 +1,5 @@
 ---
 title: "Monte Vista Mini-Storage"
 url: /turlock/monte-vista-mini-storage/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /san-diego/verizon-carmel-mountain-road/
-shop: Handy
+shop: mobile phone
 ---

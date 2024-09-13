@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /turlock/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

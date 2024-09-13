@@ -1,5 +1,5 @@
 ---
 title: "Dick's Sporting Goods"
 url: /el-segundo/dicks-sporting-goods/
-shop: Sport
+shop: sports
 ---

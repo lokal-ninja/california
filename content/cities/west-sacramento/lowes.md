@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /west-sacramento/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

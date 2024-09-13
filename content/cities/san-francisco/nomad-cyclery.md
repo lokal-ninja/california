@@ -1,5 +1,5 @@
 ---
 title: "Nomad Cyclery"
 url: /san-francisco/nomad-cyclery/
-shop: Fahrrad
+shop: bicycle
 ---

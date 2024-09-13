@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
 url: /santa-ana/public-storage/
-shop: Mieten
+shop: storage rental
 ---

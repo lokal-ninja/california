@@ -1,5 +1,5 @@
 ---
 title: "Thunder Valley Casino Resort"
 url: /san-jose/thunder-valley-casino-resort/
-shop: Reisebüro
+shop: travel agency
 ---

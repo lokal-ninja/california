@@ -1,5 +1,5 @@
 ---
 title: "Black Widow Tattoo Studio"
 url: /north-highlands/black-widow-tattoo-studio/
-shop: Tattoo
+shop: tattoo
 ---

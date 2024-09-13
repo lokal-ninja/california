@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /concord/costco/
-shop: Großhandel
+shop: wholesale
 ---

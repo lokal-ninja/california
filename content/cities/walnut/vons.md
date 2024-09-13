@@ -1,5 +1,5 @@
 ---
 title: "Vons"
 url: /walnut/vons/
-shop: Supermarkt
+shop: supermarket
 ---

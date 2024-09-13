@@ -1,5 +1,5 @@
 ---
 title: "Winter Automotive"
 url: /shafter/winter-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

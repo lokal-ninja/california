@@ -1,5 +1,5 @@
 ---
 title: "Volcom"
 url: /camarillo/volcom/
-shop: Kleidung
+shop: clothes
 ---

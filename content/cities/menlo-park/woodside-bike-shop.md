@@ -1,5 +1,5 @@
 ---
 title: "Woodside Bike Shop"
 url: /menlo-park/woodside-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

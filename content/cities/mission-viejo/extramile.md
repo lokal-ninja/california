@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
 url: /mission-viejo/extramile/
-shop: Lebensmittel
+shop: convenience
 ---

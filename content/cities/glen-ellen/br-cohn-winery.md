@@ -1,5 +1,5 @@
 ---
 title: "BR Cohn Winery"
 url: /glen-ellen/br-cohn-winery/
-shop: Wein
+shop: wine
 ---

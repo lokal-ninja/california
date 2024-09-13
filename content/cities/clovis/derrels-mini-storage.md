@@ -1,5 +1,5 @@
 ---
 title: "Derrel's Mini Storage"
 url: /clovis/derrels-mini-storage/
-shop: Mieten
+shop: storage rental
 ---

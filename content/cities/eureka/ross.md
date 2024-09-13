@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /eureka/ross/
-shop: Warenhaus
+shop: department store
 ---

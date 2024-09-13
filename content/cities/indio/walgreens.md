@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /indio/walgreens/
-shop: Drogerie
+shop: chemist
 ---

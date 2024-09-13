@@ -1,5 +1,5 @@
 ---
 title: "Estetica Latina"
 url: /san-fernando/estetica-latina/
-shop: Kosmetik
+shop: beauty
 ---

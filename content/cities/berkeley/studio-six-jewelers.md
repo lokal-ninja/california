@@ -1,5 +1,5 @@
 ---
 title: "Studio Six Jewelers"
 url: /berkeley/studio-six-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

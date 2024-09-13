@@ -1,5 +1,5 @@
 ---
 title: "Diamond Auto Detail"
 url: /san-jose/diamond-auto-detail/
-shop: Autowerkstatt
+shop: car repair
 ---

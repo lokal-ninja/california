@@ -1,5 +1,5 @@
 ---
 title: "Food4Less"
 url: /lemon-grove/food4less/
-shop: Supermarkt
+shop: supermarket
 ---

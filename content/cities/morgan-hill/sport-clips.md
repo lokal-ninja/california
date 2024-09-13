@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /morgan-hill/sport-clips/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /emeryville/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

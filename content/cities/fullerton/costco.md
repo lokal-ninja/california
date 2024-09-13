@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /fullerton/costco/
-shop: Großhandel
+shop: wholesale
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /san-leandro/safeway/
-shop: Supermarkt
+shop: supermarket
 ---

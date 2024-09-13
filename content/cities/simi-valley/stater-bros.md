@@ -1,5 +1,5 @@
 ---
 title: "Stater Bros."
 url: /simi-valley/stater-bros/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /el-monte/ross/
-shop: Warenhaus
+shop: department store
 ---

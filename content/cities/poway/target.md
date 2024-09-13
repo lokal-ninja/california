@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /poway/target/
-shop: Warenhaus
+shop: department store
 ---

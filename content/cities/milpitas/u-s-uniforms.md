@@ -1,5 +1,5 @@
 ---
 title: "U.S. Uniforms"
 url: /milpitas/u-s-uniforms/
-shop: Kleidung
+shop: clothes
 ---

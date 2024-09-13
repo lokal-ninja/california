@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /downey/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

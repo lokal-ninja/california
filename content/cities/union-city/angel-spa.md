@@ -1,5 +1,5 @@
 ---
 title: "Angel Spa"
 url: /union-city/angel-spa/
-shop: Massage
+shop: massage
 ---

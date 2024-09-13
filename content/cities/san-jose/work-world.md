@@ -1,5 +1,5 @@
 ---
 title: "Work World"
 url: /san-jose/work-world/
-shop: Kleidung
+shop: clothes
 ---

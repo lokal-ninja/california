@@ -1,5 +1,5 @@
 ---
 title: "Buckin' Blooms"
 url: /clovis/buckin-blooms/
-shop: Blumen
+shop: florist
 ---

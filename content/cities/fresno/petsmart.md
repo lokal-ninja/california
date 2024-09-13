@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /fresno/petsmart/
-shop: Tiere
+shop: pet
 ---

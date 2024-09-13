@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /morgan-hill/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

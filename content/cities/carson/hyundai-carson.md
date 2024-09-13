@@ -1,5 +1,5 @@
 ---
 title: "Hyundai Carson"
 url: /carson/hyundai-carson/
-shop: Autohaus
+shop: car
 ---

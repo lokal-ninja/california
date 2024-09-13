@@ -1,5 +1,5 @@
 ---
 title: "Rotten Robbie"
 url: /livermore/rotten-robbie/
-shop: Lebensmittel
+shop: convenience
 ---

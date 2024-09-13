@@ -1,5 +1,5 @@
 ---
 title: "Ralphs"
 url: /ontario/ralphs/
-shop: Supermarkt
+shop: supermarket
 ---

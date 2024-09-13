@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /buena-park/albertsons/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /sacramento/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

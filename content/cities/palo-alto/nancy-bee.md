@@ -1,5 +1,5 @@
 ---
 title: "Nancy Bee"
 url: /palo-alto/nancy-bee/
-shop: Massage
+shop: massage
 ---

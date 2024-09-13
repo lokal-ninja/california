@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
 url: /san-diego/7-eleven-sports-arena-boulevard/
-shop: Lebensmittel
+shop: convenience
 ---

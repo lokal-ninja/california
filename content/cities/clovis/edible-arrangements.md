@@ -1,5 +1,5 @@
 ---
 title: "Edible Arrangements"
 url: /clovis/edible-arrangements/
-shop: Andenken
+shop: gift
 ---

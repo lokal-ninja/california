@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /covina/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

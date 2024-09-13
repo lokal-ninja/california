@@ -1,5 +1,5 @@
 ---
 title: "Hagan Flynn"
 url: /manhattan-beach/hagan-flynn/
-shop: Allgemein
+shop: shop
 ---

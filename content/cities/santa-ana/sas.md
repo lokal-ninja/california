@@ -1,5 +1,5 @@
 ---
 title: "SAS"
 url: /santa-ana/sas/
-shop: Schuhe
+shop: shoes
 ---

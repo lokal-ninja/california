@@ -1,5 +1,5 @@
 ---
 title: "Metamorphosis Studio"
 url: /santa-clara/metamorphosis-studio/
-shop: Kosmetik
+shop: beauty
 ---

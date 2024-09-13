@@ -1,5 +1,5 @@
 ---
 title: "Tidepools"
 url: /carpinteria/tidepools/
-shop: Andenken
+shop: gift
 ---

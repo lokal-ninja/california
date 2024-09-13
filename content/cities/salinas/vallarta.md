@@ -1,5 +1,5 @@
 ---
 title: "Vallarta"
 url: /salinas/vallarta/
-shop: Supermarkt
+shop: supermarket
 ---

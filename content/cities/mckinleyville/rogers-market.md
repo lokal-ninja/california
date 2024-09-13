@@ -1,5 +1,5 @@
 ---
 title: "Roger's Market"
 url: /mckinleyville/rogers-market/
-shop: Lebensmittel
+shop: convenience
 ---

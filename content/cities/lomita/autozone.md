@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /lomita/autozone/
-shop: Autoteile
+shop: car parts
 ---

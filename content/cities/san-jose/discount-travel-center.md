@@ -1,5 +1,5 @@
 ---
 title: "Discount Travel Center"
 url: /san-jose/discount-travel-center/
-shop: Reisebüro
+shop: travel agency
 ---

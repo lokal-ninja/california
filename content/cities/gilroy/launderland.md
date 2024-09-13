@@ -1,5 +1,5 @@
 ---
 title: "Launderland"
 url: /gilroy/launderland/
-shop: Wäscherei
+shop: laundry
 ---

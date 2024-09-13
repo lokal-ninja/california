@@ -1,5 +1,5 @@
 ---
 title: "Hoover Barbershop"
 url: /los-angeles/hoover-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /newbury-park/albertsons/
-shop: Supermarkt
+shop: supermarket
 ---

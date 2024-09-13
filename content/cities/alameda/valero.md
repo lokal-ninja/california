@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /alameda/valero/
-shop: Lebensmittel
+shop: convenience
 ---

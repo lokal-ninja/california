@@ -1,5 +1,5 @@
 ---
 title: "Kahler's Werkstatt"
 url: /dublin/kahlers-werkstatt/
-shop: Autowerkstatt
+shop: car repair
 ---

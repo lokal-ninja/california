@@ -1,5 +1,5 @@
 ---
 title: "The Bicycle Work Shop"
 url: /santa-monica/the-bicycle-work-shop/
-shop: Fahrrad
+shop: bicycle
 ---

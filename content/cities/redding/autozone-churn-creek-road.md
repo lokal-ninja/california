@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /redding/autozone-churn-creek-road/
-shop: Autoteile
+shop: car parts
 ---

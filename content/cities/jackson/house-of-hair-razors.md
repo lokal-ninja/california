@@ -1,5 +1,5 @@
 ---
 title: "House of Hair Razors"
 url: /jackson/house-of-hair-razors/
-shop: Friseur
+shop: hairdresser
 ---

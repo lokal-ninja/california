@@ -1,5 +1,5 @@
 ---
 title: "Wheel Works"
 url: /san-jose/wheel-works-winfield-boulevard-2/
-shop: Autowerkstatt
+shop: car repair
 ---

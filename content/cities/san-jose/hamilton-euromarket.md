@@ -1,5 +1,5 @@
 ---
 title: "Hamilton Euromarket"
 url: /san-jose/hamilton-euromarket/
-shop: Feinkost
+shop: deli
 ---

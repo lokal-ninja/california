@@ -1,5 +1,5 @@
 ---
 title: "Sonnyvan Auto Body"
 url: /san-jose/sonnyvan-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

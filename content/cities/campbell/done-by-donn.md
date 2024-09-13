@@ -1,5 +1,5 @@
 ---
 title: "Done by Donn"
 url: /campbell/done-by-donn/
-shop: Friseur
+shop: hairdresser
 ---

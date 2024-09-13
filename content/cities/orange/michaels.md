@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /orange/michaels/
-shop: Basteln
+shop: craft
 ---

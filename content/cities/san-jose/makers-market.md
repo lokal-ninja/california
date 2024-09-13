@@ -1,5 +1,5 @@
 ---
 title: "Makers Market"
 url: /san-jose/makers-market/
-shop: Andenken
+shop: gift
 ---

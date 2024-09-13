@@ -1,5 +1,5 @@
 ---
 title: "Barons Market"
 url: /chula-vista/barons-market/
-shop: Supermarkt
+shop: supermarket
 ---

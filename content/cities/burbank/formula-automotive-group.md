@@ -1,5 +1,5 @@
 ---
 title: "Formula Automotive Group"
 url: /burbank/formula-automotive-group/
-shop: Autowerkstatt
+shop: car repair
 ---

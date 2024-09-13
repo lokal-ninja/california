@@ -1,5 +1,5 @@
 ---
 title: "Richland Chevrolet"
 url: /shafter/richland-chevrolet/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "FedEx"
 url: /simi-valley/fedex/
-shop: Kopieren
+shop: copyshop
 ---

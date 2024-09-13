@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /hayward/safeway-west-jackson-street/
-shop: Supermarkt
+shop: supermarket
 ---

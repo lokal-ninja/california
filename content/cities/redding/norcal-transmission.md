@@ -1,5 +1,5 @@
 ---
 title: "Norcal Transmission"
 url: /redding/norcal-transmission/
-shop: Autowerkstatt
+shop: car repair
 ---

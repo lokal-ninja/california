@@ -1,5 +1,5 @@
 ---
 title: "Stater Bros."
 url: /pasadena/stater-bros/
-shop: Supermarkt
+shop: supermarket
 ---

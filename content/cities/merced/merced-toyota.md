@@ -1,5 +1,5 @@
 ---
 title: "Merced Toyota"
 url: /merced/merced-toyota/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Echo"
 url: /san-francisco/echo/
-shop: Möbel
+shop: furniture
 ---

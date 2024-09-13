@@ -1,5 +1,5 @@
 ---
 title: "Stop'n Save Liquor"
 url: /modesto/stopn-save-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

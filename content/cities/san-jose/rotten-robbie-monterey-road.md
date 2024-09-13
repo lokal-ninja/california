@@ -1,5 +1,5 @@
 ---
 title: "Rotten Robbie"
 url: /san-jose/rotten-robbie-monterey-road/
-shop: Lebensmittel
+shop: convenience
 ---

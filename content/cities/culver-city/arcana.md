@@ -1,5 +1,5 @@
 ---
 title: "Arcana"
 url: /culver-city/arcana/
-shop: Bücher
+shop: books
 ---

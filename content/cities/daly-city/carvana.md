@@ -1,5 +1,5 @@
 ---
 title: "Carvana"
 url: /daly-city/carvana/
-shop: Autohaus
+shop: car
 ---

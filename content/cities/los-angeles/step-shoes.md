@@ -1,5 +1,5 @@
 ---
 title: "Step Shoes"
 url: /los-angeles/step-shoes/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Styling Salon"
 url: /san-jose/styling-salon/
-shop: Kosmetik
+shop: beauty
 ---

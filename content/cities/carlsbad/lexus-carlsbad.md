@@ -1,5 +1,5 @@
 ---
 title: "Lexus Carlsbad"
 url: /carlsbad/lexus-carlsbad/
-shop: Autohaus
+shop: car
 ---

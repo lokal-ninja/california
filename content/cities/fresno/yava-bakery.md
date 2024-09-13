@@ -1,5 +1,5 @@
 ---
 title: "YAVA Bakery"
 url: /fresno/yava-bakery/
-shop: Bäckerei
+shop: bakery
 ---

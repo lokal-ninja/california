@@ -1,5 +1,5 @@
 ---
 title: "Save Mart Supermarket"
 url: /clovis/save-mart-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

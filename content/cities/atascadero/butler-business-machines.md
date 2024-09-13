@@ -1,5 +1,5 @@
 ---
 title: "Butler Business Machines"
 url: /atascadero/butler-business-machines/
-shop: Elektronik
+shop: electronics
 ---

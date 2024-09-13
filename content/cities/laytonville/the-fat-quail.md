@@ -1,5 +1,5 @@
 ---
 title: "The Fat Quail"
 url: /laytonville/the-fat-quail/
-shop: Textil
+shop: fabric
 ---

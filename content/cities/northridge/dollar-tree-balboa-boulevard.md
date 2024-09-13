@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /northridge/dollar-tree-balboa-boulevard/
-shop: Kramladen
+shop: variety store
 ---

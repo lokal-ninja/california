@@ -1,5 +1,5 @@
 ---
 title: "Auto Sport Pro-Body Shop"
 url: /san-jose/auto-sport-pro-body-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

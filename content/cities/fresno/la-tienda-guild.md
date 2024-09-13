@@ -1,5 +1,5 @@
 ---
 title: "La Tienda Guild"
 url: /fresno/la-tienda-guild/
-shop: Gebrauchtwaren
+shop: charity
 ---

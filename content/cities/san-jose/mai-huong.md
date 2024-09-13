@@ -1,5 +1,5 @@
 ---
 title: "Mai Hương"
 url: /san-jose/mai-huong/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /merced/verizon/
-shop: Handy
+shop: mobile phone
 ---

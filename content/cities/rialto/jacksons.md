@@ -1,5 +1,5 @@
 ---
 title: "Jacksons"
 url: /rialto/jacksons/
-shop: Lebensmittel
+shop: convenience
 ---

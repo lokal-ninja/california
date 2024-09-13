@@ -1,5 +1,5 @@
 ---
 title: "Atlas Motors"
 url: /north-highlands/atlas-motors/
-shop: Autohaus
+shop: car
 ---

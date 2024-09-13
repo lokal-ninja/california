@@ -1,5 +1,5 @@
 ---
 title: "German Sport Inc."
 url: /walnut-creek/german-sport-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

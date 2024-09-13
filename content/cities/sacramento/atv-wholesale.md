@@ -1,5 +1,5 @@
 ---
 title: "ATV Wholesale"
 url: /sacramento/atv-wholesale/
-shop: Quad
+shop: atv
 ---

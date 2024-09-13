@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /encinitas/target/
-shop: Warenhaus
+shop: department store
 ---

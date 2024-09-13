@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /petaluma/kohls/
-shop: Warenhaus
+shop: department store
 ---

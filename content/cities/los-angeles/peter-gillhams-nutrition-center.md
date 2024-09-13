@@ -1,5 +1,5 @@
 ---
 title: "Peter Gillham's Nutrition Center"
 url: /los-angeles/peter-gillhams-nutrition-center/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

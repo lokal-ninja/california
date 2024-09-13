@@ -1,5 +1,5 @@
 ---
 title: "Hilltop Grocery"
 url: /half-moon-bay/hilltop-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

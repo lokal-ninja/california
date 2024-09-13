@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /el-cerrito/verizon/
-shop: Handy
+shop: mobile phone
 ---

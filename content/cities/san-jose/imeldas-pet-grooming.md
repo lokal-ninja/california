@@ -1,5 +1,5 @@
 ---
 title: "Imelda’s Pet Grooming"
 url: /san-jose/imeldas-pet-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

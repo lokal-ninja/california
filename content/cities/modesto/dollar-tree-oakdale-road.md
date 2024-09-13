@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /modesto/dollar-tree-oakdale-road/
-shop: Kramladen
+shop: variety store
 ---

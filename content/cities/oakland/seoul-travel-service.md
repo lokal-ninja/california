@@ -1,5 +1,5 @@
 ---
 title: "Seoul Travel Service"
 url: /oakland/seoul-travel-service/
-shop: Reisebüro
+shop: travel agency
 ---

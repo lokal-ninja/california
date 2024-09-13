@@ -1,5 +1,5 @@
 ---
 title: "Hayasa Motorbikes"
 url: /oakland/hayasa-motorbikes/
-shop: Motorrad
+shop: motorcycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pa's Fashion Pro"
 url: /fresno/pas-fashion-pro/
-shop: Kleidung
+shop: clothes
 ---

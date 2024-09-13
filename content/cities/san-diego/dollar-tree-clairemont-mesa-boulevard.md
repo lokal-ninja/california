@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /san-diego/dollar-tree-clairemont-mesa-boulevard/
-shop: Kramladen
+shop: variety store
 ---

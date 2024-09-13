@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /stockton/ross-trinity-parkway/
-shop: Warenhaus
+shop: department store
 ---

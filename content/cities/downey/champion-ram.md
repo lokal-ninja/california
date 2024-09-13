@@ -1,5 +1,5 @@
 ---
 title: "Champion Ram"
 url: /downey/champion-ram/
-shop: Autohaus
+shop: car
 ---

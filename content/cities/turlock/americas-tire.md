@@ -1,5 +1,5 @@
 ---
 title: "America's Tire"
 url: /turlock/americas-tire/
-shop: Reifen
+shop: tyres
 ---

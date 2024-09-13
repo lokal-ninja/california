@@ -1,5 +1,5 @@
 ---
 title: "BoxLunch"
 url: /fresno/boxlunch/
-shop: Andenken
+shop: gift
 ---

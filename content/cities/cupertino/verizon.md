@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /cupertino/verizon/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /glendale/goodwill-glenoaks-boulevard/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RoomsXpress"
 url: /turlock/roomsxpress/
-shop: Möbel
+shop: furniture
 ---

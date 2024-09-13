@@ -1,5 +1,5 @@
 ---
 title: "Stater Bros."
 url: /ridgecrest/stater-bros/
-shop: Supermarkt
+shop: supermarket
 ---

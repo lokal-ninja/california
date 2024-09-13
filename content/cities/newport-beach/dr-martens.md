@@ -1,5 +1,5 @@
 ---
 title: "Dr. Martens"
 url: /newport-beach/dr-martens/
-shop: Schuhe
+shop: shoes
 ---

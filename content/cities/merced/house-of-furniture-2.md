@@ -1,5 +1,5 @@
 ---
 title: "House Of Furniture"
 url: /merced/house-of-furniture-2/
-shop: Möbel
+shop: furniture
 ---

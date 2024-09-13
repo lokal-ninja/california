@@ -1,5 +1,5 @@
 ---
 title: "Blissful Beauty Bar"
 url: /thai-town/blissful-beauty-bar/
-shop: Kosmetik
+shop: beauty
 ---

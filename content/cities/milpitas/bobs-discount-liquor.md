@@ -1,5 +1,5 @@
 ---
 title: "Bob's Discount Liquor"
 url: /milpitas/bobs-discount-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

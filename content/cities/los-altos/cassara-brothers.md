@@ -1,5 +1,5 @@
 ---
 title: "Cassara Brothers"
 url: /los-altos/cassara-brothers/
-shop: Kleidung
+shop: clothes
 ---

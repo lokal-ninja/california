@@ -1,5 +1,5 @@
 ---
 title: "California Wheels"
 url: /san-jose/california-wheels/
-shop: Autoteile
+shop: car parts
 ---

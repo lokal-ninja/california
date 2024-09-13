@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /santa-monica/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /saratoga/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

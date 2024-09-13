@@ -1,5 +1,5 @@
 ---
 title: "SummersAndFall"
 url: /san-francisco/summersandfall/
-shop: Friseur
+shop: hairdresser
 ---

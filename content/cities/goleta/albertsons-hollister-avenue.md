@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /goleta/albertsons-hollister-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

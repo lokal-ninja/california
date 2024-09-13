@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /san-jacinto/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

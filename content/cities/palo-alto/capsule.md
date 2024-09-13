@@ -1,5 +1,5 @@
 ---
 title: "Capsule"
 url: /palo-alto/capsule/
-shop: Drogerie
+shop: chemist
 ---

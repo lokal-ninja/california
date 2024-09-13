@@ -1,5 +1,5 @@
 ---
 title: "Hanlees Fairfield Toyota"
 url: /fairfield/hanlees-fairfield-toyota/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Shade Store"
 url: /palo-alto/the-shade-store/
-shop: Jalousien
+shop: window blind
 ---

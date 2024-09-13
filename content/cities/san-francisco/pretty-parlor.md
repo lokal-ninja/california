@@ -1,5 +1,5 @@
 ---
 title: "Pretty Parlor"
 url: /san-francisco/pretty-parlor/
-shop: Friseur
+shop: hairdresser
 ---

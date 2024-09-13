@@ -1,5 +1,5 @@
 ---
 title: "Fresh Pure Water"
 url: /el-cajon/fresh-pure-water/
-shop: Wasser
+shop: water
 ---

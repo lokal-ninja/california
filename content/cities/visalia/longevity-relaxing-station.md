@@ -1,5 +1,5 @@
 ---
 title: "Longevity Relaxing Station"
 url: /visalia/longevity-relaxing-station/
-shop: Massage
+shop: massage
 ---

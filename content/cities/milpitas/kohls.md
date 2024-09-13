@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /milpitas/kohls/
-shop: Warenhaus
+shop: department store
 ---

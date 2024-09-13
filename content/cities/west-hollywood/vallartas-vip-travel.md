@@ -1,5 +1,5 @@
 ---
 title: "Vallarta's VIP Travel"
 url: /west-hollywood/vallartas-vip-travel/
-shop: Reisebüro
+shop: travel agency
 ---

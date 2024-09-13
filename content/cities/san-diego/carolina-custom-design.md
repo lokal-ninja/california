@@ -1,5 +1,5 @@
 ---
 title: "Carolina Custom Design"
 url: /san-diego/carolina-custom-design/
-shop: Jalousien
+shop: window blind
 ---

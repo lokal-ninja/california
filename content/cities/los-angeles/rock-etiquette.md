@@ -1,5 +1,5 @@
 ---
 title: "Rock Etiquette"
 url: /los-angeles/rock-etiquette/
-shop: Kleidung
+shop: clothes
 ---

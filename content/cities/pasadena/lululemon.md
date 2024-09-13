@@ -1,5 +1,5 @@
 ---
 title: "Lululemon"
 url: /pasadena/lululemon/
-shop: Kleidung
+shop: clothes
 ---

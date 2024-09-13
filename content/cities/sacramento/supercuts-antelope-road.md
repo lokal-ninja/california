@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /sacramento/supercuts-antelope-road/
-shop: Friseur
+shop: hairdresser
 ---

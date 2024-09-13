@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /riverside/michaels/
-shop: Basteln
+shop: craft
 ---

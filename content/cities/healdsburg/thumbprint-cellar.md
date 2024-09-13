@@ -1,5 +1,5 @@
 ---
 title: "Thumbprint Cellar"
 url: /healdsburg/thumbprint-cellar/
-shop: Spirituosen
+shop: alcohol
 ---

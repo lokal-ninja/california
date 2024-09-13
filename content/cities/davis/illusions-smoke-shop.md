@@ -1,5 +1,5 @@
 ---
 title: "Illusions Smoke Shop"
 url: /davis/illusions-smoke-shop/
-shop: Tabak
+shop: tobacco
 ---

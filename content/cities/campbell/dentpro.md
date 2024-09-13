@@ -1,5 +1,5 @@
 ---
 title: "DentPro"
 url: /campbell/dentpro/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /riverside/kohls-tyler-street/
-shop: Warenhaus
+shop: department store
 ---

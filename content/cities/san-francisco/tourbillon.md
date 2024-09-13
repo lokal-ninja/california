@@ -1,5 +1,5 @@
 ---
 title: "Tourbillon"
 url: /san-francisco/tourbillon/
-shop: Uhren
+shop: watches
 ---

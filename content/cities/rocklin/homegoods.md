@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /rocklin/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

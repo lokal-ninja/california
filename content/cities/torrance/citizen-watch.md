@@ -1,5 +1,5 @@
 ---
 title: "Citizen Watch"
 url: /torrance/citizen-watch/
-shop: Uhren
+shop: watches
 ---

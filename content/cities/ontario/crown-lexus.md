@@ -1,5 +1,5 @@
 ---
 title: "Crown Lexus"
 url: /ontario/crown-lexus/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /santa-cruz/ace-hardware-soquel-avenue/
-shop: Baumarkt
+shop: doityourself
 ---

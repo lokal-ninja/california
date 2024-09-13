@@ -1,5 +1,5 @@
 ---
 title: "Moorpark Exxon"
 url: /san-jose/moorpark-exxon-moorpark-avenue/
-shop: Autowerkstatt
+shop: car repair
 ---

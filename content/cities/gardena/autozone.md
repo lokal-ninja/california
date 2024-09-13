@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /gardena/autozone/
-shop: Autoteile
+shop: car parts
 ---

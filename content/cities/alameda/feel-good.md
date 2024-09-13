@@ -1,5 +1,5 @@
 ---
 title: "Feel Good"
 url: /alameda/feel-good/
-shop: Süßwaren
+shop: confectionery
 ---

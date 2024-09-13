@@ -1,5 +1,5 @@
 ---
 title: "Crocs"
 url: /camarillo/crocs/
-shop: Schuhe
+shop: shoes
 ---

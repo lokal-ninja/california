@@ -1,5 +1,5 @@
 ---
 title: "Boo Boo Bean"
 url: /fresno/boo-boo-bean/
-shop: Bäckerei
+shop: bakery
 ---

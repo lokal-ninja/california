@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /tustin/sephora/
-shop: Kosmetik
+shop: beauty
 ---

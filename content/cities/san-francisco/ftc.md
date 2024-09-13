@@ -1,5 +1,5 @@
 ---
 title: "FTC"
 url: /san-francisco/ftc/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /fontana/burlington/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "See's Candies"
 url: /irvine/sees-candies/
-shop: Süßwaren
+shop: confectionery
 ---

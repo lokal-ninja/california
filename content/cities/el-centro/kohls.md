@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /el-centro/kohls/
-shop: Warenhaus
+shop: department store
 ---

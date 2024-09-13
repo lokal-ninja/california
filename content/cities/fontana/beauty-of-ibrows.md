@@ -1,5 +1,5 @@
 ---
 title: "Beauty of Ibrows"
 url: /fontana/beauty-of-ibrows/
-shop: Friseur
+shop: hairdresser
 ---

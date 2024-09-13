@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /los-angeles/ross-south-vermont-avenue/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Riverpark Liquor"
 url: /fresno/riverpark-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

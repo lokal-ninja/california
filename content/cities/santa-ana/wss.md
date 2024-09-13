@@ -1,5 +1,5 @@
 ---
 title: "WSS"
 url: /santa-ana/wss/
-shop: Schuhe
+shop: shoes
 ---

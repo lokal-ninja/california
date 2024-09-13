@@ -1,5 +1,5 @@
 ---
 title: "Souza Enterprises"
 url: /valencia/souza-enterprises/
-shop: Sport
+shop: sports
 ---

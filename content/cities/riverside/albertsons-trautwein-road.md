@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /riverside/albertsons-trautwein-road/
-shop: Supermarkt
+shop: supermarket
 ---

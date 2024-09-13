@@ -1,5 +1,5 @@
 ---
 title: "The Bike Connection"
 url: /san-francisco/the-bike-connection/
-shop: Fahrrad
+shop: bicycle
 ---

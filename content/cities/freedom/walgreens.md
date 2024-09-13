@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /freedom/walgreens/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Solstice Sunglass"
 url: /camarillo/solstice-sunglass/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pono's Pooch Spa"
 url: /hawthorne/ponos-pooch-spa/
-shop: Tiersalon
+shop: pet grooming
 ---

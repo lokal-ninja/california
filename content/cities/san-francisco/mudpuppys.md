@@ -1,5 +1,5 @@
 ---
 title: "Mudpuppy's"
 url: /san-francisco/mudpuppys/
-shop: Tiersalon
+shop: pet grooming
 ---

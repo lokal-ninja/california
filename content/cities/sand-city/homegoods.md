@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /sand-city/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

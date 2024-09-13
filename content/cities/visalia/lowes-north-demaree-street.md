@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /visalia/lowes-north-demaree-street/
-shop: Baumarkt
+shop: doityourself
 ---

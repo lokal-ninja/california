@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /azusa/ross/
-shop: Warenhaus
+shop: department store
 ---

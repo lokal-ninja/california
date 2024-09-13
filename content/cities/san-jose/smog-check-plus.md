@@ -1,5 +1,5 @@
 ---
 title: "Smog Check Plus"
 url: /san-jose/smog-check-plus/
-shop: Autowerkstatt
+shop: car repair
 ---

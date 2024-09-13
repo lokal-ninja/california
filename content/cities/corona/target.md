@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /corona/target/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Amour Nailz"
 url: /morgan-hill/amour-nailz/
-shop: Kosmetik
+shop: beauty
 ---

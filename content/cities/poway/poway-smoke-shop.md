@@ -1,5 +1,5 @@
 ---
 title: "Poway Smoke Shop"
 url: /poway/poway-smoke-shop/
-shop: Tabak
+shop: tobacco
 ---

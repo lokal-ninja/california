@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /turlock/michaels/
-shop: Basteln
+shop: craft
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bishops"
 url: /campbell/bishops/
-shop: Friseur
+shop: hairdresser
 ---

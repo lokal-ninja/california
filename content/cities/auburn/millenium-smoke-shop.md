@@ -1,5 +1,5 @@
 ---
 title: "Millenium Smoke Shop"
 url: /auburn/millenium-smoke-shop/
-shop: Tabak
+shop: tobacco
 ---

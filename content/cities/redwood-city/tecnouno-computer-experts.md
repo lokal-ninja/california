@@ -1,5 +1,5 @@
 ---
 title: "TecnoUNO Computer Experts"
 url: /redwood-city/tecnouno-computer-experts/
-shop: Computer
+shop: computer
 ---

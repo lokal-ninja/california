@@ -1,5 +1,5 @@
 ---
 title: "Villa Automotive"
 url: /san-luis-obispo/villa-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

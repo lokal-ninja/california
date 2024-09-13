@@ -1,5 +1,5 @@
 ---
 title: "Ariat Work"
 url: /fresno/ariat-work/
-shop: Kleidung
+shop: clothes
 ---

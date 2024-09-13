@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /san-diego/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
 url: /moraga/7-eleven/
-shop: Lebensmittel
+shop: convenience
 ---

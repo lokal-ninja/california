@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /clearlake/autozone/
-shop: Autoteile
+shop: car parts
 ---

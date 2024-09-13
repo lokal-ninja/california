@@ -1,5 +1,5 @@
 ---
 title: "Wally's Bicycle Works"
 url: /avila-beach/wallys-bicycle-works/
-shop: Fahrrad
+shop: bicycle
 ---

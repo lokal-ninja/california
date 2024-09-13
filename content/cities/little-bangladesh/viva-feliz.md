@@ -1,5 +1,5 @@
 ---
 title: "Viva Feliz"
 url: /little-bangladesh/viva-feliz/
-shop: Bioladen
+shop: health food
 ---

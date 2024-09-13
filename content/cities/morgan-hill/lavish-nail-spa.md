@@ -1,5 +1,5 @@
 ---
 title: "Lavish Nail Spa"
 url: /morgan-hill/lavish-nail-spa/
-shop: Kosmetik
+shop: beauty
 ---

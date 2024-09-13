@@ -1,5 +1,5 @@
 ---
 title: "Dadson Laundry"
 url: /los-angeles/dadson-laundry/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /el-cajon/target-broadway/
-shop: Warenhaus
+shop: department store
 ---

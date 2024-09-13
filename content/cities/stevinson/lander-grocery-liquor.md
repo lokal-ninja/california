@@ -1,5 +1,5 @@
 ---
 title: "Lander Grocery Liquor"
 url: /stevinson/lander-grocery-liquor/
-shop: Lebensmittel
+shop: convenience
 ---

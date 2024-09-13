@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /fremont/costco/
-shop: Großhandel
+shop: wholesale
 ---

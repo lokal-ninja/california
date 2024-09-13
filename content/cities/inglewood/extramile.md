@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
 url: /inglewood/extramile/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Main Street Lube"
 url: /susanville/main-street-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

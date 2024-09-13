@@ -1,5 +1,5 @@
 ---
 title: "Save Auto"
 url: /san-diego/save-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

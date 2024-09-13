@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /seal-beach/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

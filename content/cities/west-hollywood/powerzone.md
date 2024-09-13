@@ -1,5 +1,5 @@
 ---
 title: "PowerZone"
 url: /west-hollywood/powerzone/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

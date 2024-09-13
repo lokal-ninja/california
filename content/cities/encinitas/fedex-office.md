@@ -1,5 +1,5 @@
 ---
 title: "FedEx Office"
 url: /encinitas/fedex-office/
-shop: Kopieren
+shop: copyshop
 ---

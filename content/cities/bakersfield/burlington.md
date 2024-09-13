@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /bakersfield/burlington/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /la-quinta/target/
-shop: Warenhaus
+shop: department store
 ---

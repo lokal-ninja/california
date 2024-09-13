@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /mountain-view/great-clips/
-shop: Friseur
+shop: hairdresser
 ---

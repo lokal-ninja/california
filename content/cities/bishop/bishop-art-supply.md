@@ -1,5 +1,5 @@
 ---
 title: "Bishop Art Supply"
 url: /bishop/bishop-art-supply/
-shop: Kunst
+shop: art
 ---

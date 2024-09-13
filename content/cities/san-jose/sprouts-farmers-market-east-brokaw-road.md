@@ -1,5 +1,5 @@
 ---
 title: "Sprouts Farmers Market"
 url: /san-jose/sprouts-farmers-market-east-brokaw-road/
-shop: Supermarkt
+shop: supermarket
 ---

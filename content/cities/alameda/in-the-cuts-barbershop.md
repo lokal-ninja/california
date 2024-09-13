@@ -1,5 +1,5 @@
 ---
 title: "In The Cuts Barbershop"
 url: /alameda/in-the-cuts-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

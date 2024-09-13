@@ -1,5 +1,5 @@
 ---
 title: "glow Candle Making"
 url: /san-jose/glow-candle-making/
-shop: Basteln
+shop: craft
 ---

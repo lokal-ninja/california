@@ -1,5 +1,5 @@
 ---
 title: "Saxology"
 url: /berkeley/saxology/
-shop: Instrumente
+shop: musical instrument
 ---

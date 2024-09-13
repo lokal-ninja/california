@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /sacramento/t-mobile-truxel-road/
-shop: Handy
+shop: mobile phone
 ---

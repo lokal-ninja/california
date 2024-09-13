@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /mountain-view/u-haul/
-shop: Mieten
+shop: storage rental
 ---

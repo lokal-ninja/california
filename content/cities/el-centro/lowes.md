@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /el-centro/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

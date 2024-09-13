@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardwarw"
 url: /placerville/ace-hardwarw/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carter's"
 url: /fremont/carters/
-shop: Kleidung
+shop: clothes
 ---

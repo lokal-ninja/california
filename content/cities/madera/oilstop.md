@@ -1,5 +1,5 @@
 ---
 title: "Oilstop"
 url: /madera/oilstop/
-shop: Autowerkstatt
+shop: car repair
 ---

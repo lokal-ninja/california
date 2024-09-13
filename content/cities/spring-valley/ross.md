@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /spring-valley/ross/
-shop: Warenhaus
+shop: department store
 ---

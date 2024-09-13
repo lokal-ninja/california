@@ -1,5 +1,5 @@
 ---
 title: "Village Barber"
 url: /orinda/village-barber/
-shop: Friseur
+shop: hairdresser
 ---

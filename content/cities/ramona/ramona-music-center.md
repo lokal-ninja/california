@@ -1,5 +1,5 @@
 ---
 title: "Ramona Music Center"
 url: /ramona/ramona-music-center/
-shop: Instrumente
+shop: musical instrument
 ---

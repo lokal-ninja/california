@@ -1,5 +1,5 @@
 ---
 title: "Amoretto Boutique"
 url: /gilroy/amoretto-boutique/
-shop: Schmuck
+shop: jewelry
 ---

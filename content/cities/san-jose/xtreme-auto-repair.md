@@ -1,5 +1,5 @@
 ---
 title: "XTreme Auto Repair"
 url: /san-jose/xtreme-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

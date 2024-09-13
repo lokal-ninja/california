@@ -1,5 +1,5 @@
 ---
 title: "adv. organics"
 url: /elk-grove/adv-organics/
-shop: Garten-Center
+shop: garden centre
 ---

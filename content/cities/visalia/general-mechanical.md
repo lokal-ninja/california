@@ -1,5 +1,5 @@
 ---
 title: "General Mechanical"
 url: /visalia/general-mechanical/
-shop: Eisenwaren
+shop: hardware
 ---

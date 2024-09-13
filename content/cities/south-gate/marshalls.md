@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /south-gate/marshalls/
-shop: Warenhaus
+shop: department store
 ---

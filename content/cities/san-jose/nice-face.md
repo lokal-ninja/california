@@ -1,5 +1,5 @@
 ---
 title: "Nice Face"
 url: /san-jose/nice-face/
-shop: Friseur
+shop: hairdresser
 ---

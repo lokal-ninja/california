@@ -1,5 +1,5 @@
 ---
 title: "Market Hall Foods"
 url: /berkeley/market-hall-foods/
-shop: Supermarkt
+shop: supermarket
 ---

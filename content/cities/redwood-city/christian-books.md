@@ -1,5 +1,5 @@
 ---
 title: "Christian Books"
 url: /redwood-city/christian-books/
-shop: Bücher
+shop: books
 ---

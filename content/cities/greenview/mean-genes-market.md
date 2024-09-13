@@ -1,5 +1,5 @@
 ---
 title: "Mean Gene's Market"
 url: /greenview/mean-genes-market/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /tulare/walmart/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /rancho-cucamonga/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

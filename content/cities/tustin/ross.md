@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /tustin/ross/
-shop: Warenhaus
+shop: department store
 ---

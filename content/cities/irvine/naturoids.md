@@ -1,5 +1,5 @@
 ---
 title: "NatuRoids"
 url: /irvine/naturoids/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

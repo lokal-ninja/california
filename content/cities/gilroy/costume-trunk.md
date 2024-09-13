@@ -1,5 +1,5 @@
 ---
 title: "Costume Trunk"
 url: /gilroy/costume-trunk/
-shop: Modehaus
+shop: boutique
 ---

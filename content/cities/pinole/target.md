@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /pinole/target/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mike's Barbershop"
 url: /san-francisco/mikes-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

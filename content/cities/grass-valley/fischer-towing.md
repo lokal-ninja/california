@@ -1,5 +1,5 @@
 ---
 title: "Fischer Towing"
 url: /grass-valley/fischer-towing/
-shop: Autowerkstatt
+shop: car repair
 ---

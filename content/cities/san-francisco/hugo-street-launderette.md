@@ -1,5 +1,5 @@
 ---
 title: "Hugo Street Launderette"
 url: /san-francisco/hugo-street-launderette/
-shop: Wäscherei
+shop: laundry
 ---

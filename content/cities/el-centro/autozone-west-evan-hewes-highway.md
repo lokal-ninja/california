@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /el-centro/autozone-west-evan-hewes-highway/
-shop: Autoteile
+shop: car parts
 ---

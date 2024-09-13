@@ -1,5 +1,5 @@
 ---
 title: "Century Store"
 url: /palo-alto/century-store/
-shop: Lebensmittel
+shop: convenience
 ---

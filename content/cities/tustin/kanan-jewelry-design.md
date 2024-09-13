@@ -1,5 +1,5 @@
 ---
 title: "Kanan Jewelry Design"
 url: /tustin/kanan-jewelry-design/
-shop: Schmuck
+shop: jewelry
 ---

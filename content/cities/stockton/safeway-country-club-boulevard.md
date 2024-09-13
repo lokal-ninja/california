@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /stockton/safeway-country-club-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Salvation Army"
 url: /torrance/salvation-army/
-shop: Kleidung
+shop: clothes
 ---

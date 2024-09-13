@@ -1,5 +1,5 @@
 ---
 title: "Lady Nails"
 url: /san-jose/lady-nails/
-shop: Kosmetik
+shop: beauty
 ---
