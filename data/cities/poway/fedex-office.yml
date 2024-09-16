@@ -1,11 +1,11 @@
 id: 544257172
-type: way
+type: node
 latitude: 32.95513
 longitude: -117.04022
 postcode: "92064"
 city: Poway
-street: "Poway Road"
-housenumber: 13413
+street: Poway Road
+housenumber: "13413"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

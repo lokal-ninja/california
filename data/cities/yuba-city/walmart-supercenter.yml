@@ -1,11 +1,11 @@
 id: 688766538
-type: way
+type: node
 latitude: 39.14437
 longitude: -121.653
 postcode: "95993"
 city: Yuba City
-street: "Harter Road"
-housenumber: 1150
-phone: "+1 530-751-0130"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1903/yuba-city-ca/whats-new"
+street: Harter Road
+housenumber: "1150"
+phone: +1 530-751-0130
+opening_hours: 24/7
+website: https://www.walmart.com/store/1903/yuba-city-ca/whats-new

@@ -4,8 +4,8 @@ latitude: 38.87409
 longitude: -121.29483
 postcode: "95648"
 city: Lincoln
-street: "Lincoln Boulevard"
-housenumber: 51
-phone: "+1 916-644-4030"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/ca-lincoln/2499"
+street: Lincoln Boulevard
+housenumber: "51"
+phone: +1 916-644-4030
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.lowes.com/store/ca-lincoln/2499

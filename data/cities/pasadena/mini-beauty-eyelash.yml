@@ -1,11 +1,11 @@
 id: 467066458
-type: way
+type: node
 latitude: 34.14657
 longitude: -118.07696
 postcode: "91107"
 city: Pasadena
-street: "E Colorado Blvd"
-housenumber: 3571
+street: E Colorado Blvd
+housenumber: "3571"
 phone: ""
 opening_hours: ""
 website: ""

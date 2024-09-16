@@ -1,11 +1,11 @@
 id: 59877299
-type: way
+type: node
 latitude: 38.39607
 longitude: -121.96106
 postcode: "95688"
 city: Vacaville
-street: "Eubanks Court"
-housenumber: 600
+street: Eubanks Court
+housenumber: "600"
 phone: ""
 opening_hours: ""
 website: ""

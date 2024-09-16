@@ -1,11 +1,11 @@
 id: 977975324
-type: way
+type: node
 latitude: 37.9654
 longitude: -122.51295
 postcode: "94901"
 city: San Rafael
-street: "Front Street"
-housenumber: 137
+street: Front Street
+housenumber: "137"
 phone: ""
 opening_hours: ""
 website: ""

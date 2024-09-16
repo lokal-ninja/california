@@ -1,11 +1,11 @@
 id: 559136823
-type: way
+type: node
 latitude: 32.77031
 longitude: -115.53461
 postcode: "92243"
 city: El Centro
-street: "South Dogwood Road"
-housenumber: 2901
-phone: "+1 760-482-5980"
+street: South Dogwood Road
+housenumber: "2901"
+phone: +1 760-482-5980
 opening_hours: ""
-website: "https://stores.bestbuy.com/ca/el-centro/2901-s-dogwood-rd-1113.html"
+website: https://stores.bestbuy.com/ca/el-centro/2901-s-dogwood-rd-1113.html

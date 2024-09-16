@@ -1,11 +1,11 @@
 id: 1230914157
-type: way
+type: node
 latitude: 35.37732
 longitude: -118.96915
 postcode: "93305"
 city: Bakersfield
-street: "Niles Street"
-housenumber: 2110
+street: Niles Street
+housenumber: "2110"
 phone: ""
 opening_hours: ""
 website: ""

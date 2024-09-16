@@ -1,11 +1,11 @@
 id: 888738089
-type: way
+type: node
 latitude: 38.956
 longitude: -121.09963
 postcode: "95602"
 city: Auburn
-street: "Dry Creek Road"
-housenumber: 3950
-phone: "+1 530-889-2032"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-19:00"
+street: Dry Creek Road
+housenumber: "3950"
+phone: +1 530-889-2032
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-19:00
 website: ""

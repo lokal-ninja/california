@@ -1,11 +1,11 @@
 id: 724500323
-type: way
+type: node
 latitude: 37.66804
 longitude: -122.46918
 postcode: "94015"
 city: Daly City
-street: "Gellert Boulevard"
-housenumber: 314
+street: Gellert Boulevard
+housenumber: "314"
 phone: ""
 opening_hours: ""
 website: ""

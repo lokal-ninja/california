@@ -1,11 +1,11 @@
 id: 417080690
-type: way
+type: node
 latitude: 37.31554
 longitude: -121.90482
 postcode: "95126"
 city: San Jose
-street: "Lonus Street"
-housenumber: 991
+street: Lonus Street
+housenumber: "991"
 phone: ""
 opening_hours: ""
 website: ""

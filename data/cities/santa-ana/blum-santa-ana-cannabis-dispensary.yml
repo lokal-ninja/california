@@ -1,11 +1,11 @@
 id: 1059974207
-type: way
+type: node
 latitude: 33.71015
 longitude: -117.85079
 postcode: "92705"
 city: Santa Ana
-street: "South Grand Avenue"
-housenumber: 2721
-phone: "714-582-3446"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://letsblum.com/santa-ana-dispensary/"
+street: South Grand Avenue
+housenumber: "2721"
+phone: 714-582-3446
+opening_hours: Mo-Su 08:00-22:00
+website: https://letsblum.com/santa-ana-dispensary/

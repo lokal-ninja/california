@@ -4,8 +4,8 @@ latitude: 37.71327
 longitude: -122.45134
 postcode: "94112"
 city: San Francisco
-street: "Alemany Boulevard"
-housenumber: 2800
-phone: "+1 415 586 0633"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su off"
+street: Alemany Boulevard
+housenumber: "2800"
+phone: +1 415 586 0633
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su off
 website: ""

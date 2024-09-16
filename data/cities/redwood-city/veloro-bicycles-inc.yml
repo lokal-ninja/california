@@ -4,8 +4,8 @@ latitude: 37.48516
 longitude: -122.22638
 postcode: "94063"
 city: Redwood City
-street: "Main Street"
-housenumber: 910
-phone: "(650) 241-1060"
+street: Main Street
+housenumber: "910"
+phone: (650) 241-1060
 opening_hours: ""
-website: "https://www.veloro.com/"
+website: https://www.veloro.com/

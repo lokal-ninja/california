@@ -1,11 +1,11 @@
 id: 431610117
-type: way
+type: node
 latitude: 34.20218
 longitude: -118.43184
 postcode: "91405"
 city: Van Nuys
-street: "Woodman Avenue"
-housenumber: 7221
-phone: "+1 818-785-3162"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.ralphs.com/stores/grocery/ca/van-nuys/sherman-way/703/00047"
+street: Woodman Avenue
+housenumber: "7221"
+phone: +1 818-785-3162
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.ralphs.com/stores/grocery/ca/van-nuys/sherman-way/703/00047

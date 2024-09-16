@@ -1,11 +1,11 @@
 id: 417414546
-type: way
+type: node
 latitude: 41.38288
 longitude: -123.49377
 postcode: "95568"
 city: Somes Bar
-street: "CA-96"
-housenumber: 99531
+street: CA-96
+housenumber: "99531"
 phone: "+15304693350"
 opening_hours: ""
-website: "http://salmon-river-outpost.jany.io"
+website: http://salmon-river-outpost.jany.io

@@ -1,11 +1,11 @@
 id: 311711694
-type: way
+type: node
 latitude: 37.30664
 longitude: -120.50675
 postcode: "95340"
 city: Merced
-street: "Auto Center Drive"
-housenumber: 1900
+street: Auto Center Drive
+housenumber: "1900"
 phone: ""
 opening_hours: ""
 website: ""

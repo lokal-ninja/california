@@ -4,8 +4,8 @@ latitude: 37.76999
 longitude: -122.40276
 postcode: "94103"
 city: San Francisco
-street: "King Street"
-housenumber: 78
+street: King Street
+housenumber: "78"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 09:00-17:00; Sa 10:00-16:00
 website: ""

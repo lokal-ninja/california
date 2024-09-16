@@ -1,11 +1,11 @@
 id: 383771718
-type: way
+type: node
 latitude: 38.41798
 longitude: -122.71147
 postcode: "95407"
 city: Santa Rosa
-street: "Kawana Springs Road"
-housenumber: 2080
-phone: "+1 707-542-1042"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/santa-rosa-ca-433"
+street: Kawana Springs Road
+housenumber: "2080"
+phone: +1 707-542-1042
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/santa-rosa-ca-433

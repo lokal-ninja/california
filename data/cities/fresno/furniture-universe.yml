@@ -1,11 +1,11 @@
 id: 454970359
-type: way
+type: node
 latitude: 36.83718
 longitude: -119.73058
 postcode: "93710"
 city: Fresno
-street: "North Willow Avenue"
-housenumber: 6885
+street: North Willow Avenue
+housenumber: "6885"
 phone: "+15592979062"
-opening_hours: "Mo-Sa 10:00-20:00; Su 10:00-19:30"
-website: "https://www.furnitureuniverse.net/"
+opening_hours: Mo-Sa 10:00-20:00; Su 10:00-19:30
+website: https://www.furnitureuniverse.net/

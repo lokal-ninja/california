@@ -1,11 +1,11 @@
 id: 309620809
-type: way
+type: node
 latitude: 37.38164
 longitude: -121.82866
 postcode: "95127"
 city: San Jose
-street: "McKee Road"
-housenumber: 3475
+street: McKee Road
+housenumber: "3475"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/san-jose-ca-pharmacies/3475-mckee-rd-san-jose-ca-95127/storeid=3061"
+website: https://www.cvs.com/store-locator/san-jose-ca-pharmacies/3475-mckee-rd-san-jose-ca-95127/storeid=3061

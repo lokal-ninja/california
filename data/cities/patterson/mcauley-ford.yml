@@ -1,11 +1,11 @@
 id: 1254206567
-type: way
+type: node
 latitude: 37.47373
 longitude: -121.13041
 postcode: "95363"
 city: Patterson
-street: "North el Circulo Avenue"
-housenumber: 250
-phone: "+1-209-892-3341"
-opening_hours: "Mo 09:00-18:00; Tu-Fr 08:00-18:00; Sa 09:00-17:00; Su 11:00-16:00"
-website: "https://www.mcauleyford.com/"
+street: North el Circulo Avenue
+housenumber: "250"
+phone: +1-209-892-3341
+opening_hours: Mo 09:00-18:00; Tu-Fr 08:00-18:00; Sa 09:00-17:00; Su 11:00-16:00
+website: https://www.mcauleyford.com/

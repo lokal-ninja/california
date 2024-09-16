@@ -1,11 +1,11 @@
 id: 238290507
-type: way
+type: node
 latitude: 40.80241
 longitude: -124.17174
 postcode: ""
 city: Eureka
-street: "4th Street"
-housenumber: 4
-phone: "+1 707-798-6010"
-opening_hours: "Mo-Fr 10:00-17:30; Sa 11:00-17:00"
-website: "https://dicktaylorchocolate.com/"
+street: 4th Street
+housenumber: "4"
+phone: +1 707-798-6010
+opening_hours: Mo-Fr 10:00-17:30; Sa 11:00-17:00
+website: https://dicktaylorchocolate.com/

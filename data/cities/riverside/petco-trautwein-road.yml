@@ -1,11 +1,11 @@
 id: 124563435
-type: way
+type: node
 latitude: 33.89075
 longitude: -117.32335
-postcode: "92508-9451"
+postcode: 92508-9451
 city: Riverside
-street: "Trautwein Road"
-housenumber: 8974
-phone: "+1 951-697-4024"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ca/riverside/pet-supplies-riverside-ca-1125.html"
+street: Trautwein Road
+housenumber: "8974"
+phone: +1 951-697-4024
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/ca/riverside/pet-supplies-riverside-ca-1125.html

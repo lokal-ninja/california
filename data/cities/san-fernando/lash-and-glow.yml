@@ -1,11 +1,11 @@
 id: 1210227288
-type: way
+type: node
 latitude: 34.28414
 longitude: -118.43939
 postcode: "91340"
 city: San Fernando
-street: "1st Street"
-housenumber: 1015
+street: 1st Street
+housenumber: "1015"
 phone: ""
 opening_hours: ""
 website: ""

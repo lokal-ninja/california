@@ -1,11 +1,11 @@
 id: 31819045
-type: way
+type: node
 latitude: 32.94845
 longitude: -117.09629
 postcode: "92128"
 city: San Diego
-street: "Sabre Springs Parkway"
-housenumber: 12610
+street: Sabre Springs Parkway
+housenumber: "12610"
 phone: ""
 opening_hours: ""
 website: ""

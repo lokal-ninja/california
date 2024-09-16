@@ -1,11 +1,11 @@
 id: 208638993
-type: way
+type: node
 latitude: 34.68963
 longitude: -118.16641
 postcode: "93536"
 city: Lancaster
-street: "West Avenue J"
-housenumber: 2053
-phone: "+1 661-952-9240"
+street: West Avenue J
+housenumber: "2053"
+phone: +1 661-952-9240
 opening_hours: ""
-website: "https://www.starbucks.com/store-locator/store/1045017/ave-j-20th-st-west-2053-w-avenue-j-lancaster-ca-93536-us"
+website: https://www.starbucks.com/store-locator/store/1045017/ave-j-20th-st-west-2053-w-avenue-j-lancaster-ca-93536-us

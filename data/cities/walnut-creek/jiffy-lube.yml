@@ -1,11 +1,11 @@
 id: 350806670
-type: way
+type: node
 latitude: 37.91024
 longitude: -122.06228
 postcode: "94596"
 city: Walnut Creek
-street: "North Broadway"
-housenumber: 2190
+street: North Broadway
+housenumber: "2190"
 phone: ""
 opening_hours: ""
 website: ""

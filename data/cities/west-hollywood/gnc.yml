@@ -4,8 +4,8 @@ latitude: 34.08809
 longitude: -118.37938
 postcode: "90069"
 city: West Hollywood
-street: "Santa Monica Boulevard"
-housenumber: 8603
-phone: "+1-310-652-0078"
-opening_hours: "Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 10:00-18:00"
-website: "https://stores.gnc.com/west-hollywood-ca-1580?loc=&displayLoc=West%20Hollywood%2C%20CA"
+street: Santa Monica Boulevard
+housenumber: "8603"
+phone: +1-310-652-0078
+opening_hours: Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 10:00-18:00
+website: https://stores.gnc.com/west-hollywood-ca-1580?loc=&displayLoc=West%20Hollywood%2C%20CA

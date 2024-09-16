@@ -1,11 +1,11 @@
 id: 240337857
-type: way
+type: node
 latitude: 38.59547
 longitude: -121.29393
 postcode: "95670"
 city: Rancho Cordova
-street: "Folsom Boulevard"
-housenumber: 10635
-phone: "+1 916-364-4940"
-opening_hours: "05:00-24:00"
-website: "https://local.safeway.com/safeway/ca/rancho-cordova/10635-folsom-blvd.html"
+street: Folsom Boulevard
+housenumber: "10635"
+phone: +1 916-364-4940
+opening_hours: 05:00-24:00
+website: https://local.safeway.com/safeway/ca/rancho-cordova/10635-folsom-blvd.html

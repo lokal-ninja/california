@@ -1,11 +1,11 @@
 id: 1308875555
-type: way
+type: node
 latitude: 34.39387
 longitude: -118.46534
-postcode: "91387-1428"
+postcode: 91387-1428
 city: Santa Clarita
-street: "Golden Valley Road"
-housenumber: 19105
-phone: "+1 661-977-5154"
-opening_hours: "07:00-23:00"
-website: "https://www.target.com/sl/santa-clarita-east/2030"
+street: Golden Valley Road
+housenumber: "19105"
+phone: +1 661-977-5154
+opening_hours: 07:00-23:00
+website: https://www.target.com/sl/santa-clarita-east/2030

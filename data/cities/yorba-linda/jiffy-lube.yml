@@ -1,11 +1,11 @@
 id: 1041524704
-type: way
+type: node
 latitude: 33.88855
 longitude: -117.84219
 postcode: "92886"
 city: Yorba Linda
-street: "Yorba Linda Boulevard"
-housenumber: 16751
+street: Yorba Linda Boulevard
+housenumber: "16751"
 phone: ""
 opening_hours: ""
 website: ""

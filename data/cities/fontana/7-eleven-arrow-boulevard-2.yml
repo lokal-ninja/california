@@ -1,11 +1,11 @@
 id: 979969961
-type: way
+type: node
 latitude: 34.0991
 longitude: -117.42656
-postcode: "92335-3950"
+postcode: 92335-3950
 city: Fontana
-street: "Arrow Boulevard"
-housenumber: 17305
-phone: "+1 909-823-5435"
+street: Arrow Boulevard
+housenumber: "17305"
+phone: +1 909-823-5435
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/fontana/17305-arrow-blvd-25806"
+website: https://www.7-eleven.com/locations/ca/fontana/17305-arrow-blvd-25806

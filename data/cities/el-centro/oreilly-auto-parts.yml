@@ -1,11 +1,11 @@
 id: 599061611
-type: way
+type: node
 latitude: 32.79698
 longitude: -115.57071
 postcode: "92243"
 city: El Centro
-street: "West Adams Avenue"
-housenumber: 1510
+street: West Adams Avenue
+housenumber: "1510"
 phone: "+17603522400"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.oreillyauto.com/"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.oreillyauto.com/

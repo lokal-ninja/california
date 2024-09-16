@@ -4,8 +4,8 @@ latitude: 33.63437
 longitude: -117.91654
 postcode: "92627"
 city: Costa Mesa
-street: "East 17th Street"
-housenumber: 250
-phone: "949-646-7899"
-opening_hours: "Mo-Tu 10:00-19:00,We-Sa 10:00-18:30, Su 10:00-16:00"
-website: "http://everybloominthingoc.com"
+street: East 17th Street
+housenumber: "250"
+phone: 949-646-7899
+opening_hours: Mo-Tu 10:00-19:00,We-Sa 10:00-18:30, Su 10:00-16:00
+website: http://everybloominthingoc.com

@@ -1,11 +1,11 @@
 id: 128838480
-type: way
+type: node
 latitude: 33.9191
 longitude: -117.96981
 postcode: "90631"
 city: La Habra
-street: "West Imperial Highway"
-housenumber: 2101
-phone: "+1 562-266-1428"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://locations.traderjoes.com/ca/la-habra/5/"
+street: West Imperial Highway
+housenumber: "2101"
+phone: +1 562-266-1428
+opening_hours: Mo-Su 08:00-21:00
+website: https://locations.traderjoes.com/ca/la-habra/5/

@@ -5,7 +5,7 @@ longitude: -122.47124
 postcode: "94015"
 city: Daly City
 street: ""
-housenumber: 3
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-19:00"
-website: "https://www.uniqlo.com/us/en/stores-details/?StoreID=10200049&source=stores"
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-19:00
+website: https://www.uniqlo.com/us/en/stores-details/?StoreID=10200049&source=stores

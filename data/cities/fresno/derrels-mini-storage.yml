@@ -1,11 +1,11 @@
 id: 61329708
-type: way
+type: node
 latitude: 36.8369
 longitude: -119.87256
 postcode: "93722"
 city: Fresno
-street: "West Herndon Avenue"
-housenumber: 4441
+street: West Herndon Avenue
+housenumber: "4441"
 phone: "+15594361495"
-opening_hours: "Mo-Su 07:00-19:00"
-website: "https://www.derrels.com/storage-units/california/fresno/derrels-mini-storage-inc-80300/?utm_source=google&utm_medium=GoogleMaps"
+opening_hours: Mo-Su 07:00-19:00
+website: https://www.derrels.com/storage-units/california/fresno/derrels-mini-storage-inc-80300/?utm_source=google&utm_medium=GoogleMaps

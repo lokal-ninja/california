@@ -1,11 +1,11 @@
 id: 317463758
-type: way
+type: node
 latitude: 38.29677
 longitude: -122.28741
-postcode: "94559-2910"
+postcode: 94559-2910
 city: Napa
-street: "Randolph Street"
-housenumber: 819
-phone: "+1 707-224-0204"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-17:00; Su 08:00-17:00"
+street: Randolph Street
+housenumber: "819"
+phone: +1 707-224-0204
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-17:00; Su 08:00-17:00
 website: ""

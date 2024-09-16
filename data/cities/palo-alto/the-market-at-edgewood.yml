@@ -1,11 +1,11 @@
 id: 230568313
-type: way
+type: node
 latitude: 37.44844
 longitude: -122.12577
 postcode: "94303"
 city: Palo Alto
-street: "West Bayshore Road"
-housenumber: 2170
-phone: "+1-650-665-7590"
+street: West Bayshore Road
+housenumber: "2170"
+phone: +1-650-665-7590
 opening_hours: ""
-website: "https://www.marketatedgewood.com/"
+website: https://www.marketatedgewood.com/

@@ -2,10 +2,10 @@ id: 365328568
 type: node
 latitude: 32.75567
 longitude: -117.09241
-postcode: "92115-4508"
+postcode: 92115-4508
 city: San Diego
-street: "El Cajon Boulevard"
-housenumber: 4745
-phone: "+1 619-282-6562"
+street: El Cajon Boulevard
+housenumber: "4745"
+phone: +1 619-282-6562
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/san-diego/4745-el-cajon-blvd-27744"
+website: https://www.7-eleven.com/locations/ca/san-diego/4745-el-cajon-blvd-27744

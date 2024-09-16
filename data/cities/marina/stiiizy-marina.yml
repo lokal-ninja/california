@@ -1,11 +1,11 @@
 id: 1307505422
-type: way
+type: node
 latitude: 36.68848
 longitude: -121.79854
 postcode: "93933"
 city: Marina
-street: "Del Monte Blvd"
-housenumber: 3170
+street: Del Monte Blvd
+housenumber: "3170"
 phone: "+18312011795"
-opening_hours: "Mo-Su 09:00-21:45"
-website: "https://www.stiiizy.com/pages/marina-dispensary"
+opening_hours: Mo-Su 09:00-21:45
+website: https://www.stiiizy.com/pages/marina-dispensary

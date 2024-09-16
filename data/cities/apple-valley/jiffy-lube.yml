@@ -1,11 +1,11 @@
 id: 597129285
-type: way
+type: node
 latitude: 34.53778
 longitude: -117.25572
 postcode: "92307"
 city: Apple Valley
-street: "Happy Trails Highway"
-housenumber: 18737
-phone: "+1-760-946-1333"
-opening_hours: "Mo-Sa 08:00-18:00; Su 08:00-17:00"
+street: Happy Trails Highway
+housenumber: "18737"
+phone: +1-760-946-1333
+opening_hours: Mo-Sa 08:00-18:00; Su 08:00-17:00
 website: ""

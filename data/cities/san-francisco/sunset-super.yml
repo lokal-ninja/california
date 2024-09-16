@@ -1,11 +1,11 @@
 id: 276814493
-type: way
+type: node
 latitude: 37.76294
 longitude: -122.48387
 postcode: "94122"
 city: San Francisco
-street: "Irving Street"
-housenumber: 2425
+street: Irving Street
+housenumber: "2425"
 phone: ""
 opening_hours: ""
 website: ""

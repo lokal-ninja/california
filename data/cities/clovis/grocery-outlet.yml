@@ -1,11 +1,11 @@
 id: 443634069
-type: way
+type: node
 latitude: 36.80958
 longitude: -119.70178
 postcode: "93612"
 city: Clovis
-street: "Clovis Avenue"
-housenumber: 1848
+street: Clovis Avenue
+housenumber: "1848"
 phone: ""
-opening_hours: "08:00-21:00"
+opening_hours: 08:00-21:00
 website: ""

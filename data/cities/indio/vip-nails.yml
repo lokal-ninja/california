@@ -1,11 +1,11 @@
 id: 203540697
-type: way
+type: node
 latitude: 33.68603
 longitude: -116.26727
 postcode: "92201"
 city: Indio
-street: "Jefferson Street"
-housenumber: 49950
+street: Jefferson Street
+housenumber: "49950"
 phone: ""
 opening_hours: ""
 website: ""

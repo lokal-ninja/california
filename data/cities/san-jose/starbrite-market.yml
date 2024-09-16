@@ -1,11 +1,11 @@
 id: 835370835
-type: way
+type: node
 latitude: 37.31729
 longitude: -121.89328
 postcode: "95125"
 city: San Jose
-street: "Delmas Avenue"
-housenumber: 893
+street: Delmas Avenue
+housenumber: "893"
 phone: ""
 opening_hours: ""
 website: ""

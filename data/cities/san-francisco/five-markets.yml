@@ -4,8 +4,8 @@ latitude: 37.75294
 longitude: -122.40872
 postcode: "94110"
 city: San Francisco
-street: "24th Street"
-housenumber: 2824
-phone: "+1 415-282-6838"
-opening_hours: "09:00-20:00"
+street: 24th Street
+housenumber: "2824"
+phone: +1 415-282-6838
+opening_hours: 09:00-20:00
 website: ""

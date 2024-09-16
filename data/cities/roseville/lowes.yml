@@ -1,11 +1,11 @@
 id: 45373097
-type: way
+type: node
 latitude: 38.78674
 longitude: -121.28107
 postcode: "95678"
 city: Roseville
-street: "Fairway Drive"
-housenumber: 10201
-phone: "+1 916-771-7111"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/ca-roseville/1207"
+street: Fairway Drive
+housenumber: "10201"
+phone: +1 916-771-7111
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/ca-roseville/1207

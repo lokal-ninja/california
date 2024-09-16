@@ -4,8 +4,8 @@ latitude: 37.85061
 longitude: -122.25203
 postcode: "94618"
 city: Oakland
-street: "College Avenue"
-housenumber: 6310
-phone: "+1 510-985-0012"
-opening_hours: "Mo-Su 05:00-00:00"
-website: "https://local.safeway.com/safeway/ca/oakland/6310-college-ave.html"
+street: College Avenue
+housenumber: "6310"
+phone: +1 510-985-0012
+opening_hours: Mo-Su 05:00-00:00
+website: https://local.safeway.com/safeway/ca/oakland/6310-college-ave.html

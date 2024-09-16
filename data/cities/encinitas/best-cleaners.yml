@@ -1,11 +1,11 @@
 id: 1283782908
-type: way
+type: node
 latitude: 33.03487
 longitude: -117.28194
 postcode: "92024"
 city: Encinitas
-street: "Santa Fe Drive"
-housenumber: 457
-phone: "+1-760-753-6387"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 08:00-15:00; Su off"
+street: Santa Fe Drive
+housenumber: "457"
+phone: +1-760-753-6387
+opening_hours: Mo-Fr 06:00-18:00; Sa 08:00-15:00; Su off
 website: ""

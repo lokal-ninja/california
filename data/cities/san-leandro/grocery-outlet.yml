@@ -1,11 +1,11 @@
 id: 163340693
-type: way
+type: node
 latitude: 37.71819
 longitude: -122.14805
 postcode: "94577"
 city: San Leandro
-street: "East 14th Street"
-housenumber: 2179
-phone: "(510) 895-3605"
-opening_hours: "Mo-Su 07:00-22:00"
+street: East 14th Street
+housenumber: "2179"
+phone: (510) 895-3605
+opening_hours: Mo-Su 07:00-22:00
 website: ""

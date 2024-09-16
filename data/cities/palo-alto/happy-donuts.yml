@@ -1,11 +1,11 @@
 id: 232375781
-type: way
+type: node
 latitude: 37.41637
 longitude: -122.13001
 postcode: ""
 city: Palo Alto
-street: "El Camino Real"
-housenumber: 3916
+street: El Camino Real
+housenumber: "3916"
 phone: ""
 opening_hours: ""
-website: "https://happydonutspaloalto.tripod.com/"
+website: https://happydonutspaloalto.tripod.com/

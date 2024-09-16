@@ -1,11 +1,11 @@
 id: 370737838
-type: way
+type: node
 latitude: 32.77321
 longitude: -117.01965
 postcode: "91942"
 city: La Mesa
-street: "Commercial Street"
-housenumber: 8250
+street: Commercial Street
+housenumber: "8250"
 phone: "+16193039779"
 opening_hours: ""
-website: "https://www.awspoolsupply.com/"
+website: https://www.awspoolsupply.com/

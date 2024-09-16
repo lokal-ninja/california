@@ -4,8 +4,8 @@ latitude: 33.91022
 longitude: -117.86843
 postcode: "92821"
 city: Brea
-street: "East Imperial Highway"
-housenumber: 2500
-phone: "+1 714-255-8162"
-opening_hours: "Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ca/brea"
+street: East Imperial Highway
+housenumber: "2500"
+phone: +1 714-255-8162
+opening_hours: Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/ca/brea

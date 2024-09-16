@@ -1,11 +1,11 @@
 id: 931877511
-type: way
+type: node
 latitude: 37.63449
 longitude: -121.00279
 postcode: "95351"
 city: Modesto
-street: "H Street"
-housenumber: 420
+street: H Street
+housenumber: "420"
 phone: ""
 opening_hours: ""
 website: ""

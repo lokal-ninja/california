@@ -4,8 +4,8 @@ latitude: 32.5435
 longitude: -117.04745
 postcode: "92173"
 city: San Diego
-street: "Camino De La Plaza"
-housenumber: 3951
-phone: "+1-619-428-3681"
-opening_hours: "Mo-Su 10:00-20:00"
-website: "https://www.big5sportinggoods.com/store/integration/direct_store.jsp?locationId=5000002"
+street: Camino De La Plaza
+housenumber: "3951"
+phone: +1-619-428-3681
+opening_hours: Mo-Su 10:00-20:00
+website: https://www.big5sportinggoods.com/store/integration/direct_store.jsp?locationId=5000002

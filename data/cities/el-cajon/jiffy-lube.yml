@@ -1,11 +1,11 @@
 id: 252040644
-type: way
+type: node
 latitude: 32.80104
 longitude: -116.93542
 postcode: "92021"
 city: El Cajon
-street: "North 2nd Street"
-housenumber: 539
+street: North 2nd Street
+housenumber: "539"
 phone: "+16194410110"
 opening_hours: ""
-website: "https://www.jiffylube.com/locations/ca/el-cajon/495"
+website: https://www.jiffylube.com/locations/ca/el-cajon/495

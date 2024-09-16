@@ -1,11 +1,11 @@
 id: 501060418
-type: way
+type: node
 latitude: 33.15565
 longitude: -117.3511
 postcode: "92008"
 city: Carlsbad
-street: "Carlsbad Boulevard"
-housenumber: 3179
+street: Carlsbad Boulevard
+housenumber: "3179"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 80219772
-type: way
+type: node
 latitude: 33.04886
 longitude: -117.26106
 postcode: "92024"
 city: Encinitas
-street: "North El Camino Real"
-housenumber: 208
-phone: "760-840-3223"
+street: North El Camino Real
+housenumber: "208"
+phone: 760-840-3223
 opening_hours: ""
-website: "facelogicspa.com/pages/spas/encinitas-california/about"
+website: facelogicspa.com/pages/spas/encinitas-california/about

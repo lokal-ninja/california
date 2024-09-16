@@ -1,11 +1,11 @@
 id: 574636978
-type: way
+type: node
 latitude: 38.73263
 longitude: -120.77832
 postcode: "95667"
 city: Placerville
-street: "Broadway"
-housenumber: 1415
+street: Broadway
+housenumber: "1415"
 phone: ""
 opening_hours: ""
 website: ""

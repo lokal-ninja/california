@@ -1,11 +1,11 @@
 id: 167873499
-type: way
+type: node
 latitude: 38.50996
 longitude: -121.46397
 postcode: "95824"
 city: Sacramento
-street: "47th Avenue"
-housenumber: 3800
+street: 47th Avenue
+housenumber: "3800"
 phone: ""
 opening_hours: ""
 website: ""

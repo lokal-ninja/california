@@ -1,11 +1,11 @@
 id: 586387348
-type: way
+type: node
 latitude: 34.15102
 longitude: -117.47519
 postcode: "92336"
 city: Fontana
-street: "Summit Avenue"
-housenumber: 15222
-phone: "+1 909-463-2490"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.staterbros.com/stores/175"
+street: Summit Avenue
+housenumber: "15222"
+phone: +1 909-463-2490
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.staterbros.com/stores/175

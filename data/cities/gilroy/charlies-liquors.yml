@@ -1,11 +1,11 @@
 id: 282194431
-type: way
+type: node
 latitude: 36.99951
 longitude: -121.56736
 postcode: "95020"
 city: Gilroy
-street: "West 10th Street"
-housenumber: 166
+street: West 10th Street
+housenumber: "166"
 phone: ""
 opening_hours: ""
 website: ""

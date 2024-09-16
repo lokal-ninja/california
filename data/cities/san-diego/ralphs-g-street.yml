@@ -1,11 +1,11 @@
 id: 31809128
-type: way
+type: node
 latitude: 32.71243
 longitude: -117.16301
 postcode: "92101"
 city: San Diego
-street: "G Street"
-housenumber: 101
-phone: "+1 619-595-1581"
-opening_hours: "Mo-Su 05:00-01:00"
-website: "https://www.ralphs.com/stores/grocery/ca/san-diego/downtown-san-diego/703/00123"
+street: G Street
+housenumber: "101"
+phone: +1 619-595-1581
+opening_hours: Mo-Su 05:00-01:00
+website: https://www.ralphs.com/stores/grocery/ca/san-diego/downtown-san-diego/703/00123

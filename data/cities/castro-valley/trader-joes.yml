@@ -1,11 +1,11 @@
 id: 189789120
-type: way
+type: node
 latitude: 37.68515
 longitude: -122.07282
 postcode: "94546"
 city: Castro Valley
-street: "Redwood Road"
-housenumber: 22224
-phone: "+1 510-538-2738"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://locations.traderjoes.com/ca/castro-valley/84/"
+street: Redwood Road
+housenumber: "22224"
+phone: +1 510-538-2738
+opening_hours: Mo-Su 08:00-21:00
+website: https://locations.traderjoes.com/ca/castro-valley/84/

@@ -4,8 +4,8 @@ latitude: 34.21363
 longitude: -119.05837
 postcode: "93010"
 city: Camarillo
-street: "Camarillo Center Drive"
-housenumber: 950
-phone: "+1-805-445-2942"
-opening_hours: "Mo-Sa 10:00-20:00; Su 10:00-19:00"
-website: "https://www.clarksusa.com"
+street: Camarillo Center Drive
+housenumber: "950"
+phone: +1-805-445-2942
+opening_hours: Mo-Sa 10:00-20:00; Su 10:00-19:00
+website: https://www.clarksusa.com

@@ -1,11 +1,11 @@
 id: 238290511
-type: way
+type: node
 latitude: 40.80215
 longitude: -124.17146
 postcode: "95501"
 city: Eureka
-street: "4th Street"
-housenumber: 25
+street: 4th Street
+housenumber: "25"
 phone: ""
-opening_hours: "6:00-21:00"
-website: "https://www.northcoast.coop/"
+opening_hours: 6:00-21:00
+website: https://www.northcoast.coop/

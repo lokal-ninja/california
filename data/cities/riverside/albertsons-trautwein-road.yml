@@ -1,11 +1,11 @@
 id: 124563432
-type: way
+type: node
 latitude: 33.89066
 longitude: -117.32305
 postcode: "92508"
 city: Riverside
-street: "Trautwein Road"
-housenumber: 8938
-phone: "+1 951-656-6603"
+street: Trautwein Road
+housenumber: "8938"
+phone: +1 951-656-6603
 opening_hours: ""
-website: "https://local.albertsons.com/ca/riverside/8938-trautwein-rd.html"
+website: https://local.albertsons.com/ca/riverside/8938-trautwein-rd.html

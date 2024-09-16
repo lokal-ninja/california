@@ -4,8 +4,8 @@ latitude: 37.33565
 longitude: -121.89117
 postcode: "95113"
 city: San Jose
-street: "West Santa Clara Street"
-housenumber: 54
+street: West Santa Clara Street
+housenumber: "54"
 phone: ""
 opening_hours: ""
-website: "http://www.lipstickandbulletssalon.com/"
+website: http://www.lipstickandbulletssalon.com/

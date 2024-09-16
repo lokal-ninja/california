@@ -1,11 +1,11 @@
 id: 629185691
-type: way
+type: node
 latitude: 37.89866
 longitude: -122.53766
 postcode: "94941"
 city: Mill Valley
-street: "Miller Avenue"
-housenumber: 349
-phone: "+1 415-383-3355"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ca/mill-valley/349-miller-ave-14157"
+street: Miller Avenue
+housenumber: "349"
+phone: +1 415-383-3355
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ca/mill-valley/349-miller-ave-14157

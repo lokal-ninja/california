@@ -1,11 +1,11 @@
 id: 217598828
-type: way
+type: node
 latitude: 33.87377
 longitude: -117.7454
 postcode: "92887"
 city: Yorba Linda
-street: "Old Canal Road"
-housenumber: 22401
-phone: "+1 714-464-1824"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/ca/yorba-linda/savi-ranch/"
+street: Old Canal Road
+housenumber: "22401"
+phone: +1 714-464-1824
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/ca/yorba-linda/savi-ranch/

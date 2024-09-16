@@ -4,8 +4,8 @@ latitude: 37.80548
 longitude: -122.41379
 postcode: "94133"
 city: San Francisco
-street: "Bay Street"
-housenumber: 401
-phone: "+1 415-351-1013"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://locations.traderjoes.com/ca/san-francisco/19/"
+street: Bay Street
+housenumber: "401"
+phone: +1 415-351-1013
+opening_hours: Mo-Su 08:00-21:00
+website: https://locations.traderjoes.com/ca/san-francisco/19/

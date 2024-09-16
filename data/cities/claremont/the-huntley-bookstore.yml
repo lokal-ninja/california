@@ -1,11 +1,11 @@
 id: 380187170
-type: way
+type: node
 latitude: 34.10201
 longitude: -117.71344
 postcode: "91711"
 city: Claremont
-street: "East 8th Street"
-housenumber: 175
+street: East 8th Street
+housenumber: "175"
 phone: ""
 opening_hours: ""
 website: ""

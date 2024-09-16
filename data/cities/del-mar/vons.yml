@@ -1,11 +1,11 @@
 id: 130005803
-type: way
+type: node
 latitude: 32.95147
 longitude: -117.24682
 postcode: "92014"
 city: Del Mar
-street: "Del Mar Heights Road"
-housenumber: 2606
-phone: "+1 858-755-5304"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.vons.com/ca/del-mar/2606-del-mar-heights-rd.html"
+street: Del Mar Heights Road
+housenumber: "2606"
+phone: +1 858-755-5304
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.vons.com/ca/del-mar/2606-del-mar-heights-rd.html

@@ -1,11 +1,11 @@
 id: 978576361
-type: way
+type: node
 latitude: 38.9368
 longitude: -121.09331
 postcode: "95603"
 city: Auburn
-street: "Grass Valley Highway"
-housenumber: 2460
-phone: "+1-530-885-5849"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-19:00"
-website: "https://www.goodwillsacto.org/"
+street: Grass Valley Highway
+housenumber: "2460"
+phone: +1-530-885-5849
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-19:00
+website: https://www.goodwillsacto.org/

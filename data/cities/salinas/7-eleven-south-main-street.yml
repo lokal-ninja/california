@@ -1,11 +1,11 @@
 id: 725677832
-type: way
+type: node
 latitude: 36.66883
 longitude: -121.65522
-postcode: "93901-3201"
+postcode: 93901-3201
 city: Salinas
-street: "South Main Street"
-housenumber: 619
-phone: "+1 831-754-6325"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ca/salinas/619-south-main-st-24544"
+street: South Main Street
+housenumber: "619"
+phone: +1 831-754-6325
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ca/salinas/619-south-main-st-24544

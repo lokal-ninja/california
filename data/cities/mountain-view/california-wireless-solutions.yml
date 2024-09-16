@@ -1,11 +1,11 @@
 id: 609011458
-type: way
+type: node
 latitude: 37.41936
 longitude: -122.09565
 postcode: "94043"
 city: Mountain View
-street: "North Rengstorff Avenue"
-housenumber: 1040
-phone: "+1-650-386-1032"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://dealer.sprint.com/california-wireless-solutions/find-a-store/103941-mountain-view-ca-94043"
+street: North Rengstorff Avenue
+housenumber: "1040"
+phone: +1-650-386-1032
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
+website: https://dealer.sprint.com/california-wireless-solutions/find-a-store/103941-mountain-view-ca-94043

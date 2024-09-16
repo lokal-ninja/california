@@ -1,11 +1,11 @@
 id: 555320880
-type: way
+type: node
 latitude: 34.06037
 longitude: -117.18893
 postcode: "92374"
 city: Redlands
-street: "West Stuart Avenue"
-housenumber: 500
-phone: "+1 909-283-7220"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ca/redlands-store3101.html"
+street: West Stuart Avenue
+housenumber: "500"
+phone: +1 909-283-7220
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ca/redlands-store3101.html

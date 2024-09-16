@@ -1,11 +1,11 @@
 id: 753154990
-type: way
+type: node
 latitude: 39.15059
 longitude: -123.20833
 postcode: "95482"
 city: Ukiah
-street: "West Standley Street"
-housenumber: 116
-phone: "+1 (707) 468-1113"
+street: West Standley Street
+housenumber: "116"
+phone: +1 (707) 468-1113
 opening_hours: ""
 website: ""

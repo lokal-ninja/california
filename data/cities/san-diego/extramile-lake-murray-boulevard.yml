@@ -1,11 +1,11 @@
 id: 31843185
-type: way
+type: node
 latitude: 32.80252
 longitude: -117.01129
 postcode: "92119"
 city: San Diego
-street: "Lake Murray Boulevard"
-housenumber: 8780
+street: Lake Murray Boulevard
+housenumber: "8780"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1050446702
-type: way
+type: node
 latitude: 32.75446
 longitude: -117.046
 postcode: "91941"
 city: La Mesa
-street: "University Avenue"
-housenumber: 7043
+street: University Avenue
+housenumber: "7043"
 phone: "+16192022099"
 opening_hours: ""
-website: "https://legacyfuneralcare.com/"
+website: https://legacyfuneralcare.com/

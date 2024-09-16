@@ -1,11 +1,11 @@
 id: 122210907
-type: way
+type: node
 latitude: 37.38093
 longitude: -121.94642
 postcode: "95054"
 city: Santa Clara
-street: "Laurelwood Road"
-housenumber: 605
+street: Laurelwood Road
+housenumber: "605"
 phone: ""
 opening_hours: ""
 website: ""

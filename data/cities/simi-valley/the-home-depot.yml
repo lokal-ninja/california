@@ -1,11 +1,11 @@
 id: 428808577
-type: way
+type: node
 latitude: 34.28078
 longitude: -118.787
 postcode: "93065"
 city: Simi Valley
-street: "Cochran Street"
-housenumber: 575
-phone: "+1 805-577-1825"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Simi-Valley/CA/Simi-Valley/93065/6640"
+street: Cochran Street
+housenumber: "575"
+phone: +1 805-577-1825
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Simi-Valley/CA/Simi-Valley/93065/6640

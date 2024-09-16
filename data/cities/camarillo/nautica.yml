@@ -4,8 +4,8 @@ latitude: 34.21618
 longitude: -119.05939
 postcode: "93010"
 city: Camarillo
-street: "Ventura Boulevard"
-housenumber: 740
-phone: "+1-805-482-9516"
-opening_hours: "Mo-Th 10:00-20:00; Fr-Sa 10:00-21:00; Su 11:00-20:00"
-website: "https://www.nautica.com/stores"
+street: Ventura Boulevard
+housenumber: "740"
+phone: +1-805-482-9516
+opening_hours: Mo-Th 10:00-20:00; Fr-Sa 10:00-21:00; Su 11:00-20:00
+website: https://www.nautica.com/stores

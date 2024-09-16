@@ -1,11 +1,11 @@
 id: 1292559158
-type: way
+type: node
 latitude: 36.75876
 longitude: -119.79954
 postcode: "93728"
 city: Fresno
-street: "North Van Ness Avenue"
-housenumber: 1233
+street: North Van Ness Avenue
+housenumber: "1233"
 phone: "+15592661060"
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

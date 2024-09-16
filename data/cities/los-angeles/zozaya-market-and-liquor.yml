@@ -1,11 +1,11 @@
 id: 607976850
-type: way
+type: node
 latitude: 34.0365
 longitude: -118.18692
 postcode: "90063"
 city: Los Angeles
-street: "North Rowan Avenue"
-housenumber: 116
+street: North Rowan Avenue
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 766335550
-type: way
+type: node
 latitude: 34.26957
 longitude: -119.24844
 postcode: "93003"
 city: Ventura
-street: "South Mills Road"
-housenumber: 245
-phone: "+1 805-535-2752"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/ventura-mall/2398"
+street: South Mills Road
+housenumber: "245"
+phone: +1 805-535-2752
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/ventura-mall/2398

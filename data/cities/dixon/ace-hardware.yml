@@ -1,11 +1,11 @@
 id: 161814508
-type: way
+type: node
 latitude: 38.46101
 longitude: -121.82326
-postcode: "95620-9798"
+postcode: 95620-9798
 city: Dixon
-street: "North 1st Street"
-housenumber: 1505
-phone: "+1 707-678-5521"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-18:00; Su 08:00-17:00"
+street: North 1st Street
+housenumber: "1505"
+phone: +1 707-678-5521
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-18:00; Su 08:00-17:00
 website: ""

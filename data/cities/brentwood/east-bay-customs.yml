@@ -1,11 +1,11 @@
 id: 660595852
-type: way
+type: node
 latitude: 37.91232
 longitude: -121.68448
 postcode: "94513"
 city: Brentwood
-street: "Payne Avenue"
-housenumber: 1725
+street: Payne Avenue
+housenumber: "1725"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

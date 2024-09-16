@@ -1,11 +1,11 @@
 id: 311711621
-type: way
+type: node
 latitude: 37.40836
 longitude: -120.85031
 postcode: "95324"
 city: Hilmar
-street: "West Second Street"
-housenumber: 20035
+street: West Second Street
+housenumber: "20035"
 phone: ""
 opening_hours: ""
 website: ""

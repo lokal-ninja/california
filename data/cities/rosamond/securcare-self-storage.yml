@@ -1,11 +1,11 @@
 id: 659980916
-type: way
+type: node
 latitude: 34.86096
 longitude: -118.16088
 postcode: "93560"
 city: Rosamond
-street: "Rosamond Boulevard"
-housenumber: 1616
+street: Rosamond Boulevard
+housenumber: "1616"
 phone: ""
 opening_hours: ""
 website: ""

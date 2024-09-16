@@ -1,11 +1,11 @@
 id: 137932370
-type: way
+type: node
 latitude: 33.58764
 longitude: -117.721
 postcode: "92656"
 city: Aliso Viejo
-street: "Aliso Viejo Parkway"
-housenumber: 23431
+street: Aliso Viejo Parkway
+housenumber: "23431"
 phone: ""
 opening_hours: ""
 website: ""

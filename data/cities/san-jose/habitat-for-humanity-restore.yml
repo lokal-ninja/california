@@ -1,11 +1,11 @@
 id: 330305858
-type: way
+type: node
 latitude: 37.32175
 longitude: -121.87767
 postcode: "95112"
 city: San Jose
-street: "South 2nd Street"
-housenumber: 1008
+street: South 2nd Street
+housenumber: "1008"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 28073917
-type: way
+type: node
 latitude: 37.13165
 longitude: -121.65532
 postcode: "95037"
 city: Morgan Hill
-street: "Monterey Road"
-housenumber: 17650
+street: Monterey Road
+housenumber: "17650"
 phone: ""
 opening_hours: ""
 website: ""

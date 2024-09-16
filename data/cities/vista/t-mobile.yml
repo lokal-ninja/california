@@ -1,11 +1,11 @@
 id: 95896972
-type: way
+type: node
 latitude: 33.17033
 longitude: -117.2161
 postcode: "92083"
 city: Vista
-street: "University Drive"
-housenumber: 1811
+street: University Drive
+housenumber: "1811"
 phone: ""
 opening_hours: ""
 website: ""

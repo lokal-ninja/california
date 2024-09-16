@@ -1,11 +1,11 @@
 id: 1309163941
-type: way
+type: node
 latitude: 36.21331
 longitude: -121.1253
 postcode: "93930"
 city: King City
-street: "Broadway Street"
-housenumber: 209
-phone: "(831) 386-0911"
-opening_hours: "6:00-20:00"
+street: Broadway Street
+housenumber: "209"
+phone: (831) 386-0911
+opening_hours: 6:00-20:00
 website: ""

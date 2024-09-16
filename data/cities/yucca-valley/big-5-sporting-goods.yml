@@ -1,11 +1,11 @@
 id: 221156698
-type: way
+type: node
 latitude: 34.12776
 longitude: -116.39619
 postcode: "92284"
 city: Yucca Valley
-street: "29 Palms Highway"
-housenumber: 58111
+street: 29 Palms Highway
+housenumber: "58111"
 phone: "+17602281680"
-opening_hours: "Mo-Th 10:00-20:30; Fr 09:30-21:00; Sa 09:00-20:00; Su 10:00-19:30"
+opening_hours: Mo-Th 10:00-20:30; Fr 09:30-21:00; Sa 09:00-20:00; Su 10:00-19:30
 website: ""

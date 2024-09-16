@@ -1,11 +1,11 @@
 id: 1178512212
-type: way
+type: node
 latitude: 32.83867
 longitude: -116.93309
 postcode: "92040"
 city: Lakeside
-street: "Winter Gardens Boulevard"
-housenumber: 8909
+street: Winter Gardens Boulevard
+housenumber: "8909"
 phone: "+16193905465"
 opening_hours: ""
 website: ""

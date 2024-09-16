@@ -1,11 +1,11 @@
 id: 35394218
-type: way
+type: node
 latitude: 37.56426
 longitude: -122.28162
 postcode: "94404"
 city: San Mateo
-street: "Chess Drive"
-housenumber: 2001
-phone: "+1 650-525-9343"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/san-mateo/ca/san-mateo/94404/632"
+street: Chess Drive
+housenumber: "2001"
+phone: +1 650-525-9343
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/san-mateo/ca/san-mateo/94404/632

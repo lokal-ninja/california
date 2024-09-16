@@ -4,8 +4,8 @@ latitude: 37.56456
 longitude: -122.32119
 postcode: "94401"
 city: San Mateo
-street: "South B Street"
-housenumber: 411
+street: South B Street
+housenumber: "411"
 phone: ""
 opening_hours: ""
-website: "https://www.scribblemehappy.com/"
+website: https://www.scribblemehappy.com/

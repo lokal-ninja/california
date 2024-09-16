@@ -1,11 +1,11 @@
 id: 159783465
-type: way
+type: node
 latitude: 35.25526
 longitude: -120.64555
 postcode: "93401"
 city: San Luis Obispo
-street: "Broad Street"
-housenumber: 3550
+street: Broad Street
+housenumber: "3550"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 604327542
-type: way
+type: node
 latitude: 38.63116
 longitude: -121.39787
 postcode: "95821"
 city: Sacramento
-street: "Auburn Boulevard"
-housenumber: 2740
-phone: "+1 (916) 484-7575"
+street: Auburn Boulevard
+housenumber: "2740"
+phone: +1 (916) 484-7575
 opening_hours: ""
 website: ""

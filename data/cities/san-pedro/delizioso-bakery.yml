@@ -1,11 +1,11 @@
 id: 407398181
-type: way
+type: node
 latitude: 33.742
 longitude: -118.28738
 postcode: "90731"
 city: San pedro
-street: "West 2nd Street"
-housenumber: 481
+street: West 2nd Street
+housenumber: "481"
 phone: ""
 opening_hours: ""
 website: ""

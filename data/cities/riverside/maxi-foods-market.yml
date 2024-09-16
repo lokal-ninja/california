@@ -1,11 +1,11 @@
 id: 238511025
-type: way
+type: node
 latitude: 33.93531
 longitude: -117.43502
 postcode: "92504"
 city: Riverside
-street: "California Avenue"
-housenumber: 8616
-phone: "+1-951-688-0538"
-opening_hours: "07:00-22:00"
-website: "https://maxifoodsmarkets.com/"
+street: California Avenue
+housenumber: "8616"
+phone: +1-951-688-0538
+opening_hours: 07:00-22:00
+website: https://maxifoodsmarkets.com/

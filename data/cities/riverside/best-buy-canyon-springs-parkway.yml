@@ -1,11 +1,11 @@
 id: 1134124982
-type: way
+type: node
 latitude: 33.9413
 longitude: -117.27935
 postcode: "92507"
 city: Riverside
-street: "Canyon Springs Parkway"
-housenumber: 2852
-phone: "+1 951-653-9386"
+street: Canyon Springs Parkway
+housenumber: "2852"
+phone: +1 951-653-9386
 opening_hours: ""
-website: "https://stores.bestbuy.com/ca/riverside/2852-canyon-springs-pkwy-392.html"
+website: https://stores.bestbuy.com/ca/riverside/2852-canyon-springs-pkwy-392.html

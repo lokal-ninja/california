@@ -1,11 +1,11 @@
 id: 995061692
-type: way
+type: node
 latitude: 32.79895
 longitude: -116.9365
 postcode: "92021"
 city: El Cajon
-street: "North 2nd Street"
-housenumber: 354
+street: North 2nd Street
+housenumber: "354"
 phone: ""
 opening_hours: ""
-website: "https://www.t-mobile.com/store-locator/ca/el-cajon/2nd-madison"
+website: https://www.t-mobile.com/store-locator/ca/el-cajon/2nd-madison

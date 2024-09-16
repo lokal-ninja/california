@@ -1,11 +1,11 @@
 id: 1211542009
-type: way
+type: node
 latitude: 34.2827
 longitude: -118.44183
 postcode: "91340"
 city: San Fernando
-street: "San Fernando Road"
-housenumber: 1044
+street: San Fernando Road
+housenumber: "1044"
 phone: ""
 opening_hours: ""
-website: "https://www.totalbyverizon.com/stores/ca/san-fernando/1044-san-fernando-rd"
+website: https://www.totalbyverizon.com/stores/ca/san-fernando/1044-san-fernando-rd

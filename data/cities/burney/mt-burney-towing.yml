@@ -1,11 +1,11 @@
 id: 223947433
-type: way
+type: node
 latitude: 40.88226
 longitude: -121.66836
 postcode: "96013"
 city: Burney
-street: "Main Street"
-housenumber: 37056
-phone: "+1-530-335-3333"
+street: Main Street
+housenumber: "37056"
+phone: +1-530-335-3333
 opening_hours: ""
 website: ""

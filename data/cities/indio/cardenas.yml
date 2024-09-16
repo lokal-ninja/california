@@ -1,11 +1,11 @@
 id: 468954791
-type: way
+type: node
 latitude: 33.71694
 longitude: -116.23057
 postcode: "92201"
 city: Indio
-street: "Highway 111"
-housenumber: 82266
-phone: "+1-760-342-0214"
+street: Highway 111
+housenumber: "82266"
+phone: +1-760-342-0214
 opening_hours: ""
-website: "https://www.cardenasmarkets.com"
+website: https://www.cardenasmarkets.com

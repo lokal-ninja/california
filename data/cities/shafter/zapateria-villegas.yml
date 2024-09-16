@@ -1,11 +1,11 @@
 id: 1155662494
-type: way
+type: node
 latitude: 35.50055
 longitude: -119.27794
 postcode: "93263"
 city: Shafter
-street: "Central Avenue"
-housenumber: 147
-phone: "(661) 746-6940"
+street: Central Avenue
+housenumber: "147"
+phone: (661) 746-6940
 opening_hours: ""
 website: ""

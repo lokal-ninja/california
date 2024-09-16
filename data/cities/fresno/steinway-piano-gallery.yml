@@ -4,8 +4,9 @@ latitude: 36.83831
 longitude: -119.80781
 postcode: "93650"
 city: Fresno
-street: "North Palm Avenue"
-housenumber: 7090
+street: North Palm Avenue
+housenumber: "7090"
 phone: "+15592224900"
-opening_hours: "Mo 10:00-24:00; Tu 0:00-7:00, 10:00-19:00; We-Th 10:00-19:00; Fr-Sa 10:00-17:00"
-website: "https://www.steinwaypianofresno.com/"
+opening_hours: Mo 10:00-24:00; Tu 0:00-7:00, 10:00-19:00; We-Th 10:00-19:00; Fr-Sa
+    10:00-17:00
+website: https://www.steinwaypianofresno.com/

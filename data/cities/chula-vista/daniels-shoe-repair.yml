@@ -4,8 +4,8 @@ latitude: 32.64039
 longitude: -117.0791
 postcode: "91910"
 city: Chula Vista
-street: "Center Street"
-housenumber: 292
+street: Center Street
+housenumber: "292"
 phone: "+16194277463"
-opening_hours: "Mo-Fr 09:00-18:00;Sa 09:00-15:00"
-website: "http://www.danielsshoerepair.com/"
+opening_hours: Mo-Fr 09:00-18:00;Sa 09:00-15:00
+website: http://www.danielsshoerepair.com/

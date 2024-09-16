@@ -1,11 +1,11 @@
 id: 429811509
-type: way
+type: node
 latitude: 34.21274
 longitude: -118.46017
-postcode: "91405-1146"
+postcode: 91405-1146
 city: Van Nuys
-street: "Raymer Street"
-housenumber: 14920
-phone: "+1 818-922-1001"
-opening_hours: "07:00-22:00"
-website: "https://www.target.com/sl/van-nuys-raymer-st/1309"
+street: Raymer Street
+housenumber: "14920"
+phone: +1 818-922-1001
+opening_hours: 07:00-22:00
+website: https://www.target.com/sl/van-nuys-raymer-st/1309

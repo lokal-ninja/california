@@ -1,11 +1,11 @@
 id: 151800295
-type: way
+type: node
 latitude: 36.66761
 longitude: -121.80966
 postcode: "93933"
 city: Marina
-street: "General Stilwell Drive"
-housenumber: 145
-phone: "+1-831-883-8048"
+street: General Stilwell Drive
+housenumber: "145"
+phone: +1-831-883-8048
 opening_hours: ""
-website: "https://www.rei.com/stores/marina"
+website: https://www.rei.com/stores/marina

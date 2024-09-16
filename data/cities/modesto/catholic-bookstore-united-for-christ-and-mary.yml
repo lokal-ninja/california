@@ -1,11 +1,11 @@
 id: 1291594075
-type: way
+type: node
 latitude: 37.63979
 longitude: -121.00325
 postcode: "95354"
 city: Modesto
-street: "8th Street"
-housenumber: 1029
-phone: "+1-209-408-8358"
-opening_hours: "Tu-Sa 11:00-18:00"
+street: 8th Street
+housenumber: "1029"
+phone: +1-209-408-8358
+opening_hours: Tu-Sa 11:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 163020259
-type: way
+type: node
 latitude: 38.68892
 longitude: -121.1231
 postcode: "95630"
 city: Folsom
-street: "Blue Ravine Road"
-housenumber: 25025
+street: Blue Ravine Road
+housenumber: "25025"
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
+opening_hours: Mo-Su 06:00-23:00
 website: ""

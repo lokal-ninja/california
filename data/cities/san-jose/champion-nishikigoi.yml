@@ -1,11 +1,11 @@
 id: 758102641
-type: way
+type: node
 latitude: 37.3118
 longitude: -121.79073
 postcode: "95121"
 city: San Jose
-street: "Keaton Loop"
-housenumber: 3395
-phone: "+1-408-528-0821"
+street: Keaton Loop
+housenumber: "3395"
+phone: +1-408-528-0821
 opening_hours: ""
-website: "https://www.champkoi.com"
+website: https://www.champkoi.com

@@ -1,11 +1,11 @@
 id: 957020433
-type: way
+type: node
 latitude: 36.21261
 longitude: -121.12664
 postcode: "93930"
 city: King City
-street: "Broadway Street"
-housenumber: 315
-phone: "(831) 385-5948"
-opening_hours: "Tu-Su 07:00-21:35 Mo 06:00-21:35"
-website: "elpueblomarket.net"
+street: Broadway Street
+housenumber: "315"
+phone: (831) 385-5948
+opening_hours: Tu-Su 07:00-21:35 Mo 06:00-21:35
+website: elpueblomarket.net

@@ -1,11 +1,11 @@
 id: 31808436
-type: way
+type: node
 latitude: 32.79068
 longitude: -117.08201
 postcode: "92120"
 city: San Diego
-street: "Waring Road"
-housenumber: 5103
+street: Waring Road
+housenumber: "5103"
 phone: ""
 opening_hours: ""
 website: ""

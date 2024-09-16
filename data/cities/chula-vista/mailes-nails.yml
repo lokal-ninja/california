@@ -4,8 +4,8 @@ latitude: 32.6403
 longitude: -117.07933
 postcode: "91910"
 city: Chula Vista
-street: "3rd Avenue"
-housenumber: 325
+street: 3rd Avenue
+housenumber: "325"
 phone: "+16195854761"
-opening_hours: "Mo-Fr 09:00-19:00;Sa 09:00-17:00;Su 10:00-17:00"
-website: "https://mailesnails.com/"
+opening_hours: Mo-Fr 09:00-19:00;Sa 09:00-17:00;Su 10:00-17:00
+website: https://mailesnails.com/

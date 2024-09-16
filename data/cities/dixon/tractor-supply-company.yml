@@ -1,11 +1,11 @@
 id: 781433852
-type: way
+type: node
 latitude: 38.46635
 longitude: -121.82113
 postcode: "95620"
 city: Dixon
-street: "North 1st Street"
-housenumber: 2000
-phone: "+1 707-693-1738"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: North 1st Street
+housenumber: "2000"
+phone: +1 707-693-1738
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

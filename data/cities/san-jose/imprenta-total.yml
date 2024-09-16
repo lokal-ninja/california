@@ -1,11 +1,11 @@
 id: 1062243845
-type: way
+type: node
 latitude: 37.3564
 longitude: -121.8892
 postcode: "95112"
 city: San Jose
-street: "North 13th Street"
-housenumber: 779
-phone: "+1-408-929-2398"
+street: North 13th Street
+housenumber: "779"
+phone: +1-408-929-2398
 opening_hours: ""
-website: "https://www.imprentatotal.com/"
+website: https://www.imprentatotal.com/

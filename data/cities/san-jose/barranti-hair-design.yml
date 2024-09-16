@@ -4,8 +4,8 @@ latitude: 37.30556
 longitude: -121.89877
 postcode: "95125"
 city: San Jose
-street: "Lincoln Avenue"
-housenumber: 1266
-phone: "+1-888-585-9978"
+street: Lincoln Avenue
+housenumber: "1266"
+phone: +1-888-585-9978
 opening_hours: ""
-website: "https://coggno.com/"
+website: https://coggno.com/

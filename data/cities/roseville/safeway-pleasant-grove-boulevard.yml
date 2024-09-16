@@ -1,11 +1,11 @@
 id: 240067726
-type: way
+type: node
 latitude: 38.77776
 longitude: -121.292
 postcode: "95678"
 city: Roseville
-street: "Pleasant Grove Boulevard"
-housenumber: 1080
-phone: "+1 916-783-2119"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/ca/roseville/1080-pleasant-grove-blvd.html"
+street: Pleasant Grove Boulevard
+housenumber: "1080"
+phone: +1 916-783-2119
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/ca/roseville/1080-pleasant-grove-blvd.html

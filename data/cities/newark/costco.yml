@@ -4,8 +4,8 @@ latitude: 37.52584
 longitude: -121.99907
 postcode: "94560"
 city: Newark
-street: "Newpark Mall"
-housenumber: 350
-phone: "+1 510-493-2945"
-opening_hours: "Mo-Fr 09:00-20:30; Sa-Su 09:00-19:00"
-website: "https://www.costco.com/warehouse-locations/newark-ca-1660.html"
+street: Newpark Mall
+housenumber: "350"
+phone: +1 510-493-2945
+opening_hours: Mo-Fr 09:00-20:30; Sa-Su 09:00-19:00
+website: https://www.costco.com/warehouse-locations/newark-ca-1660.html

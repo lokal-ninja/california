@@ -1,11 +1,11 @@
 id: 427532541
-type: way
+type: node
 latitude: 34.11445
 longitude: -118.24852
 postcode: "90065"
 city: Los Angeles
-street: "San Fernando Road"
-housenumber: 3150
+street: San Fernando Road
+housenumber: "3150"
 phone: ""
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://www.goodwillsocal.org/shop/store/"
+opening_hours: Mo-Su 08:00-20:00
+website: https://www.goodwillsocal.org/shop/store/

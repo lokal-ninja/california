@@ -1,11 +1,11 @@
 id: 1097537737
-type: way
+type: node
 latitude: 36.31346
 longitude: -119.29292
 postcode: "93277"
 city: Visalia
-street: "West Walnut Avenue"
-housenumber: 100
+street: West Walnut Avenue
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-100+w+walnut+ave-visalia-ca-93277/id=3476"
+website: https://www.walgreens.com/locator/walgreens-100+w+walnut+ave-visalia-ca-93277/id=3476

@@ -1,11 +1,11 @@
 id: 971804297
-type: way
+type: node
 latitude: 38.37015
 longitude: -120.80118
 postcode: "95642"
 city: Jackson
-street: "Prospect Drive"
-housenumber: 11201
+street: Prospect Drive
+housenumber: "11201"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ca/jackson/11201-prospect-dr.html"
+website: https://www.autozone.com/locations/ca/jackson/11201-prospect-dr.html

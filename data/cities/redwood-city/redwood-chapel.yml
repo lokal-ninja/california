@@ -1,11 +1,11 @@
 id: 240594595
-type: way
+type: node
 latitude: 37.46585
 longitude: -122.22409
 postcode: "94061"
 city: Redwood City
-street: "Woodside Road"
-housenumber: 847
-phone: "(650) 369-5537"
+street: Woodside Road
+housenumber: "847"
+phone: (650) 369-5537
 opening_hours: ""
-website: "https://www.redwoodchap.com/dm20/en_US/locations/49/4906/index.page"
+website: https://www.redwoodchap.com/dm20/en_US/locations/49/4906/index.page

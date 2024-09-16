@@ -4,8 +4,8 @@ latitude: 38.24197
 longitude: -122.62332
 postcode: "94952"
 city: Petaluma
-street: "Kenilworth Drive"
-housenumber: 401
-phone: "+1-707-241-9705"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://bevmo.com/"
+street: Kenilworth Drive
+housenumber: "401"
+phone: +1-707-241-9705
+opening_hours: Mo-Su 09:00-21:00
+website: https://bevmo.com/

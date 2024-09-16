@@ -1,11 +1,11 @@
 id: 244660142
-type: way
+type: node
 latitude: 33.86637
 longitude: -117.88587
 postcode: "92831"
 city: Fullerton
-street: "South Placentia Avenue"
-housenumber: 625
-phone: "+1 714-459-4909"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/fullerton-relo-682/ca/fullerton/92831/6893"
+street: South Placentia Avenue
+housenumber: "625"
+phone: +1 714-459-4909
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/fullerton-relo-682/ca/fullerton/92831/6893

@@ -1,11 +1,11 @@
 id: 654557310
-type: way
+type: node
 latitude: 39.79142
 longitude: -123.24785
 postcode: "95428"
 city: Covelo
-street: "Covelo Road"
-housenumber: 76201
-phone: "+1 707-942-6271"
+street: Covelo Road
+housenumber: "76201"
+phone: +1 707-942-6271
 opening_hours: ""
 website: ""

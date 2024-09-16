@@ -1,11 +1,11 @@
 id: 1077619235
-type: way
+type: node
 latitude: 34.26697
 longitude: -118.52561
 postcode: "91344"
 city: Granada Hills
-street: "Zelzah Avenue"
-housenumber: 10813
-phone: "+1 818-363-3912"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
+street: Zelzah Avenue
+housenumber: "10813"
+phone: +1 818-363-3912
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
 website: ""

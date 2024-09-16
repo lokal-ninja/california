@@ -1,11 +1,11 @@
 id: 185318128
-type: way
+type: node
 latitude: 34.11673
 longitude: -117.82645
 postcode: "91740"
 city: Glendora
-street: "Auto Center Drive"
-housenumber: 1950
-phone: "+1 909-592-4866"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1941/glendora-ca/whats-new"
+street: Auto Center Drive
+housenumber: "1950"
+phone: +1 909-592-4866
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1941/glendora-ca/whats-new

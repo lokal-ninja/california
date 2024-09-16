@@ -1,11 +1,11 @@
 id: 237994246
-type: way
+type: node
 latitude: 38.61165
 longitude: -122.8696
 postcode: ""
 city: Healdsburg
-street: "Center Street"
-housenumber: 328
+street: Center Street
+housenumber: "328"
 phone: ""
-opening_hours: "Tu-Fr 10:00-17:30; Sa 10:00-17:00"
-website: "http://www.goldbloomjewelers.com/"
+opening_hours: Tu-Fr 10:00-17:30; Sa 10:00-17:00
+website: http://www.goldbloomjewelers.com/

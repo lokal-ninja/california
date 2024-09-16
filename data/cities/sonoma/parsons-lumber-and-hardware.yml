@@ -1,11 +1,11 @@
 id: 859505625
-type: way
+type: node
 latitude: 38.31586
 longitude: -122.4836
 postcode: "95476"
 city: Sonoma
-street: "Sonoma Highway"
-housenumber: 17800
-phone: "+1 707-996-1008"
-opening_hours: "07:00-17:00"
+street: Sonoma Highway
+housenumber: "17800"
+phone: +1 707-996-1008
+opening_hours: 07:00-17:00
 website: ""

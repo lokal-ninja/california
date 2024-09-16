@@ -1,11 +1,11 @@
 id: 37079926
-type: way
+type: node
 latitude: 37.13066
 longitude: -121.63674
 postcode: "95037"
 city: Morgan Hill
-street: "East Dunne Avenue"
-housenumber: 825
+street: East Dunne Avenue
+housenumber: "825"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1005448157
-type: way
+type: node
 latitude: 33.75592
 longitude: -116.28406
 postcode: "92203"
 city: Indio
-street: "Varner Road"
-housenumber: 79200
+street: Varner Road
+housenumber: "79200"
 phone: ""
 opening_hours: ""
 website: ""

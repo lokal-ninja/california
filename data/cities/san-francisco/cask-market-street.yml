@@ -4,8 +4,8 @@ latitude: 37.78787
 longitude: -122.40284
 postcode: "94105"
 city: San Francisco
-street: "Market Street"
-housenumber: 685
-phone: "+1 415-424-4844"
-opening_hours: "Mo-Sa 12:00-20:00; Su 12:00-17:00"
-website: "https://caskstore.com/"
+street: Market Street
+housenumber: "685"
+phone: +1 415-424-4844
+opening_hours: Mo-Sa 12:00-20:00; Su 12:00-17:00
+website: https://caskstore.com/

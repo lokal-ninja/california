@@ -1,11 +1,11 @@
 id: 160335126
-type: way
+type: node
 latitude: 33.48475
 longitude: -117.72323
 postcode: "92629"
 city: Dana Point
-street: "Monarch Bay Plaza"
-housenumber: 24
-phone: "+1 949 488 8147"
+street: Monarch Bay Plaza
+housenumber: "24"
+phone: +1 949 488 8147
 opening_hours: ""
 website: ""

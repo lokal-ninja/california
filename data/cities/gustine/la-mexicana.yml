@@ -1,11 +1,11 @@
 id: 311711136
-type: way
+type: node
 latitude: 37.25414
 longitude: -120.99875
 postcode: "95322"
 city: Gustine
-street: "5th Street"
-housenumber: 540
+street: 5th Street
+housenumber: "540"
 phone: ""
 opening_hours: ""
 website: ""

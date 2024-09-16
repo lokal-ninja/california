@@ -1,11 +1,11 @@
 id: 45757958
-type: way
+type: node
 latitude: 37.3717
 longitude: -122.05308
 postcode: "94087"
 city: Sunnyvale
-street: "Grape Avenue"
-housenumber: 690
+street: Grape Avenue
+housenumber: "690"
 phone: ""
 opening_hours: ""
 website: ""

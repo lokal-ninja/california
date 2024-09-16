@@ -1,11 +1,11 @@
 id: 1171325479
-type: way
+type: node
 latitude: 33.96129
 longitude: -118.37286
 postcode: "90301"
 city: Inglewood
-street: "Hindry Avenue"
-housenumber: 234
-phone: "+1-424-750-9652"
-opening_hours: "Mon-Thu 09:00-18:00, Fri 09:00-20:00, Sat 10:30-22:00, Sun 10:30-17:00"
+street: Hindry Avenue
+housenumber: "234"
+phone: +1-424-750-9652
+opening_hours: Mon-Thu 09:00-18:00, Fri 09:00-20:00, Sat 10:30-22:00, Sun 10:30-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 37.78648
 longitude: -122.41443
 postcode: ""
 city: San Francisco
-street: "Geary Street"
-housenumber: 679
-phone: "+1 415 7951401"
-opening_hours: "Mo off; Tu-Su 13:00-18:00"
-website: "https://www.lowkeysanfrancisco.com/"
+street: Geary Street
+housenumber: "679"
+phone: +1 415 7951401
+opening_hours: Mo off; Tu-Su 13:00-18:00
+website: https://www.lowkeysanfrancisco.com/

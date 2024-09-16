@@ -1,11 +1,11 @@
 id: 281968522
-type: way
+type: node
 latitude: 38.28908
 longitude: -122.4579
 postcode: "95476"
 city: Sonoma
-street: "Broadway"
-housenumber: 654
-phone: "+1 (707) 933-1330"
+street: Broadway
+housenumber: "654"
+phone: +1 (707) 933-1330
 opening_hours: ""
-website: "http://r2winecompany.com"
+website: http://r2winecompany.com

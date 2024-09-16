@@ -1,11 +1,11 @@
 id: 201738546
-type: way
+type: node
 latitude: 36.67678
 longitude: -121.65537
 postcode: "93901"
 city: Salinas
-street: "South Main Street"
-housenumber: 
+street: South Main Street
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.atasteofmonterey.com/"
+website: https://www.atasteofmonterey.com/

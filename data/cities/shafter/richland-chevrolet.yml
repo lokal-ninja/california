@@ -1,11 +1,11 @@
 id: 1134184160
-type: way
+type: node
 latitude: 35.50438
 longitude: -119.27351
 postcode: "93263"
 city: Shafter
-street: "Central Avenue"
-housenumber: 511
+street: Central Avenue
+housenumber: "511"
 phone: ""
 opening_hours: ""
-website: "https://www.rldchev.com/"
+website: https://www.rldchev.com/

@@ -4,8 +4,8 @@ latitude: 38.06825
 longitude: -122.80589
 postcode: "94956"
 city: Point Reyes Station
-street: "CA-1"
-housenumber: 11280
-phone: "+1 415-663-1737"
-opening_hours: "Mo-Fr 07:30-17:00"
-website: "https://www.acehardware.com/store-details/16303"
+street: CA-1
+housenumber: "11280"
+phone: +1 415-663-1737
+opening_hours: Mo-Fr 07:30-17:00
+website: https://www.acehardware.com/store-details/16303

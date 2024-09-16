@@ -1,11 +1,11 @@
 id: 31819136
-type: way
+type: node
 latitude: 32.90496
 longitude: -117.21455
 postcode: "92121"
 city: San Diego
-street: "Sorrento Valley Boulevard"
-housenumber: 4204
+street: Sorrento Valley Boulevard
+housenumber: "4204"
 phone: ""
 opening_hours: ""
 website: ""

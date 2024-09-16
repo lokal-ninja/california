@@ -1,11 +1,11 @@
 id: 232375528
-type: way
+type: node
 latitude: 37.41905
 longitude: -122.13528
 postcode: ""
 city: Palo Alto
-street: "El Camino Real"
-housenumber: 3450
+street: El Camino Real
+housenumber: "3450"
 phone: ""
 opening_hours: ""
-website: "https://www.driftwooddeliandmarket.com/"
+website: https://www.driftwooddeliandmarket.com/

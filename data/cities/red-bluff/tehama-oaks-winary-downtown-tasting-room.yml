@@ -1,11 +1,11 @@
 id: 658068061
-type: way
+type: node
 latitude: 40.17674
 longitude: -122.23446
 postcode: "96080"
 city: Red Bluff
-street: "Main Street"
-housenumber: 613
+street: Main Street
+housenumber: "613"
 phone: ""
 opening_hours: ""
-website: "http://www.tehamaoakswine.com/"
+website: http://www.tehamaoakswine.com/

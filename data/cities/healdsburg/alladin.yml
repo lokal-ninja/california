@@ -1,11 +1,11 @@
 id: 1021215146
-type: way
+type: node
 latitude: 38.62821
 longitude: -122.8724
 postcode: ""
 city: Healdsburg
-street: "Terrace Boulevard"
-housenumber: 111
+street: Terrace Boulevard
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 169204245
-type: way
+type: node
 latitude: 37.76879
 longitude: -122.4155
 postcode: "94103"
 city: San Francisco
-street: "Folsom Street"
-housenumber: 1745
-phone: "+1 415-863-0620"
-opening_hours: "Mo-Su 09:00-21:00; PH closed; Mar 31 closed; May 01 closed"
-website: "https://www.rainbow.coop/"
+street: Folsom Street
+housenumber: "1745"
+phone: +1 415-863-0620
+opening_hours: Mo-Su 09:00-21:00; PH closed; Mar 31 closed; May 01 closed
+website: https://www.rainbow.coop/

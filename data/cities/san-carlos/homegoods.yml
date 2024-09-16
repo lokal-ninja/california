@@ -1,11 +1,11 @@
 id: 44120295
-type: way
+type: node
 latitude: 37.50176
 longitude: -122.24449
 postcode: "94070"
 city: San Carlos
-street: "Industrial Road"
-housenumber: 1275
-phone: "+1 650-508-8381"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
+street: Industrial Road
+housenumber: "1275"
+phone: +1 650-508-8381
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 704093892
-type: way
+type: node
 latitude: 39.12653
 longitude: -123.19723
-postcode: "95482-7400"
+postcode: 95482-7400
 city: Ukiah
-street: "Airport Park Boulevard"
-housenumber: 1275
-phone: "+1 707-313-8004"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-19:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/ukiah-ca-1297.html"
+street: Airport Park Boulevard
+housenumber: "1275"
+phone: +1 707-313-8004
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-19:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/ukiah-ca-1297.html

@@ -1,11 +1,11 @@
 id: 407403965
-type: way
+type: node
 latitude: 33.73051
 longitude: -118.2881
-postcode: "90731-4720"
+postcode: 90731-4720
 city: San Pedro
-street: "South Pacific Avenue"
-housenumber: 1505
+street: South Pacific Avenue
+housenumber: "1505"
 phone: "+14243686573"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-21:00"
-website: "https://www.dollartree.com/locations/ca/san-pedro/5596/"
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-21:00
+website: https://www.dollartree.com/locations/ca/san-pedro/5596/

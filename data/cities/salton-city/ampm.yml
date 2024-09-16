@@ -1,11 +1,11 @@
 id: 207552160
-type: way
+type: node
 latitude: 33.27911
 longitude: -115.96556
 postcode: "92274"
 city: Salton City
-street: "South Marina Drive"
-housenumber: 2084
+street: South Marina Drive
+housenumber: "2084"
 phone: ""
 opening_hours: ""
 website: ""

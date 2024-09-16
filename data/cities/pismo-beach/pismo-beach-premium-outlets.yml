@@ -1,11 +1,11 @@
 id: 312672543
-type: way
+type: node
 latitude: 35.13589
 longitude: -120.6299
 postcode: "93449"
 city: Pismo Beach
-street: "Five Cities Drive"
-housenumber: 333
-phone: "+1 805-773-4620"
+street: Five Cities Drive
+housenumber: "333"
+phone: +1 805-773-4620
 opening_hours: ""
-website: "https://www.premiumoutlets.com/pismo/"
+website: https://www.premiumoutlets.com/pismo/

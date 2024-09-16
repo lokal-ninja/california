@@ -1,11 +1,11 @@
 id: 130504149
-type: way
+type: node
 latitude: 39.44463
 longitude: -123.80582
 postcode: "95437"
 city: Fort Bragg
-street: "North Main Street"
-housenumber: 300
-phone: "+1 707-964-2318"
+street: North Main Street
+housenumber: "300"
+phone: +1 707-964-2318
 opening_hours: ""
-website: "http://shopcoast2coasthardware.com"
+website: http://shopcoast2coasthardware.com

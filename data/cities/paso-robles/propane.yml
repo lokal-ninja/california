@@ -1,11 +1,11 @@
 id: 1095214367
-type: way
+type: node
 latitude: 35.58099
 longitude: -120.69561
 postcode: "93446"
 city: Paso Robles
-street: "Ramada Drive"
-housenumber: 2510
+street: Ramada Drive
+housenumber: "2510"
 phone: ""
 opening_hours: ""
 website: ""

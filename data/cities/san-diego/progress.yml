@@ -4,8 +4,8 @@ latitude: 32.72925
 longitude: -117.13002
 postcode: "92104"
 city: San Diego
-street: "30th Street"
-housenumber: 2225
-phone: "619-280-5501"
-opening_hours: "Mo-Th 10:00-19:00; Fr-Sa 10:00-20:00; Su 12:00-17:00"
-website: "http://www.progresssouthpark.com/"
+street: 30th Street
+housenumber: "2225"
+phone: 619-280-5501
+opening_hours: Mo-Th 10:00-19:00; Fr-Sa 10:00-20:00; Su 12:00-17:00
+website: http://www.progresssouthpark.com/

@@ -1,11 +1,11 @@
 id: 698165645
-type: way
+type: node
 latitude: 38.35242
 longitude: -121.97502
 postcode: "95687"
 city: Vacaville
-street: "Peabody Road"
-housenumber: 125
+street: Peabody Road
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

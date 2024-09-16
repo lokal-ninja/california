@@ -1,11 +1,11 @@
 id: 311696007
-type: way
+type: node
 latitude: 37.30799
 longitude: -120.48007
 postcode: "95340"
 city: Merced
-street: "West 23rd Street"
-housenumber: 517
+street: West 23rd Street
+housenumber: "517"
 phone: ""
 opening_hours: ""
 website: ""

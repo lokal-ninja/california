@@ -1,11 +1,11 @@
 id: 975103899
-type: way
+type: node
 latitude: 34.05022
 longitude: -117.29177
 postcode: "92324"
 city: Colton
-street: "East Washington Street"
-housenumber: 2053
-phone: "+1 909-423-0720"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.staterbros.com/stores/117"
+street: East Washington Street
+housenumber: "2053"
+phone: +1 909-423-0720
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.staterbros.com/stores/117

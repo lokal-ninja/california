@@ -1,11 +1,11 @@
 id: 1134157439
-type: way
+type: node
 latitude: 35.5004
 longitude: -119.26744
 postcode: "93263"
 city: Shafter
-street: "East Lerdo Highway"
-housenumber: 596
+street: East Lerdo Highway
+housenumber: "596"
 phone: ""
 opening_hours: ""
 website: ""

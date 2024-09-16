@@ -4,8 +4,8 @@ latitude: 37.33157
 longitude: -121.85658
 postcode: "95122"
 city: San Jose
-street: "Story Road"
-housenumber: 999
+street: Story Road
+housenumber: "999"
 phone: ""
 opening_hours: ""
-website: "https://www.9dragonsink.com/"
+website: https://www.9dragonsink.com/

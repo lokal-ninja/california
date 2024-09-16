@@ -1,11 +1,11 @@
 id: 117226435
-type: way
+type: node
 latitude: 37.24642
 longitude: -121.89088
 postcode: "95118"
 city: San Jose
-street: "Kooser Road"
-housenumber: 1413
-phone: "+1 408-266-9539"
+street: Kooser Road
+housenumber: "1413"
+phone: +1 408-266-9539
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/san-jose/1413-kooser-rd-14255"
+website: https://www.7-eleven.com/locations/ca/san-jose/1413-kooser-rd-14255

@@ -4,8 +4,8 @@ latitude: 37.22192
 longitude: -121.98289
 postcode: "95030"
 city: Los Gatos
-street: "West Main Street"
-housenumber: 65
+street: West Main Street
+housenumber: "65"
 phone: ""
-opening_hours: "Mo-We 11-8, Fr 10-7,  Sa 9-5, Su By Appointment"
-website: "https://nimbussalon.com/"
+opening_hours: Mo-We 11-8, Fr 10-7,  Sa 9-5, Su By Appointment
+website: https://nimbussalon.com/

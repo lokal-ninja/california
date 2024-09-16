@@ -1,11 +1,11 @@
 id: 130004961
-type: way
+type: node
 latitude: 34.2531
 longitude: -116.8835
 postcode: "92315"
 city: Big Bear Lake
-street: "Big Bear Boulevard"
-housenumber: 42171
-phone: "+1 909-866-5211"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.staterbros.com/stores/91"
+street: Big Bear Boulevard
+housenumber: "42171"
+phone: +1 909-866-5211
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.staterbros.com/stores/91

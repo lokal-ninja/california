@@ -4,8 +4,8 @@ latitude: 38.43688
 longitude: -122.71987
 postcode: "95401"
 city: Santa Rosa
-street: "3rd Street"
-housenumber: 109
+street: 3rd Street
+housenumber: "109"
 phone: "+17079784125"
 opening_hours: ""
-website: "https://www.starguitarsmusicstore.com/"
+website: https://www.starguitarsmusicstore.com/

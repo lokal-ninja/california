@@ -1,11 +1,11 @@
 id: 316896862
-type: way
+type: node
 latitude: 34.00495
 longitude: -118.43309
 postcode: "90066"
 city: Mar Vista
-street: "Venice Boulevard"
-housenumber: 12315
-phone: "+1 310 390 6296"
-opening_hours: "Mo-Su 7:00-22:00"
-website: "https://www.cvs.com/store-locator/mar-vista-ca-pharmacies/12315-venice-boulevard-mar-vista-ca-90066/storeid=9493"
+street: Venice Boulevard
+housenumber: "12315"
+phone: +1 310 390 6296
+opening_hours: Mo-Su 7:00-22:00
+website: https://www.cvs.com/store-locator/mar-vista-ca-pharmacies/12315-venice-boulevard-mar-vista-ca-90066/storeid=9493

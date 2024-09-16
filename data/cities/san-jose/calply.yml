@@ -1,11 +1,11 @@
 id: 35677897
-type: way
+type: node
 latitude: 37.31168
 longitude: -121.85272
 postcode: "95112"
 city: San Jose
-street: "Senter Road"
-housenumber: 2049
+street: Senter Road
+housenumber: "2049"
 phone: ""
 opening_hours: ""
 website: ""

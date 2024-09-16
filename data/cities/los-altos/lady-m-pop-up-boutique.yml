@@ -1,11 +1,11 @@
 id: 31612437
-type: way
+type: node
 latitude: 37.40076
 longitude: -122.11332
 postcode: "94022"
 city: Los Altos
-street: "West El Camino Real"
-housenumber: 4598
+street: West El Camino Real
+housenumber: "4598"
 phone: ""
 opening_hours: ""
 website: ""

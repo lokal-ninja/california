@@ -1,11 +1,11 @@
 id: 606357771
-type: way
+type: node
 latitude: 37.12494
 longitude: -122.12203
 postcode: "95006"
 city: Boulder Creek
-street: "Central Avenue"
-housenumber: 13164
+street: Central Avenue
+housenumber: "13164"
 phone: ""
 opening_hours: ""
 website: ""

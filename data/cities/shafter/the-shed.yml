@@ -1,11 +1,11 @@
 id: 216527394
-type: way
+type: node
 latitude: 35.50363
 longitude: -119.18054
 postcode: "93263"
 city: Shafter
-street: "North American Street"
-housenumber: 569
-phone: "661-237-7557"
-opening_hours: "24/7"
-website: "https://shedrvstorage.com/"
+street: North American Street
+housenumber: "569"
+phone: 661-237-7557
+opening_hours: 24/7
+website: https://shedrvstorage.com/

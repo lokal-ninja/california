@@ -1,11 +1,11 @@
 id: 239448216
-type: way
+type: node
 latitude: 37.49477
 longitude: -122.23197
 postcode: ""
 city: Redwood City
-street: "Convention Way"
-housenumber: 390
+street: Convention Way
+housenumber: "390"
 phone: ""
 opening_hours: ""
 website: ""

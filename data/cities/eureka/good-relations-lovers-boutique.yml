@@ -1,11 +1,11 @@
 id: 238365944
-type: way
+type: node
 latitude: 40.80427
 longitude: -124.16932
 postcode: "95501"
 city: Eureka
-street: "2nd Street"
-housenumber: 
-phone: "707-441-9570"
+street: 2nd Street
+housenumber: ""
+phone: 707-441-9570
 opening_hours: ""
-website: "https://www.goodrelations.com/"
+website: https://www.goodrelations.com/

@@ -1,11 +1,11 @@
 id: 1101576127
-type: way
+type: node
 latitude: 33.71632
 longitude: -117.96299
 postcode: "92708"
 city: Fountain Valley
-street: "Warner Avenue"
-housenumber: 9525
+street: Warner Avenue
+housenumber: "9525"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/ca/fountainvalley/oil-change-gn0134.html"
+website: https://store.vioc.com/ca/fountainvalley/oil-change-gn0134.html

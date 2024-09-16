@@ -1,11 +1,11 @@
 id: 165568005
-type: way
+type: node
 latitude: 34.22297
 longitude: -119.04014
 postcode: "93010"
 city: Camarilo
-street: "Pickwick Drive"
-housenumber: 2207
+street: Pickwick Drive
+housenumber: "2207"
 phone: ""
 opening_hours: ""
 website: ""

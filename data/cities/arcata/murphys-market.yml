@@ -1,11 +1,11 @@
 id: 580609198
-type: way
+type: node
 latitude: 40.8585
 longitude: -124.0732
 postcode: "95521"
 city: Arcata
-street: "Bayside Road"
-housenumber: 785
+street: Bayside Road
+housenumber: "785"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

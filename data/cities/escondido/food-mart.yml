@@ -1,11 +1,11 @@
 id: 264712219
-type: way
+type: node
 latitude: 33.11447
 longitude: -117.10159
 postcode: "92029"
 city: Escondido
-street: "West Valley Parkway"
-housenumber: 1296
+street: West Valley Parkway
+housenumber: "1296"
 phone: ""
 opening_hours: ""
 website: ""

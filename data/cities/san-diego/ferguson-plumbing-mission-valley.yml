@@ -1,11 +1,11 @@
 id: 31808869
-type: way
+type: node
 latitude: 32.78244
 longitude: -117.09725
 postcode: "92120"
 city: San Diego
-street: "Mission Gorge Place"
-housenumber: 4533
+street: Mission Gorge Place
+housenumber: "4533"
 phone: "+16192836155"
 opening_hours: ""
-website: "https://www.ferguson.com/branch/4533-mission-george-pl-san-diego-ca"
+website: https://www.ferguson.com/branch/4533-mission-george-pl-san-diego-ca

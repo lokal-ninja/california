@@ -4,8 +4,8 @@ latitude: 37.79655
 longitude: -122.42171
 postcode: "94109"
 city: San Francisco
-street: "Polk Street"
-housenumber: 2140
-phone: "+1 415 6737420"
-opening_hours: "Mo-Su 8:00-21:00"
-website: "https://www.realfoodco.com/"
+street: Polk Street
+housenumber: "2140"
+phone: +1 415 6737420
+opening_hours: Mo-Su 8:00-21:00
+website: https://www.realfoodco.com/

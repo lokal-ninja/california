@@ -1,11 +1,11 @@
 id: 431116064
-type: way
+type: node
 latitude: 34.2363
 longitude: -118.55439
 postcode: "91324"
 city: Northridge
-street: "Tampa Avenue"
-housenumber: 9301
-phone: "+1 818-717-1740"
+street: Tampa Avenue
+housenumber: "9301"
+phone: +1 818-717-1740
 opening_hours: ""
-website: "https://stores.ashleyfurniture.com/store/us/california/northridge/7710000048/"
+website: https://stores.ashleyfurniture.com/store/us/california/northridge/7710000048/

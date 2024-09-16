@@ -1,11 +1,11 @@
 id: 129382037
-type: way
+type: node
 latitude: 33.54657
 longitude: -117.79394
 postcode: "92651"
 city: Laguna Beach
-street: "Pacific Coast Highway"
-housenumber: 600
+street: Pacific Coast Highway
+housenumber: "600"
 phone: ""
 opening_hours: ""
-website: "https://local.pavilions.com/ca/laguna-beach/600-n-pacific-coast-hwy.html"
+website: https://local.pavilions.com/ca/laguna-beach/600-n-pacific-coast-hwy.html

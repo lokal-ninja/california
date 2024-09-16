@@ -1,11 +1,11 @@
 id: 228737793
-type: way
+type: node
 latitude: 33.74618
 longitude: -117.81556
 postcode: "92780"
 city: Tustin
-street: "East 1st Street"
-housenumber: 671
+street: East 1st Street
+housenumber: "671"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/tustin-ca-pharmacies/671-east-1st-street-tustin-ca-92780/storeid=8877"
+website: https://www.cvs.com/store-locator/tustin-ca-pharmacies/671-east-1st-street-tustin-ca-92780/storeid=8877

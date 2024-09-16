@@ -1,11 +1,11 @@
 id: 402058229
-type: way
+type: node
 latitude: 33.14744
 longitude: -117.1075
 postcode: "92026"
 city: Escondido
-street: "West El Norte Parkway"
-housenumber: 1062
-phone: "+1 760-741-7600"
+street: West El Norte Parkway
+housenumber: "1062"
+phone: +1 760-741-7600
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/escondido/1062-el-norte-pkwy-39651"
+website: https://www.7-eleven.com/locations/ca/escondido/1062-el-norte-pkwy-39651

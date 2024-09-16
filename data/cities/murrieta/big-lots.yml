@@ -1,11 +1,11 @@
 id: 112261226
-type: way
+type: node
 latitude: 33.55624
 longitude: -117.19626
 postcode: "92562"
 city: Murrieta
-street: "Madison Avenue"
-housenumber: 25260
-phone: "+1 951-698-1417"
-opening_hours: "09:00-21:00"
-website: "https://local.biglots.com/ca/murrieta/25260-madison-ave"
+street: Madison Avenue
+housenumber: "25260"
+phone: +1 951-698-1417
+opening_hours: 09:00-21:00
+website: https://local.biglots.com/ca/murrieta/25260-madison-ave

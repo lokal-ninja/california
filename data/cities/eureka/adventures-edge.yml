@@ -1,11 +1,11 @@
 id: 658983034
-type: way
+type: node
 latitude: 40.8004
 longitude: -124.17399
 postcode: "95501"
 city: Eureka
-street: "West 5th Street"
-housenumber: 125
-phone: "+1 707-445-1711"
+street: West 5th Street
+housenumber: "125"
+phone: +1 707-445-1711
 opening_hours: ""
-website: "https://www.adventuresedge.com/"
+website: https://www.adventuresedge.com/

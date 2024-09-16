@@ -1,11 +1,11 @@
 id: 240668480
-type: way
+type: node
 latitude: 37.47864
 longitude: -122.22348
 postcode: "94063"
 city: Redwood City
-street: "Main Street"
-housenumber: 1530
-phone: "(650) 368-0284"
+street: Main Street
+housenumber: "1530"
+phone: (650) 368-0284
 opening_hours: ""
 website: ""

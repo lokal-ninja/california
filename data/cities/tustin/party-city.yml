@@ -1,11 +1,11 @@
 id: 184707310
-type: way
+type: node
 latitude: 33.7235
 longitude: -117.79701
 postcode: "92782"
 city: Tustin
-street: "El Camino Real"
-housenumber: 2826
-phone: "+1 657-205-5810"
+street: El Camino Real
+housenumber: "2826"
+phone: +1 657-205-5810
 opening_hours: ""
-website: "https://stores.partycity.com/us/ca/tustin/party-store-pc548.html"
+website: https://stores.partycity.com/us/ca/tustin/party-store-pc548.html

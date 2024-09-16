@@ -1,11 +1,11 @@
 id: 72395549
-type: way
+type: node
 latitude: 33.4858
 longitude: -117.07667
 postcode: "92592"
 city: Temecula
-street: "State Highway 79 South"
-housenumber: 33385
+street: State Highway 79 South
+housenumber: "33385"
 phone: ""
 opening_hours: ""
 website: ""

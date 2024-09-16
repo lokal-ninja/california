@@ -1,11 +1,11 @@
 id: 264534357
-type: way
+type: node
 latitude: 37.76658
 longitude: -122.45265
 postcode: "94117"
 city: San Francisco
-street: "Stanyan Street"
-housenumber: 858
+street: Stanyan Street
+housenumber: "858"
 phone: ""
 opening_hours: ""
 website: ""

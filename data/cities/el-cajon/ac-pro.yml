@@ -1,11 +1,11 @@
 id: 963002921
-type: way
+type: node
 latitude: 32.81618
 longitude: -116.96309
 postcode: "92020"
 city: El Cajon
-street: "North Magnolia Avenue"
-housenumber: 1402
+street: North Magnolia Avenue
+housenumber: "1402"
 phone: "+16195668130"
 opening_hours: ""
 website: ""

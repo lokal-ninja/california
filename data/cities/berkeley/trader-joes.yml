@@ -4,8 +4,8 @@ latitude: 37.8717
 longitude: -122.27322
 postcode: "94703"
 city: Berkeley
-street: "University Avenue"
-housenumber: 1885
-phone: "+1 510-204-9074"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://locations.traderjoes.com/ca/berkeley/186/"
+street: University Avenue
+housenumber: "1885"
+phone: +1 510-204-9074
+opening_hours: Mo-Su 08:00-21:00
+website: https://locations.traderjoes.com/ca/berkeley/186/

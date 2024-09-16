@@ -4,8 +4,8 @@ latitude: 37.80084
 longitude: -122.26767
 postcode: "94607"
 city: Oakland
-street: "Alice Street"
-housenumber: 1115
-phone: "+1-510-833-3963"
-opening_hours: "Mo-Sa 09:00-17:00"
+street: Alice Street
+housenumber: "1115"
+phone: +1-510-833-3963
+opening_hours: Mo-Sa 09:00-17:00
 website: ""

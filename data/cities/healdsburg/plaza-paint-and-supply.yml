@@ -1,11 +1,11 @@
 id: 237994255
-type: way
+type: node
 latitude: 38.61187
 longitude: -122.86966
 postcode: ""
 city: Healdsburg
-street: "Center Street"
-housenumber: 334
-phone: "707-433-2374"
-opening_hours: "Mo-Fr 8:00-17:00; Sa 10:00-14:00"
-website: "http://www.plazapaint.com/"
+street: Center Street
+housenumber: "334"
+phone: 707-433-2374
+opening_hours: Mo-Fr 8:00-17:00; Sa 10:00-14:00
+website: http://www.plazapaint.com/

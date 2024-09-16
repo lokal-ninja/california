@@ -1,11 +1,11 @@
 id: 993344435
-type: way
+type: node
 latitude: 32.81186
 longitude: -116.97667
 postcode: "92020"
 city: El Cajon
-street: "North Marshall Avenue"
-housenumber: 1180
+street: North Marshall Avenue
+housenumber: "1180"
 phone: ""
 opening_hours: ""
 website: ""

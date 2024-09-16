@@ -4,8 +4,8 @@ latitude: 36.8449
 longitude: -121.53709
 postcode: "95045"
 city: San Juan Bautista
-street: "Third Street"
-housenumber: 308
+street: Third Street
+housenumber: "308"
 phone: ""
-opening_hours: "We,Th 11:00-17:00; Fr,Sa 11:00-18:00; Su 12:00-17:00 || by appointment"
+opening_hours: We,Th 11:00-17:00; Fr,Sa 11:00-18:00; Su 12:00-17:00 || "by appointment"
 website: ""

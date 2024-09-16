@@ -1,11 +1,11 @@
 id: 760672332
-type: way
+type: node
 latitude: 37.28395
 longitude: -121.841
 postcode: "95111"
 city: San Jose
-street: "Monterey Road"
-housenumber: 3410
-phone: "+1-408-761-1512"
+street: Monterey Road
+housenumber: "3410"
+phone: +1-408-761-1512
 opening_hours: ""
-website: "https://www.carmommy.com/"
+website: https://www.carmommy.com/

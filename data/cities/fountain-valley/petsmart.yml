@@ -1,11 +1,11 @@
 id: 211365192
-type: way
+type: node
 latitude: 33.70335
 longitude: -117.9339
 postcode: "92708"
 city: Fountain Valley
-street: "Newhope Street"
-housenumber: 17940
-phone: "+1 714-241-0317"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ca/fountain-valley-store0090.html"
+street: Newhope Street
+housenumber: "17940"
+phone: +1 714-241-0317
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ca/fountain-valley-store0090.html

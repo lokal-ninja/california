@@ -1,11 +1,11 @@
 id: 1164512201
-type: way
+type: node
 latitude: 38.92765
 longitude: -121.05689
 postcode: "95603"
 city: Auburn
-street: "Dolores Drive"
-housenumber: 110
-phone: "+1-530-823-7247"
-opening_hours: "Tu-Sa 11:00-18:00; Su 11:00-17:00"
-website: "https://www.facebook.com/people/Tribal-Weaver/100063649294565/"
+street: Dolores Drive
+housenumber: "110"
+phone: +1-530-823-7247
+opening_hours: Tu-Sa 11:00-18:00; Su 11:00-17:00
+website: https://www.facebook.com/people/Tribal-Weaver/100063649294565/

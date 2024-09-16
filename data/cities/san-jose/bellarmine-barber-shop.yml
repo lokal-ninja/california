@@ -4,8 +4,8 @@ latitude: 37.34074
 longitude: -121.91771
 postcode: "95126"
 city: San Jose
-street: "Emory Street"
-housenumber: 892
+street: Emory Street
+housenumber: "892"
 phone: ""
 opening_hours: ""
-website: "https://www.yelp.com/biz/bellarmine-barber-shop-san-jose"
+website: https://www.yelp.com/biz/bellarmine-barber-shop-san-jose

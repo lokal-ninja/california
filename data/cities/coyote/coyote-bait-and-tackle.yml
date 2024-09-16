@@ -1,11 +1,11 @@
 id: 337258495
-type: way
+type: node
 latitude: 37.2165
 longitude: -121.73984
 postcode: "95013"
 city: Coyote
-street: "Monterey Road"
-housenumber: 8215
+street: Monterey Road
+housenumber: "8215"
 phone: ""
 opening_hours: ""
 website: ""

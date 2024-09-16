@@ -1,11 +1,11 @@
 id: 735374106
-type: way
+type: node
 latitude: 38.42664
 longitude: -122.74175
 postcode: "95407"
 city: Santa Rosa
-street: "Stony Point Road"
-housenumber: 955
-phone: "+1-707-575-8474"
+street: Stony Point Road
+housenumber: "955"
+phone: +1-707-575-8474
 opening_hours: ""
 website: ""

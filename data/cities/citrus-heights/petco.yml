@@ -1,11 +1,11 @@
 id: 555658758
-type: way
+type: node
 latitude: 38.68057
 longitude: -121.32014
 postcode: "95621"
 city: Citrus Heights
-street: "Greenback Lane"
-housenumber: 6067
-phone: "+1 916-725-2556"
-opening_hours: "Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ca/citrusheights/pet-supplies-citrusheights-ca-268.html"
+street: Greenback Lane
+housenumber: "6067"
+phone: +1 916-725-2556
+opening_hours: Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/ca/citrusheights/pet-supplies-citrusheights-ca-268.html

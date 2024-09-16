@@ -4,8 +4,8 @@ latitude: 37.78759
 longitude: -122.44635
 postcode: "94115"
 city: San Francisco
-street: "California Street"
-housenumber: 3150
-phone: "+1-415-346-6886"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://asosf.com"
+street: California Street
+housenumber: "3150"
+phone: +1-415-346-6886
+opening_hours: Mo-Fr 09:00-17:00
+website: https://asosf.com

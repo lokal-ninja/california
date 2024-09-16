@@ -1,11 +1,11 @@
 id: 255493468
-type: way
+type: node
 latitude: 37.7035
 longitude: -121.8542
 postcode: "94568"
 city: Dublin
-street: "Dublin Boulevard"
-housenumber: 2800
-phone: "+1 925-241-1042"
-opening_hours: "08:00-23:00"
-website: "https://www.target.com/sl/dublin-east/2771"
+street: Dublin Boulevard
+housenumber: "2800"
+phone: +1 925-241-1042
+opening_hours: 08:00-23:00
+website: https://www.target.com/sl/dublin-east/2771

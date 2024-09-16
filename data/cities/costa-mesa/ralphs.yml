@@ -1,11 +1,11 @@
 id: 212832196
-type: way
+type: node
 latitude: 33.63204
 longitude: -117.91287
 postcode: "92627"
 city: Costa Mesa
-street: "East 17th Street"
-housenumber: 372
-phone: "+1 949-645-1277"
-opening_hours: "Mo-Su 05:00-01:00"
-website: "https://www.ralphs.com/stores/grocery/ca/costa-mesa/costa-mesa/703/00033"
+street: East 17th Street
+housenumber: "372"
+phone: +1 949-645-1277
+opening_hours: Mo-Su 05:00-01:00
+website: https://www.ralphs.com/stores/grocery/ca/costa-mesa/costa-mesa/703/00033

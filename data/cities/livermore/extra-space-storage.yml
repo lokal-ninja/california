@@ -1,11 +1,11 @@
 id: 578927055
-type: way
+type: node
 latitude: 37.70885
 longitude: -121.72653
 postcode: "94551"
 city: Livermore
-street: "Northfront Road"
-housenumber: 5888
+street: Northfront Road
+housenumber: "5888"
 phone: ""
 opening_hours: ""
 website: ""

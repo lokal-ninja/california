@@ -1,11 +1,11 @@
 id: 805151488
-type: way
+type: node
 latitude: 34.34778
 longitude: -119.06647
 postcode: "93060"
 city: Santa Paula
-street: "Harvard Boulevard"
-housenumber: 412
+street: Harvard Boulevard
+housenumber: "412"
 phone: ""
-opening_hours: "Tu-Sa 11:00-19:00; Su 11:00-16:00"
+opening_hours: Tu-Sa 11:00-19:00; Su 11:00-16:00
 website: ""

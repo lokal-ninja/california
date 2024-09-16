@@ -1,11 +1,11 @@
 id: 31803467
-type: way
+type: node
 latitude: 32.83374
 longitude: -117.12205
 postcode: "92123"
 city: San Diego
-street: "Chesapeake Drive"
-housenumber: 9630
+street: Chesapeake Drive
+housenumber: "9630"
 phone: "+18582799770"
 opening_hours: ""
-website: "https://www.gexpro.com/locations/CA/San-Diego/7861"
+website: https://www.gexpro.com/locations/CA/San-Diego/7861

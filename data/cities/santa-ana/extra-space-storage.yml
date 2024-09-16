@@ -1,11 +1,11 @@
 id: 614255401
-type: way
+type: node
 latitude: 33.74113
 longitude: -117.8501
 postcode: "92705"
 city: Santa Ana
-street: "Grand Avenue"
-housenumber: 511
+street: Grand Avenue
+housenumber: "511"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 964729772
-type: way
+type: node
 latitude: 33.87869
 longitude: -117.65913
 postcode: "92880"
 city: Corona
-street: "Green River Road"
-housenumber: 4710
+street: Green River Road
+housenumber: "4710"
 phone: ""
 opening_hours: ""
 website: ""

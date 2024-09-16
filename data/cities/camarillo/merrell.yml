@@ -4,8 +4,8 @@ latitude: 34.21425
 longitude: -119.06732
 postcode: "93010"
 city: Camarillo
-street: "Ventura Boulevard"
-housenumber: 540
-phone: "+1-805-389-6586"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-19:00"
-website: "https://www.merrell.com/US/en/content?caid=locally"
+street: Ventura Boulevard
+housenumber: "540"
+phone: +1-805-389-6586
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-19:00
+website: https://www.merrell.com/US/en/content?caid=locally

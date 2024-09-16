@@ -4,8 +4,8 @@ latitude: 32.71139
 longitude: -117.1514
 postcode: "92101"
 city: San Diego
-street: "Market Street"
-housenumber: 1433
+street: Market Street
+housenumber: "1433"
 phone: "+16196290776"
 opening_hours: ""
-website: "https://xion.bike/"
+website: https://xion.bike/

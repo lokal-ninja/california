@@ -1,11 +1,11 @@
 id: 27144378
-type: way
+type: node
 latitude: 37.55341
 longitude: -122.31409
 postcode: "94402"
 city: San Mateo
-street: "South El Camino Real"
-housenumber: 1655
-phone: "+1 650-341-0374"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/ca/san-mateo/1655-el-camino-real.html"
+street: South El Camino Real
+housenumber: "1655"
+phone: +1 650-341-0374
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/ca/san-mateo/1655-el-camino-real.html

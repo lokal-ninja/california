@@ -1,11 +1,11 @@
 id: 564540770
-type: way
+type: node
 latitude: 40.57296
 longitude: -122.35403
 postcode: "96002"
 city: Redding
-street: "Merchant Street"
-housenumber: 945
-phone: "+1  (530) 242-9006"
+street: Merchant Street
+housenumber: "945"
+phone: +1  (530) 242-9006
 opening_hours: ""
 website: ""

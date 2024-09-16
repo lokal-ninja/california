@@ -1,11 +1,11 @@
 id: 311696051
-type: way
+type: node
 latitude: 37.2957
 longitude: -120.4541
 postcode: "95340"
 city: Merced
-street: "East 21St Street"
-housenumber: 1801
+street: East 21St Street
+housenumber: "1801"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 31818354
-type: way
+type: node
 latitude: 32.71072
 longitude: -117.16026
 postcode: "92101"
 city: San Diego
-street: "5th Avenue"
-housenumber: 520
+street: 5th Avenue
+housenumber: "520"
 phone: ""
 opening_hours: ""
-website: "https://birkenstocksd.com/sole-concepts/"
+website: https://birkenstocksd.com/sole-concepts/

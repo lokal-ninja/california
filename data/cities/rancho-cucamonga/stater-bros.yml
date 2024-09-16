@@ -4,8 +4,8 @@ latitude: 34.13412
 longitude: -117.59257
 postcode: "91737"
 city: Rancho Cucamonga
-street: "19th Street"
-housenumber: 9750
-phone: "+1 909-989-4908"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.staterbros.com/stores/78"
+street: 19th Street
+housenumber: "9750"
+phone: +1 909-989-4908
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.staterbros.com/stores/78

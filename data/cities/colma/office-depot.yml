@@ -4,8 +4,8 @@ latitude: 37.67741
 longitude: -122.46906
 postcode: "94014"
 city: Colma
-street: "Colma Boulevard"
-housenumber: 1
-phone: "+1 650-755-7104"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/ca/colma/office-depot-3286"
+street: Colma Boulevard
+housenumber: "1"
+phone: +1 650-755-7104
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/ca/colma/office-depot-3286

@@ -1,11 +1,11 @@
 id: 432102453
-type: way
+type: node
 latitude: 34.19245
 longitude: -118.44942
 postcode: "91405"
 city: Van Nuys
-street: "Van Nuys Boulevard"
-housenumber: 6655
+street: Van Nuys Boulevard
+housenumber: "6655"
 phone: ""
 opening_hours: ""
-website: "https://www.jonsmarketplace.com/"
+website: https://www.jonsmarketplace.com/

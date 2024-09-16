@@ -1,11 +1,11 @@
 id: 754504370
-type: way
+type: node
 latitude: 40.56351
 longitude: -122.35211
 postcode: "96002"
 city: redding
-street: "Hartnell Avenue"
-housenumber: 1045
-phone: "+1 (530) 222-0447"
+street: Hartnell Avenue
+housenumber: "1045"
+phone: +1 (530) 222-0447
 opening_hours: ""
-website: "https://blvdbodyshop.com/"
+website: https://blvdbodyshop.com/

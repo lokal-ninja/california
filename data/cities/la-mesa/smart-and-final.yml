@@ -1,11 +1,11 @@
 id: 132166673
-type: way
+type: node
 latitude: 32.74693
 longitude: -116.95884
 postcode: "91941"
 city: La Mesa
-street: "Avocado Blvd"
-housenumber: 3681
+street: Avocado Blvd
+housenumber: "3681"
 phone: "+16196600611"
-opening_hours: "06:00-22:00"
-website: "https://locations.smartandfinal.com/ca/la-mesa/934/"
+opening_hours: 06:00-22:00
+website: https://locations.smartandfinal.com/ca/la-mesa/934/

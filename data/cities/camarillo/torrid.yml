@@ -4,8 +4,8 @@ latitude: 34.2162
 longitude: -119.06183
 postcode: "93010"
 city: Camarillo
-street: "Ventura Boulevard"
-housenumber: 740
-phone: "+1-805-322-0012"
-opening_hours: "Mo-Th 10:00-19:00; Fr-Sa 10:00-20:00; Su 11:00-19:00"
-website: "https://www.torrid.com"
+street: Ventura Boulevard
+housenumber: "740"
+phone: +1-805-322-0012
+opening_hours: Mo-Th 10:00-19:00; Fr-Sa 10:00-20:00; Su 11:00-19:00
+website: https://www.torrid.com

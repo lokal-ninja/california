@@ -1,11 +1,11 @@
 id: 133440152
-type: way
+type: node
 latitude: 34.16921
 longitude: -118.53401
 postcode: "91356"
 city: Tarzana
-street: "Ventura Boulevard"
-housenumber: 18439
-phone: "+1 818-881-5527"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.vons.com/ca/tarzana/18439-ventura-blvd.html"
+street: Ventura Boulevard
+housenumber: "18439"
+phone: +1 818-881-5527
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.vons.com/ca/tarzana/18439-ventura-blvd.html

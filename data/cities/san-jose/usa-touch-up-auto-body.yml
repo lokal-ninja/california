@@ -4,8 +4,8 @@ latitude: 37.35606
 longitude: -121.89216
 postcode: "95112"
 city: San Jose
-street: "North 10th Street"
-housenumber: 818
-phone: "+1-408-292-0808"
-opening_hours: "Mo-Sa 08:00-17:30; PH off"
-website: "https://www.usatouchup.com/"
+street: North 10th Street
+housenumber: "818"
+phone: +1-408-292-0808
+opening_hours: Mo-Sa 08:00-17:30; PH off
+website: https://www.usatouchup.com/

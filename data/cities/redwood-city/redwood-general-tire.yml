@@ -1,11 +1,11 @@
 id: 240212006
-type: way
+type: node
 latitude: 37.48708
 longitude: -122.21914
 postcode: ""
 city: Redwood City
-street: "Broadway"
-housenumber: 1630
+street: Broadway
+housenumber: "1630"
 phone: ""
 opening_hours: ""
 website: ""

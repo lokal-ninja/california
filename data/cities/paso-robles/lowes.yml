@@ -1,11 +1,11 @@
 id: 171004573
-type: way
+type: node
 latitude: 35.64594
 longitude: -120.66275
 postcode: "93446"
 city: Paso Robles
-street: "Golden Hill Road"
-housenumber: 2445
-phone: "+1 805-602-9051"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/ca-paso-robles/2730"
+street: Golden Hill Road
+housenumber: "2445"
+phone: +1 805-602-9051
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/ca-paso-robles/2730

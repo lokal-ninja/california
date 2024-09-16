@@ -1,11 +1,11 @@
 id: 363499072
-type: way
+type: node
 latitude: 33.60885
 longitude: -114.61013
 postcode: "92225"
 city: Blythe
-street: "West Hobsonway"
-housenumber: 1224
-phone: "+1 760-922-0361"
-opening_hours: "Mo-Sa 7:00-18:00; Su 8:00-17:00"
+street: West Hobsonway
+housenumber: "1224"
+phone: +1 760-922-0361
+opening_hours: Mo-Sa 7:00-18:00; Su 8:00-17:00
 website: ""

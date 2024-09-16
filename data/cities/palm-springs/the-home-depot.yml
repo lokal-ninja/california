@@ -1,11 +1,11 @@
 id: 230780128
-type: way
+type: node
 latitude: 33.81919
 longitude: -116.49046
 postcode: "92264"
 city: Palm Springs
-street: "East Ramon Road"
-housenumber: 5200
-phone: "+1 760-322-0424"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/palm-springs/ca/palm-springs/92264/8526"
+street: East Ramon Road
+housenumber: "5200"
+phone: +1 760-322-0424
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/palm-springs/ca/palm-springs/92264/8526

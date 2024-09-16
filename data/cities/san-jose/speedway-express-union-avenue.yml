@@ -1,11 +1,11 @@
 id: 881887352
-type: way
+type: node
 latitude: 37.26698
 longitude: -121.93105
 postcode: "95124"
 city: San Jose
-street: "Union Avenue"
-housenumber: 3010
+street: Union Avenue
+housenumber: "3010"
 phone: ""
 opening_hours: ""
 website: ""

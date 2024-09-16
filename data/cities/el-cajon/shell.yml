@@ -1,11 +1,11 @@
 id: 378479336
-type: way
+type: node
 latitude: 32.82627
 longitude: -116.90218
 postcode: "92021"
 city: El Cajon
-street: "Camino Canada"
-housenumber: 13538
+street: Camino Canada
+housenumber: "13538"
 phone: ""
 opening_hours: ""
 website: ""

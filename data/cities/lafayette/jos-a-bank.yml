@@ -1,11 +1,11 @@
 id: 471338258
-type: way
+type: node
 latitude: 37.89123
 longitude: -122.12359
 postcode: "94549"
 city: Lafayette
-street: "Mount Diablo Boulevard"
-housenumber: 3599
-phone: "(925) 962-1051"
+street: Mount Diablo Boulevard
+housenumber: "3599"
+phone: (925) 962-1051
 opening_hours: ""
-website: "https://josbank.com/"
+website: https://josbank.com/

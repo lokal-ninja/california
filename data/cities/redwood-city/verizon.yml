@@ -4,8 +4,8 @@ latitude: 37.48499
 longitude: -122.23202
 postcode: "94063"
 city: Redwood City
-street: "El Camino Real"
-housenumber: 1025
+street: El Camino Real
+housenumber: "1025"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 11:00-19:00"
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 11:00-19:00
 website: ""

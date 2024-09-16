@@ -1,11 +1,11 @@
 id: 114639398
-type: way
+type: node
 latitude: 33.09734
 longitude: -117.19985
 postcode: "92078"
 city: San Marcos
-street: "San Elijo Road"
-housenumber: 1571
-phone: "+1 760-798-1058"
-opening_hours: "06:00-23:00"
-website: "https://local.albertsons.com/ca/san-marcos/1571-san-elijo-rd-s.html"
+street: San Elijo Road
+housenumber: "1571"
+phone: +1 760-798-1058
+opening_hours: 06:00-23:00
+website: https://local.albertsons.com/ca/san-marcos/1571-san-elijo-rd-s.html

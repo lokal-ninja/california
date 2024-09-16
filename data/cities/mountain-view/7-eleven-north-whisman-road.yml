@@ -1,11 +1,11 @@
 id: 100225390
-type: way
+type: node
 latitude: 37.39678
 longitude: -122.06027
 postcode: "94043"
 city: Mountain View
-street: "North Whisman Road"
-housenumber: 276
-phone: "+1 650-961-8762"
+street: North Whisman Road
+housenumber: "276"
+phone: +1 650-961-8762
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/mountain-view/276-n-whisman-ave-15429"
+website: https://www.7-eleven.com/locations/ca/mountain-view/276-n-whisman-ave-15429

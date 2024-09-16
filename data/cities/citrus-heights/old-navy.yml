@@ -1,11 +1,11 @@
 id: 431925051
-type: way
+type: node
 latitude: 38.67413
 longitude: -121.27556
 postcode: "95610"
 city: Citrus Heights
-street: "Birdcage Center Lane"
-housenumber: 5985
+street: Birdcage Center Lane
+housenumber: "5985"
 phone: ""
 opening_hours: ""
 website: ""

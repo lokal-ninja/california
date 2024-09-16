@@ -1,11 +1,11 @@
 id: 267606260
-type: way
+type: node
 latitude: 40.51649
 longitude: -122.38036
 postcode: "96001"
 city: Redding
-street: "Eastside Road"
-housenumber: 6831
+street: Eastside Road
+housenumber: "6831"
 phone: ""
 opening_hours: ""
 website: ""

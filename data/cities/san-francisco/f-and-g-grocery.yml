@@ -4,8 +4,8 @@ latitude: 37.75849
 longitude: -122.42333
 postcode: "94110"
 city: San Francisco
-street: "20th Street"
-housenumber: 3698
-phone: "(415) 285-2542"
+street: 20th Street
+housenumber: "3698"
+phone: (415) 285-2542
 opening_hours: ""
 website: ""

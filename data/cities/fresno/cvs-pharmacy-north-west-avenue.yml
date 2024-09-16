@@ -1,11 +1,11 @@
 id: 1295614978
-type: way
+type: node
 latitude: 36.83895
 longitude: -119.82589
 postcode: "93711"
 city: Fresno
-street: "North West Avenue"
-housenumber: 7096
+street: North West Avenue
+housenumber: "7096"
 phone: "+15594360471"
-opening_hours: "Mo-Su 07:00-24:00"
-website: "https://www.cvs.com/store-locator/fresno-ca-pharmacies/7096-n-west-ave-fresno-ca-93711/storeid=9865?WT.mc_id=LS_GOOGLE_FS_9865"
+opening_hours: Mo-Su 07:00-24:00
+website: https://www.cvs.com/store-locator/fresno-ca-pharmacies/7096-n-west-ave-fresno-ca-93711/storeid=9865?WT.mc_id=LS_GOOGLE_FS_9865

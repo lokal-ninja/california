@@ -4,8 +4,8 @@ latitude: 37.30364
 longitude: -121.914
 postcode: "95125"
 city: San Jose
-street: "Meridian Avenue"
-housenumber: 1111
-phone: "+1-408-979-1751"
-opening_hours: "Mo-Th 09:00-21:00; Fr 09:00-21:00; Sa 09:00-17:00; Su 10:00-17:00"
+street: Meridian Avenue
+housenumber: "1111"
+phone: +1-408-979-1751
+opening_hours: Mo-Th 09:00-21:00; Fr 09:00-21:00; Sa 09:00-17:00; Su 10:00-17:00
 website: ""

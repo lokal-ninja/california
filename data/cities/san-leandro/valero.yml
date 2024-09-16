@@ -1,11 +1,11 @@
 id: 976776911
-type: way
+type: node
 latitude: 37.69638
 longitude: -122.13874
 postcode: "94578"
 city: San Leandro
-street: "Washington Avenue"
-housenumber: 14798
+street: Washington Avenue
+housenumber: "14798"
 phone: ""
 opening_hours: ""
 website: ""

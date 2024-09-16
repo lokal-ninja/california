@@ -1,11 +1,11 @@
 id: 76837618
-type: way
+type: node
 latitude: 37.63612
 longitude: -122.41694
-postcode: "94066-2420"
+postcode: 94066-2420
 city: San Bruno
-street: "El Camino Real"
-housenumber: 1150
-phone: "+1 650-827-0171"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/tanforan/1054"
+street: El Camino Real
+housenumber: "1150"
+phone: +1 650-827-0171
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/tanforan/1054

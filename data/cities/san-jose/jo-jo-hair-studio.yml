@@ -1,11 +1,11 @@
 id: 359272641
-type: way
+type: node
 latitude: 37.34854
 longitude: -121.89954
 postcode: "95112"
 city: San Jose
-street: "North 1st Street"
-housenumber: 672
+street: North 1st Street
+housenumber: "672"
 phone: ""
 opening_hours: ""
-website: "https://www.jojohairstudio.com/"
+website: https://www.jojohairstudio.com/

@@ -1,11 +1,11 @@
 id: 504494213
-type: way
+type: node
 latitude: 37.32318
 longitude: -121.91757
 postcode: "95126"
 city: San Jose
-street: "West San Carlos Street"
-housenumber: 1500
+street: West San Carlos Street
+housenumber: "1500"
 phone: ""
 opening_hours: ""
 website: ""

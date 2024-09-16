@@ -1,11 +1,11 @@
 id: 1242672379
-type: way
+type: node
 latitude: 33.71182
 longitude: -117.19257
 postcode: "92586"
 city: Menifee
-street: "Sun City Boulevard"
-housenumber: 27160
-phone: "+1 951-679-6655"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.staterbros.com/stores/83"
+street: Sun City Boulevard
+housenumber: "27160"
+phone: +1 951-679-6655
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.staterbros.com/stores/83

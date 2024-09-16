@@ -1,11 +1,11 @@
 id: 84831722
-type: way
+type: node
 latitude: 37.91791
 longitude: -122.31288
 postcode: "94530"
 city: El Cerrito
-street: "San Pablo Avenue"
-housenumber: 11060
+street: San Pablo Avenue
+housenumber: "11060"
 phone: ""
 opening_hours: ""
 website: ""

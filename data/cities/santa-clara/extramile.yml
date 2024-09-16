@@ -1,11 +1,11 @@
 id: 551641910
-type: way
+type: node
 latitude: 37.35193
 longitude: -121.99882
 postcode: "95051"
 city: Santa Clara
-street: "El Camino Real"
-housenumber: 3740
+street: El Camino Real
+housenumber: "3740"
 phone: ""
 opening_hours: ""
 website: ""

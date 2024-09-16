@@ -1,11 +1,11 @@
 id: 510915196
-type: way
+type: node
 latitude: 40.58708
 longitude: -122.39362
 postcode: "96001"
 city: redding
-street: "California Street"
-housenumber: 1220
-phone: "+1 (530) 241-5444"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 07:30-15:00"
-website: "http://www.cascadepaint.com/"
+street: California Street
+housenumber: "1220"
+phone: +1 (530) 241-5444
+opening_hours: Mo-Fr 07:00-17:00; Sa 07:30-15:00
+website: http://www.cascadepaint.com/

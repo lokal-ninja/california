@@ -4,8 +4,8 @@ latitude: 33.88609
 longitude: -117.99504
 postcode: "90621"
 city: Buena Park
-street: "Beach Boulevard"
-housenumber: 5131
+street: Beach Boulevard
+housenumber: "5131"
 phone: "+17148688910"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-20:00"
-website: "https://daisous.com"
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-20:00
+website: https://daisous.com

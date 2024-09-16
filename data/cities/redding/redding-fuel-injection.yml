@@ -1,11 +1,11 @@
 id: 547222120
-type: way
+type: node
 latitude: 40.62148
 longitude: -122.36476
 postcode: "96003"
 city: Redding
-street: "Mountain View Drive"
-housenumber: 5540
+street: Mountain View Drive
+housenumber: "5540"
 phone: ""
 opening_hours: ""
 website: ""

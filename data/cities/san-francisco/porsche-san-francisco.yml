@@ -1,11 +1,11 @@
 id: 219783486
-type: way
+type: node
 latitude: 37.77168
 longitude: -122.40695
 postcode: "94103"
 city: San Francisco
-street: "8th Street"
-housenumber: 
+street: 8th Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

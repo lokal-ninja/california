@@ -1,11 +1,11 @@
 id: 31761715
-type: way
+type: node
 latitude: 37.77556
 longitude: -121.9853
 postcode: "94583"
 city: San Ramon
-street: "Crow Canyon Road"
-housenumber: 2750
-phone: "+1 925-838-0194"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/San-Ramon/CA/San-Ramon/94583/6604"
+street: Crow Canyon Road
+housenumber: "2750"
+phone: +1 925-838-0194
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/San-Ramon/CA/San-Ramon/94583/6604

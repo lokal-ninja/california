@@ -1,11 +1,11 @@
 id: 458946617
-type: way
+type: node
 latitude: 38.94951
 longitude: -122.62674
 postcode: "95422"
 city: Clearlake
-street: "Lakeshore Drive"
-housenumber: 15195
-phone: "+1 707-461-0607"
-opening_hours: "Mo-Fr 08:00-17:30; Sa 08:00-16:00"
-website: "https://bigotires.com"
+street: Lakeshore Drive
+housenumber: "15195"
+phone: +1 707-461-0607
+opening_hours: Mo-Fr 08:00-17:30; Sa 08:00-16:00
+website: https://bigotires.com

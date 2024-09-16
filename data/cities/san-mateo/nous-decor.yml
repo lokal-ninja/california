@@ -1,11 +1,11 @@
 id: 387064079
-type: way
+type: node
 latitude: 37.55423
 longitude: -122.3116
 postcode: "94402"
 city: San Mateo
-street: "South Boulevard"
-housenumber: 140
+street: South Boulevard
+housenumber: "140"
 phone: ""
 opening_hours: ""
-website: "https://www.nousdecor.com/"
+website: https://www.nousdecor.com/

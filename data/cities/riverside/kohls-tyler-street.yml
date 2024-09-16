@@ -1,11 +1,11 @@
 id: 849952552
-type: way
+type: node
 latitude: 33.90688
 longitude: -117.46101
 postcode: "92503"
 city: Riverside
-street: "Tyler Street"
-housenumber: 3520
-phone: "+1 951-353-2413"
-opening_hours: "Sa 08:00-23:00, Mo-Th 08:00-22:00, Su 09:00-21:00, Fr 09:00-23:00"
-website: "https://www.kohls.com/stores/ca/riverside-1390.shtml"
+street: Tyler Street
+housenumber: "3520"
+phone: +1 951-353-2413
+opening_hours: Sa 08:00-23:00, Mo-Th 08:00-22:00, Su 09:00-21:00, Fr 09:00-23:00
+website: https://www.kohls.com/stores/ca/riverside-1390.shtml

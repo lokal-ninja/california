@@ -1,11 +1,11 @@
 id: 1163710516
-type: way
+type: node
 latitude: 36.97738
 longitude: -121.90754
-postcode: "95003-3901"
+postcode: 95003-3901
 city: Aptos
-street: "Rancho Del Mar"
-housenumber: 72
-phone: "+1 831-662-0222"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-18:00"
+street: Rancho Del Mar
+housenumber: "72"
+phone: +1 831-662-0222
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-18:00
 website: ""

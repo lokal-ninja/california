@@ -1,11 +1,11 @@
 id: 262586269
-type: way
+type: node
 latitude: 37.78973
 longitude: -122.43982
 postcode: ""
 city: San Francisco
-street: "Clay Street"
-housenumber: 2843
+street: Clay Street
+housenumber: "2843"
 phone: ""
-opening_hours: "Tu 10:00-19:00; We 12:00-19:00; Th-Fr 10:00-19:00; Sa 10:00-17:00"
+opening_hours: Tu 10:00-19:00; We 12:00-19:00; Th-Fr 10:00-19:00; Sa 10:00-17:00
 website: ""

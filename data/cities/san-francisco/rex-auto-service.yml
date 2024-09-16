@@ -1,11 +1,11 @@
 id: 284846120
-type: way
+type: node
 latitude: 37.74286
 longitude: -122.489
 postcode: "94116"
 city: San Francisco
-street: "Taraval Street"
-housenumber: 2120
+street: Taraval Street
+housenumber: "2120"
 phone: ""
 opening_hours: ""
 website: ""

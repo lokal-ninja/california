@@ -1,11 +1,11 @@
 id: 104839809
-type: way
+type: node
 latitude: 37.32349
 longitude: -121.96777
 postcode: "95051"
 city: Santa Clara
-street: "Stevens Creek Boulevard"
-housenumber: 3737
-phone: "888-467-3530"
+street: Stevens Creek Boulevard
+housenumber: "3737"
+phone: 888-467-3530
 opening_hours: ""
-website: "http://www.stclairecadillac.com"
+website: http://www.stclairecadillac.com

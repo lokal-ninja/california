@@ -1,11 +1,11 @@
 id: 311696049
-type: way
+type: node
 latitude: 37.344
 longitude: -120.60271
 postcode: "95301"
 city: Atwater
-street: "Atwater Boulevard"
-housenumber: 587
+street: Atwater Boulevard
+housenumber: "587"
 phone: ""
 opening_hours: ""
 website: ""

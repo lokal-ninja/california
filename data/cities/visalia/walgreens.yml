@@ -1,11 +1,11 @@
 id: 344390811
-type: way
+type: node
 latitude: 36.32508
 longitude: -119.35066
 postcode: "93277"
 city: Visalia
-street: "West Cypress Avenue"
-housenumber: 5328
+street: West Cypress Avenue
+housenumber: "5328"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-5328+w+cypress+ave-visalia-ca-93277/id=6683"
+website: https://www.walgreens.com/locator/walgreens-5328+w+cypress+ave-visalia-ca-93277/id=6683

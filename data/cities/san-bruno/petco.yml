@@ -4,8 +4,8 @@ latitude: 37.63658
 longitude: -122.41873
 postcode: "94066"
 city: San Bruno
-street: "El Camino Real"
-housenumber: 1150
-phone: "+1 650-589-3757"
-opening_hours: "Mo-Tu 09:00-20:00; We-Th 09:00-18:00; Fr-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ca/sanbruno/pet-supplies-sanbruno-ca-1320.html"
+street: El Camino Real
+housenumber: "1150"
+phone: +1 650-589-3757
+opening_hours: Mo-Tu 09:00-20:00; We-Th 09:00-18:00; Fr-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/ca/sanbruno/pet-supplies-sanbruno-ca-1320.html

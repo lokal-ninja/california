@@ -1,11 +1,11 @@
 id: 101619532
-type: way
+type: node
 latitude: 33.69611
 longitude: -117.74209
 postcode: "92620"
 city: Irvine
-street: "Irvine Boulevard"
-housenumber: 6316
+street: Irvine Boulevard
+housenumber: "6316"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-6316+irvine+blvd-irvine-ca-92620/id=9883"
+website: https://www.walgreens.com/locator/walgreens-6316+irvine+blvd-irvine-ca-92620/id=9883

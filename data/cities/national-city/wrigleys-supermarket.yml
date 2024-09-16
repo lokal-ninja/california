@@ -1,11 +1,11 @@
 id: 761304451
-type: way
+type: node
 latitude: 32.69057
 longitude: -117.08623
 postcode: ""
 city: National City
-street: "North Euclid Avenue"
-housenumber: 34
+street: North Euclid Avenue
+housenumber: "34"
 phone: ""
 opening_hours: ""
-website: "http://wrigleyssupermarket.com/"
+website: http://wrigleyssupermarket.com/

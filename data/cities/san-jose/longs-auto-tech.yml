@@ -1,11 +1,11 @@
 id: 367185236
-type: way
+type: node
 latitude: 37.33734
 longitude: -121.84794
 postcode: "95122"
 city: San Jose
-street: "Knox Avenue"
-housenumber: 1011
+street: Knox Avenue
+housenumber: "1011"
 phone: ""
 opening_hours: ""
-website: "https://www.longsautotechsanjoseca.com/"
+website: https://www.longsautotechsanjoseca.com/

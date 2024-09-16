@@ -1,11 +1,11 @@
 id: 319292526
-type: way
+type: node
 latitude: 33.70413
 longitude: -117.99768
 postcode: "92647"
 city: Huntington Beach
-street: "Sampson Lane"
-housenumber: 17811
+street: Sampson Lane
+housenumber: "17811"
 phone: ""
 opening_hours: ""
-website: "https://www.chipfoose.com/"
+website: https://www.chipfoose.com/

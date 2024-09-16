@@ -4,8 +4,8 @@ latitude: 37.77646
 longitude: -122.43791
 postcode: "94117"
 city: San Francisco
-street: "Divisadero Street"
-housenumber: 736
+street: Divisadero Street
+housenumber: "736"
 phone: ""
-opening_hours: "Mo 07:00-21:00, Tu-Su 07:00-19:00"
-website: "http://themillsf.com/"
+opening_hours: Mo 07:00-21:00, Tu-Su 07:00-19:00
+website: http://themillsf.com/

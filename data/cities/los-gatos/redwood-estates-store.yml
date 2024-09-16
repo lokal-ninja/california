@@ -1,11 +1,11 @@
 id: 193306998
-type: way
+type: node
 latitude: 37.15856
 longitude: -121.9866
 postcode: "95030"
 city: Los Gatos
-street: "Broadway Road"
-housenumber: 20121
+street: Broadway Road
+housenumber: "20121"
 phone: ""
 opening_hours: ""
 website: ""

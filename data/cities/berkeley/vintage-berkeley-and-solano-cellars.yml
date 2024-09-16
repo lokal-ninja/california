@@ -4,8 +4,8 @@ latitude: 37.85744
 longitude: -122.25296
 postcode: ""
 city: Berkeley
-street: "College Avenue"
-housenumber: 2949
-phone: "(510) 549 - 9501"
-opening_hours: "Mo-Sa 11:00-20:00; Su 11:00-18:00"
-website: "https://www.vintageberkeley.com/"
+street: College Avenue
+housenumber: "2949"
+phone: (510) 549 - 9501
+opening_hours: Mo-Sa 11:00-20:00; Su 11:00-18:00
+website: https://www.vintageberkeley.com/

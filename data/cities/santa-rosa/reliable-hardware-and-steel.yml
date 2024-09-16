@@ -1,11 +1,11 @@
 id: 828285458
-type: way
+type: node
 latitude: 38.39715
 longitude: -122.72207
 postcode: "95407"
 city: Santa Rosa
-street: "Dutton Avenue"
-housenumber: 3240
+street: Dutton Avenue
+housenumber: "3240"
 phone: ""
-opening_hours: "Mo-Fr 07:30-16:00"
+opening_hours: Mo-Fr 07:30-16:00
 website: ""

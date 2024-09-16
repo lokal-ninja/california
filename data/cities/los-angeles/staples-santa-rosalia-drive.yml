@@ -1,11 +1,11 @@
 id: 296950267
-type: way
+type: node
 latitude: 34.00771
 longitude: -118.33717
 postcode: "90008"
 city: Los Angeles
-street: "Santa Rosalia Drive"
-housenumber: 3701
+street: Santa Rosalia Drive
+housenumber: "3701"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su 10:00-18:00"
-website: "https://stores.staples.com/ca/los-angeles/3701-w-santa-rosalia-dr"
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su 10:00-18:00
+website: https://stores.staples.com/ca/los-angeles/3701-w-santa-rosalia-dr

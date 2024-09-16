@@ -1,11 +1,11 @@
 id: 765933980
-type: way
+type: node
 latitude: 36.97858
 longitude: -120.07399
 postcode: "93638"
 city: Madera
-street: "Country Club Drive"
-housenumber: 1341
+street: Country Club Drive
+housenumber: "1341"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ca/madera/autoparts-2880.html"
+website: https://locations.oreillyauto.com/ca/madera/autoparts-2880.html

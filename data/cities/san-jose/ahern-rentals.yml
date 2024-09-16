@@ -1,11 +1,11 @@
 id: 760655292
-type: way
+type: node
 latitude: 37.29008
 longitude: -121.85082
 postcode: "95111"
 city: San Jose
-street: "Pullman Way"
-housenumber: 111
+street: Pullman Way
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

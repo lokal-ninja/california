@@ -1,11 +1,11 @@
 id: 370396442
-type: way
+type: node
 latitude: 37.33802
 longitude: -121.89534
 postcode: "95110"
 city: San Jose
-street: "West Saint James Street"
-housenumber: 151
+street: West Saint James Street
+housenumber: "151"
 phone: ""
 opening_hours: ""
-website: "http://headcasesj.com/"
+website: http://headcasesj.com/

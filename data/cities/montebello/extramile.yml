@@ -1,11 +1,11 @@
 id: 456619886
-type: way
+type: node
 latitude: 34.03797
 longitude: -118.09293
 postcode: "90640"
 city: Montebello
-street: "Paramount Boulevard"
-housenumber: 1600
+street: Paramount Boulevard
+housenumber: "1600"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 37.79135
 longitude: -122.40273
 postcode: "94104"
 city: San Francisco
-street: "Montgomery Street"
-housenumber: 231
-phone: "+1-415-397-0380"
+street: Montgomery Street
+housenumber: "231"
+phone: +1-415-397-0380
 opening_hours: ""
-website: "http://valdezoptometry.com"
+website: http://valdezoptometry.com

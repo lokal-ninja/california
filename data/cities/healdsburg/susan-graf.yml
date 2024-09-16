@@ -1,11 +1,11 @@
 id: 238038460
-type: way
+type: node
 latitude: 38.61001
 longitude: -122.87023
 postcode: ""
 city: Healdsburg
-street: "Matheson Street"
-housenumber: 100
+street: Matheson Street
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "https://www.susangraf.com/"
+website: https://www.susangraf.com/

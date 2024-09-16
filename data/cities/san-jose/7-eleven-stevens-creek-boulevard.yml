@@ -1,11 +1,11 @@
 id: 197945140
-type: way
+type: node
 latitude: 37.3228
 longitude: -121.96014
 postcode: "95117"
 city: San Jose
-street: "Stevens Creek Boulevard"
-housenumber: 3500
-phone: "+1 408-554-0794"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ca/san-jose/3500-stevens-creek-blvd-25834"
+street: Stevens Creek Boulevard
+housenumber: "3500"
+phone: +1 408-554-0794
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ca/san-jose/3500-stevens-creek-blvd-25834

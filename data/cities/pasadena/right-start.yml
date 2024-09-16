@@ -4,8 +4,8 @@ latitude: 34.13942
 longitude: -118.13211
 postcode: ""
 city: Pasadena
-street: "South Lake Avenue"
-housenumber: 370
-phone: "(626) 585-8900"
-opening_hours: "Mo-Sa 10:00-18:00; Su 11:00-17:00"
-website: "http://www.rightstart.com/"
+street: South Lake Avenue
+housenumber: "370"
+phone: (626) 585-8900
+opening_hours: Mo-Sa 10:00-18:00; Su 11:00-17:00
+website: http://www.rightstart.com/

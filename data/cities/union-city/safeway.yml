@@ -1,11 +1,11 @@
 id: 191000610
-type: way
+type: node
 latitude: 37.5872
 longitude: -122.01922
 postcode: "94587"
 city: Union City
-street: "Decoto Road"
-housenumber: 1790
-phone: "+1 510-429-9090"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/ca/union-city/1790-decoto-rd.html"
+street: Decoto Road
+housenumber: "1790"
+phone: +1 510-429-9090
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/ca/union-city/1790-decoto-rd.html

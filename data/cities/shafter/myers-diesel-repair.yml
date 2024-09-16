@@ -1,11 +1,11 @@
 id: 1185800560
-type: way
+type: node
 latitude: 35.4481
 longitude: -119.25353
 postcode: "93263"
 city: Shafter
-street: "Enos Lane"
-housenumber: 9606
-phone: "661-615-1200"
+street: Enos Lane
+housenumber: "9606"
+phone: 661-615-1200
 opening_hours: ""
-website: "https://myersdiesel.com/"
+website: https://myersdiesel.com/

@@ -1,11 +1,11 @@
 id: 207977152
-type: way
+type: node
 latitude: 37.28948
 longitude: -122.03192
 postcode: "95070"
 city: Saratoga
-street: "Saratoga-Sunnyvale Road"
-housenumber: 12304
+street: Saratoga-Sunnyvale Road
+housenumber: "12304"
 phone: ""
 opening_hours: ""
 website: ""

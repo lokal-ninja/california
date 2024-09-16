@@ -1,11 +1,11 @@
 id: 985002411
-type: way
+type: node
 latitude: 33.94346
 longitude: -117.45635
 postcode: "92503"
 city: Riverside
-street: "Arlington Avenue"
-housenumber: 7600
+street: Arlington Avenue
+housenumber: "7600"
 phone: ""
 opening_hours: ""
 website: ""

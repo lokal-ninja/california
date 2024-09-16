@@ -1,11 +1,11 @@
 id: 402106259
-type: way
+type: node
 latitude: 33.1404
 longitude: -117.17448
 postcode: "92069"
 city: San Marcos
-street: "San Marcos Boulevard"
-housenumber: 550
-phone: "+1 760-510-2623"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/San-Marcos/CA/San-Marcos/92069/6656"
+street: San Marcos Boulevard
+housenumber: "550"
+phone: +1 760-510-2623
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/San-Marcos/CA/San-Marcos/92069/6656

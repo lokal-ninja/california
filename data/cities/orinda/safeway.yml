@@ -1,11 +1,11 @@
 id: 31424109
-type: way
+type: node
 latitude: 37.88411
 longitude: -122.19082
 postcode: "94563"
 city: Orinda
-street: "Camino Sobrante"
-housenumber: 2
-phone: "+1 925-254-8792"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/ca/orinda/2-camino-sobrante.html"
+street: Camino Sobrante
+housenumber: "2"
+phone: +1 925-254-8792
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/ca/orinda/2-camino-sobrante.html

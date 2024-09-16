@@ -1,11 +1,11 @@
 id: 219058156
-type: way
+type: node
 latitude: 37.46805
 longitude: -122.43081
-postcode: "94019-1706"
+postcode: 94019-1706
 city: Half Moon Bay
-street: "San Mateo Road"
-housenumber: 196
-phone: "+1 650-726-3215"
+street: San Mateo Road
+housenumber: "196"
+phone: +1 650-726-3215
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/half-moon-bay/196-san-mateo-rd-21480"
+website: https://www.7-eleven.com/locations/ca/half-moon-bay/196-san-mateo-rd-21480

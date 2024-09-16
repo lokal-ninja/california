@@ -1,11 +1,11 @@
 id: 470699646
-type: way
+type: node
 latitude: 34.14131
 longitude: -118.00656
 postcode: "91016"
 city: Monrovia
-street: "West Huntington Drive"
-housenumber: 407
+street: West Huntington Drive
+housenumber: "407"
 phone: ""
 opening_hours: ""
 website: ""

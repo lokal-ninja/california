@@ -1,11 +1,11 @@
 id: 166318434
-type: way
+type: node
 latitude: 37.46774
 longitude: -122.2078
 postcode: "94063"
 city: Redwood City
-street: "5th Avenue"
-housenumber: 46
-phone: "(650) 701-1801"
+street: 5th Avenue
+housenumber: "46"
+phone: (650) 701-1801
 opening_hours: ""
-website: "https://www.chavezsuper.com/"
+website: https://www.chavezsuper.com/

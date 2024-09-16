@@ -1,11 +1,11 @@
 id: 99823595
-type: way
+type: node
 latitude: 38.53077
 longitude: -121.95703
 postcode: "95694"
 city: Winters
-street: "East Grant Avenue"
-housenumber: 999
+street: East Grant Avenue
+housenumber: "999"
 phone: ""
 opening_hours: ""
 website: ""

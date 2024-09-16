@@ -1,11 +1,11 @@
 id: 28239309
-type: way
+type: node
 latitude: 36.86285
 longitude: -121.40269
-postcode: "95023-3069"
+postcode: 95023-3069
 city: Hollister
-street: "Gateway Drive"
-housenumber: 300
+street: Gateway Drive
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

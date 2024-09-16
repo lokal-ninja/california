@@ -1,11 +1,11 @@
 id: 275894544
-type: way
+type: node
 latitude: 34.1063
 longitude: -117.58959
 postcode: "91730"
 city: Rancho Cucamonga
-street: "Foothill Boulevard"
-housenumber: 9889
+street: Foothill Boulevard
+housenumber: "9889"
 phone: ""
 opening_hours: ""
-website: "https://www.compedgebikes.com/"
+website: https://www.compedgebikes.com/

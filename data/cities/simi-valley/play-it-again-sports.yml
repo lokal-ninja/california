@@ -4,8 +4,8 @@ latitude: 34.27807
 longitude: -118.73997
 postcode: "93065"
 city: Simi Valley
-street: "Cochran Street"
-housenumber: 2880
-phone: "+1 805-520-6053"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-17:00"
-website: "https://www.playitagainsports.com/locations/simi-valley-ca"
+street: Cochran Street
+housenumber: "2880"
+phone: +1 805-520-6053
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-17:00
+website: https://www.playitagainsports.com/locations/simi-valley-ca

@@ -1,11 +1,11 @@
 id: 234932371
-type: way
+type: node
 latitude: 37.38009
 longitude: -122.07055
 postcode: "94040"
 city: Mountain View
-street: "East El Camino Real"
-housenumber: 170
+street: East El Camino Real
+housenumber: "170"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ca/mountainview/autoparts-2591.html"
+website: https://locations.oreillyauto.com/ca/mountainview/autoparts-2591.html

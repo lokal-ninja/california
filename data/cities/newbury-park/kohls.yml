@@ -1,11 +1,11 @@
 id: 381143112
-type: way
+type: node
 latitude: 34.1825
 longitude: -118.92314
 postcode: "91320"
 city: Newbury Park
-street: "Newbury Road"
-housenumber: 1960
-phone: "+1 805-499-8061"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/ca/newburypark-630.shtml"
+street: Newbury Road
+housenumber: "1960"
+phone: +1 805-499-8061
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/ca/newburypark-630.shtml

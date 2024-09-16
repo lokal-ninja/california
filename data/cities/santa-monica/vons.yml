@@ -1,11 +1,11 @@
 id: 133127903
-type: way
+type: node
 latitude: 34.02644
 longitude: -118.48951
 postcode: "90403"
 city: Santa Monica
-street: "Wilshire Boulevard"
-housenumber: 1311
-phone: "+1 310-394-1414"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.vons.com/ca/santa-monica/1311-wilshire-blvd.html"
+street: Wilshire Boulevard
+housenumber: "1311"
+phone: +1 310-394-1414
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.vons.com/ca/santa-monica/1311-wilshire-blvd.html

@@ -1,11 +1,11 @@
 id: 592518711
-type: way
+type: node
 latitude: 34.20076
 longitude: -118.19005
 postcode: "91011"
 city: La Canada
-street: "Foothill Boulevard"
-housenumber: 521
-phone: "+1 818-790-0584"
-opening_hours: "Mo-Su 05:00-01:00"
-website: "https://www.ralphs.com/stores/grocery/ca/la-canada/la-canada/703/00055"
+street: Foothill Boulevard
+housenumber: "521"
+phone: +1 818-790-0584
+opening_hours: Mo-Su 05:00-01:00
+website: https://www.ralphs.com/stores/grocery/ca/la-canada/la-canada/703/00055

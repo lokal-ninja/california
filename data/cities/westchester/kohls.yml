@@ -1,11 +1,11 @@
 id: 420984118
-type: way
+type: node
 latitude: 33.9582
 longitude: -118.39739
 postcode: "90045"
 city: Westchester
-street: "South Sepulveda Boulevard"
-housenumber: 8739
-phone: "+1 310-410-0058"
-opening_hours: "Su-Th 09:00-21:00; Fr-Sa 09:00-22:00"
-website: "https://www.kohls.com/stores/ca/westchester-1385.shtml"
+street: South Sepulveda Boulevard
+housenumber: "8739"
+phone: +1 310-410-0058
+opening_hours: Su-Th 09:00-21:00; Fr-Sa 09:00-22:00
+website: https://www.kohls.com/stores/ca/westchester-1385.shtml

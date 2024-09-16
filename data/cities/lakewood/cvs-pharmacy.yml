@@ -1,11 +1,11 @@
 id: 404911482
-type: way
+type: node
 latitude: 33.85808
 longitude: -118.10642
 postcode: "90713"
 city: Lakewood
-street: "South Street"
-housenumber: 6510
+street: South Street
+housenumber: "6510"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/lakewood-ca-pharmacies/6510-south-st-lakewood-ca-90713/storeid=8844"
+website: https://www.cvs.com/store-locator/lakewood-ca-pharmacies/6510-south-st-lakewood-ca-90713/storeid=8844

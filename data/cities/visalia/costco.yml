@@ -1,11 +1,11 @@
 id: 491663297
-type: way
+type: node
 latitude: 36.29386
 longitude: -119.30639
 postcode: "93277"
 city: Visalia
-street: "West Cameron Avenue"
-housenumber: 1405
-phone: "+1 559-735-2400"
-opening_hours: "Mo-Fr 09:00-20:30; Sa-Su 09:00-19:00"
-website: "https://www.costco.com/warehouse-locations/visalia-ca-1017.html"
+street: West Cameron Avenue
+housenumber: "1405"
+phone: +1 559-735-2400
+opening_hours: Mo-Fr 09:00-20:30; Sa-Su 09:00-19:00
+website: https://www.costco.com/warehouse-locations/visalia-ca-1017.html

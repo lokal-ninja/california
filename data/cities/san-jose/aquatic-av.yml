@@ -1,11 +1,11 @@
 id: 976050805
-type: way
+type: node
 latitude: 37.35874
 longitude: -121.89981
 postcode: "95112"
 city: San Jose
-street: "Kinney Drive"
-housenumber: 282
+street: Kinney Drive
+housenumber: "282"
 phone: ""
 opening_hours: ""
 website: ""

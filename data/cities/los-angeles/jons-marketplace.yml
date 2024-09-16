@@ -1,11 +1,11 @@
 id: 425666713
-type: way
+type: node
 latitude: 34.06931
 longitude: -118.29603
 postcode: "90020"
 city: Los Angeles
-street: "West 3rd Street"
-housenumber: 3667
+street: West 3rd Street
+housenumber: "3667"
 phone: ""
 opening_hours: ""
 website: ""

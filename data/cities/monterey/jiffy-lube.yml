@@ -1,11 +1,11 @@
 id: 515700032
-type: way
+type: node
 latitude: 36.59336
 longitude: -121.89265
 postcode: "93940"
 city: Monterey
-street: "Abrego Street"
-housenumber: 865
+street: Abrego Street
+housenumber: "865"
 phone: ""
 opening_hours: ""
 website: ""

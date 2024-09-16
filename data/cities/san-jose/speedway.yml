@@ -1,11 +1,11 @@
 id: 357150467
-type: way
+type: node
 latitude: 37.35175
 longitude: -121.86934
 postcode: "95116"
 city: San Jose
-street: "East Julian Street"
-housenumber: 1256
+street: East Julian Street
+housenumber: "1256"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/CA/San-Jose/1256-E-JULIAN-ST"
+website: https://www.speedway.com/locations/CA/San-Jose/1256-E-JULIAN-ST

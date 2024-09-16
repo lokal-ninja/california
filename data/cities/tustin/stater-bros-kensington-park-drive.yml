@@ -1,11 +1,11 @@
 id: 1080374015
-type: way
+type: node
 latitude: 33.71129
 longitude: -117.81666
 postcode: "92782"
 city: Tustin
-street: "Kensington Park Drive"
-housenumber: 15150
-phone: "+1 657-235-6641"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.staterbros.com/stores/198"
+street: Kensington Park Drive
+housenumber: "15150"
+phone: +1 657-235-6641
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.staterbros.com/stores/198

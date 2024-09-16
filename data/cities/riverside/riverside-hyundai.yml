@@ -1,11 +1,11 @@
 id: 529836042
-type: way
+type: node
 latitude: 33.9293
 longitude: -117.41322
 postcode: "92504"
 city: Riverside
-street: "Auto Drive"
-housenumber: 8001
-phone: "+1-951-643-5065"
+street: Auto Drive
+housenumber: "8001"
+phone: +1-951-643-5065
 opening_hours: ""
-website: "https://www.riversidehyundai.net/"
+website: https://www.riversidehyundai.net/

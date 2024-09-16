@@ -1,11 +1,11 @@
 id: 135841800
-type: way
+type: node
 latitude: 37.83875
 longitude: -122.29166
 postcode: "94608"
 city: Emeryville
-street: "Horton Street"
-housenumber: 5757
-phone: "510-653-5181"
+street: Horton Street
+housenumber: "5757"
+phone: 510-653-5181
 opening_hours: ""
-website: "https://www.zentnercollection.com/"
+website: https://www.zentnercollection.com/

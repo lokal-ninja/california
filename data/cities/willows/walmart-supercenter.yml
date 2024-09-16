@@ -1,11 +1,11 @@
 id: 28825269
-type: way
+type: node
 latitude: 39.52544
 longitude: -122.21845
 postcode: "95988"
 city: Willows
-street: "North Airport Road"
-housenumber: 470
-phone: "+1 530-934-2054"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2053/willows-ca/whats-new"
+street: North Airport Road
+housenumber: "470"
+phone: +1 530-934-2054
+opening_hours: 24/7
+website: https://www.walmart.com/store/2053/willows-ca/whats-new

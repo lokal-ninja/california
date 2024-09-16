@@ -1,11 +1,11 @@
 id: 237994262
-type: way
+type: node
 latitude: 38.61151
 longitude: -122.8698
 postcode: ""
 city: Healdsburg
-street: "Center Street"
-housenumber: 303
+street: Center Street
+housenumber: "303"
 phone: ""
 opening_hours: ""
-website: "https://www.gallerylulo.com/"
+website: https://www.gallerylulo.com/

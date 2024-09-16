@@ -1,11 +1,11 @@
 id: 59593253
-type: way
+type: node
 latitude: 35.38674
 longitude: -119.09487
 postcode: "93312"
 city: Bakersfield
-street: "Rosedale Highway"
-housenumber: 8400
-phone: "+1 661-588-2097"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/2557/bakersfield-ca/whats-new"
+street: Rosedale Highway
+housenumber: "8400"
+phone: +1 661-588-2097
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/2557/bakersfield-ca/whats-new

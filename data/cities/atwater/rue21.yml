@@ -1,11 +1,11 @@
 id: 311723238
-type: way
+type: node
 latitude: 37.34204
 longitude: -120.6135
 postcode: "95301"
 city: Atwater
-street: "Commerce Avenue"
-housenumber: 1260
+street: Commerce Avenue
+housenumber: "1260"
 phone: ""
 opening_hours: ""
 website: ""

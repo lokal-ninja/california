@@ -1,11 +1,11 @@
 id: 107523545
-type: way
+type: node
 latitude: 41.49441
 longitude: -120.54317
 postcode: "96101"
 city: Alturas
-street: "North Main Street"
-housenumber: 1077
+street: North Main Street
+housenumber: "1077"
 phone: ""
 opening_hours: ""
 website: ""

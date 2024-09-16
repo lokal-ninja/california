@@ -1,11 +1,11 @@
 id: 123593126
-type: way
+type: node
 latitude: 34.091
 longitude: -118.14743
 postcode: "91801"
 city: Alhambra
-street: "Main Street"
-housenumber: 2120
-phone: "+1 626-308-3290"
-opening_hours: "Mo-Su 08:00-00:00"
-website: "https://www.target.com/sl/alhambra/184"
+street: Main Street
+housenumber: "2120"
+phone: +1 626-308-3290
+opening_hours: Mo-Su 08:00-00:00
+website: https://www.target.com/sl/alhambra/184

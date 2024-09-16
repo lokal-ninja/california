@@ -1,11 +1,11 @@
 id: 131467240
-type: way
+type: node
 latitude: 37.89572
 longitude: -122.06005
 postcode: "94596"
 city: Walnut Creek
-street: "South Main Street"
-housenumber: 1245
-phone: "+1 925-945-8307"
+street: South Main Street
+housenumber: "1245"
+phone: +1 925-945-8307
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/ca/walnut-creek/502050/"
+website: https://www.mattressfirm.com/en-us/stores/ca/walnut-creek/502050/

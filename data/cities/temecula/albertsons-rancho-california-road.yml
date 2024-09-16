@@ -1,11 +1,11 @@
 id: 312523091
-type: way
+type: node
 latitude: 33.50995
 longitude: -117.12675
 postcode: "92591"
 city: Temecula
-street: "Rancho California Road"
-housenumber: 30530
-phone: "+1 951-694-0244"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.albertsons.com/ca/temecula/30530-rancho-california-rd.html"
+street: Rancho California Road
+housenumber: "30530"
+phone: +1 951-694-0244
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.albertsons.com/ca/temecula/30530-rancho-california-rd.html

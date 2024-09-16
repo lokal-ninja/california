@@ -4,8 +4,8 @@ latitude: 37.79461
 longitude: -122.39935
 postcode: "94111"
 city: San Francisco
-street: "Embarcadero Center"
-housenumber: 1
-phone: "+1 415 2373579"
-opening_hours: "Mo-Fr 11:00-19:00"
-website: "https://www.plantconnectionsf.com/"
+street: Embarcadero Center
+housenumber: "1"
+phone: +1 415 2373579
+opening_hours: Mo-Fr 11:00-19:00
+website: https://www.plantconnectionsf.com/

@@ -1,11 +1,11 @@
 id: 1289427376
-type: way
+type: node
 latitude: 37.63544
 longitude: -120.9971
 postcode: "95354"
 city: Modesto
-street: "9th Street"
-housenumber: 601
-phone: "01-209-222-7677"
+street: 9th Street
+housenumber: "601"
+phone: 01-209-222-7677
 opening_hours: ""
-website: "https://www.citygearmodesto.com"
+website: https://www.citygearmodesto.com

@@ -1,11 +1,11 @@
 id: 993796394
-type: way
+type: node
 latitude: 32.79541
 longitude: -116.95714
 postcode: "92020"
 city: El Cajon
-street: "East Main Street"
-housenumber: 410
-phone: "+1 619-440-7117"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ca/el-cajon/410-e.-main-st.-21788"
+street: East Main Street
+housenumber: "410"
+phone: +1 619-440-7117
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ca/el-cajon/410-e.-main-st.-21788

@@ -1,11 +1,11 @@
 id: 548208877
-type: way
+type: node
 latitude: 33.62207
 longitude: -117.93784
 postcode: "92663"
 city: Newport Beach
-street: "West Coast Highway"
-housenumber: 4509
-phone: "+1 949 402 9372"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00; Su 10:00-17:00"
-website: "https://www.pinknailsnpb.com/"
+street: West Coast Highway
+housenumber: "4509"
+phone: +1 949 402 9372
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00; Su 10:00-17:00
+website: https://www.pinknailsnpb.com/

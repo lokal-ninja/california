@@ -1,11 +1,11 @@
 id: 338531405
-type: way
+type: node
 latitude: 39.5188
 longitude: -122.19265
 postcode: "95988"
 city: Willows
-street: "East Laurel Street"
-housenumber: 111
-phone: "+1-530-934-8866"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-16:00"
-website: "https://www.closelumber.com"
+street: East Laurel Street
+housenumber: "111"
+phone: +1-530-934-8866
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-16:00
+website: https://www.closelumber.com

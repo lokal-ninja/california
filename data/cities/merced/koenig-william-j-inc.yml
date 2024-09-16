@@ -1,11 +1,11 @@
 id: 311711123
-type: way
+type: node
 latitude: 37.30456
 longitude: -120.48906
 postcode: "95340"
 city: Merced
-street: "P Street"
-housenumber: 1725
+street: P Street
+housenumber: "1725"
 phone: ""
 opening_hours: ""
 website: ""

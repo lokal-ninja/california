@@ -1,11 +1,11 @@
 id: 318655758
-type: way
+type: node
 latitude: 35.36894
 longitude: -120.8541
 postcode: "93442"
 city: Morro Bay
-street: "Front Street"
-housenumber: 1108
+street: Front Street
+housenumber: "1108"
 phone: ""
 opening_hours: ""
 website: ""

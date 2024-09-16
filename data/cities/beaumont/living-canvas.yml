@@ -1,11 +1,11 @@
 id: 683647521
-type: way
+type: node
 latitude: 33.92965
 longitude: -116.97142
 postcode: "92223"
 city: Beaumont
-street: "East 6th Street"
-housenumber: 800
+street: East 6th Street
+housenumber: "800"
 phone: ""
 opening_hours: ""
 website: ""

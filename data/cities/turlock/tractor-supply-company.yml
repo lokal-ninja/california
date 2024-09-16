@@ -1,11 +1,11 @@
 id: 460792388
-type: way
+type: node
 latitude: 37.49453
 longitude: -120.87302
 postcode: "95380"
 city: Turlock
-street: "North Walnut Road"
-housenumber: 201
-phone: "+1 209-664-0695"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: North Walnut Road
+housenumber: "201"
+phone: +1 209-664-0695
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

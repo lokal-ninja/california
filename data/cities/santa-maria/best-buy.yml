@@ -1,11 +1,11 @@
 id: 202589650
-type: way
+type: node
 latitude: 34.91788
 longitude: -120.41929
 postcode: "93455"
 city: Santa Maria
-street: "South Bradley Road"
-housenumber: 2326
-phone: "+1 805-922-6195"
+street: South Bradley Road
+housenumber: "2326"
+phone: +1 805-922-6195
 opening_hours: ""
-website: "https://stores.bestbuy.com/ca/santa-maria/2326-s-bradley-rd-192.html"
+website: https://stores.bestbuy.com/ca/santa-maria/2326-s-bradley-rd-192.html

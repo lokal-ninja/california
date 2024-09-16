@@ -1,11 +1,11 @@
 id: 977969337
-type: way
+type: node
 latitude: 37.96579
 longitude: -122.5132
 postcode: "94901"
 city: San Rafael
-street: "Harbor Street"
-housenumber: 26
+street: Harbor Street
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

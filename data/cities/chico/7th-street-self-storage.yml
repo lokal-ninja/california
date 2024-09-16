@@ -1,11 +1,11 @@
 id: 1296513162
-type: way
+type: node
 latitude: 39.71979
 longitude: -121.84721
 postcode: "95928"
 city: Chico
-street: "West 7th Street"
-housenumber: 1228
+street: West 7th Street
+housenumber: "1228"
 phone: ""
-opening_hours: "Mo-Su 6:00-19:00"
+opening_hours: Mo-Su 6:00-19:00
 website: ""

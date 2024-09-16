@@ -4,8 +4,8 @@ latitude: 37.68138
 longitude: -121.76849
 postcode: ""
 city: Livermore
-street: "South J Street"
-housenumber: 144
-phone: "+1 925-373-6050"
-opening_hours: "Mo 12:00-16:00; Tu-Fr 11:00-18:00; Su 12:00-16:00"
-website: "http://www.igotpurses.com/"
+street: South J Street
+housenumber: "144"
+phone: +1 925-373-6050
+opening_hours: Mo 12:00-16:00; Tu-Fr 11:00-18:00; Su 12:00-16:00
+website: http://www.igotpurses.com/

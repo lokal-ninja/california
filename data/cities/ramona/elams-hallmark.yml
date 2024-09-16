@@ -4,8 +4,8 @@ latitude: 33.03921
 longitude: -116.87587
 postcode: "92065"
 city: Ramona
-street: "Main Street"
-housenumber: 1423
+street: Main Street
+housenumber: "1423"
 phone: "+17607889107"
-opening_hours: "Mo-Sa 10:00-18:00, Su 11:00-16:00"
+opening_hours: Mo-Sa 10:00-18:00, Su 11:00-16:00
 website: ""

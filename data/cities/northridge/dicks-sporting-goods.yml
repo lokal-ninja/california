@@ -1,11 +1,11 @@
 id: 431116119
-type: way
+type: node
 latitude: 34.23705
 longitude: -118.55616
 postcode: "91324"
 city: Northridge
-street: "Tampa Avenue"
-housenumber: 9301
-phone: "+1 747-235-5005"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/ca/northridge/1347/"
+street: Tampa Avenue
+housenumber: "9301"
+phone: +1 747-235-5005
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/ca/northridge/1347/

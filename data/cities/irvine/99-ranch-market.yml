@@ -1,11 +1,11 @@
 id: 184681574
-type: way
+type: node
 latitude: 33.69081
 longitude: -117.76965
 postcode: "92604"
 city: Irvine
-street: "Walnut Avenue"
-housenumber: 5402
+street: Walnut Avenue
+housenumber: "5402"
 phone: ""
 opening_hours: ""
 website: ""

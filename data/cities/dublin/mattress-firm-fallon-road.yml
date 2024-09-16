@@ -1,11 +1,11 @@
 id: 400898779
-type: way
+type: node
 latitude: 37.70508
 longitude: -121.85196
 postcode: "94568"
 city: Dublin
-street: "Fallon Road"
-housenumber: 3850
-phone: "+1 925-905-8963"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://www.mattressfirm.com/en-us/stores/ca/dublin/502107/"
+street: Fallon Road
+housenumber: "3850"
+phone: +1 925-905-8963
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
+website: https://www.mattressfirm.com/en-us/stores/ca/dublin/502107/

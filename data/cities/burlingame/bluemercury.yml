@@ -1,11 +1,11 @@
 id: 237713307
-type: way
+type: node
 latitude: 37.57818
 longitude: -122.34745
 postcode: ""
 city: Burlingame
-street: "Burlingame Avenue"
-housenumber: 1319
+street: Burlingame Avenue
+housenumber: "1319"
 phone: ""
 opening_hours: ""
 website: ""

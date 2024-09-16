@@ -1,11 +1,11 @@
 id: 704442740
-type: way
+type: node
 latitude: 37.50053
 longitude: -121.97011
 postcode: "94538"
 city: Fremont
-street: "Pacific Commons Boulevard"
-housenumber: 43923
-phone: "+1 510-897-6475"
-opening_hours: "Mo-Sa 09:00-21:30; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/ca/fremont/1170/"
+street: Pacific Commons Boulevard
+housenumber: "43923"
+phone: +1 510-897-6475
+opening_hours: Mo-Sa 09:00-21:30; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/ca/fremont/1170/

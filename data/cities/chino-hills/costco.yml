@@ -1,11 +1,11 @@
 id: 737473140
-type: way
+type: node
 latitude: 34.01531
 longitude: -117.74114
 postcode: "91709"
 city: Chino Hills
-street: "Peyton Drive"
-housenumber: 13111
-phone: "+1 909-464-2900"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/chino-hills-ca-473.html"
+street: Peyton Drive
+housenumber: "13111"
+phone: +1 909-464-2900
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/chino-hills-ca-473.html

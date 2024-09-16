@@ -1,11 +1,11 @@
 id: 1287527898
-type: way
+type: node
 latitude: 37.62717
 longitude: -121.01198
 postcode: "95351"
 city: Modesto
-street: "Paradise Road"
-housenumber: 408
+street: Paradise Road
+housenumber: "408"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 571743802
-type: way
+type: node
 latitude: 36.8784
 longitude: -121.3994
 postcode: ""
 city: Hollister
-street: "San Felipe Road"
-housenumber: 1571
+street: San Felipe Road
+housenumber: "1571"
 phone: ""
 opening_hours: ""
 website: ""

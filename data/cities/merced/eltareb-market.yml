@@ -1,11 +1,11 @@
 id: 311695829
-type: way
+type: node
 latitude: 37.32104
 longitude: -120.52793
 postcode: "95348"
 city: Merced
-street: "North Beachwood Drive"
-housenumber: 2272
+street: North Beachwood Drive
+housenumber: "2272"
 phone: ""
 opening_hours: ""
 website: ""

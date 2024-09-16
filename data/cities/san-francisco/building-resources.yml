@@ -4,8 +4,8 @@ latitude: 37.74567
 longitude: -122.38527
 postcode: "94124"
 city: San Francisco
-street: "Amador Street"
-housenumber: 701
+street: Amador Street
+housenumber: "701"
 phone: "4152857814"
-opening_hours: "09:00-16:30"
-website: "https://www.buildingresources.org/"
+opening_hours: 09:00-16:30
+website: https://www.buildingresources.org/

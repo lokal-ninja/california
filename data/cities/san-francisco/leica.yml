@@ -4,8 +4,8 @@ latitude: 37.7905
 longitude: -122.4052
 postcode: "94108"
 city: San Francisco
-street: "Bush Street"
-housenumber: 463
-phone: "(415) 801-5066"
-opening_hours: "Mo-Fr 10:00-06:00, Sa 10:00-16:00"
-website: "https://www.leicastoresf.com/"
+street: Bush Street
+housenumber: "463"
+phone: (415) 801-5066
+opening_hours: Mo-Fr 10:00-06:00, Sa 10:00-16:00
+website: https://www.leicastoresf.com/

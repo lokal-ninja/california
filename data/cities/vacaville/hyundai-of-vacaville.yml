@@ -1,11 +1,11 @@
 id: 253079068
-type: way
+type: node
 latitude: 38.37969
 longitude: -121.94315
 postcode: "95687"
 city: Vacaville
-street: "Orange Drive"
-housenumber: 641
+street: Orange Drive
+housenumber: "641"
 phone: ""
 opening_hours: ""
 website: ""

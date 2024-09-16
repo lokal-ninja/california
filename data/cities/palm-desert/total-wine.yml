@@ -1,11 +1,11 @@
 id: 227871532
-type: way
+type: node
 latitude: 33.72799
 longitude: -116.4042
 postcode: "92260"
 city: Palm Desert
-street: "Highway 111"
-housenumber: 72339
-phone: "+1 760-346-2029"
-opening_hours: "09:00-21:00"
-website: "https://www.totalwine.com/store-info/1112"
+street: Highway 111
+housenumber: "72339"
+phone: +1 760-346-2029
+opening_hours: 09:00-21:00
+website: https://www.totalwine.com/store-info/1112

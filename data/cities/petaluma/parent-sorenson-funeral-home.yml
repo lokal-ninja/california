@@ -1,11 +1,11 @@
 id: 330700887
-type: way
+type: node
 latitude: 38.24434
 longitude: -122.64933
 postcode: ""
 city: Petaluma
-street: "Keokuk Street"
-housenumber: 850
+street: Keokuk Street
+housenumber: "850"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 132985552
-type: way
+type: node
 latitude: 32.76098
 longitude: -117.06533
 postcode: "92115"
 city: San Diego
-street: "El Cajon Boulevard"
-housenumber: 6155
-phone: "+1 619-583-4142"
-opening_hours: "06:00-01:00"
-website: "https://local.vons.com/ca/san-diego-2352.html"
+street: El Cajon Boulevard
+housenumber: "6155"
+phone: +1 619-583-4142
+opening_hours: 06:00-01:00
+website: https://local.vons.com/ca/san-diego-2352.html

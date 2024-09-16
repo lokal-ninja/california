@@ -1,11 +1,11 @@
 id: 1275944040
-type: way
+type: node
 latitude: 36.79102
 longitude: -119.82436
 postcode: "93705"
 city: Fresno
-street: "North West Avenue"
-housenumber: 4040
+street: North West Avenue
+housenumber: "4040"
 phone: "+15592302629"
-opening_hours: "Mo-Th 10:00-21:30; Fr-Sa 09:30-21:30; Su 10:00-21:00"
-website: "https://www.ddsdiscounts.com/"
+opening_hours: Mo-Th 10:00-21:30; Fr-Sa 09:30-21:30; Su 10:00-21:00
+website: https://www.ddsdiscounts.com/

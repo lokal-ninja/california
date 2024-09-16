@@ -1,11 +1,11 @@
 id: 39019266
-type: way
+type: node
 latitude: 37.3604
 longitude: -121.89803
 postcode: "95112"
 city: San Jose
-street: "North 7th Street"
-housenumber: 1080
+street: North 7th Street
+housenumber: "1080"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 256934809
-type: way
+type: node
 latitude: 37.47561
 longitude: -120.8248
 postcode: "95380"
 city: Turlock
-street: "Paulson Road"
-housenumber: 1900
+street: Paulson Road
+housenumber: "1900"
 phone: ""
 opening_hours: ""
-website: "http://www.valleydistinc.com/"
+website: http://www.valleydistinc.com/

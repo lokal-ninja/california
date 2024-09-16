@@ -4,8 +4,8 @@ latitude: 37.76201
 longitude: -121.95302
 postcode: "94583"
 city: San Ramon
-street: "Market Place"
-housenumber: 1041
+street: Market Place
+housenumber: "1041"
 phone: ""
-opening_hours: "Mo-Fr 09:00-21:00; Sa,Su 09:00-19:00"
-website: "https://shop.sportsbasement.com/"
+opening_hours: Mo-Fr 09:00-21:00; Sa,Su 09:00-19:00
+website: https://shop.sportsbasement.com/

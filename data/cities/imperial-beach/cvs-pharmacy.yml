@@ -1,11 +1,11 @@
 id: 1272664938
-type: way
+type: node
 latitude: 32.5842
 longitude: -117.11545
 postcode: "91932"
 city: Imperial Beach
-street: "Palm Avenue"
-housenumber: 800
+street: Palm Avenue
+housenumber: "800"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/imperial-beach-ca-pharmacies/800-palm-ave-imperial-beach-ca-91932/storeid=9120"
+website: https://www.cvs.com/store-locator/imperial-beach-ca-pharmacies/800-palm-ave-imperial-beach-ca-91932/storeid=9120

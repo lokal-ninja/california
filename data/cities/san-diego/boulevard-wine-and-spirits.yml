@@ -1,11 +1,11 @@
 id: 31810671
-type: way
+type: node
 latitude: 32.75498
 longitude: -117.10366
 postcode: "92105"
 city: San Diego
-street: "El Cajon Boulevard"
-housenumber: 4245
+street: El Cajon Boulevard
+housenumber: "4245"
 phone: ""
 opening_hours: ""
 website: ""

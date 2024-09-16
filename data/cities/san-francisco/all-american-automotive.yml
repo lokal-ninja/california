@@ -1,11 +1,11 @@
 id: 243353699
-type: way
+type: node
 latitude: 37.78018
 longitude: -122.40102
 postcode: "94107"
 city: San Francisco
-street: "Folsom Street"
-housenumber: 888
+street: Folsom Street
+housenumber: "888"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1300706020
-type: way
+type: node
 latitude: 36.96233
 longitude: -120.06213
 postcode: ""
 city: Madera
-street: "North Gateway Drive"
-housenumber: 212
-phone: "+1-559-479-8318"
+street: North Gateway Drive
+housenumber: "212"
+phone: +1-559-479-8318
 opening_hours: ""
-website: "https://www.oilstopinc.com/oil-change-locations/madera"
+website: https://www.oilstopinc.com/oil-change-locations/madera

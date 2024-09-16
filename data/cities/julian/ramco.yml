@@ -1,11 +1,11 @@
 id: 250913650
-type: way
+type: node
 latitude: 33.07674
 longitude: -116.60022
 postcode: "92036"
 city: Julian
-street: "Main Street"
-housenumber: 1913
+street: Main Street
+housenumber: "1913"
 phone: ""
 opening_hours: ""
 website: ""

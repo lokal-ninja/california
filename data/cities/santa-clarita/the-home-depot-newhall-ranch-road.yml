@@ -1,11 +1,11 @@
 id: 472548012
-type: way
+type: node
 latitude: 34.44076
 longitude: -118.5749
 postcode: "91355"
 city: Santa Clarita
-street: "Newhall Ranch Road"
-housenumber: 28033
-phone: "+1 661-702-9925"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/newhall/ca/santa-clarita/91355/1055"
+street: Newhall Ranch Road
+housenumber: "28033"
+phone: +1 661-702-9925
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/newhall/ca/santa-clarita/91355/1055

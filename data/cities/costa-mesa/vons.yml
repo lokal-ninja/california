@@ -1,11 +1,11 @@
 id: 83219703
-type: way
+type: node
 latitude: 33.63459
 longitude: -117.92
 postcode: "92627"
 city: Costa Mesa
-street: "East 17th Street"
-housenumber: 185
-phone: "+1 949-515-3444"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.vons.com/ca/costa-mesa/185-e-17th-st.html"
+street: East 17th Street
+housenumber: "185"
+phone: +1 949-515-3444
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.vons.com/ca/costa-mesa/185-e-17th-st.html

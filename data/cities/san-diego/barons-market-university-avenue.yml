@@ -4,8 +4,8 @@ latitude: 32.74837
 longitude: -117.12422
 postcode: "92104"
 city: San Diego
-street: "University Avenue"
-housenumber: 3231
-phone: "(619) 814-5555"
+street: University Avenue
+housenumber: "3231"
+phone: (619) 814-5555
 opening_hours: ""
-website: "https://baronsmarket.com/"
+website: https://baronsmarket.com/

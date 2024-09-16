@@ -1,11 +1,11 @@
 id: 938941784
-type: way
+type: node
 latitude: 40.77976
 longitude: -124.18721
 postcode: "95501"
 city: Eureka
-street: "Broadway Street"
-housenumber: 3240
+street: Broadway Street
+housenumber: "3240"
 phone: ""
 opening_hours: ""
 website: ""

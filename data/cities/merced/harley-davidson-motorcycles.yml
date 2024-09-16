@@ -1,11 +1,11 @@
 id: 311696056
-type: way
+type: node
 latitude: 37.30305
 longitude: -120.50355
 postcode: "95341"
 city: Merced
-street: "West Hwy 140"
-housenumber: 1665
+street: West Hwy 140
+housenumber: "1665"
 phone: ""
 opening_hours: ""
 website: ""

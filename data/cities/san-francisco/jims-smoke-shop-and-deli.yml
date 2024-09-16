@@ -4,8 +4,8 @@ latitude: 37.76063
 longitude: -122.38778
 postcode: "94107"
 city: San Francisco
-street: "20th Street"
-housenumber: 600
+street: 20th Street
+housenumber: "600"
 phone: ""
-opening_hours: "05:00-17:00"
+opening_hours: 05:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1056817938
-type: way
+type: node
 latitude: 36.8527
 longitude: -119.75612
 postcode: "93720"
 city: Fresno
-street: "North Cedar Avenue"
-housenumber: 8004
+street: North Cedar Avenue
+housenumber: "8004"
 phone: "+15593249194"
-opening_hours: "Mo-Su 06:00-22:00"
+opening_hours: Mo-Su 06:00-22:00
 website: ""

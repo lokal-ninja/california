@@ -1,11 +1,11 @@
 id: 567961769
-type: way
+type: node
 latitude: 38.13699
 longitude: -122.21445
 postcode: "94591"
 city: Vallejo
-street: "Admiral Callaghan Lane"
-housenumber: 1193
+street: Admiral Callaghan Lane
+housenumber: "1193"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/vallejo-ca-pharmacies/1193-admiral-callaghan-lane-vallejo-ca-94591/storeid=9927"
+website: https://www.cvs.com/store-locator/vallejo-ca-pharmacies/1193-admiral-callaghan-lane-vallejo-ca-94591/storeid=9927

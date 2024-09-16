@@ -1,11 +1,11 @@
 id: 700253654
-type: way
+type: node
 latitude: 37.64982
 longitude: -122.07693
 postcode: "94544"
 city: Hayward
-street: "Harder Road"
-housenumber: 130
-phone: "+1 510-538-8811"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ca/hayward/130-harder-rd-18177"
+street: Harder Road
+housenumber: "130"
+phone: +1 510-538-8811
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ca/hayward/130-harder-rd-18177

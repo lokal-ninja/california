@@ -1,11 +1,11 @@
 id: 102134187
-type: way
+type: node
 latitude: 33.12676
 longitude: -117.08322
 postcode: "92025"
 city: Escondido
-street: "North Broadway"
-housenumber: 550
+street: North Broadway
+housenumber: "550"
 phone: ""
 opening_hours: ""
-website: "https://www.discounttire.com/"
+website: https://www.discounttire.com/

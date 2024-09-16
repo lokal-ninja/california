@@ -1,11 +1,11 @@
 id: 331119857
-type: way
+type: node
 latitude: 33.67761
 longitude: -117.66527
 postcode: "92610"
 city: Foothill Ranch
-street: "Portola Parkway"
-housenumber: 26752
-phone: "+1 949-420-0741"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/ca/foothill-ranch/4735"
+street: Portola Parkway
+housenumber: "26752"
+phone: +1 949-420-0741
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/ca/foothill-ranch/4735

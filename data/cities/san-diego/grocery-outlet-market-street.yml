@@ -4,8 +4,8 @@ latitude: 32.71183
 longitude: -117.155
 postcode: "92101"
 city: San Diego
-street: "Market Street"
-housenumber: 1002
+street: Market Street
+housenumber: "1002"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
+opening_hours: Mo-Su 07:00-23:00
 website: ""

@@ -1,11 +1,11 @@
 id: 263819155
-type: way
+type: node
 latitude: 37.77256
 longitude: -122.43684
 postcode: ""
 city: San Francisco
-street: "Divisadero Street"
-housenumber: 318
+street: Divisadero Street
+housenumber: "318"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1251932094
-type: way
+type: node
 latitude: 34.22193
 longitude: -118.46049
 postcode: "91402"
 city: Van Nuys
-street: "Roscoe Boulevard"
-housenumber: 15029
+street: Roscoe Boulevard
+housenumber: "15029"
 phone: ""
 opening_hours: ""
 website: ""

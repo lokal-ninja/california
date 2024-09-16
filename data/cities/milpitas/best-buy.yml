@@ -4,8 +4,8 @@ latitude: 37.42794
 longitude: -121.92313
 postcode: "95035"
 city: Milpitas
-street: "Ranch Drive"
-housenumber: 63
-phone: "+1 408-942-0201"
-opening_hours: "Mo-Th 10:00-22:00; Fr 09:00-23:00; Sa 09:00-22:00; Su 10:00-20:00"
-website: "https://stores.bestbuy.com/ca/milpitas/63-ranch-dr-142.html"
+street: Ranch Drive
+housenumber: "63"
+phone: +1 408-942-0201
+opening_hours: Mo-Th 10:00-22:00; Fr 09:00-23:00; Sa 09:00-22:00; Su 10:00-20:00
+website: https://stores.bestbuy.com/ca/milpitas/63-ranch-dr-142.html

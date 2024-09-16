@@ -4,8 +4,8 @@ latitude: 36.83993
 longitude: -121.3973
 postcode: "95023"
 city: Hollister
-street: "Tres Pinos Road"
-housenumber: 260
+street: Tres Pinos Road
+housenumber: "260"
 phone: ""
-opening_hours: "by appointment"
-website: "https://breesbeautybarservices.com/"
+opening_hours: '"by appointment"'
+website: https://breesbeautybarservices.com/

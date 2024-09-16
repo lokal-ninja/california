@@ -1,11 +1,11 @@
 id: 111844044
-type: way
+type: node
 latitude: 33.68804
 longitude: -117.7698
 postcode: "92618"
 city: Irvine
-street: "Walnut Avenue"
-housenumber: 5840
-phone: "+1-949-551-1835"
-opening_hours: "Mo-Sa 09:00-17:00"
-website: "https://www.manasserofarms.com/"
+street: Walnut Avenue
+housenumber: "5840"
+phone: +1-949-551-1835
+opening_hours: Mo-Sa 09:00-17:00
+website: https://www.manasserofarms.com/

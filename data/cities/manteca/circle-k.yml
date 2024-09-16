@@ -1,11 +1,11 @@
 id: 1177354137
-type: way
+type: node
 latitude: 37.78013
 longitude: -121.21545
 postcode: "95337"
 city: Manteca
-street: "South Main Street"
-housenumber: 1490
+street: South Main Street
+housenumber: "1490"
 phone: ""
 opening_hours: ""
 website: ""

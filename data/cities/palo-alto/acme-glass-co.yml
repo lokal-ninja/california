@@ -1,11 +1,11 @@
 id: 132527963
-type: way
+type: node
 latitude: 37.4437
 longitude: -122.16061
 postcode: ""
 city: Palo Alto
-street: "Emerson Street"
-housenumber: 635
+street: Emerson Street
+housenumber: "635"
 phone: ""
 opening_hours: ""
 website: ""

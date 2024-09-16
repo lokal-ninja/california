@@ -4,8 +4,8 @@ latitude: 34.00122
 longitude: -117.80957
 postcode: "91765"
 city: Diamond Bar
-street: "Diamond Bar Boulevard"
-housenumber: 1180
-phone: "+1 909-378-4055"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/4762/diamond-bar-ca/whats-new"
+street: Diamond Bar Boulevard
+housenumber: "1180"
+phone: +1 909-378-4055
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/4762/diamond-bar-ca/whats-new

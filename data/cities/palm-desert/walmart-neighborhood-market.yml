@@ -1,11 +1,11 @@
 id: 46414659
-type: way
+type: node
 latitude: 33.72801
 longitude: -116.40116
 postcode: "92260"
 city: Palm Desert
-street: "Highway 111"
-housenumber: 72314
-phone: "+1 760-469-3428"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/3026/palm-desert-ca/whats-new"
+street: Highway 111
+housenumber: "72314"
+phone: +1 760-469-3428
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/3026/palm-desert-ca/whats-new

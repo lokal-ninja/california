@@ -1,11 +1,11 @@
 id: 40259378
-type: way
+type: node
 latitude: 37.54405
 longitude: -122.0267
 postcode: "94560"
 city: Newark
-street: "Thorton Avenue"
-housenumber: 5401
-phone: "+1 510-494-1205"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-19:00"
-website: "https://www.homedepot.com/l/Newark-CA/CA/Newark/94560/6964"
+street: Thorton Avenue
+housenumber: "5401"
+phone: +1 510-494-1205
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-19:00
+website: https://www.homedepot.com/l/Newark-CA/CA/Newark/94560/6964

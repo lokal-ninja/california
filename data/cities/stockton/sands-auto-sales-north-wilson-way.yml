@@ -1,11 +1,11 @@
 id: 1308280290
-type: way
+type: node
 latitude: 37.96398
 longitude: -121.27427
 postcode: "95205"
 city: Stockton
-street: "North Wilson Way"
-housenumber: 845
+street: North Wilson Way
+housenumber: "845"
 phone: ""
 opening_hours: ""
 website: ""

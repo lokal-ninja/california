@@ -1,11 +1,11 @@
 id: 576286089
-type: way
+type: node
 latitude: 33.20733
 longitude: -117.23552
 postcode: "92084"
 city: Vista
-street: "East Vista Way"
-housenumber: 705
+street: East Vista Way
+housenumber: "705"
 phone: ""
 opening_hours: ""
-website: "https://locations.99only.com/ca/vista/discount-store-244.html"
+website: https://locations.99only.com/ca/vista/discount-store-244.html

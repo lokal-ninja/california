@@ -1,11 +1,11 @@
 id: 491652201
-type: way
+type: node
 latitude: 36.73443
 longitude: -119.73553
 postcode: "93727"
 city: Fresno
-street: "East Kings Canyon Road"
-housenumber: 4838
-phone: "+1-559-456-9050"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.foodsco.net/stores/details/704/00316"
+street: East Kings Canyon Road
+housenumber: "4838"
+phone: +1-559-456-9050
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.foodsco.net/stores/details/704/00316

@@ -1,11 +1,11 @@
 id: 406586509
-type: way
+type: node
 latitude: 33.76115
 longitude: -116.29803
 postcode: ""
 city: Palm Desert
-street: "Varner Road"
-housenumber: 78355
-phone: "(760) 200-0242"
-opening_hours: "24/7"
-website: "https://www.ampm.com/"
+street: Varner Road
+housenumber: "78355"
+phone: (760) 200-0242
+opening_hours: 24/7
+website: https://www.ampm.com/

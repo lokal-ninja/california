@@ -1,11 +1,11 @@
 id: 846292754
-type: way
+type: node
 latitude: 40.90273
 longitude: -124.08147
 postcode: "95521"
 city: Arcata
-street: "Valley West Boulevard"
-housenumber: 5000
-phone: "+1 707-822-1629"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/5000-valley-west-blvd-suite-14-arcata-95521?number=205"
+street: Valley West Boulevard
+housenumber: "5000"
+phone: +1 707-822-1629
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/5000-valley-west-blvd-suite-14-arcata-95521?number=205

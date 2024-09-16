@@ -1,11 +1,11 @@
 id: 1127925556
-type: way
+type: node
 latitude: 40.56397
 longitude: -122.2379
 postcode: "96073"
 city: Palo Cedro
-street: "Old 44 Drive"
-housenumber: 22020
+street: Old 44 Drive
+housenumber: "22020"
 phone: "15305473216"
-opening_hours: "Mo-Sa 08:30-18:00; Su 10:00-16:00"
-website: "https://www.palocedrofeed.com"
+opening_hours: Mo-Sa 08:30-18:00; Su 10:00-16:00
+website: https://www.palocedrofeed.com

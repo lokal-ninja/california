@@ -1,11 +1,11 @@
 id: 503494590
-type: way
+type: node
 latitude: 33.7025
 longitude: -117.84429
 postcode: "92606"
 city: Irvine
-street: "Red Hill Avenue"
-housenumber: 16700
+street: Red Hill Avenue
+housenumber: "16700"
 phone: ""
 opening_hours: ""
 website: ""

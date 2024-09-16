@@ -1,11 +1,11 @@
 id: 1108077863
-type: way
+type: node
 latitude: 36.30392
 longitude: -119.31306
 postcode: "93277"
 city: Visalia
-street: "South Mooney Boulevard"
-housenumber: 3016
-phone: "+1 559-733-9663"
+street: South Mooney Boulevard
+housenumber: "3016"
+phone: +1 559-733-9663
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/ca/visalia/504001/"
+website: https://www.mattressfirm.com/en-us/stores/ca/visalia/504001/

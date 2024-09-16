@@ -4,8 +4,8 @@ latitude: 38.56429
 longitude: -121.46564
 postcode: "95816"
 city: Sacramento
-street: "33rd Street"
-housenumber: 1725
-phone: "(916) 454-1350"
+street: 33rd Street
+housenumber: "1725"
+phone: (916) 454-1350
 opening_hours: ""
-website: "http://www.drjperformance.com"
+website: http://www.drjperformance.com

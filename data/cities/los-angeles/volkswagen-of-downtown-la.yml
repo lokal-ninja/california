@@ -1,11 +1,11 @@
 id: 858213825
-type: way
+type: node
 latitude: 34.03337
 longitude: -118.27183
 postcode: "90007"
 city: Los Angeles
-street: "Figueroa Street"
-housenumber: 1900
+street: Figueroa Street
+housenumber: "1900"
 phone: ""
 opening_hours: ""
-website: "https://www.vwofdtla.com/"
+website: https://www.vwofdtla.com/

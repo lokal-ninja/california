@@ -1,11 +1,11 @@
 id: 311695474
-type: way
+type: node
 latitude: 37.28106
 longitude: -120.44961
 postcode: "95341"
 city: Merced
-street: "East Gerard Avenue"
-housenumber: 1890
+street: East Gerard Avenue
+housenumber: "1890"
 phone: ""
 opening_hours: ""
 website: ""

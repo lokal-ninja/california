@@ -1,11 +1,11 @@
 id: 151800300
-type: way
+type: node
 latitude: 36.66842
 longitude: -121.81127
-postcode: "93933-6242"
+postcode: 93933-6242
 city: Marina
-street: "General Stilwell Drive"
-housenumber: 133
-phone: "+1 831-883-5720"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.target.com/sl/marina/2306"
+street: General Stilwell Drive
+housenumber: "133"
+phone: +1 831-883-5720
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.target.com/sl/marina/2306

@@ -1,11 +1,11 @@
 id: 1171899479
-type: way
+type: node
 latitude: 34.23134
 longitude: -118.5357
 postcode: "91324"
 city: Northridge
-street: "Reseda Boulevard"
-housenumber: 8816
+street: Reseda Boulevard
+housenumber: "8816"
 phone: ""
 opening_hours: ""
 website: ""

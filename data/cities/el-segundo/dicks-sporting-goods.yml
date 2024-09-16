@@ -1,11 +1,11 @@
 id: 359904400
-type: way
+type: node
 latitude: 33.90687
 longitude: -118.39239
 postcode: "90245"
 city: El Segundo
-street: "South Pacific Coast Highway"
-housenumber: 770
-phone: "+1 310-726-9123"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/ca/el-segundo/924/"
+street: South Pacific Coast Highway
+housenumber: "770"
+phone: +1 310-726-9123
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/ca/el-segundo/924/

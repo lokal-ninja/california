@@ -1,11 +1,11 @@
 id: 473936102
-type: way
+type: node
 latitude: 37.26368
 longitude: -121.87765
 postcode: "95118"
 city: San Jose
-street: "Branham Lane"
-housenumber: 1105
-phone: "+1-408-723-9946"
-opening_hours: "09:00-17:00"
+street: Branham Lane
+housenumber: "1105"
+phone: +1-408-723-9946
+opening_hours: 09:00-17:00
 website: ""

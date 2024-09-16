@@ -1,11 +1,11 @@
 id: 1097537732
-type: way
+type: node
 latitude: 36.33915
 longitude: -119.33147
 postcode: "93291"
 city: Visalia
-street: "North Demaree Street"
-housenumber: 1102
+street: North Demaree Street
+housenumber: "1102"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/visalia-ca-pharmacies/1102-n-demaree-st-visalia-ca-93291/storeid=2541"
+website: https://www.cvs.com/store-locator/visalia-ca-pharmacies/1102-n-demaree-st-visalia-ca-93291/storeid=2541

@@ -1,11 +1,11 @@
 id: 406513459
-type: way
+type: node
 latitude: 38.56028
 longitude: -121.48803
 postcode: "95818"
 city: Sacramento
-street: "Broadway"
-housenumber: 1900
+street: Broadway
+housenumber: "1900"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ca/sacramento/1900-broadway.html"
+website: https://www.autozone.com/locations/ca/sacramento/1900-broadway.html

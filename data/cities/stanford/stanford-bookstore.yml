@@ -1,11 +1,11 @@
 id: 232805686
-type: way
+type: node
 latitude: 37.42501
 longitude: -122.16897
 postcode: ""
 city: Stanford
-street: "Lasuen Mall"
-housenumber: 519
+street: Lasuen Mall
+housenumber: "519"
 phone: ""
 opening_hours: ""
-website: "https://www.bkstr.com/stanfordstore/home"
+website: https://www.bkstr.com/stanfordstore/home

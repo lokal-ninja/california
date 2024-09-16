@@ -1,11 +1,11 @@
 id: 824298482
-type: way
+type: node
 latitude: 37.85885
 longitude: -122.27495
 postcode: "94703"
 city: Berkeley
-street: "Ward Street"
-housenumber: 1715
-phone: "510.548.7119"
+street: Ward Street
+housenumber: "1715"
+phone: 510.548.7119
 opening_hours: ""
-website: "http://dminkler.com/contact.html"
+website: http://dminkler.com/contact.html

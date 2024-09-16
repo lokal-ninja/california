@@ -1,11 +1,11 @@
 id: 256471156
-type: way
+type: node
 latitude: 37.77411
 longitude: -122.41227
 postcode: "94103"
 city: San Francisco
-street: "9th Street"
-housenumber: 264
+street: 9th Street
+housenumber: "264"
 phone: ""
 opening_hours: ""
 website: ""

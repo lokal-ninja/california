@@ -1,11 +1,11 @@
 id: 699008376
-type: way
+type: node
 latitude: 36.96643
 longitude: -122.03992
 postcode: "95060"
 city: Santa Cruz
-street: "Bay Street"
-housenumber: 1244
-phone: "831-458-9449"
+street: Bay Street
+housenumber: "1244"
+phone: 831-458-9449
 opening_hours: ""
-website: "https://kims-salon-santa-cruz.edan.io/"
+website: https://kims-salon-santa-cruz.edan.io/

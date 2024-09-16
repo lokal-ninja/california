@@ -1,11 +1,11 @@
 id: 31803018
-type: way
+type: node
 latitude: 32.82634
 longitude: -117.14807
 postcode: "92111"
 city: San Diego
-street: "Mercury Street"
-housenumber: 4699
+street: Mercury Street
+housenumber: "4699"
 phone: "+18589748212"
 opening_hours: ""
-website: "https://www.ferguson.com/branch/san-diego-ca"
+website: https://www.ferguson.com/branch/san-diego-ca

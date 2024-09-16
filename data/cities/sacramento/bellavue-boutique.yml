@@ -4,8 +4,8 @@ latitude: 38.57999
 longitude: -121.49492
 postcode: ""
 city: Sacramento
-street: "9th Street"
-housenumber: 1019
-phone: "+1 916-443-1453"
-opening_hours: "Mo-Fr 12:00-18:00"
-website: "https://www.facebook.com/BellaVUEBoutiqueSacramento"
+street: 9th Street
+housenumber: "1019"
+phone: +1 916-443-1453
+opening_hours: Mo-Fr 12:00-18:00
+website: https://www.facebook.com/BellaVUEBoutiqueSacramento

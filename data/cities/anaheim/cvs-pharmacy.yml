@@ -1,11 +1,11 @@
 id: 622496783
-type: way
+type: node
 latitude: 33.80295
 longitude: -117.94068
 postcode: "92802"
 city: Anaheim
-street: "West Katella Avenue"
-housenumber: 1676
-phone: "+1-714-956-5920"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.cvs.com/store-locator/anaheim-ca-pharmacies/1676-west-katella-avenue-anaheim-ca-92802/storeid=8874"
+street: West Katella Avenue
+housenumber: "1676"
+phone: +1-714-956-5920
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.cvs.com/store-locator/anaheim-ca-pharmacies/1676-west-katella-avenue-anaheim-ca-92802/storeid=8874

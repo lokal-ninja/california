@@ -1,11 +1,11 @@
 id: 24307421
-type: way
+type: node
 latitude: 37.78446
 longitude: -122.40401
 postcode: "94103"
 city: San Francisco
-street: "4th Street"
-housenumber: 135
+street: 4th Street
+housenumber: "135"
 phone: ""
 opening_hours: ""
 website: ""

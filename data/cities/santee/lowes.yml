@@ -1,11 +1,11 @@
 id: 219151419
-type: way
+type: node
 latitude: 32.8406
 longitude: -116.99348
 postcode: "92071"
 city: Santee
-street: "Mission Gorge Road"
-housenumber: 9416
-phone: "+1 619-212-4100"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com"
+street: Mission Gorge Road
+housenumber: "9416"
+phone: +1 619-212-4100
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com

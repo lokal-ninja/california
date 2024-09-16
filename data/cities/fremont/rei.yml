@@ -1,11 +1,11 @@
 id: 233704469
-type: way
+type: node
 latitude: 37.51063
 longitude: -121.94782
 postcode: "94538"
 city: Fremont
-street: "Fremont Boulevard"
-housenumber: 43962
-phone: "+1-510-651-0305"
-opening_hours: "Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 10:00-19:00"
-website: "https://www.rei.com/stores/fremont"
+street: Fremont Boulevard
+housenumber: "43962"
+phone: +1-510-651-0305
+opening_hours: Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 10:00-19:00
+website: https://www.rei.com/stores/fremont

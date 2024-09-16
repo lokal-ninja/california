@@ -1,11 +1,11 @@
 id: 206081668
-type: way
+type: node
 latitude: 34.14489
 longitude: -118.15159
 postcode: "91105"
 city: Pasadena
-street: "Mills Place"
-housenumber: 39
+street: Mills Place
+housenumber: "39"
 phone: ""
 opening_hours: ""
-website: "https://www.burkewilliamsspa.com/locations/pasadena"
+website: https://www.burkewilliamsspa.com/locations/pasadena

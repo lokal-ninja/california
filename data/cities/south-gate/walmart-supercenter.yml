@@ -1,11 +1,11 @@
 id: 451383058
-type: way
+type: node
 latitude: 33.95525
 longitude: -118.18832
 postcode: "90280"
 city: South Gate
-street: "Firestone Boulevard"
-housenumber: 4651
-phone: "+1 323-282-4800"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/3180/south-gate-ca/whats-new"
+street: Firestone Boulevard
+housenumber: "4651"
+phone: +1 323-282-4800
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/3180/south-gate-ca/whats-new

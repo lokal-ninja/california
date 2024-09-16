@@ -4,8 +4,8 @@ latitude: 37.05921
 longitude: -122.00925
 postcode: "95066"
 city: Scotts Valley
-street: "Scotts Valley Drive"
-housenumber: 5400
+street: Scotts Valley Drive
+housenumber: "5400"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-17:00"
-website: "https://erics-salon.com/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-17:00
+website: https://erics-salon.com/

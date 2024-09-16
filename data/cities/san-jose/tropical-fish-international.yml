@@ -4,8 +4,9 @@ latitude: 37.30576
 longitude: -121.97791
 postcode: "95129"
 city: San Jose
-street: "Saratoga Avenue"
-housenumber: 1080
+street: Saratoga Avenue
+housenumber: "1080"
 phone: ""
-opening_hours: "Mo 11:00-20:00; Tu 13:00-21:00; We-Fr 11:00-21:00; Sa 10:00-20:00; Su 12:00-18:00"
+opening_hours: Mo 11:00-20:00; Tu 13:00-21:00; We-Fr 11:00-21:00; Sa 10:00-20:00;
+    Su 12:00-18:00
 website: ""

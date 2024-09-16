@@ -4,8 +4,8 @@ latitude: 33.49492
 longitude: -117.15021
 postcode: "92590"
 city: Temecula
-street: "Old Town Front Street"
-housenumber: 28544
+street: Old Town Front Street
+housenumber: "28544"
 phone: ""
-opening_hours: "by appointment"
+opening_hours: '"by appointment"'
 website: ""

@@ -1,11 +1,11 @@
 id: 691857871
-type: way
+type: node
 latitude: 34.44818
 longitude: -119.23761
 postcode: "93023"
 city: Ojai
-street: "East Ojai Avenue"
-housenumber: 841
+street: East Ojai Avenue
+housenumber: "841"
 phone: ""
 opening_hours: ""
 website: ""

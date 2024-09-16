@@ -1,11 +1,11 @@
 id: 699818984
-type: way
+type: node
 latitude: 36.60383
 longitude: -121.89323
 postcode: "93940"
 city: Monterey
-street: "Old Fishermen's Wharf #1"
-housenumber: 1
+street: 'Old Fishermen''s Wharf #1'
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

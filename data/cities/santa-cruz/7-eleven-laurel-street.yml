@@ -1,11 +1,11 @@
 id: 39551599
-type: way
+type: node
 latitude: 36.96912
 longitude: -122.02974
-postcode: "95060-4907"
+postcode: 95060-4907
 city: Santa Cruz
-street: "Laurel Street"
-housenumber: 602
-phone: "+1 831-423-8497"
+street: Laurel Street
+housenumber: "602"
+phone: +1 831-423-8497
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/santa-cruz/602-laurel-st-16346"
+website: https://www.7-eleven.com/locations/ca/santa-cruz/602-laurel-st-16346

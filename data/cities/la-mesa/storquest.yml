@@ -1,11 +1,11 @@
 id: 370737841
-type: way
+type: node
 latitude: 32.77267
 longitude: -117.01965
 postcode: "91942"
 city: La Mesa
-street: "Commercial Street"
-housenumber: 8265
+street: Commercial Street
+housenumber: "8265"
 phone: ""
 opening_hours: ""
 website: ""

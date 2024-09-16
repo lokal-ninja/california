@@ -1,11 +1,11 @@
 id: 132663323
-type: way
+type: node
 latitude: 34.07031
 longitude: -118.29134
 postcode: "90004"
 city: Los Angeles
-street: "West Third Street"
-housenumber: 3461
-phone: "+1 213-384-6552"
+street: West Third Street
+housenumber: "3461"
+phone: +1 213-384-6552
 opening_hours: ""
-website: "https://local.vons.com/ca/los-angeles/3461-w-3rd-st.html"
+website: https://local.vons.com/ca/los-angeles/3461-w-3rd-st.html

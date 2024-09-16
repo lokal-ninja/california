@@ -1,11 +1,11 @@
 id: 258223939
-type: way
+type: node
 latitude: 36.84008
 longitude: -121.39317
 postcode: "95023"
 city: Hollister
-street: "Tres Pinos Road"
-housenumber: 550
+street: Tres Pinos Road
+housenumber: "550"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 334313519
-type: way
+type: node
 latitude: 34.44902
 longitude: -119.27824
 postcode: ""
 city: Ojai
-street: "West el Roblar Drive"
-housenumber: 312
+street: West el Roblar Drive
+housenumber: "312"
 phone: ""
 opening_hours: ""
 website: ""

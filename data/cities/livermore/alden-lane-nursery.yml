@@ -4,8 +4,8 @@ latitude: 37.65513
 longitude: -121.78431
 postcode: "94550"
 city: Livermore
-street: "Alden Lane"
-housenumber: 981
-phone: "+1-925-447-0280"
-opening_hours: "Mo-Su 09:00-17:00"
-website: "https://www.aldenlane.com/"
+street: Alden Lane
+housenumber: "981"
+phone: +1-925-447-0280
+opening_hours: Mo-Su 09:00-17:00
+website: https://www.aldenlane.com/

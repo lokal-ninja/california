@@ -1,11 +1,11 @@
 id: 256912288
-type: way
+type: node
 latitude: 37.7438
 longitude: -122.45383
 postcode: "94127"
 city: San Francisco
-street: "Portola Drive"
-housenumber: 755
+street: Portola Drive
+housenumber: "755"
 phone: ""
 opening_hours: ""
 website: ""

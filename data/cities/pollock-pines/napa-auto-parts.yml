@@ -1,11 +1,11 @@
 id: 871778930
-type: way
+type: node
 latitude: 38.76292
 longitude: -120.5761
 postcode: "95726"
 city: Pollock Pines
-street: "Pony Express Trail"
-housenumber: 6510
-phone: "1-530-644-2305"
-opening_hours: "Mo-Fr 07:30-18:00; Sa-Su 08:00-17:00"
+street: Pony Express Trail
+housenumber: "6510"
+phone: 1-530-644-2305
+opening_hours: Mo-Fr 07:30-18:00; Sa-Su 08:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 733412042
-type: way
+type: node
 latitude: 34.01997
 longitude: -117.64915
 postcode: "91761"
 city: Ontario
-street: "East Riverside Drive"
-housenumber: 221
+street: East Riverside Drive
+housenumber: "221"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ca/ontario/autoparts-2649.html"
+website: https://locations.oreillyauto.com/ca/ontario/autoparts-2649.html

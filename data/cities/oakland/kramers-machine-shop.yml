@@ -1,11 +1,11 @@
 id: 259729568
-type: way
+type: node
 latitude: 37.81488
 longitude: -122.29624
 postcode: "94607"
 city: Oakland
-street: "16th Street"
-housenumber: 1736
+street: 16th Street
+housenumber: "1736"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 31899618
-type: way
+type: node
 latitude: 38.01616
 longitude: -121.89181
 postcode: ""
 city: Pittsburg
-street: "Railroad Avenue"
-housenumber: 2100
+street: Railroad Avenue
+housenumber: "2100"
 phone: "9254271697"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "cardenasmarkets.com"
+opening_hours: Mo-Su 06:00-22:00
+website: cardenasmarkets.com

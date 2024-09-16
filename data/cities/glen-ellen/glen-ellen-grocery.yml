@@ -1,11 +1,11 @@
 id: 860910164
-type: way
+type: node
 latitude: 38.36311
 longitude: -122.52485
 postcode: ""
 city: Glen Ellen
-street: "Arnold Drive"
-housenumber: 13710
+street: Arnold Drive
+housenumber: "13710"
 phone: ""
 opening_hours: ""
 website: ""

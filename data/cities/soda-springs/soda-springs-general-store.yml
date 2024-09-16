@@ -1,11 +1,11 @@
 id: 1212107315
-type: way
+type: node
 latitude: 39.32519
 longitude: -120.38494
 postcode: "95728"
 city: Soda Springs
-street: "Donner Pass Road"
-housenumber: 21784
+street: Donner Pass Road
+housenumber: "21784"
 phone: ""
 opening_hours: ""
-website: "http://sodaspringsgeneralstore.com/"
+website: http://sodaspringsgeneralstore.com/

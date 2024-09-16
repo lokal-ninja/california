@@ -1,11 +1,11 @@
 id: 403746958
-type: way
+type: node
 latitude: 38.61899
 longitude: -121.26757
 postcode: "95670"
 city: Rancho Cordova
-street: "Sunrise Boulevard"
-housenumber: 2295
+street: Sunrise Boulevard
+housenumber: "2295"
 phone: ""
 opening_hours: ""
 website: ""

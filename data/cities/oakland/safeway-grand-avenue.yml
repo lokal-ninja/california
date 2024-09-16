@@ -1,11 +1,11 @@
 id: 241080851
-type: way
+type: node
 latitude: 37.81742
 longitude: -122.24537
 postcode: "94610"
 city: Oakland
-street: "Grand Avenue"
-housenumber: 3747
-phone: "+1 510-465-4187"
-opening_hours: "06:00-24:00"
-website: "https://local.safeway.com/safeway/ca/oakland/3747-grand-ave.html"
+street: Grand Avenue
+housenumber: "3747"
+phone: +1 510-465-4187
+opening_hours: 06:00-24:00
+website: https://local.safeway.com/safeway/ca/oakland/3747-grand-ave.html

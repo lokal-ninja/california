@@ -1,11 +1,11 @@
 id: 426661212
-type: way
+type: node
 latitude: 34.10967
 longitude: -118.2873
 postcode: "90027"
 city: Los Angeles
-street: "Hillhurst Avenue"
-housenumber: 2080
-phone: "(323) 660-0052"
-opening_hours: "Mo-Sa 11:00-19:00"
-website: "https://www.lassens.com/"
+street: Hillhurst Avenue
+housenumber: "2080"
+phone: (323) 660-0052
+opening_hours: Mo-Sa 11:00-19:00
+website: https://www.lassens.com/

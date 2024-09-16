@@ -1,11 +1,11 @@
 id: 393970064
-type: way
+type: node
 latitude: 33.74524
 longitude: -116.99563
 postcode: "92545"
 city: Hemet
-street: "West Florida Avenue"
-housenumber: 2207
-phone: "+1 951-537-1975"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/ca/hemet/w-florida-ave/"
+street: West Florida Avenue
+housenumber: "2207"
+phone: +1 951-537-1975
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/ca/hemet/w-florida-ave/

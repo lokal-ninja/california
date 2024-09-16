@@ -1,11 +1,11 @@
 id: 756195649
-type: way
+type: node
 latitude: 37.25773
 longitude: -121.87383
 postcode: "95118"
 city: San Jose
-street: "Cherry Avenue"
-housenumber: 5140
-phone: "+1 408-445-8310"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/san-jose-ca-1259"
+street: Cherry Avenue
+housenumber: "5140"
+phone: +1 408-445-8310
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/san-jose-ca-1259

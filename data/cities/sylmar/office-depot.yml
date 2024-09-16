@@ -1,11 +1,11 @@
 id: 377123887
-type: way
+type: node
 latitude: 34.29285
 longitude: -118.41618
 postcode: "91342"
 city: Sylmar
-street: "Foothill Boulevard"
-housenumber: 12900
-phone: "+1 818-361-0941"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/ca/sylmar/office-depot-892"
+street: Foothill Boulevard
+housenumber: "12900"
+phone: +1 818-361-0941
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/ca/sylmar/office-depot-892

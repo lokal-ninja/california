@@ -4,8 +4,8 @@ latitude: 32.80849
 longitude: -117.11643
 postcode: "92123"
 city: San Diego
-street: "Murphy Canyon Road #101"
-housenumber: 3690
+street: 'Murphy Canyon Road #101'
+housenumber: "3690"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa-Su 09:00-17:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa-Su 09:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1263175843
-type: way
+type: node
 latitude: 34.19355
 longitude: -118.45058
 postcode: "91405"
 city: Van Nuys
-street: "Vanowen Street"
-housenumber: 14556
+street: Vanowen Street
+housenumber: "14556"
 phone: ""
 opening_hours: ""
 website: ""

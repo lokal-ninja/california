@@ -1,11 +1,11 @@
 id: 417059143
-type: way
+type: node
 latitude: 34.04222
 longitude: -118.42328
 postcode: "90064"
 city: Los Angeles
-street: "West Pico Boulevard"
-housenumber: 10654
-phone: "+1 310-441-2477"
-opening_hours: "Mo-Sa 09:30-18:00"
-website: "https://www.fsfabricsforthehome.com/"
+street: West Pico Boulevard
+housenumber: "10654"
+phone: +1 310-441-2477
+opening_hours: Mo-Sa 09:30-18:00
+website: https://www.fsfabricsforthehome.com/

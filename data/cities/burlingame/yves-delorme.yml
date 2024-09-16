@@ -1,11 +1,11 @@
 id: 237693085
-type: way
+type: node
 latitude: 37.57833
 longitude: -122.34671
 postcode: ""
 city: Burlingame
-street: "Park Road"
-housenumber: 238
+street: Park Road
+housenumber: "238"
 phone: ""
 opening_hours: ""
-website: "http://www.yvesdelorme.com/"
+website: http://www.yvesdelorme.com/

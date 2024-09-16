@@ -1,11 +1,11 @@
 id: 329251265
-type: way
+type: node
 latitude: 37.6883
 longitude: -121.7849
 postcode: "94551"
 city: Livermore
-street: "Rincon Avenue"
-housenumber: 861
+street: Rincon Avenue
+housenumber: "861"
 phone: ""
 opening_hours: ""
 website: ""

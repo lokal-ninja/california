@@ -4,8 +4,8 @@ latitude: 32.86987
 longitude: -117.21169
 postcode: "92122"
 city: San Diego
-street: "La Jolla Village Dr"
-housenumber: 4545
+street: La Jolla Village Dr
+housenumber: "4545"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-19:00"
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-19:00
 website: ""

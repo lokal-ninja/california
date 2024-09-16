@@ -1,11 +1,11 @@
 id: 549826627
-type: way
+type: node
 latitude: 38.3293
 longitude: -123.04368
 postcode: "94923"
 city: Bodega Bay
-street: "Bay Highway"
-housenumber: 900
-phone: "+1-707-875-9868"
-opening_hours: "Su-Th 06:30-21:00; Fr,Sa 06:30-22:00"
-website: "https://www.76.com/station/U76-BODEGA-BAY-76-0000832098/"
+street: Bay Highway
+housenumber: "900"
+phone: +1-707-875-9868
+opening_hours: Su-Th 06:30-21:00; Fr,Sa 06:30-22:00
+website: https://www.76.com/station/U76-BODEGA-BAY-76-0000832098/

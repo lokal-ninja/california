@@ -1,11 +1,11 @@
 id: 311712080
-type: way
+type: node
 latitude: 37.40448
 longitude: -120.84703
 postcode: "95324"
 city: Hilmar
-street: "North Ellington Avenue"
-housenumber: 8018
+street: North Ellington Avenue
+housenumber: "8018"
 phone: ""
 opening_hours: ""
 website: ""

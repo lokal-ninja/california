@@ -1,11 +1,11 @@
 id: 36823950
-type: way
+type: node
 latitude: 40.77747
 longitude: -124.19235
 postcode: ""
 city: Eureka
-street: "Broadway Street"
-housenumber: 3300
+street: Broadway Street
+housenumber: "3300"
 phone: ""
 opening_hours: ""
-website: "https://www.bayshoremall.com/"
+website: https://www.bayshoremall.com/

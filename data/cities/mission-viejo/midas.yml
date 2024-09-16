@@ -1,11 +1,11 @@
 id: 165550137
-type: way
+type: node
 latitude: 33.58442
 longitude: -117.67311
 postcode: "92691"
 city: Mission Viejo
-street: "El Paseo"
-housenumber: 25902
+street: El Paseo
+housenumber: "25902"
 phone: ""
 opening_hours: ""
 website: ""

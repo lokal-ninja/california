@@ -1,11 +1,11 @@
 id: 431850292
-type: way
+type: node
 latitude: 34.22124
 longitude: -118.60741
 postcode: "91304"
 city: West Hills
-street: "Topanga Canyon Boulevard"
-housenumber: 8383
-phone: "+1 818-610-1960"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-21:00"
-website: "https://www.lowes.com/store/ca-west-hills/1162"
+street: Topanga Canyon Boulevard
+housenumber: "8383"
+phone: +1 818-610-1960
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-21:00
+website: https://www.lowes.com/store/ca-west-hills/1162

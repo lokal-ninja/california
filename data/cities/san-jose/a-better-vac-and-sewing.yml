@@ -1,11 +1,11 @@
 id: 782152465
-type: way
+type: node
 latitude: 37.34902
 longitude: -121.86279
 postcode: "95116"
 city: San Jose
-street: "East Santa Clara Street"
-housenumber: 1430
-phone: "+1-408-234-9858"
+street: East Santa Clara Street
+housenumber: "1430"
+phone: +1-408-234-9858
 opening_hours: ""
 website: ""

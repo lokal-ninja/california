@@ -1,11 +1,11 @@
 id: 1301595566
-type: way
+type: node
 latitude: 36.95336
 longitude: -120.05844
 postcode: ""
 city: Madera
-street: "West Olive Avenue"
-housenumber: 301
-phone: "+1-559-662-8990"
+street: West Olive Avenue
+housenumber: "301"
+phone: +1-559-662-8990
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ca/madera/autoparts-3003.html"
+website: https://locations.oreillyauto.com/ca/madera/autoparts-3003.html

@@ -4,8 +4,8 @@ latitude: 37.50359
 longitude: -122.2466
 postcode: "94070"
 city: San Carlos
-street: "Industrial Road"
-housenumber: 1119
-phone: "+1 650-654-7953"
-opening_hours: "Mo-Th 09:30-22:00; Fr-Sa 09:30-22:30; Su 10:00-22:00"
+street: Industrial Road
+housenumber: "1119"
+phone: +1 650-654-7953
+opening_hours: Mo-Th 09:30-22:00; Fr-Sa 09:30-22:30; Su 10:00-22:00
 website: ""

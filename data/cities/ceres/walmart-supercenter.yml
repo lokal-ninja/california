@@ -1,11 +1,11 @@
 id: 1272922133
-type: way
+type: node
 latitude: 37.58356
 longitude: -120.94074
 postcode: "95307"
 city: Ceres
-street: "Mitchell Road"
-housenumber: 3960
-phone: "+1 209-541-0253"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/1983-ceres-ca"
+street: Mitchell Road
+housenumber: "3960"
+phone: +1 209-541-0253
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/1983-ceres-ca

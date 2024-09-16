@@ -1,11 +1,11 @@
 id: 387057387
-type: way
+type: node
 latitude: 37.55178
 longitude: -122.31319
 postcode: "94402"
 city: San Mateo
-street: "El Camino Real"
-housenumber: 1731
+street: El Camino Real
+housenumber: "1731"
 phone: ""
 opening_hours: ""
-website: "https://fineconsign.net/"
+website: https://fineconsign.net/

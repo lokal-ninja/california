@@ -1,11 +1,11 @@
 id: 916457539
-type: way
+type: node
 latitude: 33.55526
 longitude: -117.12913
 postcode: "92563"
 city: Murrieta
-street: "Commerce Court"
-housenumber: 30470
+street: Commerce Court
+housenumber: "30470"
 phone: "9516000222"
 opening_hours: ""
-website: "https://www.sandiegoselfstorage.com/self-storage/ca/murrieta/silverhawk-self-storage/#/units?category=Small"
+website: https://www.sandiegoselfstorage.com/self-storage/ca/murrieta/silverhawk-self-storage/#/units?category=Small

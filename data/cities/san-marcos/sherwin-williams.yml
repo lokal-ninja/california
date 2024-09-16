@@ -1,11 +1,11 @@
 id: 401773483
-type: way
+type: node
 latitude: 33.13604
 longitude: -117.18234
 postcode: "92078"
 city: San Marcos
-street: "West San Marcos Boulevard"
-housenumber: 801
+street: West San Marcos Boulevard
+housenumber: "801"
 phone: ""
 opening_hours: ""
 website: ""

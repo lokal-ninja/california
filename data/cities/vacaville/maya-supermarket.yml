@@ -1,11 +1,11 @@
 id: 470508640
-type: way
+type: node
 latitude: 38.35777
 longitude: -122.0053
 postcode: "95688"
 city: Vacaville
-street: "South Orchard Avenue"
-housenumber: 120
+street: South Orchard Avenue
+housenumber: "120"
 phone: ""
-opening_hours: "Mo-Su 07:00-21:00; PH unknown"
+opening_hours: Mo-Su 07:00-21:00; PH unknown
 website: ""

@@ -4,8 +4,8 @@ latitude: 38.68092
 longitude: -121.39346
 postcode: "95660"
 city: North Highlands
-street: "32nd Street"
-housenumber: 6245
-phone: "916-854-1881"
-opening_hours: "Mo-Su: 08:00-17:00"
-website: "http://www.actionasphalt.com/"
+street: 32nd Street
+housenumber: "6245"
+phone: 916-854-1881
+opening_hours: 'Mo-Su: 08:00-17:00'
+website: http://www.actionasphalt.com/

@@ -1,11 +1,11 @@
 id: 442230005
-type: way
+type: node
 latitude: 33.88828
 longitude: -118.39481
-postcode: "90266-5104"
+postcode: 90266-5104
 city: Manhattan Beach
-street: "Sepulveda Boulevard"
-housenumber: 1200
-phone: "+1 310-546-5601"
-opening_hours: "07:00-22:00"
-website: "https://www.target.com/sl/manhattan-beach/199"
+street: Sepulveda Boulevard
+housenumber: "1200"
+phone: +1 310-546-5601
+opening_hours: 07:00-22:00
+website: https://www.target.com/sl/manhattan-beach/199

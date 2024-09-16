@@ -1,11 +1,11 @@
 id: 311238403
-type: way
+type: node
 latitude: 37.79394
 longitude: -122.26573
 postcode: "94607"
 city: Oakland
-street: "4th Street"
-housenumber: 49
+street: 4th Street
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Sa 8:00-17:00"
-website: "https://www.eastbayrestaurantsupply.com/"
+opening_hours: Mo-Sa 8:00-17:00
+website: https://www.eastbayrestaurantsupply.com/

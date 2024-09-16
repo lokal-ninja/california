@@ -4,8 +4,8 @@ latitude: 37.95742
 longitude: -122.49952
 postcode: "94901"
 city: San Rafael
-street: "Andersen Drive"
-housenumber: 999
+street: Andersen Drive
+housenumber: "999"
 phone: ""
-opening_hours: "Mo-Su 07:30-15:30"
+opening_hours: Mo-Su 07:30-15:30
 website: ""

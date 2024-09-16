@@ -4,8 +4,8 @@ latitude: 33.94181
 longitude: -118.26976
 postcode: "90003"
 city: Los Angeles
-street: "South San Pedro Street"
-housenumber: 10401
+street: South San Pedro Street
+housenumber: "10401"
 phone: ""
-opening_hours: "Tu-Sa 09:30-18:30"
-website: "https://thetshirtspot.la"
+opening_hours: Tu-Sa 09:30-18:30
+website: https://thetshirtspot.la

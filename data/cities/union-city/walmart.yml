@@ -1,11 +1,11 @@
 id: 45222388
-type: way
+type: node
 latitude: 37.60526
 longitude: -122.06789
 postcode: "94587"
 city: Union City
-street: "Union Landing Boulevard"
-housenumber: 30600
-phone: "+1 510-475-5915"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/2031/union-city-ca/whats-new"
+street: Union Landing Boulevard
+housenumber: "30600"
+phone: +1 510-475-5915
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/2031/union-city-ca/whats-new

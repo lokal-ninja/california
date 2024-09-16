@@ -4,8 +4,8 @@ latitude: 37.76403
 longitude: -122.47012
 postcode: "94122"
 city: San Francisco
-street: "Irving Street"
-housenumber: 1128
-phone: "+14 15 665 1077"
-opening_hours: "Mo-Th 09:00-17:00; Sa-Su,PH off"
-website: "http://www.mediasolutions-sf.com/"
+street: Irving Street
+housenumber: "1128"
+phone: +14 15 665 1077
+opening_hours: Mo-Th 09:00-17:00; Sa-Su,PH off
+website: http://www.mediasolutions-sf.com/

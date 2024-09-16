@@ -4,8 +4,8 @@ latitude: 38.54085
 longitude: -121.48376
 postcode: "95818"
 city: Sacramento
-street: "Crocker Drive"
-housenumber: 3680
-phone: "+1 279-399-9261"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://local.safeway.com/safeway/ca/sacramento/3680-crocker-dr.html"
+street: Crocker Drive
+housenumber: "3680"
+phone: +1 279-399-9261
+opening_hours: Mo-Su 06:00-24:00
+website: https://local.safeway.com/safeway/ca/sacramento/3680-crocker-dr.html

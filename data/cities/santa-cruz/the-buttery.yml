@@ -1,11 +1,11 @@
 id: 35556363
-type: way
+type: node
 latitude: 36.9767
 longitude: -122.01576
 postcode: "95060"
 city: Santa Cruz
-street: "Soquel Avenue"
-housenumber: 702
-phone: "+1-831-458-3020"
-opening_hours: "Mo-Su 07:00-19:00"
-website: "https://www.butterybakery.com/"
+street: Soquel Avenue
+housenumber: "702"
+phone: +1-831-458-3020
+opening_hours: Mo-Su 07:00-19:00
+website: https://www.butterybakery.com/

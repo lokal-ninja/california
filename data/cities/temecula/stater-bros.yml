@@ -1,11 +1,11 @@
 id: 119980687
-type: way
+type: node
 latitude: 33.47878
 longitude: -117.10145
 postcode: "92592"
 city: Temecula
-street: "Temecula Parkway"
-housenumber: 31813
-phone: "+1 951-303-1244"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.staterbros.com/stores/138"
+street: Temecula Parkway
+housenumber: "31813"
+phone: +1 951-303-1244
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.staterbros.com/stores/138

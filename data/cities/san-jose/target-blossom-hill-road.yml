@@ -1,11 +1,11 @@
 id: 750308395
-type: way
+type: node
 latitude: 37.25181
 longitude: -121.86101
 postcode: "95123"
 city: San Jose
-street: "Blossom Hill Road"
-housenumber: 879
-phone: "+1 408-513-3002"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/san-jose-oakridge/1927"
+street: Blossom Hill Road
+housenumber: "879"
+phone: +1 408-513-3002
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/san-jose-oakridge/1927

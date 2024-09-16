@@ -1,11 +1,11 @@
 id: 238814507
-type: way
+type: node
 latitude: 33.74607
 longitude: -117.82312
 postcode: "92780"
 city: Tustin
-street: "East 1st Street"
-housenumber: 131
+street: East 1st Street
+housenumber: "131"
 phone: ""
 opening_hours: ""
 website: ""

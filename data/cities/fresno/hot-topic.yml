@@ -4,8 +4,8 @@ latitude: 36.80658
 longitude: -119.77849
 postcode: "93710"
 city: Fresno
-street: "East Shaw Avenue"
-housenumber: 545
+street: East Shaw Avenue
+housenumber: "545"
 phone: "+15592265406"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-19:00"
-website: "https://www.hottopic.com/store-details?StoreId=0016"
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-19:00
+website: https://www.hottopic.com/store-details?StoreId=0016

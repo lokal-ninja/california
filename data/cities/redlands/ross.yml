@@ -1,11 +1,11 @@
 id: 402061570
-type: way
+type: node
 latitude: 34.07464
 longitude: -117.20314
 postcode: "92374"
 city: Redlands
-street: "San Bernardino Avenue"
-housenumber: 27651
-phone: "+1 909-792-3149"
-opening_hours: "Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-23:00"
-website: "https://www.rossstores.com/"
+street: San Bernardino Avenue
+housenumber: "27651"
+phone: +1 909-792-3149
+opening_hours: Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-23:00
+website: https://www.rossstores.com/

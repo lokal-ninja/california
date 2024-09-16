@@ -1,11 +1,11 @@
 id: 123162167
-type: way
+type: node
 latitude: 37.37741
 longitude: -121.93904
 postcode: "95131"
 city: San Jose
-street: "Channing Avenue"
-housenumber: 2510
+street: Channing Avenue
+housenumber: "2510"
 phone: ""
 opening_hours: ""
-website: "https://www.unitedwholesaleflowers.com/"
+website: https://www.unitedwholesaleflowers.com/

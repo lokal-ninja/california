@@ -1,11 +1,11 @@
 id: 614353713
-type: way
+type: node
 latitude: 33.91889
 longitude: -117.88833
 postcode: "92821"
 city: Brea
-street: "East Birch Street"
-housenumber: 855
-phone: "+1-714-989-5013"
-opening_hours: "Mo-Fr 08:00-23:00; Sa 08:00-00:00; Su 08:00-23:00"
-website: "https://www.target.com/sl/brea/2482"
+street: East Birch Street
+housenumber: "855"
+phone: +1-714-989-5013
+opening_hours: Mo-Fr 08:00-23:00; Sa 08:00-00:00; Su 08:00-23:00
+website: https://www.target.com/sl/brea/2482

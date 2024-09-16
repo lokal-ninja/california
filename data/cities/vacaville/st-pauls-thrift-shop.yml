@@ -1,11 +1,11 @@
 id: 708331690
-type: way
+type: node
 latitude: 38.35867
 longitude: -121.99258
 postcode: "95688"
 city: Vacaville
-street: "West Street"
-housenumber: 120
+street: West Street
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

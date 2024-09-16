@@ -1,11 +1,11 @@
 id: 106912503
-type: way
+type: node
 latitude: 33.56655
 longitude: -117.21087
 postcode: "92562"
 city: Murrieta
-street: "Village Walk Place"
-housenumber: 24480
-phone: "+1 951-691-5063"
-opening_hours: "Mo-We 09:00-20:00; Th 09:00-18:00; Fr-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ca/murrieta/pet-supplies-murrieta-ca-1145.html"
+street: Village Walk Place
+housenumber: "24480"
+phone: +1 951-691-5063
+opening_hours: Mo-We 09:00-20:00; Th 09:00-18:00; Fr-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/ca/murrieta/pet-supplies-murrieta-ca-1145.html

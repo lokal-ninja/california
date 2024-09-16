@@ -1,11 +1,11 @@
 id: 547222117
-type: way
+type: node
 latitude: 40.62245
 longitude: -122.36401
 postcode: "96003"
 city: Redding
-street: "Mountain View Drive"
-housenumber: 5450
-phone: "+1 530-242-6773"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Mountain View Drive
+housenumber: "5450"
+phone: +1 530-242-6773
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

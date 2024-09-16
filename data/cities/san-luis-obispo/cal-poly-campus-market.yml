@@ -1,11 +1,11 @@
 id: 45638397
-type: way
+type: node
 latitude: 35.3034
 longitude: -120.66273
 postcode: "93407"
 city: San Luis Obispo
-street: "Grand"
-housenumber: 
+street: Grand
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 391532255
-type: way
+type: node
 latitude: 37.46895
 longitude: -122.42615
 postcode: ""
 city: Half Moon Bay
-street: "San Mateo Road"
-housenumber: 251
+street: San Mateo Road
+housenumber: "251"
 phone: ""
 opening_hours: ""
 website: ""

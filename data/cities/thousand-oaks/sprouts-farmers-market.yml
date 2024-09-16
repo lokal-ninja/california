@@ -1,11 +1,11 @@
 id: 380922099
-type: way
+type: node
 latitude: 34.18506
 longitude: -118.8926
 postcode: "91360"
 city: Thousand Oaks
-street: "West Hillcrest Drive"
-housenumber: 600
-phone: "+1 805-716-4373"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/ca/thousand-oaks/w-hillcrest-dr/"
+street: West Hillcrest Drive
+housenumber: "600"
+phone: +1 805-716-4373
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/ca/thousand-oaks/w-hillcrest-dr/

@@ -1,11 +1,11 @@
 id: 404280616
-type: way
+type: node
 latitude: 38.52548
 longitude: -121.44353
 postcode: "95820"
 city: Sacramento
-street: "Fruitridge Road"
-housenumber: 5399
+street: Fruitridge Road
+housenumber: "5399"
 phone: ""
 opening_hours: ""
 website: ""

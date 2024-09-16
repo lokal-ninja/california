@@ -1,11 +1,11 @@
 id: 31839906
-type: way
+type: node
 latitude: 32.89595
 longitude: -117.12378
 postcode: "92126"
 city: San Diego
-street: "Black Mountain Road"
-housenumber: 9520
-phone: "+1 858 689 2222"
-opening_hours: "Mo-Th 09:00-21:00; Fr-Su 09:00-21:30"
+street: Black Mountain Road
+housenumber: "9520"
+phone: +1 858 689 2222
+opening_hours: Mo-Th 09:00-21:00; Fr-Su 09:00-21:30
 website: ""

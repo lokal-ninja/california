@@ -4,8 +4,8 @@ latitude: 37.8805
 longitude: -122.26902
 postcode: ""
 city: Berkeley
-street: "Shattuck Avenue"
-housenumber: 1491
+street: Shattuck Avenue
+housenumber: "1491"
 phone: "+15105257727"
-opening_hours: "Mo-Sa 10:00-20:00; Su 10:00-19:00"
-website: "https://www.booksinc.net/Berkeley"
+opening_hours: Mo-Sa 10:00-20:00; Su 10:00-19:00
+website: https://www.booksinc.net/Berkeley

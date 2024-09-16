@@ -1,11 +1,11 @@
 id: 120653578
-type: way
+type: node
 latitude: 38.57715
 longitude: -121.54732
 postcode: "95691"
 city: West Sacramento
-street: "Evergreen Avenue"
-housenumber: 2600
+street: Evergreen Avenue
+housenumber: "2600"
 phone: ""
 opening_hours: ""
 website: ""

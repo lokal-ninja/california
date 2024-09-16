@@ -1,11 +1,11 @@
 id: 437239344
-type: way
+type: node
 latitude: 36.81039
 longitude: -121.78613
 postcode: "95039"
 city: Moss Landing
-street: "Highway One"
-housenumber: 2420
+street: Highway One
+housenumber: "2420"
 phone: ""
-opening_hours: "Mo-Su 09:00-20:00; Fr,Sa 09:00-21:00"
-website: "http://www.seaharvestfish.com/moss-landing/"
+opening_hours: Mo-Su 09:00-20:00; Fr,Sa 09:00-21:00
+website: http://www.seaharvestfish.com/moss-landing/

@@ -1,11 +1,11 @@
 id: 366037552
-type: way
+type: node
 latitude: 37.32359
 longitude: -121.91584
 postcode: "95126"
 city: San Jose
-street: "West San Carlos Street"
-housenumber: 1445
+street: West San Carlos Street
+housenumber: "1445"
 phone: ""
 opening_hours: ""
-website: "https://www.casademini.com/"
+website: https://www.casademini.com/

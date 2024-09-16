@@ -1,11 +1,11 @@
 id: 658957009
-type: way
+type: node
 latitude: 34.4334
 longitude: -119.84929
 postcode: "93117"
 city: Goleta
-street: "Aero Camino"
-housenumber: 137
-phone: "+1-805-682-9499;+1-805-569-9244"
-opening_hours: "Mo-Fr 10:00-17:00; Sa 10:00-14:00"
-website: "https://ethnicbreads.com/"
+street: Aero Camino
+housenumber: "137"
+phone: +1-805-682-9499;+1-805-569-9244
+opening_hours: Mo-Fr 10:00-17:00; Sa 10:00-14:00
+website: https://ethnicbreads.com/

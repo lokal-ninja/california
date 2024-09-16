@@ -1,11 +1,11 @@
 id: 485104438
-type: way
+type: node
 latitude: 37.89478
 longitude: -122.30915
 postcode: "94710"
 city: Albany
-street: "Cleveland Avenue"
-housenumber: 578
+street: Cleveland Avenue
+housenumber: "578"
 phone: ""
 opening_hours: ""
-website: "https://www.elcerritotires.com/"
+website: https://www.elcerritotires.com/

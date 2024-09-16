@@ -1,11 +1,11 @@
 id: 229833817
-type: way
+type: node
 latitude: 37.32398
 longitude: -121.90049
 postcode: "95126"
 city: San Jose
-street: "Royal Avenue"
-housenumber: 334
+street: Royal Avenue
+housenumber: "334"
 phone: ""
 opening_hours: ""
-website: "https://sanjosewindowshade.net/"
+website: https://sanjosewindowshade.net/

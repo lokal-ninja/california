@@ -1,11 +1,11 @@
 id: 784943913
-type: way
+type: node
 latitude: 33.70735
 longitude: -117.88448
 postcode: "92704"
 city: Santa Ana
-street: "South Bristol Street"
-housenumber: 3013
+street: South Bristol Street
+housenumber: "3013"
 phone: ""
 opening_hours: ""
 website: ""

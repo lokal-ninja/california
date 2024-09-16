@@ -1,11 +1,11 @@
 id: 149100006
-type: way
+type: node
 latitude: 37.76552
 longitude: -122.46697
 postcode: "94122"
 city: San Francisco
-street: "9th Avenue"
-housenumber: 1223
+street: 9th Avenue
+housenumber: "1223"
 phone: ""
 opening_hours: ""
 website: ""

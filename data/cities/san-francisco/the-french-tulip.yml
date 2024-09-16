@@ -4,8 +4,8 @@ latitude: 37.75146
 longitude: -122.42985
 postcode: ""
 city: San Francisco
-street: "24th Street"
-housenumber: 3903
+street: 24th Street
+housenumber: "3903"
 phone: ""
 opening_hours: ""
-website: "https://www.frenchtulip.com/"
+website: https://www.frenchtulip.com/

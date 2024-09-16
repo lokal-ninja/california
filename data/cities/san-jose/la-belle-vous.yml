@@ -4,8 +4,8 @@ latitude: 37.31071
 longitude: -121.90306
 postcode: "95125"
 city: San Jose
-street: "Lincoln Avenue"
-housenumber: 1047
+street: Lincoln Avenue
+housenumber: "1047"
 phone: ""
 opening_hours: ""
-website: "https://labellevous.net/"
+website: https://labellevous.net/

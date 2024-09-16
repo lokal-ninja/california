@@ -4,8 +4,8 @@ latitude: 37.7873
 longitude: -122.41144
 postcode: ""
 city: San Francisco
-street: "Taylor Street"
-housenumber: 518
-phone: "+1 415 6368405"
-opening_hours: "Mo-Su 10:00-21:00"
-website: "https://www.siamorchidsf.com/"
+street: Taylor Street
+housenumber: "518"
+phone: +1 415 6368405
+opening_hours: Mo-Su 10:00-21:00
+website: https://www.siamorchidsf.com/

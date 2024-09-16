@@ -1,11 +1,11 @@
 id: 132239678
-type: way
+type: node
 latitude: 34.1149
 longitude: -117.7735
 postcode: "91750"
 city: La Verne
-street: "Foothill Boulevard"
-housenumber: 1600
-phone: "+1 909-593-2572"
-opening_hours: "Mo-Su 5:00-00:00"
-website: "https://local.vons.com/ca/la-verne/1600-foothill-blvd.html"
+street: Foothill Boulevard
+housenumber: "1600"
+phone: +1 909-593-2572
+opening_hours: Mo-Su 5:00-00:00
+website: https://local.vons.com/ca/la-verne/1600-foothill-blvd.html

@@ -1,11 +1,11 @@
 id: 403721314
-type: way
+type: node
 latitude: 38.5975
 longitude: -121.38363
 postcode: "95825"
 city: Sacramento
-street: "Watt Avenue"
-housenumber: 1745
+street: Watt Avenue
+housenumber: "1745"
 phone: ""
 opening_hours: ""
 website: ""

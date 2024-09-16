@@ -1,11 +1,11 @@
 id: 1040123693
-type: way
+type: node
 latitude: 38.7291
 longitude: -120.80076
 postcode: "95667"
 city: Placerville
-street: "Main Street"
-housenumber: 442
+street: Main Street
+housenumber: "442"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 474228932
-type: way
+type: node
 latitude: 32.81259
 longitude: -115.57789
 postcode: "92243"
 city: El Centro
-street: "North Waterman Avenue"
-housenumber: 2150
-phone: "+1 760-337-1600"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/1555/el-centro-ca/whats-new"
+street: North Waterman Avenue
+housenumber: "2150"
+phone: +1 760-337-1600
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/1555/el-centro-ca/whats-new

@@ -1,11 +1,11 @@
 id: 124473271
-type: way
+type: node
 latitude: 37.40153
 longitude: -122.11479
 postcode: "94022"
 city: Los Altos
-street: "El Camino Real"
-housenumber: 4540
+street: El Camino Real
+housenumber: "4540"
 phone: "+16509413800"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-17:00"
-website: "https://www.dittmers.com/"
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-17:00
+website: https://www.dittmers.com/

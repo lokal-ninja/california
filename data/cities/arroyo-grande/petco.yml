@@ -1,11 +1,11 @@
 id: 383708158
-type: way
+type: node
 latitude: 35.12651
 longitude: -120.59287
 postcode: "93420"
 city: Arroyo Grande
-street: "Rancho Parkway"
-housenumber: 905
-phone: "+1 805-473-0364"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://www.petco.com/"
+street: Rancho Parkway
+housenumber: "905"
+phone: +1 805-473-0364
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://www.petco.com/

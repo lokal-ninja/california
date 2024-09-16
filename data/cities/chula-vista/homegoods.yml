@@ -1,11 +1,11 @@
 id: 725684730
-type: way
+type: node
 latitude: 32.62011
 longitude: -116.96935
 postcode: "91915"
 city: Chula Vista
-street: "Millennia Avenue"
-housenumber: 1630
-phone: "+1 619-397-3715"
-opening_hours: "09:00-22:00"
+street: Millennia Avenue
+housenumber: "1630"
+phone: +1 619-397-3715
+opening_hours: 09:00-22:00
 website: ""

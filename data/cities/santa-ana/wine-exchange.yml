@@ -1,11 +1,11 @@
 id: 360762395
-type: way
+type: node
 latitude: 33.71539
 longitude: -117.84612
 postcode: "92705"
 city: Santa Ana
-street: "Brookhollow Drive"
-housenumber: 1544
+street: Brookhollow Drive
+housenumber: "1544"
 phone: ""
 opening_hours: ""
 website: ""

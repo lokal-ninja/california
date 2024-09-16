@@ -1,11 +1,11 @@
 id: 1032477242
-type: way
+type: node
 latitude: 38.95073
 longitude: -122.62987
 postcode: "95422"
 city: Clearlake
-street: "Lakeshore Drive"
-housenumber: 15188
+street: Lakeshore Drive
+housenumber: "15188"
 phone: "+17072452736"
-opening_hours: "Mo-Fr 09:00-17:30; PH off"
-website: "https://lam-printing.business.site/"
+opening_hours: Mo-Fr 09:00-17:30; PH off
+website: https://lam-printing.business.site/

@@ -1,11 +1,11 @@
 id: 834603318
-type: way
+type: node
 latitude: 41.60699
 longitude: -122.8421
 postcode: "96032"
 city: Fort Jones
-street: "Main Street"
-housenumber: 11911
-phone: "+1 530-468-2266"
-opening_hours: "Mo-Fr 08:00-17:00; Sa-Su 09:00-17:00"
+street: Main Street
+housenumber: "11911"
+phone: +1 530-468-2266
+opening_hours: Mo-Fr 08:00-17:00; Sa-Su 09:00-17:00
 website: ""

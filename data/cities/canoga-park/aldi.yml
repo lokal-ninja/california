@@ -1,11 +1,11 @@
 id: 431876229
-type: way
+type: node
 latitude: 34.18712
 longitude: -118.6227
 postcode: "91307"
 city: Canoga Park
-street: "Victory Boulevard"
-housenumber: 22741
-phone: "+1 844-479-7048"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://stores.aldi.us/ca/west-hills/22741-victory-blvd"
+street: Victory Boulevard
+housenumber: "22741"
+phone: +1 844-479-7048
+opening_hours: Mo-Su 09:00-21:00
+website: https://stores.aldi.us/ca/west-hills/22741-victory-blvd

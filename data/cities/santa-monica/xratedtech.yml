@@ -4,8 +4,8 @@ latitude: 34.02085
 longitude: -118.45295
 postcode: "90405"
 city: Santa Monica
-street: "Ocean Park Boulevard"
-housenumber: 3101
-phone: "443-543-8555"
+street: Ocean Park Boulevard
+housenumber: "3101"
+phone: 443-543-8555
 opening_hours: ""
-website: "https://xratedtech.com/"
+website: https://xratedtech.com/

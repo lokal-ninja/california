@@ -1,11 +1,11 @@
 id: 206120796
-type: way
+type: node
 latitude: 34.14669
 longitude: -118.15175
 postcode: "91105"
 city: Pasadena
-street: "West Union Street"
-housenumber: 62
+street: West Union Street
+housenumber: "62"
 phone: ""
 opening_hours: ""
-website: "https://www.enchantressco.com/"
+website: https://www.enchantressco.com/

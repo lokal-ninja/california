@@ -1,11 +1,11 @@
 id: 1292294357
-type: way
+type: node
 latitude: 36.73385
 longitude: -119.49701
 postcode: "93657"
 city: Sanger
-street: "East Kings Canyon Road"
-housenumber: 16246
+street: East Kings Canyon Road
+housenumber: "16246"
 phone: "+15597872111"
-opening_hours: "Mo-sa 05:30-21:00; Su 06:00-21:00"
+opening_hours: Mo-sa 05:30-21:00; Su 06:00-21:00
 website: ""

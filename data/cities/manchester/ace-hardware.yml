@@ -2,10 +2,10 @@ id: 541343526
 type: node
 latitude: 38.97013
 longitude: -123.68724
-postcode: "95459-8976"
+postcode: 95459-8976
 city: Manchester
-street: "South Highway 1"
-housenumber: 19400
-phone: "+1 707-882-2805"
-opening_hours: "08:00-19:00"
+street: South Highway 1
+housenumber: "19400"
+phone: +1 707-882-2805
+opening_hours: 08:00-19:00
 website: ""

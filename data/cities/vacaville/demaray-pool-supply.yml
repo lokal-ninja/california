@@ -1,11 +1,11 @@
 id: 689555564
-type: way
+type: node
 latitude: 38.3653
 longitude: -121.96918
 postcode: "95688"
 city: Vacaville
-street: "Browns Valley Parkway"
-housenumber: 132
+street: Browns Valley Parkway
+housenumber: "132"
 phone: ""
 opening_hours: ""
 website: ""

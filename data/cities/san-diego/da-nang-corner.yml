@@ -4,8 +4,8 @@ latitude: 32.82039
 longitude: -117.1557
 postcode: "92111"
 city: San Diego
-street: "Convoy Street"
-housenumber: 4428
-phone: "+1 858-737-4919"
-opening_hours: "Tu-Th,Su 11:00-20:30; Fr-Sa 11:00-21:00"
-website: "https://danangcorner.com"
+street: Convoy Street
+housenumber: "4428"
+phone: +1 858-737-4919
+opening_hours: Tu-Th,Su 11:00-20:30; Fr-Sa 11:00-21:00
+website: https://danangcorner.com

@@ -1,11 +1,11 @@
 id: 238293015
-type: way
+type: node
 latitude: 40.80325
 longitude: -124.16832
 postcode: "95501"
 city: Eureka
-street: "3rd Street"
-housenumber: 
-phone: "707 443-1598"
+street: 3rd Street
+housenumber: ""
+phone: 707 443-1598
 opening_hours: ""
-website: "http://www.docustation.net/"
+website: http://www.docustation.net/

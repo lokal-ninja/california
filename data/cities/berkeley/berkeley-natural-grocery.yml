@@ -1,11 +1,11 @@
 id: 134483637
-type: way
+type: node
 latitude: 37.88105
 longitude: -122.2887
 postcode: ""
 city: Berkeley
-street: "Gilman Street"
-housenumber: 1336
+street: Gilman Street
+housenumber: "1336"
 phone: ""
-opening_hours: "Mo-Su 08:30-20:30"
-website: "https://naturalgrocery.com/"
+opening_hours: Mo-Su 08:30-20:30
+website: https://naturalgrocery.com/

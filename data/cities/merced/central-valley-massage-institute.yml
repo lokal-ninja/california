@@ -1,11 +1,11 @@
 id: 311695602
-type: way
+type: node
 latitude: 37.32309
 longitude: -120.48172
 postcode: "95348"
 city: Merced
-street: "Loughborough Drive"
-housenumber: 790
+street: Loughborough Drive
+housenumber: "790"
 phone: ""
 opening_hours: ""
 website: ""

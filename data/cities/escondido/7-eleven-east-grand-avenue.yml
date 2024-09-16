@@ -1,11 +1,11 @@
 id: 94333957
-type: way
+type: node
 latitude: 33.12265
 longitude: -117.07891
 postcode: "92025"
 city: Escondido
-street: "East Grand Avenue"
-housenumber: 263
-phone: "+1 760-741-3628"
+street: East Grand Avenue
+housenumber: "263"
+phone: +1 760-741-3628
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/escondido/263-e.-grand-21786"
+website: https://www.7-eleven.com/locations/ca/escondido/263-e.-grand-21786

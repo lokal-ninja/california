@@ -1,11 +1,11 @@
 id: 717297576
-type: way
+type: node
 latitude: 37.88506
 longitude: -122.19172
 postcode: "94563"
 city: Orinda
-street: "Orinda Way"
-housenumber: 63
+street: Orinda Way
+housenumber: "63"
 phone: ""
-opening_hours: "Mo-Fr 05:30-19:30"
+opening_hours: Mo-Fr 05:30-19:30
 website: ""

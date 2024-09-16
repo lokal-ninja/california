@@ -1,11 +1,11 @@
 id: 544065390
-type: way
+type: node
 latitude: 32.95537
 longitude: -117.04273
 postcode: "92064"
 city: Poway
-street: "Poway Road"
-housenumber: 13343
-phone: "+1 858-486-2022"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/ca/poway/5045/"
+street: Poway Road
+housenumber: "13343"
+phone: +1 858-486-2022
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/ca/poway/5045/

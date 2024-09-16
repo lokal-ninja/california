@@ -1,11 +1,11 @@
 id: 407110604
-type: way
+type: node
 latitude: 38.35657
 longitude: -121.99022
 postcode: "95688"
 city: Vacaville
-street: "Parker Street"
-housenumber: 300
+street: Parker Street
+housenumber: "300"
 phone: ""
-opening_hours: "Tu-Sa 07:30-23:00; Su-Mo 07:30-22:00"
+opening_hours: Tu-Sa 07:30-23:00; Su-Mo 07:30-22:00
 website: ""

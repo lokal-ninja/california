@@ -1,11 +1,11 @@
 id: 257584706
-type: way
+type: node
 latitude: 37.76817
 longitude: -122.233
 postcode: "94501"
 city: Alameda
-street: "Blanding Avenue"
-housenumber: 2681
+street: Blanding Avenue
+housenumber: "2681"
 phone: ""
 opening_hours: ""
 website: ""

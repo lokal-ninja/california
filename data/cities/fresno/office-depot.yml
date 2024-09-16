@@ -1,11 +1,11 @@
 id: 183654772
-type: way
+type: node
 latitude: 36.74244
 longitude: -119.77913
 postcode: "93721"
 city: Fresno
-street: "East Divisadero Street"
-housenumber: 2736
-phone: "+1 559-497-9012"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/ca/fresno/office-depot-945"
+street: East Divisadero Street
+housenumber: "2736"
+phone: +1 559-497-9012
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/ca/fresno/office-depot-945

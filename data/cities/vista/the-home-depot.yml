@@ -1,11 +1,11 @@
 id: 423235978
-type: way
+type: node
 latitude: 33.1412
 longitude: -117.24149
 postcode: "92081"
 city: Vista
-street: "South Melrose Drive"
-housenumber: 2430
-phone: "+1 760-599-4080"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Vista/CA/Vista/92081/1074"
+street: South Melrose Drive
+housenumber: "2430"
+phone: +1 760-599-4080
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Vista/CA/Vista/92081/1074

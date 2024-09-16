@@ -1,11 +1,11 @@
 id: 458284957
-type: way
+type: node
 latitude: 40.58501
 longitude: -122.34542
 postcode: "96003"
 city: Redding
-street: "Dana Drive"
-housenumber: 1405
-phone: "+1 530-222-7707"
+street: Dana Drive
+housenumber: "1405"
+phone: +1 530-222-7707
 opening_hours: ""
-website: "https://stores.ashleyfurniture.com/store/us/california/redding/7710000052/"
+website: https://stores.ashleyfurniture.com/store/us/california/redding/7710000052/

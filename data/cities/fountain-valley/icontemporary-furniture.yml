@@ -1,11 +1,11 @@
 id: 506300048
-type: way
+type: node
 latitude: 33.70037
 longitude: -117.93657
 postcode: "92708"
 city: Fountain Valley
-street: "Newhope Street"
-housenumber: 18093
+street: Newhope Street
+housenumber: "18093"
 phone: ""
 opening_hours: ""
 website: ""

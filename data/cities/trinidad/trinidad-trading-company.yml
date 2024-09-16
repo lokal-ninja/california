@@ -1,11 +1,11 @@
 id: 409186960
-type: way
+type: node
 latitude: 41.06125
 longitude: -124.14183
 postcode: "95570"
 city: Trinidad
-street: "Main Street"
-housenumber: 460
+street: Main Street
+housenumber: "460"
 phone: ""
-opening_hours: "Mo-Su 10:00-17:30"
-website: "https://trinidadtrading.com/"
+opening_hours: Mo-Su 10:00-17:30
+website: https://trinidadtrading.com/

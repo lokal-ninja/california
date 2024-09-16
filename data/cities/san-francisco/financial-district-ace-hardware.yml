@@ -2,10 +2,10 @@ id: 4632000726
 type: node
 latitude: 37.79248
 longitude: -122.39908
-postcode: "94111-5526"
+postcode: 94111-5526
 city: San Francisco
-street: "Pine Street"
-housenumber: 140
-phone: "+1 415-362-7744"
-opening_hours: "Mo-Th 08:00-15:00; Fr 08:00-14:00"
+street: Pine Street
+housenumber: "140"
+phone: +1 415-362-7744
+opening_hours: Mo-Th 08:00-15:00; Fr 08:00-14:00
 website: ""

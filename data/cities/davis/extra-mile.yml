@@ -1,11 +1,11 @@
 id: 107138735
-type: way
+type: node
 latitude: 38.5571
 longitude: -121.69503
 postcode: "95618"
 city: Davis
-street: "Mace Boulevard"
-housenumber: 333
+street: Mace Boulevard
+housenumber: "333"
 phone: ""
 opening_hours: ""
 website: ""

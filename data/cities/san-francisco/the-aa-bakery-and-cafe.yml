@@ -4,8 +4,8 @@ latitude: 37.79567
 longitude: -122.40811
 postcode: ""
 city: San Francisco
-street: "Stockton Street"
-housenumber: 1068
-phone: "+1 415 9810123"
-opening_hours: "Mo-Su 06:00-18:30"
+street: Stockton Street
+housenumber: "1068"
+phone: +1 415 9810123
+opening_hours: Mo-Su 06:00-18:30
 website: ""

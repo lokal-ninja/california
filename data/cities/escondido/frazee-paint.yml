@@ -1,11 +1,11 @@
 id: 148776607
-type: way
+type: node
 latitude: 33.12636
 longitude: -117.08909
 postcode: "92025"
 city: Escondido
-street: "North Escondido Boulevard"
-housenumber: 615
+street: North Escondido Boulevard
+housenumber: "615"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 611842369
-type: way
+type: node
 latitude: 38.35543
 longitude: -121.98255
 postcode: "95687"
 city: Vacaville
-street: "Mason Street"
-housenumber: 801
+street: Mason Street
+housenumber: "801"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 206232570
-type: way
+type: node
 latitude: 33.78732
 longitude: -117.85299
 postcode: "92866"
 city: Orange
-street: "South Glassell Street"
-housenumber: 107
-phone: "714.997.7673"
+street: South Glassell Street
+housenumber: "107"
+phone: 714.997.7673
 opening_hours: ""
-website: "https://enchantedfloristorange.com/"
+website: https://enchantedfloristorange.com/

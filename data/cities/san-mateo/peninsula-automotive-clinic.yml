@@ -1,11 +1,11 @@
 id: 237650483
-type: way
+type: node
 latitude: 37.5635
 longitude: -122.31919
 postcode: "94401"
 city: San Mateo
-street: "7th Avenue"
-housenumber: 317
+street: 7th Avenue
+housenumber: "317"
 phone: ""
 opening_hours: ""
-website: "https://www.pacsanmateo.com/"
+website: https://www.pacsanmateo.com/

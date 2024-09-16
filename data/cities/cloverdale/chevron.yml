@@ -1,11 +1,11 @@
 id: 271946206
-type: way
+type: node
 latitude: 38.78387
 longitude: -123.01264
 postcode: "95425"
 city: Cloverdale
-street: "South Cloverdale Boulevard"
-housenumber: 1165
+street: South Cloverdale Boulevard
+housenumber: "1165"
 phone: ""
 opening_hours: ""
 website: ""

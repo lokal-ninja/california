@@ -1,11 +1,11 @@
 id: 304320116
-type: way
+type: node
 latitude: 33.67324
 longitude: -116.18195
 postcode: "92236"
 city: Coachella
-street: "Cesar Chavez Street"
-housenumber: 51663
-phone: "760-989-7010"
+street: Cesar Chavez Street
+housenumber: "51663"
+phone: 760-989-7010
 opening_hours: ""
 website: ""

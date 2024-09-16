@@ -1,11 +1,11 @@
 id: 586437025
-type: way
+type: node
 latitude: 38.40224
 longitude: -122.82215
 postcode: "95472"
 city: Sebastopol
-street: "Sebastopol Avenue"
-housenumber: 6877
+street: Sebastopol Avenue
+housenumber: "6877"
 phone: ""
-opening_hours: "Mo-Su 08:00-24:00"
-website: "https://www.cvs.com/store-locator/sebastopol-ca-pharmacies/6877-sebastopol-ave-sebastopol-ca-95472/storeid=9872"
+opening_hours: Mo-Su 08:00-24:00
+website: https://www.cvs.com/store-locator/sebastopol-ca-pharmacies/6877-sebastopol-ave-sebastopol-ca-95472/storeid=9872

@@ -1,11 +1,11 @@
 id: 129381509
-type: way
+type: node
 latitude: 33.72457
 longitude: -117.98823
 postcode: "92683"
 city: Westminster
-street: "Beach Boulevard"
-housenumber: 16450
+street: Beach Boulevard
+housenumber: "16450"
 phone: ""
 opening_hours: ""
-website: "https://local.pavilions.com/ca/westminster-2206.html"
+website: https://local.pavilions.com/ca/westminster-2206.html

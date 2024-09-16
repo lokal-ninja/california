@@ -4,8 +4,8 @@ latitude: 37.43858
 longitude: -122.1602
 postcode: ""
 city: Palo Alto
-street: "El Camino Real"
-housenumber: 855
-phone: "650-374-6977"
-opening_hours: "Mo-Sa 10:00-20:00; Su 10:00-17:00"
-website: "https://www.antoinescookieshop.com/"
+street: El Camino Real
+housenumber: "855"
+phone: 650-374-6977
+opening_hours: Mo-Sa 10:00-20:00; Su 10:00-17:00
+website: https://www.antoinescookieshop.com/

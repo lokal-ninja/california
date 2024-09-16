@@ -1,11 +1,11 @@
 id: 45599266
-type: way
+type: node
 latitude: 35.29323
 longitude: -120.67292
 postcode: ""
 city: San Luis Obispo
-street: "Foothill Boulevard"
-housenumber: 771
+street: Foothill Boulevard
+housenumber: "771"
 phone: ""
 opening_hours: ""
-website: "https://www.californiafreshmarket.com/StoreLocator/Store?L=131671&M=&From=&S="
+website: https://www.californiafreshmarket.com/StoreLocator/Store?L=131671&M=&From=&S=

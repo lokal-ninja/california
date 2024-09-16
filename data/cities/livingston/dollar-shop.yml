@@ -1,11 +1,11 @@
 id: 311695775
-type: way
+type: node
 latitude: 37.38556
 longitude: -120.72284
 postcode: "95334"
 city: Livingston
-street: "Main Street"
-housenumber: 523
+street: Main Street
+housenumber: "523"
 phone: ""
 opening_hours: ""
 website: ""

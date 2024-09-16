@@ -1,11 +1,11 @@
 id: 485622694
-type: way
+type: node
 latitude: 33.06343
 longitude: -117.26578
 postcode: "92024"
 city: Encinitas
-street: "North El Camino Real"
-housenumber: 
+street: North El Camino Real
+housenumber: ""
 phone: ""
-opening_hours: "Mo-We 09:30-20:30; Th,Fr 09:30-21:00; Sa 08:30-20:30; Su 10:00-18:00"
+opening_hours: Mo-We 09:30-20:30; Th,Fr 09:30-21:00; Sa 08:30-20:30; Su 10:00-18:00
 website: ""

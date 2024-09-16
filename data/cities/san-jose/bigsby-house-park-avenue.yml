@@ -4,8 +4,8 @@ latitude: 37.3259
 longitude: -121.91034
 postcode: "95126"
 city: San Jose
-street: "Park Avenue"
-housenumber: 1070
+street: Park Avenue
+housenumber: "1070"
 phone: ""
 opening_hours: ""
-website: "https://www.bigsbyhouse.com/?fbclid=IwAR0K0SNBbI6H5UODTtYIv_lqu0LiIs2WX7KLY6eiQqvcbsGKoX_vTU2nv4o"
+website: https://www.bigsbyhouse.com/?fbclid=IwAR0K0SNBbI6H5UODTtYIv_lqu0LiIs2WX7KLY6eiQqvcbsGKoX_vTU2nv4o

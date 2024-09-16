@@ -1,11 +1,11 @@
 id: 506265296
-type: way
+type: node
 latitude: 38.01802
 longitude: -122.13765
 postcode: "94553"
 city: Martinez
-street: "Escobar Street"
-housenumber: 631
+street: Escobar Street
+housenumber: "631"
 phone: ""
 opening_hours: ""
-website: "http://www.spottedcowvintage.com/"
+website: http://www.spottedcowvintage.com/

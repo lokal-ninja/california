@@ -1,11 +1,11 @@
 id: 994404269
-type: way
+type: node
 latitude: 32.8071
 longitude: -116.95137
 postcode: "92021"
 city: El Cajon
-street: "North Mollison Avenue"
-housenumber: 880
+street: North Mollison Avenue
+housenumber: "880"
 phone: ""
 opening_hours: ""
 website: ""

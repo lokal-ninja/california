@@ -1,11 +1,11 @@
 id: 85206176
-type: way
+type: node
 latitude: 39.72259
 longitude: -121.80541
 postcode: "95928"
 city: Chico
-street: "Forest Avenue"
-housenumber: 2044
-phone: "+1 530-899-8760"
-opening_hours: "Mo-Su 06:00-11:00"
-website: "https://www.walmart.com/store/2044-chico-ca"
+street: Forest Avenue
+housenumber: "2044"
+phone: +1 530-899-8760
+opening_hours: Mo-Su 06:00-11:00
+website: https://www.walmart.com/store/2044-chico-ca

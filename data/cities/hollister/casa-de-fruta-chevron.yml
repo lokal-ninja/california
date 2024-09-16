@@ -1,11 +1,11 @@
 id: 78283658
-type: way
+type: node
 latitude: 36.99055
 longitude: -121.38075
 postcode: "95023"
 city: Hollister
-street: "Pacheco Pass Highway"
-housenumber: 10011
+street: Pacheco Pass Highway
+housenumber: "10011"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 444644977
 type: node
 latitude: 37.85877
 longitude: -122.25306
-postcode: "94705-2113"
+postcode: 94705-2113
 city: Berkeley
-street: "College Avenue"
-housenumber: 2887
-phone: "+1 510-841-6291"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ca/berkeley/2887-college-ave-16192"
+street: College Avenue
+housenumber: "2887"
+phone: +1 510-841-6291
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ca/berkeley/2887-college-ave-16192

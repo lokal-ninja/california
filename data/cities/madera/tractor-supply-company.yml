@@ -1,11 +1,11 @@
 id: 765933066
-type: way
+type: node
 latitude: 36.98164
 longitude: -120.07345
 postcode: "93638"
 city: Madera
-street: "Country Club Drive"
-housenumber: 1565
-phone: "+1 559-661-4150"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Country Club Drive
+housenumber: "1565"
+phone: +1 559-661-4150
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

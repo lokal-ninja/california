@@ -1,11 +1,11 @@
 id: 311695400
-type: way
+type: node
 latitude: 37.35983
 longitude: -120.59675
 postcode: "95301"
 city: Atwater
-street: "First Street"
-housenumber: 2689
+street: First Street
+housenumber: "2689"
 phone: ""
 opening_hours: ""
 website: ""

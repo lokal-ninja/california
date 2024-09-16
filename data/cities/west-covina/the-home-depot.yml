@@ -1,11 +1,11 @@
 id: 470570736
-type: way
+type: node
 latitude: 34.03755
 longitude: -117.91113
 postcode: "91792"
 city: West Covina
-street: "South Azusa Avenue"
-housenumber: 2220
-phone: "+1 626-965-1013"
-opening_hours: "Su 07:00-21:00, Mo-Sa 06:00-22:00"
-website: "https://www.homedepot.com/l/west-covina/ca/west-covina/91792/8463"
+street: South Azusa Avenue
+housenumber: "2220"
+phone: +1 626-965-1013
+opening_hours: Su 07:00-21:00, Mo-Sa 06:00-22:00
+website: https://www.homedepot.com/l/west-covina/ca/west-covina/91792/8463

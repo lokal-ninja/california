@@ -4,8 +4,8 @@ latitude: 37.01256
 longitude: -121.5946
 postcode: "95020"
 city: Gilroy
-street: "1st Street"
-housenumber: 1230
-phone: "+1-408-337-5056"
+street: 1st Street
+housenumber: "1230"
+phone: +1-408-337-5056
 opening_hours: ""
-website: "https://calipetgoodz.com/"
+website: https://calipetgoodz.com/

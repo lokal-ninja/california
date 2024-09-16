@@ -1,11 +1,11 @@
 id: 479460916
-type: way
+type: node
 latitude: 39.15752
 longitude: -121.57848
 postcode: "95901"
 city: Marysville
-street: "Covillaud Street"
-housenumber: 1912
+street: Covillaud Street
+housenumber: "1912"
 phone: ""
 opening_hours: ""
 website: ""

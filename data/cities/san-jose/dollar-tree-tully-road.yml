@@ -1,11 +1,11 @@
 id: 38715475
-type: way
+type: node
 latitude: 37.32702
 longitude: -121.82019
 postcode: "95122"
 city: San Jose
-street: "Tully Road"
-housenumber: 2155
+street: Tully Road
+housenumber: "2155"
 phone: ""
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.dollartree.com/locations/ca/san-jose/4681/"
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.dollartree.com/locations/ca/san-jose/4681/

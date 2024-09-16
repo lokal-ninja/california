@@ -1,11 +1,11 @@
 id: 470127462
-type: way
+type: node
 latitude: 40.86904
 longitude: -124.08561
 postcode: "95521"
 city: Arcata
-street: "G Street"
-housenumber: 942
+street: G Street
+housenumber: "942"
 phone: ""
 opening_hours: ""
 website: ""

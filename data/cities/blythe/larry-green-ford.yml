@@ -1,11 +1,11 @@
 id: 363499076
-type: way
+type: node
 latitude: 33.60972
 longitude: -114.59254
 postcode: "92225"
 city: Blythe
-street: "East Hobsonway"
-housenumber: 410
+street: East Hobsonway
+housenumber: "410"
 phone: ""
 opening_hours: ""
-website: "https://www.larrygreenford.com/"
+website: https://www.larrygreenford.com/

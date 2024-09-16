@@ -1,11 +1,11 @@
 id: 51051532
-type: way
+type: node
 latitude: 34.27077
 longitude: -118.49939
 postcode: "91344"
 city: Granada Hills
-street: "San Fernando Mission Boulevard"
-housenumber: 16830
-phone: "+1 818-831-8511"
+street: San Fernando Mission Boulevard
+housenumber: "16830"
+phone: +1 818-831-8511
 opening_hours: ""
-website: "https://local.vons.com/ca/granada-hills/16830-san-fernando-mission-blvd.html"
+website: https://local.vons.com/ca/granada-hills/16830-san-fernando-mission-blvd.html

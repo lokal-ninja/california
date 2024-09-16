@@ -1,11 +1,11 @@
 id: 472513304
-type: way
+type: node
 latitude: 34.41443
 longitude: -118.4728
 postcode: "91351"
 city: Canyon Country
-street: "Soledad Canyon Road"
-housenumber: 19340
-phone: "+1 661-252-6226"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.ralphs.com/stores/grocery/ca/canyon-country/canyon-country-village/703/00726"
+street: Soledad Canyon Road
+housenumber: "19340"
+phone: +1 661-252-6226
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.ralphs.com/stores/grocery/ca/canyon-country/canyon-country-village/703/00726

@@ -4,8 +4,8 @@ latitude: 36.96857
 longitude: -122.02485
 postcode: "95060"
 city: Santa Cruz
-street: "Pacific Avenue"
-housenumber: 703
+street: Pacific Avenue
+housenumber: "703"
 phone: ""
-opening_hours: "Mo 16:00-19:00, Th 15:00-18:00, Sa 15:00-18:00, Su 14:00-17:00"
-website: "https://thefabrica.org/"
+opening_hours: Mo 16:00-19:00, Th 15:00-18:00, Sa 15:00-18:00, Su 14:00-17:00
+website: https://thefabrica.org/

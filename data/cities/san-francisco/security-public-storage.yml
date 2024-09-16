@@ -4,8 +4,8 @@ latitude: 37.77408
 longitude: -122.4216
 postcode: "94102"
 city: San Francisco
-street: "Page Street"
-housenumber: 43
-phone: "+1 415-796-0460"
-opening_hours: "Mo-Sa 07:00-19:00; Su 10:00-16:00"
-website: "https://www.securitypublicstorage.com/locations/san-francisco"
+street: Page Street
+housenumber: "43"
+phone: +1 415-796-0460
+opening_hours: Mo-Sa 07:00-19:00; Su 10:00-16:00
+website: https://www.securitypublicstorage.com/locations/san-francisco

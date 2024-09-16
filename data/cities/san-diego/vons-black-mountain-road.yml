@@ -1,11 +1,11 @@
 id: 133104819
-type: way
+type: node
 latitude: 32.95756
 longitude: -117.12488
 postcode: "92129"
 city: San Diego
-street: "Black Mountain Road"
-housenumber: 13255
-phone: "+1 858-484-7234"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.vons.com/ca/san-diego/13255-black-mountain-rd.html"
+street: Black Mountain Road
+housenumber: "13255"
+phone: +1 858-484-7234
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.vons.com/ca/san-diego/13255-black-mountain-rd.html

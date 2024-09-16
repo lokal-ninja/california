@@ -1,11 +1,11 @@
 id: 995432663
-type: way
+type: node
 latitude: 39.23402
 longitude: -121.03349
 postcode: "95945"
 city: Grass Valley
-street: "Plaza Drive"
-housenumber: 1008
+street: Plaza Drive
+housenumber: "1008"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/CA/Grass-Valley/1008-Plaza-Dr"
+website: https://www.speedway.com/locations/CA/Grass-Valley/1008-Plaza-Dr

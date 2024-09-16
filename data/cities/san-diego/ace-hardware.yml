@@ -2,10 +2,10 @@ id: 1097324133
 type: node
 latitude: 32.8286
 longitude: -117.20561
-postcode: "92117-2702"
+postcode: 92117-2702
 city: San Diego
-street: "Clairemont Drive"
-housenumber: 4615
-phone: "+1 858-273-1608"
-opening_hours: "Mo-Sa 08:00-19:00; Su 08:00-18:00"
+street: Clairemont Drive
+housenumber: "4615"
+phone: +1 858-273-1608
+opening_hours: Mo-Sa 08:00-19:00; Su 08:00-18:00
 website: ""

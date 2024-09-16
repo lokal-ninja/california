@@ -1,11 +1,11 @@
 id: 1296285573
-type: way
+type: node
 latitude: 36.83611
 longitude: -119.86079
 postcode: "93711"
 city: Fresno
-street: "North Brawley Avenue"
-housenumber: 6710
-phone: "+1 559-438-3080"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
-website: "https://www.tractorsupply.com/tsc/store_Fresno-CA-93711_2194"
+street: North Brawley Avenue
+housenumber: "6710"
+phone: +1 559-438-3080
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
+website: https://www.tractorsupply.com/tsc/store_Fresno-CA-93711_2194

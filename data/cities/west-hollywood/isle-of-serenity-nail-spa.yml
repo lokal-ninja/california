@@ -4,8 +4,8 @@ latitude: 34.0845
 longitude: -118.38512
 postcode: "90069"
 city: West Hollywood
-street: "Santa Monica Boulevard"
-housenumber: 8929
-phone: "+1-310-777-5288"
-opening_hours: "Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 10:00-20:00"
-website: "https://www.isleofserenity.com/"
+street: Santa Monica Boulevard
+housenumber: "8929"
+phone: +1-310-777-5288
+opening_hours: Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 10:00-20:00
+website: https://www.isleofserenity.com/

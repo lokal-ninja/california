@@ -4,8 +4,8 @@ latitude: 34.05284
 longitude: -118.30682
 postcode: "90006"
 city: Los Angeles
-street: "West Olympic Blvd"
-housenumber: 3225
-phone: "+1-213-365-0244"
-opening_hours: "Mo-Sa 08:00-18:00"
+street: West Olympic Blvd
+housenumber: "3225"
+phone: +1-213-365-0244
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

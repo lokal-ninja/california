@@ -1,11 +1,11 @@
 id: 100225392
-type: way
+type: node
 latitude: 37.39733
 longitude: -122.06225
 postcode: "94043"
 city: Mountain View
-street: "East Middlefield Road"
-housenumber: 199
+street: East Middlefield Road
+housenumber: "199"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/ca/mountain-view/4978/"
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/ca/mountain-view/4978/

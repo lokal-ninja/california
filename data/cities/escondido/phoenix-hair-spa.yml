@@ -1,11 +1,11 @@
 id: 95046732
-type: way
+type: node
 latitude: 33.11844
 longitude: -117.08763
 postcode: "92025"
 city: Escondido
-street: "West Grand Avenue"
-housenumber: 541
+street: West Grand Avenue
+housenumber: "541"
 phone: ""
 opening_hours: ""
 website: ""

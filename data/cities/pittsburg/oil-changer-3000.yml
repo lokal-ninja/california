@@ -1,11 +1,11 @@
 id: 1020447665
-type: way
+type: node
 latitude: 38.0038
 longitude: -121.89456
 postcode: "94565"
 city: Pittsburg
-street: "Railroad Avenue"
-housenumber: 3858
+street: Railroad Avenue
+housenumber: "3858"
 phone: ""
 opening_hours: ""
 website: ""

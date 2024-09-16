@@ -1,11 +1,11 @@
 id: 80216858
-type: way
+type: node
 latitude: 34.07979
 longitude: -118.15304
 postcode: "91803"
 city: Alhambra
-street: "Fremont Avenue"
-housenumber: 1201
-phone: "+1 626-289-7250"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/ca/alhambra-790.shtml"
+street: Fremont Avenue
+housenumber: "1201"
+phone: +1 626-289-7250
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/ca/alhambra-790.shtml

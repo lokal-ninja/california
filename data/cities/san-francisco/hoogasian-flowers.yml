@@ -1,11 +1,11 @@
 id: 382351223
-type: way
+type: node
 latitude: 37.77317
 longitude: -122.40239
 postcode: ""
 city: San Francisco
-street: "7th Street"
-housenumber: 615
+street: 7th Street
+housenumber: "615"
 phone: ""
 opening_hours: ""
 website: ""

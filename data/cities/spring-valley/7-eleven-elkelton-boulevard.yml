@@ -1,11 +1,11 @@
 id: 721088770
-type: way
+type: node
 latitude: 32.71451
 longitude: -117.01705
 postcode: "91977"
 city: Spring Valley
-street: "Elkelton Boulevard"
-housenumber: 1075
+street: Elkelton Boulevard
+housenumber: "1075"
 phone: "+16194604231"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ca/spring-valley/1075-elkelton-rd-25807"
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ca/spring-valley/1075-elkelton-rd-25807

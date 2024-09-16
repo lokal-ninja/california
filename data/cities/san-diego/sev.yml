@@ -4,8 +4,8 @@ latitude: 32.70681
 longitude: -117.15524
 postcode: "92101"
 city: San Diego
-street: "Park Plaza"
-housenumber: 100
+street: Park Plaza
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "https://sevlaser.com/"
+website: https://sevlaser.com/

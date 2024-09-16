@@ -1,11 +1,11 @@
 id: 79890513
-type: way
+type: node
 latitude: 33.06428
 longitude: -117.26188
 postcode: "92024"
 city: Encinitas
-street: "North El Camino Real"
-housenumber: 1001
-phone: "+1 760-943-9600"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Encinitas/CA/Encinitas/92024/660"
+street: North El Camino Real
+housenumber: "1001"
+phone: +1 760-943-9600
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Encinitas/CA/Encinitas/92024/660

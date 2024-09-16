@@ -1,11 +1,11 @@
 id: 708351151
-type: way
+type: node
 latitude: 38.35776
 longitude: -121.98884
 postcode: "95688"
 city: Vacaville
-street: "Dobbins Street"
-housenumber: 198
+street: Dobbins Street
+housenumber: "198"
 phone: ""
 opening_hours: ""
 website: ""

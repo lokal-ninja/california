@@ -1,11 +1,11 @@
 id: 785248141
-type: way
+type: node
 latitude: 33.70685
 longitude: -117.88512
 postcode: "92704"
 city: Santa Ana
-street: "South Bristol Street"
-housenumber: 3041
-phone: "+1 (714) 957-5728"
+street: South Bristol Street
+housenumber: "3041"
+phone: +1 (714) 957-5728
 opening_hours: ""
 website: ""

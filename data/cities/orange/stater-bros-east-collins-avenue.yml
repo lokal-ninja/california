@@ -1,11 +1,11 @@
 id: 228731119
-type: way
+type: node
 latitude: 33.8018
 longitude: -117.83479
 postcode: "92867"
 city: Orange
-street: "East Collins Avenue"
-housenumber: 1800
-phone: "+1 714-538-5550"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.staterbros.com/stores/28"
+street: East Collins Avenue
+housenumber: "1800"
+phone: +1 714-538-5550
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.staterbros.com/stores/28

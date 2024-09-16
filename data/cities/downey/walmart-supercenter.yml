@@ -1,11 +1,11 @@
 id: 586967632
-type: way
+type: node
 latitude: 33.924
 longitude: -118.12892
 postcode: "90242"
 city: Downey
-street: "Apollo Way"
-housenumber: 9001
-phone: "+1 562-803-3507"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/4132-downey-ca"
+street: Apollo Way
+housenumber: "9001"
+phone: +1 562-803-3507
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/4132-downey-ca

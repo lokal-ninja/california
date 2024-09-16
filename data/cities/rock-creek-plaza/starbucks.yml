@@ -1,11 +1,11 @@
 id: 85688677
-type: way
+type: node
 latitude: 38.94025
 longitude: -121.09596
 postcode: "95603"
 city: Rock Creek Plaza
-street: "Bell Road"
-housenumber: 2815
-phone: "+1 530-887-1874"
-opening_hours: "Mo-Th 05:30-18:00; Fr 05:30-18:30; Sa, Su 06:00-18:30"
-website: "https://www.starbucks.com/store-locator/store/17613/bell-highway-49-auburn-2815-bell-road-auburn-ca-956032539-us"
+street: Bell Road
+housenumber: "2815"
+phone: +1 530-887-1874
+opening_hours: Mo-Th 05:30-18:00; Fr 05:30-18:30; Sa, Su 06:00-18:30
+website: https://www.starbucks.com/store-locator/store/17613/bell-highway-49-auburn-2815-bell-road-auburn-ca-956032539-us

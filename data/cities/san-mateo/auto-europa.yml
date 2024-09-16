@@ -1,11 +1,11 @@
 id: 128159661
-type: way
+type: node
 latitude: 37.55015
 longitude: -122.30885
 postcode: "94403"
 city: San Mateo
-street: "Leslie Street"
-housenumber: 1920
-phone: "+1-650-342-3821"
+street: Leslie Street
+housenumber: "1920"
+phone: +1-650-342-3821
 opening_hours: ""
-website: "https://www.sanmateoautoeuropa.com/"
+website: https://www.sanmateoautoeuropa.com/

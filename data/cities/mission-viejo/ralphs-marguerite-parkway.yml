@@ -1,11 +1,11 @@
 id: 765284383
-type: way
+type: node
 latitude: 33.59772
 longitude: -117.65651
 postcode: "92692"
 city: Mission Viejo
-street: "Marguerite Parkway"
-housenumber: 25104
-phone: "+1 949-830-3066"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.ralphs.com/stores/grocery/ca/mission-viejo/la-paz-marguerite-sc/703/00076"
+street: Marguerite Parkway
+housenumber: "25104"
+phone: +1 949-830-3066
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.ralphs.com/stores/grocery/ca/mission-viejo/la-paz-marguerite-sc/703/00076

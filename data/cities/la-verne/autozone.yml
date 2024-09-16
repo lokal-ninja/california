@@ -1,11 +1,11 @@
 id: 470265833
-type: way
+type: node
 latitude: 34.11569
 longitude: -117.77601
 postcode: "91750"
 city: La Verne
-street: "Foothill Boulevard"
-housenumber: 1410
+street: Foothill Boulevard
+housenumber: "1410"
 phone: ""
-opening_hours: "Su 08:00-21:00; Mo-Sa 07:30-22:00"
-website: "https://www.autozone.com/locations/ca/la-verne/1410-foothill-blvd.html"
+opening_hours: Su 08:00-21:00; Mo-Sa 07:30-22:00
+website: https://www.autozone.com/locations/ca/la-verne/1410-foothill-blvd.html

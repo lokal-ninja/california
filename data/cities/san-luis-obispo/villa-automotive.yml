@@ -1,11 +1,11 @@
 id: 45644708
-type: way
+type: node
 latitude: 35.27001
 longitude: -120.67199
 postcode: "93401"
 city: San Luis Obispo
-street: "South Street"
-housenumber: 34
+street: South Street
+housenumber: "34"
 phone: "+18057068257"
-opening_hours: "Mo-Fr 07:00-19:00; Sa, Su 08:00-17:00"
-website: "https://www.villa-automotive.com/"
+opening_hours: Mo-Fr 07:00-19:00; Sa, Su 08:00-17:00
+website: https://www.villa-automotive.com/

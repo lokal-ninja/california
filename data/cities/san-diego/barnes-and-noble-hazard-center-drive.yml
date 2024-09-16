@@ -4,8 +4,8 @@ latitude: 32.77098
 longitude: -117.15771
 postcode: "92108"
 city: San Diego
-street: "Hazard Center Drive"
-housenumber: 7610
+street: Hazard Center Drive
+housenumber: "7610"
 phone: ""
-opening_hours: "Su 10:00-21:00; Mo-Sa 09:00-21:00"
-website: "https://store-locator.barnesandnoble.com/store/1978"
+opening_hours: Su 10:00-21:00; Mo-Sa 09:00-21:00
+website: https://store-locator.barnesandnoble.com/store/1978

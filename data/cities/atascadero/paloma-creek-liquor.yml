@@ -1,11 +1,11 @@
 id: 165794103
-type: way
+type: node
 latitude: 35.4545
 longitude: -120.63882
 postcode: ""
 city: Atascadero
-street: "Viejo Camino"
-housenumber: 11250
+street: Viejo Camino
+housenumber: "11250"
 phone: ""
 opening_hours: ""
 website: ""

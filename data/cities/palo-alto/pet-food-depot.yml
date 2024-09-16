@@ -1,11 +1,11 @@
 id: 232276837
-type: way
+type: node
 latitude: 37.42213
 longitude: -122.1375
 postcode: ""
 city: Palo Alto
-street: "Portage Avenue"
-housenumber: 425
+street: Portage Avenue
+housenumber: "425"
 phone: ""
 opening_hours: ""
 website: ""

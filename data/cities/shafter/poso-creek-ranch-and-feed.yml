@@ -1,11 +1,11 @@
 id: 1130700082
-type: way
+type: node
 latitude: 35.50062
 longitude: -119.2786
 postcode: "93263"
 city: Shafter
-street: "North Shafter Avenue"
-housenumber: 135
+street: North Shafter Avenue
+housenumber: "135"
 phone: ""
 opening_hours: ""
-website: "https://www.posocreekranchandfeed.com/"
+website: https://www.posocreekranchandfeed.com/

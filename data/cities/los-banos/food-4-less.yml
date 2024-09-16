@@ -1,11 +1,11 @@
 id: 311695948
-type: way
+type: node
 latitude: 37.05867
 longitude: -120.82416
 postcode: "93635"
 city: Los Banos
-street: "East Pacheco Boulevard"
-housenumber: 2000
+street: East Pacheco Boulevard
+housenumber: "2000"
 phone: ""
 opening_hours: ""
 website: ""

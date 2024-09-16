@@ -1,11 +1,11 @@
 id: 1238716905
-type: way
+type: node
 latitude: 33.72853
 longitude: -116.26934
 postcode: "92253"
 city: La Quinta
-street: "Jefferson Street"
-housenumber: 44075
+street: Jefferson Street
+housenumber: "44075"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.cvs.com/store-locator/la-quinta-ca-pharmacies/44-075-jefferson-st-la-quinta-ca-92253/storeid=3341"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.cvs.com/store-locator/la-quinta-ca-pharmacies/44-075-jefferson-st-la-quinta-ca-92253/storeid=3341

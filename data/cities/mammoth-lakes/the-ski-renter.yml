@@ -4,8 +4,8 @@ latitude: 37.64635
 longitude: -118.96528
 postcode: ""
 city: Mammoth Lakes
-street: "Main Street"
-housenumber: 2987
-phone: "+1-760-934-6560"
+street: Main Street
+housenumber: "2987"
+phone: +1-760-934-6560
 opening_hours: ""
-website: "https://skirentermammoth.com/"
+website: https://skirentermammoth.com/

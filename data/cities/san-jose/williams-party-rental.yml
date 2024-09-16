@@ -1,11 +1,11 @@
 id: 348374461
-type: way
+type: node
 latitude: 37.32638
 longitude: -121.90602
 postcode: "95126"
 city: San Jose
-street: "Park Avenue"
-housenumber: 845
+street: Park Avenue
+housenumber: "845"
 phone: ""
 opening_hours: ""
-website: "https://www.willparty.com/"
+website: https://www.willparty.com/

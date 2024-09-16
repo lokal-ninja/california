@@ -1,11 +1,11 @@
 id: 412082886
-type: way
+type: node
 latitude: 33.97241
 longitude: -118.26497
 postcode: "90003"
 city: Los Angeles
-street: "Avalon Boulevard"
-housenumber: 7408
-phone: "323-240-1030"
+street: Avalon Boulevard
+housenumber: "7408"
+phone: 323-240-1030
 opening_hours: ""
 website: ""

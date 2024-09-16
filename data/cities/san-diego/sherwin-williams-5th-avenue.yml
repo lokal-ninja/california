@@ -1,11 +1,11 @@
 id: 31817473
-type: way
+type: node
 latitude: 32.72371
 longitude: -117.16036
 postcode: "92101"
 city: San Diego
-street: "5th Avenue"
-housenumber: 1760
+street: 5th Avenue
+housenumber: "1760"
 phone: "+16192328147"
 opening_hours: ""
 website: ""

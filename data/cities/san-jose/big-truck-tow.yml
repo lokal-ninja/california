@@ -4,8 +4,8 @@ latitude: 37.36278
 longitude: -121.90733
 postcode: "95112"
 city: San Jose
-street: "East Gish Road"
-housenumber: 110
-phone: "+1-408-809-1725"
-opening_hours: "24/7"
-website: "https://www.bigtrucktow.com"
+street: East Gish Road
+housenumber: "110"
+phone: +1-408-809-1725
+opening_hours: 24/7
+website: https://www.bigtrucktow.com

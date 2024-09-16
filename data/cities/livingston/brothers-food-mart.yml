@@ -1,11 +1,11 @@
 id: 303416224
-type: way
+type: node
 latitude: 37.38903
 longitude: -120.7116
 postcode: "95334"
 city: Livingston
-street: "Hammatt Avenue"
-housenumber: 690
+street: Hammatt Avenue
+housenumber: "690"
 phone: ""
 opening_hours: ""
 website: ""

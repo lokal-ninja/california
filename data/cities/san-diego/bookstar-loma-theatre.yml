@@ -4,8 +4,8 @@ latitude: 32.74611
 longitude: -117.20988
 postcode: "92110"
 city: San Diego
-street: "Rosecrans Place"
-housenumber: 3150
+street: Rosecrans Place
+housenumber: "3150"
 phone: ""
-opening_hours: "Su 10:00-19:00; Mo-Sa 10:00-21:00"
-website: "https://store-locator.barnesandnoble.com/store/1822"
+opening_hours: Su 10:00-19:00; Mo-Sa 10:00-21:00
+website: https://store-locator.barnesandnoble.com/store/1822

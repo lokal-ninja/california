@@ -4,8 +4,8 @@ latitude: 37.80026
 longitude: -122.43986
 postcode: ""
 city: San Francisco
-street: "Chestnut Street"
-housenumber: 2209
-phone: "(415) 346-2400"
-opening_hours: "10:00-19:00"
-website: "http://www.marinelayer.com/story/stores/san-francisco/"
+street: Chestnut Street
+housenumber: "2209"
+phone: (415) 346-2400
+opening_hours: 10:00-19:00
+website: http://www.marinelayer.com/story/stores/san-francisco/

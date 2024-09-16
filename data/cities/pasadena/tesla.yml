@@ -1,11 +1,11 @@
 id: 463568165
-type: way
+type: node
 latitude: 34.1462
 longitude: -118.15298
 postcode: "91105"
 city: Pasadena
-street: "West Colorado Boulevard"
-housenumber: 117
+street: West Colorado Boulevard
+housenumber: "117"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 404166367
-type: way
+type: node
 latitude: 33.90704
 longitude: -116.54493
 postcode: "92262"
 city: Desert Hot Springs
-street: "North Indian Canyon Drive"
-housenumber: 20000
+street: North Indian Canyon Drive
+housenumber: "20000"
 phone: ""
 opening_hours: ""
 website: ""

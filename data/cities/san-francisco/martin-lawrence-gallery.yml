@@ -1,11 +1,11 @@
 id: 332376863
-type: way
+type: node
 latitude: 37.78745
 longitude: -122.4095
 postcode: "94102"
 city: San Francisco
-street: "Geary Street"
-housenumber: 366
+street: Geary Street
+housenumber: "366"
 phone: ""
 opening_hours: ""
 website: ""

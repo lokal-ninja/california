@@ -1,11 +1,11 @@
 id: 728915650
-type: way
+type: node
 latitude: 33.62917
 longitude: -117.66473
 postcode: "92691"
 city: Mission Viejo
-street: "Los Alisos Boulevard"
-housenumber: 22942
+street: Los Alisos Boulevard
+housenumber: "22942"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ca/mission-viejo/22942-los-alisos.html"
+website: https://www.autozone.com/locations/ca/mission-viejo/22942-los-alisos.html

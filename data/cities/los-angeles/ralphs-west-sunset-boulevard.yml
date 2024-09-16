@@ -1,11 +1,11 @@
 id: 424686465
-type: way
+type: node
 latitude: 34.09886
 longitude: -118.34856
 postcode: "90046"
 city: Los Angeles
-street: "West Sunset Boulevard"
-housenumber: 7257
-phone: "+1 323-512-8382"
-opening_hours: "Mo-Su 05:00-01:00"
-website: "https://www.ralphs.com/stores/grocery/ca/los-angeles/sunset/703/00100"
+street: West Sunset Boulevard
+housenumber: "7257"
+phone: +1 323-512-8382
+opening_hours: Mo-Su 05:00-01:00
+website: https://www.ralphs.com/stores/grocery/ca/los-angeles/sunset/703/00100

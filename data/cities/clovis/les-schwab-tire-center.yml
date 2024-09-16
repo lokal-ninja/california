@@ -1,11 +1,11 @@
 id: 1084052704
-type: way
+type: node
 latitude: 36.81088
 longitude: -119.70103
 postcode: "93612"
 city: Clovis
-street: "Clovis Avenue"
-housenumber: 1742
-phone: "+1-559-298-7894"
+street: Clovis Avenue
+housenumber: "1742"
+phone: +1-559-298-7894
 opening_hours: ""
-website: "https://www.lesschwab.com/schedule-appointment/?storeid=555"
+website: https://www.lesschwab.com/schedule-appointment/?storeid=555

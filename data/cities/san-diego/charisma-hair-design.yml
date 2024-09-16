@@ -1,11 +1,11 @@
 id: 1051738749
-type: way
+type: node
 latitude: 32.95381
 longitude: -117.2305
 postcode: "92130"
 city: San Diego
-street: "Del Mar Heights Road"
-housenumber: 3545
+street: Del Mar Heights Road
+housenumber: "3545"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00"
+opening_hours: Mo-Sa 10:00-18:00
 website: ""

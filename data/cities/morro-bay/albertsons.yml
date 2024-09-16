@@ -1,11 +1,11 @@
 id: 320121809
-type: way
+type: node
 latitude: 35.36714
 longitude: -120.84419
 postcode: "93442"
 city: Morro Bay
-street: "Quintana Road"
-housenumber: 730
-phone: "+1 805-772-0670"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.albertsons.com/ca/morro-bay/730-quintana-rd.html"
+street: Quintana Road
+housenumber: "730"
+phone: +1 805-772-0670
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.albertsons.com/ca/morro-bay/730-quintana-rd.html

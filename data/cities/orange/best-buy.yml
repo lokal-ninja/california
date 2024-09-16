@@ -1,11 +1,11 @@
 id: 184318352
-type: way
+type: node
 latitude: 33.79079
 longitude: -117.89191
 postcode: "92868"
 city: Orange
-street: "West Chapman Avenue"
-housenumber: 3741
-phone: "+1 714-938-0380"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-20:00"
-website: "https://stores.bestbuy.com/ca/orange/3741-w-chapman-ave-947.html"
+street: West Chapman Avenue
+housenumber: "3741"
+phone: +1 714-938-0380
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-20:00
+website: https://stores.bestbuy.com/ca/orange/3741-w-chapman-ave-947.html

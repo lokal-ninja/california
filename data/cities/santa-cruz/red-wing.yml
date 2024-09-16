@@ -1,11 +1,11 @@
 id: 335293146
-type: way
+type: node
 latitude: 36.97789
 longitude: -122.0134
 postcode: "95062"
 city: Santa Cruz
-street: "Soquel Avenue"
-housenumber: 916
-phone: "+1-831-423-5111"
-opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-17:00, Su 12:00-17:00"
-website: "https://www.redwingshoes.com/"
+street: Soquel Avenue
+housenumber: "916"
+phone: +1-831-423-5111
+opening_hours: Mo-Fr 10:00-19:00, Sa 10:00-17:00, Su 12:00-17:00
+website: https://www.redwingshoes.com/

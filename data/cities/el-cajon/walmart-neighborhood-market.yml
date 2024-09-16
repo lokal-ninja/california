@@ -1,11 +1,11 @@
 id: 463359143
-type: way
+type: node
 latitude: 32.79792
 longitude: -116.93649
 postcode: "92021"
 city: El Cajon
-street: "North 2nd Street"
-housenumber: 300
-phone: "+1 619-219-5246"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.walmart.com/store/4169/el-cajon-ca/whats-new"
+street: North 2nd Street
+housenumber: "300"
+phone: +1 619-219-5246
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.walmart.com/store/4169/el-cajon-ca/whats-new

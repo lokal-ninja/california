@@ -1,11 +1,11 @@
 id: 476168120
-type: way
+type: node
 latitude: 37.92673
 longitude: -122.06467
 postcode: "94597"
 city: Walnut Creek
-street: "Geary Road"
-housenumber: 1530
-phone: "+1 925-953-1113"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/ca/walnut-creek/geary-rd/"
+street: Geary Road
+housenumber: "1530"
+phone: +1 925-953-1113
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/ca/walnut-creek/geary-rd/

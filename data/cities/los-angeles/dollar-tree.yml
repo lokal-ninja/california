@@ -2,10 +2,10 @@ id: 11279989700
 type: node
 latitude: 34.04441
 longitude: -118.4209
-postcode: "90064-2319"
+postcode: 90064-2319
 city: Los Angeles
-street: "West Pico Boulevard"
-housenumber: 10561
-phone: "+1 213-838-0504"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-20:00"
-website: "https://www.dollartree.com/locations/ca/los-angeles/9725/"
+street: West Pico Boulevard
+housenumber: "10561"
+phone: +1 213-838-0504
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-20:00
+website: https://www.dollartree.com/locations/ca/los-angeles/9725/

@@ -4,8 +4,8 @@ latitude: 32.63999
 longitude: -117.07974
 postcode: ""
 city: Chula Vista
-street: "3rd Avenue"
-housenumber: 320
+street: 3rd Avenue
+housenumber: "320"
 phone: "+16194277877"
-opening_hours: "Mo-Fr 10:00-19:00;Sa,Su 10:00-17:30"
-website: "https://prettykittywax.com/locations/ca/chula-vista/"
+opening_hours: Mo-Fr 10:00-19:00;Sa,Su 10:00-17:30
+website: https://prettykittywax.com/locations/ca/chula-vista/

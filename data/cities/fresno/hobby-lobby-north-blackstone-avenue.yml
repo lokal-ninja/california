@@ -1,11 +1,11 @@
 id: 1280941662
-type: way
+type: node
 latitude: 36.83361
 longitude: -119.79056
 postcode: "93710"
 city: Fresno
-street: "North Blackstone Avenue"
-housenumber: 6565
+street: North Blackstone Avenue
+housenumber: "6565"
 phone: "+15594350121"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.hobbylobby.com/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.hobbylobby.com/

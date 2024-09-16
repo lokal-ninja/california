@@ -1,11 +1,11 @@
 id: 100533179
-type: way
+type: node
 latitude: 33.12531
 longitude: -117.07889
 postcode: "92025"
 city: Escondido
-street: "East Pennsylvania Avenue"
-housenumber: 351
+street: East Pennsylvania Avenue
+housenumber: "351"
 phone: ""
 opening_hours: ""
-website: "https://www.carquest.com/"
+website: https://www.carquest.com/

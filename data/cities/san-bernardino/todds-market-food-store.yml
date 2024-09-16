@@ -1,11 +1,11 @@
 id: 384118599
-type: way
+type: node
 latitude: 34.07395
 longitude: -117.25227
 postcode: "92408"
 city: San Bernardino
-street: "East Victoria Avenue"
-housenumber: 1605
+street: East Victoria Avenue
+housenumber: "1605"
 phone: ""
 opening_hours: ""
 website: ""

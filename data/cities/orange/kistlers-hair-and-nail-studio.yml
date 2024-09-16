@@ -1,11 +1,11 @@
 id: 206232562
-type: way
+type: node
 latitude: 33.78756
 longitude: -117.85237
 postcode: "92866"
 city: Orange
-street: "South Orange Street"
-housenumber: 120
-phone: "714-288-0387"
+street: South Orange Street
+housenumber: "120"
+phone: 714-288-0387
 opening_hours: ""
-website: "http://www.kistlers.net/"
+website: http://www.kistlers.net/

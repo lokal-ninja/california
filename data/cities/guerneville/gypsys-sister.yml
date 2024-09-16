@@ -1,11 +1,11 @@
 id: 524516059
-type: way
+type: node
 latitude: 38.5022
 longitude: -123.00083
 postcode: "95446"
 city: Guerneville
-street: "Main Street"
-housenumber: 16430
+street: Main Street
+housenumber: "16430"
 phone: ""
 opening_hours: ""
 website: ""

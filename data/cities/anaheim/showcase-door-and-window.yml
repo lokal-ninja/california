@@ -1,11 +1,11 @@
 id: 1093003639
-type: way
+type: node
 latitude: 33.86562
 longitude: -117.80814
 postcode: "92807"
 city: Anaheim
-street: "North Cornet Circle"
-housenumber: 6452
-phone: "+1-714-277-8015"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-13:00"
-website: "https://showcasedoorandwindow.com"
+street: North Cornet Circle
+housenumber: "6452"
+phone: +1-714-277-8015
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-13:00
+website: https://showcasedoorandwindow.com

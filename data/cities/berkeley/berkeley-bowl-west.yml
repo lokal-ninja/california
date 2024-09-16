@@ -1,11 +1,11 @@
 id: 52769190
-type: way
+type: node
 latitude: 37.85381
 longitude: -122.28978
 postcode: "94710"
 city: Berkeley
-street: "Heinz Avenue"
-housenumber: 920
-phone: "+1-510-898-9555"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://www.berkeleybowl.com/"
+street: Heinz Avenue
+housenumber: "920"
+phone: +1-510-898-9555
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://www.berkeleybowl.com/

@@ -4,8 +4,9 @@ latitude: 34.10359
 longitude: -117.819
 postcode: "91773"
 city: San Dimas
-street: "West Arrow Highway"
-housenumber: 602
-phone: "+1 909-305-8919"
-opening_hours: "Mo 08:00-21:00; Tu 07:00-21:00; We 08:00-21:00; Th 07:00-21:00; Fr-Su 08:00-21:00"
-website: "https://locations.99only.com/ca/sandimas/discount-store-343.html"
+street: West Arrow Highway
+housenumber: "602"
+phone: +1 909-305-8919
+opening_hours: Mo 08:00-21:00; Tu 07:00-21:00; We 08:00-21:00; Th 07:00-21:00; Fr-Su
+    08:00-21:00
+website: https://locations.99only.com/ca/sandimas/discount-store-343.html

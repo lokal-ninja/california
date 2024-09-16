@@ -4,8 +4,8 @@ latitude: 38.77345
 longitude: -121.26128
 postcode: "95678"
 city: Roseville
-street: "Galleria Boulevard"
-housenumber: 1232
-phone: "+1 916-780-1117"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/roseville-ca-103"
+street: Galleria Boulevard
+housenumber: "1232"
+phone: +1 916-780-1117
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/roseville-ca-103

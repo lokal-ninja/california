@@ -1,11 +1,11 @@
 id: 311067827
-type: way
+type: node
 latitude: 32.80881
 longitude: -117.26068
 postcode: "92109"
 city: San Diego
-street: "Turquoise Street"
-housenumber: 730
+street: Turquoise Street
+housenumber: "730"
 phone: ""
 opening_hours: ""
 website: ""

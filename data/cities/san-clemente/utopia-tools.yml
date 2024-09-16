@@ -1,11 +1,11 @@
 id: 395455904
-type: way
+type: node
 latitude: 33.43301
 longitude: -117.62868
 postcode: "92672"
 city: San Clemente
-street: "North El Camino Real"
-housenumber: 1625
+street: North El Camino Real
+housenumber: "1625"
 phone: ""
 opening_hours: ""
-website: "https://www.utopiatools.com/"
+website: https://www.utopiatools.com/

@@ -1,11 +1,11 @@
 id: 227282075
-type: way
+type: node
 latitude: 37.89728
 longitude: -122.30077
 postcode: "94706"
 city: Albany
-street: "San Pablo Avenue"
-housenumber: 431
-phone: "(510) 527-4363"
+street: San Pablo Avenue
+housenumber: "431"
+phone: (510) 527-4363
 opening_hours: ""
-website: "https://locations.thetirechoice.com/ca/albany/431-san-pablo-ave"
+website: https://locations.thetirechoice.com/ca/albany/431-san-pablo-ave

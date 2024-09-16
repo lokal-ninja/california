@@ -1,11 +1,11 @@
 id: 1108080246
-type: way
+type: node
 latitude: 36.29609
 longitude: -119.31289
 postcode: "93277"
 city: Visalia
-street: "South Mooney Boulevard"
-housenumber: 3808
-phone: "+1-559-625-5285"
-opening_hours: "Mo-Th 09:00-21:00; Fr-Sa 09:00-22:00; Su 09:00-20:00"
+street: South Mooney Boulevard
+housenumber: "3808"
+phone: +1-559-625-5285
+opening_hours: Mo-Th 09:00-21:00; Fr-Sa 09:00-22:00; Su 09:00-20:00
 website: ""

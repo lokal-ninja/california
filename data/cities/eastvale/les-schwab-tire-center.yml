@@ -1,11 +1,11 @@
 id: 1007174062
-type: way
+type: node
 latitude: 33.97725
 longitude: -117.57556
 postcode: "92880"
 city: Eastvale
-street: "Limonite Avenue"
-housenumber: 13370
+street: Limonite Avenue
+housenumber: "13370"
 phone: "+19514071072"
 opening_hours: ""
-website: "lesschwab.com"
+website: lesschwab.com

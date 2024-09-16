@@ -1,11 +1,11 @@
 id: 752080919
-type: way
+type: node
 latitude: 33.97956
 longitude: -118.44161
 postcode: "90292"
 city: Marina Del Rey
-street: "Admiralty Way"
-housenumber: 4675
-phone: "+1 310-301-4461"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://locations.traderjoes.com/ca/marina-del-rey/205/"
+street: Admiralty Way
+housenumber: "4675"
+phone: +1 310-301-4461
+opening_hours: Mo-Su 08:00-21:00
+website: https://locations.traderjoes.com/ca/marina-del-rey/205/

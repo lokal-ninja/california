@@ -1,11 +1,11 @@
 id: 202345019
-type: way
+type: node
 latitude: 37.31207
 longitude: -121.87037
 postcode: "95112"
 city: San Jose
-street: "Monterey Road"
-housenumber: 1651
+street: Monterey Road
+housenumber: "1651"
 phone: ""
 opening_hours: ""
 website: ""

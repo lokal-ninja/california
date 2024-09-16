@@ -4,8 +4,8 @@ latitude: 37.34973
 longitude: -121.89379
 postcode: "95112"
 city: San Jose
-street: "North 6th Street"
-housenumber: 615
+street: North 6th Street
+housenumber: "615"
 phone: ""
 opening_hours: ""
-website: "http://nikaku.com/"
+website: http://nikaku.com/

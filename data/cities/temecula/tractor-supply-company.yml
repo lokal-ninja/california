@@ -1,11 +1,11 @@
 id: 762187493
-type: way
+type: node
 latitude: 33.49156
 longitude: -117.05587
 postcode: "92592"
 city: Temecula
-street: "Anza Road"
-housenumber: 43483
-phone: "+1 951-428-3040"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Anza Road
+housenumber: "43483"
+phone: +1 951-428-3040
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

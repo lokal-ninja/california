@@ -1,11 +1,11 @@
 id: 513021046
-type: way
+type: node
 latitude: 40.58586
 longitude: -122.40956
 postcode: ""
 city: Redding
-street: "Old Eureka Way"
-housenumber: 2655
-phone: "+1 (530) 243-1525"
+street: Old Eureka Way
+housenumber: "2655"
+phone: +1 (530) 243-1525
 opening_hours: ""
-website: "https://www.allenanddahl.com/"
+website: https://www.allenanddahl.com/

@@ -1,11 +1,11 @@
 id: 23014330
-type: way
+type: node
 latitude: 37.8324
 longitude: -122.29244
 postcode: "94608"
 city: Emeryville
-street: "Shellmound Street"
-housenumber: 4400
-phone: "+1 510 420 4532"
+street: Shellmound Street
+housenumber: "4400"
+phone: +1 510 420 4532
 opening_hours: ""
-website: "https://www.ikea.com/us/en/stores/emeryville/"
+website: https://www.ikea.com/us/en/stores/emeryville/

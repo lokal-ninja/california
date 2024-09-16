@@ -1,11 +1,11 @@
 id: 756107549
-type: way
+type: node
 latitude: 37.36562
 longitude: -121.90446
 postcode: "95112"
 city: San Jose
-street: "Terminal Avenue"
-housenumber: 1461
+street: Terminal Avenue
+housenumber: "1461"
 phone: ""
 opening_hours: ""
 website: ""

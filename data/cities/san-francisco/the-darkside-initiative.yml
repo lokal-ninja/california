@@ -4,8 +4,8 @@ latitude: 37.80154
 longitude: -122.41124
 postcode: "94133"
 city: San Francisco
-street: "Powell Street"
-housenumber: 1827
-phone: "+1 415 837 1909"
-opening_hours: "Su-Mo 12:00-18:00; Tu-Fr 12:00-19:00; Sa 11:00-19:00"
-website: "http://www.thedarksideinitiative.com/shop/"
+street: Powell Street
+housenumber: "1827"
+phone: +1 415 837 1909
+opening_hours: Su-Mo 12:00-18:00; Tu-Fr 12:00-19:00; Sa 11:00-19:00
+website: http://www.thedarksideinitiative.com/shop/

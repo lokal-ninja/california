@@ -1,11 +1,11 @@
 id: 351905074
-type: way
+type: node
 latitude: 33.8777
 longitude: -118.22022
 postcode: "90220"
 city: Compton
-street: "Towne Center Drive"
-housenumber: 212
-phone: "+1 310-885-5953"
-opening_hours: "Mo-Th 09:00-23:00; Fr-Sa 08:30-23:00; Su 09:00-22:00"
-website: "https://www.rossstores.com/"
+street: Towne Center Drive
+housenumber: "212"
+phone: +1 310-885-5953
+opening_hours: Mo-Th 09:00-23:00; Fr-Sa 08:30-23:00; Su 09:00-22:00
+website: https://www.rossstores.com/

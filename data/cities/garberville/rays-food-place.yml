@@ -1,11 +1,11 @@
 id: 53333754
-type: way
+type: node
 latitude: 40.09893
 longitude: -123.79438
 postcode: "95542"
 city: Garberville
-street: "Redwood Drive"
-housenumber: 875
-phone: "+1 707-923-2279"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.gorays.com/"
+street: Redwood Drive
+housenumber: "875"
+phone: +1 707-923-2279
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.gorays.com/

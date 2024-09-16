@@ -1,11 +1,11 @@
 id: 355360081
-type: way
+type: node
 latitude: 37.35307
 longitude: -121.8867
 postcode: "95112"
 city: San Jose
-street: "North 13th Street"
-housenumber: 609
-phone: "+1-408-295-0943"
-opening_hours: "Mo-Th 10:00-15:00; Fr 10:00-17:00; Sa 10:00-16:00; Su off"
-website: "http://orderchiaramontesdeliandsausages.com/"
+street: North 13th Street
+housenumber: "609"
+phone: +1-408-295-0943
+opening_hours: Mo-Th 10:00-15:00; Fr 10:00-17:00; Sa 10:00-16:00; Su off
+website: http://orderchiaramontesdeliandsausages.com/

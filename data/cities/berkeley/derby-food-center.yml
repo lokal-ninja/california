@@ -4,8 +4,8 @@ latitude: 37.8618
 longitude: -122.2534
 postcode: ""
 city: Berkeley
-street: "College Avenue"
-housenumber: 2707
+street: College Avenue
+housenumber: "2707"
 phone: ""
-opening_hours: "Mo-Sa 09:00-23:00; Su 09:00-22:00"
+opening_hours: Mo-Sa 09:00-23:00; Su 09:00-22:00
 website: ""

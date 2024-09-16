@@ -1,11 +1,11 @@
 id: 1079367631
-type: way
+type: node
 latitude: 38.00457
 longitude: -121.80805
 postcode: "94509"
 city: Antioch
-street: "A Street"
-housenumber: 1818
+street: A Street
+housenumber: "1818"
 phone: ""
 opening_hours: ""
 website: ""

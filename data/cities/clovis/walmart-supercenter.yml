@@ -1,11 +1,11 @@
 id: 610594839
-type: way
+type: node
 latitude: 36.83927
 longitude: -119.69674
 postcode: "93612"
 city: Clovis
-street: "Herndon Avenue"
-housenumber: 1185
-phone: "+1 559-321-0067"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/5337-clovis-ca"
+street: Herndon Avenue
+housenumber: "1185"
+phone: +1 559-321-0067
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/5337-clovis-ca

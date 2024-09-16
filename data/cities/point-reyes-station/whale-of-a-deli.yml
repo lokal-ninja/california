@@ -1,11 +1,11 @@
 id: 284162934
-type: way
+type: node
 latitude: 38.06719
 longitude: -122.80405
 postcode: "94956"
 city: Point Reyes Station
-street: "Mesa Road"
-housenumber: 997
+street: Mesa Road
+housenumber: "997"
 phone: ""
 opening_hours: ""
 website: ""

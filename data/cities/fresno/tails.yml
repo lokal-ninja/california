@@ -4,8 +4,8 @@ latitude: 36.85037
 longitude: -119.78976
 postcode: "93720"
 city: Fresno
-street: "East Via Del Oro"
-housenumber: 60
+street: East Via Del Oro
+housenumber: "60"
 phone: "+15593051800"
-opening_hours: "Su-Mo,We-Th 11:00-19:00; Tu,Fr-Sa 11:00-20:00"
-website: "http://www.tailsinfresno.com/"
+opening_hours: Su-Mo,We-Th 11:00-19:00; Tu,Fr-Sa 11:00-20:00
+website: http://www.tailsinfresno.com/

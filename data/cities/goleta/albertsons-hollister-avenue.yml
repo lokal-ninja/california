@@ -1,11 +1,11 @@
 id: 613661627
-type: way
+type: node
 latitude: 34.42749
 longitude: -119.87666
 postcode: "93117"
 city: Goleta
-street: "Hollister Avenue"
-housenumber: 7127
-phone: "+1 805-968-3558"
+street: Hollister Avenue
+housenumber: "7127"
+phone: +1 805-968-3558
 opening_hours: ""
-website: "https://local.albertsons.com/ca/goleta/7127-hollister-ave--27.html"
+website: https://local.albertsons.com/ca/goleta/7127-hollister-ave--27.html

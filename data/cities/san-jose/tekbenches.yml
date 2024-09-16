@@ -4,8 +4,8 @@ latitude: 37.35747
 longitude: -121.89521
 postcode: "95112"
 city: San Jose
-street: "North 9th Street"
-housenumber: 903
-phone: "+1 408 595-4238"
-opening_hours: "Mo-Fr 09:00-17:00"
+street: North 9th Street
+housenumber: "903"
+phone: +1 408 595-4238
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

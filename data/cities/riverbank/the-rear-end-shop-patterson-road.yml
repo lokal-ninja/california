@@ -1,11 +1,11 @@
 id: 1273889786
-type: way
+type: node
 latitude: 37.73251
 longitude: -120.95436
 postcode: "95367"
 city: Riverbank
-street: "Patterson Road"
-housenumber: 2372
+street: Patterson Road
+housenumber: "2372"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

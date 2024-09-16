@@ -1,11 +1,11 @@
 id: 919661387
-type: way
+type: node
 latitude: 34.1074
 longitude: -117.43038
 postcode: "92335"
 city: Fontana
-street: "Foothill Boulevard"
-housenumber: 17140
+street: Foothill Boulevard
+housenumber: "17140"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ca/fontana/17140-foothill-blvd.html"
+website: https://www.autozone.com/locations/ca/fontana/17140-foothill-blvd.html

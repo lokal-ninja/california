@@ -1,11 +1,11 @@
 id: 378241192
-type: way
+type: node
 latitude: 33.70659
 longitude: -117.78338
 postcode: "92604"
 city: Irvine
-street: "Culver Drive"
-housenumber: 14230
-phone: "+1 949 559 6633"
+street: Culver Drive
+housenumber: "14230"
+phone: +1 949 559 6633
 opening_hours: ""
 website: ""

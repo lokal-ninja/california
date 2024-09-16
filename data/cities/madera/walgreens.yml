@@ -1,11 +1,11 @@
 id: 1236015814
-type: way
+type: node
 latitude: 36.95235
 longitude: -120.07303
 postcode: "93637"
 city: Madera
-street: "West Yosemite Avenue"
-housenumber: 1300
+street: West Yosemite Avenue
+housenumber: "1300"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1300+w+yosemite+ave-madera-ca-93637/id=6453"
+website: https://www.walgreens.com/locator/walgreens-1300+w+yosemite+ave-madera-ca-93637/id=6453

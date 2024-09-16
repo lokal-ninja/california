@@ -1,11 +1,11 @@
 id: 1190480253
-type: way
+type: node
 latitude: 33.83785
 longitude: -117.90215
 postcode: "92805"
 city: Anaheim
-street: "East Lincoln Avenue"
-housenumber: 1200
+street: East Lincoln Avenue
+housenumber: "1200"
 phone: ""
 opening_hours: ""
 website: ""

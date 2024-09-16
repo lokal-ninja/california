@@ -1,11 +1,11 @@
 id: 707365111
-type: way
+type: node
 latitude: 32.79696
 longitude: -116.93486
 postcode: "92021"
 city: El Cajon
-street: "North 2nd Street"
-housenumber: 215
+street: North 2nd Street
+housenumber: "215"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-215+n+2nd+st-el+cajon-ca-92021/id=5844"
+website: https://www.walgreens.com/locator/walgreens-215+n+2nd+st-el+cajon-ca-92021/id=5844

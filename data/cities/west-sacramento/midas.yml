@@ -1,11 +1,11 @@
 id: 120652702
-type: way
+type: node
 latitude: 38.5792
 longitude: -121.52559
 postcode: "95691"
 city: West Sacramento
-street: "Jefferson Boulevard"
-housenumber: 853
+street: Jefferson Boulevard
+housenumber: "853"
 phone: ""
 opening_hours: ""
 website: ""

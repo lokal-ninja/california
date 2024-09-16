@@ -1,11 +1,11 @@
 id: 402260954
-type: way
+type: node
 latitude: 34.26186
 longitude: -119.23739
 postcode: "93003"
 city: Ventura
-street: "East Main Street"
-housenumber: 4200
-phone: "+1 805-644-9871"
-opening_hours: "07:00-22:00"
-website: "https://www.target.com/sl/ventura-main-street/298"
+street: East Main Street
+housenumber: "4200"
+phone: +1 805-644-9871
+opening_hours: 07:00-22:00
+website: https://www.target.com/sl/ventura-main-street/298

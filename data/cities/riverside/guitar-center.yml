@@ -1,11 +1,11 @@
 id: 444490329
-type: way
+type: node
 latitude: 33.94213
 longitude: -117.29046
 postcode: "92507"
 city: Riverside
-street: "Valley Springs Parkway"
-housenumber: 2550
+street: Valley Springs Parkway
+housenumber: "2550"
 phone: ""
-opening_hours: "Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-19:00"
+opening_hours: Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-19:00
 website: ""

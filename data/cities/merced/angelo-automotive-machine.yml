@@ -1,11 +1,11 @@
 id: 311695327
-type: way
+type: node
 latitude: 37.28479
 longitude: -120.48702
 postcode: "95341"
 city: Merced
-street: "East Cone Avenue"
-housenumber: 17
+street: East Cone Avenue
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

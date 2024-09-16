@@ -1,11 +1,11 @@
 id: 991031177
-type: way
+type: node
 latitude: 34.08015
 longitude: -117.68843
 postcode: "91763"
 city: Montclair
-street: "Central Avenue"
-housenumber: 9575
-phone: "+1 909-621-4637"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.staterbros.com/stores/73"
+street: Central Avenue
+housenumber: "9575"
+phone: +1 909-621-4637
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.staterbros.com/stores/73

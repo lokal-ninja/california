@@ -4,8 +4,8 @@ latitude: 33.71528
 longitude: -116.23068
 postcode: "92201"
 city: Indio
-street: "Highway 111"
-housenumber: 82210
+street: Highway 111
+housenumber: "82210"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.autozone.com/locations/ca/indio/82220-hwy-111.html"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.autozone.com/locations/ca/indio/82220-hwy-111.html

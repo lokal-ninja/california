@@ -1,11 +1,11 @@
 id: 230389094
-type: way
+type: node
 latitude: 32.82116
 longitude: -117.14932
 postcode: "92111"
 city: San Diego
-street: "Balboa Avenue"
-housenumber: 8081
-phone: "858-571-9673"
+street: Balboa Avenue
+housenumber: "8081"
+phone: 858-571-9673
 opening_hours: ""
 website: ""

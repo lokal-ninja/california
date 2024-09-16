@@ -1,11 +1,11 @@
 id: 219477160
-type: way
+type: node
 latitude: 37.78253
 longitude: -122.47108
 postcode: ""
 city: San Francisco
-street: "12th Avenue"
-housenumber: 303
-phone: "+1 415-712-9999"
+street: 12th Avenue
+housenumber: "303"
+phone: +1 415-712-9999
 opening_hours: ""
 website: ""

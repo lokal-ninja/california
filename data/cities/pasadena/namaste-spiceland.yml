@@ -1,11 +1,11 @@
 id: 341675836
-type: way
+type: node
 latitude: 34.15092
 longitude: -118.12123
 postcode: "91106"
 city: Pasadena
-street: "North Hill Avenue"
-housenumber: 270
+street: North Hill Avenue
+housenumber: "270"
 phone: "+16263455514"
-opening_hours: "Mo-Su 09:30-21:00"
+opening_hours: Mo-Su 09:30-21:00
 website: ""

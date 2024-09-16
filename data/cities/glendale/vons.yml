@@ -1,11 +1,11 @@
 id: 131519305
-type: way
+type: node
 latitude: 34.12964
 longitude: -118.25812
 postcode: "91204"
 city: Glendale
-street: "West Los Feliz Boulevard"
-housenumber: 311
-phone: "+1 818-246-7161"
+street: West Los Feliz Boulevard
+housenumber: "311"
+phone: +1 818-246-7161
 opening_hours: ""
-website: "https://local.vons.com/ca/glendale/311-w-los-feliz-blvd.html"
+website: https://local.vons.com/ca/glendale/311-w-los-feliz-blvd.html

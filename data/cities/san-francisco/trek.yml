@@ -4,8 +4,8 @@ latitude: 37.79699
 longitude: -122.43733
 postcode: "94123"
 city: San Francisco
-street: "Steiner Street"
-housenumber: 3001
+street: Steiner Street
+housenumber: "3001"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-18:00; Su 11:00-17:00"
-website: "https://www.trekbikes.com/retail/san_francisco_cow_hollow/"
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-18:00; Su 11:00-17:00
+website: https://www.trekbikes.com/retail/san_francisco_cow_hollow/

@@ -4,8 +4,8 @@ latitude: 37.79055
 longitude: -122.41719
 postcode: ""
 city: San Francisco
-street: "Hyde Street"
-housenumber: 1036
+street: Hyde Street
+housenumber: "1036"
 phone: ""
-opening_hours: "10:00-18:30"
-website: "https://www.ilovevp.com/"
+opening_hours: 10:00-18:30
+website: https://www.ilovevp.com/

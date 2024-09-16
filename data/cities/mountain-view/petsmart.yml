@@ -1,11 +1,11 @@
 id: 30086178
-type: way
+type: node
 latitude: 37.42319
 longitude: -122.09639
 postcode: "94043"
 city: Mountain View
-street: "East Charleston Road"
-housenumber: 2440
-phone: "+1 650-968-1034"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ca/mountain-view-store1575.html"
+street: East Charleston Road
+housenumber: "2440"
+phone: +1 650-968-1034
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ca/mountain-view-store1575.html

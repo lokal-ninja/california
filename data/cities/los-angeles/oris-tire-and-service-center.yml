@@ -4,8 +4,8 @@ latitude: 34.09468
 longitude: -118.33902
 postcode: "90028"
 city: Los Angeles
-street: "North Highland Avenue"
-housenumber: 1301
-phone: "+1-323-463-8037"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-15:00"
-website: "http://www.orisservice.com"
+street: North Highland Avenue
+housenumber: "1301"
+phone: +1-323-463-8037
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-15:00
+website: http://www.orisservice.com

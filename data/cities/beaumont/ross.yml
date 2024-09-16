@@ -1,11 +1,11 @@
 id: 681726564
-type: way
+type: node
 latitude: 33.92564
 longitude: -116.94868
 postcode: "92223"
 city: Beaumont
-street: "East 2nd Street"
-housenumber: 1646
-phone: "+1 951-845-4482"
-opening_hours: "Mo-Th 08:30-22:00; Fr-Sa 08:00-22:30; Su 08:00-22:00"
+street: East 2nd Street
+housenumber: "1646"
+phone: +1 951-845-4482
+opening_hours: Mo-Th 08:30-22:00; Fr-Sa 08:00-22:30; Su 08:00-22:00
 website: ""

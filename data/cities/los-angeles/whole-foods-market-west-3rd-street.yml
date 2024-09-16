@@ -1,11 +1,11 @@
 id: 423478408
-type: way
+type: node
 latitude: 34.07054
 longitude: -118.36046
 postcode: "90036"
 city: Los Angeles
-street: "West 3rd Street"
-housenumber: 6350
-phone: "+1 323-964-6800"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/fairfax"
+street: West 3rd Street
+housenumber: "6350"
+phone: +1 323-964-6800
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.wholefoodsmarket.com/stores/fairfax

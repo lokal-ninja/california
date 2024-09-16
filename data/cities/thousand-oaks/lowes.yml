@@ -1,11 +1,11 @@
 id: 766785338
-type: way
+type: node
 latitude: 34.19328
 longitude: -118.94115
 postcode: "91320"
 city: Thousand Oaks
-street: "Academy Drive"
-housenumber: 1027
-phone: "+1 805-214-5510"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-21:00"
-website: "https://www.lowes.com/store/ca-thousand-oaks/3170"
+street: Academy Drive
+housenumber: "1027"
+phone: +1 805-214-5510
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-21:00
+website: https://www.lowes.com/store/ca-thousand-oaks/3170

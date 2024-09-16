@@ -1,11 +1,11 @@
 id: 358985302
-type: way
+type: node
 latitude: 37.70381
 longitude: -121.92769
 postcode: "94568"
 city: Dublin
-street: "Amador Plaza Road"
-housenumber: 6700
+street: Amador Plaza Road
+housenumber: "6700"
 phone: ""
 opening_hours: ""
-website: "https://kingkongcomicsandgames.com/"
+website: https://kingkongcomicsandgames.com/

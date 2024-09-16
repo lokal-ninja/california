@@ -1,11 +1,11 @@
 id: 454970361
-type: way
+type: node
 latitude: 36.83661
 longitude: -119.73135
 postcode: "93710"
 city: Fresno
-street: "North Willow Avenue"
-housenumber: 6855
-phone: "+1 559-862-2062"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/5634/fresno-ca/whats-new"
+street: North Willow Avenue
+housenumber: "6855"
+phone: +1 559-862-2062
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/5634/fresno-ca/whats-new

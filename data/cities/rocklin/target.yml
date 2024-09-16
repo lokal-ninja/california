@@ -1,11 +1,11 @@
 id: 1264208818
-type: way
+type: node
 latitude: 38.80383
 longitude: -121.20877
 postcode: "95677"
 city: Rocklin
-street: "Commons Drive"
-housenumber: 5104
-phone: "+1 916-251-3345"
-opening_hours: "Fr-Sa 08:00-22:00,Su-Th 07:00-00:00"
-website: "https://www.target.com/sl/rocklin/2604"
+street: Commons Drive
+housenumber: "5104"
+phone: +1 916-251-3345
+opening_hours: Fr-Sa 08:00-22:00,Su-Th 07:00-00:00
+website: https://www.target.com/sl/rocklin/2604

@@ -1,11 +1,11 @@
 id: 273191827
-type: way
+type: node
 latitude: 34.09834
 longitude: -118.36731
 postcode: "90046"
 city: Los Angeles
-street: "West Sunset Boulevard"
-housenumber: 8161
-phone: "+1-323-656-1140"
-opening_hours: "Mo-Sa 10:00-02:00, Su 11:00-01:00"
-website: "http://www.liquorlockerla.com/"
+street: West Sunset Boulevard
+housenumber: "8161"
+phone: +1-323-656-1140
+opening_hours: Mo-Sa 10:00-02:00, Su 11:00-01:00
+website: http://www.liquorlockerla.com/

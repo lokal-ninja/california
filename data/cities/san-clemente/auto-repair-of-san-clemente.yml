@@ -1,11 +1,11 @@
 id: 401699516
-type: way
+type: node
 latitude: 33.44359
 longitude: -117.64358
 postcode: "92672"
 city: San Clemente
-street: "Avenida Vaquero"
-housenumber: 151
+street: Avenida Vaquero
+housenumber: "151"
 phone: ""
 opening_hours: ""
 website: ""

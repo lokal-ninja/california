@@ -1,11 +1,11 @@
 id: 1270467895
-type: way
+type: node
 latitude: 36.82234
 longitude: -119.80784
 postcode: "93704"
 city: Fresno
-street: "North Palm Avenue"
-housenumber: 5758
-phone: "+1 559-431-5454"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ca/fresno/5758-n-palm-13913"
+street: North Palm Avenue
+housenumber: "5758"
+phone: +1 559-431-5454
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ca/fresno/5758-n-palm-13913

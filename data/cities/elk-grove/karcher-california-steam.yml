@@ -1,11 +1,11 @@
 id: 827132380
-type: way
+type: node
 latitude: 38.38289
 longitude: -121.36235
 postcode: ""
 city: Elk Grove
-street: "Elkmont Way"
-housenumber: 9084
+street: Elkmont Way
+housenumber: "9084"
 phone: ""
-opening_hours: "Mo-Fr 7:30-12:00, 13:00-16:30"
+opening_hours: Mo-Fr 7:30-12:00, 13:00-16:30
 website: ""

@@ -1,11 +1,11 @@
 id: 959866428
-type: way
+type: node
 latitude: 32.63642
 longitude: -117.02343
 postcode: "91910"
 city: Chula Vista
-street: "East H Street"
-housenumber: 885
+street: East H Street
+housenumber: "885"
 phone: "+16194218477"
 opening_hours: ""
-website: "https://www.autozone.com/locations/ca/chula-vista/885-e-h-st.html"
+website: https://www.autozone.com/locations/ca/chula-vista/885-e-h-st.html

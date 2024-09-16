@@ -1,11 +1,11 @@
 id: 843989340
-type: way
+type: node
 latitude: 34.12844
 longitude: -117.8673
 postcode: "91740"
 city: Glendora
-street: "West Alosta Avenue"
-housenumber: 220
+street: West Alosta Avenue
+housenumber: "220"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ca/glendora/220-w-rte-66.html"
+website: https://www.autozone.com/locations/ca/glendora/220-w-rte-66.html

@@ -4,8 +4,8 @@ latitude: 37.01443
 longitude: -121.58789
 postcode: "95020"
 city: Gilroy
-street: "1st Street"
-housenumber: 845
+street: 1st Street
+housenumber: "845"
 phone: ""
 opening_hours: ""
-website: "https://goodwillsv.org/"
+website: https://goodwillsv.org/

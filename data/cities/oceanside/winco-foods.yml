@@ -1,11 +1,11 @@
 id: 900937010
-type: way
+type: node
 latitude: 33.18589
 longitude: -117.32989
 postcode: "92054"
 city: Oceanside
-street: "South El Camino Real"
-housenumber: 2245
+street: South El Camino Real
+housenumber: "2245"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

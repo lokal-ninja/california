@@ -4,8 +4,8 @@ latitude: 34.27798
 longitude: -118.73928
 postcode: "93065"
 city: Simi Valley
-street: "Cochran Street"
-housenumber: 2880
-phone: "+1 805-579-9700"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://stores.staples.com/ca/simi-valley/2880-cochran-street"
+street: Cochran Street
+housenumber: "2880"
+phone: +1 805-579-9700
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-18:00
+website: https://stores.staples.com/ca/simi-valley/2880-cochran-street

@@ -1,11 +1,11 @@
 id: 253739194
-type: way
+type: node
 latitude: 38.3337
 longitude: -122.71631
 postcode: "94931"
 city: Cotati
-street: "Redwood Drive"
-housenumber: 7921
-phone: "+1 707-242-5000"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/ca-cotati/1901"
+street: Redwood Drive
+housenumber: "7921"
+phone: +1 707-242-5000
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/ca-cotati/1901

@@ -1,11 +1,11 @@
 id: 106994773
-type: way
+type: node
 latitude: 37.82088
 longitude: -122.26055
 postcode: ""
 city: Oakland
-street: "Piedmont Avenue"
-housenumber: 3326
+street: Piedmont Avenue
+housenumber: "3326"
 phone: ""
 opening_hours: ""
 website: ""

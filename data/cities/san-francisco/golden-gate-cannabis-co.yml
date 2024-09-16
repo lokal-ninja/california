@@ -4,8 +4,8 @@ latitude: 37.78594
 longitude: -122.41286
 postcode: ""
 city: San Francisco
-street: "Jones Street"
-housenumber: 500
-phone: "+1 415-869-8770"
-opening_hours: "09:00-22:00"
+street: Jones Street
+housenumber: "500"
+phone: +1 415-869-8770
+opening_hours: 09:00-22:00
 website: ""

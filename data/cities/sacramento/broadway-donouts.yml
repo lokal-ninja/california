@@ -1,11 +1,11 @@
 id: 406506990
-type: way
+type: node
 latitude: 38.55764
 longitude: -121.4765
 postcode: "95818"
 city: Sacramento
-street: "Broadway"
-housenumber: 2731
+street: Broadway
+housenumber: "2731"
 phone: ""
 opening_hours: ""
 website: ""

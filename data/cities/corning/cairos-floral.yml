@@ -1,11 +1,11 @@
 id: 669891150
-type: way
+type: node
 latitude: 39.92805
 longitude: -122.18058
 postcode: "96021"
 city: Corning
-street: "Solano Street"
-housenumber: 1124
-phone: "+1 (530) 824-2050"
+street: Solano Street
+housenumber: "1124"
+phone: +1 (530) 824-2050
 opening_hours: ""
-website: "https://www.cairosfloral.com/"
+website: https://www.cairosfloral.com/

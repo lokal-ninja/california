@@ -1,11 +1,11 @@
 id: 222561915
-type: way
+type: node
 latitude: 38.94549
 longitude: -119.96634
 postcode: "96150"
 city: South Lake Tahoe
-street: "Lake Tahoe Boulevard"
-housenumber: 3430
+street: Lake Tahoe Boulevard
+housenumber: "3430"
 phone: ""
 opening_hours: ""
-website: "https://www.sierraskiandcycleworks.com/"
+website: https://www.sierraskiandcycleworks.com/

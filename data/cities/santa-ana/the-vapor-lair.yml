@@ -4,8 +4,8 @@ latitude: 33.74785
 longitude: -117.86616
 postcode: ""
 city: Santa Ana
-street: "East 4th Street"
-housenumber: 210
-phone: "1.714.667.5247"
-opening_hours: "Mo-Su 12:00-21:00"
-website: "https://thevaporlair.com/"
+street: East 4th Street
+housenumber: "210"
+phone: 1.714.667.5247
+opening_hours: Mo-Su 12:00-21:00
+website: https://thevaporlair.com/

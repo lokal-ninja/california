@@ -1,11 +1,11 @@
 id: 124889473
-type: way
+type: node
 latitude: 37.78054
 longitude: -122.39455
 postcode: ""
 city: San Francisco
-street: "3rd Street"
-housenumber: 
+street: 3rd Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

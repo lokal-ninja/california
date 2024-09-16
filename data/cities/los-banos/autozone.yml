@@ -1,11 +1,11 @@
 id: 311709045
-type: way
+type: node
 latitude: 37.05645
 longitude: -120.84828
 postcode: "93635"
 city: Los Banos
-street: "West Pacheco Boulevard"
-housenumber: 665
+street: West Pacheco Boulevard
+housenumber: "665"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ca/los-banos/665-pacheco-blvd.html"
+website: https://www.autozone.com/locations/ca/los-banos/665-pacheco-blvd.html

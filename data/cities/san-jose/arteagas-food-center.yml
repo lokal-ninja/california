@@ -4,8 +4,8 @@ latitude: 37.3123
 longitude: -121.90408
 postcode: "95125"
 city: San Jose
-street: "Lincoln Avenue"
-housenumber: 1003
+street: Lincoln Avenue
+housenumber: "1003"
 phone: ""
-opening_hours: "07:00-21:00"
+opening_hours: 07:00-21:00
 website: ""

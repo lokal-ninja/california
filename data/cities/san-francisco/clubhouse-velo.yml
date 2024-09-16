@@ -4,8 +4,8 @@ latitude: 37.77551
 longitude: -122.49925
 postcode: "94121"
 city: San Francisco
-street: "Balboa Street"
-housenumber: 3785
-phone: "+1-415-294-1907"
-opening_hours: "Mo,We,Su off; Tu,Th 09:00-18:30; Fr 09:00-17:00; Sa 10:00-17:00"
-website: "https://www.clubhousevelo.com"
+street: Balboa Street
+housenumber: "3785"
+phone: +1-415-294-1907
+opening_hours: Mo,We,Su off; Tu,Th 09:00-18:30; Fr 09:00-17:00; Sa 10:00-17:00
+website: https://www.clubhousevelo.com

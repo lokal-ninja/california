@@ -1,11 +1,11 @@
 id: 38263383
-type: way
+type: node
 latitude: 37.37256
 longitude: -121.99491
 postcode: "94086"
 city: Sunnyvale
-street: "Lawrence Station Road"
-housenumber: 150
-phone: "+1 408-470-8000"
-opening_hours: "Mo-Fr 09:00-20:30; Sa,Su 09:00-19:00"
-website: "https://www.costco.com/warehouse-locations/sunnyvale-ca-423.html"
+street: Lawrence Station Road
+housenumber: "150"
+phone: +1 408-470-8000
+opening_hours: Mo-Fr 09:00-20:30; Sa,Su 09:00-19:00
+website: https://www.costco.com/warehouse-locations/sunnyvale-ca-423.html

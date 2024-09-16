@@ -1,11 +1,11 @@
 id: 105058438
-type: way
+type: node
 latitude: 37.79952
 longitude: -122.21638
 postcode: ""
 city: Oakland
-street: "Fruitvale Avenue"
-housenumber: 3426
+street: Fruitvale Avenue
+housenumber: "3426"
 phone: ""
-opening_hours: "08:30-20:30"
-website: "http://farmerjoesmarketplace.com/"
+opening_hours: 08:30-20:30
+website: http://farmerjoesmarketplace.com/

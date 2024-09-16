@@ -1,11 +1,11 @@
 id: 347399588
-type: way
+type: node
 latitude: 33.62487
 longitude: -117.71395
 postcode: "92630"
 city: Lake Forest
-street: "Mercury Road"
-housenumber: 23820
+street: Mercury Road
+housenumber: "23820"
 phone: ""
 opening_hours: ""
 website: ""

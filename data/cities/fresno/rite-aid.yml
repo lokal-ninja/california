@@ -1,11 +1,11 @@
 id: 457810549
-type: way
+type: node
 latitude: 36.80789
 longitude: -119.82721
 postcode: "93711"
 city: Fresno
-street: "West Shaw Avenue"
-housenumber: 2011
+street: West Shaw Avenue
+housenumber: "2011"
 phone: "+15592240920"
-opening_hours: "Mo-Fr 08:00-22:00; Sa-Su 09:00-22:00"
-website: "https://www.riteaid.com/locations/ca/fresno/2011-west-shaw-avenue.html"
+opening_hours: Mo-Fr 08:00-22:00; Sa-Su 09:00-22:00
+website: https://www.riteaid.com/locations/ca/fresno/2011-west-shaw-avenue.html

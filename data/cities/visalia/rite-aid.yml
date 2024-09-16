@@ -1,11 +1,11 @@
 id: 724860365
-type: way
+type: node
 latitude: 36.3138
 longitude: -119.34834
 postcode: "93277"
 city: Visalia
-street: "West Walnut Avenue"
-housenumber: 5212
+street: West Walnut Avenue
+housenumber: "5212"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.riteaid.com/locations/ca/visalia/5212-west-walnut-avenue.html"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.riteaid.com/locations/ca/visalia/5212-west-walnut-avenue.html

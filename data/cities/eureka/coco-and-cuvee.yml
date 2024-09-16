@@ -4,8 +4,8 @@ latitude: 40.80379
 longitude: -124.16571
 postcode: "95501"
 city: Eureka
-street: "3rd Street"
-housenumber: 531
-phone: "+1 707-442-2662"
-opening_hours: "Mo-Sa 11:00-18:00; Su 11:00-16:00"
-website: "https://www.facebook.com/cococuvee"
+street: 3rd Street
+housenumber: "531"
+phone: +1 707-442-2662
+opening_hours: Mo-Sa 11:00-18:00; Su 11:00-16:00
+website: https://www.facebook.com/cococuvee

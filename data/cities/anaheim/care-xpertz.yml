@@ -1,11 +1,11 @@
 id: 1032668860
-type: way
+type: node
 latitude: 33.85926
 longitude: -117.90846
 postcode: "92801"
 city: Anaheim
-street: "East Orangethorpe Avenue"
-housenumber: 980
-phone: "+1-714-677-2220"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://carexpertz.com/"
+street: East Orangethorpe Avenue
+housenumber: "980"
+phone: +1-714-677-2220
+opening_hours: Mo-Fr 09:00-17:00
+website: https://carexpertz.com/

@@ -1,11 +1,11 @@
 id: 132665533
-type: way
+type: node
 latitude: 34.02636
 longitude: -118.4267
 postcode: "90034"
 city: Los Angeles
-street: "South Sepulveda Boulevard"
-housenumber: 3118
-phone: "+1 310-477-8717"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.vons.com/ca/los-angeles/3118-s-sepulveda-blvd.html"
+street: South Sepulveda Boulevard
+housenumber: "3118"
+phone: +1 310-477-8717
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.vons.com/ca/los-angeles/3118-s-sepulveda-blvd.html

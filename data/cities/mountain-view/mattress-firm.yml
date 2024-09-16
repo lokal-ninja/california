@@ -1,11 +1,11 @@
 id: 31119537
-type: way
+type: node
 latitude: 37.377
 longitude: -122.06311
 postcode: "94041"
 city: Mountain View
-street: "East El Camino Real"
-housenumber: 804
-phone: "+1 650-694-7339"
-opening_hours: "Mo-Sa 10:00-20:00, Su 11:00-18:00"
-website: "https://www.mattressfirm.com/en-us/stores/ca/mountain-view/502001/"
+street: East El Camino Real
+housenumber: "804"
+phone: +1 650-694-7339
+opening_hours: Mo-Sa 10:00-20:00, Su 11:00-18:00
+website: https://www.mattressfirm.com/en-us/stores/ca/mountain-view/502001/

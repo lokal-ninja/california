@@ -1,11 +1,11 @@
 id: 1164547305
-type: way
+type: node
 latitude: 35.4421
 longitude: -119.25141
 postcode: "93263"
 city: Shafter
-street: "7th Standard Road"
-housenumber: 31110
+street: 7th Standard Road
+housenumber: "31110"
 phone: ""
 opening_hours: ""
 website: ""

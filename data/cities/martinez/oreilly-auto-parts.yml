@@ -4,8 +4,8 @@ latitude: 37.99483
 longitude: -122.10119
 postcode: "94553"
 city: Martinez
-street: "Arnold Drive"
-housenumber: 1165
-phone: "+1-925-316-2147"
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:00-20:00"
-website: "https://locations.oreillyauto.com/ca/martinez/autoparts-5997.html"
+street: Arnold Drive
+housenumber: "1165"
+phone: +1-925-316-2147
+opening_hours: Mo-Sa 07:30-21:00; Su 08:00-20:00
+website: https://locations.oreillyauto.com/ca/martinez/autoparts-5997.html

@@ -1,11 +1,11 @@
 id: 933354406
-type: way
+type: node
 latitude: 34.19419
 longitude: -118.59829
 postcode: "91303"
 city: Canoga Park
-street: "Vanowen Street"
-housenumber: 21407
+street: Vanowen Street
+housenumber: "21407"
 phone: "+18188847111"
-opening_hours: "Mo-Fr 08:00 -18:00, Sa 08:00 - 16:00"
-website: "https://www.allcarparts.org/"
+opening_hours: Mo-Fr 08:00 -18:00, Sa 08:00 - 16:00
+website: https://www.allcarparts.org/

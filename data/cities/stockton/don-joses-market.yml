@@ -1,11 +1,11 @@
 id: 287577589
-type: way
+type: node
 latitude: 37.95488
 longitude: -121.25999
 postcode: ""
 city: Stockton
-street: "East Main Street"
-housenumber: 2196
+street: East Main Street
+housenumber: "2196"
 phone: ""
 opening_hours: ""
 website: ""

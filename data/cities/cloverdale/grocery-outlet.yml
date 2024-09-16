@@ -1,11 +1,11 @@
 id: 1006862141
-type: way
+type: node
 latitude: 38.78352
 longitude: -123.01325
 postcode: ""
 city: Cloverdale
-street: "Treadway Drive"
-housenumber: 111
+street: Treadway Drive
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

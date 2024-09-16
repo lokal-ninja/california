@@ -1,11 +1,11 @@
 id: 227553317
-type: way
+type: node
 latitude: 33.72028
 longitude: -116.35788
 postcode: "92210"
 city: Indian Wells
-street: "Highway 111"
-housenumber: 74945
-phone: "760-568-0620"
+street: Highway 111
+housenumber: "74945"
+phone: 760-568-0620
 opening_hours: ""
-website: "kitchenkitchen.com"
+website: kitchenkitchen.com

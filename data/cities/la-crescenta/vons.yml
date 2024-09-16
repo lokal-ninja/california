@@ -1,11 +1,11 @@
 id: 131546265
-type: way
+type: node
 latitude: 34.23108
 longitude: -118.24983
 postcode: "91214"
 city: La Crescenta
-street: "Foothill Boulevard"
-housenumber: 3233
-phone: "+1 818-658-1018"
+street: Foothill Boulevard
+housenumber: "3233"
+phone: +1 818-658-1018
 opening_hours: ""
-website: "https://local.vons.com/ca/la-crescenta/3233-foothill-blvd.html"
+website: https://local.vons.com/ca/la-crescenta/3233-foothill-blvd.html

@@ -1,11 +1,11 @@
 id: 556499963
-type: way
+type: node
 latitude: 34.12157
 longitude: -117.2178
 postcode: "92346"
 city: Highland
-street: "Baseline Street"
-housenumber: 26892
+street: Baseline Street
+housenumber: "26892"
 phone: ""
 opening_hours: ""
 website: ""

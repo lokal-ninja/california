@@ -1,11 +1,11 @@
 id: 994404261
-type: way
+type: node
 latitude: 32.80846
 longitude: -116.9704
 postcode: "92020"
 city: El Cajon
-street: "Fletcher Parkway"
-housenumber: 666
+street: Fletcher Parkway
+housenumber: "666"
 phone: ""
 opening_hours: ""
 website: ""

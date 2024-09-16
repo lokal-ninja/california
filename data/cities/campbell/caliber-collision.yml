@@ -1,11 +1,11 @@
 id: 39129240
-type: way
+type: node
 latitude: 37.27907
 longitude: -121.93869
 postcode: "95008"
 city: Campbell
-street: "East McGlincy Lane"
-housenumber: 665
+street: East McGlincy Lane
+housenumber: "665"
 phone: ""
 opening_hours: ""
 website: ""

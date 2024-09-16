@@ -1,11 +1,11 @@
 id: 194858673
-type: way
+type: node
 latitude: 33.76058
 longitude: -117.85146
 postcode: "92705"
 city: Santa Ana
-street: "East 17th Street"
-housenumber: 1301
+street: East 17th Street
+housenumber: "1301"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1301+e+17th+st-santa+ana-ca-92705/id=6388"
+website: https://www.walgreens.com/locator/walgreens-1301+e+17th+st-santa+ana-ca-92705/id=6388

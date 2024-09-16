@@ -1,11 +1,11 @@
 id: 308526951
-type: way
+type: node
 latitude: 33.89771
 longitude: -118.36504
 postcode: "90250"
 city: Hawthorne
-street: "West 147th Street"
-housenumber: 5000
-phone: "+1 310-644-9312"
-opening_hours: "Mo-Sa 11:00-20:00; Su 11:00-19:00"
-website: "https://stores.bestbuy.com/ca/hawthorne/5000-w-147th-st-104.html"
+street: West 147th Street
+housenumber: "5000"
+phone: +1 310-644-9312
+opening_hours: Mo-Sa 11:00-20:00; Su 11:00-19:00
+website: https://stores.bestbuy.com/ca/hawthorne/5000-w-147th-st-104.html

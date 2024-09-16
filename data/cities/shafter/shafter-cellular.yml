@@ -1,11 +1,11 @@
 id: 1102709519
-type: way
+type: node
 latitude: 35.501
 longitude: -119.27656
 postcode: "93263"
 city: Shafter
-street: "Central Avenue"
-housenumber: 200
+street: Central Avenue
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

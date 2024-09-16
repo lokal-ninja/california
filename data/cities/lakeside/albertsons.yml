@@ -1,11 +1,11 @@
 id: 119884145
-type: way
+type: node
 latitude: 32.85184
 longitude: -116.93229
 postcode: "92040"
 city: Lakeside
-street: "Winter Gardens Boulevard"
-housenumber: 9560
-phone: "+1 619-561-5521"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://local.albertsons.com/ca/lakeside/9560-winter-gardens-blvd.html"
+street: Winter Gardens Boulevard
+housenumber: "9560"
+phone: +1 619-561-5521
+opening_hours: Mo-Su 06:00-24:00
+website: https://local.albertsons.com/ca/lakeside/9560-winter-gardens-blvd.html

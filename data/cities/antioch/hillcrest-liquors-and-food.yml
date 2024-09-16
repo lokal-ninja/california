@@ -1,11 +1,11 @@
 id: 991363980
-type: way
+type: node
 latitude: 38.00447
 longitude: -121.78665
 postcode: "94509"
 city: Antioch
-street: "East 18th Street"
-housenumber: 1107
+street: East 18th Street
+housenumber: "1107"
 phone: ""
 opening_hours: ""
 website: ""

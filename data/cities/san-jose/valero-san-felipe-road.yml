@@ -1,11 +1,11 @@
 id: 203966580
-type: way
+type: node
 latitude: 37.3134
 longitude: -121.79174
 postcode: "95135"
 city: San Jose
-street: "San Felipe Road"
-housenumber: 3303
+street: San Felipe Road
+housenumber: "3303"
 phone: ""
 opening_hours: ""
 website: ""

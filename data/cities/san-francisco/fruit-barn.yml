@@ -4,8 +4,8 @@ latitude: 37.72473
 longitude: -122.45948
 postcode: "94112"
 city: San Francisco
-street: "Ocean Avenue"
-housenumber: 1616
-phone: "+1 (415) 988-7919"
-opening_hours: "Mo-Su 08:00-20:00"
+street: Ocean Avenue
+housenumber: "1616"
+phone: +1 (415) 988-7919
+opening_hours: Mo-Su 08:00-20:00
 website: ""

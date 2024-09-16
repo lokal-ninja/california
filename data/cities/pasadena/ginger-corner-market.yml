@@ -1,11 +1,11 @@
 id: 205868737
-type: way
+type: node
 latitude: 34.14201
 longitude: -118.12607
 postcode: "91106"
 city: Pasadena
-street: "Michigan Avenue"
-housenumber: 217
-phone: "+1 626-795-2447"
-opening_hours: "Mo-Fr 08:00-18:00, Sa-Su 10:00-17:00"
-website: "http://gingercornermarket.com"
+street: Michigan Avenue
+housenumber: "217"
+phone: +1 626-795-2447
+opening_hours: Mo-Fr 08:00-18:00, Sa-Su 10:00-17:00
+website: http://gingercornermarket.com

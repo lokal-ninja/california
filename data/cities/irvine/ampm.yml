@@ -1,11 +1,11 @@
 id: 113645862
-type: way
+type: node
 latitude: 33.69572
 longitude: -117.76344
 postcode: "92620"
 city: Irvine
-street: "Jeffrey Road"
-housenumber: 14111
+street: Jeffrey Road
+housenumber: "14111"
 phone: ""
 opening_hours: ""
 website: ""

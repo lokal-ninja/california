@@ -1,11 +1,11 @@
 id: 77679599
-type: way
+type: node
 latitude: 33.2501
 longitude: -117.26689
 postcode: "92057"
 city: Oceanside
-street: "Mission Avenue"
-housenumber: 5755
-phone: "+1-760-945-8686"
+street: Mission Avenue
+housenumber: "5755"
+phone: +1-760-945-8686
 opening_hours: ""
-website: "https://www.homedepot.com/l/N-Oceanside/CA/Oceanside/92057/1018"
+website: https://www.homedepot.com/l/N-Oceanside/CA/Oceanside/92057/1018

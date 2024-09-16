@@ -1,11 +1,11 @@
 id: 753154988
-type: way
+type: node
 latitude: 39.15056
 longitude: -123.20848
 postcode: "95482"
 city: Ukiah
-street: "West Standley Street"
-housenumber: 120
-phone: "+1 (707) 463-6933"
+street: West Standley Street
+housenumber: "120"
+phone: +1 (707) 463-6933
 opening_hours: ""
-website: "http://www.shoeflyandsox.com/"
+website: http://www.shoeflyandsox.com/

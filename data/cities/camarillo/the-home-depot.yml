@@ -1,11 +1,11 @@
 id: 249443805
-type: way
+type: node
 latitude: 34.21804
 longitude: -119.07881
 postcode: "93010"
 city: Camarillo
-street: "West Ventura Boulevard"
-housenumber: 401
-phone: "+1 805-389-9918"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/camarillo/ca/camarillo/93010/1012"
+street: West Ventura Boulevard
+housenumber: "401"
+phone: +1 805-389-9918
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/camarillo/ca/camarillo/93010/1012

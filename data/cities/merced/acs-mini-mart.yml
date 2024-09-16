@@ -1,11 +1,11 @@
 id: 311695272
-type: way
+type: node
 latitude: 37.34199
 longitude: -120.50443
 postcode: "95348"
 city: Merced
-street: "North Highway 59"
-housenumber: 3851
+street: North Highway 59
+housenumber: "3851"
 phone: ""
 opening_hours: ""
 website: ""

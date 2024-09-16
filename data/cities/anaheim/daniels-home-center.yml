@@ -1,11 +1,11 @@
 id: 437873139
-type: way
+type: node
 latitude: 33.83015
 longitude: -117.94341
 postcode: "92802"
 city: Anaheim
-street: "South Euclid Street"
-housenumber: 255
-phone: "+1-714-999-1285"
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:30-20:00; Dec 25 closed; Jan 01 closed"
-website: "https://www.danielshomecenter.com/"
+street: South Euclid Street
+housenumber: "255"
+phone: +1-714-999-1285
+opening_hours: Mo-Sa 10:00-21:00; Su 10:30-20:00; Dec 25 closed; Jan 01 closed
+website: https://www.danielshomecenter.com/

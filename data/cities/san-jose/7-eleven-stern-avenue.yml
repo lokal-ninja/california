@@ -1,11 +1,11 @@
 id: 105822136
-type: way
+type: node
 latitude: 37.32203
 longitude: -122.00321
 postcode: "95129"
 city: San Jose
-street: "Stern Avenue"
-housenumber: 90
-phone: "+1 408-255-6711"
+street: Stern Avenue
+housenumber: "90"
+phone: +1 408-255-6711
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/san-jose/90-stern-ave-15766"
+website: https://www.7-eleven.com/locations/ca/san-jose/90-stern-ave-15766

@@ -1,11 +1,11 @@
 id: 1101711643
-type: way
+type: node
 latitude: 37.13636
 longitude: -121.63258
 postcode: "95037"
 city: Morgan Hill
-street: "Condit Road"
-housenumber: 17085
+street: Condit Road
+housenumber: "17085"
 phone: ""
 opening_hours: ""
 website: ""

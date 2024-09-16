@@ -4,8 +4,8 @@ latitude: 32.64321
 longitude: -117.08085
 postcode: "91910"
 city: Chula Vista
-street: "3rd Avenue"
-housenumber: 242
+street: 3rd Avenue
+housenumber: "242"
 phone: "+16196911347"
-opening_hours: "Mo-Fr 10:30-18:00;Sa 10:00-15:30;Su Tea Party by appointment"
-website: "https://www.mycupofteachulavista.com/"
+opening_hours: Mo-Fr 10:30-18:00;Sa 10:00-15:30;Su "Tea Party by appointment"
+website: https://www.mycupofteachulavista.com/

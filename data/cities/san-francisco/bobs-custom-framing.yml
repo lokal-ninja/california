@@ -4,8 +4,8 @@ latitude: 37.77279
 longitude: -122.42259
 postcode: "94102"
 city: San Francisco
-street: "Market Street"
-housenumber: 1710
-phone: "+1 415-255-1595"
-opening_hours: "Mo-Sa 10:00-18:00; Su 12:00-17:00"
+street: Market Street
+housenumber: "1710"
+phone: +1 415-255-1595
+opening_hours: Mo-Sa 10:00-18:00; Su 12:00-17:00
 website: ""

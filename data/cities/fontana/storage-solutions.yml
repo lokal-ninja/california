@@ -1,11 +1,11 @@
 id: 100254492
-type: way
+type: node
 latitude: 34.10619
 longitude: -117.51277
 postcode: "92335"
 city: Fontana
-street: "Foothill Blvd"
-housenumber: 13473
+street: Foothill Blvd
+housenumber: "13473"
 phone: ""
 opening_hours: ""
 website: ""

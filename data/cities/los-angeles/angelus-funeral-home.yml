@@ -1,11 +1,11 @@
 id: 409390642
-type: way
+type: node
 latitude: 34.0153
 longitude: -118.33551
 postcode: "90008"
 city: Los Angeles
-street: "Crenshaw Boulevard"
-housenumber: 3875
+street: Crenshaw Boulevard
+housenumber: "3875"
 phone: ""
 opening_hours: ""
 website: ""

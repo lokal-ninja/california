@@ -1,11 +1,11 @@
 id: 542535392
-type: way
+type: node
 latitude: 34.92551
 longitude: -120.41966
 postcode: "93454"
 city: Santa Maria
-street: "East Betteravia Road"
-housenumber: 935
-phone: "+1 805-348-4310"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/ca-santa-maria/3352"
+street: East Betteravia Road
+housenumber: "935"
+phone: +1 805-348-4310
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/ca-santa-maria/3352

@@ -1,11 +1,11 @@
 id: 622589810
-type: way
+type: node
 latitude: 34.43276
 longitude: -119.81857
 postcode: "93111"
 city: Santa Barbara
-street: "Ward Drive"
-housenumber: 450
-phone: "+1-805-965-5145"
+street: Ward Drive
+housenumber: "450"
+phone: +1-805-965-5145
 opening_hours: ""
-website: "https://www.wrhsb.com"
+website: https://www.wrhsb.com

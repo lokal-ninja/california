@@ -1,11 +1,11 @@
 id: 252718588
-type: way
+type: node
 latitude: 38.11798
 longitude: -121.30522
 postcode: "95242"
 city: Lodi
-street: "West Kettleman Lane"
-housenumber: 2429
+street: West Kettleman Lane
+housenumber: "2429"
 phone: ""
 opening_hours: ""
 website: ""

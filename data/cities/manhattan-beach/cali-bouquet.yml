@@ -4,8 +4,8 @@ latitude: 33.90016
 longitude: -118.4173
 postcode: "90266"
 city: Manhattan Beach
-street: "Highland Avenue"
-housenumber: 3516
-phone: "+1-818-745-1222"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 09:00-16:30; Su 09:00-14:00"
-website: "https://calibouquet.com/"
+street: Highland Avenue
+housenumber: "3516"
+phone: +1-818-745-1222
+opening_hours: Mo-Fr 08:30-18:30; Sa 09:00-16:30; Su 09:00-14:00
+website: https://calibouquet.com/

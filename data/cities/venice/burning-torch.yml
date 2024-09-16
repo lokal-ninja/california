@@ -4,8 +4,8 @@ latitude: 33.99146
 longitude: -118.46858
 postcode: "90291"
 city: Venice
-street: "Abbot Kinney Boulevard"
-housenumber: 1227
-phone: "+1 310 399 1920"
-opening_hours: "Mo-Sa 11:00-19:00; Su 11:00-17:00"
-website: "https://www.burningtorchinc.com/"
+street: Abbot Kinney Boulevard
+housenumber: "1227"
+phone: +1 310 399 1920
+opening_hours: Mo-Sa 11:00-19:00; Su 11:00-17:00
+website: https://www.burningtorchinc.com/

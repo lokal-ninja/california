@@ -1,11 +1,11 @@
 id: 878575493
-type: way
+type: node
 latitude: 33.8258
 longitude: -117.83805
 postcode: "92865"
 city: Orange
-street: "East Village Way"
-housenumber: 1500
-phone: "+1 714-283-2814"
+street: East Village Way
+housenumber: "1500"
+phone: +1 714-283-2814
 opening_hours: ""
-website: "https://www.ulta.com/stores/orange-ca-1206"
+website: https://www.ulta.com/stores/orange-ca-1206

@@ -1,11 +1,11 @@
 id: 180344072
-type: way
+type: node
 latitude: 37.61631
 longitude: -122.09018
 postcode: "94545"
 city: Hayward
-street: "Hesperian Boulevard"
-housenumber: 28505
-phone: "+1 510-921-3128"
-opening_hours: "Mo-Fr 09:00-20:30; Sa-Su 09:00-19:00"
-website: "https://www.costco.com/warehouse-locations/hayward-ca-1061.html"
+street: Hesperian Boulevard
+housenumber: "28505"
+phone: +1 510-921-3128
+opening_hours: Mo-Fr 09:00-20:30; Sa-Su 09:00-19:00
+website: https://www.costco.com/warehouse-locations/hayward-ca-1061.html

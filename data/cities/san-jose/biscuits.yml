@@ -4,8 +4,8 @@ latitude: 37.34939
 longitude: -121.8939
 postcode: "95112"
 city: San Jose
-street: "Jackson Street"
-housenumber: 223
+street: Jackson Street
+housenumber: "223"
 phone: ""
-opening_hours: "Mo off; Tu-Fr 11:00-18:00; Sa 10:00-18:00; Su 13:30-17:00"
-website: "http://shopbiscuits.com/"
+opening_hours: Mo off; Tu-Fr 11:00-18:00; Sa 10:00-18:00; Su 13:30-17:00
+website: http://shopbiscuits.com/

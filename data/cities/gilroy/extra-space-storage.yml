@@ -1,11 +1,11 @@
 id: 1087994448
-type: way
+type: node
 latitude: 37.02348
 longitude: -121.57434
 postcode: "95020"
 city: Gilroy
-street: "Forest Street"
-housenumber: 8585
+street: Forest Street
+housenumber: "8585"
 phone: ""
 opening_hours: ""
 website: ""

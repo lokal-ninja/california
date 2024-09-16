@@ -1,11 +1,11 @@
 id: 31802746
-type: way
+type: node
 latitude: 32.75587
 longitude: -117.20421
 postcode: "92110"
 city: San Diego
-street: "Camino del Rio West"
-housenumber: 3603
+street: Camino del Rio West
+housenumber: "3603"
 phone: ""
 opening_hours: ""
 website: ""

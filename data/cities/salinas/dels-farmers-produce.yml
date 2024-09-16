@@ -1,11 +1,11 @@
 id: 544300044
-type: way
+type: node
 latitude: 36.70466
 longitude: -121.65265
 postcode: "93906"
 city: Salinas
-street: "North Main Street"
-housenumber: 1380
-phone: "+1-831-443-1231"
-opening_hours: "Mo-Su 08:00-18:30"
-website: "http://farmersproducesalinas.blogspot.com"
+street: North Main Street
+housenumber: "1380"
+phone: +1-831-443-1231
+opening_hours: Mo-Su 08:00-18:30
+website: http://farmersproducesalinas.blogspot.com

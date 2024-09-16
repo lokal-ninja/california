@@ -1,11 +1,11 @@
 id: 524358436
-type: way
+type: node
 latitude: 40.72074
 longitude: -122.92655
 postcode: ""
 city: Weaverville
-street: "Main Street"
-housenumber: 1665
-phone: "+1 (530) 623-2494"
-opening_hours: "Mo-Su 06:00-22:00"
+street: Main Street
+housenumber: "1665"
+phone: +1 (530) 623-2494
+opening_hours: Mo-Su 06:00-22:00
 website: ""

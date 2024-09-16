@@ -1,11 +1,11 @@
 id: 582409032
-type: way
+type: node
 latitude: 38.25633
 longitude: -120.3481
 postcode: "95223"
 city: Arnold
-street: "HWY 4"
-housenumber: 909
+street: HWY 4
+housenumber: "909"
 phone: ""
-opening_hours: "Su-Th 08:30-17:00; Fr 08:30-17:30; Sa 08:00-18:00"
-website: "https://www.ebbettspasssportinggoods.com/"
+opening_hours: Su-Th 08:30-17:00; Fr 08:30-17:30; Sa 08:00-18:00
+website: https://www.ebbettspasssportinggoods.com/

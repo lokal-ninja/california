@@ -1,11 +1,11 @@
 id: 348043302
-type: way
+type: node
 latitude: 38.54209
 longitude: -121.73714
 postcode: "95616"
 city: Davis
-street: "Olive Drive"
-housenumber: 1065
+street: Olive Drive
+housenumber: "1065"
 phone: ""
 opening_hours: ""
 website: ""

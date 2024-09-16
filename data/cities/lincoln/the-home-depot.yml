@@ -1,11 +1,11 @@
 id: 258983752
-type: way
+type: node
 latitude: 38.869
 longitude: -121.30332
 postcode: "95648"
 city: Lincoln
-street: "Groveland Lane"
-housenumber: 1000
-phone: "+1 916-434-7337"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Lincoln/CA/Lincoln/95648/8571"
+street: Groveland Lane
+housenumber: "1000"
+phone: +1 916-434-7337
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Lincoln/CA/Lincoln/95648/8571

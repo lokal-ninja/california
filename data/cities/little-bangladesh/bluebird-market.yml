@@ -1,11 +1,11 @@
 id: 1267847598
-type: way
+type: node
 latitude: 34.0693
 longitude: -118.29437
 postcode: "90020"
 city: Little Bangladesh
-street: "West 3rd Street"
-housenumber: 3601
+street: West 3rd Street
+housenumber: "3601"
 phone: ""
 opening_hours: ""
 website: ""

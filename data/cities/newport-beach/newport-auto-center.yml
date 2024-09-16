@@ -1,11 +1,11 @@
 id: 1047295770
-type: way
+type: node
 latitude: 33.61534
 longitude: -117.89888
 postcode: "92660"
 city: Newport Beach
-street: "Pacific Coast Highway"
-housenumber: 445
+street: Pacific Coast Highway
+housenumber: "445"
 phone: ""
 opening_hours: ""
 website: ""

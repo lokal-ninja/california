@@ -1,11 +1,11 @@
 id: 779220043
-type: way
+type: node
 latitude: 37.3755
 longitude: -121.83535
 postcode: "95127"
 city: San Jose
-street: "McKee Road"
-housenumber: 3105
+street: McKee Road
+housenumber: "3105"
 phone: ""
 opening_hours: ""
 website: ""

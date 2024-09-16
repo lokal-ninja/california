@@ -1,11 +1,11 @@
 id: 1097537731
-type: way
+type: node
 latitude: 36.35713
 longitude: -119.3301
 postcode: "93291"
 city: Visalia
-street: "North Demaree Street"
-housenumber: 3020
-phone: "+1 559-802-9055"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/ca-visalia/2660"
+street: North Demaree Street
+housenumber: "3020"
+phone: +1 559-802-9055
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/ca-visalia/2660

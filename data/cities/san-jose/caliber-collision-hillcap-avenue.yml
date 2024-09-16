@@ -1,11 +1,11 @@
 id: 39126495
-type: way
+type: node
 latitude: 37.28151
 longitude: -121.84597
 postcode: "95136"
 city: San Jose
-street: "Hillcap Avenue"
-housenumber: 3517
+street: Hillcap Avenue
+housenumber: "3517"
 phone: ""
 opening_hours: ""
 website: ""

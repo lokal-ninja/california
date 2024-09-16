@@ -1,11 +1,11 @@
 id: 43968269
-type: way
+type: node
 latitude: 37.58921
 longitude: -122.02113
 postcode: "94587"
 city: Union City
-street: "Decoto Road"
-housenumber: 1601
+street: Decoto Road
+housenumber: "1601"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ca/unioncity/autoparts-2571.html"
+website: https://locations.oreillyauto.com/ca/unioncity/autoparts-2571.html

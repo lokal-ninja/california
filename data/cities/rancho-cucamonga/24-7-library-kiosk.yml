@@ -4,8 +4,8 @@ latitude: 34.11065
 longitude: -117.57369
 postcode: "91730"
 city: Rancho Cucamonga
-street: "Town Center Drive"
-housenumber: 10591
+street: Town Center Drive
+housenumber: "10591"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.cityofrc.us/library"
+opening_hours: 24/7
+website: https://www.cityofrc.us/library

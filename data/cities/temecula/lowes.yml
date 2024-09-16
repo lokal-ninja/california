@@ -1,11 +1,11 @@
 id: 55883452
-type: way
+type: node
 latitude: 33.5317
 longitude: -117.14945
 postcode: "92591"
 city: Temecula
-street: "Winchester Road"
-housenumber: 40390
-phone: "+1 951-296-1618"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/ca-temecula/0775"
+street: Winchester Road
+housenumber: "40390"
+phone: +1 951-296-1618
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/ca-temecula/0775

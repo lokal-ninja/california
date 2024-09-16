@@ -1,11 +1,11 @@
 id: 480193908
-type: way
+type: node
 latitude: 40.65655
 longitude: -122.35928
 postcode: ""
 city: Shasta Lake
-street: "Cascade Boulevard"
-housenumber: 3256
+street: Cascade Boulevard
+housenumber: "3256"
 phone: ""
 opening_hours: ""
 website: ""

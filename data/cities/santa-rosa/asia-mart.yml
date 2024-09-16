@@ -1,11 +1,11 @@
 id: 453443178
-type: way
+type: node
 latitude: 38.45307
 longitude: -122.76869
 postcode: "95403"
 city: Santa Rosa
-street: "Guerneville Road"
-housenumber: 2481
+street: Guerneville Road
+housenumber: "2481"
 phone: ""
 opening_hours: ""
 website: ""

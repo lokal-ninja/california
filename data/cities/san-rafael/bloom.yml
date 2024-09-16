@@ -4,8 +4,8 @@ latitude: 37.9738
 longitude: -122.53592
 postcode: ""
 city: San Rafael
-street: "Fourth Street"
-housenumber: 1557
+street: Fourth Street
+housenumber: "1557"
 phone: ""
 opening_hours: ""
-website: "https://bloommarin.org"
+website: https://bloommarin.org

@@ -1,11 +1,11 @@
 id: 229737115
-type: way
+type: node
 latitude: 35.62487
 longitude: -120.76874
 postcode: "93446"
 city: Paso Robles
-street: "Peachy Canyon Road"
-housenumber: 4125
-phone: "+1-805-239-1668"
+street: Peachy Canyon Road
+housenumber: "4125"
+phone: +1-805-239-1668
 opening_hours: ""
-website: "https://gillcellars.com/"
+website: https://gillcellars.com/

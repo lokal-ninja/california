@@ -4,8 +4,8 @@ latitude: 37.79347
 longitude: -122.26502
 postcode: "94607"
 city: Oakland
-street: "4th Street"
-housenumber: 39
+street: 4th Street
+housenumber: "39"
 phone: ""
 opening_hours: ""
-website: "https://www.waghotels.com/"
+website: https://www.waghotels.com/

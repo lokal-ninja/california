@@ -1,11 +1,11 @@
 id: 974874377
-type: way
+type: node
 latitude: 36.33043
 longitude: -121.24122
 postcode: "93927"
 city: Greenfield
-street: "Walnut Avenue"
-housenumber: 359
+street: Walnut Avenue
+housenumber: "359"
 phone: ""
 opening_hours: ""
 website: ""

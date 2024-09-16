@@ -1,11 +1,11 @@
 id: 1004818405
-type: way
+type: node
 latitude: 32.78723
 longitude: -116.94842
 postcode: "92020"
 city: El Cajon
-street: "East Washington Avenue"
-housenumber: 999
+street: East Washington Avenue
+housenumber: "999"
 phone: "+16194010069"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-16:00"
-website: "https://www.heartland-cleaners.com/"
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-16:00
+website: https://www.heartland-cleaners.com/

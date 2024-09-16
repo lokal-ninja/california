@@ -1,11 +1,11 @@
 id: 58672173
-type: way
+type: node
 latitude: 32.7777
 longitude: -117.00714
 postcode: "91942"
 city: La Mesa
-street: "Murray Drive"
-housenumber: 8815
-phone: "+1 619-463-4410"
+street: Murray Drive
+housenumber: "8815"
+phone: +1 619-463-4410
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/ca/la-mesa/503007/"
+website: https://www.mattressfirm.com/en-us/stores/ca/la-mesa/503007/

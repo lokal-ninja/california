@@ -1,11 +1,11 @@
 id: 1184334842
-type: way
+type: node
 latitude: 35.50262
 longitude: -119.17941
 postcode: "93263"
 city: Shafter
-street: "North American Street"
-housenumber: 300
+street: North American Street
+housenumber: "300"
 phone: ""
 opening_hours: ""
-website: "https://www.bldr.com/"
+website: https://www.bldr.com/

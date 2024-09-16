@@ -1,11 +1,11 @@
 id: 176274326
-type: way
+type: node
 latitude: 33.7913
 longitude: -117.76352
 postcode: "92869"
 city: Orange
-street: "East Chapman Avenue"
-housenumber: 8440
-phone: "+1 714-771-6996"
+street: East Chapman Avenue
+housenumber: "8440"
+phone: +1 714-771-6996
 opening_hours: ""
-website: "https://local.albertsons.com/ca/orange/8440-e-chapman-ave.html"
+website: https://local.albertsons.com/ca/orange/8440-e-chapman-ave.html

@@ -1,11 +1,11 @@
 id: 973238869
-type: way
+type: node
 latitude: 37.65608
 longitude: -120.99433
 postcode: "95350"
 city: Modesto
-street: "McHenry Avenue"
-housenumber: 919
+street: McHenry Avenue
+housenumber: "919"
 phone: ""
 opening_hours: ""
 website: ""

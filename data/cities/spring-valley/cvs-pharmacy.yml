@@ -1,11 +1,11 @@
 id: 960979229
-type: way
+type: node
 latitude: 32.74725
 longitude: -116.9881
 postcode: "91977"
 city: Spring Valley
-street: "Campo Road"
-housenumber: 9665
+street: Campo Road
+housenumber: "9665"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/spring-valley-ca-pharmacies/9665-campo-rd-spring-valley-ca-91977/storeid=10919"
+website: https://www.cvs.com/store-locator/spring-valley-ca-pharmacies/9665-campo-rd-spring-valley-ca-91977/storeid=10919

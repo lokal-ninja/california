@@ -1,11 +1,11 @@
 id: 616230791
-type: way
+type: node
 latitude: 38.45385
 longitude: -121.40448
 postcode: "95624"
 city: Elk Grove
-street: "Power Inn Road"
-housenumber: 8369
-phone: "+1 916-688-1922"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/ca-elk-grove/1148"
+street: Power Inn Road
+housenumber: "8369"
+phone: +1 916-688-1922
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/ca-elk-grove/1148

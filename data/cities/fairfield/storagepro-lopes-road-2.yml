@@ -1,11 +1,11 @@
 id: 1193623172
-type: way
+type: node
 latitude: 38.2061
 longitude: -122.13898
 postcode: ""
 city: Fairfield
-street: "Lopes Road"
-housenumber: 475
-phone: "+1 707-862-7867"
-opening_hours: "Mo-Fr 09:30-18:00; Sa-Su 09:00-17:00; PH unknown"
-website: "https://www.storagepro.com/storage-units/california/fairfield/storagepro-of-fairfield-379003/"
+street: Lopes Road
+housenumber: "475"
+phone: +1 707-862-7867
+opening_hours: Mo-Fr 09:30-18:00; Sa-Su 09:00-17:00; PH unknown
+website: https://www.storagepro.com/storage-units/california/fairfield/storagepro-of-fairfield-379003/

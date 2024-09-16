@@ -1,11 +1,11 @@
 id: 252246535
-type: way
+type: node
 latitude: 37.67237
 longitude: -120.99609
 postcode: "95350"
 city: Modesto
-street: "McHenry Avenue"
-housenumber: 2001
-phone: "+1 209-571-6280"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/ca/modesto/2001-mchenry-ave-suite-c.html"
+street: McHenry Avenue
+housenumber: "2001"
+phone: +1 209-571-6280
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/ca/modesto/2001-mchenry-ave-suite-c.html

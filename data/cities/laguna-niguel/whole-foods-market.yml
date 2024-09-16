@@ -1,11 +1,11 @@
 id: 138169717
-type: way
+type: node
 latitude: 33.55456
 longitude: -117.71221
 postcode: "92677"
 city: Laguna Niguel
-street: "Aliso Creek Road"
-housenumber: 23932
-phone: "+1 949-900-5830"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/lagunaniguel"
+street: Aliso Creek Road
+housenumber: "23932"
+phone: +1 949-900-5830
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.wholefoodsmarket.com/stores/lagunaniguel

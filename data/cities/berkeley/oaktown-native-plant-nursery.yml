@@ -1,11 +1,11 @@
 id: 772745485
-type: way
+type: node
 latitude: 37.86104
 longitude: -122.29876
 postcode: "94710"
 city: Berkeley
-street: "Channing Way"
-housenumber: 702
-phone: "510-387-9744"
-opening_hours: "Th-Su 10:00-17:00"
-website: "https://oaktownnursery.com/"
+street: Channing Way
+housenumber: "702"
+phone: 510-387-9744
+opening_hours: Th-Su 10:00-17:00
+website: https://oaktownnursery.com/

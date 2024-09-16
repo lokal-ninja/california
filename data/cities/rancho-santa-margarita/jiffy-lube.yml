@@ -1,11 +1,11 @@
 id: 62011573
-type: way
+type: node
 latitude: 33.62799
 longitude: -117.60545
 postcode: "92688"
 city: Rancho Santa Margarita
-street: "Antonio Parkway"
-housenumber: 23041
+street: Antonio Parkway
+housenumber: "23041"
 phone: ""
 opening_hours: ""
 website: ""

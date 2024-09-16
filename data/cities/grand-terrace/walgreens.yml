@@ -1,11 +1,11 @@
 id: 579067420
-type: way
+type: node
 latitude: 34.03464
 longitude: -117.31482
 postcode: "92313"
 city: Grand Terrace
-street: "Barton Road"
-housenumber: 22456
+street: Barton Road
+housenumber: "22456"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-22456+barton+rd-grand+terrace-ca-92313/id=12841"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-22456+barton+rd-grand+terrace-ca-92313/id=12841

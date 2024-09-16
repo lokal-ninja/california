@@ -1,11 +1,11 @@
 id: 1280036929
-type: way
+type: node
 latitude: 38.68219
 longitude: -120.662
 postcode: ""
 city: Placerville
-street: "Mount Aukum Road"
-housenumber: 4653
+street: Mount Aukum Road
+housenumber: "4653"
 phone: ""
 opening_hours: ""
 website: ""

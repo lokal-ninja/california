@@ -1,11 +1,11 @@
 id: 38246924
-type: way
+type: node
 latitude: 37.26476
 longitude: -121.94055
 postcode: "95124"
 city: San Jose
-street: "South Bascom Avenue"
-housenumber: 3260
+street: South Bascom Avenue
+housenumber: "3260"
 phone: ""
 opening_hours: ""
 website: ""

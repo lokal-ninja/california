@@ -4,8 +4,8 @@ latitude: 32.75023
 longitude: -117.16261
 postcode: "92103"
 city: San Diego
-street: "Washington Street"
-housenumber: 302
+street: Washington Street
+housenumber: "302"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-17:00; Su closed"
+opening_hours: Mo-Fr 08:00-19:00; Sa 09:00-17:00; Su closed
 website: ""

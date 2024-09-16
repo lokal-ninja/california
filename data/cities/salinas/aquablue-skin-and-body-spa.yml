@@ -1,11 +1,11 @@
 id: 201659278
-type: way
+type: node
 latitude: 36.67488
 longitude: -121.65497
 postcode: "93901"
 city: Salinas
-street: "South Main Street"
-housenumber: 229
-phone: "(831) 422-2500"
+street: South Main Street
+housenumber: "229"
+phone: (831) 422-2500
 opening_hours: ""
-website: "https://www.aquabluespa.com/"
+website: https://www.aquabluespa.com/

@@ -1,11 +1,11 @@
 id: 424953699
-type: way
+type: node
 latitude: 34.03513
 longitude: -118.43979
 postcode: "90064"
 city: Los Angeles
-street: "West Pico Boulevard"
-housenumber: 11301
-phone: "+1-310-268-9190"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-20:00"
-website: "https://stores.bestbuy.com/ca/los-angeles/11301-w-pico-blvd-109.html"
+street: West Pico Boulevard
+housenumber: "11301"
+phone: +1-310-268-9190
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-20:00
+website: https://stores.bestbuy.com/ca/los-angeles/11301-w-pico-blvd-109.html

@@ -4,8 +4,8 @@ latitude: 33.90711
 longitude: -117.47153
 postcode: "92505"
 city: Riverside
-street: "Magnolia Avenue"
-housenumber: 10765
-phone: "+1 951-785-0459"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/10765-magnolia-ave-ste-100-riverside-92505?number=26"
+street: Magnolia Avenue
+housenumber: "10765"
+phone: +1 951-785-0459
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/10765-magnolia-ave-ste-100-riverside-92505?number=26

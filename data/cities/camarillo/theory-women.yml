@@ -4,8 +4,8 @@ latitude: 34.21734
 longitude: -119.05931
 postcode: "93010"
 city: Camarillo
-street: "Ventura Boulevard"
-housenumber: 850
-phone: "+1-805-388-5628"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-19:00"
-website: "https://www.theory.com/storedetail/?StoreID=280024"
+street: Ventura Boulevard
+housenumber: "850"
+phone: +1-805-388-5628
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-19:00
+website: https://www.theory.com/storedetail/?StoreID=280024

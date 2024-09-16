@@ -1,11 +1,11 @@
 id: 990156253
-type: way
+type: node
 latitude: 34.10146
 longitude: -117.67067
 postcode: "91786"
 city: Upland
-street: "North Mountain Avenue"
-housenumber: 599
-phone: "+1 909-949-0734"
+street: North Mountain Avenue
+housenumber: "599"
+phone: +1 909-949-0734
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/upland/599-n-mountain-ave-36035"
+website: https://www.7-eleven.com/locations/ca/upland/599-n-mountain-ave-36035

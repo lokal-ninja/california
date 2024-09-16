@@ -1,11 +1,11 @@
 id: 220489385
-type: way
+type: node
 latitude: 37.82664
 longitude: -122.21
 postcode: "94611"
 city: Oakland
-street: "La Salle Avenue"
-housenumber: 6127
+street: La Salle Avenue
+housenumber: "6127"
 phone: ""
 opening_hours: ""
 website: ""

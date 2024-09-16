@@ -1,11 +1,11 @@
 id: 31820011
-type: way
+type: node
 latitude: 32.77177
 longitude: -117.06943
 postcode: "92115"
 city: San Diego
-street: "Cantina Way"
-housenumber: 5150
-phone: "+1 619-287-0616"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ca/san-diego/5141-college-ave-13633"
+street: Cantina Way
+housenumber: "5150"
+phone: +1 619-287-0616
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ca/san-diego/5141-college-ave-13633

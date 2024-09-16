@@ -1,11 +1,11 @@
 id: 269472334
-type: way
+type: node
 latitude: 39.7307
 longitude: -121.84096
 postcode: "95928"
 city: Chico
-street: "Main Street"
-housenumber: 118
+street: Main Street
+housenumber: "118"
 phone: ""
 opening_hours: ""
 website: ""

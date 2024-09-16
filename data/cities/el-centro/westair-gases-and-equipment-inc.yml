@@ -1,11 +1,11 @@
 id: 1080980666
-type: way
+type: node
 latitude: 32.79255
 longitude: -115.53189
 postcode: "92243"
 city: El Centro
-street: "East Main Street"
-housenumber: 651
+street: East Main Street
+housenumber: "651"
 phone: ""
 opening_hours: ""
 website: ""

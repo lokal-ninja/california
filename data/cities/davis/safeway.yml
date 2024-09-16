@@ -1,11 +1,11 @@
 id: 253731115
-type: way
+type: node
 latitude: 38.54084
 longitude: -121.72548
 postcode: "96516"
 city: Davis
-street: "Cowell Boulevard"
-housenumber: 2121
-phone: "+1 530-792-8500"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/ca/davis/2121-cowell-blvd.html"
+street: Cowell Boulevard
+housenumber: "2121"
+phone: +1 530-792-8500
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/ca/davis/2121-cowell-blvd.html

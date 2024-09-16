@@ -1,11 +1,11 @@
 id: 548629523
-type: way
+type: node
 latitude: 34.07884
 longitude: -117.54897
-postcode: "91730-6129"
+postcode: 91730-6129
 city: Rancho Cucamonga
-street: "4th Street"
-housenumber: 11800
-phone: "+1 909-581-1703"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/rancho-cucamonga-ca-678.html"
+street: 4th Street
+housenumber: "11800"
+phone: +1 909-581-1703
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/rancho-cucamonga-ca-678.html

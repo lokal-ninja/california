@@ -1,11 +1,11 @@
 id: 758009231
-type: way
+type: node
 latitude: 33.46691
 longitude: -117.69601
 postcode: "92629"
 city: Dana Point
-street: "Del Prado"
-housenumber: 24871
-phone: "+1 949-661-4145"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.ralphs.com/stores/grocery/ca/dana-point/lantern-bay-village/703/00188"
+street: Del Prado
+housenumber: "24871"
+phone: +1 949-661-4145
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.ralphs.com/stores/grocery/ca/dana-point/lantern-bay-village/703/00188

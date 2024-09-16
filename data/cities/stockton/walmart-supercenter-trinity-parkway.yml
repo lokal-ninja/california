@@ -1,11 +1,11 @@
 id: 467566006
-type: way
+type: node
 latitude: 38.04904
 longitude: -121.37706
 postcode: "95219"
 city: Stockton
-street: "Trinity Parkway"
-housenumber: 10355
-phone: "+1 209-235-0558"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/3352/stockton-ca/whats-new"
+street: Trinity Parkway
+housenumber: "10355"
+phone: +1 209-235-0558
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/3352/stockton-ca/whats-new

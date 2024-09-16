@@ -2,10 +2,10 @@ id: 8666189563
 type: node
 latitude: 34.18427
 longitude: -118.13104
-postcode: "91001-2415"
+postcode: 91001-2415
 city: Altadena
-street: "North Lake Avenue"
-housenumber: 2246
-phone: "+1 626-249-4747"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://stores.aldi.us/ca/altadena/2246-n-lake-ave"
+street: North Lake Avenue
+housenumber: "2246"
+phone: +1 626-249-4747
+opening_hours: Mo-Su 09:00-21:00
+website: https://stores.aldi.us/ca/altadena/2246-n-lake-ave

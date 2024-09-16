@@ -1,11 +1,11 @@
 id: 460849804
-type: way
+type: node
 latitude: 34.47438
 longitude: -117.24057
 postcode: "92308"
 city: Apple Valley
-street: "Apple Valley Road"
-housenumber: 12253
-phone: "+1 760-240-2214"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.staterbros.com/stores/178"
+street: Apple Valley Road
+housenumber: "12253"
+phone: +1 760-240-2214
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.staterbros.com/stores/178

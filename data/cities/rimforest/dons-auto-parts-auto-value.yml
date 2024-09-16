@@ -1,11 +1,11 @@
 id: 356995367
-type: way
+type: node
 latitude: 34.22971
 longitude: -117.22411
 postcode: "92378"
 city: Rimforest
-street: "State Highway 138"
-housenumber: 26561
-phone: "(909) 336-2025"
+street: State Highway 138
+housenumber: "26561"
+phone: (909) 336-2025
 opening_hours: ""
-website: "https://www.autovalue.com/"
+website: https://www.autovalue.com/

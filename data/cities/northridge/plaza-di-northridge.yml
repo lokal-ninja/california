@@ -1,11 +1,11 @@
 id: 893604636
-type: way
+type: node
 latitude: 34.24086
 longitude: -118.56014
 postcode: "91324"
 city: Northridge
-street: "Plummer Street"
-housenumber: 19500
-phone: "+1 833 800 4343"
+street: Plummer Street
+housenumber: "19500"
+phone: +1 833 800 4343
 opening_hours: ""
-website: "https://properties.kimcorealty.com/properties/113360"
+website: https://properties.kimcorealty.com/properties/113360

@@ -1,11 +1,11 @@
 id: 1050882804
-type: way
+type: node
 latitude: 39.72539
 longitude: -121.85133
 postcode: "95928"
 city: Chico
-street: "Nord Avenue"
-housenumber: 231
+street: Nord Avenue
+housenumber: "231"
 phone: "+15303421287"
-opening_hours: "Mo-Su 11:00-20:00"
+opening_hours: Mo-Su 11:00-20:00
 website: ""

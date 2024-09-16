@@ -1,11 +1,11 @@
 id: 404275362
-type: way
+type: node
 latitude: 38.40862
 longitude: -121.38993
 postcode: "95758"
 city: Elk Grove
-street: "Elk Grove Boulevard"
-housenumber: 8500
+street: Elk Grove Boulevard
+housenumber: "8500"
 phone: ""
 opening_hours: ""
 website: ""

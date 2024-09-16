@@ -1,11 +1,11 @@
 id: 1213183338
-type: way
+type: node
 latitude: 32.80334
 longitude: -117.13972
 postcode: "92123"
 city: San Diego
-street: "Sandrock Road"
-housenumber: 3332
+street: Sandrock Road
+housenumber: "3332"
 phone: "+18582780047"
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/san-diego-ca-pharmacies/3332-sandrock-road-san-diego-ca-92123/storeid=8833"
+website: https://www.cvs.com/store-locator/san-diego-ca-pharmacies/3332-sandrock-road-san-diego-ca-92123/storeid=8833

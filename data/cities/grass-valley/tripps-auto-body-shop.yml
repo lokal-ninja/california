@@ -1,11 +1,11 @@
 id: 772077550
-type: way
+type: node
 latitude: 39.20486
 longitude: -121.0659
 postcode: ""
 city: Grass Valley
-street: "Freeman Lane"
-housenumber: 600
-phone: "+1-530-273-8515"
+street: Freeman Lane
+housenumber: "600"
+phone: +1-530-273-8515
 opening_hours: ""
-website: "http://trippsautobody.com/home/3292216"
+website: http://trippsautobody.com/home/3292216

@@ -4,8 +4,8 @@ latitude: 37.27445
 longitude: -121.93323
 postcode: "95124"
 city: San Jose
-street: "Union Avenue"
-housenumber: 2600
+street: Union Avenue
+housenumber: "2600"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00; Su 10:00-18:00; Tu off"
+opening_hours: Mo-Sa 09:30-19:00; Su 10:00-18:00; Tu off
 website: ""

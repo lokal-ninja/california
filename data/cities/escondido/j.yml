@@ -1,11 +1,11 @@
 id: 94807638
-type: way
+type: node
 latitude: 33.11934
 longitude: -117.0855
 postcode: "92025"
 city: Escondido
-street: "South Orange Street"
-housenumber: 107
+street: South Orange Street
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

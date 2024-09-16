@@ -1,11 +1,11 @@
 id: 165689956
-type: way
+type: node
 latitude: 35.49604
 longitude: -120.67925
 postcode: ""
 city: Atascadero
-street: "El Camino Real"
-housenumber: 4865
+street: El Camino Real
+housenumber: "4865"
 phone: ""
 opening_hours: ""
 website: ""

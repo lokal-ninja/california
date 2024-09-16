@@ -1,11 +1,11 @@
 id: 473795886
-type: way
+type: node
 latitude: 34.47273
 longitude: -117.19152
 postcode: "92308"
 city: Apple Valley
-street: "Bear Valley Road"
-housenumber: 21640
-phone: "+1 760-961-0051"
-opening_hours: "09:00-21:00"
-website: "https://local.biglots.com/ca/apple-valley/21640-bear-valley-rd"
+street: Bear Valley Road
+housenumber: "21640"
+phone: +1 760-961-0051
+opening_hours: 09:00-21:00
+website: https://local.biglots.com/ca/apple-valley/21640-bear-valley-rd

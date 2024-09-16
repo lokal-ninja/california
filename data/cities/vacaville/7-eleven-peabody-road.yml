@@ -1,11 +1,11 @@
 id: 698165662
-type: way
+type: node
 latitude: 38.35141
 longitude: -121.97558
 postcode: "95687"
 city: Vacaville
-street: "Peabody Road"
-housenumber: 167
-phone: "+1 707-448-1143"
+street: Peabody Road
+housenumber: "167"
+phone: +1 707-448-1143
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/vacaville/167-peabody-rd-16055"
+website: https://www.7-eleven.com/locations/ca/vacaville/167-peabody-rd-16055

@@ -1,11 +1,11 @@
 id: 1264601275
-type: way
+type: node
 latitude: 33.68876
 longitude: -117.89328
 postcode: "92626"
 city: Costa Mesa
-street: "South Coast Drive"
-housenumber: 901
-phone: "+1 714-434-0132"
+street: South Coast Drive
+housenumber: "901"
+phone: +1 714-434-0132
 opening_hours: ""
-website: "https://stores.bestbuy.com/ca/costa-mesa/901-s-coast-dr-119.html"
+website: https://stores.bestbuy.com/ca/costa-mesa/901-s-coast-dr-119.html

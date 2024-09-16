@@ -1,11 +1,11 @@
 id: 424945987
-type: way
+type: node
 latitude: 33.90969
 longitude: -118.38473
 postcode: "90245"
 city: El Segundo
-street: "Coral Circle"
-housenumber: 401
+street: Coral Circle
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1135662165
-type: way
+type: node
 latitude: 36.00986
 longitude: -119.95967
 postcode: "93239"
 city: Kettleman City
-street: "Brown Street"
-housenumber: 383
+street: Brown Street
+housenumber: "383"
 phone: ""
 opening_hours: ""
 website: ""

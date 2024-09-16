@@ -1,11 +1,11 @@
 id: 1124251936
-type: way
+type: node
 latitude: 33.74186
 longitude: -117.83894
 postcode: "92780"
 city: Tustin
-street: "Williams Street"
-housenumber: 15202
-phone: "+1 714-541-5404"
+street: Williams Street
+housenumber: "15202"
+phone: +1 714-541-5404
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/tustin/15202-williams-st-20705"
+website: https://www.7-eleven.com/locations/ca/tustin/15202-williams-st-20705

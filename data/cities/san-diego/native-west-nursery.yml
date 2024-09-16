@@ -4,8 +4,8 @@ latitude: 32.5651
 longitude: -117.09261
 postcode: "92154"
 city: San Diego
-street: "Saturn Boulevard"
-housenumber: 1755
+street: Saturn Boulevard
+housenumber: "1755"
 phone: "+16194232284"
 opening_hours: ""
-website: "https://nativewest.com"
+website: https://nativewest.com

@@ -1,11 +1,11 @@
 id: 93160018
-type: way
+type: node
 latitude: 37.61293
 longitude: -122.06986
 postcode: "94587"
 city: Union City
-street: "Industrial Parkway Southwest"
-housenumber: 30055
-phone: "+1 510-489-9400"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Union-City/CA/Union-City/94587/635"
+street: Industrial Parkway Southwest
+housenumber: "30055"
+phone: +1 510-489-9400
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Union-City/CA/Union-City/94587/635

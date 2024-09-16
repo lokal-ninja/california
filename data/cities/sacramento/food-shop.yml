@@ -1,11 +1,11 @@
 id: 406157303
-type: way
+type: node
 latitude: 38.61824
 longitude: -121.38256
 postcode: "95821"
 city: Sacramento
-street: "Watt Avenue"
-housenumber: 2900
+street: Watt Avenue
+housenumber: "2900"
 phone: ""
 opening_hours: ""
 website: ""

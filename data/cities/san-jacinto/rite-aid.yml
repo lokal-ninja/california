@@ -1,11 +1,11 @@
 id: 640092745
-type: way
+type: node
 latitude: 33.77042
 longitude: -116.9579
 postcode: ""
 city: San Jacinto
-street: "San Jacinto Avenue"
-housenumber: 1605
+street: San Jacinto Avenue
+housenumber: "1605"
 phone: ""
 opening_hours: ""
-website: "https://www.riteaid.com/locations/ca/san-jacinto/1605-south-san-jacinto-ave.html"
+website: https://www.riteaid.com/locations/ca/san-jacinto/1605-south-san-jacinto-ave.html

@@ -1,11 +1,11 @@
 id: 1282644475
-type: way
+type: node
 latitude: 37.66023
 longitude: -121.01245
 postcode: "95350"
 city: Modesto
-street: "Tully Road"
-housenumber: 1135
+street: Tully Road
+housenumber: "1135"
 phone: "+12095277691"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-16:00"
-website: "https://pro10oil.com/"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-16:00
+website: https://pro10oil.com/

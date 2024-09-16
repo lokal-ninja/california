@@ -1,11 +1,11 @@
 id: 258564464
-type: way
+type: node
 latitude: 37.3827
 longitude: -122.11434
 postcode: "94022"
 city: Los Altos
-street: "North San Antonio Road"
-housenumber: 66
+street: North San Antonio Road
+housenumber: "66"
 phone: ""
 opening_hours: ""
-website: "https://demartiniorchard.com/"
+website: https://demartiniorchard.com/

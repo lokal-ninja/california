@@ -4,8 +4,8 @@ latitude: 37.97387
 longitude: -122.53842
 postcode: "94901"
 city: San Rafael
-street: "4th Street"
-housenumber: 1801
-phone: "+1 415-785-2586"
+street: 4th Street
+housenumber: "1801"
+phone: +1 415-785-2586
 opening_hours: ""
-website: "https://stores.bestbuy.com/ca/san-rafael/1801-4th-st-2639.html"
+website: https://stores.bestbuy.com/ca/san-rafael/1801-4th-st-2639.html

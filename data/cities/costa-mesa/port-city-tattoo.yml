@@ -4,8 +4,8 @@ latitude: 33.67981
 longitude: -117.90458
 postcode: "92626"
 city: Costa Mesa
-street: "Baker Street"
-housenumber: 1145
-phone: "+1 714 708-2120"
-opening_hours: "Mo-Su 11:00-20:00"
-website: "https://www.portcitytattoo.com/"
+street: Baker Street
+housenumber: "1145"
+phone: +1 714 708-2120
+opening_hours: Mo-Su 11:00-20:00
+website: https://www.portcitytattoo.com/

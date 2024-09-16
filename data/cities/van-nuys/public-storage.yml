@@ -1,11 +1,11 @@
 id: 303883931
-type: way
+type: node
 latitude: 34.22034
 longitude: -118.50236
 postcode: "91406"
 city: Van Nuys
-street: "Balboa Boulevard"
-housenumber: 8200
+street: Balboa Boulevard
+housenumber: "8200"
 phone: ""
 opening_hours: ""
 website: ""

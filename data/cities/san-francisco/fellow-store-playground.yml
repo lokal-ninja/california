@@ -1,11 +1,11 @@
 id: 260123558
-type: way
+type: node
 latitude: 37.75973
 longitude: -122.4219
 postcode: "94110"
 city: San Francisco
-street: "Valencia Street"
-housenumber: 820
+street: Valencia Street
+housenumber: "820"
 phone: ""
-opening_hours: "Tu-Su 12:00-19:00"
-website: "https://fellowproducts.com/pages/visit-us"
+opening_hours: Tu-Su 12:00-19:00
+website: https://fellowproducts.com/pages/visit-us

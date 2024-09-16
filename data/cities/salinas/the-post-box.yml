@@ -4,8 +4,8 @@ latitude: 36.66523
 longitude: -121.65871
 postcode: "93901"
 city: Salinas
-street: "Park Row"
-housenumber: 820
-phone: "+1 831 757 7678"
-opening_hours: "Mo-Fr 08:30-17:30; Sa 09:00-13:00"
-website: "https://www.thepostbox.net"
+street: Park Row
+housenumber: "820"
+phone: +1 831 757 7678
+opening_hours: Mo-Fr 08:30-17:30; Sa 09:00-13:00
+website: https://www.thepostbox.net

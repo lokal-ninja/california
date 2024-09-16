@@ -1,11 +1,11 @@
 id: 401858901
-type: way
+type: node
 latitude: 33.21718
 longitude: -117.24544
 postcode: "92083"
 city: Vista
-street: "North Santa Fe Avenue"
-housenumber: 1244
+street: North Santa Fe Avenue
+housenumber: "1244"
 phone: ""
 opening_hours: ""
 website: ""

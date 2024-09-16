@@ -1,11 +1,11 @@
 id: 557824507
-type: way
+type: node
 latitude: 38.80124
 longitude: -121.20209
 postcode: "95677"
 city: Rocklin
-street: "Crossings Drive"
-housenumber: 5440
-phone: "+1-916-652-7542"
-opening_hours: "Mo-Sa 09:30-21:30; Su 11:00-20:00"
+street: Crossings Drive
+housenumber: "5440"
+phone: +1-916-652-7542
+opening_hours: Mo-Sa 09:30-21:30; Su 11:00-20:00
 website: ""

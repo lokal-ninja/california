@@ -1,11 +1,11 @@
 id: 239957672
-type: way
+type: node
 latitude: 37.68956
 longitude: -122.13844
 postcode: "94579"
 city: San Leandro
-street: "Lewelling Boulevard"
-housenumber: 699
-phone: "+1 510-483-2225"
-opening_hours: "06:00-24:00"
-website: "https://local.safeway.com/safeway/ca/san-leandro/699-lewelling-blvd.html"
+street: Lewelling Boulevard
+housenumber: "699"
+phone: +1 510-483-2225
+opening_hours: 06:00-24:00
+website: https://local.safeway.com/safeway/ca/san-leandro/699-lewelling-blvd.html

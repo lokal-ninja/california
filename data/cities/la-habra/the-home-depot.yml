@@ -1,11 +1,11 @@
 id: 125249309
-type: way
+type: node
 latitude: 33.92576
 longitude: -117.93277
 postcode: "90631"
 city: La Habra
-street: "South Harbor Boulevard"
-housenumber: 600
-phone: "+1 562-690-6006"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/la-habra/ca/la-habra/90631/6657"
+street: South Harbor Boulevard
+housenumber: "600"
+phone: +1 562-690-6006
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/la-habra/ca/la-habra/90631/6657

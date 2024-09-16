@@ -1,11 +1,11 @@
 id: 794883314
-type: way
+type: node
 latitude: 37.50429
 longitude: -120.84076
 postcode: "95380"
 city: Turlock
-street: "Wayside Drive"
-housenumber: 735
-phone: "+1 209 668 3293"
+street: Wayside Drive
+housenumber: "735"
+phone: +1 209 668 3293
 opening_hours: ""
 website: ""

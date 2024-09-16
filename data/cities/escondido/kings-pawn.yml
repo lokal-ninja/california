@@ -1,11 +1,11 @@
 id: 121980567
-type: way
+type: node
 latitude: 33.12949
 longitude: -117.06986
 postcode: "92025"
 city: Escondido
-street: "East Valley Parkway"
-housenumber: 1010
+street: East Valley Parkway
+housenumber: "1010"
 phone: ""
 opening_hours: ""
-website: "http://www.kingspawn.net/"
+website: http://www.kingspawn.net/

@@ -1,11 +1,11 @@
 id: 358456030
-type: way
+type: node
 latitude: 37.32355
 longitude: -121.92847
 postcode: "95128"
 city: San Jose
-street: "West San Carlos Street"
-housenumber: 1899
+street: West San Carlos Street
+housenumber: "1899"
 phone: ""
 opening_hours: ""
-website: "https://worldofstereo.com/"
+website: https://worldofstereo.com/

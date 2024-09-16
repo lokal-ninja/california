@@ -1,11 +1,11 @@
 id: 40661999
-type: way
+type: node
 latitude: 34.08355
 longitude: -118.22595
 postcode: "90065"
 city: Los Angeles
-street: "North Figueroa Street"
-housenumber: 2055
-phone: "+1 323-342-9495"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/cypress-park/ca/los-angeles/90065/6689"
+street: North Figueroa Street
+housenumber: "2055"
+phone: +1 323-342-9495
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/cypress-park/ca/los-angeles/90065/6689

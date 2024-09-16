@@ -1,11 +1,11 @@
 id: 39017323
-type: way
+type: node
 latitude: 37.31052
 longitude: -121.80886
 postcode: "95121"
 city: San Jose
-street: "East Capitol Expressway"
-housenumber: 1825
+street: East Capitol Expressway
+housenumber: "1825"
 phone: ""
 opening_hours: ""
 website: ""

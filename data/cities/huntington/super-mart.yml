@@ -1,11 +1,11 @@
 id: 455758382
-type: way
+type: node
 latitude: 33.96526
 longitude: -118.2229
 postcode: "90255"
 city: Huntington
-street: "Seville Avenue"
-housenumber: 8011
+street: Seville Avenue
+housenumber: "8011"
 phone: ""
 opening_hours: ""
 website: ""

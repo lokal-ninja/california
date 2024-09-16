@@ -1,11 +1,11 @@
 id: 273193716
-type: way
+type: node
 latitude: 37.78766
 longitude: -122.45332
 postcode: "94118"
 city: San Francisco
-street: "Sacramento Street"
-housenumber: 3680
+street: Sacramento Street
+housenumber: "3680"
 phone: ""
 opening_hours: ""
-website: "https://www.dottiedoolittle.com/"
+website: https://www.dottiedoolittle.com/

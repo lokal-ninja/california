@@ -1,11 +1,11 @@
 id: 1136665757
-type: way
+type: node
 latitude: 34.29865
 longitude: -118.45929
 postcode: "91342"
 city: Slymar
-street: "San Fernando Road"
-housenumber: 12639
+street: San Fernando Road
+housenumber: "12639"
 phone: ""
 opening_hours: ""
 website: ""

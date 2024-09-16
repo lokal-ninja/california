@@ -4,8 +4,8 @@ latitude: 37.70693
 longitude: -122.45976
 postcode: "94014"
 city: Daly City
-street: "Mission Street"
-housenumber: 6212
+street: Mission Street
+housenumber: "6212"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ca/daly-city/6212-mission-st.html"
+website: https://www.autozone.com/locations/ca/daly-city/6212-mission-st.html

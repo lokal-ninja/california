@@ -1,11 +1,11 @@
 id: 134417468
-type: way
+type: node
 latitude: 37.64945
 longitude: -122.48969
-postcode: "94044-1953"
+postcode: 94044-1953
 city: Pacifica
-street: "Manor Drive"
-housenumber: 137
-phone: "+1 650-355-6667"
+street: Manor Drive
+housenumber: "137"
+phone: +1 650-355-6667
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/pacifica/137-manor-dr-14337"
+website: https://www.7-eleven.com/locations/ca/pacifica/137-manor-dr-14337

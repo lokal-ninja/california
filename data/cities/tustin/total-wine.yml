@@ -1,11 +1,11 @@
 id: 184707312
-type: way
+type: node
 latitude: 33.72183
 longitude: -117.7963
 postcode: "92782"
 city: Tustin
-street: "El Camino Real"
-housenumber: 2952
-phone: "+1 714-665-4257"
-opening_hours: "09:00-22:00"
-website: "https://www.totalwine.com/store-info/1103"
+street: El Camino Real
+housenumber: "2952"
+phone: +1 714-665-4257
+opening_hours: 09:00-22:00
+website: https://www.totalwine.com/store-info/1103

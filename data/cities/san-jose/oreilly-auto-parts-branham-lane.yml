@@ -1,11 +1,11 @@
 id: 473936097
-type: way
+type: node
 latitude: 37.26385
 longitude: -121.87842
 postcode: "95118"
 city: San Jose
-street: "Branham Lane"
-housenumber: 1111
+street: Branham Lane
+housenumber: "1111"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ca/sanjose/autoparts-2624.html"
+website: https://locations.oreillyauto.com/ca/sanjose/autoparts-2624.html

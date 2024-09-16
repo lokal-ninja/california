@@ -1,11 +1,11 @@
 id: 252718564
-type: way
+type: node
 latitude: 38.11769
 longitude: -121.30454
 postcode: "95242"
 city: Lodi
-street: "West Kettleman Lane"
-housenumber: 2415
+street: West Kettleman Lane
+housenumber: "2415"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://stores.staples.com/ca/lodi/2415-west-kettleman-lane"
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-18:00
+website: https://stores.staples.com/ca/lodi/2415-west-kettleman-lane

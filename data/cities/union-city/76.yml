@@ -1,11 +1,11 @@
 id: 707480755
-type: way
+type: node
 latitude: 37.58913
 longitude: -122.06973
 postcode: "94587"
 city: Union City
-street: "Alvarado Boulevard"
-housenumber: 31901
+street: Alvarado Boulevard
+housenumber: "31901"
 phone: ""
-opening_hours: "Mo-Su 08:00-18:00"
+opening_hours: Mo-Su 08:00-18:00
 website: ""

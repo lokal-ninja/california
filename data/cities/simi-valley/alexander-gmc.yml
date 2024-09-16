@@ -4,8 +4,8 @@ latitude: 34.27444
 longitude: -118.77827
 postcode: "93065"
 city: Simi Valley
-street: "1st Street"
-housenumber: 2100
-phone: "+1 866-640-0301"
+street: 1st Street
+housenumber: "2100"
+phone: +1 866-640-0301
 opening_hours: ""
-website: "https://www.simigmc.com"
+website: https://www.simigmc.com

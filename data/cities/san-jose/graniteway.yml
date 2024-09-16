@@ -1,11 +1,11 @@
 id: 198658440
-type: way
+type: node
 latitude: 37.28227
 longitude: -121.84132
 postcode: "95136"
 city: San Jose
-street: "Granite Rock Way"
-housenumber: 120
+street: Granite Rock Way
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

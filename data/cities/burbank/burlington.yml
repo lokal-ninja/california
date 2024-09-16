@@ -1,11 +1,11 @@
 id: 31964321
-type: way
+type: node
 latitude: 34.18471
 longitude: -118.31139
 postcode: "91502"
 city: Burbank
-street: "East Magnolia Boulevard"
-housenumber: 245
-phone: "+1 818-972-2680"
-opening_hours: "Mo-Sa 09:00-24:00; Su 09:00-23:00"
-website: "https://stores.burlington.com/ca/burbank/780/"
+street: East Magnolia Boulevard
+housenumber: "245"
+phone: +1 818-972-2680
+opening_hours: Mo-Sa 09:00-24:00; Su 09:00-23:00
+website: https://stores.burlington.com/ca/burbank/780/

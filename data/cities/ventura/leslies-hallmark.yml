@@ -1,11 +1,11 @@
 id: 783525382
-type: way
+type: node
 latitude: 34.27691
 longitude: -119.21326
 postcode: "93003"
 city: Ventura
-street: "Telegraph Road"
-housenumber: 6000
+street: Telegraph Road
+housenumber: "6000"
 phone: ""
 opening_hours: ""
 website: ""

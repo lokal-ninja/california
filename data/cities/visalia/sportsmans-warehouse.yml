@@ -1,11 +1,11 @@
 id: 1108080245
-type: way
+type: node
 latitude: 36.29225
 longitude: -119.30907
 postcode: "93277"
 city: Visalia
-street: "West Visalia Parkway"
-housenumber: 1650
+street: West Visalia Parkway
+housenumber: "1650"
 phone: ""
 opening_hours: ""
 website: ""

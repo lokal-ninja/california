@@ -4,8 +4,8 @@ latitude: 37.82901
 longitude: -122.28096
 postcode: "94608"
 city: Emeryville
-street: "Emery Street"
-housenumber: 3839
-phone: "(510) 740-4320"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-19:00"
-website: "https://stores.nordstromrack.com/us/ca/emeryville/3839-emery-street"
+street: Emery Street
+housenumber: "3839"
+phone: (510) 740-4320
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-19:00
+website: https://stores.nordstromrack.com/us/ca/emeryville/3839-emery-street

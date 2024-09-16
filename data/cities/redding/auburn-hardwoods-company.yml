@@ -1,11 +1,11 @@
 id: 779525875
-type: way
+type: node
 latitude: 40.53197
 longitude: -122.38483
 postcode: "96001"
 city: Redding
 street: ""
-housenumber: 5700
-phone: "+1 (530) 241-9663"
+housenumber: "5700"
+phone: +1 (530) 241-9663
 opening_hours: ""
-website: "https://www.auburnhardwoods.net/"
+website: https://www.auburnhardwoods.net/

@@ -1,11 +1,11 @@
 id: 86094133
-type: way
+type: node
 latitude: 33.64446
 longitude: -117.91504
 postcode: "92627"
 city: Costa Mesa
-street: "Newport Boulevard"
-housenumber: 1944
+street: Newport Boulevard
+housenumber: "1944"
 phone: ""
 opening_hours: ""
 website: ""

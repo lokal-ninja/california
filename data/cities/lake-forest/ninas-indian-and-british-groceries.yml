@@ -1,11 +1,11 @@
 id: 138516368
-type: way
+type: node
 latitude: 33.62098
 longitude: -117.6996
 postcode: "92630"
 city: Lake Forest
-street: "El Toro Road"
-housenumber: 23542
-phone: "+1 949-583-2789"
-opening_hours: "Mo-Sa 09:30-22:00; Su 09:30-21:30"
-website: "https://www.natrajusa.com/ninasgrocery"
+street: El Toro Road
+housenumber: "23542"
+phone: +1 949-583-2789
+opening_hours: Mo-Sa 09:30-22:00; Su 09:30-21:30
+website: https://www.natrajusa.com/ninasgrocery

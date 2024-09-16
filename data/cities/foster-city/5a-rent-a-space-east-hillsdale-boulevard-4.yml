@@ -1,11 +1,11 @@
 id: 387423248
-type: way
+type: node
 latitude: 37.56654
 longitude: -122.26896
 postcode: "94404"
 city: Foster City
-street: "East Hillsdale Boulevard"
-housenumber: 1221
+street: East Hillsdale Boulevard
+housenumber: "1221"
 phone: "+16503412964"
 opening_hours: ""
-website: "https://5aspace.com/"
+website: https://5aspace.com/

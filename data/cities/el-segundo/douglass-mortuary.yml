@@ -1,11 +1,11 @@
 id: 420140352
-type: way
+type: node
 latitude: 33.93051
 longitude: -118.41085
 postcode: "90245"
 city: El Segundo
-street: "East Imperial Avenue"
-housenumber: 500
+street: East Imperial Avenue
+housenumber: "500"
 phone: ""
 opening_hours: ""
-website: "https://www.douglassmortuaryelsegundo.com/"
+website: https://www.douglassmortuaryelsegundo.com/

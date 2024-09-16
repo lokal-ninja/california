@@ -1,11 +1,11 @@
 id: 741327472
-type: way
+type: node
 latitude: 34.03682
 longitude: -117.68814
 postcode: "91710"
 city: Chino
-street: "Central Avenue"
-housenumber: 11945
-phone: "+1 909-628-6665"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ca/chino-store0123.html"
+street: Central Avenue
+housenumber: "11945"
+phone: +1 909-628-6665
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ca/chino-store0123.html

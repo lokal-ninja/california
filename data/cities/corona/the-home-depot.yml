@@ -1,11 +1,11 @@
 id: 32021300
-type: way
+type: node
 latitude: 33.88585
 longitude: -117.52514
 postcode: "92879"
 city: Corona
-street: "McKinley Street"
-housenumber: 490
-phone: "+1 951-278-9600"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/corona/ca/corona/92879/601"
+street: McKinley Street
+housenumber: "490"
+phone: +1 951-278-9600
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/corona/ca/corona/92879/601

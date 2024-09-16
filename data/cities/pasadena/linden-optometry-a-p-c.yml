@@ -4,8 +4,8 @@ latitude: 34.14602
 longitude: -118.14057
 postcode: ""
 city: Pasadena
-street: "East Colorado Boulevard"
-housenumber: 477
-phone: "626-796-1191"
-opening_hours: "Mo,Tu,We,Th,Fr 9:00-20:00;Sa 8:00-18:00;Su 10:00-17:00"
-website: "http://www.lindenoptometry.com/"
+street: East Colorado Boulevard
+housenumber: "477"
+phone: 626-796-1191
+opening_hours: Mo,Tu,We,Th,Fr 9:00-20:00;Sa 8:00-18:00;Su 10:00-17:00
+website: http://www.lindenoptometry.com/

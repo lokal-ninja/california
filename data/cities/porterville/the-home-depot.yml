@@ -1,11 +1,11 @@
 id: 1144063241
-type: way
+type: node
 latitude: 36.05217
 longitude: -119.02283
 postcode: "93257"
 city: Porterville
-street: "South Jaye Street"
-housenumber: 750
-phone: "+1 559-782-4611"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Porterville/CA/Porterville/93257/1080"
+street: South Jaye Street
+housenumber: "750"
+phone: +1 559-782-4611
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Porterville/CA/Porterville/93257/1080

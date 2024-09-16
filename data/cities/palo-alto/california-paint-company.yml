@@ -4,8 +4,8 @@ latitude: 37.42696
 longitude: -122.14454
 postcode: "94306"
 city: Palo Alto
-street: "South California Avenue"
-housenumber: 360
+street: South California Avenue
+housenumber: "360"
 phone: "+16503269285"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-17:00"
-website: "https://www.benjaminmoore.com/"
+opening_hours: Mo-Fr 07:00-17:00; Sa 08:00-17:00
+website: https://www.benjaminmoore.com/

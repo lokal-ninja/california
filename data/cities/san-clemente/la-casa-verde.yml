@@ -1,11 +1,11 @@
 id: 380108843
-type: way
+type: node
 latitude: 33.42629
 longitude: -117.61343
 postcode: "92672"
 city: San Clemente
-street: "Avenida Granada"
-housenumber: 130
+street: Avenida Granada
+housenumber: "130"
 phone: ""
 opening_hours: ""
 website: ""

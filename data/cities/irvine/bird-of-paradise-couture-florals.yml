@@ -4,8 +4,8 @@ latitude: 33.68648
 longitude: -117.8572
 postcode: "92614"
 city: Irvine
-street: "Main Street"
-housenumber: 17775
-phone: "+1-949-474-7311"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 10:00-14:00"
-website: "https://www.bopflorist.com/"
+street: Main Street
+housenumber: "17775"
+phone: +1-949-474-7311
+opening_hours: Mo-Fr 08:00-18:00; Sa 10:00-14:00
+website: https://www.bopflorist.com/

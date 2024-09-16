@@ -1,11 +1,11 @@
 id: 311695820
-type: way
+type: node
 latitude: 37.29904
 longitude: -120.49189
 postcode: "95341"
 city: Merced
-street: "West 13th Street"
-housenumber: 864
+street: West 13th Street
+housenumber: "864"
 phone: ""
 opening_hours: ""
 website: ""

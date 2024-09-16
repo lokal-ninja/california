@@ -4,8 +4,8 @@ latitude: 40.4136
 longitude: -120.63785
 postcode: "96130"
 city: Susanville
-street: "Main Street"
-housenumber: 2545
+street: Main Street
+housenumber: "2545"
 phone: "5309314009"
-opening_hours: "Mo-Sa 08:00-21:00; Su 11:00-19:00"
-website: "https://www.dollartree.com/locations/ca/susanville/1392/"
+opening_hours: Mo-Sa 08:00-21:00; Su 11:00-19:00
+website: https://www.dollartree.com/locations/ca/susanville/1392/

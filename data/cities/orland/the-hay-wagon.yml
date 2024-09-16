@@ -4,8 +4,8 @@ latitude: 39.74556
 longitude: -122.1978
 postcode: "95963"
 city: Orland
-street: "6th Street"
-housenumber: 834
-phone: "+1-530-865-4777"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://thehaywagonorland.com"
+street: 6th Street
+housenumber: "834"
+phone: +1-530-865-4777
+opening_hours: Mo-Sa 09:00-18:00
+website: https://thehaywagonorland.com

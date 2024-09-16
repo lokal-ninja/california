@@ -1,11 +1,11 @@
 id: 357009927
-type: way
+type: node
 latitude: 37.34282
 longitude: -121.87569
 postcode: "95112"
 city: San Jose
-street: "East Santa Clara Street"
-housenumber: 716
+street: East Santa Clara Street
+housenumber: "716"
 phone: ""
 opening_hours: ""
 website: ""

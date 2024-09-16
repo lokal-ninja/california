@@ -1,11 +1,11 @@
 id: 202589865
-type: way
+type: node
 latitude: 34.91799
 longitude: -120.41932
 postcode: "93455"
 city: Santa Maria
-street: "South Bradley Road"
-housenumber: 2306
-phone: "+1 805-348-1075"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "stores.petsmart.com/Store/Details/76"
+street: South Bradley Road
+housenumber: "2306"
+phone: +1 805-348-1075
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: stores.petsmart.com/Store/Details/76

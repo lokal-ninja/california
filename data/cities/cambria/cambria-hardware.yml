@@ -2,10 +2,10 @@ id: 3060052427
 type: node
 latitude: 35.56227
 longitude: -121.08015
-postcode: "93428-3430"
+postcode: 93428-3430
 city: Cambria
-street: "Village Lane"
-housenumber: 2345
-phone: "+1 805-927-4650"
+street: Village Lane
+housenumber: "2345"
+phone: +1 805-927-4650
 opening_hours: ""
-website: "https://www.truevalue.com/cambriahardware"
+website: https://www.truevalue.com/cambriahardware

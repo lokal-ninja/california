@@ -1,11 +1,11 @@
 id: 894072087
-type: way
+type: node
 latitude: 36.83063
 longitude: -121.7726
 postcode: "95039"
 city: Moss Landing
-street: "Cabrillo Highway"
-housenumber: 1956
-phone: "+1 831 768 7557"
-opening_hours: "Tu-Sa 09:00-17:00; Su 10:00-17:00"
-website: "https://potstopml.com/"
+street: Cabrillo Highway
+housenumber: "1956"
+phone: +1 831 768 7557
+opening_hours: Tu-Sa 09:00-17:00; Su 10:00-17:00
+website: https://potstopml.com/

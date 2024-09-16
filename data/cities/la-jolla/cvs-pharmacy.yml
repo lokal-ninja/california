@@ -1,11 +1,11 @@
 id: 31842842
-type: way
+type: node
 latitude: 32.86947
 longitude: -117.23092
 postcode: ""
 city: La Jolla
-street: "Villa la Jolla Drive"
-housenumber: 8831
+street: Villa la Jolla Drive
+housenumber: "8831"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/la-jolla-ca-pharmacies/8831-villa-la-jolla-dr-la-jolla-ca-92037/storeid=9195"
+website: https://www.cvs.com/store-locator/la-jolla-ca-pharmacies/8831-villa-la-jolla-dr-la-jolla-ca-92037/storeid=9195

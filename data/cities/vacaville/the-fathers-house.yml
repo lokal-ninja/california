@@ -1,11 +1,11 @@
 id: 1204774853
-type: way
+type: node
 latitude: 38.3784
 longitude: -121.95107
 postcode: "95688"
 city: Vacaville
-street: "Horse Creek Drive"
-housenumber: 4800
+street: Horse Creek Drive
+housenumber: "4800"
 phone: ""
 opening_hours: ""
-website: "https://www.tfh.org/visit/vacaville"
+website: https://www.tfh.org/visit/vacaville

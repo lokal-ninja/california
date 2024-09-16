@@ -4,8 +4,8 @@ latitude: 37.33138
 longitude: -121.90896
 postcode: "95126"
 city: San Jose
-street: "The Alameda"
-housenumber: 986
+street: The Alameda
+housenumber: "986"
 phone: ""
-opening_hours: "11:00-21:00"
-website: "https://www.monsiamthai.com/"
+opening_hours: 11:00-21:00
+website: https://www.monsiamthai.com/

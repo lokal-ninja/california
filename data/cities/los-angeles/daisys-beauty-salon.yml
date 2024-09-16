@@ -4,8 +4,8 @@ latitude: 33.97438
 longitude: -118.27049
 postcode: ""
 city: Los Angeles
-street: "East Florence Avenue"
-housenumber: 238
-phone: "+1 323-750-0728"
-opening_hours: "Tu-Su 10:00-20:00"
-website: "https://dbswarehouse.com"
+street: East Florence Avenue
+housenumber: "238"
+phone: +1 323-750-0728
+opening_hours: Tu-Su 10:00-20:00
+website: https://dbswarehouse.com

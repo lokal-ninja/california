@@ -1,11 +1,11 @@
 id: 339596636
-type: way
+type: node
 latitude: 33.64041
 longitude: -117.60836
 postcode: "92688"
 city: Rancho Santa Margarita
-street: "Santa Margarita Parkway"
-housenumber: 29961
-phone: "+1 (888) 219-6444"
+street: Santa Margarita Parkway
+housenumber: "29961"
+phone: +1 (888) 219-6444
 opening_hours: ""
-website: "https://www.rsmhondaonline.com/"
+website: https://www.rsmhondaonline.com/

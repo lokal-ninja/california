@@ -1,11 +1,11 @@
 id: 757996117
-type: way
+type: node
 latitude: 40.57869
 longitude: -122.38599
 postcode: "96001"
 city: Redding
-street: "East Street"
-housenumber: 2124
-phone: "+1 (530) 691-9665"
-opening_hours: "Tu-Sa 09:00-17:00"
-website: "https://www.reeveswindowtinting.com/"
+street: East Street
+housenumber: "2124"
+phone: +1 (530) 691-9665
+opening_hours: Tu-Sa 09:00-17:00
+website: https://www.reeveswindowtinting.com/

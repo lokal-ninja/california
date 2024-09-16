@@ -1,11 +1,11 @@
 id: 139195767
-type: way
+type: node
 latitude: 33.10361
 longitude: -117.07738
 postcode: "92025"
 city: Escondido
-street: "South Centre City Parkway"
-housenumber: 1655
+street: South Centre City Parkway
+housenumber: "1655"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/escondido-ca-pharmacies/1655-s-centre-city-pkwy-escondido-ca-92025/storeid=9108"
+website: https://www.cvs.com/store-locator/escondido-ca-pharmacies/1655-s-centre-city-pkwy-escondido-ca-92025/storeid=9108

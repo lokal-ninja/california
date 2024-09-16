@@ -1,11 +1,11 @@
 id: 35556368
-type: way
+type: node
 latitude: 36.97767
 longitude: -122.01408
 postcode: "95062"
 city: Santa Cruz
-street: "Soquel Avenue"
-housenumber: 820
-phone: "+1-831-426-5299"
-opening_hours: "Mo-Th 08:00-16:30; Fr 08:00-14:00"
-website: "https://bpxsantacruz.com/"
+street: Soquel Avenue
+housenumber: "820"
+phone: +1-831-426-5299
+opening_hours: Mo-Th 08:00-16:30; Fr 08:00-14:00
+website: https://bpxsantacruz.com/

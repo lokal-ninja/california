@@ -1,11 +1,11 @@
 id: 171000828
-type: way
+type: node
 latitude: 37.31004
 longitude: -121.02086
 postcode: "95360"
 city: Newman
-street: "N Street"
-housenumber: 1935
+street: N Street
+housenumber: "1935"
 phone: ""
-opening_hours: "Su-Sa 08:00-22:00"
-website: "https://www.riteaid.com/locations/ca/newman/1935-n-street.html"
+opening_hours: Su-Sa 08:00-22:00
+website: https://www.riteaid.com/locations/ca/newman/1935-n-street.html

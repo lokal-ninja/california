@@ -1,11 +1,11 @@
 id: 293604057
-type: way
+type: node
 latitude: 37.76731
 longitude: -122.40973
 postcode: "94102"
 city: San Francisco
-street: "16th Street"
-housenumber: 2300
-phone: "+1 415-575-1120"
-opening_hours: "06:00-23:00"
-website: "https://local.safeway.com/safeway/ca/san-francisco/2300-16th-st-unit-203.html"
+street: 16th Street
+housenumber: "2300"
+phone: +1 415-575-1120
+opening_hours: 06:00-23:00
+website: https://local.safeway.com/safeway/ca/san-francisco/2300-16th-st-unit-203.html

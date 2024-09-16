@@ -1,11 +1,11 @@
 id: 672472075
-type: way
+type: node
 latitude: 40.8655
 longitude: -124.08496
 postcode: "95521"
 city: Arcata
-street: "F Street"
-housenumber: 600
-phone: "+1 (707) 822-2479"
-opening_hours: "24/7"
-website: "https://www.cvs.com/store-locator/arcata-ca-pharmacies/600-f-st-arcata-ca-95521/storeid=9482"
+street: F Street
+housenumber: "600"
+phone: +1 (707) 822-2479
+opening_hours: 24/7
+website: https://www.cvs.com/store-locator/arcata-ca-pharmacies/600-f-st-arcata-ca-95521/storeid=9482

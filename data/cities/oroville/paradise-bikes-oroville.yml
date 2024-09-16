@@ -1,11 +1,11 @@
 id: 991165916
-type: way
+type: node
 latitude: 39.50831
 longitude: -121.55276
 postcode: "95966"
 city: Oroville
-street: "Myers Street"
-housenumber: 2100
+street: Myers Street
+housenumber: "2100"
 phone: ""
 opening_hours: ""
 website: ""

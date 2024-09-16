@@ -4,8 +4,8 @@ latitude: 34.10187
 longitude: -118.32473
 postcode: "90028"
 city: Los Angeles
-street: "Hollywood Boulevard"
-housenumber: 5619
-phone: "+1 323-217-5377"
-opening_hours: "Mo-Sa 08:30-19:30"
+street: Hollywood Boulevard
+housenumber: "5619"
+phone: +1 323-217-5377
+opening_hours: Mo-Sa 08:30-19:30
 website: ""

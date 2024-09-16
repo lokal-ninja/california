@@ -1,11 +1,11 @@
 id: 227553217
-type: way
+type: node
 latitude: 33.72037
 longitude: -116.35781
 postcode: "92210"
 city: Indian Wells
-street: "Highway 111"
-housenumber: 74941
-phone: "760-340-4580"
+street: Highway 111
+housenumber: "74941"
+phone: 760-340-4580
 opening_hours: ""
-website: "https://www.connecthearing.com/"
+website: https://www.connecthearing.com/

@@ -1,11 +1,11 @@
 id: 582581847
-type: way
+type: node
 latitude: 38.07483
 longitude: -120.54538
 postcode: "95222"
 city: Angels Camp
-street: "Main Street"
-housenumber: 740
+street: Main Street
+housenumber: "740"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ca/angelscamp/autoparts-3509.html"
+website: https://locations.oreillyauto.com/ca/angelscamp/autoparts-3509.html

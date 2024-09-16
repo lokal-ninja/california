@@ -1,11 +1,11 @@
 id: 641455341
-type: way
+type: node
 latitude: 38.42572
 longitude: -122.71462
 postcode: "95404"
 city: Santa Rosa
-street: "Santa Rosa Avenue"
-housenumber: 1275
+street: Santa Rosa Avenue
+housenumber: "1275"
 phone: ""
 opening_hours: ""
 website: ""

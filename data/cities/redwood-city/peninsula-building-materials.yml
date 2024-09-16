@@ -1,11 +1,11 @@
 id: 1178630189
-type: way
+type: node
 latitude: 37.49328
 longitude: -122.21483
 postcode: "94063"
 city: Redwood City
-street: "Seaport Boulevard"
-housenumber: 109
+street: Seaport Boulevard
+housenumber: "109"
 phone: ""
-opening_hours: "Mo-Fr 06:30-16:00"
-website: "https://pbm1923.com/locations/redwood-city-yard/"
+opening_hours: Mo-Fr 06:30-16:00
+website: https://pbm1923.com/locations/redwood-city-yard/

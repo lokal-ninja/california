@@ -1,11 +1,11 @@
 id: 884242688
-type: way
+type: node
 latitude: 34.1084
 longitude: -117.64938
 postcode: "91786"
 city: Upland
-street: "Eugene Court"
-housenumber: 121
-phone: "+1 909-257-3488"
-opening_hours: "Mo-Sa 09:00-24:00; Su 09:00-23:00"
-website: "https://stores.burlington.com/ca/upland/1069"
+street: Eugene Court
+housenumber: "121"
+phone: +1 909-257-3488
+opening_hours: Mo-Sa 09:00-24:00; Su 09:00-23:00
+website: https://stores.burlington.com/ca/upland/1069

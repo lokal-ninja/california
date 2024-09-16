@@ -1,11 +1,11 @@
 id: 373551008
-type: way
+type: node
 latitude: 34.18612
 longitude: -118.36977
-postcode: "91606-3722"
+postcode: 91606-3722
 city: North Hollywood
-street: "Vineland Avenue"
-housenumber: 6364
-phone: "+1 818-766-6362"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ca/north-hollywood/6364-vineland-ave.-20401"
+street: Vineland Avenue
+housenumber: "6364"
+phone: +1 818-766-6362
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ca/north-hollywood/6364-vineland-ave.-20401

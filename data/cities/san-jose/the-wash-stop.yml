@@ -4,8 +4,8 @@ latitude: 37.31124
 longitude: -121.89461
 postcode: "95125"
 city: San Jose
-street: "Bird Avenue"
-housenumber: 1120
+street: Bird Avenue
+housenumber: "1120"
 phone: ""
-opening_hours: "06:00-23:00"
+opening_hours: 06:00-23:00
 website: ""

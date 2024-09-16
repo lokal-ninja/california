@@ -4,8 +4,8 @@ latitude: 37.34221
 longitude: -121.91177
 postcode: "95110"
 city: San Jose
-street: "West Taylor Street"
-housenumber: 543
+street: West Taylor Street
+housenumber: "543"
 phone: ""
 opening_hours: ""
-website: "https://vsautorepair.com/"
+website: https://vsautorepair.com/

@@ -1,11 +1,11 @@
 id: 686508783
-type: way
+type: node
 latitude: 38.40279
 longitude: -121.3933
 postcode: "95757"
 city: Elk Grove
-street: "Auto Passage Drive"
-housenumber: 8440
+street: Auto Passage Drive
+housenumber: "8440"
 phone: ""
 opening_hours: ""
-website: "https://www.elkgrovecustom.com"
+website: https://www.elkgrovecustom.com

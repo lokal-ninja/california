@@ -4,8 +4,8 @@ latitude: 37.84833
 longitude: -122.25205
 postcode: "94618"
 city: Oakland
-street: "College Avenue"
-housenumber: 6004
+street: College Avenue
+housenumber: "6004"
 phone: ""
-opening_hours: "Mo,Tu off; We-Sa 12:00-18:00; Su 12:00-17:00"
-website: "https://www.planterday.com/"
+opening_hours: Mo,Tu off; We-Sa 12:00-18:00; Su 12:00-17:00
+website: https://www.planterday.com/

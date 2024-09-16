@@ -1,11 +1,11 @@
 id: 403663178
-type: way
+type: node
 latitude: 33.23514
 longitude: -115.51867
 postcode: "92257"
 city: Niland
-street: "US Highway 111"
-housenumber: 8004
+street: US Highway 111
+housenumber: "8004"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 186073641
-type: way
+type: node
 latitude: 37.09287
 longitude: -121.59906
 postcode: "95046"
 city: San Martin
-street: "Sycamore Avenue"
-housenumber: 13635
+street: Sycamore Avenue
+housenumber: "13635"
 phone: ""
 opening_hours: ""
-website: "https://www.southbayairstream.com/"
+website: https://www.southbayairstream.com/

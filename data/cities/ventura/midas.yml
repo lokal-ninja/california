@@ -1,11 +1,11 @@
 id: 544137523
-type: way
+type: node
 latitude: 34.26405
 longitude: -119.23968
 postcode: "93003"
 city: Ventura
-street: "East Main Street"
-housenumber: 3949
+street: East Main Street
+housenumber: "3949"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 199148462
-type: way
+type: node
 latitude: 33.74372
 longitude: -116.71438
 postcode: "92549"
 city: Idyllwild
-street: "Village Center Drive"
-housenumber: 54411
-phone: "(951) 659-2737"
+street: Village Center Drive
+housenumber: "54411"
+phone: (951) 659-2737
 opening_hours: ""
 website: ""

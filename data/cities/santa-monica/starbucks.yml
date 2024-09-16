@@ -1,11 +1,11 @@
 id: 440844769
-type: way
+type: node
 latitude: 34.02445
 longitude: -118.46092
 postcode: "90405"
 city: Santa Monica
-street: "Pico Boulevard"
-housenumber: 2727
-phone: "+1 424-272-9224"
-opening_hours: "Mo-Fr 04:30-22:00; Sa-Su 05:00-22:00"
-website: "https://www.starbucks.com/store-locator/store/1009062/pico-stewart-2727-pico-blvd-santa-monica-ca-904051917-us"
+street: Pico Boulevard
+housenumber: "2727"
+phone: +1 424-272-9224
+opening_hours: Mo-Fr 04:30-22:00; Sa-Su 05:00-22:00
+website: https://www.starbucks.com/store-locator/store/1009062/pico-stewart-2727-pico-blvd-santa-monica-ca-904051917-us

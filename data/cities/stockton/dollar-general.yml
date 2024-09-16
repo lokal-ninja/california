@@ -1,11 +1,11 @@
 id: 287615507
-type: way
+type: node
 latitude: 37.95377
 longitude: -121.23223
 postcode: ""
 city: Stockton
-street: "East Main Street"
-housenumber: 4332
+street: East Main Street
+housenumber: "4332"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ca/stockton/13593"
+website: https://www.dollargeneral.com/store-directory/ca/stockton/13593

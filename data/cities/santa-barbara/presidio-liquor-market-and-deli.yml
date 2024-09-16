@@ -1,11 +1,11 @@
 id: 378737276
-type: way
+type: node
 latitude: 34.42661
 longitude: -119.70316
 postcode: "93101"
 city: Santa Barbara
-street: "Santa Barbara Street"
-housenumber: 1236
+street: Santa Barbara Street
+housenumber: "1236"
 phone: ""
 opening_hours: ""
-website: "http://presidiomarketanddeli.com/"
+website: http://presidiomarketanddeli.com/

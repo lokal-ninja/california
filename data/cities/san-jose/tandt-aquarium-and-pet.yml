@@ -1,11 +1,11 @@
 id: 371622502
-type: way
+type: node
 latitude: 37.32195
 longitude: -121.87936
 postcode: "95110"
 city: San Jose
-street: "South 1st Street"
-housenumber: 950
+street: South 1st Street
+housenumber: "950"
 phone: ""
 opening_hours: ""
 website: ""

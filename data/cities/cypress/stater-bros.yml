@@ -4,8 +4,8 @@ latitude: 33.81608
 longitude: -118.02924
 postcode: "90630"
 city: Cypress
-street: "Valley View Street"
-housenumber: 10051
-phone: "+1 714-761-1662"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.staterbros.com/stores/159"
+street: Valley View Street
+housenumber: "10051"
+phone: +1 714-761-1662
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.staterbros.com/stores/159

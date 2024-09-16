@@ -1,11 +1,11 @@
 id: 507171988
-type: way
+type: node
 latitude: 40.62501
 longitude: -122.37833
 postcode: "96003"
 city: Redding
-street: "Caterpillar Road"
-housenumber: 4855
-phone: "+1 (530) 225-8121"
+street: Caterpillar Road
+housenumber: "4855"
+phone: +1 (530) 225-8121
 opening_hours: ""
-website: "https://holtlift.com/"
+website: https://holtlift.com/

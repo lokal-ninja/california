@@ -1,11 +1,11 @@
 id: 983880259
-type: way
+type: node
 latitude: 38.51674
 longitude: -120.82223
 postcode: "95669"
 city: Plymouth
-street: "Shenandoah Road"
-housenumber: 10776
+street: Shenandoah Road
+housenumber: "10776"
 phone: ""
 opening_hours: ""
 website: ""

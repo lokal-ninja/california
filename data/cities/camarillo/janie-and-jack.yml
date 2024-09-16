@@ -4,8 +4,8 @@ latitude: 34.21598
 longitude: -119.0655
 postcode: "93010"
 city: Camarillo
-street: "Ventura Boulevard"
-housenumber: 620
-phone: "+1-805-384-8453"
-opening_hours: "Mo-Th,Su 11:00-19:00; Fr-Sa 11:00-20:00"
-website: "https://www.janieandjack.com/stores?lang=en_US"
+street: Ventura Boulevard
+housenumber: "620"
+phone: +1-805-384-8453
+opening_hours: Mo-Th,Su 11:00-19:00; Fr-Sa 11:00-20:00
+website: https://www.janieandjack.com/stores?lang=en_US

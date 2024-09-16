@@ -1,11 +1,11 @@
 id: 355751821
-type: way
+type: node
 latitude: 37.34446
 longitude: -121.913
 postcode: "95110"
 city: San Jose
-street: "Emory Street"
-housenumber: 495
+street: Emory Street
+housenumber: "495"
 phone: ""
 opening_hours: ""
-website: "https://www.calderontireswheels.com/"
+website: https://www.calderontireswheels.com/

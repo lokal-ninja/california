@@ -4,8 +4,8 @@ latitude: 37.31495
 longitude: -121.9782
 postcode: "95129"
 city: San Jose
-street: "Saratoga Avenue"
-housenumber: 675
+street: Saratoga Avenue
+housenumber: "675"
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://mitsuwa.com/sj/"
+opening_hours: Mo-Su 09:00-21:00
+website: https://mitsuwa.com/sj/

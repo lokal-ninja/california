@@ -1,11 +1,11 @@
 id: 1061461652
-type: way
+type: node
 latitude: 34.48496
 longitude: -117.29096
 postcode: "92392"
 city: Victorville
-street: "Hesperia Road"
-housenumber: 12890
+street: Hesperia Road
+housenumber: "12890"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 37.79579
 longitude: -122.40938
 postcode: ""
 city: San Francisco
-street: "Jackson Street"
-housenumber: 864
-phone: "+1 415 433 1888"
-opening_hours: "Mo-Su 09:00-18:00"
+street: Jackson Street
+housenumber: "864"
+phone: +1 415 433 1888
+opening_hours: Mo-Su 09:00-18:00
 website: ""

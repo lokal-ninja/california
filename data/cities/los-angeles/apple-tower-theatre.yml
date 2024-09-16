@@ -1,11 +1,11 @@
 id: 427942910
-type: way
+type: node
 latitude: 34.04353
 longitude: -118.25476
 postcode: "90013"
 city: Los Angeles
-street: "South Broadway"
-housenumber: 802
+street: South Broadway
+housenumber: "802"
 phone: "2136551200"
-opening_hours: "Mo-Sa 10:00-20:00; Su 10:00-19:00"
-website: "https://www.apple.com/retail/towertheatre/"
+opening_hours: Mo-Sa 10:00-20:00; Su 10:00-19:00
+website: https://www.apple.com/retail/towertheatre/

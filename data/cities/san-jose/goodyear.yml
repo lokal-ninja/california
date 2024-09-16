@@ -1,11 +1,11 @@
 id: 195248867
-type: way
+type: node
 latitude: 37.32634
 longitude: -121.94996
 postcode: "95050"
 city: San Jose
-street: "North Winchester Boulevard"
-housenumber: 486
+street: North Winchester Boulevard
+housenumber: "486"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 37.04682
 longitude: -122.02639
 postcode: "95066"
 city: Scotts Valley
-street: "Mount Hermon Road"
-housenumber: 218
-phone: "+1 831-438-0581"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:30-17:30; Su 09:00-17:00"
+street: Mount Hermon Road
+housenumber: "218"
+phone: +1 831-438-0581
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:30-17:30; Su 09:00-17:00
 website: ""

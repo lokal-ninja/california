@@ -1,11 +1,11 @@
 id: 129011794
-type: way
+type: node
 latitude: 37.69031
 longitude: -121.87674
 postcode: "94566"
 city: Pleasanton
-street: "Santa Rita Road"
-housenumber: 3112
-phone: "+1 925-398-6369"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/5611-pleasanton-ca"
+street: Santa Rita Road
+housenumber: "3112"
+phone: +1 925-398-6369
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/5611-pleasanton-ca

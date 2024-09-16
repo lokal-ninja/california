@@ -1,11 +1,11 @@
 id: 432109189
-type: way
+type: node
 latitude: 34.18679
 longitude: -118.62614
 postcode: "91307"
 city: West Hills
-street: "Victory Boulevard"
-housenumber: 22915
-phone: "+1 818-716-8199"
-opening_hours: "Mo-Su 05:00-01:00"
-website: "https://www.ralphs.com/stores/grocery/ca/west-hills/fallbrook/703/00213"
+street: Victory Boulevard
+housenumber: "22915"
+phone: +1 818-716-8199
+opening_hours: Mo-Su 05:00-01:00
+website: https://www.ralphs.com/stores/grocery/ca/west-hills/fallbrook/703/00213

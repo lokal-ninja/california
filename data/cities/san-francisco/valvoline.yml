@@ -1,11 +1,11 @@
 id: 251387184
-type: way
+type: node
 latitude: 37.77656
 longitude: -122.40782
 postcode: "94103"
 city: San Francisco
-street: "7th Street"
-housenumber: 300
-phone: "(415) 552-5400"
-opening_hours: "Mo-Sa 08:00-19:30"
-website: "https://store.vioc.com/ca/sanfrancisco/oil-change-ih0011.html"
+street: 7th Street
+housenumber: "300"
+phone: (415) 552-5400
+opening_hours: Mo-Sa 08:00-19:30
+website: https://store.vioc.com/ca/sanfrancisco/oil-change-ih0011.html

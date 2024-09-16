@@ -4,8 +4,8 @@ latitude: 40.93685
 longitude: -124.10213
 postcode: "95519"
 city: McKinleyville
-street: "Nursery Road #1"
-housenumber: 1590
-phone: "(707) 839-2171"
-opening_hours: "Mo-Fr 8:00-18:00"
+street: 'Nursery Road #1'
+housenumber: "1590"
+phone: (707) 839-2171
+opening_hours: Mo-Fr 8:00-18:00
 website: ""

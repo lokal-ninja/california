@@ -1,11 +1,11 @@
 id: 339814577
-type: way
+type: node
 latitude: 34.1513
 longitude: -118.45014
 postcode: "91403"
 city: Sherman Oaks
-street: "Ventura Boulevard"
-housenumber: 14539
+street: Ventura Boulevard
+housenumber: "14539"
 phone: ""
-opening_hours: "10:00-20:00"
-website: "https://www.sprint.com/"
+opening_hours: 10:00-20:00
+website: https://www.sprint.com/

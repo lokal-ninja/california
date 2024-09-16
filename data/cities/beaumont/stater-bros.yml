@@ -1,11 +1,11 @@
 id: 681734600
-type: way
+type: node
 latitude: 33.94856
 longitude: -116.97609
 postcode: "92223"
 city: Beaumont
-street: "Beaumont Avenue"
-housenumber: 1430
-phone: "+1 951-845-8770"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.staterbros.com/stores/173"
+street: Beaumont Avenue
+housenumber: "1430"
+phone: +1 951-845-8770
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.staterbros.com/stores/173

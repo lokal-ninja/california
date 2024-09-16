@@ -1,11 +1,11 @@
 id: 624300499
-type: way
+type: node
 latitude: 38.46222
 longitude: -122.72906
 postcode: "95403"
 city: Santa Rosa
-street: "Cleveland Avenue"
-housenumber: 2503
+street: Cleveland Avenue
+housenumber: "2503"
 phone: ""
 opening_hours: ""
 website: ""

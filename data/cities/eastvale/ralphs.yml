@@ -1,11 +1,11 @@
 id: 160011271
-type: way
+type: node
 latitude: 33.9743
 longitude: -117.5608
 postcode: "92880"
 city: Eastvale
-street: "Limonite"
-housenumber: 12660
-phone: "+1 951-734-1087"
-opening_hours: "Mo-Su 05:00-01:00"
-website: "https://www.ralphs.com/stores/grocery/ca/eastvale/eastvale/703/00045"
+street: Limonite
+housenumber: "12660"
+phone: +1 951-734-1087
+opening_hours: Mo-Su 05:00-01:00
+website: https://www.ralphs.com/stores/grocery/ca/eastvale/eastvale/703/00045

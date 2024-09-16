@@ -1,11 +1,11 @@
 id: 355360063
-type: way
+type: node
 latitude: 37.35647
 longitude: -121.88931
 postcode: "95112"
 city: San Jose
-street: "North 13th Street"
-housenumber: 785
-phone: "+1-408-885-1782"
+street: North 13th Street
+housenumber: "785"
+phone: +1-408-885-1782
 opening_hours: ""
-website: "http://www.sunshineautoservice.com/"
+website: http://www.sunshineautoservice.com/

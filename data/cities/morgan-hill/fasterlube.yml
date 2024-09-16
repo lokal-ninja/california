@@ -1,11 +1,11 @@
 id: 28659468
-type: way
+type: node
 latitude: 37.11455
 longitude: -121.63822
 postcode: "95037"
 city: Morgan Hill
-street: "Tennant Station Way"
-housenumber: 890
+street: Tennant Station Way
+housenumber: "890"
 phone: ""
 opening_hours: ""
 website: ""

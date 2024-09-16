@@ -4,8 +4,8 @@ latitude: 34.4223
 longitude: -119.698
 postcode: "93101"
 city: Santa Barbara
-street: "Santa Barbara Street"
-housenumber: 827
-phone: "+1 805-965-0318"
-opening_hours: "Tu-Fr 10:00-5:00; Sa 8:00-5:00"
-website: "https://www.cheeseshopsb.com/"
+street: Santa Barbara Street
+housenumber: "827"
+phone: +1 805-965-0318
+opening_hours: Tu-Fr 10:00-5:00; Sa 8:00-5:00
+website: https://www.cheeseshopsb.com/

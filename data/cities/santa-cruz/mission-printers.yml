@@ -1,11 +1,11 @@
 id: 35556036
-type: way
+type: node
 latitude: 36.97536
 longitude: -122.01734
 postcode: "95062"
 city: Santa Cruz
-street: "Soquel Avenue"
-housenumber: 522
-phone: "+1-831-423-4005"
+street: Soquel Avenue
+housenumber: "522"
+phone: +1-831-423-4005
 opening_hours: ""
-website: "http://missionprinters.com/"
+website: http://missionprinters.com/

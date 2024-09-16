@@ -1,11 +1,11 @@
 id: 1280053819
-type: way
+type: node
 latitude: 38.74177
 longitude: -120.73924
 postcode: ""
 city: Placerville
-street: "Carson Road"
-housenumber: 2620
+street: Carson Road
+housenumber: "2620"
 phone: ""
 opening_hours: ""
 website: ""

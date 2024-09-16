@@ -1,11 +1,11 @@
 id: 471969193
-type: way
+type: node
 latitude: 34.18955
 longitude: -118.33349
 postcode: "91504"
 city: Burbank
-street: "Empire Avenue"
-housenumber: 2080
+street: Empire Avenue
+housenumber: "2080"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://stores.staples.com/ca/burbank/2080-empire-avenue"
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-18:00
+website: https://stores.staples.com/ca/burbank/2080-empire-avenue

@@ -1,11 +1,11 @@
 id: 503828695
-type: way
+type: node
 latitude: 32.65704
 longitude: -117.04322
 postcode: "91902"
 city: Bonita
-street: "Bonita Road"
-housenumber: 3901
+street: Bonita Road
+housenumber: "3901"
 phone: ""
 opening_hours: ""
 website: ""

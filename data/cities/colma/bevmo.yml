@@ -1,11 +1,11 @@
 id: 143811378
-type: way
+type: node
 latitude: 37.67422
 longitude: -122.467
 postcode: "94014"
 city: Colma
-street: "Junipero Serra Boulevard"
-housenumber: 4915
-phone: "+1 650-757-0196"
+street: Junipero Serra Boulevard
+housenumber: "4915"
+phone: +1 650-757-0196
 opening_hours: ""
 website: ""

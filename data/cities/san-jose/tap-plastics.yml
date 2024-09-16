@@ -4,8 +4,8 @@ latitude: 37.33181
 longitude: -121.91187
 postcode: "95126"
 city: San Jose
-street: "The Alameda"
-housenumber: 1212
+street: The Alameda
+housenumber: "1212"
 phone: ""
 opening_hours: ""
-website: "https://www.tapplastics.com/about/locations/detail/san_jose_ca_the_alameda"
+website: https://www.tapplastics.com/about/locations/detail/san_jose_ca_the_alameda

@@ -1,11 +1,11 @@
 id: 428427965
-type: way
+type: node
 latitude: 36.84927
 longitude: -119.79424
 postcode: "93720"
 city: Fresno
-street: "North Blackstone Avenue"
-housenumber: 7663
-phone: "+1 559-446-0106"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/fresno-ca-sams-club/4704"
+street: North Blackstone Avenue
+housenumber: "7663"
+phone: +1 559-446-0106
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/fresno-ca-sams-club/4704

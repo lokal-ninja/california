@@ -1,11 +1,11 @@
 id: 670738326
-type: way
+type: node
 latitude: 38.31348
 longitude: -122.48083
 postcode: "95476"
 city: Sonoma
-street: "Sonoma Highway"
-housenumber: 18155
+street: Sonoma Highway
+housenumber: "18155"
 phone: ""
 opening_hours: ""
 website: ""

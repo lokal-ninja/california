@@ -1,11 +1,11 @@
 id: 233267675
-type: way
+type: node
 latitude: 33.95907
 longitude: -117.39273
 postcode: "92506"
 city: Riverside
-street: "Magnolia Avenue"
-housenumber: 6140
-phone: "+1-951-683-6365"
+street: Magnolia Avenue
+housenumber: "6140"
+phone: +1-951-683-6365
 opening_hours: ""
-website: "https://www.howards.com/"
+website: https://www.howards.com/

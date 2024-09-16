@@ -1,11 +1,11 @@
 id: 498446211
-type: way
+type: node
 latitude: 34.22877
 longitude: -119.17268
 postcode: "93036"
 city: Oxnard
-street: "East Esplanade Drive"
-housenumber: 300
+street: East Esplanade Drive
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

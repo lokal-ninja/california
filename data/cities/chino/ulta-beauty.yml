@@ -1,11 +1,11 @@
 id: 742378148
-type: way
+type: node
 latitude: 33.99612
 longitude: -117.71672
 postcode: "91710"
 city: Chino
-street: "Grand Avenue"
-housenumber: 4041
-phone: "+1 909-627-2466"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/chino-ca-146"
+street: Grand Avenue
+housenumber: "4041"
+phone: +1 909-627-2466
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/chino-ca-146

@@ -1,11 +1,11 @@
 id: 893058890
-type: way
+type: node
 latitude: 38.93774
 longitude: -119.94857
 postcode: "96150"
 city: South Lake Tahoe
-street: "Verdon Lane"
-housenumber: 3672
-phone: "+1 530-544-7903"
-opening_hours: "Mo-Su 08:00-13:00, 16:00-18:00"
+street: Verdon Lane
+housenumber: "3672"
+phone: +1 530-544-7903
+opening_hours: Mo-Su 08:00-13:00, 16:00-18:00
 website: ""

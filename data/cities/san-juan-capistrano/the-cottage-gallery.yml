@@ -1,11 +1,11 @@
 id: 506573456
-type: way
+type: node
 latitude: 33.50255
 longitude: -117.66482
 postcode: "92675"
 city: San Juan Capistrano
-street: "Los Rios Street"
-housenumber: 31665
+street: Los Rios Street
+housenumber: "31665"
 phone: ""
 opening_hours: ""
 website: ""

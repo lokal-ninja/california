@@ -1,11 +1,11 @@
 id: 347004932
-type: way
+type: node
 latitude: 37.35061
 longitude: -121.8975
 postcode: "95112"
 city: San Jose
-street: "North 4th Street"
-housenumber: 701
+street: North 4th Street
+housenumber: "701"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 166908854
-type: way
+type: node
 latitude: 34.81712
 longitude: -115.18334
 postcode: "92332"
 city: Fenner
-street: "Goffs Road"
-housenumber: 31251
-phone: "+1 760 694 0181"
-opening_hours: "24/7"
-website: "http://hisaharaoasis.net/"
+street: Goffs Road
+housenumber: "31251"
+phone: +1 760 694 0181
+opening_hours: 24/7
+website: http://hisaharaoasis.net/

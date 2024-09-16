@@ -1,11 +1,11 @@
 id: 311711083
-type: way
+type: node
 latitude: 37.29518
 longitude: -120.31968
 postcode: "95365"
 city: Le Grand
-street: "North Watts Street"
-housenumber: 507
+street: North Watts Street
+housenumber: "507"
 phone: ""
 opening_hours: ""
 website: ""

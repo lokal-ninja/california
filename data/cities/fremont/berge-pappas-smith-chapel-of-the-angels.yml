@@ -1,11 +1,11 @@
 id: 654646728
-type: way
+type: node
 latitude: 37.53464
 longitude: -121.96185
 postcode: "94538"
 city: Fremont
-street: "Fremont Boulevard"
-housenumber: 40842
+street: Fremont Boulevard
+housenumber: "40842"
 phone: ""
 opening_hours: ""
 website: ""

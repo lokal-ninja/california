@@ -1,11 +1,11 @@
 id: 975083266
-type: way
+type: node
 latitude: 37.69452
 longitude: -122.13046
 postcode: "94578"
 city: San Leandro
-street: "Hesperian Boulevard"
-housenumber: 15285
+street: Hesperian Boulevard
+housenumber: "15285"
 phone: ""
 opening_hours: ""
 website: ""

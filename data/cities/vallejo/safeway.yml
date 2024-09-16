@@ -1,11 +1,11 @@
 id: 40167304
-type: way
+type: node
 latitude: 38.09925
 longitude: -122.23084
 postcode: "94590"
 city: Vallejo
-street: "Lincoln Road West"
-housenumber: 709
-phone: "+1 707-643-2172"
-opening_hours: "06:00-24:00"
-website: "https://local.safeway.com/safeway/ca/vallejo/709-lincoln-rd-w.html"
+street: Lincoln Road West
+housenumber: "709"
+phone: +1 707-643-2172
+opening_hours: 06:00-24:00
+website: https://local.safeway.com/safeway/ca/vallejo/709-lincoln-rd-w.html

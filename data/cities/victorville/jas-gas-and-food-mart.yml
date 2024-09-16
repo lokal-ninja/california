@@ -1,11 +1,11 @@
 id: 1060895443
-type: way
+type: node
 latitude: 34.53549
 longitude: -117.29336
 postcode: "92395"
 city: Victorville
-street: "7th Street"
-housenumber: 15603
+street: 7th Street
+housenumber: "15603"
 phone: ""
 opening_hours: ""
-website: "https://www.exxon.com/en/find-station/mobil-victorville-ca-jasgasandfoodmart-200324793"
+website: https://www.exxon.com/en/find-station/mobil-victorville-ca-jasgasandfoodmart-200324793

@@ -1,11 +1,11 @@
 id: 419793451
-type: way
+type: node
 latitude: 33.63218
 longitude: -117.73919
 postcode: "92618"
 city: Irvine
-street: "Tesla"
-housenumber: 66
+street: Tesla
+housenumber: "66"
 phone: ""
 opening_hours: ""
 website: ""

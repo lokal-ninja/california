@@ -1,11 +1,11 @@
 id: 476408601
-type: way
+type: node
 latitude: 37.92283
 longitude: -122.06361
 postcode: "94597"
 city: Walnut Creek
-street: "North Main Street"
-housenumber: 2726
+street: North Main Street
+housenumber: "2726"
 phone: ""
 opening_hours: ""
 website: ""

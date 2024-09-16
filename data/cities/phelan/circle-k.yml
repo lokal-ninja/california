@@ -1,11 +1,11 @@
 id: 412099841
-type: way
+type: node
 latitude: 34.31202
 longitude: -117.47815
 postcode: "92371"
 city: Phelan
-street: "CA-138"
-housenumber: 8324
+street: CA-138
+housenumber: "8324"
 phone: ""
 opening_hours: ""
 website: ""

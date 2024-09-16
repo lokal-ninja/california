@@ -1,11 +1,11 @@
 id: 129368006
-type: way
+type: node
 latitude: 33.85734
 longitude: -118.11511
 postcode: "90713"
 city: Lakewood
-street: "Woodruff Avenue"
-housenumber: 5500
-phone: "+1 562-866-3781"
+street: Woodruff Avenue
+housenumber: "5500"
+phone: +1 562-866-3781
 opening_hours: ""
-website: "https://local.vons.com/ca/lakewood/5500-woodruff-ave.html"
+website: https://local.vons.com/ca/lakewood/5500-woodruff-ave.html

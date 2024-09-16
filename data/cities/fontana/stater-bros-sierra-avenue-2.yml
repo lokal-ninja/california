@@ -1,11 +1,11 @@
 id: 922329533
-type: way
+type: node
 latitude: 34.05017
 longitude: -117.43339
 postcode: "92337"
 city: Fontana
-street: "Sierra Avenue"
-housenumber: 11225
-phone: "+1 909-428-4545"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.staterbros.com/stores/179"
+street: Sierra Avenue
+housenumber: "11225"
+phone: +1 909-428-4545
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.staterbros.com/stores/179

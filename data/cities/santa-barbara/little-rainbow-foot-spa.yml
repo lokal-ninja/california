@@ -1,11 +1,11 @@
 id: 625837636
-type: way
+type: node
 latitude: 34.41593
 longitude: -119.69451
 postcode: "93101"
 city: Santa Barbara
-street: "State Street"
-housenumber: 401
+street: State Street
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

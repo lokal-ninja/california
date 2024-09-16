@@ -1,11 +1,11 @@
 id: 151800293
-type: way
+type: node
 latitude: 36.66806
 longitude: -121.81258
 postcode: "93933"
 city: Marina
-street: "General Stilwell Drive"
-housenumber: 125
+street: General Stilwell Drive
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

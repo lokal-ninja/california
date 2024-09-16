@@ -1,11 +1,11 @@
 id: 405150155
-type: way
+type: node
 latitude: 33.15822
 longitude: -117.35078
 postcode: "92008"
 city: Carlsbad
-street: "Carlsbad Village Drive"
-housenumber: 305
+street: Carlsbad Village Drive
+housenumber: "305"
 phone: ""
 opening_hours: ""
 website: ""

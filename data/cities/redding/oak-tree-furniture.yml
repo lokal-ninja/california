@@ -1,11 +1,11 @@
 id: 777467888
-type: way
+type: node
 latitude: 40.56722
 longitude: -122.36303
 postcode: "96002"
 city: Redding
-street: "Bechelli Lane"
-housenumber: 2760
-phone: "+1 (530) 222-1730"
+street: Bechelli Lane
+housenumber: "2760"
+phone: +1 (530) 222-1730
 opening_hours: ""
-website: "http://www.oaktreefurnitureredding.com/"
+website: http://www.oaktreefurnitureredding.com/

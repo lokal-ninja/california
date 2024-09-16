@@ -1,11 +1,11 @@
 id: 282194434
-type: way
+type: node
 latitude: 36.9986
 longitude: -121.5662
 postcode: "95020"
 city: Gilroy
-street: "Monterey Road"
-housenumber: 6881
+street: Monterey Road
+housenumber: "6881"
 phone: ""
 opening_hours: ""
-website: "https://www.rosso.com/"
+website: https://www.rosso.com/

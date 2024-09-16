@@ -1,11 +1,11 @@
 id: 956431929
-type: way
+type: node
 latitude: 32.74025
 longitude: -116.9412
 postcode: "92019"
 city: El Cajon
-street: "Jamacha Road"
-housenumber: 2984
+street: Jamacha Road
+housenumber: "2984"
 phone: "+16196608001"
 opening_hours: ""
-website: "https://phonezonewireless.com/"
+website: https://phonezonewireless.com/

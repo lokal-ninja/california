@@ -1,11 +1,11 @@
 id: 124127756
-type: way
+type: node
 latitude: 33.91048
 longitude: -117.87096
 postcode: "92821"
 city: Brea
-street: "East Imperial Highway"
-housenumber: 2500
-phone: "+1 714-257-1180"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://locations.traderjoes.com/ca/brea/11/"
+street: East Imperial Highway
+housenumber: "2500"
+phone: +1 714-257-1180
+opening_hours: Mo-Su 08:00-21:00
+website: https://locations.traderjoes.com/ca/brea/11/

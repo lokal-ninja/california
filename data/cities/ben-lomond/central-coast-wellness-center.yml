@@ -4,8 +4,8 @@ latitude: 37.07215
 longitude: -122.08388
 postcode: "95005"
 city: Ben Lomond
-street: "CA-9"
-housenumber: 7932
-phone: "(831) 704-7340"
+street: CA-9
+housenumber: "7932"
+phone: (831) 704-7340
 opening_hours: ""
-website: "https://centralcoastwellnesscenter.org/"
+website: https://centralcoastwellnesscenter.org/

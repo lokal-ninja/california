@@ -1,11 +1,11 @@
 id: 256783307
-type: way
+type: node
 latitude: 37.76864
 longitude: -122.21905
 postcode: "94601"
 city: Oakland
-street: "High Street"
-housenumber: 750
-phone: "1-510-261-6100"
+street: High Street
+housenumber: "750"
+phone: 1-510-261-6100
 opening_hours: ""
-website: "https://ww.economylumberco.com/"
+website: https://ww.economylumberco.com/

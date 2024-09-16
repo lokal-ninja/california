@@ -1,11 +1,11 @@
 id: 471763491
-type: way
+type: node
 latitude: 37.7749
 longitude: -120.82998
 postcode: "95361"
 city: Oakdale
-street: "East F Street"
-housenumber: 1580
-phone: "+1 209-845-2402"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: East F Street
+housenumber: "1580"
+phone: +1 209-845-2402
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

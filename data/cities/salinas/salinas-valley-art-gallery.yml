@@ -1,11 +1,11 @@
 id: 201659310
-type: way
+type: node
 latitude: 36.67509
 longitude: -121.6553
 postcode: "93901"
 city: Salinas
-street: "South Main Street"
-housenumber: 218
-phone: "+01 831 422 4162"
+street: South Main Street
+housenumber: "218"
+phone: +01 831 422 4162
 opening_hours: ""
-website: "https://salinasvalleyartgallery.com/"
+website: https://salinasvalleyartgallery.com/

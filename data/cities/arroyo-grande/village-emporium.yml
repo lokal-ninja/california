@@ -1,11 +1,11 @@
 id: 697258724
-type: way
+type: node
 latitude: 35.12306
 longitude: -120.57876
 postcode: "93420"
 city: Arroyo Grande
-street: "East Branch Street"
-housenumber: 102
+street: East Branch Street
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 37.77482
 longitude: -122.42243
 postcode: "94102"
 city: San Francisco
-street: "Gough Street"
-housenumber: 182
-phone: "+1 415-255-9510"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://hayesvalleymed.com/"
+street: Gough Street
+housenumber: "182"
+phone: +1 415-255-9510
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://hayesvalleymed.com/

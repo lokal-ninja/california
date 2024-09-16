@@ -1,11 +1,11 @@
 id: 380184993
-type: way
+type: node
 latitude: 33.77254
 longitude: -116.95694
 postcode: "92583"
 city: San Jacinto
-street: "South San Jacinto Avenue"
-housenumber: 1537
-phone: "+1 951-487-0319"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.staterbros.com/stores/121"
+street: South San Jacinto Avenue
+housenumber: "1537"
+phone: +1 951-487-0319
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.staterbros.com/stores/121

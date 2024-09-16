@@ -1,11 +1,11 @@
 id: 934888150
-type: way
+type: node
 latitude: 35.74591
 longitude: -119.25062
 postcode: "93215"
 city: Delano
-street: "Woollomes Avenue"
-housenumber: 490
-phone: "+1 833-479-7098"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://stores.aldi.us/ca/delano/490-woollomes-ave"
+street: Woollomes Avenue
+housenumber: "490"
+phone: +1 833-479-7098
+opening_hours: Mo-Su 09:00-21:00
+website: https://stores.aldi.us/ca/delano/490-woollomes-ave

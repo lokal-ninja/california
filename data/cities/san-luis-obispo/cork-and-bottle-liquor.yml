@@ -1,11 +1,11 @@
 id: 45599568
-type: way
+type: node
 latitude: 35.29475
 longitude: -120.67249
 postcode: ""
 city: San Luis Obispo
-street: "Foothill"
-housenumber: 774
+street: Foothill
+housenumber: "774"
 phone: ""
 opening_hours: ""
 website: ""

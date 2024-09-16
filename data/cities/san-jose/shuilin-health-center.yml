@@ -1,11 +1,11 @@
 id: 350497050
-type: way
+type: node
 latitude: 37.35051
 longitude: -121.89762
 postcode: "95112"
 city: San Jose
-street: "East Taylor Street"
-housenumber: 131
+street: East Taylor Street
+housenumber: "131"
 phone: ""
 opening_hours: ""
 website: ""

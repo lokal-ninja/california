@@ -1,11 +1,11 @@
 id: 440688123
-type: way
+type: node
 latitude: 33.71606
 longitude: -117.83647
 postcode: "92780"
 city: Tustin
-street: "Bell Avenue"
-housenumber: 1361
+street: Bell Avenue
+housenumber: "1361"
 phone: ""
 opening_hours: ""
 website: ""

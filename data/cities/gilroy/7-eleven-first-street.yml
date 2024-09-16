@@ -1,11 +1,11 @@
 id: 28411762
-type: way
+type: node
 latitude: 37.0139
 longitude: -121.58157
-postcode: "95020-5033"
+postcode: 95020-5033
 city: Gilroy
-street: "First Street"
-housenumber: 691
-phone: "+1 408-842-3201"
+street: First Street
+housenumber: "691"
+phone: +1 408-842-3201
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/gilroy/691-first-st-14301"
+website: https://www.7-eleven.com/locations/ca/gilroy/691-first-st-14301

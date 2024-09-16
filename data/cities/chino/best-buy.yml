@@ -1,11 +1,11 @@
 id: 742378162
-type: way
+type: node
 latitude: 33.99646
 longitude: -117.7197
 postcode: "91710"
 city: Chino
-street: "Grand Avenue"
-housenumber: 3873
-phone: "+1 909-613-6339"
+street: Grand Avenue
+housenumber: "3873"
+phone: +1 909-613-6339
 opening_hours: ""
-website: "https://stores.bestbuy.com/ca/chino/3873-grand-ave-846.html"
+website: https://stores.bestbuy.com/ca/chino/3873-grand-ave-846.html

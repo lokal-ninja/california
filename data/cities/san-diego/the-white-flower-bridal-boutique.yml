@@ -4,8 +4,8 @@ latitude: 32.72736
 longitude: -117.16009
 postcode: "92101"
 city: San Diego
-street: "5th Avenue"
-housenumber: 2121
-phone: "619-501-1700"
-opening_hours: "Mo-Su 10:00-18:00"
-website: "https://www.thewhiteflower.com"
+street: 5th Avenue
+housenumber: "2121"
+phone: 619-501-1700
+opening_hours: Mo-Su 10:00-18:00
+website: https://www.thewhiteflower.com

@@ -4,8 +4,8 @@ latitude: 32.7085
 longitude: -117.16087
 postcode: "92101"
 city: San Diego
-street: "4th Avenue"
-housenumber: 301
+street: 4th Avenue
+housenumber: "301"
 phone: "+16192326064"
 opening_hours: ""
-website: "https://www.urbanlighting.net/"
+website: https://www.urbanlighting.net/

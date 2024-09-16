@@ -1,11 +1,11 @@
 id: 356386674
-type: way
+type: node
 latitude: 37.96292
 longitude: -121.98322
 postcode: "94521"
 city: Concord
-street: "Clayton Road"
-housenumber: 4673
+street: Clayton Road
+housenumber: "4673"
 phone: ""
-opening_hours: "09:30-21:30"
+opening_hours: 09:30-21:30
 website: ""

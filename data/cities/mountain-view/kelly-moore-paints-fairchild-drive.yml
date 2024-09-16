@@ -1,11 +1,11 @@
 id: 99815555
-type: way
+type: node
 latitude: 37.40392
 longitude: -122.05323
 postcode: ""
 city: Mountain View
-street: "Fairchild Drive"
-housenumber: 415
+street: Fairchild Drive
+housenumber: "415"
 phone: ""
 opening_hours: ""
 website: ""

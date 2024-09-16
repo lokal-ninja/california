@@ -1,11 +1,11 @@
 id: 674012134
-type: way
+type: node
 latitude: 34.01323
 longitude: -117.74342
 postcode: "91709"
 city: Chino Hills
-street: "Peyton Drive"
-housenumber: 13811
+street: Peyton Drive
+housenumber: "13811"
 phone: ""
 opening_hours: ""
 website: ""

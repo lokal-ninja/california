@@ -1,11 +1,11 @@
 id: 194858668
-type: way
+type: node
 latitude: 33.76093
 longitude: -117.85336
 postcode: "92705"
 city: Santa Ana
-street: "North Grand Avenue"
-housenumber: 1800
-phone: "+1-714-352-7790"
-opening_hours: "Mo-Sa 10:00-20:00; Su 10:00-19:00"
-website: "https://www.ocgoodwill.org"
+street: North Grand Avenue
+housenumber: "1800"
+phone: +1-714-352-7790
+opening_hours: Mo-Sa 10:00-20:00; Su 10:00-19:00
+website: https://www.ocgoodwill.org

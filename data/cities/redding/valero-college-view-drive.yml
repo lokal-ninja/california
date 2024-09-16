@@ -1,11 +1,11 @@
 id: 775107925
-type: way
+type: node
 latitude: 40.61405
 longitude: -122.34879
 postcode: "96003"
 city: Redding
-street: "College View Drive"
-housenumber: 1292
+street: College View Drive
+housenumber: "1292"
 phone: ""
 opening_hours: ""
 website: ""

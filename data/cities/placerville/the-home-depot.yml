@@ -1,11 +1,11 @@
 id: 1254213499
-type: way
+type: node
 latitude: 38.73056
 longitude: -120.8246
 postcode: "95667"
 city: Placerville
-street: "Placerville Drive"
-housenumber: 600
-phone: "+1 530-626-9751"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Placerville/CA/Placerville/95667/1085"
+street: Placerville Drive
+housenumber: "600"
+phone: +1 530-626-9751
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Placerville/CA/Placerville/95667/1085

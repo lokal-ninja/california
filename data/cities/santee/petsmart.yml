@@ -1,11 +1,11 @@
 id: 225768326
-type: way
+type: node
 latitude: 32.842
 longitude: -116.98011
 postcode: "92071"
 city: Santee
-street: "Mission Gorge Road"
-housenumber: 9896
-phone: "+1 619-448-1921"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ca/santee-store1157.html"
+street: Mission Gorge Road
+housenumber: "9896"
+phone: +1 619-448-1921
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ca/santee-store1157.html

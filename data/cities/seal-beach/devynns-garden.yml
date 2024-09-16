@@ -1,11 +1,11 @@
 id: 764521926
-type: way
+type: node
 latitude: 33.74491
 longitude: -118.10457
 postcode: "90740"
 city: Seal Beach
-street: "Marina Drive"
-housenumber: 712
+street: Marina Drive
+housenumber: "712"
 phone: ""
 opening_hours: ""
 website: ""

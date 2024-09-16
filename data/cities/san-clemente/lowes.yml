@@ -1,11 +1,11 @@
 id: 390522008
-type: way
+type: node
 latitude: 33.45395
 longitude: -117.61041
 postcode: "92673"
 city: San Clemente
-street: "Avenida Pico"
-housenumber: 907
+street: Avenida Pico
+housenumber: "907"
 phone: ""
 opening_hours: ""
 website: ""

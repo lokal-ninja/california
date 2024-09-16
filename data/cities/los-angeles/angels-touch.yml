@@ -1,11 +1,11 @@
 id: 423444191
-type: way
+type: node
 latitude: 34.10387
 longitude: -118.33838
 postcode: ""
 city: Los Angeles
-street: "Highland Avenue"
-housenumber: 1786
-phone: "+1 323 8122144"
+street: Highland Avenue
+housenumber: "1786"
+phone: +1 323 8122144
 opening_hours: ""
 website: ""

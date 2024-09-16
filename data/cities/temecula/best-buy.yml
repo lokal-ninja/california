@@ -1,11 +1,11 @@
 id: 79876790
-type: way
+type: node
 latitude: 33.48423
 longitude: -117.08141
 postcode: "92592"
 city: Temecula
-street: "Temecula Parkway"
-housenumber: 32937
-phone: "+1 951-302-7046"
-opening_hours: "Mo-Su 11:00-19:00"
-website: "https://stores.bestbuy.com/ca/temecula/32937-us-hwy-79-1076.html"
+street: Temecula Parkway
+housenumber: "32937"
+phone: +1 951-302-7046
+opening_hours: Mo-Su 11:00-19:00
+website: https://stores.bestbuy.com/ca/temecula/32937-us-hwy-79-1076.html

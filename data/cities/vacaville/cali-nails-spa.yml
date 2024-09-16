@@ -1,11 +1,11 @@
 id: 704236464
-type: way
+type: node
 latitude: 38.36208
 longitude: -121.9668
 postcode: "95687"
 city: Vacaville
-street: "Nut Tree Parkway"
-housenumber: 196
+street: Nut Tree Parkway
+housenumber: "196"
 phone: ""
 opening_hours: ""
 website: ""

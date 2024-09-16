@@ -1,11 +1,11 @@
 id: 60415691
-type: way
+type: node
 latitude: 38.60951
 longitude: -121.3807
 postcode: "95825"
 city: Sacramento
-street: "Watt Avenue"
-housenumber: 2310
-phone: "+1 530-329-8336"
-opening_hours: "Mo-Su 10:00-20:00"
-website: "https://www.countryclubplazamall.com/"
+street: Watt Avenue
+housenumber: "2310"
+phone: +1 530-329-8336
+opening_hours: Mo-Su 10:00-20:00
+website: https://www.countryclubplazamall.com/

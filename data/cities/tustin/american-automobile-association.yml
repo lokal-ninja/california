@@ -1,11 +1,11 @@
 id: 184706248
-type: way
+type: node
 latitude: 33.7283
 longitude: -117.78906
 postcode: "92602"
 city: Tustin
-street: "Jamboree Road"
-housenumber: 13331
+street: Jamboree Road
+housenumber: "13331"
 phone: ""
 opening_hours: ""
 website: ""

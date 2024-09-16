@@ -4,8 +4,8 @@ latitude: 35.06807
 longitude: -118.17366
 postcode: "93501"
 city: Mojave
-street: "California 14"
-housenumber: 16920
-phone: "+1 661-824-2719"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.staterbros.com/stores/102"
+street: California 14
+housenumber: "16920"
+phone: +1 661-824-2719
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.staterbros.com/stores/102

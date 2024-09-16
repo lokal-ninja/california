@@ -1,11 +1,11 @@
 id: 132664576
-type: way
+type: node
 latitude: 34.03037
 longitude: -118.40173
 postcode: "90034"
 city: Los Angeles
-street: "National Boulevard"
-housenumber: 9860
-phone: "+1 310-836-4161"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.vons.com/ca/los-angeles/9860-national-blvd.html"
+street: National Boulevard
+housenumber: "9860"
+phone: +1 310-836-4161
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.vons.com/ca/los-angeles/9860-national-blvd.html

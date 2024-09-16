@@ -1,11 +1,11 @@
 id: 839531143
-type: way
+type: node
 latitude: 37.31851
 longitude: -121.88225
 postcode: "95110"
 city: San Jose
-street: "Willow Street"
-housenumber: 204
+street: Willow Street
+housenumber: "204"
 phone: ""
 opening_hours: ""
 website: ""

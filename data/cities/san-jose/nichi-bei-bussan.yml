@@ -4,8 +4,8 @@ latitude: 37.34811
 longitude: -121.89568
 postcode: "95112"
 city: San Jose
-street: "Jackson Street"
-housenumber: 140
+street: Jackson Street
+housenumber: "140"
 phone: ""
 opening_hours: ""
-website: "https://www.nbstore.com/"
+website: https://www.nbstore.com/

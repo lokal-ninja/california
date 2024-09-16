@@ -1,11 +1,11 @@
 id: 997288942
-type: way
+type: node
 latitude: 38.5099
 longitude: -121.47613
 postcode: "95822"
 city: Sacramento
-street: "47th Avenue"
-housenumber: 2850
+street: 47th Avenue
+housenumber: "2850"
 phone: ""
 opening_hours: ""
-website: "https://www.precisionar.net"
+website: https://www.precisionar.net

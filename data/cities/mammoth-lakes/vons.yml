@@ -1,11 +1,11 @@
 id: 132666498
-type: way
+type: node
 latitude: 37.63883
 longitude: -118.96535
 postcode: "93546"
 city: Mammoth Lakes
-street: "Old Mammoth Road"
-housenumber: 481
-phone: "+1 760-934-4536"
-opening_hours: "24/7"
-website: "https://local.vons.com/ca/mammoth-lakes/481-old-mammoth-rd.html"
+street: Old Mammoth Road
+housenumber: "481"
+phone: +1 760-934-4536
+opening_hours: 24/7
+website: https://local.vons.com/ca/mammoth-lakes/481-old-mammoth-rd.html

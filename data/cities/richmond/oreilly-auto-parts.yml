@@ -1,11 +1,11 @@
 id: 480463537
-type: way
+type: node
 latitude: 37.94837
 longitude: -122.33148
 postcode: ""
 city: Richmond
-street: "San Pablo Avenue"
-housenumber: 12955
+street: San Pablo Avenue
+housenumber: "12955"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ca/richmond/autoparts-3467.html"
+website: https://locations.oreillyauto.com/ca/richmond/autoparts-3467.html

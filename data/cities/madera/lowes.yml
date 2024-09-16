@@ -1,11 +1,11 @@
 id: 765941451
-type: way
+type: node
 latitude: 36.97172
 longitude: -120.08262
 postcode: "93637"
 city: Madera
-street: "West Cleveland Avenue"
-housenumber: 2100
-phone: "+1 559-416-4000"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/ca-madera/2712"
+street: West Cleveland Avenue
+housenumber: "2100"
+phone: +1 559-416-4000
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/ca-madera/2712

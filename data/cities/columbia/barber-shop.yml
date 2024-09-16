@@ -1,11 +1,11 @@
 id: 554773660
-type: way
+type: node
 latitude: 38.03457
 longitude: -120.4007
 postcode: "95310"
 city: Columbia
-street: "Main Street"
-housenumber: 
+street: Main Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 37.8909
 longitude: -122.2903
 postcode: "94706"
 city: Albany
-street: "Solano Avenue"
-housenumber: 1395
+street: Solano Avenue
+housenumber: "1395"
 phone: "+15105249050"
-opening_hours: "Mo-Fr 10:00-19:00; Sa-Su 09:00-17:00"
-website: "https://www.supercuts.com/locations/ca/albany/albany-haircuts-8501.html"
+opening_hours: Mo-Fr 10:00-19:00; Sa-Su 09:00-17:00
+website: https://www.supercuts.com/locations/ca/albany/albany-haircuts-8501.html

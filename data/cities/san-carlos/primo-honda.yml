@@ -1,11 +1,11 @@
 id: 758261380
-type: way
+type: node
 latitude: 37.50911
 longitude: -122.25226
 postcode: ""
 city: San Carlos
-street: "Industrial Road"
-housenumber: 777
+street: Industrial Road
+housenumber: "777"
 phone: ""
 opening_hours: ""
 website: ""

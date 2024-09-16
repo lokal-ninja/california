@@ -1,11 +1,11 @@
 id: 495691655
-type: way
+type: node
 latitude: 33.92996
 longitude: -117.41454
 postcode: "92504"
 city: Riverside
-street: "Indiana Avenue"
-housenumber: 8069
-phone: "951-428-2314"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://www.dchsubaruofriverside.com/"
+street: Indiana Avenue
+housenumber: "8069"
+phone: 951-428-2314
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://www.dchsubaruofriverside.com/

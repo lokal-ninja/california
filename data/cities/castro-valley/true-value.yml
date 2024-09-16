@@ -1,11 +1,11 @@
 id: 556940729
-type: way
+type: node
 latitude: 37.70083
 longitude: -122.06082
-postcode: "94546-4702"
+postcode: 94546-4702
 city: Castro Valley
-street: "Center Street"
-housenumber: 19640
-phone: "+1 510-538-5454"
+street: Center Street
+housenumber: "19640"
+phone: +1 510-538-5454
 opening_hours: ""
-website: "https://www.truevalue.com/castrovalley"
+website: https://www.truevalue.com/castrovalley

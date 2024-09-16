@@ -4,8 +4,8 @@ latitude: 37.78291
 longitude: -122.46846
 postcode: "94118"
 city: San Francisco
-street: "Clement Street"
-housenumber: 850
-phone: "+1 415 386 2112"
-opening_hours: "Mo,We-Su 09:00-18:00; Tu off"
+street: Clement Street
+housenumber: "850"
+phone: +1 415 386 2112
+opening_hours: Mo,We-Su 09:00-18:00; Tu off
 website: ""

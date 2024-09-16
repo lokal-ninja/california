@@ -1,11 +1,11 @@
 id: 472507242
-type: way
+type: node
 latitude: 34.42092
 longitude: -118.55786
 postcode: "91355"
 city: Valencia
-street: "Creekside Road"
-housenumber: 24111
+street: Creekside Road
+housenumber: "24111"
 phone: ""
 opening_hours: ""
-website: "https://www.hellomazdavalencia.com/"
+website: https://www.hellomazdavalencia.com/

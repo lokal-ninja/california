@@ -4,8 +4,8 @@ latitude: 37.38626
 longitude: -121.86193
 postcode: "95132"
 city: San Jose
-street: "Berryessa Road"
-housenumber: 2471
+street: Berryessa Road
+housenumber: "2471"
 phone: ""
-opening_hours: "07:00-20:00"
-website: "http://www.leesandwichesberryessa.com/"
+opening_hours: 07:00-20:00
+website: http://www.leesandwichesberryessa.com/

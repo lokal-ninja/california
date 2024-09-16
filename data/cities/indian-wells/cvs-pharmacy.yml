@@ -1,11 +1,11 @@
 id: 132691404
-type: way
+type: node
 latitude: 33.72024
 longitude: -116.35721
 postcode: "92210"
 city: Indian Wells
-street: "Highway 111"
-housenumber: 74955
-phone: "760-346-4464"
+street: Highway 111
+housenumber: "74955"
+phone: 760-346-4464
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/indian-wells-ca-pharmacies/74955-us-highway-111-indian-wells-ca-92210/storeid=9779"
+website: https://www.cvs.com/store-locator/indian-wells-ca-pharmacies/74955-us-highway-111-indian-wells-ca-92210/storeid=9779

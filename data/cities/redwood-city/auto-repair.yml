@@ -1,11 +1,11 @@
 id: 239260092
-type: way
+type: node
 latitude: 37.4843
 longitude: -122.21526
 postcode: ""
 city: Redwood City
-street: "Spring Street"
-housenumber: 2005
+street: Spring Street
+housenumber: "2005"
 phone: "6503683000"
 opening_hours: ""
 website: ""

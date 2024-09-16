@@ -1,11 +1,11 @@
 id: 1037035654
-type: way
+type: node
 latitude: 32.9613
 longitude: -117.19114
 postcode: "92130"
 city: San Diego
-street: "Highlands Place"
-housenumber: 13480
+street: Highlands Place
+housenumber: "13480"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00; Su 10:00-17:00"
+opening_hours: Mo-Sa 10:00-18:00; Su 10:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 464840022
-type: way
+type: node
 latitude: 37.33132
 longitude: -120.46686
 postcode: "95340"
 city: Merced
-street: "G Street"
-housenumber: 3564
+street: G Street
+housenumber: "3564"
 phone: ""
 opening_hours: ""
 website: ""

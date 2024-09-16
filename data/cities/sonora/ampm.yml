@@ -1,11 +1,11 @@
 id: 582668569
-type: way
+type: node
 latitude: 37.99427
 longitude: -120.38404
 postcode: "95370"
 city: Sonora
-street: "Pesce Way"
-housenumber: 15
+street: Pesce Way
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

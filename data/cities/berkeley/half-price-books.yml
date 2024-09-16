@@ -4,8 +4,8 @@ latitude: 37.87128
 longitude: -122.26849
 postcode: ""
 city: Berkeley
-street: "Shattuck Avenue"
-housenumber: 2036
-phone: "(510) 526-6080"
-opening_hours: "Mo-Th 11:00-20:00; Fr-Su 10:00-22:00"
-website: "https://www.hpb.com/store?storeid=HPB-037"
+street: Shattuck Avenue
+housenumber: "2036"
+phone: (510) 526-6080
+opening_hours: Mo-Th 11:00-20:00; Fr-Su 10:00-22:00
+website: https://www.hpb.com/store?storeid=HPB-037

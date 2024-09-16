@@ -1,11 +1,11 @@
 id: 474091348
-type: way
+type: node
 latitude: 33.06634
 longitude: -117.2661
 postcode: "92024"
 city: Encinitas
-street: "North El Camino Real"
-housenumber: 1046
-phone: "+1 760-479-0114"
+street: North El Camino Real
+housenumber: "1046"
+phone: +1 760-479-0114
 opening_hours: ""
-website: "https://stores.bestbuy.com/ca/encinitas/1046-n-el-camino-real-1187.html"
+website: https://stores.bestbuy.com/ca/encinitas/1046-n-el-camino-real-1187.html

@@ -1,11 +1,11 @@
 id: 458315518
-type: way
+type: node
 latitude: 38.93176
 longitude: -122.61727
 postcode: "95422"
 city: Clearlake
-street: "Dam Road"
-housenumber: 15960
-phone: "+1 707-994-6881"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/1979/clearlake-ca/whats-new"
+street: Dam Road
+housenumber: "15960"
+phone: +1 707-994-6881
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/1979/clearlake-ca/whats-new

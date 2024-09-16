@@ -1,11 +1,11 @@
 id: 38942547
-type: way
+type: node
 latitude: 37.32256
 longitude: -121.81134
 postcode: "95122"
 city: San Jose
-street: "Quimby Road"
-housenumber: 2220
+street: Quimby Road
+housenumber: "2220"
 phone: ""
 opening_hours: ""
 website: ""

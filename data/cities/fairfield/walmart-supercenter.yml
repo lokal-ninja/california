@@ -1,11 +1,11 @@
 id: 252835625
-type: way
+type: node
 latitude: 38.27969
 longitude: -122.03613
 postcode: "94533"
 city: Fairfield
-street: "North Texas Street"
-housenumber: 2701
-phone: "+1 707-428-4792"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.walmart.com/store/2048-fairfield-ca"
+street: North Texas Street
+housenumber: "2701"
+phone: +1 707-428-4792
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.walmart.com/store/2048-fairfield-ca

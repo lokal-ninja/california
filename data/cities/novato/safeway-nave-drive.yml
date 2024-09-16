@@ -1,11 +1,11 @@
 id: 252234112
-type: way
+type: node
 latitude: 38.0628
 longitude: -122.53202
 postcode: "94949"
 city: Novato
-street: "Nave Drive"
-housenumber: 5720
-phone: "+1 415-881-9256"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/ca/novato/5720-nave-dr.html"
+street: Nave Drive
+housenumber: "5720"
+phone: +1 415-881-9256
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/ca/novato/5720-nave-dr.html

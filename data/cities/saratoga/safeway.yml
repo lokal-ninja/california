@@ -1,11 +1,11 @@
 id: 191040003
-type: way
+type: node
 latitude: 37.28142
 longitude: -122.03139
 postcode: "95070"
 city: Saratoga
-street: "Saratoga-Sunnyvale Road"
-housenumber: 12876
-phone: "+1 408-867-0180"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/ca/saratoga/12876-saratoga-sunnyvale-rd.html"
+street: Saratoga-Sunnyvale Road
+housenumber: "12876"
+phone: +1 408-867-0180
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/ca/saratoga/12876-saratoga-sunnyvale-rd.html

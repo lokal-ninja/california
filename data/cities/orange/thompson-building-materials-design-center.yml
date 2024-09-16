@@ -1,11 +1,11 @@
 id: 433199380
-type: way
+type: node
 latitude: 33.81609
 longitude: -117.85934
 postcode: "92865"
 city: Orange
-street: "North Case Street"
-housenumber: 1716
+street: North Case Street
+housenumber: "1716"
 phone: ""
 opening_hours: ""
-website: "https://thompsonbldg.com/"
+website: https://thompsonbldg.com/

@@ -1,11 +1,11 @@
 id: 702359018
-type: way
+type: node
 latitude: 38.34794
 longitude: -121.99641
 postcode: "95688"
 city: Vacaville
-street: "Merchant Street"
-housenumber: 921
+street: Merchant Street
+housenumber: "921"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 455809212
-type: way
+type: node
 latitude: 33.85894
 longitude: -118.08669
-postcode: "90703-6627"
+postcode: 90703-6627
 city: Cerritos
-street: "South Street"
-housenumber: 11525
-phone: "+1 562-274-0063"
-opening_hours: "08:00-23:00"
-website: "https://www.target.com/sl/cerritos-south-street/1305"
+street: South Street
+housenumber: "11525"
+phone: +1 562-274-0063
+opening_hours: 08:00-23:00
+website: https://www.target.com/sl/cerritos-south-street/1305

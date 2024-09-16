@@ -1,11 +1,11 @@
 id: 161011011
-type: way
+type: node
 latitude: 33.69047
 longitude: -116.18393
 postcode: "92236"
 city: Coachella
-street: "Grapefruit Boulevard"
-housenumber: 49255
+street: Grapefruit Boulevard
+housenumber: "49255"
 phone: ""
 opening_hours: ""
-website: "https://www.gamestop.com/store/us/ca/coachella/3749/coachella-gateway-gamestop"
+website: https://www.gamestop.com/store/us/ca/coachella/3749/coachella-gateway-gamestop

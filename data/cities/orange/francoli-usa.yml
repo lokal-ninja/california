@@ -1,11 +1,11 @@
 id: 1133969910
-type: way
+type: node
 latitude: 33.82122
 longitude: -117.83646
 postcode: "92865"
 city: Orange
-street: "North Tustin Street"
-housenumber: 2010
-phone: "714-974-0322"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.francoliusa.com/"
+street: North Tustin Street
+housenumber: "2010"
+phone: 714-974-0322
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.francoliusa.com/

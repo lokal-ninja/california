@@ -1,11 +1,11 @@
 id: 282239023
-type: way
+type: node
 latitude: 33.9002
 longitude: -117.56473
 postcode: "92860"
 city: Norco
-street: "Hamner Avenue"
-housenumber: 1210
+street: Hamner Avenue
+housenumber: "1210"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://stores.staples.com/ca/norco/1210-hamner-avenue"
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://stores.staples.com/ca/norco/1210-hamner-avenue

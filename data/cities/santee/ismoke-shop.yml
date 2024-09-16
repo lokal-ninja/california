@@ -1,11 +1,11 @@
 id: 1190505436
-type: way
+type: node
 latitude: 32.83901
 longitude: -116.96681
 postcode: "92071"
 city: Santee
-street: "Woodside Avenue"
-housenumber: 10720
+street: Woodside Avenue
+housenumber: "10720"
 phone: ""
 opening_hours: ""
 website: ""

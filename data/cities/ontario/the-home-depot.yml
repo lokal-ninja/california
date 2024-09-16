@@ -1,11 +1,11 @@
 id: 610041553
-type: way
+type: node
 latitude: 34.02116
 longitude: -117.6529
 postcode: "91762"
 city: Ontario
-street: "Euclid Avenue"
-housenumber: 2980
-phone: "+1 909-460-4240"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/ontario-ca/ca/ontario/91762/6884"
+street: Euclid Avenue
+housenumber: "2980"
+phone: +1 909-460-4240
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/ontario-ca/ca/ontario/91762/6884

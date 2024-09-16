@@ -1,11 +1,11 @@
 id: 958052290
-type: way
+type: node
 latitude: 38.34115
 longitude: -120.76755
 postcode: "95642"
 city: Jackson
-street: "South State Highway 49"
-housenumber: 773
-phone: "+1 209-223-1507"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: South State Highway 49
+housenumber: "773"
+phone: +1 209-223-1507
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

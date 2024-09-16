@@ -1,11 +1,11 @@
 id: 732829486
-type: way
+type: node
 latitude: 36.96369
 longitude: -121.97309
 postcode: "95062"
 city: Santa Cruz
-street: "Portola Drive"
-housenumber: 3055
+street: Portola Drive
+housenumber: "3055"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 34.21686
 longitude: -119.06156
 postcode: "93010"
 city: Camarillo
-street: "Ventura Boulevard"
-housenumber: 690
-phone: "+1-805-384-9095"
-opening_hours: "Mo-Th,Su 11:00-19:00; Fr-Sa 10:00-20:00"
-website: "https://www.pacsun.com/store?id=1014&location=690%20VENTURA%20BLVD._CAMARILLO_CA_93010&lat=34.2170289999999&long=-119.061806&postalCode=93010"
+street: Ventura Boulevard
+housenumber: "690"
+phone: +1-805-384-9095
+opening_hours: Mo-Th,Su 11:00-19:00; Fr-Sa 10:00-20:00
+website: https://www.pacsun.com/store?id=1014&location=690%20VENTURA%20BLVD._CAMARILLO_CA_93010&lat=34.2170289999999&long=-119.061806&postalCode=93010

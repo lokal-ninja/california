@@ -1,11 +1,11 @@
 id: 355203516
-type: way
+type: node
 latitude: 37.33216
 longitude: -121.90362
 postcode: "95126"
 city: San Jose
-street: "The Alameda"
-housenumber: 699
+street: The Alameda
+housenumber: "699"
 phone: ""
 opening_hours: ""
 website: ""

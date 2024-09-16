@@ -4,8 +4,8 @@ latitude: 38.4373
 longitude: -122.72047
 postcode: "95401"
 city: Santa Rosa
-street: "4th Street"
-housenumber: 100
+street: 4th Street
+housenumber: "100"
 phone: "+17077553432"
-opening_hours: "Mo-Tu off; We-Su 12:00-18:00"
-website: "https://batcavecomicsandtoys.com/"
+opening_hours: Mo-Tu off; We-Su 12:00-18:00
+website: https://batcavecomicsandtoys.com/

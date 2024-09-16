@@ -4,8 +4,8 @@ latitude: 37.98274
 longitude: -122.12412
 postcode: "94553"
 city: Martinez
-street: "Gilbert Court"
-housenumber: 154
-phone: "+1 925-864-4350"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-18:00; Su 10:00-18:00"
-website: "https://elevateautoglass.com/"
+street: Gilbert Court
+housenumber: "154"
+phone: +1 925-864-4350
+opening_hours: Mo-Fr 08:00-19:00; Sa 09:00-18:00; Su 10:00-18:00
+website: https://elevateautoglass.com/

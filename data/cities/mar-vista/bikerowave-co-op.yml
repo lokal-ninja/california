@@ -4,8 +4,8 @@ latitude: 34.0046
 longitude: -118.43233
 postcode: "90066"
 city: Mar Vista
-street: "Venice Boulevard"
-housenumber: 12255
-phone: "+1 310 230 5236"
-opening_hours: "Mo-Th 18:30-22:00; Fr off; Sa 11:00-17:00; Su 11:00-14:00"
-website: "https://bikerowave.org/"
+street: Venice Boulevard
+housenumber: "12255"
+phone: +1 310 230 5236
+opening_hours: Mo-Th 18:30-22:00; Fr off; Sa 11:00-17:00; Su 11:00-14:00
+website: https://bikerowave.org/

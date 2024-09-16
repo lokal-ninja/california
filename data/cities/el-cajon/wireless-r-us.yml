@@ -1,11 +1,11 @@
 id: 1004818410
-type: way
+type: node
 latitude: 32.78741
 longitude: -116.95078
 postcode: "92020"
 city: El Cajon
-street: "East Washington Avenue"
-housenumber: 903
+street: East Washington Avenue
+housenumber: "903"
 phone: ""
 opening_hours: ""
-website: "https://mywirelessrus.com/"
+website: https://mywirelessrus.com/

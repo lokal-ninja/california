@@ -1,11 +1,11 @@
 id: 97296645
-type: way
+type: node
 latitude: 33.48087
 longitude: -117.09243
 postcode: "92592"
 city: Temecula
-street: "Highway 79"
-housenumber: 32413
-phone: "+1 951-302-1209"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ca/temecula-store1198.html"
+street: Highway 79
+housenumber: "32413"
+phone: +1 951-302-1209
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ca/temecula-store1198.html

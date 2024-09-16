@@ -1,11 +1,11 @@
 id: 31803619
-type: way
+type: node
 latitude: 32.7563
 longitude: -117.20403
 postcode: "92108"
 city: San Diego
-street: "Camino del Rio West"
-housenumber: 3535
+street: Camino del Rio West
+housenumber: "3535"
 phone: ""
 opening_hours: ""
-website: "https://www.standardplumbing.com/locations/SD"
+website: https://www.standardplumbing.com/locations/SD

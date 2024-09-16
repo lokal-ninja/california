@@ -1,11 +1,11 @@
 id: 31802460
-type: way
+type: node
 latitude: 33.01981
 longitude: -117.09412
 postcode: "92127"
 city: San Diego
-street: "Via del Campo Court"
-housenumber: 16885
+street: Via del Campo Court
+housenumber: "16885"
 phone: "+18586734004"
-opening_hours: "Mo-Fr 07:30-15:00"
+opening_hours: Mo-Fr 07:30-15:00
 website: ""

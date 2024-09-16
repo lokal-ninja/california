@@ -1,11 +1,11 @@
 id: 178716512
-type: way
+type: node
 latitude: 37.36496
 longitude: -120.57802
 postcode: "95388"
 city: Atwater
-street: "North Santa Fe Avenue"
-housenumber: 5050
+street: North Santa Fe Avenue
+housenumber: "5050"
 phone: ""
 opening_hours: ""
 website: ""

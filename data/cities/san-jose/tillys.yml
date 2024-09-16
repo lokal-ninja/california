@@ -1,11 +1,11 @@
 id: 200828479
-type: way
+type: node
 latitude: 37.2513
 longitude: -121.87889
 postcode: "95118"
 city: San Jose
-street: "Almaden Expressway"
-housenumber: 5353
+street: Almaden Expressway
+housenumber: "5353"
 phone: ""
 opening_hours: ""
-website: "https://www.tillys.com/"
+website: https://www.tillys.com/

@@ -1,11 +1,11 @@
 id: 442269813
-type: way
+type: node
 latitude: 33.87407
 longitude: -118.30779
 postcode: "90248"
 city: Gardena
-street: "West Artesia Boulevard"
-housenumber: 1735
-phone: "+1 310-380-4620"
+street: West Artesia Boulevard
+housenumber: "1735"
+phone: +1 310-380-4620
 opening_hours: ""
-website: "https://local.albertsons.com/ca/gardena/1735-w-artesia-blvd.html"
+website: https://local.albertsons.com/ca/gardena/1735-w-artesia-blvd.html

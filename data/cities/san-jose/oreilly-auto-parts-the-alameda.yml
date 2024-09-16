@@ -4,8 +4,8 @@ latitude: 37.33182
 longitude: -121.9104
 postcode: "95126"
 city: San Jose
-street: "The Alameda"
-housenumber: 1033
+street: The Alameda
+housenumber: "1033"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:00-20:00"
-website: "https://locations.oreillyauto.com/ca/sanjose/autoparts-3462.html"
+opening_hours: Mo-Sa 07:30-21:00; Su 08:00-20:00
+website: https://locations.oreillyauto.com/ca/sanjose/autoparts-3462.html

@@ -1,11 +1,11 @@
 id: 31816794
-type: way
+type: node
 latitude: 32.96063
 longitude: -117.11439
 postcode: "92129"
 city: San Diego
-street: "Carmel Mountain Road"
-housenumber: 9906
+street: Carmel Mountain Road
+housenumber: "9906"
 phone: ""
 opening_hours: ""
 website: ""

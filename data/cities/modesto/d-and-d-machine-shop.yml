@@ -1,11 +1,11 @@
 id: 1289507024
-type: way
+type: node
 latitude: 37.63576
 longitude: -120.99988
 postcode: "95354"
 city: Modesto
-street: "7th Street"
-housenumber: 710
-phone: "+1-209-529-6890"
+street: 7th Street
+housenumber: "710"
+phone: +1-209-529-6890
 opening_hours: ""
 website: ""

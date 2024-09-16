@@ -4,8 +4,8 @@ latitude: 34.08539
 longitude: -118.38389
 postcode: "90069"
 city: West Hollywood
-street: "Santa Monica Boulevard"
-housenumber: 8861
-phone: "+1-323-337-9555"
-opening_hours: "Mo-We 11:00-00:00, Th-Sa 11:00-02:00, Su 11:00-00:00"
-website: "https://chichilarues.com"
+street: Santa Monica Boulevard
+housenumber: "8861"
+phone: +1-323-337-9555
+opening_hours: Mo-We 11:00-00:00, Th-Sa 11:00-02:00, Su 11:00-00:00
+website: https://chichilarues.com

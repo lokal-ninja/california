@@ -1,11 +1,11 @@
 id: 962413342
-type: way
+type: node
 latitude: 36.80976
 longitude: -119.85147
 postcode: "93711"
 city: Fresno
-street: "West Shaw Avenue"
-housenumber: 3272
-phone: "+1 559-277-9600"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/fresno/ca/fresno/93711/663"
+street: West Shaw Avenue
+housenumber: "3272"
+phone: +1 559-277-9600
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/fresno/ca/fresno/93711/663

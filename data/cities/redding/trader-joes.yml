@@ -1,11 +1,11 @@
 id: 468702782
-type: way
+type: node
 latitude: 40.59149
 longitude: -122.35699
 postcode: "96003"
 city: redding
-street: "Browning Street"
-housenumber: 845
-phone: "+1 530-223-4875"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://locations.traderjoes.com/ca/redding/219/"
+street: Browning Street
+housenumber: "845"
+phone: +1 530-223-4875
+opening_hours: Mo-Su 08:00-21:00
+website: https://locations.traderjoes.com/ca/redding/219/

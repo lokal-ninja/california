@@ -1,11 +1,11 @@
 id: 298977108
-type: way
+type: node
 latitude: 39.72473
 longitude: -121.81054
 postcode: ""
 city: Chico
-street: "East 20th Street"
-housenumber: 2031
+street: East 20th Street
+housenumber: "2031"
 phone: ""
 opening_hours: ""
 website: ""

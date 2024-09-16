@@ -1,11 +1,11 @@
 id: 546732624
-type: way
+type: node
 latitude: 40.16329
 longitude: -122.23538
 postcode: "96080"
 city: Red Bluff
-street: "Luther Road"
-housenumber: 608
-phone: "+1 530-529-5540"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1608/red-bluff-ca/whats-new"
+street: Luther Road
+housenumber: "608"
+phone: +1 530-529-5540
+opening_hours: 24/7
+website: https://www.walmart.com/store/1608/red-bluff-ca/whats-new

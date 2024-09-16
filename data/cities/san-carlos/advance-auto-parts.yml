@@ -1,11 +1,11 @@
 id: 41657258
-type: way
+type: node
 latitude: 37.50177
 longitude: -122.25174
 postcode: "94070"
 city: San Carlos
-street: "Old County Road"
-housenumber: 1087
+street: Old County Road
+housenumber: "1087"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/ca/san-carlos/1087-old-county-rd"
+website: https://stores.advanceautoparts.com/ca/san-carlos/1087-old-county-rd

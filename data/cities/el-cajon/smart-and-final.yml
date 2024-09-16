@@ -1,11 +1,11 @@
 id: 131288178
-type: way
+type: node
 latitude: 32.80117
 longitude: -117.00413
 postcode: "92020"
 city: El Cajon
-street: "Fletcher Parkway"
-housenumber: 2800
-phone: "+1 619 589 7000"
-opening_hours: "Mo-Su 06:00-22:00"
+street: Fletcher Parkway
+housenumber: "2800"
+phone: +1 619 589 7000
+opening_hours: Mo-Su 06:00-22:00
 website: ""

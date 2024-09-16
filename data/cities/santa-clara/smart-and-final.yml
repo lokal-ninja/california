@@ -4,8 +4,8 @@ latitude: 37.35303
 longitude: -121.9611
 postcode: "95050"
 city: Santa Clara
-street: "El Camino Real"
-housenumber: 2065
+street: El Camino Real
+housenumber: "2065"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
+opening_hours: Mo-Su 06:00-22:00
 website: ""

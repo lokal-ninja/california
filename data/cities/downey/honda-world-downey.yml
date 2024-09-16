@@ -1,11 +1,11 @@
 id: 1227033768
-type: way
+type: node
 latitude: 33.93734
 longitude: -118.09747
 postcode: "90241"
 city: Downey
-street: "Studebaker Road"
-housenumber: 10645
-phone: "+1-562-888-5084"
-opening_hours: "Mo-Su 09:00-22:00"
-website: "https://www.lahondaworld.com/"
+street: Studebaker Road
+housenumber: "10645"
+phone: +1-562-888-5084
+opening_hours: Mo-Su 09:00-22:00
+website: https://www.lahondaworld.com/

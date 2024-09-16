@@ -1,11 +1,11 @@
 id: 341923037
-type: way
+type: node
 latitude: 37.51218
 longitude: -122.2931
 postcode: "94002"
 city: Belmont
-street: "Ralston Avenue"
-housenumber: 2035
+street: Ralston Avenue
+housenumber: "2035"
 phone: ""
 opening_hours: ""
 website: ""

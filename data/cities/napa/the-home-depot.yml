@@ -1,11 +1,11 @@
 id: 463914690
-type: way
+type: node
 latitude: 38.28514
 longitude: -122.27738
 postcode: "94559"
 city: Napa
-street: "Soscal Avenue"
-housenumber: 225
-phone: "+1 707-251-0162"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Napa/CA/Napa/94559/6652"
+street: Soscal Avenue
+housenumber: "225"
+phone: +1 707-251-0162
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Napa/CA/Napa/94559/6652

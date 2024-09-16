@@ -2,10 +2,10 @@ id: 2500351815
 type: node
 latitude: 37.57602
 longitude: -121.97151
-postcode: "94536-1741"
+postcode: 94536-1741
 city: Fremont
-street: "Mission Boulevard"
-housenumber: 38003
-phone: "+1 510-793-3211"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ca/fremont/38003-mission-blvd-26343"
+street: Mission Boulevard
+housenumber: "38003"
+phone: +1 510-793-3211
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ca/fremont/38003-mission-blvd-26343

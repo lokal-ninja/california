@@ -1,11 +1,11 @@
 id: 470312339
-type: way
+type: node
 latitude: 34.08881
 longitude: -117.73781
 postcode: "91767"
 city: Pomona
-street: "East Arrow Highway"
-housenumber: 778
-phone: "+1 909-962-5011"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/3132/pomona-ca/whats-new"
+street: East Arrow Highway
+housenumber: "778"
+phone: +1 909-962-5011
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/3132/pomona-ca/whats-new

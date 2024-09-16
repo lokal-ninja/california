@@ -4,8 +4,8 @@ latitude: 37.35295
 longitude: -121.96036
 postcode: "95050"
 city: Santa Clara
-street: "El Camino Real"
-housenumber: 2037
+street: El Camino Real
+housenumber: "2037"
 phone: ""
-opening_hours: "Tu-Su 10:00-18:00"
-website: "https://www.aarnasalon.com/"
+opening_hours: Tu-Su 10:00-18:00
+website: https://www.aarnasalon.com/

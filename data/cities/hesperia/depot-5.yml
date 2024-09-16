@@ -1,11 +1,11 @@
 id: 696775707
-type: way
+type: node
 latitude: 34.42624
 longitude: -117.37623
 postcode: "92345"
 city: Hesperia
-street: "Main Street"
-housenumber: 13187
-phone: "+1 (760) 948-8180"
+street: Main Street
+housenumber: "13187"
+phone: +1 (760) 948-8180
 opening_hours: ""
 website: ""

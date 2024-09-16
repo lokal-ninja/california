@@ -1,11 +1,11 @@
 id: 133111681
-type: way
+type: node
 latitude: 33.132
 longitude: -117.20582
 postcode: "92078"
 city: San Marcos
-street: "South Rancho Santa Fe Road"
-housenumber: 671
-phone: "+1 844-479-7060"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/ca/san-marcos/671-s-rancho-santa-fe-road"
+street: South Rancho Santa Fe Road
+housenumber: "671"
+phone: +1 844-479-7060
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/ca/san-marcos/671-s-rancho-santa-fe-road

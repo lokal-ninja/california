@@ -4,8 +4,8 @@ latitude: 37.76411
 longitude: -122.39459
 postcode: "94107"
 city: San Francisco
-street: "Mississippi Street"
-housenumber: 199
+street: Mississippi Street
+housenumber: "199"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa-Su 10:00-18:00"
-website: "https://www.pawtrero.com/"
+opening_hours: Mo-Fr 11:00-19:00; Sa-Su 10:00-18:00
+website: https://www.pawtrero.com/

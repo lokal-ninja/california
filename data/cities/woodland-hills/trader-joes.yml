@@ -1,11 +1,11 @@
 id: 380093564
-type: way
+type: node
 latitude: 34.16742
 longitude: -118.59216
 postcode: "91364"
 city: Woodland Hills
-street: "Ventura Boulevard"
-housenumber: 21055
-phone: "+1 818-712-9475"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://locations.traderjoes.com/ca/woodland-hills/209/"
+street: Ventura Boulevard
+housenumber: "21055"
+phone: +1 818-712-9475
+opening_hours: Mo-Su 08:00-21:00
+website: https://locations.traderjoes.com/ca/woodland-hills/209/

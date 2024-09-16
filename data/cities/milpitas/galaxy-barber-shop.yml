@@ -4,8 +4,8 @@ latitude: 37.42699
 longitude: -121.90762
 postcode: "95035"
 city: Milpitas
-street: "South Abel Street"
-housenumber: 308
+street: South Abel Street
+housenumber: "308"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 08:00-19:00; Su 09:00-18:30"
-website: "http://www.galaxybarber.com/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 08:00-19:00; Su 09:00-18:30
+website: http://www.galaxybarber.com/

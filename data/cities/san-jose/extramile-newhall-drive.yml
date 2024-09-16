@@ -1,11 +1,11 @@
 id: 347759520
-type: way
+type: node
 latitude: 37.35081
 longitude: -121.92295
 postcode: "95110"
 city: San Jose
-street: "Newhall Drive"
-housenumber: 510
+street: Newhall Drive
+housenumber: "510"
 phone: ""
-opening_hours: "Mo-Su 05:00-24:00"
+opening_hours: Mo-Su 05:00-24:00
 website: ""

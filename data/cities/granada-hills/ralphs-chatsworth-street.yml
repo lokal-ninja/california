@@ -1,11 +1,11 @@
 id: 430709914
-type: way
+type: node
 latitude: 34.2635
 longitude: -118.52459
 postcode: "91344"
 city: Granada Hills
-street: "Chatsworth Street"
-housenumber: 18010
-phone: "+1 818-831-6556"
-opening_hours: "Mo-Su 05:00-01:00"
-website: "https://www.ralphs.com/stores/grocery/ca/granada-hills/the-gh/703/00646"
+street: Chatsworth Street
+housenumber: "18010"
+phone: +1 818-831-6556
+opening_hours: Mo-Su 05:00-01:00
+website: https://www.ralphs.com/stores/grocery/ca/granada-hills/the-gh/703/00646

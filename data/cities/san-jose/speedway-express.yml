@@ -1,11 +1,11 @@
 id: 90760618
-type: way
+type: node
 latitude: 37.24628
 longitude: -121.88791
 postcode: "95118"
 city: San Jose
-street: "Kooser Road"
-housenumber: 1365
+street: Kooser Road
+housenumber: "1365"
 phone: ""
 opening_hours: ""
 website: ""

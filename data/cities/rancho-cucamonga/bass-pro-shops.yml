@@ -1,11 +1,11 @@
 id: 238026629
-type: way
+type: node
 latitude: 34.11288
 longitude: -117.52765
 postcode: ""
 city: Rancho Cucamonga
-street: "Victoria Gardens Lane"
-housenumber: 7777
+street: Victoria Gardens Lane
+housenumber: "7777"
 phone: ""
 opening_hours: ""
 website: ""

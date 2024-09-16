@@ -1,11 +1,11 @@
 id: 224197356
-type: way
+type: node
 latitude: 36.60519
 longitude: -121.92108
 postcode: "93950"
 city: Pacific Grove
-street: "Forest Avenue"
-housenumber: 1212
-phone: "+1 831-375-8262"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/ca/pacific-grove/1212-forest-ave.html"
+street: Forest Avenue
+housenumber: "1212"
+phone: +1 831-375-8262
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/ca/pacific-grove/1212-forest-ave.html

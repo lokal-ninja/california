@@ -1,11 +1,11 @@
 id: 441322855
-type: way
+type: node
 latitude: 33.79577
 longitude: -118.19295
 postcode: "90806"
 city: Long Beach
-street: "Pacific Avenue"
-housenumber: 2120
-phone: "1 (562) 599-5075"
+street: Pacific Avenue
+housenumber: "2120"
+phone: 1 (562) 599-5075
 opening_hours: ""
 website: ""

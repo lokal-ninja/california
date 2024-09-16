@@ -1,11 +1,11 @@
 id: 311711724
-type: way
+type: node
 latitude: 37.38146
 longitude: -120.61379
 postcode: "95388"
 city: Winton
-street: "North Winton Way"
-housenumber: 6449
+street: North Winton Way
+housenumber: "6449"
 phone: ""
 opening_hours: ""
 website: ""

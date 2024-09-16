@@ -1,11 +1,11 @@
 id: 674856480
-type: way
+type: node
 latitude: 37.92724
 longitude: -121.69755
 postcode: "94513"
 city: Brentwood
-street: "Balfour Road"
-housenumber: 4461
+street: Balfour Road
+housenumber: "4461"
 phone: ""
-opening_hours: "06:00-23:59"
+opening_hours: 06:00-23:59
 website: ""

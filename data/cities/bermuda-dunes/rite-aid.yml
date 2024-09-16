@@ -1,11 +1,11 @@
 id: 406638550
-type: way
+type: node
 latitude: 33.74394
 longitude: -116.30343
 postcode: "92203"
 city: Bermuda Dunes
-street: "Washington Street"
-housenumber: 41800
+street: Washington Street
+housenumber: "41800"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
+opening_hours: Mo-Su 08:00-22:00
 website: ""

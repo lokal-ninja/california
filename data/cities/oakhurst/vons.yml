@@ -1,11 +1,11 @@
 id: 132687487
-type: way
+type: node
 latitude: 37.33036
 longitude: -119.65962
 postcode: "93644"
 city: Oakhurst
-street: "Highway 49"
-housenumber: 40044
-phone: "+1 559-642-4250"
+street: Highway 49
+housenumber: "40044"
+phone: +1 559-642-4250
 opening_hours: ""
-website: "https://local.vons.com/ca/oakhurst/40044-hwy-49.html"
+website: https://local.vons.com/ca/oakhurst/40044-hwy-49.html

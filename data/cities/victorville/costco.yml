@@ -1,11 +1,11 @@
 id: 358564654
-type: way
+type: node
 latitude: 34.5154
 longitude: -117.31925
-postcode: "92395-4216"
+postcode: 92395-4216
 city: Victorville
-street: "Valley Center Drive"
-housenumber: 14555
-phone: "+1 760-524-9904"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/victorville-ca-1010.html"
+street: Valley Center Drive
+housenumber: "14555"
+phone: +1 760-524-9904
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/victorville-ca-1010.html

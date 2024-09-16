@@ -1,11 +1,11 @@
 id: 331297539
-type: way
+type: node
 latitude: 38.57061
 longitude: -121.49809
 postcode: "95811"
 city: Sacramento
-street: "S Street"
-housenumber: 925
+street: S Street
+housenumber: "925"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 326675521
-type: way
+type: node
 latitude: 36.71405
 longitude: -121.66156
 postcode: "93906"
 city: Salinas
-street: "Northridge Mall"
-housenumber: 390
-phone: "+1 831-444-9517"
+street: Northridge Mall
+housenumber: "390"
+phone: +1 831-444-9517
 opening_hours: ""
-website: "https://stores.bestbuy.com/ca/salinas/390-northridge-mall-1019.html"
+website: https://stores.bestbuy.com/ca/salinas/390-northridge-mall-1019.html

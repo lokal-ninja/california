@@ -1,11 +1,11 @@
 id: 120651704
-type: way
+type: node
 latitude: 38.58959
 longitude: -121.54835
 postcode: "95605"
 city: West Sacramento
-street: "Ikea Court"
-housenumber: 783
+street: Ikea Court
+housenumber: "783"
 phone: ""
 opening_hours: ""
 website: ""

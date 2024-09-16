@@ -1,11 +1,11 @@
 id: 237994232
-type: way
+type: node
 latitude: 38.61142
 longitude: -122.86977
 postcode: ""
 city: Healdsburg
-street: "Plaza street"
-housenumber: 119
-phone: "+1 707-433-4130"
+street: Plaza street
+housenumber: "119"
+phone: +1 707-433-4130
 opening_hours: ""
-website: "www.circumferenceimports.com"
+website: www.circumferenceimports.com

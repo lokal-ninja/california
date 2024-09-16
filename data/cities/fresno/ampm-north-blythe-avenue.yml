@@ -1,11 +1,11 @@
 id: 1160049064
-type: way
+type: node
 latitude: 36.83776
 longitude: -119.87054
 postcode: "93722"
 city: Fresno
-street: "North Blythe Avenue"
-housenumber: 7020
+street: North Blythe Avenue
+housenumber: "7020"
 phone: "+15594122020"
-opening_hours: "24/7"
-website: "https://www.ampm.com/"
+opening_hours: 24/7
+website: https://www.ampm.com/

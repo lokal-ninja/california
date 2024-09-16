@@ -1,11 +1,11 @@
 id: 230601060
-type: way
+type: node
 latitude: 37.32758
 longitude: -121.93128
 postcode: "95126"
 city: San Jose
-street: "Naglee Avenue"
-housenumber: 1970
-phone: "+1-408-294-9151"
+street: Naglee Avenue
+housenumber: "1970"
+phone: +1-408-294-9151
 opening_hours: ""
-website: "https://www.zanottos.com/locations"
+website: https://www.zanottos.com/locations

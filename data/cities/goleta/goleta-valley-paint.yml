@@ -1,11 +1,11 @@
 id: 947219831
-type: way
+type: node
 latitude: 34.43455
 longitude: -119.82552
 postcode: "93117"
 city: Goleta
-street: "Rutherford Street"
-housenumber: 325
+street: Rutherford Street
+housenumber: "325"
 phone: ""
 opening_hours: ""
 website: ""

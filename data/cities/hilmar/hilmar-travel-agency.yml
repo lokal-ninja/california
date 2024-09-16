@@ -1,11 +1,11 @@
 id: 311696097
-type: way
+type: node
 latitude: 37.40803
 longitude: -120.8504
 postcode: "95324"
 city: Hilmar
-street: "West First Street"
-housenumber: 20010
+street: West First Street
+housenumber: "20010"
 phone: ""
 opening_hours: ""
 website: ""

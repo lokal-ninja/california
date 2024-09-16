@@ -1,11 +1,11 @@
 id: 32858754
-type: way
+type: node
 latitude: 37.79772
 longitude: -122.40667
 postcode: "94133"
 city: San Francisco
-street: "Columbus Avenue"
-housenumber: 261
-phone: "+1 415 3628193"
-opening_hours: "Mo-Su 12:00-20:00"
-website: "https://citylights.com/bookstore/"
+street: Columbus Avenue
+housenumber: "261"
+phone: +1 415 3628193
+opening_hours: Mo-Su 12:00-20:00
+website: https://citylights.com/bookstore/

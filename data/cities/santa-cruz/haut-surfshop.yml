@@ -1,11 +1,11 @@
 id: 34944350
-type: way
+type: node
 latitude: 36.95532
 longitude: -122.04918
 postcode: "95060"
 city: Santa Cruz
-street: "Swift Street"
-housenumber: 345
-phone: "+1-831-426-7874"
+street: Swift Street
+housenumber: "345"
+phone: +1-831-426-7874
 opening_hours: ""
-website: "http://www.hautsurfboards.com"
+website: http://www.hautsurfboards.com

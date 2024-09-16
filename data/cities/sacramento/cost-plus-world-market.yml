@@ -1,11 +1,11 @@
 id: 339971599
-type: way
+type: node
 latitude: 38.5987
 longitude: -121.41681
 postcode: "95825"
 city: Sacramento
-street: "Howe Avenue"
-housenumber: 1821
+street: Howe Avenue
+housenumber: "1821"
 phone: ""
 opening_hours: ""
 website: ""

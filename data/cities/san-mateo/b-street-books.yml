@@ -4,8 +4,8 @@ latitude: 37.5655
 longitude: -122.32217
 postcode: "94401"
 city: San Mateo
-street: "South B. Street"
-housenumber: 301
-phone: "+1 650-343-2800"
-opening_hours: "Mo-Th 11:00-18:00; Fr-Sa 11:00-20:00; Su 11:00-18:00"
-website: "https://www.bstreetbooks.com/"
+street: South B. Street
+housenumber: "301"
+phone: +1 650-343-2800
+opening_hours: Mo-Th 11:00-18:00; Fr-Sa 11:00-20:00; Su 11:00-18:00
+website: https://www.bstreetbooks.com/

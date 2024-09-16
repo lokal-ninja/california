@@ -1,11 +1,11 @@
 id: 371622753
-type: way
+type: node
 latitude: 37.32653
 longitude: -121.879
 postcode: "95112"
 city: San Jose
-street: "Patterson Street"
-housenumber: 161
+street: Patterson Street
+housenumber: "161"
 phone: ""
 opening_hours: ""
 website: ""

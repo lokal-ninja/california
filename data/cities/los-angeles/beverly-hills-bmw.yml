@@ -1,11 +1,11 @@
 id: 427279128
-type: way
+type: node
 latitude: 34.06157
 longitude: -118.33972
 postcode: "90036"
 city: Los Angeles
-street: "Wilshire Boulevard"
-housenumber: 5070
-phone: "+1 855 252 3796"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.bmwofbeverlyhills.com/"
+street: Wilshire Boulevard
+housenumber: "5070"
+phone: +1 855 252 3796
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.bmwofbeverlyhills.com/

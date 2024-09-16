@@ -1,11 +1,11 @@
 id: 1283030875
-type: way
+type: node
 latitude: 37.71302
 longitude: -121.08624
 postcode: "95368"
 city: Salida
-street: "Kiernan Court"
-housenumber: 5057
+street: Kiernan Court
+housenumber: "5057"
 phone: ""
 opening_hours: ""
 website: ""

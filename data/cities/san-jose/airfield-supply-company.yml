@@ -1,11 +1,11 @@
 id: 225010590
-type: way
+type: node
 latitude: 37.35658
 longitude: -121.9318
 postcode: "95110"
 city: San Jose
-street: "Coleman Avenue"
-housenumber: 1190
+street: Coleman Avenue
+housenumber: "1190"
 phone: ""
 opening_hours: ""
-website: "http://southbayhealingcenter.org/"
+website: http://southbayhealingcenter.org/

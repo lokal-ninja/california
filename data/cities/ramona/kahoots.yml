@@ -1,11 +1,11 @@
 id: 542650234
-type: way
+type: node
 latitude: 33.04246
 longitude: -116.86839
 postcode: "92065"
 city: Ramona
-street: "Main Street"
-housenumber: 947
+street: Main Street
+housenumber: "947"
 phone: ""
-opening_hours: "Mo-Su 08:00-18:30"
+opening_hours: Mo-Su 08:00-18:30
 website: ""

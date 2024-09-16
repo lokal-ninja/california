@@ -1,11 +1,11 @@
 id: 133107328
-type: way
+type: node
 latitude: 33.02055
 longitude: -117.07179
 postcode: "92128"
 city: San Diego
-street: "Bernardo Plaza Drive"
-housenumber: 11986
-phone: "+1 858-487-8221"
+street: Bernardo Plaza Drive
+housenumber: "11986"
+phone: +1 858-487-8221
 opening_hours: ""
-website: "https://local.vons.com/ca/san-diego/11986-bernardo-plaza-dr.html"
+website: https://local.vons.com/ca/san-diego/11986-bernardo-plaza-dr.html

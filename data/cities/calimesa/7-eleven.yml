@@ -1,11 +1,11 @@
 id: 389116548
-type: way
+type: node
 latitude: 34.00397
 longitude: -117.04789
-postcode: "92320-1213"
+postcode: 92320-1213
 city: Calimesa
-street: "COUNTYLINE"
-housenumber: 301
-phone: "+1 909-795-6735"
+street: COUNTYLINE
+housenumber: "301"
+phone: +1 909-795-6735
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/calimesa/301-countyline-13980"
+website: https://www.7-eleven.com/locations/ca/calimesa/301-countyline-13980

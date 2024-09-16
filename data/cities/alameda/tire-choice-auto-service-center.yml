@@ -1,11 +1,11 @@
 id: 116782625
-type: way
+type: node
 latitude: 37.78299
 longitude: -122.27298
 postcode: "94501"
 city: Alameda
-street: "Marina Village Parkway"
-housenumber: 861
+street: Marina Village Parkway
+housenumber: "861"
 phone: ""
 opening_hours: ""
-website: "https://thetirechoice.com"
+website: https://thetirechoice.com

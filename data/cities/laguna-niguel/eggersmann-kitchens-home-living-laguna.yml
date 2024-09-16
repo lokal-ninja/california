@@ -1,11 +1,11 @@
 id: 486916243
-type: way
+type: node
 latitude: 33.5561
 longitude: -117.71588
 postcode: "92677"
 city: Laguna Niguel
-street: "Aliso Creek Road"
-housenumber: 23811
-phone: "+1 949-281-1299"
-opening_hours: "Mo-Fr 09:00-17:00; Sa-Su off"
-website: "https://eggersmannusa.com/eggersmann-laguna/"
+street: Aliso Creek Road
+housenumber: "23811"
+phone: +1 949-281-1299
+opening_hours: Mo-Fr 09:00-17:00; Sa-Su off
+website: https://eggersmannusa.com/eggersmann-laguna/

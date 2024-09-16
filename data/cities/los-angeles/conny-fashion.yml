@@ -1,11 +1,11 @@
 id: 1247120974
-type: way
+type: node
 latitude: 34.04715
 longitude: -118.29126
 postcode: "90006"
 city: Los Angeles
-street: "West Pico Boulevard"
-housenumber: 2482
+street: West Pico Boulevard
+housenumber: "2482"
 phone: ""
 opening_hours: ""
 website: ""

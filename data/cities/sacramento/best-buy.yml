@@ -1,11 +1,11 @@
 id: 193901183
-type: way
+type: node
 latitude: 38.6381
 longitude: -121.49584
 postcode: "95834"
 city: Sacramento
-street: "North Freeway Boulevard"
-housenumber: 3690
-phone: "+1 916-575-9980"
+street: North Freeway Boulevard
+housenumber: "3690"
+phone: +1 916-575-9980
 opening_hours: ""
-website: "https://stores.bestbuy.com/ca/sacramento/3690-n-freeway-blvd-660.html"
+website: https://stores.bestbuy.com/ca/sacramento/3690-n-freeway-blvd-660.html

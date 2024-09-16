@@ -1,11 +1,11 @@
 id: 312672537
-type: way
+type: node
 latitude: 35.13576
 longitude: -120.62877
 postcode: "93449"
 city: Pismo Beach
-street: "Five Cities Drive"
-housenumber: 333
-phone: "+1 805-773-0807"
+street: Five Cities Drive
+housenumber: "333"
+phone: +1 805-773-0807
 opening_hours: ""
-website: "https://www.lanebryant.com/"
+website: https://www.lanebryant.com/

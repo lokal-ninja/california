@@ -1,11 +1,11 @@
 id: 60323683
-type: way
+type: node
 latitude: 38.64594
 longitude: -121.11055
-postcode: "95630-6235"
+postcode: 95630-6235
 city: Folsom
-street: "Cavitt Drive"
-housenumber: 1800
-phone: "+1 916-850-1000"
-opening_hours: "Mo-Fr 09:00-20:30; Sa-Su 09:00-19:00"
-website: "https://www.costco.com/warehouse-locations/folsom-ca-765.html"
+street: Cavitt Drive
+housenumber: "1800"
+phone: +1 916-850-1000
+opening_hours: Mo-Fr 09:00-20:30; Sa-Su 09:00-19:00
+website: https://www.costco.com/warehouse-locations/folsom-ca-765.html

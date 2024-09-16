@@ -1,11 +1,11 @@
 id: 234850626
-type: way
+type: node
 latitude: 34.14262
 longitude: -118.03082
 postcode: "91006"
 city: Arcadia
-street: "Santa Anita Avenue"
-housenumber: 214
-phone: "+1-626-447-1062"
-opening_hours: "Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 10:00-19:00"
-website: "https://www.rei.com/stores/arcadia"
+street: Santa Anita Avenue
+housenumber: "214"
+phone: +1-626-447-1062
+opening_hours: Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 10:00-19:00
+website: https://www.rei.com/stores/arcadia

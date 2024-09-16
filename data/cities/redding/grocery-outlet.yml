@@ -1,11 +1,11 @@
 id: 460186026
-type: way
+type: node
 latitude: 40.57485
 longitude: -122.35175
 postcode: "96002"
 city: Redding
-street: "Churn Creek Road"
-housenumber: 2235
-phone: "+1 (530) 221-6138"
+street: Churn Creek Road
+housenumber: "2235"
+phone: +1 (530) 221-6138
 opening_hours: ""
-website: "https://groceryoutlet.com/circulars/storeid/34"
+website: https://groceryoutlet.com/circulars/storeid/34

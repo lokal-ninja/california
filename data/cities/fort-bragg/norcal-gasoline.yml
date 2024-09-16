@@ -1,11 +1,11 @@
 id: 1127976840
-type: way
+type: node
 latitude: 39.41607
 longitude: -123.80863
 postcode: "95437"
 city: Fort Bragg
-street: "North Highway 1"
-housenumber: 18770
+street: North Highway 1
+housenumber: "18770"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 32.7141
 longitude: -117.01109
 postcode: "91977"
 city: Spring Valley
-street: "Sweetwater Road"
-housenumber: 935
-phone: "+1-619-463-0970"
-opening_hours: "Mo-Su: 10:00-21:30"
-website: "https://www.ddsdiscounts.com/"
+street: Sweetwater Road
+housenumber: "935"
+phone: +1-619-463-0970
+opening_hours: 'Mo-Su: 10:00-21:30'
+website: https://www.ddsdiscounts.com/

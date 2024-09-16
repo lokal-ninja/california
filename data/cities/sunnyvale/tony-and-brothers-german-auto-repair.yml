@@ -1,11 +1,11 @@
 id: 35603565
-type: way
+type: node
 latitude: 37.38135
 longitude: -122.01922
 postcode: "94085"
 city: Sunnyvale
-street: "North Fair Oaks Avenue"
-housenumber: 275
+street: North Fair Oaks Avenue
+housenumber: "275"
 phone: ""
 opening_hours: ""
 website: ""

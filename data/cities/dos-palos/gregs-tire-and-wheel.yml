@@ -1,11 +1,11 @@
 id: 311696028
-type: way
+type: node
 latitude: 37.04779
 longitude: -120.62928
 postcode: "93620"
 city: Dos Palos
-street: "West Azusa Road"
-housenumber: 7657
+street: West Azusa Road
+housenumber: "7657"
 phone: ""
 opening_hours: ""
 website: ""

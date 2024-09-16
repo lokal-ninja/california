@@ -1,11 +1,11 @@
 id: 236495100
-type: way
+type: node
 latitude: 37.79193
 longitude: -122.19913
 postcode: "94619"
 city: Oakland
-street: "MacArthur Boulevard"
-housenumber: 3715
-phone: "510-328-1158"
+street: MacArthur Boulevard
+housenumber: "3715"
+phone: 510-328-1158
 opening_hours: ""
-website: "https://www.laurelcyclery.com/"
+website: https://www.laurelcyclery.com/

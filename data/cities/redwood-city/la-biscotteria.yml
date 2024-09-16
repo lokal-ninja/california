@@ -1,11 +1,11 @@
 id: 164126769
-type: way
+type: node
 latitude: 37.47159
 longitude: -122.21462
 postcode: "94061"
 city: Redwood City
-street: "El Camino Real"
-housenumber: 2747
-phone: "(650) 366-4888"
+street: El Camino Real
+housenumber: "2747"
+phone: (650) 366-4888
 opening_hours: ""
-website: "https://www.labiscotteria.com/"
+website: https://www.labiscotteria.com/

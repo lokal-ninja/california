@@ -1,11 +1,11 @@
 id: 197697993
-type: way
+type: node
 latitude: 37.2919
 longitude: -121.8798
 postcode: "95125"
 city: San Jose
-street: "Almaden Road"
-housenumber: 2302
+street: Almaden Road
+housenumber: "2302"
 phone: ""
 opening_hours: ""
 website: ""

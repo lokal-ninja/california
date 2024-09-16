@@ -1,11 +1,11 @@
 id: 166236419
-type: way
+type: node
 latitude: 38.42631
 longitude: -121.41638
 postcode: "95758"
 city: Elk Grove
-street: "Laguna Boulevard"
-housenumber: 7505
-phone: "+1 916-683-5356"
-opening_hours: "Su-Th 08:00-23:00, Fr-Sa 08:00-23:59"
-website: "https://www.target.com/sl/elk-grove/1025"
+street: Laguna Boulevard
+housenumber: "7505"
+phone: +1 916-683-5356
+opening_hours: Su-Th 08:00-23:00, Fr-Sa 08:00-23:59
+website: https://www.target.com/sl/elk-grove/1025

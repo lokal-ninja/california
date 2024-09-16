@@ -1,11 +1,11 @@
 id: 240668216
-type: way
+type: node
 latitude: 37.47392
 longitude: -122.21861
 postcode: "94063"
 city: Redwood City
-street: "El Camino Real"
-housenumber: 2460
-phone: "(650) 368-8194"
+street: El Camino Real
+housenumber: "2460"
+phone: (650) 368-8194
 opening_hours: ""
-website: "https://www.sleephavenbedding.com/"
+website: https://www.sleephavenbedding.com/

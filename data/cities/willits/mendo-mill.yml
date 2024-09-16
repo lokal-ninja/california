@@ -1,11 +1,11 @@
 id: 673712844
-type: way
+type: node
 latitude: 39.41238
 longitude: -123.34861
-postcode: "95490-3201"
+postcode: 95490-3201
 city: Willits
-street: "East Commercial Street"
-housenumber: 305
-phone: "+1 707-459-4631"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-18:00; Su 08:00-17:00"
+street: East Commercial Street
+housenumber: "305"
+phone: +1 707-459-4631
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-18:00; Su 08:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 132973789
-type: way
+type: node
 latitude: 33.85092
 longitude: -118.13769
 postcode: "90712"
 city: Lakewood
-street: "Whitewood Avenue"
-housenumber: 340
-phone: "+1 562-295-1508"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/lakewood-ca-1050.html"
+street: Whitewood Avenue
+housenumber: "340"
+phone: +1 562-295-1508
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/lakewood-ca-1050.html

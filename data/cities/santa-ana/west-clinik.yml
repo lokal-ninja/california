@@ -1,11 +1,11 @@
 id: 636325884
-type: way
+type: node
 latitude: 33.71909
 longitude: -117.91692
 postcode: "92704"
 city: Santa Ana
-street: "South Yale Street"
-housenumber: 2110
+street: South Yale Street
+housenumber: "2110"
 phone: ""
 opening_hours: ""
 website: ""

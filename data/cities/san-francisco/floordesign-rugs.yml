@@ -1,11 +1,11 @@
 id: 351964812
-type: way
+type: node
 latitude: 37.76935
 longitude: -122.40219
 postcode: "94103"
 city: San Francisco
-street: "Rhode Island Street"
-housenumber: 25
-phone: "+1 415-626-1005"
+street: Rhode Island Street
+housenumber: "25"
+phone: +1 415-626-1005
 opening_hours: ""
-website: "https://www.floordesignrugs.com/"
+website: https://www.floordesignrugs.com/

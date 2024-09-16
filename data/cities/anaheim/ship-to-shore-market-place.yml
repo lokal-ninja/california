@@ -1,11 +1,11 @@
 id: 199112090
-type: way
+type: node
 latitude: 33.81245
 longitude: -117.92059
 postcode: ""
 city: Anaheim
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://disneyland.disney.go.com/dining/fruit/"
+website: https://disneyland.disney.go.com/dining/fruit/

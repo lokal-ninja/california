@@ -1,11 +1,11 @@
 id: 383762846
-type: way
+type: node
 latitude: 38.4194
 longitude: -122.70974
 postcode: "95404"
 city: Santa Rosa
-street: "Santa Rosa Avenue"
-housenumber: 1950
-phone: "+1 707-545-1078"
+street: Santa Rosa Avenue
+housenumber: "1950"
+phone: +1 707-545-1078
 opening_hours: ""
-website: "https://stores.bestbuy.com/ca/santa-rosa/1950-santa-rosa-ave-120.html"
+website: https://stores.bestbuy.com/ca/santa-rosa/1950-santa-rosa-ave-120.html

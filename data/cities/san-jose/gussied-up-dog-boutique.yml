@@ -1,11 +1,11 @@
 id: 560205015
-type: way
+type: node
 latitude: 37.30498
 longitude: -121.89803
 postcode: "95125"
 city: San Jose
-street: "Lincoln Avenue"
-housenumber: 1310
+street: Lincoln Avenue
+housenumber: "1310"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 740431422
-type: way
+type: node
 latitude: 33.54572
 longitude: -117.78221
 postcode: "92651"
 city: Laguna Beach
-street: "Ocean Avenue"
-housenumber: 450
+street: Ocean Avenue
+housenumber: "450"
 phone: ""
 opening_hours: ""
 website: ""

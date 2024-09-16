@@ -1,11 +1,11 @@
 id: 101627798
-type: way
+type: node
 latitude: 33.69863
 longitude: -117.74278
 postcode: "92620"
 city: Irvine
-street: "Irvine Boulevard"
-housenumber: 6218
-phone: "+1 949-954-5704"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/ca/irvine/1317"
+street: Irvine Boulevard
+housenumber: "6218"
+phone: +1 949-954-5704
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/ca/irvine/1317

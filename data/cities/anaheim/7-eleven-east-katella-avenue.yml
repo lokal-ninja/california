@@ -1,11 +1,11 @@
 id: 1095522155
-type: way
+type: node
 latitude: 33.803
 longitude: -117.89763
 postcode: "92805"
 city: Anaheim
-street: "East Katella Avenue"
-housenumber: 902
-phone: "+1 800-255-0711"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ca/anaheim/902-e-katella-ave-38389"
+street: East Katella Avenue
+housenumber: "902"
+phone: +1 800-255-0711
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ca/anaheim/902-e-katella-ave-38389

@@ -4,8 +4,8 @@ latitude: 34.10145
 longitude: -118.32503
 postcode: "90028"
 city: Los Angeles
-street: "Hollywood Boulevard"
-housenumber: 6200
+street: Hollywood Boulevard
+housenumber: "6200"
 phone: "+13232456400"
-opening_hours: "Mo-Th 11:00-20:00; Fr-Su 11:00-21:00"
-website: "https://www.amoeba.com/"
+opening_hours: Mo-Th 11:00-20:00; Fr-Su 11:00-21:00
+website: https://www.amoeba.com/

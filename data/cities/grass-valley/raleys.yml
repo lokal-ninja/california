@@ -1,11 +1,11 @@
 id: 772077494
-type: way
+type: node
 latitude: 39.20285
 longitude: -121.0652
 postcode: "95949"
 city: Grass Valley
-street: "Freeman Lane"
-housenumber: 692
-phone: "(530) 272-1958"
-opening_hours: "Mo-Su 06:00-23:00"
+street: Freeman Lane
+housenumber: "692"
+phone: (530) 272-1958
+opening_hours: Mo-Su 06:00-23:00
 website: ""

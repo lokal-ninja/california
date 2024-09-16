@@ -1,11 +1,11 @@
 id: 725709578
-type: way
+type: node
 latitude: 32.54372
 longitude: -117.03891
 postcode: "92173"
 city: San Ysidro
-street: "Camino de la Plaza"
-housenumber: 4463
+street: Camino de la Plaza
+housenumber: "4463"
 phone: "+16196518018"
-opening_hours: "Mo-Sa 10:00-21:00, Su 10:00-19:00"
-website: "https://outletsattheborder.com/"
+opening_hours: Mo-Sa 10:00-21:00, Su 10:00-19:00
+website: https://outletsattheborder.com/

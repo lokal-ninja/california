@@ -1,11 +1,11 @@
 id: 38689740
-type: way
+type: node
 latitude: 37.3342
 longitude: -121.84582
 postcode: "95122"
 city: San Jose
-street: "Story Road"
-housenumber: 1500
+street: Story Road
+housenumber: "1500"
 phone: ""
 opening_hours: ""
 website: ""

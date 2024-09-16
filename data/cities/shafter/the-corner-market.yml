@@ -1,11 +1,11 @@
 id: 1105378517
-type: way
+type: node
 latitude: 35.50045
 longitude: -119.16965
 postcode: "93263"
 city: Shafter
-street: "East Lerdo Highway"
-housenumber: 6000
+street: East Lerdo Highway
+housenumber: "6000"
 phone: ""
 opening_hours: ""
-website: "https://thecornermarket.com/"
+website: https://thecornermarket.com/

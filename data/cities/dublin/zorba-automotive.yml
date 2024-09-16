@@ -1,11 +1,11 @@
 id: 384943976
-type: way
+type: node
 latitude: 37.70161
 longitude: -121.92763
 postcode: "94568"
 city: Dublin
-street: "Golden Gate Drive"
-housenumber: 6449
+street: Golden Gate Drive
+housenumber: "6449"
 phone: ""
 opening_hours: ""
 website: ""

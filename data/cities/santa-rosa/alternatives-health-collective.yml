@@ -1,11 +1,11 @@
 id: 740027906
-type: way
+type: node
 latitude: 38.42829
 longitude: -122.73843
 postcode: "95407"
 city: Santa Rosa
-street: "Hampton Way"
-housenumber: 1603
+street: Hampton Way
+housenumber: "1603"
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
+opening_hours: Mo-Su 09:00-21:00
 website: ""

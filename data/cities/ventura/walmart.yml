@@ -1,11 +1,11 @@
 id: 70906446
-type: way
+type: node
 latitude: 34.25881
 longitude: -119.21267
 postcode: "93003"
 city: Ventura
-street: "South Victoria Avenue"
-housenumber: 1739
-phone: "+1 805-665-5560"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.walmart.com/store/3650-ventura-ca"
+street: South Victoria Avenue
+housenumber: "1739"
+phone: +1 805-665-5560
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.walmart.com/store/3650-ventura-ca

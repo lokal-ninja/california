@@ -1,11 +1,11 @@
 id: 390881154
-type: way
+type: node
 latitude: 34.03458
 longitude: -118.44922
 postcode: "90064"
 city: Los Angeles
-street: "West Olympic Boulevard"
-housenumber: 11727
-phone: "+1 310-473–5238"
-opening_hours: "05:00-1:00"
-website: "https://www.ralphs.com/stores/grocery/ca/los-angeles/olympic-barrington/703/00210"
+street: West Olympic Boulevard
+housenumber: "11727"
+phone: +1 310-473–5238
+opening_hours: 05:00-1:00
+website: https://www.ralphs.com/stores/grocery/ca/los-angeles/olympic-barrington/703/00210

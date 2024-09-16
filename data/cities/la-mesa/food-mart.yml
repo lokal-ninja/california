@@ -1,11 +1,11 @@
 id: 1015139505
-type: way
+type: node
 latitude: 32.77606
 longitude: -117.01547
 postcode: "91942"
 city: La Mesa
-street: "Jackson Drive"
-housenumber: 5322
+street: Jackson Drive
+housenumber: "5322"
 phone: ""
 opening_hours: ""
 website: ""

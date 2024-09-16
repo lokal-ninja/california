@@ -1,11 +1,11 @@
 id: 45407104
-type: way
+type: node
 latitude: 38.78147
 longitude: -121.27089
-postcode: "95678-3533"
+postcode: 95678-3533
 city: Fairway Commons
-street: "Five Star Boulevard"
-housenumber: 5811
-phone: "+1 916-781-7270"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://stores.joann.com/ca/roseville/2082/"
+street: Five Star Boulevard
+housenumber: "5811"
+phone: +1 916-781-7270
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-18:00
+website: https://stores.joann.com/ca/roseville/2082/

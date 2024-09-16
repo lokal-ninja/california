@@ -1,11 +1,11 @@
 id: 1067037606
-type: way
+type: node
 latitude: 35.60583
 longitude: -117.66651
 postcode: "93555"
 city: Ridgecrest
-street: "East Bowman Road"
-housenumber: 201
-phone: "+1 760-371-4974"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1600/ridgecrest-ca/whats-new"
+street: East Bowman Road
+housenumber: "201"
+phone: +1 760-371-4974
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1600/ridgecrest-ca/whats-new

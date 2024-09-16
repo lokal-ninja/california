@@ -1,11 +1,11 @@
 id: 267281598
-type: way
+type: node
 latitude: 37.4935
 longitude: -119.97487
 postcode: "95338"
 city: Mariposa
-street: "Highway 49"
-housenumber: 5188
-phone: "+1 209-966-2692"
-opening_hours: "09:00-17:00"
-website: "https://www.acehardware.com/mystore/index.jsp"
+street: Highway 49
+housenumber: "5188"
+phone: +1 209-966-2692
+opening_hours: 09:00-17:00
+website: https://www.acehardware.com/mystore/index.jsp

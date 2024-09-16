@@ -1,11 +1,11 @@
 id: 333369554
-type: way
+type: node
 latitude: 33.6659
 longitude: -117.66131
 postcode: "92630"
 city: Lake Forest
-street: "Vista Terrace"
-housenumber: 26881
-phone: "+1 949-770-5956"
-opening_hours: "Mo-Fr 07:30-17:30"
-website: "https://foothillautoservice.com/"
+street: Vista Terrace
+housenumber: "26881"
+phone: +1 949-770-5956
+opening_hours: Mo-Fr 07:30-17:30
+website: https://foothillautoservice.com/

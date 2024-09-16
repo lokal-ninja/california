@@ -1,11 +1,11 @@
 id: 697469666
-type: way
+type: node
 latitude: 34.93284
 longitude: -120.43643
 postcode: "93454"
 city: Santa Maria
-street: "South Broadway"
-housenumber: 1531
-phone: "+1 (805) 862-2158"
+street: South Broadway
+housenumber: "1531"
+phone: +1 (805) 862-2158
 opening_hours: ""
 website: ""

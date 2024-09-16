@@ -1,11 +1,11 @@
 id: 1020376662
-type: way
+type: node
 latitude: 38.00686
 longitude: -121.8901
 postcode: "94564"
 city: Pittsburg
-street: "Atlantic Avenue"
-housenumber: 230
+street: Atlantic Avenue
+housenumber: "230"
 phone: ""
 opening_hours: ""
 website: ""

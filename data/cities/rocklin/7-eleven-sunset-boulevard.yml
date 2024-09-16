@@ -1,11 +1,11 @@
 id: 954467399
-type: way
+type: node
 latitude: 38.781
 longitude: -121.2421
 postcode: "95677"
 city: Rocklin
-street: "Sunset Boulevard"
-housenumber: 5903
-phone: "+1 916-624-1003"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ca/rocklin/5903-sunset-blvd-35994"
+street: Sunset Boulevard
+housenumber: "5903"
+phone: +1 916-624-1003
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ca/rocklin/5903-sunset-blvd-35994

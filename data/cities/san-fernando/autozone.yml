@@ -1,11 +1,11 @@
 id: 1067814583
-type: way
+type: node
 latitude: 34.28446
 longitude: -118.44082
 postcode: "91340"
 city: San Fernando
-street: "Maclay Street"
-housenumber: 55
+street: Maclay Street
+housenumber: "55"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ca/san-fernando/55-n-maclay-ave.html"
+website: https://www.autozone.com/locations/ca/san-fernando/55-n-maclay-ave.html

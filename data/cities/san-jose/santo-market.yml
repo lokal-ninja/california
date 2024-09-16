@@ -1,11 +1,11 @@
 id: 347004931
-type: way
+type: node
 latitude: 37.35179
 longitude: -121.89547
 postcode: "95112"
 city: San Jose
-street: "East Taylor Street"
-housenumber: 245
-phone: "+1-408-295-5406"
-opening_hours: "09:00-15:00"
-website: "https://santomarket.com/"
+street: East Taylor Street
+housenumber: "245"
+phone: +1-408-295-5406
+opening_hours: 09:00-15:00
+website: https://santomarket.com/

@@ -1,11 +1,11 @@
 id: 71209408
-type: way
+type: node
 latitude: 37.78651
 longitude: -122.41432
 postcode: "94102"
 city: San Francisco
-street: "Geary Street"
-housenumber: 669
-phone: "+1 415 4742126"
+street: Geary Street
+housenumber: "669"
+phone: +1 415 4742126
 opening_hours: ""
 website: ""

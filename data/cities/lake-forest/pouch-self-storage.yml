@@ -1,11 +1,11 @@
 id: 330857024
-type: way
+type: node
 latitude: 33.64912
 longitude: -117.68834
 postcode: "92630"
 city: Lake Forest
-street: "Trabuco Road"
-housenumber: 25301
+street: Trabuco Road
+housenumber: "25301"
 phone: ""
 opening_hours: ""
 website: ""

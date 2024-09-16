@@ -4,8 +4,8 @@ latitude: 38.01862
 longitude: -121.26977
 postcode: "95212"
 city: Stockton
-street: "East Hammer Lane"
-housenumber: 3702
-phone: "+1 209-477-6227"
-opening_hours: "08:00-22:00"
-website: "https://www.burlington.com/store-details/stockton-ca-571"
+street: East Hammer Lane
+housenumber: "3702"
+phone: +1 209-477-6227
+opening_hours: 08:00-22:00
+website: https://www.burlington.com/store-details/stockton-ca-571

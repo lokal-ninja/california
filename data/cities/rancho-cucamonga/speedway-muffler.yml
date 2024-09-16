@@ -1,11 +1,11 @@
 id: 62106252
-type: way
+type: node
 latitude: 34.09155
 longitude: -117.57685
 postcode: "91730"
 city: Rancho Cucamonga
-street: "8th St"
-housenumber: 10459
+street: 8th St
+housenumber: "10459"
 phone: ""
 opening_hours: ""
 website: ""

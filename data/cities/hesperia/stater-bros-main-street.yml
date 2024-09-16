@@ -1,11 +1,11 @@
 id: 606154121
-type: way
+type: node
 latitude: 34.42182
 longitude: -117.29489
 postcode: "92345"
 city: Hesperia
-street: "Main Street"
-housenumber: 16904
-phone: "+1 760-244-1503"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.staterbros.com/stores/190"
+street: Main Street
+housenumber: "16904"
+phone: +1 760-244-1503
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.staterbros.com/stores/190

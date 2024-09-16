@@ -1,11 +1,11 @@
 id: 470359937
-type: way
+type: node
 latitude: 34.10131
 longitude: -117.7702
 postcode: "91750"
 city: La Verne
-street: "D Street"
-housenumber: 2343
+street: D Street
+housenumber: "2343"
 phone: ""
 opening_hours: ""
 website: ""

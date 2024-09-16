@@ -1,11 +1,11 @@
 id: 740794461
-type: way
+type: node
 latitude: 34.50611
 longitude: -117.34089
 postcode: "92392"
 city: Victorville
-street: "Palmdale Road"
-housenumber: 14821
+street: Palmdale Road
+housenumber: "14821"
 phone: ""
 opening_hours: ""
-website: "https://www.mazdavictorville.com/"
+website: https://www.mazdavictorville.com/

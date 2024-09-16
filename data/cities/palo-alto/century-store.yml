@@ -1,11 +1,11 @@
 id: 231091710
-type: way
+type: node
 latitude: 37.42965
 longitude: -122.12312
 postcode: "94303"
 city: Palo Alto
-street: "Middlefield Road"
-housenumber: 3163
+street: Middlefield Road
+housenumber: "3163"
 phone: ""
 opening_hours: ""
 website: ""

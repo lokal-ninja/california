@@ -1,11 +1,11 @@
 id: 542168700
-type: way
+type: node
 latitude: 33.69944
 longitude: -117.83583
 postcode: "92606"
 city: Irvine
-street: "Von Karman Avenue"
-housenumber: 16555
-phone: "+1 949-623-7467"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/5644/irvine-ca/whats-new"
+street: Von Karman Avenue
+housenumber: "16555"
+phone: +1 949-623-7467
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/5644/irvine-ca/whats-new

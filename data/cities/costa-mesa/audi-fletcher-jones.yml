@@ -1,11 +1,11 @@
 id: 731752468
-type: way
+type: node
 latitude: 33.6644
 longitude: -117.88026
 postcode: "92660"
 city: Costa Mesa
-street: "Bristol Street"
-housenumber: 375
+street: Bristol Street
+housenumber: "375"
 phone: ""
 opening_hours: ""
 website: ""

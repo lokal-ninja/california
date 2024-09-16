@@ -4,8 +4,8 @@ latitude: 37.34998
 longitude: -121.96228
 postcode: "95050"
 city: Santa Clara
-street: "El Camino Real"
-housenumber: 2060
-phone: "+1 408-780-7248"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/ca/santa-clara/el-camino-real-2/"
+street: El Camino Real
+housenumber: "2060"
+phone: +1 408-780-7248
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/ca/santa-clara/el-camino-real-2/

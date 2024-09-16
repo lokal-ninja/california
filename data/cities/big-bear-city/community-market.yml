@@ -1,11 +1,11 @@
 id: 277504777
-type: way
+type: node
 latitude: 34.26096
 longitude: -116.84545
 postcode: ""
 city: Big Bear City
-street: "East Big Bear Boulevard"
-housenumber: 100
+street: East Big Bear Boulevard
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

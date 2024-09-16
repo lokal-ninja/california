@@ -1,11 +1,11 @@
 id: 206096931
-type: way
+type: node
 latitude: 34.14589
 longitude: -118.15242
 postcode: "91105"
 city: Pasadena
-street: "Colorado Boulevard"
-housenumber: 89
-phone: "626 449-1423"
-opening_hours: "Mo-Sa 10:0-21:00; Su 11:00-19:00"
-website: "https://www.sunglasshut.com/"
+street: Colorado Boulevard
+housenumber: "89"
+phone: 626 449-1423
+opening_hours: Mo-Sa 10:0-21:00; Su 11:00-19:00
+website: https://www.sunglasshut.com/

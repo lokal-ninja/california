@@ -1,11 +1,11 @@
 id: 281221368
-type: way
+type: node
 latitude: 37.50845
 longitude: -120.88219
 postcode: "95380"
 city: Turlock
-street: "Auto Mall Drive"
-housenumber: 1601
+street: Auto Mall Drive
+housenumber: "1601"
 phone: ""
 opening_hours: ""
-website: "https://www.smithchevroletturlock.com/"
+website: https://www.smithchevroletturlock.com/

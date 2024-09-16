@@ -1,11 +1,11 @@
 id: 285865937
-type: way
+type: node
 latitude: 33.89901
 longitude: -117.56491
 postcode: "92860"
 city: Norco
-street: "Hamner Avenue"
-housenumber: 1100
+street: Hamner Avenue
+housenumber: "1100"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

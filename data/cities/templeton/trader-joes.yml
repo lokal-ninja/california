@@ -1,11 +1,11 @@
 id: 172089723
-type: way
+type: node
 latitude: 35.54197
 longitude: -120.71545
 postcode: "93465"
 city: Templeton
-street: "Rossi Road"
-housenumber: 1111
-phone: "+1 805-434-9562"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://locations.traderjoes.com/ca/templeton/211/"
+street: Rossi Road
+housenumber: "1111"
+phone: +1 805-434-9562
+opening_hours: Mo-Su 08:00-21:00
+website: https://locations.traderjoes.com/ca/templeton/211/

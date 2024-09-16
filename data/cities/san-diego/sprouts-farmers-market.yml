@@ -4,8 +4,8 @@ latitude: 32.85163
 longitude: -117.21448
 postcode: "92122"
 city: San Diego
-street: "Governor Drive"
-housenumber: 3358
-phone: "+1 858-457-5006"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/ca/san-diego/university-city/"
+street: Governor Drive
+housenumber: "3358"
+phone: +1 858-457-5006
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/ca/san-diego/university-city/

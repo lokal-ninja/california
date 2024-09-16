@@ -1,11 +1,11 @@
 id: 941848078
-type: way
+type: node
 latitude: 33.06816
 longitude: -117.06749
 postcode: "92025"
 city: Escondido
-street: "Sunset Drive"
-housenumber: 3661
+street: Sunset Drive
+housenumber: "3661"
 phone: "7604328100"
 opening_hours: ""
-website: "https://www.sandiegoselfstorage.com/self-storage/ca/escondido/north-county-self-storage/#/units?category=Small"
+website: https://www.sandiegoselfstorage.com/self-storage/ca/escondido/north-county-self-storage/#/units?category=Small

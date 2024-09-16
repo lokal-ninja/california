@@ -1,11 +1,11 @@
 id: 133113587
-type: way
+type: node
 latitude: 35.25063
 longitude: -120.64248
 postcode: "93401"
 city: San Luis Obispo
-street: "Broad Street"
-housenumber: 3900
-phone: "+1 805-541-1055"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.vons.com/ca/san-luis-obispo/3900-broad-st.html"
+street: Broad Street
+housenumber: "3900"
+phone: +1 805-541-1055
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.vons.com/ca/san-luis-obispo/3900-broad-st.html

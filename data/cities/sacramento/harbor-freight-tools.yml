@@ -4,8 +4,8 @@ latitude: 38.60999
 longitude: -121.47703
 postcode: "95833"
 city: Sacramento
-street: "Northgate Boulevard"
-housenumber: 2361
-phone: "+1 916-923-9160"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/2361-northgate-blvd-sacramento-95833?number=383"
+street: Northgate Boulevard
+housenumber: "2361"
+phone: +1 916-923-9160
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/2361-northgate-blvd-sacramento-95833?number=383

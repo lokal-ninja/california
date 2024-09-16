@@ -4,8 +4,8 @@ latitude: 37.76266
 longitude: -122.50089
 postcode: "94122"
 city: San Francisco
-street: "Irving Street"
-housenumber: 4002
-phone: "+1 415-731-3838"
-opening_hours: "Mo-Tu,Th-Fr 10:00-20:00; Sa-Su 10:00-18:00"
-website: "https://swellbicycles.com/"
+street: Irving Street
+housenumber: "4002"
+phone: +1 415-731-3838
+opening_hours: Mo-Tu,Th-Fr 10:00-20:00; Sa-Su 10:00-18:00
+website: https://swellbicycles.com/

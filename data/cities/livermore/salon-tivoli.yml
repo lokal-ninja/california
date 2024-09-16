@@ -4,8 +4,8 @@ latitude: 37.68154
 longitude: -121.76835
 postcode: ""
 city: Livermore
-street: "First Street"
-housenumber: 2219
-phone: "+1 925-456-3000"
-opening_hours: "Tu-Fr 09:00-20:00; Sa 09:00-17:00"
-website: "http://www.salontivoli.com/"
+street: First Street
+housenumber: "2219"
+phone: +1 925-456-3000
+opening_hours: Tu-Fr 09:00-20:00; Sa 09:00-17:00
+website: http://www.salontivoli.com/

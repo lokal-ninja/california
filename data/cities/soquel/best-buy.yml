@@ -1,11 +1,11 @@
 id: 727894152
-type: way
+type: node
 latitude: 36.98556
 longitude: -121.9634
 postcode: "95073"
 city: Soquel
-street: "41st Avenue"
-housenumber: 2650
-phone: "+1 831-465-0956"
+street: 41st Avenue
+housenumber: "2650"
+phone: +1 831-465-0956
 opening_hours: ""
-website: "http://stores.bestbuy.com/797/"
+website: http://stores.bestbuy.com/797/

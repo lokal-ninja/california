@@ -1,11 +1,11 @@
 id: 133789073
-type: way
+type: node
 latitude: 34.28265
 longitude: -119.30268
 postcode: "93001"
 city: Ventura
-street: "West Main Street"
-housenumber: 115
-phone: "+1 805-653-6874"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://local.vons.com/ca/ventura/115-w-main-st.html"
+street: West Main Street
+housenumber: "115"
+phone: +1 805-653-6874
+opening_hours: Mo-Su 06:00-22:00
+website: https://local.vons.com/ca/ventura/115-w-main-st.html

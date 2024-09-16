@@ -1,11 +1,11 @@
 id: 505832842
-type: way
+type: node
 latitude: 34.41086
 longitude: -119.69701
 postcode: "93101"
 city: Santa Barbara
-street: "West Montecito Street"
-housenumber: 331
-phone: "+1 805-962-5364"
+street: West Montecito Street
+housenumber: "331"
+phone: +1 805-962-5364
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/santa-barbara/331-west-montecito-18822"
+website: https://www.7-eleven.com/locations/ca/santa-barbara/331-west-montecito-18822

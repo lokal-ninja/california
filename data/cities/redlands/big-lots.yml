@@ -4,8 +4,8 @@ latitude: 34.0638
 longitude: -117.2042
 postcode: "92374"
 city: Redlands
-street: "Tri City Center"
-housenumber: 810
-phone: "+1 909-798-5985"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/ca/redlands/810-tri-city-ctr"
+street: Tri City Center
+housenumber: "810"
+phone: +1 909-798-5985
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/ca/redlands/810-tri-city-ctr

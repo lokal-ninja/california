@@ -1,11 +1,11 @@
 id: 1190270936
-type: way
+type: node
 latitude: 36.83981
 longitude: -119.71153
 postcode: "93612"
 city: Clovis
-street: "West Herndon Avenue"
-housenumber: 155
+street: West Herndon Avenue
+housenumber: "155"
 phone: ""
 opening_hours: ""
 website: ""

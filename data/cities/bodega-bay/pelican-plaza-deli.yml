@@ -1,11 +1,11 @@
 id: 498112943
-type: way
+type: node
 latitude: 38.335
 longitude: -123.0485
 postcode: "94923"
 city: Bodega Bay
-street: "Highway 1"
-housenumber: 1400
-phone: "+1-707-875-2522"
+street: Highway 1
+housenumber: "1400"
+phone: +1-707-875-2522
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 681719734
-type: way
+type: node
 latitude: 33.92572
 longitude: -116.95437
 postcode: "92223"
 city: Beaumont
-street: "2nd Street"
-housenumber: 1482
+street: 2nd Street
+housenumber: "1482"
 phone: ""
 opening_hours: ""
 website: ""

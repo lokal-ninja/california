@@ -1,11 +1,11 @@
 id: 1071786790
-type: way
+type: node
 latitude: 37.27848
 longitude: -121.84939
 postcode: "95136"
 city: San Jose
-street: "Vistapark Drive"
-housenumber: 3900
+street: Vistapark Drive
+housenumber: "3900"
 phone: ""
 opening_hours: ""
 website: ""

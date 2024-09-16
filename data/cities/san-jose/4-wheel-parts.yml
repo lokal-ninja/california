@@ -1,11 +1,11 @@
 id: 762127342
-type: way
+type: node
 latitude: 37.32502
 longitude: -121.89952
 postcode: "95126"
 city: San Jose
-street: "West San Carlos Street"
-housenumber: 550
+street: West San Carlos Street
+housenumber: "550"
 phone: ""
 opening_hours: ""
-website: "https://www.4wheelparts.com/stores/store-info.aspx?sNo=19"
+website: https://www.4wheelparts.com/stores/store-info.aspx?sNo=19

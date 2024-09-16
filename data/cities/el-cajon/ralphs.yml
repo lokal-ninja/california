@@ -1,11 +1,11 @@
 id: 109689686
-type: way
+type: node
 latitude: 32.74457
 longitude: -116.93311
 postcode: "92019"
 city: El Cajon
-street: "Jamacha Road"
-housenumber: 2652
-phone: "+1 619-670-0101"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.ralphs.com/stores/details/703/00057"
+street: Jamacha Road
+housenumber: "2652"
+phone: +1 619-670-0101
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.ralphs.com/stores/details/703/00057

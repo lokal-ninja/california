@@ -1,11 +1,11 @@
 id: 333449107
-type: way
+type: node
 latitude: 33.66131
 longitude: -117.6712
 postcode: "92630"
 city: Lake Forest
-street: "Cañada Road"
-housenumber: 20700
+street: Cañada Road
+housenumber: "20700"
 phone: ""
 opening_hours: ""
 website: ""

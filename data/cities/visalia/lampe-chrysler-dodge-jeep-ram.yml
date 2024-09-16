@@ -1,11 +1,11 @@
 id: 1296091648
-type: way
+type: node
 latitude: 36.33072
 longitude: -119.39567
 postcode: "93291"
 city: Visalia
-street: "North Neeley Street"
-housenumber: 151
-phone: "+1 559 205 9266"
-opening_hours: "Mo-Sa 09:00-20:00; Su 11:00-18:00"
-website: "https://www.lampedodge.com/"
+street: North Neeley Street
+housenumber: "151"
+phone: +1 559 205 9266
+opening_hours: Mo-Sa 09:00-20:00; Su 11:00-18:00
+website: https://www.lampedodge.com/

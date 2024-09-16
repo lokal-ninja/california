@@ -4,8 +4,8 @@ latitude: 37.7974
 longitude: -122.42243
 postcode: "94109"
 city: San Francisco
-street: "Bonita Street"
-housenumber: 10
+street: Bonita Street
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

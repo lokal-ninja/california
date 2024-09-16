@@ -1,11 +1,11 @@
 id: 1172784212
-type: way
+type: node
 latitude: 32.8563
 longitude: -116.92802
 postcode: "92040"
 city: Lakeside
-street: "Woodside Avenue"
-housenumber: 12215
+street: Woodside Avenue
+housenumber: "12215"
 phone: ""
 opening_hours: ""
 website: ""

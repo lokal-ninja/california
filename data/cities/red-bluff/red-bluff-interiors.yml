@@ -1,11 +1,11 @@
 id: 658080662
-type: way
+type: node
 latitude: 40.17793
 longitude: -122.23691
 postcode: "96080"
 city: Red Bluff
-street: "Walnut Street"
-housenumber: 406
-phone: "+1 (530) 527-3801"
+street: Walnut Street
+housenumber: "406"
+phone: +1 (530) 527-3801
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 339372667
-type: way
+type: node
 latitude: 33.60289
 longitude: -117.90116
 postcode: "92661"
 city: Newport Beach
-street: "East Balboa Boulevard"
-housenumber: 510
+street: East Balboa Boulevard
+housenumber: "510"
 phone: ""
 opening_hours: ""
 website: ""

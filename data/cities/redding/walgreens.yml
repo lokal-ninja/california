@@ -1,11 +1,11 @@
 id: 402350142
-type: way
+type: node
 latitude: 40.57198
 longitude: -122.35392
 postcode: "96002"
 city: Redding
-street: "East Cypress Avenue"
-housenumber: 980
+street: East Cypress Avenue
+housenumber: "980"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-980+e+cypress+ave-redding-ca-96002/id=4243"
+website: https://www.walgreens.com/locator/walgreens-980+e+cypress+ave-redding-ca-96002/id=4243

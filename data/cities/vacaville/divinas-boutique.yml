@@ -1,11 +1,11 @@
 id: 960910066
-type: way
+type: node
 latitude: 38.35992
 longitude: -121.98134
 postcode: "95688"
 city: Vacaville
-street: "Markham Avenue"
-housenumber: 879
+street: Markham Avenue
+housenumber: "879"
 phone: ""
 opening_hours: ""
 website: ""

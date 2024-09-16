@@ -1,11 +1,11 @@
 id: 1313228248
-type: way
+type: node
 latitude: 33.82297
 longitude: -117.51825
 postcode: "92881"
 city: Corona
-street: "Tuscany Road"
-housenumber: 2430
-phone: "+1 951-817-9983"
+street: Tuscany Road
+housenumber: "2430"
+phone: +1 951-817-9983
 opening_hours: ""
-website: "https://stores.bestbuy.com/ca/corona/2430-tuscany-st-847.html"
+website: https://stores.bestbuy.com/ca/corona/2430-tuscany-st-847.html

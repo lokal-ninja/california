@@ -1,11 +1,11 @@
 id: 1204964211
-type: way
+type: node
 latitude: 33.57486
 longitude: -117.20356
 postcode: "92562"
 city: Murrieta
-street: "California Oaks Road"
-housenumber: 40555
+street: California Oaks Road
+housenumber: "40555"
 phone: ""
 opening_hours: ""
 website: ""

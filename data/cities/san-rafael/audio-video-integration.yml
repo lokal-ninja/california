@@ -1,11 +1,11 @@
 id: 977973991
-type: way
+type: node
 latitude: 37.96456
 longitude: -122.51217
 postcode: "94901"
 city: San Rafael
-street: "Francisco Boulevard East"
-housenumber: 647
+street: Francisco Boulevard East
+housenumber: "647"
 phone: ""
 opening_hours: ""
 website: ""

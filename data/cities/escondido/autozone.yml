@@ -1,11 +1,11 @@
 id: 65596287
-type: way
+type: node
 latitude: 33.10436
 longitude: -117.07537
 postcode: "92025"
 city: Escondido
-street: "West Felicita Avenue"
-housenumber: 440
+street: West Felicita Avenue
+housenumber: "440"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ca/escondido/440-w-felicita-ave--1.html"
+website: https://www.autozone.com/locations/ca/escondido/440-w-felicita-ave--1.html

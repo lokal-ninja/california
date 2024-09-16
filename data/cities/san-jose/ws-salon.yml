@@ -4,8 +4,8 @@ latitude: 37.3204
 longitude: -121.94935
 postcode: "95128"
 city: San Jose
-street: "Santana Row"
-housenumber: 377
-phone: "+1 408-247-8953"
-opening_hours: "Tu-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-19:00"
-website: "http://wssaloninc.com/"
+street: Santana Row
+housenumber: "377"
+phone: +1 408-247-8953
+opening_hours: Tu-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-19:00
+website: http://wssaloninc.com/

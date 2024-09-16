@@ -1,11 +1,11 @@
 id: 522369141
-type: way
+type: node
 latitude: 34.46841
 longitude: -117.24823
 postcode: "92308"
 city: Apple Valley
-street: "Bear Valley Road"
-housenumber: 19011
-phone: "+1 760-240-8119"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ca/apple-valley-store1733.html"
+street: Bear Valley Road
+housenumber: "19011"
+phone: +1 760-240-8119
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ca/apple-valley-store1733.html

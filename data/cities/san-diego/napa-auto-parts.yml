@@ -1,11 +1,11 @@
 id: 31817313
-type: way
+type: node
 latitude: 32.83493
 longitude: -117.1591
 postcode: "92111"
 city: San Diego
-street: "Convoy Court"
-housenumber: 7444
+street: Convoy Court
+housenumber: "7444"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 185035609
-type: way
+type: node
 latitude: 37.89022
 longitude: -122.29119
 postcode: "94706"
 city: Albany
-street: "Solano Avenue"
-housenumber: 1330
-phone: "(510) 526-3550"
-opening_hours: "Mo-Su 10:00-17:00"
-website: "https://flowerlandshop.com/"
+street: Solano Avenue
+housenumber: "1330"
+phone: (510) 526-3550
+opening_hours: Mo-Su 10:00-17:00
+website: https://flowerlandshop.com/

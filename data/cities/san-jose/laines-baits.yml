@@ -1,11 +1,11 @@
 id: 290780433
-type: way
+type: node
 latitude: 37.42799
 longitude: -121.97892
 postcode: "95002"
 city: San Jose
-street: "Elizabeth Street"
-housenumber: 907
+street: Elizabeth Street
+housenumber: "907"
 phone: ""
-opening_hours: "We-Fr 8:00-19:00, Sa 6:00-19:00"
+opening_hours: We-Fr 8:00-19:00, Sa 6:00-19:00
 website: ""

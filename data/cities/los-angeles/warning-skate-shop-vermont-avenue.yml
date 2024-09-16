@@ -4,8 +4,8 @@ latitude: 34.0304
 longitude: -118.2914
 postcode: "90007"
 city: Los Angeles
-street: "Vermont Avenue"
-housenumber: 2676
-phone: "+1-213-973-5367"
-opening_hours: "Mo-Tu 11:00-18:30; We off; Th-Sa 11:00-18:30; Su 11:00-16:00"
+street: Vermont Avenue
+housenumber: "2676"
+phone: +1-213-973-5367
+opening_hours: Mo-Tu 11:00-18:30; We off; Th-Sa 11:00-18:30; Su 11:00-16:00
 website: ""

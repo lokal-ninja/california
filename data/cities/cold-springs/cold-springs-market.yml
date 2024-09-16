@@ -1,11 +1,11 @@
 id: 1153597793
-type: way
+type: node
 latitude: 38.16184
 longitude: -120.05706
 postcode: "95355"
 city: Cold Springs
-street: "State Highway 108"
-housenumber: 29822
-phone: "+1 209 965 4242"
+street: State Highway 108
+housenumber: "29822"
+phone: +1 209 965 4242
 opening_hours: ""
 website: ""

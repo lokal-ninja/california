@@ -1,11 +1,11 @@
 id: 1153071810
-type: way
+type: node
 latitude: 36.81053
 longitude: -119.71493
 postcode: "93612"
 city: Clovis
-street: "West Shaw Avenue"
-housenumber: 239
+street: West Shaw Avenue
+housenumber: "239"
 phone: ""
 opening_hours: ""
 website: ""

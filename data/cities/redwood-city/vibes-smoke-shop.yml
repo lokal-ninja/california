@@ -1,11 +1,11 @@
 id: 240427376
-type: way
+type: node
 latitude: 37.48221
 longitude: -122.23038
 postcode: "94063"
 city: Redwood City
-street: "El Camino Real"
-housenumber: 1222
+street: El Camino Real
+housenumber: "1222"
 phone: ""
 opening_hours: ""
 website: ""

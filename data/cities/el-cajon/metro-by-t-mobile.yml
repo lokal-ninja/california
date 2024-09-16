@@ -1,11 +1,11 @@
 id: 961427375
-type: way
+type: node
 latitude: 32.81472
 longitude: -116.91789
 postcode: "92021"
 city: El Cajon
-street: "East Main Street"
-housenumber: 1776
+street: East Main Street
+housenumber: "1776"
 phone: ""
 opening_hours: ""
-website: "https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-el-cajon-ca-10277729/"
+website: https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-el-cajon-ca-10277729/

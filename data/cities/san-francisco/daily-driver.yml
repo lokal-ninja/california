@@ -4,8 +4,8 @@ latitude: 37.75736
 longitude: -122.38804
 postcode: "94107"
 city: San Francisco
-street: "3rd Street"
-housenumber: 2535
-phone: "+1 415-852-3535"
-opening_hours: "08:00-14:00"
-website: "https://dailydriver.com/"
+street: 3rd Street
+housenumber: "2535"
+phone: +1 415-852-3535
+opening_hours: 08:00-14:00
+website: https://dailydriver.com/

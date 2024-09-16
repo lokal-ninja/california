@@ -1,11 +1,11 @@
 id: 1301044650
-type: way
+type: node
 latitude: 36.85242
 longitude: -119.72912
 postcode: "93619"
 city: Clovis
-street: "North Willow Avenue"
-housenumber: 1235
+street: North Willow Avenue
+housenumber: "1235"
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
+opening_hours: Mo-Su 06:00-23:00
 website: ""

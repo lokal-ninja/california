@@ -1,11 +1,11 @@
 id: 1150059228
-type: way
+type: node
 latitude: 34.07686
 longitude: -117.66885
 postcode: "91762"
 city: Ontario
-street: "North Mountain Avenue"
-housenumber: 1000
+street: North Mountain Avenue
+housenumber: "1000"
 phone: ""
 opening_hours: ""
 website: ""

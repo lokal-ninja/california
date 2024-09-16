@@ -1,11 +1,11 @@
 id: 379432914
-type: way
+type: node
 latitude: 34.50757
 longitude: -117.32968
 postcode: "92392"
 city: Victorville
-street: "Palmdale Road"
-housenumber: 15330
+street: Palmdale Road
+housenumber: "15330"
 phone: ""
 opening_hours: ""
-website: "http://sunlandfordinc.com/"
+website: http://sunlandfordinc.com/

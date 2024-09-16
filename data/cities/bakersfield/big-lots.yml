@@ -1,11 +1,11 @@
 id: 59798122
-type: way
+type: node
 latitude: 35.39234
 longitude: -118.95919
 postcode: "93306"
 city: Bakersfield
-street: "Fashion Place"
-housenumber: 2621
-phone: "+1 661-871-1546"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/ca/bakersfield/2621-fashion-pl"
+street: Fashion Place
+housenumber: "2621"
+phone: +1 661-871-1546
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/ca/bakersfield/2621-fashion-pl

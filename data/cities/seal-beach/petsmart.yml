@@ -1,11 +1,11 @@
 id: 676206383
-type: way
+type: node
 latitude: 33.78341
 longitude: -118.0742
 postcode: "90740"
 city: Seal Beach
-street: "Seal Beach Boulevard"
-housenumber: 12341
-phone: "+1 562-340-0669"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ca/seal-beach-store2267.html"
+street: Seal Beach Boulevard
+housenumber: "12341"
+phone: +1 562-340-0669
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ca/seal-beach-store2267.html

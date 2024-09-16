@@ -1,11 +1,11 @@
 id: 978610982
-type: way
+type: node
 latitude: 34.07626
 longitude: -117.43435
 postcode: "92335"
 city: Fontana
-street: "Sierra Avenue"
-housenumber: 9773
+street: Sierra Avenue
+housenumber: "9773"
 phone: ""
-opening_hours: "Mo-Su 10:00-18:00; Tu off; Fr,Sa 10:00-18:30"
-website: "https://fontanaindoorswapmeet.com/"
+opening_hours: Mo-Su 10:00-18:00; Tu off; Fr,Sa 10:00-18:30
+website: https://fontanaindoorswapmeet.com/

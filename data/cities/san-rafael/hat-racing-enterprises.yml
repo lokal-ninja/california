@@ -1,11 +1,11 @@
 id: 978214814
-type: way
+type: node
 latitude: 37.96468
 longitude: -122.51037
 postcode: "94901"
 city: San Rafael
-street: "Mill Street"
-housenumber: 39
+street: Mill Street
+housenumber: "39"
 phone: ""
 opening_hours: ""
-website: "https://hatracing.com"
+website: https://hatracing.com

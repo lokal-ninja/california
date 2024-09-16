@@ -1,11 +1,11 @@
 id: 220404657
-type: way
+type: node
 latitude: 37.79493
 longitude: -122.25481
 postcode: ""
 city: Oakland
-street: "East 12th Street"
-housenumber: 501
+street: East 12th Street
+housenumber: "501"
 phone: ""
 opening_hours: ""
 website: ""

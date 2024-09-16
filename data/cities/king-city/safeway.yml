@@ -1,11 +1,11 @@
 id: 247252993
-type: way
+type: node
 latitude: 36.2047
 longitude: -121.13298
 postcode: "93930"
 city: King City
-street: "Canal Street"
-housenumber: 530
-phone: "+1 831-385-7820"
-opening_hours: "06:00-24:00"
-website: "https://local.safeway.com/safeway/ca/king-city/530-canal-st.html"
+street: Canal Street
+housenumber: "530"
+phone: +1 831-385-7820
+opening_hours: 06:00-24:00
+website: https://local.safeway.com/safeway/ca/king-city/530-canal-st.html

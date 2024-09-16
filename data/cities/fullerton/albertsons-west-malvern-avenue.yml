@@ -1,11 +1,11 @@
 id: 230292763
-type: way
+type: node
 latitude: 33.87806
 longitude: -117.96579
 postcode: "92833"
 city: Fullerton
-street: "West Malvern Avenue"
-housenumber: 2291
-phone: "+1 714-992-6099"
+street: West Malvern Avenue
+housenumber: "2291"
+phone: +1 714-992-6099
 opening_hours: ""
-website: "https://local.albertsons.com/ca/fullerton/2291-w-malvern-ave.html"
+website: https://local.albertsons.com/ca/fullerton/2291-w-malvern-ave.html

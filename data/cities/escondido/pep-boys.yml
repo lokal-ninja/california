@@ -1,11 +1,11 @@
 id: 143338577
-type: way
+type: node
 latitude: 33.12643
 longitude: -117.09705
 postcode: "92025"
 city: Escondido
-street: "West Mission Avenue"
-housenumber: 855
+street: West Mission Avenue
+housenumber: "855"
 phone: ""
 opening_hours: ""
-website: "https://www.pepboys.com/"
+website: https://www.pepboys.com/

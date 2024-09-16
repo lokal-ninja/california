@@ -1,11 +1,11 @@
 id: 61437877
-type: way
+type: node
 latitude: 36.82412
 longitude: -119.89636
 postcode: "93722"
 city: Fresno
-street: "West Bullard Avenue"
-housenumber: 5695
-phone: "+1 (559) 277-5250"
+street: West Bullard Avenue
+housenumber: "5695"
+phone: +1 (559) 277-5250
 opening_hours: ""
-website: "https://www.empire-storage.com/"
+website: https://www.empire-storage.com/

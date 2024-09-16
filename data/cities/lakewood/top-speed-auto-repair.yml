@@ -1,11 +1,11 @@
 id: 441195096
-type: way
+type: node
 latitude: 33.85395
 longitude: -118.16688
 postcode: "90712"
 city: Lakewood
-street: "Cherry Avenue"
-housenumber: 5384
+street: Cherry Avenue
+housenumber: "5384"
 phone: ""
 opening_hours: ""
 website: ""

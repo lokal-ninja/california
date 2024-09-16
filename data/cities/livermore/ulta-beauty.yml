@@ -4,8 +4,8 @@ latitude: 37.69635
 longitude: -121.84757
 postcode: "94551"
 city: Livermore
-street: "West Jack London Boulevard"
-housenumber: 3090
-phone: "+1 925-292-6709"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/livermore-ca-1385"
+street: West Jack London Boulevard
+housenumber: "3090"
+phone: +1 925-292-6709
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/livermore-ca-1385

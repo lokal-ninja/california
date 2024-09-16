@@ -1,11 +1,11 @@
 id: 982953972
-type: way
+type: node
 latitude: 33.96607
 longitude: -117.03772
 postcode: "92320"
 city: Calimesa
-street: "Cherry Valley Boulevard"
-housenumber: 1020
+street: Cherry Valley Boulevard
+housenumber: "1020"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 962064288
-type: way
+type: node
 latitude: 32.93379
 longitude: -117.04248
 postcode: "92064"
 city: Poway
-street: "Tech Center Court"
-housenumber: 11909
+street: Tech Center Court
+housenumber: "11909"
 phone: "+18583913700"
 opening_hours: ""
-website: "https://www.ferguson.com/branch/poway-ca-waterworks"
+website: https://www.ferguson.com/branch/poway-ca-waterworks

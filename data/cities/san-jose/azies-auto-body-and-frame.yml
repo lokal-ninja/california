@@ -1,11 +1,11 @@
 id: 227068818
-type: way
+type: node
 latitude: 37.3136
 longitude: -121.86321
 postcode: "95112"
 city: San Jose
-street: "Smith Avenue"
-housenumber: 1741
+street: Smith Avenue
+housenumber: "1741"
 phone: ""
 opening_hours: ""
 website: ""

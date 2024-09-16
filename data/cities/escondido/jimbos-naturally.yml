@@ -1,11 +1,11 @@
 id: 139195771
-type: way
+type: node
 latitude: 33.1043
 longitude: -117.07786
 postcode: "92025"
 city: Escondido
-street: "South Centre City Parkway"
-housenumber: 1633
+street: South Centre City Parkway
+housenumber: "1633"
 phone: ""
 opening_hours: ""
-website: "https://www.jimbos.com/"
+website: https://www.jimbos.com/

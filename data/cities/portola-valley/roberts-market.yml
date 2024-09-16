@@ -1,11 +1,11 @@
 id: 170181211
-type: way
+type: node
 latitude: 37.37311
 longitude: -122.20726
 postcode: "94028"
 city: Portola Valley
-street: "Alpine Road"
-housenumber: 4420
-phone: "650.851.1711"
+street: Alpine Road
+housenumber: "4420"
+phone: 650.851.1711
 opening_hours: ""
-website: "https://www.robertsmarket.com/"
+website: https://www.robertsmarket.com/

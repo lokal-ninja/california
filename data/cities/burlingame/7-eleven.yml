@@ -1,11 +1,11 @@
 id: 385951003
-type: way
+type: node
 latitude: 37.58713
 longitude: -122.35607
-postcode: "94010-2604"
+postcode: 94010-2604
 city: Burlingame
-street: "Rollins Road"
-housenumber: 975
-phone: "+1 650-347-1070"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ca/burlingame/975-rollins-rd-14316"
+street: Rollins Road
+housenumber: "975"
+phone: +1 650-347-1070
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ca/burlingame/975-rollins-rd-14316

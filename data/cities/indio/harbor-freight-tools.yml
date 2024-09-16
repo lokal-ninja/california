@@ -1,11 +1,11 @@
 id: 678458386
-type: way
+type: node
 latitude: 33.7142
 longitude: -116.23151
 postcode: "92201"
 city: Indio
-street: "Highway 111"
-housenumber: 82123
-phone: "+1 760-347-4433"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/82123-us-highway-111-indio-92201?number=411"
+street: Highway 111
+housenumber: "82123"
+phone: +1 760-347-4433
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/82123-us-highway-111-indio-92201?number=411

@@ -1,11 +1,11 @@
 id: 480252274
-type: way
+type: node
 latitude: 33.83923
 longitude: -118.04552
-postcode: "90623-2240"
+postcode: 90623-2240
 city: La Palma
-street: "Moody Street"
-housenumber: 8462
-phone: "+1 714-826-9841"
+street: Moody Street
+housenumber: "8462"
+phone: +1 714-826-9841
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/la-palma/8462-moody-street-20488"
+website: https://www.7-eleven.com/locations/ca/la-palma/8462-moody-street-20488

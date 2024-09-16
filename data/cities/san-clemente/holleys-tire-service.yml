@@ -1,11 +1,11 @@
 id: 404743643
-type: way
+type: node
 latitude: 33.43155
 longitude: -117.62126
 postcode: "92672"
 city: San Clemente
-street: "North El Camino Real"
-housenumber: 1225
+street: North El Camino Real
+housenumber: "1225"
 phone: ""
 opening_hours: ""
 website: ""

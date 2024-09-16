@@ -1,11 +1,11 @@
 id: 1258977101
-type: way
+type: node
 latitude: 34.10184
 longitude: -118.31322
 postcode: "90028"
 city: Hollywood
-street: "Hollywood Boulevard"
-housenumber: 5651
+street: Hollywood Boulevard
+housenumber: "5651"
 phone: ""
 opening_hours: ""
 website: ""

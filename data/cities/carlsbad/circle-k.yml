@@ -1,11 +1,11 @@
 id: 404268386
-type: way
+type: node
 latitude: 33.08764
 longitude: -117.26866
 postcode: "92009"
 city: Carlsbad
-street: "El Camino Real"
-housenumber: 7602
+street: El Camino Real
+housenumber: "7602"
 phone: ""
 opening_hours: ""
 website: ""

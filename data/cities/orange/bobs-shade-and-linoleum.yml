@@ -1,11 +1,11 @@
 id: 206237936
-type: way
+type: node
 latitude: 33.78778
 longitude: -117.85178
 postcode: "92866"
 city: Orange
-street: "East Chapman Avenue"
-housenumber: 208
-phone: "714-538-5322"
+street: East Chapman Avenue
+housenumber: "208"
+phone: 714-538-5322
 opening_hours: ""
-website: "http://www.bobsshade.com"
+website: http://www.bobsshade.com

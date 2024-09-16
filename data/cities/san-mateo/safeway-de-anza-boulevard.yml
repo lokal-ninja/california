@@ -1,11 +1,11 @@
 id: 239398795
-type: way
+type: node
 latitude: 37.5207
 longitude: -122.33826
 postcode: "94402"
 city: San Mateo
-street: "De Anza Boulevard"
-housenumber: 100
-phone: "+1 650-341-4039"
-opening_hours: "Mo-Su 05:00-26:00"
-website: "https://local.safeway.com/safeway/ca/san-mateo/100-de-anza-blvd.html"
+street: De Anza Boulevard
+housenumber: "100"
+phone: +1 650-341-4039
+opening_hours: Mo-Su 05:00-26:00
+website: https://local.safeway.com/safeway/ca/san-mateo/100-de-anza-blvd.html

@@ -1,11 +1,11 @@
 id: 46418773
-type: way
+type: node
 latitude: 33.72334
 longitude: -116.39777
 postcode: "92260"
 city: Palm Desert
-street: "Highway 111"
-housenumber: 72840
-phone: "760-346-2121"
+street: Highway 111
+housenumber: "72840"
+phone: 760-346-2121
 opening_hours: ""
-website: "https://www.shopsatpalmdesert.com/"
+website: https://www.shopsatpalmdesert.com/

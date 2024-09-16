@@ -1,11 +1,11 @@
 id: 133175232
-type: way
+type: node
 latitude: 34.28083
 longitude: -118.76339
 postcode: "93065"
 city: Simi Valley
-street: "East Cochran Street"
-housenumber: 1855
-phone: "+1 805-522-9394"
+street: East Cochran Street
+housenumber: "1855"
+phone: +1 805-522-9394
 opening_hours: ""
-website: "https://local.vons.com/ca/simi-valley/1855-e-cochran-st.html"
+website: https://local.vons.com/ca/simi-valley/1855-e-cochran-st.html

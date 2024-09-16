@@ -1,11 +1,11 @@
 id: 311720089
-type: way
+type: node
 latitude: 37.07388
 longitude: -120.83578
 postcode: "93635"
 city: Los Banos
-street: "Mercey Springs Road"
-housenumber: 403
+street: Mercey Springs Road
+housenumber: "403"
 phone: ""
 opening_hours: ""
 website: ""

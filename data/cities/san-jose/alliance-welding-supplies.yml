@@ -1,11 +1,11 @@
 id: 39018091
-type: way
+type: node
 latitude: 37.32852
 longitude: -121.90044
 postcode: "95110"
 city: San Jose
-street: "South Montgomery Street"
-housenumber: 140
+street: South Montgomery Street
+housenumber: "140"
 phone: ""
 opening_hours: ""
-website: "http://www.alliancegas.com/"
+website: http://www.alliancegas.com/

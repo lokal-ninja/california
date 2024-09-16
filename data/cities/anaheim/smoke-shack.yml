@@ -1,11 +1,11 @@
 id: 645069245
-type: way
+type: node
 latitude: 33.83031
 longitude: -117.93077
 postcode: "92802"
 city: Anaheim
-street: "South Manchester Avenue"
-housenumber: 203
+street: South Manchester Avenue
+housenumber: "203"
 phone: ""
 opening_hours: ""
 website: ""

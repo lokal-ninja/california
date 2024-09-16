@@ -4,8 +4,8 @@ latitude: 32.77588
 longitude: -117.15543
 postcode: "92108"
 city: San Diego
-street: "Mission Center Road"
-housenumber: 5680
-phone: "+1 619-297-2593"
-opening_hours: "Mo-Su 05:00-01:00"
-website: "https://www.ralphs.com/stores/grocery/ca/san-diego/friars-mission-center/703/00077"
+street: Mission Center Road
+housenumber: "5680"
+phone: +1 619-297-2593
+opening_hours: Mo-Su 05:00-01:00
+website: https://www.ralphs.com/stores/grocery/ca/san-diego/friars-mission-center/703/00077

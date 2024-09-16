@@ -1,11 +1,11 @@
 id: 1021217454
-type: way
+type: node
 latitude: 38.62789
 longitude: -122.87294
 postcode: ""
 city: Healdsburg
-street: "Healdsburg Avenue"
-housenumber: 1395
+street: Healdsburg Avenue
+housenumber: "1395"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 161393281
-type: way
+type: node
 latitude: 33.74137
 longitude: -116.22469
 postcode: "92203"
 city: Indio
-street: "Spectrum Street"
-housenumber: 42250
+street: Spectrum Street
+housenumber: "42250"
 phone: ""
 opening_hours: ""
 website: ""

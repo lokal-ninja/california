@@ -1,11 +1,11 @@
 id: 961774497
-type: way
+type: node
 latitude: 39.23539
 longitude: -121.03508
 postcode: "95945"
 city: Grass Valley
-street: "Sutton Way"
-housenumber: 880
+street: Sutton Way
+housenumber: "880"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-880+sutton+way-grass+valley-ca-95945/id=10881"
+website: https://www.walgreens.com/locator/walgreens-880+sutton+way-grass+valley-ca-95945/id=10881

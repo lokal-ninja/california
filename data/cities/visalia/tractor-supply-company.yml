@@ -1,11 +1,11 @@
 id: 1307112706
-type: way
+type: node
 latitude: 36.35784
 longitude: -119.29907
 postcode: "93291"
 city: Visalia
-street: "West Riggin Avenue"
-housenumber: 648
+street: West Riggin Avenue
+housenumber: "648"
 phone: ""
-opening_hours: "Mo-Su 08:00-19:00"
+opening_hours: Mo-Su 08:00-19:00
 website: ""

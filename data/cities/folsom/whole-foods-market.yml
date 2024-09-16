@@ -1,11 +1,11 @@
 id: 156575051
-type: way
+type: node
 latitude: 38.64878
 longitude: -121.11866
 postcode: "95630"
 city: Folsom
-street: "Palladio Parkway"
-housenumber: 270
-phone: "+1 916-984-8500"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.wholefoodsmarket.com/stores/folsom"
+street: Palladio Parkway
+housenumber: "270"
+phone: +1 916-984-8500
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.wholefoodsmarket.com/stores/folsom

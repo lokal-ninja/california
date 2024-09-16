@@ -1,11 +1,11 @@
 id: 311696080
-type: way
+type: node
 latitude: 37.40901
 longitude: -120.85043
 postcode: "95324"
 city: Hilmar
-street: "North Lander Avenue"
-housenumber: 8329
+street: North Lander Avenue
+housenumber: "8329"
 phone: ""
 opening_hours: ""
 website: ""

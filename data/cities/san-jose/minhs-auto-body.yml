@@ -1,11 +1,11 @@
 id: 358292675
-type: way
+type: node
 latitude: 37.32643
 longitude: -121.89662
 postcode: "95126"
 city: San Jose
-street: "West San Carlos Street"
-housenumber: 452
+street: West San Carlos Street
+housenumber: "452"
 phone: ""
 opening_hours: ""
-website: "https://www.minhsautobodysj.com/"
+website: https://www.minhsautobodysj.com/

@@ -1,11 +1,11 @@
 id: 849978148
-type: way
+type: node
 latitude: 36.83385
 longitude: -119.90981
 postcode: "93722"
 city: Fresno
-street: "North Riverside Drive"
-housenumber: 6563
-phone: "+1 559-275-1205"
-opening_hours: "Mo,Fr-Sa 09:00-21:00; Tu-Th,Su 10:00-20:00;"
-website: "https://www.mattressfirm.com/en-us/stores/ca/fresno/504030/"
+street: North Riverside Drive
+housenumber: "6563"
+phone: +1 559-275-1205
+opening_hours: Mo,Fr-Sa 09:00-21:00; Tu-Th,Su 10:00-20:00;
+website: https://www.mattressfirm.com/en-us/stores/ca/fresno/504030/

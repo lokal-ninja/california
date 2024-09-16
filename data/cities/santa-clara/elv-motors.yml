@@ -1,11 +1,11 @@
 id: 1044084297
-type: way
+type: node
 latitude: 37.35195
 longitude: -121.96592
 postcode: "95050"
 city: Santa Clara
-street: "El Camino Real"
-housenumber: 2332
-phone: "+1-888-612-9883"
+street: El Camino Real
+housenumber: "2332"
+phone: +1-888-612-9883
 opening_hours: ""
-website: "https://www.elvmotors.com/"
+website: https://www.elvmotors.com/

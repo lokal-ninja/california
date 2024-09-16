@@ -1,11 +1,11 @@
 id: 575147424
-type: way
+type: node
 latitude: 38.57892
 longitude: -121.48148
-postcode: "95811-3003"
+postcode: 95811-3003
 city: Sacramento
-street: "I Street"
-housenumber: 1815
-phone: "+1 916-446-5246"
-opening_hours: "Mo-Sa 08:00-18:00; Su 09:00-17:00"
+street: I Street
+housenumber: "1815"
+phone: +1 916-446-5246
+opening_hours: Mo-Sa 08:00-18:00; Su 09:00-17:00
 website: ""

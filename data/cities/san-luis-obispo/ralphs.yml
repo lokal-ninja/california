@@ -1,11 +1,11 @@
 id: 45637750
-type: way
+type: node
 latitude: 35.26305
 longitude: -120.67562
 postcode: "93405"
 city: San Luis Obispo
-street: "Madonna Road"
-housenumber: 201
-phone: "+1 805-546-0407"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.ralphs.com/stores/grocery/ca/san-luis-obispo/madonna-plaza/703/00656"
+street: Madonna Road
+housenumber: "201"
+phone: +1 805-546-0407
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.ralphs.com/stores/grocery/ca/san-luis-obispo/madonna-plaza/703/00656

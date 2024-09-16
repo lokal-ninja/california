@@ -1,11 +1,11 @@
 id: 44394063
-type: way
+type: node
 latitude: 40.87137
 longitude: -124.0847
 postcode: "95521"
 city: Arcata
-street: "G Street"
-housenumber: 1210
+street: G Street
+housenumber: "1210"
 phone: ""
-opening_hours: "Mo-Fr 07:30-22:00; Sa, Su 08:00-22:00"
-website: "www.emeraldcitylaundry.com"
+opening_hours: Mo-Fr 07:30-22:00; Sa, Su 08:00-22:00
+website: www.emeraldcitylaundry.com

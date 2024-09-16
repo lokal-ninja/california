@@ -1,11 +1,11 @@
 id: 1061877474
-type: way
+type: node
 latitude: 33.84688
 longitude: -117.9062
 postcode: "92805"
 city: Anaheim
-street: "East North Street"
-housenumber: 775
-phone: "+1 714-991-9291"
+street: East North Street
+housenumber: "775"
+phone: +1 714-991-9291
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/anaheim/775-north-east-st-17032"
+website: https://www.7-eleven.com/locations/ca/anaheim/775-north-east-st-17032

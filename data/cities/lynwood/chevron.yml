@@ -1,11 +1,11 @@
 id: 416631111
-type: way
+type: node
 latitude: 33.93057
 longitude: -118.1846
 postcode: "90262"
 city: Lynwood
-street: "East Imperial Highway"
-housenumber: 4346
+street: East Imperial Highway
+housenumber: "4346"
 phone: ""
 opening_hours: ""
 website: ""

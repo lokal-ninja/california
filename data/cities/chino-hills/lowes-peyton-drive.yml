@@ -1,11 +1,11 @@
 id: 737473139
-type: way
+type: node
 latitude: 34.01377
 longitude: -117.74115
 postcode: "91709"
 city: Chino Hills
-street: "Peyton Drive"
-housenumber: 13251
-phone: "+1 909-627-6039"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/ca-chino-hills/0316"
+street: Peyton Drive
+housenumber: "13251"
+phone: +1 909-627-6039
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/ca-chino-hills/0316

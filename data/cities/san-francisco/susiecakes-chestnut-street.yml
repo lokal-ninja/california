@@ -4,8 +4,8 @@ latitude: 37.80046
 longitude: -122.43821
 postcode: "94123"
 city: San Francisco
-street: "Chestnut Street"
-housenumber: 2109
+street: Chestnut Street
+housenumber: "2109"
 phone: ""
-opening_hours: "We-Su 11:00-18:00"
-website: "https://susiecakes.com/stores/san-francisco/"
+opening_hours: We-Su 11:00-18:00
+website: https://susiecakes.com/stores/san-francisco/

@@ -1,11 +1,11 @@
 id: 401860854
-type: way
+type: node
 latitude: 33.24409
 longitude: -117.32348
 postcode: "92058"
 city: Oceanside
-street: "Douglas Drive"
-housenumber: 604
+street: Douglas Drive
+housenumber: "604"
 phone: ""
 opening_hours: ""
 website: ""

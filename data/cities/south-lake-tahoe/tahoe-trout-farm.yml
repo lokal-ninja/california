@@ -1,11 +1,11 @@
 id: 1215624711
-type: way
+type: node
 latitude: 38.93044
 longitude: -119.97869
 postcode: "96150"
 city: South Lake Tahoe
-street: "Blue Lake Avenue"
-housenumber: 1023
+street: Blue Lake Avenue
+housenumber: "1023"
 phone: "+15305411491"
 opening_hours: ""
-website: "https://tahoetroutfarm.com/"
+website: https://tahoetroutfarm.com/

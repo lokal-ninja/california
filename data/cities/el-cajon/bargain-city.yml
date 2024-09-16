@@ -1,11 +1,11 @@
 id: 993792472
-type: way
+type: node
 latitude: 32.78862
 longitude: -116.92983
 postcode: "92019"
 city: El Cajon
-street: "Jamacha Road"
-housenumber: 670
+street: Jamacha Road
+housenumber: "670"
 phone: ""
 opening_hours: ""
 website: ""

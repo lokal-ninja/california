@@ -1,11 +1,11 @@
 id: 1024125230
-type: way
+type: node
 latitude: 32.56766
 longitude: -116.99635
 postcode: "92154"
 city: San Diego
-street: "Heritage Road"
-housenumber: 1625
+street: Heritage Road
+housenumber: "1625"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 33620585
-type: way
+type: node
 latitude: 37.87313
 longitude: -122.27363
 postcode: ""
 city: Berkeley
-street: "Martin Luther King Junior Way"
-housenumber: 1900
+street: Martin Luther King Junior Way
+housenumber: "1900"
 phone: ""
 opening_hours: ""
 website: ""

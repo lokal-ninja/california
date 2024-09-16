@@ -1,11 +1,11 @@
 id: 240593348
-type: way
+type: node
 latitude: 37.47118
 longitude: -122.21484
 postcode: "94061"
 city: Redwood City
-street: "El Camino Real"
-housenumber: 2750
-phone: "(888) 848-5754"
+street: El Camino Real
+housenumber: "2750"
+phone: (888) 848-5754
 opening_hours: ""
-website: "https://www.ferrarisiliconvalley.com/"
+website: https://www.ferrarisiliconvalley.com/

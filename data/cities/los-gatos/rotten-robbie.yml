@@ -1,11 +1,11 @@
 id: 206913228
-type: way
+type: node
 latitude: 37.24613
 longitude: -121.95843
 postcode: "95032"
 city: Los Gatos
-street: "Los Gatos Boulevard"
-housenumber: 15299
+street: Los Gatos Boulevard
+housenumber: "15299"
 phone: ""
 opening_hours: ""
 website: ""

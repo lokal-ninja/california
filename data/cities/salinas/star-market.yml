@@ -4,8 +4,8 @@ latitude: 36.65585
 longitude: -121.65891
 postcode: "93901"
 city: Salinas
-street: "South Main Street"
-housenumber: 1275
+street: South Main Street
+housenumber: "1275"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:30; Su 10:00-19:00"
-website: "https://www.starmkt.com/"
+opening_hours: Mo-Sa 08:30-20:30; Su 10:00-19:00
+website: https://www.starmkt.com/

@@ -1,11 +1,11 @@
 id: 240594600
-type: way
+type: node
 latitude: 37.47396
 longitude: -122.21988
 postcode: "94063"
 city: Redwood City
-street: "El Camino Real"
-housenumber: 2406
-phone: "(650) 366-6367"
+street: El Camino Real
+housenumber: "2406"
+phone: (650) 366-6367
 opening_hours: ""
-website: "http://www.svdp-sanmateoco.org"
+website: http://www.svdp-sanmateoco.org

@@ -1,11 +1,11 @@
 id: 23792255
-type: way
+type: node
 latitude: 37.25289
 longitude: -121.8795
 postcode: "95118"
 city: San Jose
-street: "Almaden Expressway"
-housenumber: 5301
-phone: "+1 408-723-0964"
-opening_hours: "Mo-Fr 09:00-20:30; Sa-Su 09:00-19:00"
-website: "https://www.costco.com/warehouse-locations/almaden-san-jose-ca-470.html"
+street: Almaden Expressway
+housenumber: "5301"
+phone: +1 408-723-0964
+opening_hours: Mo-Fr 09:00-20:30; Sa-Su 09:00-19:00
+website: https://www.costco.com/warehouse-locations/almaden-san-jose-ca-470.html

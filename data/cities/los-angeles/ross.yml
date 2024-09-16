@@ -4,8 +4,8 @@ latitude: 34.09744
 longitude: -118.34333
 postcode: "90028"
 city: Los Angeles
-street: "West Sunset Boulevard"
-housenumber: 7060
-phone: "+1 323-465-0738"
-opening_hours: "09:00-22:00"
+street: West Sunset Boulevard
+housenumber: "7060"
+phone: +1 323-465-0738
+opening_hours: 09:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 324619356
-type: way
+type: node
 latitude: 37.38102
 longitude: -121.90207
 postcode: "95131"
 city: San Jose
-street: "Ridder Park Drive"
-housenumber: 775
-phone: "+1 408-518-4165"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/ca-san-jose/2790"
+street: Ridder Park Drive
+housenumber: "775"
+phone: +1 408-518-4165
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.lowes.com/store/ca-san-jose/2790

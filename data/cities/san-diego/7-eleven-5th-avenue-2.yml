@@ -4,8 +4,8 @@ latitude: 32.71073
 longitude: -117.15997
 postcode: "92101"
 city: San Diego
-street: "5th Avenue"
-housenumber: 515
-phone: "+1 619-744-9953"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ca/san-diego/515-5th-ave-35998"
+street: 5th Avenue
+housenumber: "515"
+phone: +1 619-744-9953
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ca/san-diego/515-5th-ave-35998

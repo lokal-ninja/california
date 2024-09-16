@@ -1,11 +1,11 @@
 id: 261102268
-type: way
+type: node
 latitude: 37.76424
 longitude: -122.41665
 postcode: "94110"
 city: San Francisco
-street: "Shotwell Street"
-housenumber: 274
+street: Shotwell Street
+housenumber: "274"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 31827719
-type: way
+type: node
 latitude: 38.00593
 longitude: -121.83342
 postcode: "94509"
 city: Antioch
-street: "Auto Center Drive"
-housenumber: 1951
-phone: "+1 925-756-0370"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/ca-antioch/1043"
+street: Auto Center Drive
+housenumber: "1951"
+phone: +1 925-756-0370
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/ca-antioch/1043

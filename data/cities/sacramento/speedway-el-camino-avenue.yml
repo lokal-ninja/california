@@ -1,11 +1,11 @@
 id: 994098162
-type: way
+type: node
 latitude: 38.61123
 longitude: -121.41091
 postcode: "95821"
 city: Sacramento
-street: "El Camino Avenue"
-housenumber: 2281
+street: El Camino Avenue
+housenumber: "2281"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/CA/Sacramento/2281-EL-CAMINO-AVE"
+website: https://www.speedway.com/locations/CA/Sacramento/2281-EL-CAMINO-AVE

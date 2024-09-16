@@ -1,11 +1,11 @@
 id: 426204551
-type: way
+type: node
 latitude: 34.74382
 longitude: -120.27694
 postcode: "93440"
 city: Los Alamos
-street: "Bell Street"
-housenumber: 550
+street: Bell Street
+housenumber: "550"
 phone: ""
 opening_hours: ""
 website: ""

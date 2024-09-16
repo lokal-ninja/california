@@ -1,11 +1,11 @@
 id: 1248692543
-type: way
+type: node
 latitude: 33.97724
 longitude: -118.23648
 postcode: "90001"
 city: Huntington Park
-street: "Alameda Street"
-housenumber: 6911
-phone: "+1-323-642-3681"
-opening_hours: "Mo-Fr 06:00-18:00; Sa-Su 06:00-17:00"
-website: "https://www.publicstorage.com/self-storage-ca-huntington-park/5269.html"
+street: Alameda Street
+housenumber: "6911"
+phone: +1-323-642-3681
+opening_hours: Mo-Fr 06:00-18:00; Sa-Su 06:00-17:00
+website: https://www.publicstorage.com/self-storage-ca-huntington-park/5269.html

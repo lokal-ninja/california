@@ -1,11 +1,11 @@
 id: 785506769
-type: way
+type: node
 latitude: 37.36111
 longitude: -121.83707
 postcode: "95116"
 city: San Jose
-street: "Alum Rock Avenue"
-housenumber: 2606
+street: Alum Rock Avenue
+housenumber: "2606"
 phone: ""
 opening_hours: ""
 website: ""

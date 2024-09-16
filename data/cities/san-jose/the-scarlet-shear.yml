@@ -4,8 +4,8 @@ latitude: 37.35379
 longitude: -121.8911
 postcode: "95112"
 city: San Jose
-street: "East Taylor Street"
-housenumber: 415
+street: East Taylor Street
+housenumber: "415"
 phone: ""
 opening_hours: ""
-website: "https://www.thescarletshear.com/home"
+website: https://www.thescarletshear.com/home

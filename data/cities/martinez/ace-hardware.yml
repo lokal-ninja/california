@@ -1,11 +1,11 @@
 id: 509324189
-type: way
+type: node
 latitude: 38.00996
 longitude: -122.10165
-postcode: "94553-2129"
+postcode: 94553-2129
 city: Martinez
-street: "Pacheco Boulevard"
-housenumber: 3610
-phone: "+1 925-228-6135"
-opening_hours: "Mo-Sa 07:00-19:00; Su 08:00-19:00"
+street: Pacheco Boulevard
+housenumber: "3610"
+phone: +1 925-228-6135
+opening_hours: Mo-Sa 07:00-19:00; Su 08:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 269074495
-type: way
+type: node
 latitude: 34.64692
 longitude: -120.45899
 postcode: "93436"
 city: Lompoc
-street: "West College Avenue"
-housenumber: 128
+street: West College Avenue
+housenumber: "128"
 phone: ""
-opening_hours: "10:00-16:00"
+opening_hours: 10:00-16:00
 website: ""

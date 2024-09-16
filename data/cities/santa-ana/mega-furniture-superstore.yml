@@ -1,11 +1,11 @@
 id: 333129853
-type: way
+type: node
 latitude: 33.74789
 longitude: -117.86448
 postcode: "92701"
 city: Santa Ana
-street: "East 4th Street"
-housenumber: 400
-phone: "+1 (714) 973-2000"
+street: East 4th Street
+housenumber: "400"
+phone: +1 (714) 973-2000
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 34.06714
 longitude: -118.23594
 postcode: "90012"
 city: Los Angeles
-street: "North Broadway"
-housenumber: 1001
+street: North Broadway
+housenumber: "1001"
 phone: ""
-opening_hours: "Su-Th 12:00-18:00; Fr-Sa 12:00-20:00"
-website: "https://owslagoods.com/pages/stores"
+opening_hours: Su-Th 12:00-18:00; Fr-Sa 12:00-20:00
+website: https://owslagoods.com/pages/stores

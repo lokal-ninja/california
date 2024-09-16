@@ -1,11 +1,11 @@
 id: 286961703
-type: way
+type: node
 latitude: 38.36563
 longitude: -121.96081
 postcode: "95687"
 city: Vacaville
-street: "Helen Power Drive"
-housenumber: 1010
+street: Helen Power Drive
+housenumber: "1010"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00, Sa 09:00-19:00, Su 10:00-18:00"
-website: "https://stores.staples.com/ca/vacaville/1010-helen-power-dr"
+opening_hours: Mo-Fr 08:00-21:00, Sa 09:00-19:00, Su 10:00-18:00
+website: https://stores.staples.com/ca/vacaville/1010-helen-power-dr

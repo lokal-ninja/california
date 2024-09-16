@@ -1,11 +1,11 @@
 id: 916464637
-type: way
+type: node
 latitude: 32.90819
 longitude: -117.17525
 postcode: "92121"
 city: San Diego
-street: "Mira Mesa Boulevard"
-housenumber: 6690
+street: Mira Mesa Boulevard
+housenumber: "6690"
 phone: "8584530100"
 opening_hours: ""
-website: "https://www.sandiegoselfstorage.com/self-storage/ca/san-diego/sorrento-mesa-self-storage/#/units?category=Small"
+website: https://www.sandiegoselfstorage.com/self-storage/ca/san-diego/sorrento-mesa-self-storage/#/units?category=Small

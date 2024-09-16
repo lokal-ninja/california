@@ -1,11 +1,11 @@
 id: 95038476
-type: way
+type: node
 latitude: 33.12291
 longitude: -117.08064
 postcode: "92025"
 city: Escondido
-street: "North Kalmia Street"
-housenumber: 125
+street: North Kalmia Street
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

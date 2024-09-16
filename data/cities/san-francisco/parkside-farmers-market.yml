@@ -1,11 +1,11 @@
 id: 278909610
-type: way
+type: node
 latitude: 37.74287
 longitude: -122.47216
 postcode: "94116"
 city: San Francisco
-street: "Taraval Street"
-housenumber: 555
+street: Taraval Street
+housenumber: "555"
 phone: ""
-opening_hours: "Mo-Sa 07:00-19:00; Su 07:00-18:00"
-website: "http://www.parksidefarmersmarket.com/"
+opening_hours: Mo-Sa 07:00-19:00; Su 07:00-18:00
+website: http://www.parksidefarmersmarket.com/

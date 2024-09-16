@@ -1,11 +1,11 @@
 id: 1119249654
-type: way
+type: node
 latitude: 41.82773
 longitude: -122.00696
 postcode: "96058"
 city: Macdoel
-street: "US 97"
-housenumber: 41501
+street: US 97
+housenumber: "41501"
 phone: ""
 opening_hours: ""
 website: ""

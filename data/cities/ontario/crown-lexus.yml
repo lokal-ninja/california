@@ -4,8 +4,8 @@ latitude: 34.0544
 longitude: -117.54552
 postcode: "91761"
 city: Ontario
-street: "Kettering Drive"
-housenumber: 1125
-phone: "+1 909-581-8676"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-20:00"
-website: "https://www.crownlexus.com"
+street: Kettering Drive
+housenumber: "1125"
+phone: +1 909-581-8676
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-20:00
+website: https://www.crownlexus.com

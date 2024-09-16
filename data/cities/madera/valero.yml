@@ -1,11 +1,11 @@
 id: 765926337
-type: way
+type: node
 latitude: 36.99604
 longitude: -120.07389
 postcode: "93638"
 city: Madera
-street: "Road 26"
-housenumber: 16981
+street: Road 26
+housenumber: "16981"
 phone: ""
 opening_hours: ""
 website: ""

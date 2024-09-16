@@ -1,11 +1,11 @@
 id: 195234824
-type: way
+type: node
 latitude: 33.87444
 longitude: -117.90426
 postcode: "92831"
 city: Fullerton
-street: "East Chapman Avenue"
-housenumber: 1301
-phone: "+1 714-992-0711"
+street: East Chapman Avenue
+housenumber: "1301"
+phone: +1 714-992-0711
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/fullerton/1301-chapman-ave-39462"
+website: https://www.7-eleven.com/locations/ca/fullerton/1301-chapman-ave-39462

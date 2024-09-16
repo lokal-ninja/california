@@ -4,8 +4,8 @@ latitude: 32.79221
 longitude: -117.10002
 postcode: "92120"
 city: San Diego
-street: "Friars Road"
-housenumber: 10350
-phone: "619-563-9990"
-opening_hours: "Mo-Su 10:00-20:00"
-website: "https://www.cvs.com/store-locator/san-diego-ca-pharmacies/10350-friars-rd-san-diego-ca-92120/storeid=9154"
+street: Friars Road
+housenumber: "10350"
+phone: 619-563-9990
+opening_hours: Mo-Su 10:00-20:00
+website: https://www.cvs.com/store-locator/san-diego-ca-pharmacies/10350-friars-rd-san-diego-ca-92120/storeid=9154

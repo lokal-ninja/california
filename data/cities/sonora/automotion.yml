@@ -1,11 +1,11 @@
 id: 582650734
-type: way
+type: node
 latitude: 37.99836
 longitude: -120.27037
 postcode: "95370"
 city: Sonora
-street: "Longeway Road"
-housenumber: 20722
-phone: "+1-209-533-2886"
-opening_hours: "Mo-Th 08:00-18:00"
-website: "https://automotion-sonora.com/"
+street: Longeway Road
+housenumber: "20722"
+phone: +1-209-533-2886
+opening_hours: Mo-Th 08:00-18:00
+website: https://automotion-sonora.com/

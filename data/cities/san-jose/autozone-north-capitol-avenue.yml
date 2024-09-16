@@ -1,11 +1,11 @@
 id: 771188520
-type: way
+type: node
 latitude: 37.38824
 longitude: -121.86188
 postcode: "95132"
 city: San Jose
-street: "North Capitol Avenue"
-housenumber: 1204
+street: North Capitol Avenue
+housenumber: "1204"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa,Su 08:00-20:00"
-website: "https://www.autozone.com/locations/ca/san-jose/1204-n-capitol-ave.html"
+opening_hours: Mo-Fr 08:00-21:00; Sa,Su 08:00-20:00
+website: https://www.autozone.com/locations/ca/san-jose/1204-n-capitol-ave.html

@@ -1,11 +1,11 @@
 id: 244375239
-type: way
+type: node
 latitude: 34.40136
 longitude: -119.72293
 postcode: "93109"
 city: Santa Barbara
-street: "Cliff Drive"
-housenumber: 1909
-phone: "+1 805-965-7415"
+street: Cliff Drive
+housenumber: "1909"
+phone: +1 805-965-7415
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/santa-barbara/1909-cliff-dr-13900"
+website: https://www.7-eleven.com/locations/ca/santa-barbara/1909-cliff-dr-13900

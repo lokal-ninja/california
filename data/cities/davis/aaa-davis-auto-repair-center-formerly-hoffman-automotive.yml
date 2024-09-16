@@ -1,11 +1,11 @@
 id: 181386515
-type: way
+type: node
 latitude: 38.54888
 longitude: -121.7188
 postcode: "95618"
 city: Davis
-street: "2nd Street"
-housenumber: 2613
-phone: "(530) 753-7202"
-opening_hours: "Mo-Fr 07:30-17:30"
-website: "https://mwg.aaa.com/agent-office-locations/ca/davis/aaa-davis-auto-repair-center"
+street: 2nd Street
+housenumber: "2613"
+phone: (530) 753-7202
+opening_hours: Mo-Fr 07:30-17:30
+website: https://mwg.aaa.com/agent-office-locations/ca/davis/aaa-davis-auto-repair-center

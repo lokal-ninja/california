@@ -1,11 +1,11 @@
 id: 784083451
-type: way
+type: node
 latitude: 38.34694
 longitude: -122.72368
 postcode: "94928"
 city: Rohnert Park
-street: "Rohnert Park Expressway"
-housenumber: 575
-phone: "+1 707-586-1891"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ca/rohnert-park-store0047.html"
+street: Rohnert Park Expressway
+housenumber: "575"
+phone: +1 707-586-1891
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ca/rohnert-park-store0047.html

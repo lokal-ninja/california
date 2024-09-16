@@ -1,11 +1,11 @@
 id: 978576374
-type: way
+type: node
 latitude: 38.93553
 longitude: -121.09208
 postcode: "95603"
 city: Auburn
-street: "Grass Valley Highway"
-housenumber: 2288
-phone: "+1-530-885-8020"
-opening_hours: "Mo-Sa 10:00-17:00"
-website: "https://ropersjewelers.com/jewelry/"
+street: Grass Valley Highway
+housenumber: "2288"
+phone: +1-530-885-8020
+opening_hours: Mo-Sa 10:00-17:00
+website: https://ropersjewelers.com/jewelry/

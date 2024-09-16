@@ -1,11 +1,11 @@
 id: 407317980
-type: way
+type: node
 latitude: 33.97431
 longitude: -118.30209
 postcode: "90047"
 city: Los Angeles
-street: "West Florence Avenue"
-housenumber: 1448
+street: West Florence Avenue
+housenumber: "1448"
 phone: ""
 opening_hours: ""
 website: ""

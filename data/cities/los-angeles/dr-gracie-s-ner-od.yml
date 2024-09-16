@@ -1,11 +1,11 @@
 id: 428412775
-type: way
+type: node
 latitude: 34.11753
 longitude: -118.26169
 postcode: "90039"
 city: Los Angeles
-street: "Glendale Boulevard"
-housenumber: 3171
+street: Glendale Boulevard
+housenumber: "3171"
 phone: ""
 opening_hours: ""
 website: ""

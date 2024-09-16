@@ -1,11 +1,11 @@
 id: 276061216
-type: way
+type: node
 latitude: 37.74849
 longitude: -122.41577
 postcode: ""
 city: San Francisco
-street: "South Van Ness Avenue"
-housenumber: 1575
+street: South Van Ness Avenue
+housenumber: "1575"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ca/san-francisco/1575-s-van-ness-ave.html"
+website: https://www.autozone.com/locations/ca/san-francisco/1575-s-van-ness-ave.html

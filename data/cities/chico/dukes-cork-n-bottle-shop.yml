@@ -1,11 +1,11 @@
 id: 730807905
-type: way
+type: node
 latitude: 39.75465
 longitude: -121.85898
 postcode: "95928"
 city: Chico
-street: "Esplanade"
-housenumber: 2360
+street: Esplanade
+housenumber: "2360"
 phone: ""
 opening_hours: ""
 website: ""

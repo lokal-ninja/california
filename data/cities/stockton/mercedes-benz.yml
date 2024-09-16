@@ -1,11 +1,11 @@
 id: 1011913500
-type: way
+type: node
 latitude: 38.05586
 longitude: -121.37682
 postcode: ""
 city: Stockton
-street: "Trinity Parkway"
-housenumber: 10777
+street: Trinity Parkway
+housenumber: "10777"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 223437159
-type: way
+type: node
 latitude: 33.65983
 longitude: -117.80261
 postcode: "92612"
 city: Irvine
-street: "University Drive"
-housenumber: 5331
+street: University Drive
+housenumber: "5331"
 phone: ""
 opening_hours: ""
 website: ""

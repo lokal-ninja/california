@@ -1,11 +1,11 @@
 id: 221390129
-type: way
+type: node
 latitude: 37.37973
 longitude: -122.0271
 postcode: "94086"
 city: Sunnyvale
-street: "North Sunnyvale Avenue"
-housenumber: 174
+street: North Sunnyvale Avenue
+housenumber: "174"
 phone: ""
 opening_hours: ""
-website: "https://spanglermortuary.com/52/Sunnyvale-Chapel-and-Crematory.html"
+website: https://spanglermortuary.com/52/Sunnyvale-Chapel-and-Crematory.html

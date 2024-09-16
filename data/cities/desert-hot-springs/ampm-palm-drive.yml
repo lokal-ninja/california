@@ -1,11 +1,11 @@
 id: 404166601
-type: way
+type: node
 latitude: 33.88268
 longitude: -116.50293
 postcode: "92240"
 city: Desert Hot Springs
-street: "Palm Drive"
-housenumber: 22755
+street: Palm Drive
+housenumber: "22755"
 phone: ""
 opening_hours: ""
 website: ""

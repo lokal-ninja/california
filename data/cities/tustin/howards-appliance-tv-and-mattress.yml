@@ -1,11 +1,11 @@
 id: 184707343
-type: way
+type: node
 latitude: 33.72345
 longitude: -117.79665
 postcode: "92782"
 city: Tustin
-street: "El Camino Real"
-housenumber: 2822
+street: El Camino Real
+housenumber: "2822"
 phone: ""
 opening_hours: ""
-website: "https://www.howards.com/"
+website: https://www.howards.com/

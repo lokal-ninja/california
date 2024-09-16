@@ -1,11 +1,11 @@
 id: 228727906
-type: way
+type: node
 latitude: 33.94024
 longitude: -117.93405
 postcode: "90631"
 city: La Habra
-street: "North Harbor Boulevard"
-housenumber: 851
-phone: "+1 562-694-3896"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.staterbros.com/stores/133"
+street: North Harbor Boulevard
+housenumber: "851"
+phone: +1 562-694-3896
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.staterbros.com/stores/133

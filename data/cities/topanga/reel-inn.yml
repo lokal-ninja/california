@@ -1,11 +1,11 @@
 id: 414607489
-type: way
+type: node
 latitude: 34.03976
 longitude: -118.58158
 postcode: "90265"
 city: Topanga
-street: "Pacific Coast Highway"
-housenumber: 18661
-phone: "(310) 456-8221"
-opening_hours: "Mo-Su 11:00-21:00"
-website: "http://www.reelinnmalibu.com/"
+street: Pacific Coast Highway
+housenumber: "18661"
+phone: (310) 456-8221
+opening_hours: Mo-Su 11:00-21:00
+website: http://www.reelinnmalibu.com/

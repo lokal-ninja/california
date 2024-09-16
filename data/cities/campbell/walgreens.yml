@@ -1,11 +1,11 @@
 id: 41559084
-type: way
+type: node
 latitude: 37.28537
 longitude: -121.97773
 postcode: "95008"
 city: Campbell
-street: "West Campbell Avenue"
-housenumber: 1570
+street: West Campbell Avenue
+housenumber: "1570"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1570+w+campbell+ave-campbell-ca-95008/id=6585"
+website: https://www.walgreens.com/locator/walgreens-1570+w+campbell+ave-campbell-ca-95008/id=6585

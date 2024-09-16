@@ -1,11 +1,11 @@
 id: 431094358
-type: way
+type: node
 latitude: 34.15326
 longitude: -118.27436
 postcode: "91203"
 city: Glendale
-street: "San Fernando Road"
-housenumber: 5500
-phone: "+1-818-839-2536"
-opening_hours: "Mo-Sa 09:30-18:00; Su 09:30-17:00"
-website: "https://www.publicstorage.com/self-storage-ca-glendale/2518"
+street: San Fernando Road
+housenumber: "5500"
+phone: +1-818-839-2536
+opening_hours: Mo-Sa 09:30-18:00; Su 09:30-17:00
+website: https://www.publicstorage.com/self-storage-ca-glendale/2518

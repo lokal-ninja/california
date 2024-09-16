@@ -4,8 +4,8 @@ latitude: 32.64224
 longitude: -117.08048
 postcode: ""
 city: Chula Vista
-street: "3rd Avenue"
-housenumber: 272
+street: 3rd Avenue
+housenumber: "272"
 phone: "+16194200760"
-opening_hours: "Mo-Sa 10:00-20:00;Su 11:00-16:00"
+opening_hours: Mo-Sa 10:00-20:00;Su 11:00-16:00
 website: ""

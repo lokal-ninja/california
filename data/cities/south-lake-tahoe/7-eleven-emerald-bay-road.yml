@@ -1,11 +1,11 @@
 id: 1069096549
-type: way
+type: node
 latitude: 38.91746
 longitude: -120.01116
 postcode: "96150"
 city: South Lake Tahoe
-street: "Emerald Bay Road"
-housenumber: 800
-phone: "+1 530-541-0302"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ca/south-lake-tahoe/800-emerald-bay-rd-14078"
+street: Emerald Bay Road
+housenumber: "800"
+phone: +1 530-541-0302
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ca/south-lake-tahoe/800-emerald-bay-rd-14078

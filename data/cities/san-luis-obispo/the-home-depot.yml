@@ -1,11 +1,11 @@
 id: 45637860
-type: way
+type: node
 latitude: 35.25108
 longitude: -120.68979
 postcode: "93405"
 city: San Luis Obispo
-street: "Froom Ranch"
-housenumber: 1551
-phone: "+1 805-596-0857"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/San-Luis-Obispo/CA/San-Luis-Obispo/93405/1052"
+street: Froom Ranch
+housenumber: "1551"
+phone: +1 805-596-0857
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/San-Luis-Obispo/CA/San-Luis-Obispo/93405/1052

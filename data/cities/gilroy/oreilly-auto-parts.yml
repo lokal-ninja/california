@@ -4,8 +4,8 @@ latitude: 37.01401
 longitude: -121.59225
 postcode: "95020"
 city: Gilroy
-street: "1st Street"
-housenumber: 1051
+street: 1st Street
+housenumber: "1051"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ca/gilroy/autoparts-2987.html"
+website: https://locations.oreillyauto.com/ca/gilroy/autoparts-2987.html

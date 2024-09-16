@@ -1,11 +1,11 @@
 id: 884242690
-type: way
+type: node
 latitude: 34.10814
 longitude: -117.64868
 postcode: "91786"
 city: Upland
-street: "East Foothill Boulevard"
-housenumber: 161
-phone: "+1 909-920-0033"
-opening_hours: "Mo-Th 08:00-23:00; Fr-Sa 08:00-24:00; Su 09:00-23:00"
+street: East Foothill Boulevard
+housenumber: "161"
+phone: +1 909-920-0033
+opening_hours: Mo-Th 08:00-23:00; Fr-Sa 08:00-24:00; Su 09:00-23:00
 website: ""

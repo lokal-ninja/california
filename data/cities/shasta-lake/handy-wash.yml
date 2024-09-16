@@ -1,11 +1,11 @@
 id: 500890236
-type: way
+type: node
 latitude: 40.68062
 longitude: -122.36061
 postcode: "96019"
 city: Shasta Lake
-street: "Front Street"
-housenumber: 4760
-phone: "1(530)605-0308"
+street: Front Street
+housenumber: "4760"
+phone: 1(530)605-0308
 opening_hours: ""
 website: ""

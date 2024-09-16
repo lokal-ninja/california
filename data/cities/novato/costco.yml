@@ -1,11 +1,11 @@
 id: 721067069
-type: way
+type: node
 latitude: 38.0871
 longitude: -122.54954
-postcode: "94945-5007"
+postcode: 94945-5007
 city: Novato
-street: "Vintage Way"
-housenumber: 300
-phone: "+1 415-899-1332"
-opening_hours: "Mo-Fr 09:00-20:30; Sa 09:30-19:00; Su 10:00-19:00"
-website: "https://www.costco.com/warehouse-locations/novato-ca-141.html"
+street: Vintage Way
+housenumber: "300"
+phone: +1 415-899-1332
+opening_hours: Mo-Fr 09:00-20:30; Sa 09:30-19:00; Su 10:00-19:00
+website: https://www.costco.com/warehouse-locations/novato-ca-141.html

@@ -1,11 +1,11 @@
 id: 311695941
-type: way
+type: node
 latitude: 37.29475
 longitude: -120.45211
 postcode: "95341"
 city: Merced
-street: "East Yosemite PKWY"
-housenumber: 1990
+street: East Yosemite PKWY
+housenumber: "1990"
 phone: ""
 opening_hours: ""
 website: ""

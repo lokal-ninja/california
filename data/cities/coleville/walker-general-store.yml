@@ -1,11 +1,11 @@
 id: 42150194
-type: way
+type: node
 latitude: 38.51265
 longitude: -119.46314
 postcode: ""
 city: Coleville
-street: "US 395 (CA) (North)"
-housenumber: 106651
+street: US 395 (CA) (North)
+housenumber: "106651"
 phone: ""
 opening_hours: ""
 website: ""

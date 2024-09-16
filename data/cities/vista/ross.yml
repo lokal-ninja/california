@@ -4,8 +4,8 @@ latitude: 33.16951
 longitude: -117.21648
 postcode: "92083"
 city: Vista
-street: "University Drive"
-housenumber: 1831
-phone: "+1 760-758-6992"
-opening_hours: "Mo-Th 10:00-22:00; Fr-Sa 09:00-22:30; Su 09:00-22:00"
+street: University Drive
+housenumber: "1831"
+phone: +1 760-758-6992
+opening_hours: Mo-Th 10:00-22:00; Fr-Sa 09:00-22:30; Su 09:00-22:00
 website: ""

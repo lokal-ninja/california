@@ -1,11 +1,11 @@
 id: 229352073
-type: way
+type: node
 latitude: 33.86977
 longitude: -118.05818
 postcode: "90703"
 city: Cerritos
-street: "Towne Center Drive"
-housenumber: 12821
-phone: "+1 562-403-0210"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/ca/cerritos-590.shtml"
+street: Towne Center Drive
+housenumber: "12821"
+phone: +1 562-403-0210
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/ca/cerritos-590.shtml

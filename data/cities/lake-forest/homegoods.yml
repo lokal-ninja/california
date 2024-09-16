@@ -1,11 +1,11 @@
 id: 138516360
-type: way
+type: node
 latitude: 33.61814
 longitude: -117.70073
 postcode: "92630"
 city: Lake Forest
-street: "El Toro Road"
-housenumber: 23614
-phone: "+1-949-768-8446"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
-website: "https://www.homegoods.com/store-details/Lake-Forest-CA-92630/0366"
+street: El Toro Road
+housenumber: "23614"
+phone: +1-949-768-8446
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
+website: https://www.homegoods.com/store-details/Lake-Forest-CA-92630/0366

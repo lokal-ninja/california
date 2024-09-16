@@ -1,11 +1,11 @@
 id: 1284574539
-type: way
+type: node
 latitude: 36.80207
 longitude: -119.79019
 postcode: "93726"
 city: Fresno
-street: "North Blackstone Avenue"
-housenumber: 4616
+street: North Blackstone Avenue
+housenumber: "4616"
 phone: "+15592222646"
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:00-15:00"
-website: "http://www.fresnocoin.com/"
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:00-15:00
+website: http://www.fresnocoin.com/

@@ -1,11 +1,11 @@
 id: 108692928
-type: way
+type: node
 latitude: 33.68272
 longitude: -117.17201
 postcode: "92584"
 city: Menifee
-street: "Haun Road"
-housenumber: 30178
-phone: "+1 951-723-1439"
+street: Haun Road
+housenumber: "30178"
+phone: +1 951-723-1439
 opening_hours: ""
-website: "https://stores.bestbuy.com/ca/menifee/30178-haun-rd-1409.html"
+website: https://stores.bestbuy.com/ca/menifee/30178-haun-rd-1409.html

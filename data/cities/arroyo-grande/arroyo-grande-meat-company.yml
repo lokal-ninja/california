@@ -1,11 +1,11 @@
 id: 162797211
-type: way
+type: node
 latitude: 35.12335
 longitude: -120.57832
 postcode: "93420"
 city: Arroyo Grande
-street: "East Branch Street"
-housenumber: 120
-phone: "+1-805-489-2693"
+street: East Branch Street
+housenumber: "120"
+phone: +1-805-489-2693
 opening_hours: ""
-website: "http://www.agmeatcompany.com/"
+website: http://www.agmeatcompany.com/

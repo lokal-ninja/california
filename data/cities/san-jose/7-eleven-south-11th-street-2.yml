@@ -1,11 +1,11 @@
 id: 357085105
-type: way
+type: node
 latitude: 37.32911
 longitude: -121.87163
 postcode: "95112"
 city: San Jose
-street: "South 11th Street"
-housenumber: 787
-phone: "+1 408-294-7214"
+street: South 11th Street
+housenumber: "787"
+phone: +1 408-294-7214
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/san-jose/787-s-11th-st-15440"
+website: https://www.7-eleven.com/locations/ca/san-jose/787-s-11th-st-15440

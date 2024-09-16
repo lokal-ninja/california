@@ -1,11 +1,11 @@
 id: 1308666392
-type: way
+type: node
 latitude: 34.06465
 longitude: -117.71981
 postcode: "91767"
 city: Pomona
-street: "Indian Hill Boulevard"
-housenumber: 641
+street: Indian Hill Boulevard
+housenumber: "641"
 phone: ""
 opening_hours: ""
 website: ""

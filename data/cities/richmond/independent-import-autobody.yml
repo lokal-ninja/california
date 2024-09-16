@@ -1,11 +1,11 @@
 id: 385785421
-type: way
+type: node
 latitude: 37.93723
 longitude: -122.3474
 postcode: "94801"
 city: Richmond
-street: "23rd Street"
-housenumber: 418
+street: 23rd Street
+housenumber: "418"
 phone: ""
 opening_hours: ""
 website: ""

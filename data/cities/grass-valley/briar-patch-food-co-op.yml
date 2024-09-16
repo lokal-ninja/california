@@ -1,11 +1,11 @@
 id: 757513918
-type: way
+type: node
 latitude: 39.23488
 longitude: -121.0528
 postcode: "95945"
 city: Grass Valley
-street: "Sierra College Drive"
-housenumber: 290
-phone: "+1 530-272-5333"
-opening_hours: "07:00-22:00"
-website: "https://www.briarpatch.coop/"
+street: Sierra College Drive
+housenumber: "290"
+phone: +1 530-272-5333
+opening_hours: 07:00-22:00
+website: https://www.briarpatch.coop/

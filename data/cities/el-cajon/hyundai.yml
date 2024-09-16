@@ -1,11 +1,11 @@
 id: 995099352
-type: way
+type: node
 latitude: 32.7986
 longitude: -116.93123
 postcode: "92019"
 city: El Cajon
-street: "East Main Street"
-housenumber: 1385
+street: East Main Street
+housenumber: "1385"
 phone: "+16194855400"
 opening_hours: ""
-website: "https://hyundaiofelcajon.com/"
+website: https://hyundaiofelcajon.com/

@@ -1,11 +1,11 @@
 id: 721759739
-type: way
+type: node
 latitude: 37.76366
 longitude: -121.90529
 postcode: "94582"
 city: San Ramon
-street: "Windemere Parkway"
-housenumber: 11440
+street: Windemere Parkway
+housenumber: "11440"
 phone: ""
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://www.walgreens.com/locator/walgreens-11440+windemere+pkwy-san+ramon-ca-94582/id=16090"
+opening_hours: Mo-Su 08:00-20:00
+website: https://www.walgreens.com/locator/walgreens-11440+windemere+pkwy-san+ramon-ca-94582/id=16090

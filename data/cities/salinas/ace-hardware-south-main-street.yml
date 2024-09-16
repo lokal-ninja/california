@@ -2,10 +2,10 @@ id: 10994016359
 type: node
 latitude: 36.65698
 longitude: -121.65875
-postcode: "93901-2207"
+postcode: 93901-2207
 city: Salinas
-street: "South Main Street"
-housenumber: 1215
-phone: "+1 831-775-0523"
-opening_hours: "Mo-Su 08:00-19:00"
+street: South Main Street
+housenumber: "1215"
+phone: +1 831-775-0523
+opening_hours: Mo-Su 08:00-19:00
 website: ""

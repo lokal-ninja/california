@@ -4,8 +4,8 @@ latitude: 36.98554
 longitude: -121.91784
 postcode: "95003"
 city: Aptos
-street: "Soquel Drive"
-housenumber: 7000 #3
+street: Soquel Drive
+housenumber: '7000 #3'
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 672565803
-type: way
+type: node
 latitude: 34.42784
 longitude: -119.87189
 postcode: "93117"
 city: Goleta
-street: "Marketplace Drive"
-housenumber: 6975
-phone: "+1 805-961-4746"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/goleta/ca/goleta/93117/6623"
+street: Marketplace Drive
+housenumber: "6975"
+phone: +1 805-961-4746
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/goleta/ca/goleta/93117/6623

@@ -1,11 +1,11 @@
 id: 958736248
-type: way
+type: node
 latitude: 38.57403
 longitude: -121.40725
 postcode: "95825"
 city: Sacramento
-street: "Fair Oaks Boulevard"
-housenumber: 2376
+street: Fair Oaks Boulevard
+housenumber: "2376"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1288818994
-type: way
+type: node
 latitude: 37.49665
 longitude: -120.84344
 postcode: "95380"
 city: Turlock
-street: "East Main Street"
-housenumber: 433
-phone: "+1 209 634 8123"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://www.cyclemastersinc.com/"
+street: East Main Street
+housenumber: "433"
+phone: +1 209 634 8123
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://www.cyclemastersinc.com/

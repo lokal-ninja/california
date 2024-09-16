@@ -1,11 +1,11 @@
 id: 238038461
-type: way
+type: node
 latitude: 38.61028
 longitude: -122.87031
 postcode: ""
 city: Healdsburg
-street: "Matheson Street"
-housenumber: 102
-phone: "707.433.2393"
-opening_hours: "Mo-Su 11:00-18:00"
-website: "https://thumbprintcellars.com/"
+street: Matheson Street
+housenumber: "102"
+phone: 707.433.2393
+opening_hours: Mo-Su 11:00-18:00
+website: https://thumbprintcellars.com/

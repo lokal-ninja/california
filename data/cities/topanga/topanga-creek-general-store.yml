@@ -1,11 +1,11 @@
 id: 412371761
-type: way
+type: node
 latitude: 34.08866
 longitude: -118.60364
 postcode: "90290"
 city: Topanga
-street: "South Topanga Canyon Boulevard"
-housenumber: 141
-phone: "(310) 455-1250"
-opening_hours: "Su 08:00-21:00; Mo-Sa 08:00-21:30"
+street: South Topanga Canyon Boulevard
+housenumber: "141"
+phone: (310) 455-1250
+opening_hours: Su 08:00-21:00; Mo-Sa 08:00-21:30
 website: ""

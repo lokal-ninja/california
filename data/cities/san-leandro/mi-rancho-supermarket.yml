@@ -1,11 +1,11 @@
 id: 959855772
-type: way
+type: node
 latitude: 37.70056
 longitude: -122.12087
 postcode: "94578"
 city: San Leandro
-street: "East 14th Street"
-housenumber: 15850
+street: East 14th Street
+housenumber: "15850"
 phone: ""
 opening_hours: ""
 website: ""

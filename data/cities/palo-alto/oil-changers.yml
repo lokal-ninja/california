@@ -1,11 +1,11 @@
 id: 231482910
-type: way
+type: node
 latitude: 37.41913
 longitude: -122.10175
 postcode: ""
 city: Palo Alto
-street: "San Antonio Avenue"
-housenumber: 780
+street: San Antonio Avenue
+housenumber: "780"
 phone: ""
 opening_hours: ""
 website: ""

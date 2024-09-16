@@ -1,11 +1,11 @@
 id: 717873122
-type: way
+type: node
 latitude: 38.1181
 longitude: -121.31013
 postcode: "95242"
 city: Lodi
-street: "South Lower Sacramento Road"
-housenumber: 1389
-phone: "+1 209-339-2600"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/ca-lodi/1706"
+street: South Lower Sacramento Road
+housenumber: "1389"
+phone: +1 209-339-2600
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/ca-lodi/1706

@@ -1,11 +1,11 @@
 id: 490746001
-type: way
+type: node
 latitude: 34.06646
 longitude: -117.57175
 postcode: "91761"
 city: Ontario
-street: "E Guasti Road"
-housenumber: 3787
-phone: "+1 (909) 906-9936"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://www.mbontario.com/"
+street: E Guasti Road
+housenumber: "3787"
+phone: +1 (909) 906-9936
+opening_hours: Mo-Su 09:00-21:00
+website: https://www.mbontario.com/

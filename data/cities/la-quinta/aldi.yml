@@ -1,11 +1,11 @@
 id: 929992280
-type: way
+type: node
 latitude: 33.71251
 longitude: -116.29384
-postcode: "92253-2068"
+postcode: 92253-2068
 city: La Quinta
-street: "Highway 111"
-housenumber: 78601
-phone: "+1 760-618-1964"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://stores.aldi.us/ca/la-quinta/78601-highway-111"
+street: Highway 111
+housenumber: "78601"
+phone: +1 760-618-1964
+opening_hours: Mo-Su 09:00-21:00
+website: https://stores.aldi.us/ca/la-quinta/78601-highway-111

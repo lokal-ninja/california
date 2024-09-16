@@ -1,11 +1,11 @@
 id: 672450000
-type: way
+type: node
 latitude: 40.86927
 longitude: -124.08685
 postcode: "95521"
 city: Arcata
-street: "H Street"
-housenumber: 923
-phone: "+1 (707) 840-6068"
+street: H Street
+housenumber: "923"
+phone: +1 (707) 840-6068
 opening_hours: ""
 website: ""

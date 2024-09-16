@@ -1,11 +1,11 @@
 id: 390947808
-type: way
+type: node
 latitude: 34.04941
 longitude: -118.44044
 postcode: "90025"
 city: Los Angeles
-street: "Santa Monica Boulevard"
-housenumber: 10923
+street: Santa Monica Boulevard
+housenumber: "10923"
 phone: ""
 opening_hours: ""
 website: ""

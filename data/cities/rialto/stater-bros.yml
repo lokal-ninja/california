@@ -1,11 +1,11 @@
 id: 1021371730
-type: way
+type: node
 latitude: 34.12258
 longitude: -117.36892
 postcode: "92376"
 city: Rialto
-street: "East Baseline Road"
-housenumber: 168
-phone: "+1 909-875-4471"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.staterbros.com/stores/43"
+street: East Baseline Road
+housenumber: "168"
+phone: +1 909-875-4471
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.staterbros.com/stores/43

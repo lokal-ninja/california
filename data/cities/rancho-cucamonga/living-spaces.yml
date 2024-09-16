@@ -1,11 +1,11 @@
 id: 100250103
-type: way
+type: node
 latitude: 34.10475
 longitude: -117.5298
 postcode: "91739"
 city: Rancho Cucamonga
-street: "Foothill Blvd"
-housenumber: 12649
+street: Foothill Blvd
+housenumber: "12649"
 phone: ""
 opening_hours: ""
-website: "https://www.livingspaces.com/stores/rancho-cucamonga"
+website: https://www.livingspaces.com/stores/rancho-cucamonga

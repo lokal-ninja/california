@@ -4,8 +4,8 @@ latitude: 37.22397
 longitude: -121.98295
 postcode: "95030"
 city: Los Gatos
-street: "Elm Street"
-housenumber: 44
+street: Elm Street
+housenumber: "44"
 phone: ""
 opening_hours: ""
-website: "https://tasselslg.com/"
+website: https://tasselslg.com/

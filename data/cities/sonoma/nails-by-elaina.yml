@@ -1,11 +1,11 @@
 id: 274894772
-type: way
+type: node
 latitude: 38.29082
 longitude: -122.45894
 postcode: "95476"
 city: Sonoma
-street: "1st Street West"
-housenumber: 566
-phone: "+1 (707) 996-6717"
+street: 1st Street West
+housenumber: "566"
+phone: +1 (707) 996-6717
 opening_hours: ""
 website: ""

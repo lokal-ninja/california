@@ -1,11 +1,11 @@
 id: 59441261
-type: way
+type: node
 latitude: 38.13372
 longitude: -122.21403
 postcode: "94591"
 city: Vallejo
-street: "Plaza Drive"
-housenumber: 198
-phone: "+1 707-553-6400"
-opening_hours: "Mo-Fr 09:00-20:30; Sa-Su 09:00-19:00"
-website: "https://www.costco.com/warehouse-locations/vallejo-ca-132.html"
+street: Plaza Drive
+housenumber: "198"
+phone: +1 707-553-6400
+opening_hours: Mo-Fr 09:00-20:30; Sa-Su 09:00-19:00
+website: https://www.costco.com/warehouse-locations/vallejo-ca-132.html

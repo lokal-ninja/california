@@ -4,8 +4,8 @@ latitude: 37.77685
 longitude: -122.42241
 postcode: "94102"
 city: San Francisco
-street: "Hayes Street"
-housenumber: 371
-phone: "+1 415-796-2171"
-opening_hours: "Mo-Sa 11:00-18:00; Su 12:00-18:00"
-website: "https://www.awaytravel.com/stores/sanfrancisco"
+street: Hayes Street
+housenumber: "371"
+phone: +1 415-796-2171
+opening_hours: Mo-Sa 11:00-18:00; Su 12:00-18:00
+website: https://www.awaytravel.com/stores/sanfrancisco

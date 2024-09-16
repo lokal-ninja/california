@@ -1,11 +1,11 @@
 id: 288731622
-type: way
+type: node
 latitude: 37.54438
 longitude: -122.28516
 postcode: "94403"
 city: San Mateo
-street: "South Norfolk Street"
-housenumber: 2992
-phone: "+1 (650) 345-6911"
+street: South Norfolk Street
+housenumber: "2992"
+phone: +1 (650) 345-6911
 opening_hours: ""
 website: ""

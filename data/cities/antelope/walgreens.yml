@@ -1,11 +1,11 @@
 id: 938588757
-type: way
+type: node
 latitude: 38.70444
 longitude: -121.36274
 postcode: "95843"
 city: Antelope
-street: "Antelope Road"
-housenumber: 4331
+street: Antelope Road
+housenumber: "4331"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-4331+antelope+rd-sacramento-ca-95843/id=5500"
+website: https://www.walgreens.com/locator/walgreens-4331+antelope+rd-sacramento-ca-95843/id=5500

@@ -1,11 +1,11 @@
 id: 225853650
-type: way
+type: node
 latitude: 33.04883
 longitude: -117.26114
 postcode: "92024"
 city: Encinitas
-street: "North El Camino Real"
-housenumber: 208
-phone: "760-753-2050"
+street: North El Camino Real
+housenumber: "208"
+phone: 760-753-2050
 opening_hours: ""
-website: "medspaxl.com"
+website: medspaxl.com

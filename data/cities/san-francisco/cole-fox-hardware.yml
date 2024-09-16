@@ -4,8 +4,8 @@ latitude: 37.78475
 longitude: -122.40484
 postcode: "94103"
 city: San Francisco
-street: "4th Street"
-housenumber: 70
-phone: "+1 415-200-3444"
-opening_hours: "Mo-Fr 08:00-18:00; Sa-Su 09:30-18:00"
-website: "https://www.colehardware.com/stores/cole-fox-downtown/"
+street: 4th Street
+housenumber: "70"
+phone: +1 415-200-3444
+opening_hours: Mo-Fr 08:00-18:00; Sa-Su 09:30-18:00
+website: https://www.colehardware.com/stores/cole-fox-downtown/

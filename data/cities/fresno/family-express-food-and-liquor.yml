@@ -1,11 +1,11 @@
 id: 1063934882
-type: way
+type: node
 latitude: 36.72974
 longitude: -119.8006
 postcode: "93706"
 city: Fresno
-street: "Fresno Street"
-housenumber: 1102
-phone: "+1 559-233-8615"
+street: Fresno Street
+housenumber: "1102"
+phone: +1 559-233-8615
 opening_hours: ""
 website: ""

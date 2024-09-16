@@ -4,8 +4,9 @@ latitude: 33.80153
 longitude: -116.3909
 postcode: "92270"
 city: Rancho Mirage
-street: "Dinah Shore Drive"
-housenumber: 72817
-phone: "760-321-8799"
-opening_hours: "Mon-Thu: 7:00AM to 11:00PM,Fri: 12:00AM to 7:00AM,Sat: 12:00AM to 8:00AM, Sunday: 8:00AM to 10:00PM"
-website: "https://montereypalmsliquor.com"
+street: Dinah Shore Drive
+housenumber: "72817"
+phone: 760-321-8799
+opening_hours: 'Mon-Thu: 7:00AM to 11:00PM,Fri: 12:00AM to 7:00AM,Sat: 12:00AM to
+    8:00AM, Sunday: 8:00AM to 10:00PM'
+website: https://montereypalmsliquor.com

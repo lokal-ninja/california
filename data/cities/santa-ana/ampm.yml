@@ -1,11 +1,11 @@
 id: 501404708
-type: way
+type: node
 latitude: 33.70911
 longitude: -117.8486
 postcode: "92705"
 city: Santa Ana
-street: "East Dyer Road"
-housenumber: 1727
+street: East Dyer Road
+housenumber: "1727"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

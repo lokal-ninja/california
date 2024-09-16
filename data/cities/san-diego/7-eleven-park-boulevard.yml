@@ -4,8 +4,8 @@ latitude: 32.70805
 longitude: -117.15458
 postcode: "92101"
 city: San Diego
-street: "Park Boulevard"
-housenumber: 222
-phone: "+1 619-615-0912"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ca/san-diego/222-park-blvd-36766"
+street: Park Boulevard
+housenumber: "222"
+phone: +1 619-615-0912
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ca/san-diego/222-park-blvd-36766

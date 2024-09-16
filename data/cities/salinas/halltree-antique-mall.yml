@@ -1,11 +1,11 @@
 id: 201659299
-type: way
+type: node
 latitude: 36.67526
 longitude: -121.65576
 postcode: "93901"
 city: Salinas
-street: "South Main Street"
-housenumber: 202
-phone: "+1 831-757-6918"
-opening_hours: "Mo-Fr 10:00-17:30; Sa-Su 10:30-17:00"
-website: "http://www.facebook.com/pages/Halltree-Antique-Mall/128783473799919?sk=info"
+street: South Main Street
+housenumber: "202"
+phone: +1 831-757-6918
+opening_hours: Mo-Fr 10:00-17:30; Sa-Su 10:30-17:00
+website: http://www.facebook.com/pages/Halltree-Antique-Mall/128783473799919?sk=info

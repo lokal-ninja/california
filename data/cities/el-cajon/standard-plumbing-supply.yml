@@ -1,11 +1,11 @@
 id: 956998511
-type: way
+type: node
 latitude: 32.79476
 longitude: -116.96983
 postcode: "92020"
 city: El Cajon
-street: "West Main Street"
-housenumber: 603
+street: West Main Street
+housenumber: "603"
 phone: "+16199373747"
-opening_hours: "Mo-Fr 06:30-16:00"
-website: "https://www.standardplumbing.com/locations/EC"
+opening_hours: Mo-Fr 06:30-16:00
+website: https://www.standardplumbing.com/locations/EC

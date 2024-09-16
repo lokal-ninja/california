@@ -1,11 +1,11 @@
 id: 1301785357
-type: way
+type: node
 latitude: 36.95641
 longitude: -120.05595
 postcode: ""
 city: Madera
-street: "South Gateway Drive"
-housenumber: 514
+street: South Gateway Drive
+housenumber: "514"
 phone: ""
 opening_hours: ""
 website: ""

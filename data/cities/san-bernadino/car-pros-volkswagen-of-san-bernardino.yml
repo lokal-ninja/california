@@ -1,11 +1,11 @@
 id: 364025379
-type: way
+type: node
 latitude: 34.07179
 longitude: -117.2967
 postcode: "92408"
 city: San Bernadino
-street: "South Camino Real"
-housenumber: 1600
+street: South Camino Real
+housenumber: "1600"
 phone: ""
 opening_hours: ""
-website: "https://www.vwsb.com/"
+website: https://www.vwsb.com/

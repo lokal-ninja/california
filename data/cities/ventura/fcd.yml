@@ -1,11 +1,11 @@
 id: 781674614
-type: way
+type: node
 latitude: 34.2806
 longitude: -119.30422
 postcode: "93001"
 city: Ventura
-street: "South Olive Street"
-housenumber: 43
+street: South Olive Street
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

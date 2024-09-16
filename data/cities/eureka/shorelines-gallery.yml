@@ -1,11 +1,11 @@
 id: 238372125
-type: way
+type: node
 latitude: 40.80422
 longitude: -124.16678
 postcode: "95501"
 city: Eureka
-street: "2nd Street"
-housenumber: 434
+street: 2nd Street
+housenumber: "434"
 phone: ""
 opening_hours: ""
-website: "https://www.facebook.com/pages/Shorelines-Gallery-Eureka-CA/166007350079724"
+website: https://www.facebook.com/pages/Shorelines-Gallery-Eureka-CA/166007350079724

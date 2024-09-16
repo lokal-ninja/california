@@ -4,8 +4,8 @@ latitude: 36.98165
 longitude: -122.00861
 postcode: "95062"
 city: Santa Cruz
-street: "Water Street"
-housenumber: 1215
-phone: "+1-831-423-8000"
-opening_hours: "Mo-Fr 08:30-17:30"
-website: "http://www.delamotorsports.com/"
+street: Water Street
+housenumber: "1215"
+phone: +1-831-423-8000
+opening_hours: Mo-Fr 08:30-17:30
+website: http://www.delamotorsports.com/

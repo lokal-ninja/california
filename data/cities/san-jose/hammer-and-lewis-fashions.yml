@@ -1,11 +1,11 @@
 id: 435423248
-type: way
+type: node
 latitude: 37.33575
 longitude: -121.89042
 postcode: "95113"
 city: San Jose
-street: "South 1st Street"
-housenumber: 19
+street: South 1st Street
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "http://www.hammerandlewis.com/"
+website: http://www.hammerandlewis.com/

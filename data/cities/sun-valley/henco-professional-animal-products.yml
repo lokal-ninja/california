@@ -1,11 +1,11 @@
 id: 430946474
-type: way
+type: node
 latitude: 34.23278
 longitude: -118.37188
 postcode: "91352"
 city: Sun Valley
-street: "Fleetwood Street"
-housenumber: 11025
-phone: "818-767-5273"
-opening_hours: "Mo-Sa 08:00-17:00"
-website: "http://www.hencopet.com/"
+street: Fleetwood Street
+housenumber: "11025"
+phone: 818-767-5273
+opening_hours: Mo-Sa 08:00-17:00
+website: http://www.hencopet.com/

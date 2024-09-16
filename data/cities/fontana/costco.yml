@@ -1,11 +1,11 @@
 id: 133828160
-type: way
+type: node
 latitude: 34.13778
 longitude: -117.44402
-postcode: "92336-1256"
+postcode: 92336-1256
 city: Fontana
-street: "Sierra Lakes Parkway"
-housenumber: 16505
-phone: "+1 909-770-5639"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/fontana-ca-627.html"
+street: Sierra Lakes Parkway
+housenumber: "16505"
+phone: +1 909-770-5639
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/fontana-ca-627.html

@@ -1,11 +1,11 @@
 id: 436994774
-type: way
+type: node
 latitude: 33.62839
 longitude: -117.66536
 postcode: "92691"
 city: Mission Viejo
-street: "Los Alisos Boulevard"
-housenumber: 23012
-phone: "+1 949-581-4080"
+street: Los Alisos Boulevard
+housenumber: "23012"
+phone: +1 949-581-4080
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/mission-viejo/23012-los-alisos-16446"
+website: https://www.7-eleven.com/locations/ca/mission-viejo/23012-los-alisos-16446

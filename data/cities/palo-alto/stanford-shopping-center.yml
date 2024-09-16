@@ -1,11 +1,11 @@
 id: 110163462
-type: way
+type: node
 latitude: 37.4462
 longitude: -122.17105
 postcode: "94304"
 city: Palo Alto
-street: "Stanford Shopping Center"
-housenumber: 660
-phone: "+1 650-617-8202"
+street: Stanford Shopping Center
+housenumber: "660"
+phone: +1 650-617-8202
 opening_hours: ""
-website: "https://www.simon.com/mall/stanford-shopping-center"
+website: https://www.simon.com/mall/stanford-shopping-center

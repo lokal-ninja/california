@@ -2,10 +2,10 @@ id: 3076013110
 type: node
 latitude: 38.80341
 longitude: -121.20901
-postcode: "95677-3911"
+postcode: 95677-3911
 city: Rocklin
-street: "Commons Drive"
-housenumber: 5112
-phone: "+1 916-652-5901"
-opening_hours: "Mo-Th 08:30-20:30; Fr-Sa 08:30-21:00; Su 08:30-20:30"
+street: Commons Drive
+housenumber: "5112"
+phone: +1 916-652-5901
+opening_hours: Mo-Th 08:30-20:30; Fr-Sa 08:30-21:00; Su 08:30-20:30
 website: ""

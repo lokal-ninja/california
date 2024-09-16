@@ -1,11 +1,11 @@
 id: 878351182
-type: way
+type: node
 latitude: 34.42761
 longitude: -117.36298
 postcode: "92345"
 city: Hesperia
-street: "Main Street"
-housenumber: 13774
-phone: "+1-760-244-0224"
+street: Main Street
+housenumber: "13774"
+phone: +1-760-244-0224
 opening_hours: ""
-website: "https://majorrv.com/"
+website: https://majorrv.com/

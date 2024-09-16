@@ -1,11 +1,11 @@
 id: 616198358
-type: way
+type: node
 latitude: 32.60493
 longitude: -117.04111
 postcode: "91911"
 city: Chula Vista
-street: "Orange Avenue"
-housenumber: 285
+street: Orange Avenue
+housenumber: "285"
 phone: "+16196212050"
-opening_hours: "08:00-21:00"
+opening_hours: 08:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 510894808
-type: way
+type: node
 latitude: 40.58087
 longitude: -122.39518
 postcode: "96001"
 city: Redding
-street: "Placer Street"
-housenumber: 1821
+street: Placer Street
+housenumber: "1821"
 phone: ""
 opening_hours: ""
 website: ""

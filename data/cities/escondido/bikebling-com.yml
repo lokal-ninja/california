@@ -1,11 +1,11 @@
 id: 94333960
-type: way
+type: node
 latitude: 33.12321
 longitude: -117.07807
 postcode: "92025"
 city: Escondido
-street: "East Grand Avenue"
-housenumber: 333
+street: East Grand Avenue
+housenumber: "333"
 phone: ""
 opening_hours: ""
-website: "http://www.bikebling.com/"
+website: http://www.bikebling.com/

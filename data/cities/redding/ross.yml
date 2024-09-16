@@ -1,11 +1,11 @@
 id: 465845304
-type: way
+type: node
 latitude: 40.56892
 longitude: -122.35701
 postcode: "96002"
 city: Redding
-street: "Hilltop Drive"
-housenumber: 2651
-phone: "+1 530-223-3611"
-opening_hours: "Mo-Th 09:00-21:30; Fr-Sa 09:00-23:00; Su 09:00-21:00"
+street: Hilltop Drive
+housenumber: "2651"
+phone: +1 530-223-3611
+opening_hours: Mo-Th 09:00-21:30; Fr-Sa 09:00-23:00; Su 09:00-21:00
 website: ""

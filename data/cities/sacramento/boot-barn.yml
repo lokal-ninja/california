@@ -1,11 +1,11 @@
 id: 193901182
-type: way
+type: node
 latitude: 38.63738
 longitude: -121.49593
 postcode: "95834"
 city: Sacramento
-street: "North Freeway Boulevard"
-housenumber: 3684
+street: North Freeway Boulevard
+housenumber: "3684"
 phone: ""
 opening_hours: ""
 website: ""

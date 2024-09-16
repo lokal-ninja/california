@@ -1,11 +1,11 @@
 id: 1133072937
-type: way
+type: node
 latitude: 34.23477
 longitude: -118.45076
 postcode: "91402"
 city: Panorama City
-street: "Van Nuys Boulevard"
-housenumber: 9059
+street: Van Nuys Boulevard
+housenumber: "9059"
 phone: ""
 opening_hours: ""
 website: ""

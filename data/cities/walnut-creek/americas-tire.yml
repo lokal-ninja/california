@@ -1,11 +1,11 @@
 id: 351363693
-type: way
+type: node
 latitude: 37.91072
 longitude: -122.06319
 postcode: "94596"
 city: Walnut Creek
-street: "Pine Street"
-housenumber: 1350
+street: Pine Street
+housenumber: "1350"
 phone: ""
 opening_hours: ""
 website: ""

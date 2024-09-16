@@ -1,11 +1,11 @@
 id: 225853655
-type: way
+type: node
 latitude: 33.04899
 longitude: -117.2612
 postcode: "92024"
 city: Encinitas
-street: "North El Camino Real"
-housenumber: 208
-phone: "760-944-7976"
+street: North El Camino Real
+housenumber: "208"
+phone: 760-944-7976
 opening_hours: ""
-website: "https://www.sherwin-williams.com/"
+website: https://www.sherwin-williams.com/

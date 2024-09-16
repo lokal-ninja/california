@@ -1,11 +1,11 @@
 id: 164868861
-type: way
+type: node
 latitude: 35.6386
 longitude: -120.69332
 postcode: ""
 city: Paso Robles
-street: "24th Street"
-housenumber: 624
+street: 24th Street
+housenumber: "624"
 phone: ""
 opening_hours: ""
 website: ""

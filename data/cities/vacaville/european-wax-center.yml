@@ -1,11 +1,11 @@
 id: 732020005
-type: way
+type: node
 latitude: 38.36737
 longitude: -121.96209
 postcode: "95688"
 city: Vacaville
-street: "East Monte Vista Avenue"
-housenumber: 1630
+street: East Monte Vista Avenue
+housenumber: "1630"
 phone: ""
 opening_hours: ""
-website: "https://locations.waxcenter.com/ca/vacaville/vacaville-0425.html"
+website: https://locations.waxcenter.com/ca/vacaville/vacaville-0425.html

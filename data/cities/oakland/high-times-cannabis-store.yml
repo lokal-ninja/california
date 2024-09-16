@@ -1,11 +1,11 @@
 id: 468783528
-type: way
+type: node
 latitude: 37.74324
 longitude: -122.19974
 postcode: "94621"
 city: Oakland
-street: "Oakport Street"
-housenumber: 7817
+street: Oakport Street
+housenumber: "7817"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 384616446
-type: way
+type: node
 latitude: 37.67641
 longitude: -121.89473
 postcode: "94588"
 city: Pleasanton
-street: "Hopyard Road"
-housenumber: 2883
+street: Hopyard Road
+housenumber: "2883"
 phone: ""
 opening_hours: ""
 website: ""

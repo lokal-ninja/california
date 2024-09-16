@@ -1,11 +1,12 @@
 id: 206088310
-type: way
+type: node
 latitude: 34.14407
 longitude: -118.15227
 postcode: "91105"
 city: Pasadena
-street: "South de Lacey Avenue"
-housenumber: 112
-phone: "(626) 795-8856"
-opening_hours: "Tu 12:00-18:00; We 10:00-19:00; Th 09:00-21:00; Fr 10:00-18:00; Sa 09:00-19:00"
-website: "http://salonsessions.com/"
+street: South de Lacey Avenue
+housenumber: "112"
+phone: (626) 795-8856
+opening_hours: Tu 12:00-18:00; We 10:00-19:00; Th 09:00-21:00; Fr 10:00-18:00; Sa
+    09:00-19:00
+website: http://salonsessions.com/

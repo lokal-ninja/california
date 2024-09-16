@@ -1,11 +1,11 @@
 id: 202352389
-type: way
+type: node
 latitude: 37.30337
 longitude: -121.87652
 postcode: "95125"
 city: San Jose
-street: "Angela Street"
-housenumber: 1781
+street: Angela Street
+housenumber: "1781"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 311695939
-type: way
+type: node
 latitude: 37.06952
 longitude: -120.85623
 postcode: "93635"
 city: Los Banos
-street: "Willmott Avenue"
-housenumber: 200
+street: Willmott Avenue
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

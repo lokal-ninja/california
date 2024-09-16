@@ -1,11 +1,11 @@
 id: 1134158844
-type: way
+type: node
 latitude: 35.50021
 longitude: -119.2691
 postcode: "93263"
 city: Shafter
-street: "East Lerdo Highway"
-housenumber: 514
-phone: "661-864-7979"
+street: East Lerdo Highway
+housenumber: "514"
+phone: 661-864-7979
 opening_hours: ""
-website: "https://www.ihomefurniture.com/locations/shafter"
+website: https://www.ihomefurniture.com/locations/shafter

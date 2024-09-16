@@ -4,8 +4,8 @@ latitude: 37.38819
 longitude: -121.9533
 postcode: "95054"
 city: Santa Clara
-street: "Lafayette St"
-housenumber: 3761
-phone: "+1 -408-988-1619"
-opening_hours: "Monday-Saturday: 10:30AM to 6:00PM"
-website: "https://joyshairdesign-ca.com"
+street: Lafayette St
+housenumber: "3761"
+phone: +1 -408-988-1619
+opening_hours: 'Monday-Saturday: 10:30AM to 6:00PM'
+website: https://joyshairdesign-ca.com

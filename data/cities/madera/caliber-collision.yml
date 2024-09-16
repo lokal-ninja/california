@@ -1,11 +1,11 @@
 id: 1301204399
-type: way
+type: node
 latitude: 36.95782
 longitude: -120.05786
 postcode: ""
 city: Madera
-street: "South Gateway Drive"
-housenumber: 404
-phone: "+1-559-675-8041"
+street: South Gateway Drive
+housenumber: "404"
+phone: +1-559-675-8041
 opening_hours: ""
-website: "https://www.caliber.com/"
+website: https://www.caliber.com/

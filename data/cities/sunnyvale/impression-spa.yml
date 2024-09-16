@@ -4,8 +4,8 @@ latitude: 37.35912
 longitude: -122.02103
 postcode: "94087"
 city: Sunnyvale
-street: "East El Camino Real"
-housenumber: 717
+street: East El Camino Real
+housenumber: "717"
 phone: ""
 opening_hours: ""
-website: "https://www.impressionspasunnyvale.com/"
+website: https://www.impressionspasunnyvale.com/

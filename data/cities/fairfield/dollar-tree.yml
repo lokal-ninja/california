@@ -1,11 +1,11 @@
 id: 374980109
-type: way
+type: node
 latitude: 38.25968
 longitude: -122.06702
 postcode: "94534"
 city: Fairfield
-street: "Travis Boulevard"
-housenumber: 3060
+street: Travis Boulevard
+housenumber: "3060"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/ca/fairfield/5973/"
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/ca/fairfield/5973/

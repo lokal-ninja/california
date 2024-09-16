@@ -1,11 +1,11 @@
 id: 530724617
-type: way
+type: node
 latitude: 33.10129
 longitude: -117.31104
 postcode: "92011"
 city: Carlsbad
-street: "Avenida Encinas"
-housenumber: 7140
-phone: "+1 760-431-1060"
-opening_hours: "Mo-Su 05:00-01:00"
-website: "https://www.ralphs.com/stores/grocery/ca/carlsbad/poinsettia-village/703/00175"
+street: Avenida Encinas
+housenumber: "7140"
+phone: +1 760-431-1060
+opening_hours: Mo-Su 05:00-01:00
+website: https://www.ralphs.com/stores/grocery/ca/carlsbad/poinsettia-village/703/00175

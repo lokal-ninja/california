@@ -1,11 +1,11 @@
 id: 122304255
-type: way
+type: node
 latitude: 34.50635
 longitude: -117.32987
-postcode: "92392-2403"
+postcode: 92392-2403
 city: Victorville
-street: "Palmdale Road"
-housenumber: 15321
+street: Palmdale Road
+housenumber: "15321"
 phone: ""
 opening_hours: ""
-website: "http://www.target.com/sl/victorville-target-store/276#?afid=storeloc&cpng=CA&Inm=victorville_276"
+website: http://www.target.com/sl/victorville-target-store/276#?afid=storeloc&cpng=CA&Inm=victorville_276

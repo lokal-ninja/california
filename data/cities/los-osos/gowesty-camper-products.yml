@@ -1,11 +1,11 @@
 id: 341344109
-type: way
+type: node
 latitude: 35.3131
 longitude: -120.83066
 postcode: "93402"
 city: Los Osos
-street: "Los Olivos Avenue"
-housenumber: 1119
-phone: "+1-888-469-3789"
-opening_hours: "Mo-Fr 08:00-16:30"
-website: "https://www.gowesty.com/"
+street: Los Olivos Avenue
+housenumber: "1119"
+phone: +1-888-469-3789
+opening_hours: Mo-Fr 08:00-16:30
+website: https://www.gowesty.com/

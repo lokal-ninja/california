@@ -1,11 +1,11 @@
 id: 328488955
-type: way
+type: node
 latitude: 36.6475
 longitude: -121.63016
 postcode: "93901"
 city: Salinas
-street: "Dayton Street"
-housenumber: 1334
+street: Dayton Street
+housenumber: "1334"
 phone: ""
-opening_hours: "Mo-Fr 07:30-16:30"
-website: "https://www.grainger.com/branch/Salinas-Branch-693"
+opening_hours: Mo-Fr 07:30-16:30
+website: https://www.grainger.com/branch/Salinas-Branch-693

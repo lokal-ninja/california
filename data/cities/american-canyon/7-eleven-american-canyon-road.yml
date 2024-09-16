@@ -1,11 +1,11 @@
 id: 765266507
-type: way
+type: node
 latitude: 38.16528
 longitude: -122.25069
 postcode: "94503"
 city: American Canyon
-street: "American Canyon Road"
-housenumber: 218
-phone: "+1 707-557-1302"
+street: American Canyon Road
+housenumber: "218"
+phone: +1 707-557-1302
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/american-canyon/218-american-canyon-rd-35704"
+website: https://www.7-eleven.com/locations/ca/american-canyon/218-american-canyon-rd-35704

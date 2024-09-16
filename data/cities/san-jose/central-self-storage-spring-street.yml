@@ -1,11 +1,11 @@
 id: 1025921928
-type: way
+type: node
 latitude: 37.35041
 longitude: -121.91529
 postcode: "95110"
 city: San Jose
-street: "Spring Street"
-housenumber: 1020
+street: Spring Street
+housenumber: "1020"
 phone: ""
 opening_hours: ""
-website: "https://centralselfstorage.com/locations/california/san-jose/san-jose-ca-1020-spring-street/"
+website: https://centralselfstorage.com/locations/california/san-jose/san-jose-ca-1020-spring-street/

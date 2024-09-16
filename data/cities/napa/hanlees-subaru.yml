@@ -1,11 +1,11 @@
 id: 463915581
-type: way
+type: node
 latitude: 38.2923
 longitude: -122.27819
 postcode: ""
 city: Napa
-street: "Soscol Avenue"
-housenumber: 495
-phone: "(866) 956-9778"
+street: Soscol Avenue
+housenumber: "495"
+phone: (866) 956-9778
 opening_hours: ""
 website: ""

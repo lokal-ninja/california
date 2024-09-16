@@ -1,11 +1,11 @@
 id: 59439705
-type: way
+type: node
 latitude: 35.35523
 longitude: -119.02007
 postcode: "93304"
 city: Bakersfield
-street: "Brundage Lane"
-housenumber: 1520
-phone: "+1 661-328-0818"
+street: Brundage Lane
+housenumber: "1520"
+phone: +1 661-328-0818
 opening_hours: ""
-website: "https://local.albertsons.com/ca/bakersfield/1520-brundage-ln.html"
+website: https://local.albertsons.com/ca/bakersfield/1520-brundage-ln.html

@@ -1,11 +1,11 @@
 id: 123908868
-type: way
+type: node
 latitude: 34.52223
 longitude: -117.32986
 postcode: "93534"
 city: Victorville
-street: "Roy Rogers Drive"
-housenumber: 15318
+street: Roy Rogers Drive
+housenumber: "15318"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-15318+roy+rogers+dr-victorville-ca-92394/id=12576"
+website: https://www.walgreens.com/locator/walgreens-15318+roy+rogers+dr-victorville-ca-92394/id=12576

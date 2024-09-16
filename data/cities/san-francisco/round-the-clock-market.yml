@@ -4,8 +4,8 @@ latitude: 37.78942
 longitude: -122.41384
 postcode: ""
 city: San Francisco
-street: "Bush Street"
-housenumber: 1001
+street: Bush Street
+housenumber: "1001"
 phone: ""
-opening_hours: "Su,Mo-Th 10:00-21:30; Fr-Sa 10:00-22:00"
+opening_hours: Su,Mo-Th 10:00-21:30; Fr-Sa 10:00-22:00
 website: ""

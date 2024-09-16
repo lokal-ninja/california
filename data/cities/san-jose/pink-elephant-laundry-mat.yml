@@ -1,11 +1,11 @@
 id: 791606575
-type: way
+type: node
 latitude: 37.34445
 longitude: -121.84796
 postcode: "95116"
 city: San Jose
-street: "South King Road"
-housenumber: 525
+street: South King Road
+housenumber: "525"
 phone: ""
 opening_hours: ""
 website: ""

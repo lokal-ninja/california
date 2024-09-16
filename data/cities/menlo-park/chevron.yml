@@ -1,11 +1,11 @@
 id: 386896537
-type: way
+type: node
 latitude: 37.43146
 longitude: -122.20151
 postcode: "94025"
 city: Menlo Park
-street: "Alameda de las Pulgas"
-housenumber: 3600
+street: Alameda de las Pulgas
+housenumber: "3600"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 37.42275
 longitude: -121.9169
 postcode: "95035"
 city: Milpitas
-street: "Barber Lane"
-housenumber: 338
-phone: "+1-408-946-8899"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://www.99ranch.com/stores/milpitas-california"
+street: Barber Lane
+housenumber: "338"
+phone: +1-408-946-8899
+opening_hours: Mo-Su 09:00-21:00
+website: https://www.99ranch.com/stores/milpitas-california

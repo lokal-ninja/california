@@ -1,11 +1,11 @@
 id: 307483944
-type: way
+type: node
 latitude: 37.71177
 longitude: -122.16148
 postcode: "94577"
 city: San Leandro
-street: "Marina Boulevard"
-housenumber: 1111
+street: Marina Boulevard
+housenumber: "1111"
 phone: ""
 opening_hours: ""
 website: ""

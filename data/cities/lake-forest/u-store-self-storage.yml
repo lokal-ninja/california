@@ -1,11 +1,11 @@
 id: 346361316
-type: way
+type: node
 latitude: 33.62638
 longitude: -117.69296
 postcode: "92630"
 city: Lake Forest
-street: "Front Street"
-housenumber: 25142
+street: Front Street
+housenumber: "25142"
 phone: ""
 opening_hours: ""
 website: ""

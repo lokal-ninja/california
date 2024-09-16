@@ -1,11 +1,11 @@
 id: 699820074
-type: way
+type: node
 latitude: 38.55635
 longitude: -121.33484
 postcode: "95827"
 city: Sacramento
-street: "Bradshaw Road"
-housenumber: 3615
+street: Bradshaw Road
+housenumber: "3615"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 08:00-20:00"
-website: "https://www.dollartree.com/locations/ca/sacramento/7656/"
+opening_hours: Mo-Sa 08:00-21:00; Su 08:00-20:00
+website: https://www.dollartree.com/locations/ca/sacramento/7656/

@@ -5,7 +5,7 @@ longitude: -122.42913
 postcode: "94115"
 city: San Francisco
 street: ""
-housenumber: 22
-phone: "+1 415 4412484"
-opening_hours: "by appointment only"
-website: "https://www.glam-up.com/"
+housenumber: "22"
+phone: +1 415 4412484
+opening_hours: '"by appointment only"'
+website: https://www.glam-up.com/

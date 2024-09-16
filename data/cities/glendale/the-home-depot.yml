@@ -1,11 +1,11 @@
 id: 471858024
-type: way
+type: node
 latitude: 34.14352
 longitude: -118.2681
 postcode: "91204"
 city: Glendale
-street: "San Fernando Road"
-housenumber: 5040
-phone: "+1 818-246-9600"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/glendale/ca/glendale/91204/649"
+street: San Fernando Road
+housenumber: "5040"
+phone: +1 818-246-9600
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/glendale/ca/glendale/91204/649

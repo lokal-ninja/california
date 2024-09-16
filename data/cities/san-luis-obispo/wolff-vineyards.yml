@@ -1,11 +1,11 @@
 id: 209826842
-type: way
+type: node
 latitude: 35.21991
 longitude: -120.59195
 postcode: "93401"
 city: San Luis Obispo
-street: "Orcutt Road"
-housenumber: 6238
+street: Orcutt Road
+housenumber: "6238"
 phone: ""
 opening_hours: ""
-website: "https://wolffvineyards.com/"
+website: https://wolffvineyards.com/

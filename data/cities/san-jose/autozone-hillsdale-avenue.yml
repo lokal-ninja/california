@@ -1,11 +1,11 @@
 id: 39128659
-type: way
+type: node
 latitude: 37.26284
 longitude: -121.91739
 postcode: "95124"
 city: San Jose
-street: "Hillsdale Avenue"
-housenumber: 1812
+street: Hillsdale Avenue
+housenumber: "1812"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ca/san-jose/1812-hillsdale-ave.html"
+website: https://www.autozone.com/locations/ca/san-jose/1812-hillsdale-ave.html

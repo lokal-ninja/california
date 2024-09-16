@@ -1,11 +1,11 @@
 id: 118135165
-type: way
+type: node
 latitude: 33.88865
 longitude: -117.31702
 postcode: "92508"
 city: Riverside
-street: "Van Buren Boulevard"
-housenumber: 19985
+street: Van Buren Boulevard
+housenumber: "19985"
 phone: ""
 opening_hours: ""
 website: ""

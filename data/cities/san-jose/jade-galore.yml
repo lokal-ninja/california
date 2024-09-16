@@ -1,11 +1,11 @@
 id: 371556178
-type: way
+type: node
 latitude: 37.32283
 longitude: -121.94673
 postcode: "95128"
 city: San Jose
-street: "Stevens Creek Boulevard"
-housenumber: 2928
+street: Stevens Creek Boulevard
+housenumber: "2928"
 phone: ""
 opening_hours: ""
-website: "https://www.jadegalore.com/"
+website: https://www.jadegalore.com/

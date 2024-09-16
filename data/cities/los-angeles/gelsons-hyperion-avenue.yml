@@ -1,11 +1,11 @@
 id: 220515051
-type: way
+type: node
 latitude: 34.10829
 longitude: -118.27251
 postcode: "90027"
 city: Los Angeles
-street: "Hyperion Avenue"
-housenumber: 2725
-phone: "+1 323-660-0387"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.gelsons.com/stores/silver-lake"
+street: Hyperion Avenue
+housenumber: "2725"
+phone: +1 323-660-0387
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.gelsons.com/stores/silver-lake

@@ -4,8 +4,8 @@ latitude: 37.49092
 longitude: -122.22482
 postcode: "94063"
 city: Redwood City
-street: "Walnut Street"
-housenumber: 340
-phone: "+1 650 362 3008"
-opening_hours: "Mo-Th 12:00-22:00; Fr 13:00-23:00; Sa 10:00-22:00; Su 10:00-20:00"
-website: "https://gamekastle.myshopify.com/pages/game-kastle-redwood-city"
+street: Walnut Street
+housenumber: "340"
+phone: +1 650 362 3008
+opening_hours: Mo-Th 12:00-22:00; Fr 13:00-23:00; Sa 10:00-22:00; Su 10:00-20:00
+website: https://gamekastle.myshopify.com/pages/game-kastle-redwood-city

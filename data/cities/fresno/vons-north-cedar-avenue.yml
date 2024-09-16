@@ -1,11 +1,11 @@
 id: 131511269
-type: way
+type: node
 latitude: 36.86529
 longitude: -119.75884
 postcode: "93720"
 city: Fresno
-street: "North Cedar Avenue"
-housenumber: 8949
-phone: "+1 559-438-1403"
+street: North Cedar Avenue
+housenumber: "8949"
+phone: +1 559-438-1403
 opening_hours: ""
-website: "https://local.vons.com/ca/fresno/8949-n-cedar-ave.html"
+website: https://local.vons.com/ca/fresno/8949-n-cedar-ave.html

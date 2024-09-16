@@ -1,11 +1,11 @@
 id: 752002463
-type: way
+type: node
 latitude: 37.00202
 longitude: -121.55317
 postcode: "95020"
 city: Gilroy
-street: "Camino Arroyo"
-housenumber: 6825
+street: Camino Arroyo
+housenumber: "6825"
 phone: ""
 opening_hours: ""
 website: ""

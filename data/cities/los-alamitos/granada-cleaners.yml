@@ -1,11 +1,11 @@
 id: 1025370444
-type: way
+type: node
 latitude: 33.80325
 longitude: -118.07333
 postcode: "90720"
 city: Los Alamitos
-street: "Katella Avenue"
-housenumber: 3391
+street: Katella Avenue
+housenumber: "3391"
 phone: ""
 opening_hours: ""
 website: ""

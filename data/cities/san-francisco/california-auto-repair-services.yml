@@ -4,8 +4,8 @@ latitude: 37.77995
 longitude: -122.4842
 postcode: "94121"
 city: San Francisco
-street: "Geary Boulevard"
-housenumber: 6033
+street: Geary Boulevard
+housenumber: "6033"
 phone: "+14157511128"
-opening_hours: "Mo-Fr 8:00-16:00"
-website: "https://www.calautorepair.com/"
+opening_hours: Mo-Fr 8:00-16:00
+website: https://www.calautorepair.com/

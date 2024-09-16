@@ -1,11 +1,11 @@
 id: 306027972
-type: way
+type: node
 latitude: 37.36544
 longitude: -121.95648
 postcode: "95050"
 city: Santa Clara
-street: "Martin Avenue"
-housenumber: 1500
-phone: "+1 408 496 0500"
+street: Martin Avenue
+housenumber: "1500"
+phone: +1 408 496 0500
 opening_hours: ""
-website: "https://www.universityelectric.com/"
+website: https://www.universityelectric.com/

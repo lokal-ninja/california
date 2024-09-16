@@ -1,11 +1,11 @@
 id: 398240222
-type: way
+type: node
 latitude: 36.96834
 longitude: -122.03828
 postcode: "95060"
 city: Santa Cruz
-street: "Mission Street"
-housenumber: 1310
+street: Mission Street
+housenumber: "1310"
 phone: ""
 opening_hours: ""
 website: ""

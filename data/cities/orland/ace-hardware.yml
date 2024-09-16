@@ -1,11 +1,11 @@
 id: 752902911
-type: way
+type: node
 latitude: 39.74574
 longitude: -122.1957
 postcode: "95963"
 city: Orland
-street: "Mill Street"
-housenumber: 820
-phone: "+1 530-865-2395"
-opening_hours: "Mo-Sa 07:00-19:00; Su 08:00-17:00"
+street: Mill Street
+housenumber: "820"
+phone: +1 530-865-2395
+opening_hours: Mo-Sa 07:00-19:00; Su 08:00-17:00
 website: ""

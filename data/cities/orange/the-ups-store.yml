@@ -1,11 +1,11 @@
 id: 1119956650
-type: way
+type: node
 latitude: 33.83426
 longitude: -117.83827
 postcode: "92865"
 city: Orange
-street: "East Lincoln Avenue"
-housenumber: 1442
-phone: "714-921-1182"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 09:00-17:00; Su off"
-website: "https://locations.theupsstore.com/ca/orange/1442-e-lincoln-ave"
+street: East Lincoln Avenue
+housenumber: "1442"
+phone: 714-921-1182
+opening_hours: Mo-Fr 08:30-18:30; Sa 09:00-17:00; Su off
+website: https://locations.theupsstore.com/ca/orange/1442-e-lincoln-ave

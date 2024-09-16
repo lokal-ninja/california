@@ -1,11 +1,11 @@
 id: 717833904
-type: way
+type: node
 latitude: 33.82997
 longitude: -118.14406
 postcode: "90808"
 city: Long Beach
-street: "Lakewood Boulevard"
-housenumber: 3881
-phone: "+1-562-548-1840"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://www.wholefoodsmarket.com/stores/longbeachlakewood"
+street: Lakewood Boulevard
+housenumber: "3881"
+phone: +1-562-548-1840
+opening_hours: Mo-Su 07:00-21:00
+website: https://www.wholefoodsmarket.com/stores/longbeachlakewood

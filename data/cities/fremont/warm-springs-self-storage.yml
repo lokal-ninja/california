@@ -1,11 +1,11 @@
 id: 40254955
-type: way
+type: node
 latitude: 37.49815
 longitude: -121.93469
 postcode: "94539"
 city: Fremont
-street: "Warm Springs Boulevard"
-housenumber: 45585
+street: Warm Springs Boulevard
+housenumber: "45585"
 phone: ""
 opening_hours: ""
-website: "https://www.warmspringsselfstorage.com/"
+website: https://www.warmspringsselfstorage.com/

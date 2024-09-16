@@ -1,11 +1,11 @@
 id: 773059804
-type: way
+type: node
 latitude: 34.29208
 longitude: -119.2977
 postcode: "93001"
 city: Ventura
-street: "North Ventura Avenue"
-housenumber: 995
-phone: "+1-805-643-5107"
-opening_hours: "Mo-Fr 07:00-21:00"
+street: North Ventura Avenue
+housenumber: "995"
+phone: +1-805-643-5107
+opening_hours: Mo-Fr 07:00-21:00
 website: ""

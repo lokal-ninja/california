@@ -4,8 +4,8 @@ latitude: 37.36715
 longitude: -121.99503
 postcode: "95051"
 city: Santa Clara
-street: "Monroe Street"
-housenumber: 3555
+street: Monroe Street
+housenumber: "3555"
 phone: ""
-opening_hours: "Mo-Sa 06:00-23:00; Su 06:00-22:00"
+opening_hours: Mo-Sa 06:00-23:00; Su 06:00-22:00
 website: ""

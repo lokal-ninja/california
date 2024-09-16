@@ -4,8 +4,8 @@ latitude: 33.17641
 longitude: -117.32503
 postcode: "92008"
 city: Carlsbad
-street: "El Camino Real"
-housenumber: 2618
-phone: "+1 760-730-1123"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://sprouts.com/store/ca/carlsbad/carlsbad"
+street: El Camino Real
+housenumber: "2618"
+phone: +1 760-730-1123
+opening_hours: Mo-Su 07:00-22:00
+website: https://sprouts.com/store/ca/carlsbad/carlsbad

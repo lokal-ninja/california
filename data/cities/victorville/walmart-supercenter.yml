@@ -1,11 +1,11 @@
 id: 285802634
-type: way
+type: node
 latitude: 34.50987
 longitude: -117.3964
 postcode: "92392"
 city: Victorville
-street: "Palmdale Road"
-housenumber: 12234
-phone: "+1 760-493-3047"
-opening_hours: "Mo-Su 05:00-24:00"
-website: "https://www.walmart.com/store/4392/victorville-ca/details"
+street: Palmdale Road
+housenumber: "12234"
+phone: +1 760-493-3047
+opening_hours: Mo-Su 05:00-24:00
+website: https://www.walmart.com/store/4392/victorville-ca/details

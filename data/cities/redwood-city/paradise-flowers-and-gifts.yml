@@ -1,11 +1,11 @@
 id: 164419117
-type: way
+type: node
 latitude: 37.47014
 longitude: -122.21259
 postcode: "94061"
 city: Redwood City
-street: "El Camino Real"
-housenumber: 2853
-phone: "(650) 368-3228"
+street: El Camino Real
+housenumber: "2853"
+phone: (650) 368-3228
 opening_hours: ""
-website: "https://ordering.florists.ftd.com/paradiseflowersandgifts/?source=header"
+website: https://ordering.florists.ftd.com/paradiseflowersandgifts/?source=header

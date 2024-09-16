@@ -1,11 +1,11 @@
 id: 105058244
-type: way
+type: node
 latitude: 37.81197
 longitude: -121.99497
 postcode: "94526"
 city: Danville
-street: "San Ramon Valley Boulevard"
-housenumber: 736
+street: San Ramon Valley Boulevard
+housenumber: "736"
 phone: ""
 opening_hours: ""
 website: ""

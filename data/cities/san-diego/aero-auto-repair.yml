@@ -1,11 +1,11 @@
 id: 31800601
-type: way
+type: node
 latitude: 32.80878
 longitude: -117.11959
 postcode: "92123"
 city: San Diego
-street: "Aero Drive"
-housenumber: 9756
+street: Aero Drive
+housenumber: "9756"
 phone: ""
 opening_hours: ""
 website: ""

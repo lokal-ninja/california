@@ -4,8 +4,8 @@ latitude: 37.30074
 longitude: -121.77118
 postcode: "95135"
 city: San Jose
-street: "San Felipe Road"
-housenumber: 4850
-phone: "+1-408-532-2944"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.cvs.com/store-locator/san-jose-ca-pharmacies/4850-san-felipe-rd-san-jose-ca-95135/storeid=9534"
+street: San Felipe Road
+housenumber: "4850"
+phone: +1-408-532-2944
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.cvs.com/store-locator/san-jose-ca-pharmacies/4850-san-felipe-rd-san-jose-ca-95135/storeid=9534

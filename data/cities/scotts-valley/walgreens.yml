@@ -4,8 +4,8 @@ latitude: 37.04568
 longitude: -122.02641
 postcode: "95066"
 city: Scotts Valley
-street: "Mount Hermon Road"
-housenumber: 210
+street: Mount Hermon Road
+housenumber: "210"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-210+mount+hermon+rd-scotts+valley-ca-95066/id=6214"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-210+mount+hermon+rd-scotts+valley-ca-95066/id=6214

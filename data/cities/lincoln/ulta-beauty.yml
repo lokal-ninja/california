@@ -1,11 +1,11 @@
 id: 259003799
-type: way
+type: node
 latitude: 38.87351
 longitude: -121.30255
 postcode: "95648"
 city: Lincoln
-street: "Ferrari Ranch Road"
-housenumber: 117
-phone: "+1 916-581-4121"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/lincoln-ca-1344"
+street: Ferrari Ranch Road
+housenumber: "117"
+phone: +1 916-581-4121
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/lincoln-ca-1344

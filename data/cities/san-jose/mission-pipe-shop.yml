@@ -4,8 +4,8 @@ latitude: 37.33158
 longitude: -121.91261
 postcode: "95126"
 city: San Jose
-street: "The Alameda"
-housenumber: 1205
+street: The Alameda
+housenumber: "1205"
 phone: ""
 opening_hours: ""
-website: "https://www.missionpipe.com/"
+website: https://www.missionpipe.com/

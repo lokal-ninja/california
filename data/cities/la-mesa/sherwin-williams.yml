@@ -1,11 +1,11 @@
 id: 375442890
-type: way
+type: node
 latitude: 32.77397
 longitude: -117.01023
 postcode: "91942"
 city: La Mesa
-street: "Grossmont Boulevard"
-housenumber: 8784
+street: Grossmont Boulevard
+housenumber: "8784"
 phone: ""
 opening_hours: ""
-website: "https://www.sherwin-williams.com/store-locator/paint-store/la-mesa/ca/708672"
+website: https://www.sherwin-williams.com/store-locator/paint-store/la-mesa/ca/708672

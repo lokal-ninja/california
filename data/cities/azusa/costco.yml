@@ -1,11 +1,11 @@
 id: 43544900
-type: way
+type: node
 latitude: 34.13217
 longitude: -117.92605
 postcode: "91702"
 city: Azusa
-street: "Foothill Boulevard"
-housenumber: 1220
-phone: "+1 626-812-7911"
-opening_hours: "Mo-Fr 10:00-20:30; Sa-Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/azusa-ca-412.html"
+street: Foothill Boulevard
+housenumber: "1220"
+phone: +1 626-812-7911
+opening_hours: Mo-Fr 10:00-20:30; Sa-Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/azusa-ca-412.html

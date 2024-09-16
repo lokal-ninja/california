@@ -1,11 +1,11 @@
 id: 816689012
-type: way
+type: node
 latitude: 32.77565
 longitude: -117.00541
 postcode: "91941"
 city: La Mesa
-street: "La Mesa Boulevard"
-housenumber: 8950
+street: La Mesa Boulevard
+housenumber: "8950"
 phone: ""
 opening_hours: ""
-website: "https://www.penskefordlamesa.com/service/index.htm"
+website: https://www.penskefordlamesa.com/service/index.htm

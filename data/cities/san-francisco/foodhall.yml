@@ -4,8 +4,8 @@ latitude: 37.76506
 longitude: -122.42207
 postcode: "94103"
 city: San Francisco
-street: "16th Street"
-housenumber: 3100
+street: 16th Street
+housenumber: "3100"
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
+opening_hours: Mo-Su 09:00-21:00
 website: ""

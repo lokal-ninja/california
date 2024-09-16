@@ -1,11 +1,11 @@
 id: 465845301
-type: way
+type: node
 latitude: 40.57043
 longitude: -122.35767
 postcode: "96002"
 city: Redding
-street: "East Cypress Avenue"
-housenumber: 765
-phone: "+1 (530) 222-8846"
+street: East Cypress Avenue
+housenumber: "765"
+phone: +1 (530) 222-8846
 opening_hours: ""
 website: ""

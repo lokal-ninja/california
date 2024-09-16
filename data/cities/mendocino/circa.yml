@@ -4,8 +4,8 @@ latitude: 39.30465
 longitude: -123.8021
 postcode: "95460"
 city: Mendocino
-street: "Main Street"
-housenumber: 530
-phone: "+1 707-937-0100"
-opening_hours: "Mo-Su 11:00-17:00"
+street: Main Street
+housenumber: "530"
+phone: +1 707-937-0100
+opening_hours: Mo-Su 11:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 31809220
-type: way
+type: node
 latitude: 32.69545
 longitude: -117.13254
 postcode: "92113"
 city: San Diego
-street: "National Avenue"
-housenumber: 2865
+street: National Avenue
+housenumber: "2865"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ca/san-diego/2865-national-ave.html"
+website: https://www.autozone.com/locations/ca/san-diego/2865-national-ave.html

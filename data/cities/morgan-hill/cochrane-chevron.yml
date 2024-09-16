@@ -1,11 +1,11 @@
 id: 28714370
-type: way
+type: node
 latitude: 37.15163
 longitude: -121.65555
 postcode: "95037"
 city: Morgan Hill
-street: "Cochrane Road"
-housenumber: 851
+street: Cochrane Road
+housenumber: "851"
 phone: ""
 opening_hours: ""
 website: ""

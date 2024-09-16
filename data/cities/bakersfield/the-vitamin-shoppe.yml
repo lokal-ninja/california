@@ -1,11 +1,11 @@
 id: 59602098
-type: way
+type: node
 latitude: 35.35451
 longitude: -119.06086
 postcode: "93309"
 city: Bakersfield
-street: "Stockdale Highway"
-housenumber: 5300
+street: Stockdale Highway
+housenumber: "5300"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1242092542
-type: way
+type: node
 latitude: 34.0774
 longitude: -118.03852
 postcode: "91731"
 city: El Monte
-street: "Valley Boulevard"
-housenumber: 10683
+street: Valley Boulevard
+housenumber: "10683"
 phone: ""
 opening_hours: ""
 website: ""

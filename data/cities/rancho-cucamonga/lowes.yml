@@ -1,11 +1,11 @@
 id: 427743215
-type: way
+type: node
 latitude: 34.10495
 longitude: -117.55578
 postcode: "91730"
 city: Rancho Cucamonga
-street: "Foothill Boulevard"
-housenumber: 11399
-phone: "+1 909-476-9697"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/ca-rancho-cucamonga/0774"
+street: Foothill Boulevard
+housenumber: "11399"
+phone: +1 909-476-9697
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/ca-rancho-cucamonga/0774

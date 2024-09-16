@@ -1,11 +1,11 @@
 id: 491203128
-type: way
+type: node
 latitude: 33.51339
 longitude: -117.15616
 postcode: "92591"
 city: Temecula
-street: "Ynez Road"
-housenumber: 26799
-phone: "951-268-9198"
-opening_hours: "Mo-Sa 08:30-21:00; Su 10:00-20:00"
-website: "https://www.dchkiaoftemecula.com"
+street: Ynez Road
+housenumber: "26799"
+phone: 951-268-9198
+opening_hours: Mo-Sa 08:30-21:00; Su 10:00-20:00
+website: https://www.dchkiaoftemecula.com

@@ -4,8 +4,8 @@ latitude: 33.69529
 longitude: -117.88747
 postcode: "92704"
 city: Santa Ana
-street: "South Bristol Street"
-housenumber: 3900
-phone: "+1 714-546-2600"
-opening_hours: "Mo-Th 08:00-23:00; Fr-Sa 08:00-24:00; Su 09:00-23:00"
+street: South Bristol Street
+housenumber: "3900"
+phone: +1 714-546-2600
+opening_hours: Mo-Th 08:00-23:00; Fr-Sa 08:00-24:00; Su 09:00-23:00
 website: ""

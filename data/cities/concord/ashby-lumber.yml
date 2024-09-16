@@ -1,11 +1,11 @@
 id: 314357854
-type: way
+type: node
 latitude: 38.00868
 longitude: -122.03434
 postcode: "94520"
 city: Concord
-street: "Arnold Industrial Way"
-housenumber: 2295
-phone: "1-925-689-8999"
-opening_hours: "Mo-Fr 6:00-17:00; Sa 6:00-16:00"
-website: "https://www.ashbylumber.com/"
+street: Arnold Industrial Way
+housenumber: "2295"
+phone: 1-925-689-8999
+opening_hours: Mo-Fr 6:00-17:00; Sa 6:00-16:00
+website: https://www.ashbylumber.com/

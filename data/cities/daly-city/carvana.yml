@@ -1,11 +1,11 @@
 id: 1101605329
-type: way
+type: node
 latitude: 37.69895
 longitude: -122.47042
 postcode: "94014"
 city: Daly City
-street: "Junipero Serra Boulevard"
-housenumber: 2123
+street: Junipero Serra Boulevard
+housenumber: "2123"
 phone: ""
 opening_hours: ""
-website: "https://www.carvana.com/vending-machine/daly-city-ca"
+website: https://www.carvana.com/vending-machine/daly-city-ca

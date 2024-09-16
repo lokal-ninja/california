@@ -1,11 +1,11 @@
 id: 102946959
-type: way
+type: node
 latitude: 33.11135
 longitude: -117.09806
 postcode: "92029"
 city: Escondido
-street: "Auto Park Way"
-housenumber: 1250
+street: Auto Park Way
+housenumber: "1250"
 phone: ""
 opening_hours: ""
-website: "https://www.gamestop.com/store/us/ca/escondido/869/escondido-promenade-gamestop"
+website: https://www.gamestop.com/store/us/ca/escondido/869/escondido-promenade-gamestop

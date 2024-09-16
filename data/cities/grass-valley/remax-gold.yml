@@ -1,11 +1,11 @@
 id: 909797470
-type: way
+type: node
 latitude: 39.2194
 longitude: -121.06165
 postcode: "95945"
 city: Grass Valley
-street: "East Main Street"
-housenumber: 114
+street: East Main Street
+housenumber: "114"
 phone: ""
 opening_hours: ""
 website: ""

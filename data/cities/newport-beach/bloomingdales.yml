@@ -1,11 +1,11 @@
 id: 107263890
-type: way
+type: node
 latitude: 33.61793
 longitude: -117.87608
 postcode: "92660"
 city: Newport Beach
-street: "Newport Center Drive"
-housenumber: 701
-phone: "+1-949-729-6600"
-opening_hours: "Mo-Sa 11:00-20:00; Su 11:00-18:00"
-website: "https://locations.bloomingdales.com/newport-fashion-island"
+street: Newport Center Drive
+housenumber: "701"
+phone: +1-949-729-6600
+opening_hours: Mo-Sa 11:00-20:00; Su 11:00-18:00
+website: https://locations.bloomingdales.com/newport-fashion-island

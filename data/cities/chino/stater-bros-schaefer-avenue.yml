@@ -1,11 +1,11 @@
 id: 737128145
-type: way
+type: node
 latitude: 34.00317
 longitude: -117.65298
 postcode: "91710"
 city: Chino
-street: "Schaefer Avenue"
-housenumber: 6989
-phone: "+1 909-627-6665"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.staterbros.com/stores/184"
+street: Schaefer Avenue
+housenumber: "6989"
+phone: +1 909-627-6665
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.staterbros.com/stores/184

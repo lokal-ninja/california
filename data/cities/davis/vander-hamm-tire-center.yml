@@ -4,8 +4,8 @@ latitude: 38.55003
 longitude: -121.72309
 postcode: "95616"
 city: Davis
-street: "5th Street"
-housenumber: 2222
-phone: "+1-530-758-8282"
-opening_hours: "Mo-Fr 08:30-17:30; Sa 08:00-14:00"
-website: "http://www.vanderhammtirecenter.com/"
+street: 5th Street
+housenumber: "2222"
+phone: +1-530-758-8282
+opening_hours: Mo-Fr 08:30-17:30; Sa 08:00-14:00
+website: http://www.vanderhammtirecenter.com/

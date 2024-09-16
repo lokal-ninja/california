@@ -4,8 +4,8 @@ latitude: 32.74801
 longitude: -117.12907
 postcode: "92104"
 city: San Diego
-street: "Ray Street"
-housenumber: 3827
-phone: "+001 619 291 6565"
-opening_hours: "Tu-Fr 08:00-18:00; Sa 08:00-17:00"
+street: Ray Street
+housenumber: "3827"
+phone: +001 619 291 6565
+opening_hours: Tu-Fr 08:00-18:00; Sa 08:00-17:00
 website: ""

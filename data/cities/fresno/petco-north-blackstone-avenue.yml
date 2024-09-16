@@ -1,11 +1,11 @@
 id: 1286736052
-type: way
+type: node
 latitude: 36.79223
 longitude: -119.7898
 postcode: "93726"
 city: Fresno
-street: "North Blackstone Avenue"
-housenumber: 4144
-phone: "+1 559-226-4941"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ca/fresno/pet-supplies-fresno-ca-269.html"
+street: North Blackstone Avenue
+housenumber: "4144"
+phone: +1 559-226-4941
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/ca/fresno/pet-supplies-fresno-ca-269.html

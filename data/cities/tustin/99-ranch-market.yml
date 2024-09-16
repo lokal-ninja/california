@@ -1,11 +1,11 @@
 id: 194858655
-type: way
+type: node
 latitude: 33.73149
 longitude: -117.82662
 postcode: "92780"
 city: Tustin
-street: "Walnut Avenue"
-housenumber: 1112
+street: Walnut Avenue
+housenumber: "1112"
 phone: ""
 opening_hours: ""
 website: ""

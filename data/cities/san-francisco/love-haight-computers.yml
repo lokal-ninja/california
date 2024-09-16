@@ -4,8 +4,8 @@ latitude: 37.77048
 longitude: -122.44417
 postcode: "94117"
 city: San Francisco
-street: "Haight Street"
-housenumber: 1324
+street: Haight Street
+housenumber: "1324"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 10:00-17:00"
+opening_hours: Mo-Fr 09:30-18:30; Sa 10:00-17:00
 website: ""

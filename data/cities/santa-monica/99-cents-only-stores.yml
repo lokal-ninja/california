@@ -1,11 +1,11 @@
 id: 391081258
-type: way
+type: node
 latitude: 34.02454
 longitude: -118.46026
 postcode: "90405"
 city: Santa Monica
-street: "Pico Boulevard"
-housenumber: 2801
+street: Pico Boulevard
+housenumber: "2801"
 phone: ""
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://locations.99only.com/ca/santamonica/discount-store-35.html"
+opening_hours: Mo-Su 09:00-20:00
+website: https://locations.99only.com/ca/santamonica/discount-store-35.html

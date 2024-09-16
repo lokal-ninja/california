@@ -1,11 +1,11 @@
 id: 311711790
-type: way
+type: node
 latitude: 37.30314
 longitude: -120.49098
 postcode: "95340"
 city: Merced
-street: "West 16th Street"
-housenumber: 961
+street: West 16th Street
+housenumber: "961"
 phone: ""
 opening_hours: ""
 website: ""

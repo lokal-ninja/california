@@ -1,11 +1,11 @@
 id: 161115521
-type: way
+type: node
 latitude: 37.40144
 longitude: -122.19323
 postcode: "94028"
 city: Portola Valley
-street: "Alpine Road"
-housenumber: 3130
-phone: "+1 650 851 4391"
-opening_hours: "Mo-Su 07:00-20:00"
-website: "https://bianchinismarket.com/"
+street: Alpine Road
+housenumber: "3130"
+phone: +1 650 851 4391
+opening_hours: Mo-Su 07:00-20:00
+website: https://bianchinismarket.com/

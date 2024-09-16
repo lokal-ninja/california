@@ -1,11 +1,11 @@
 id: 104046349
-type: way
+type: node
 latitude: 37.32299
 longitude: -121.96114
 postcode: "95117"
 city: San Jose
-street: "Stevens Creek Boulevard"
-housenumber: 3530
-phone: "+1 408-423-8044"
-opening_hours: "Mo-Sa 10:00-20:00; Su 10:00-19:00"
-website: "https://stores.dsw.com/usa/ca/sanjose/dsw-designer-shoe-warehouse-steven's-creek.html"
+street: Stevens Creek Boulevard
+housenumber: "3530"
+phone: +1 408-423-8044
+opening_hours: Mo-Sa 10:00-20:00; Su 10:00-19:00
+website: https://stores.dsw.com/usa/ca/sanjose/dsw-designer-shoe-warehouse-steven's-creek.html

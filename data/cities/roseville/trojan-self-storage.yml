@@ -1,11 +1,11 @@
 id: 86335611
-type: way
+type: node
 latitude: 38.75076
 longitude: -121.31154
 postcode: "95747"
 city: Roseville
-street: "Baseline Road"
-housenumber: 1299
-phone: "916-771-5900"
+street: Baseline Road
+housenumber: "1299"
+phone: 916-771-5900
 opening_hours: ""
-website: "https://www.trojanstorage.com/"
+website: https://www.trojanstorage.com/

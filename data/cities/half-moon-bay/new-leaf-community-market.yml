@@ -1,11 +1,11 @@
 id: 219058157
-type: way
+type: node
 latitude: 37.46884
 longitude: -122.43186
 postcode: "94019"
 city: Half Moon Bay
-street: "San Mateo Road"
-housenumber: 150
+street: San Mateo Road
+housenumber: "150"
 phone: ""
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://newleaf.com/stores/view.php?location=3"
+opening_hours: Mo-Su 07:00-21:00
+website: https://newleaf.com/stores/view.php?location=3

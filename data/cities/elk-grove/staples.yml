@@ -1,11 +1,11 @@
 id: 253221705
-type: way
+type: node
 latitude: 38.42488
 longitude: -121.39425
 postcode: "95624"
 city: Elk Grove
-street: "East Stockton Boulevard"
-housenumber: 9146
+street: East Stockton Boulevard
+housenumber: "9146"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://stores.staples.com/ca/elk-grove/9146-east-stockton-blvd"
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-18:00
+website: https://stores.staples.com/ca/elk-grove/9146-east-stockton-blvd

@@ -1,11 +1,11 @@
 id: 451389989
-type: way
+type: node
 latitude: 33.9888
 longitude: -118.22356
 postcode: "90255"
 city: Huntington Park
-street: "Pacific Boulevard"
-housenumber: 5952
-phone: "+1 323-587-1489"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/5952-pacific-blvd-huntington-park-90255?number=373"
+street: Pacific Boulevard
+housenumber: "5952"
+phone: +1 323-587-1489
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/5952-pacific-blvd-huntington-park-90255?number=373

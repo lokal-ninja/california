@@ -1,11 +1,11 @@
 id: 312376030
-type: way
+type: node
 latitude: 37.81985
 longitude: -122.26131
 postcode: ""
 city: Oakland
-street: "Broadway"
-housenumber: 3060
+street: Broadway
+housenumber: "3060"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-15:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-15:00
 website: ""

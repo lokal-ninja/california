@@ -1,11 +1,11 @@
 id: 1285295333
-type: way
+type: node
 latitude: 37.63947
 longitude: -121.00534
 postcode: "95354"
 city: Modesto
-street: "7th Street"
-housenumber: 1117
-phone: "+1-209-521-9400"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-12:00"
-website: "https://www.mcleodracing.com/location/Bell-&-Gaines"
+street: 7th Street
+housenumber: "1117"
+phone: +1-209-521-9400
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-12:00
+website: https://www.mcleodracing.com/location/Bell-&-Gaines

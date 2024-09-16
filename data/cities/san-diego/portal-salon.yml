@@ -4,8 +4,8 @@ latitude: 32.74207
 longitude: -117.16012
 postcode: "92103"
 city: San Diego
-street: "Ivy Lane"
-housenumber: 511
-phone: "619-354-5411"
-opening_hours: "By Appointment"
-website: "https://theportalsalon.com/"
+street: Ivy Lane
+housenumber: "511"
+phone: 619-354-5411
+opening_hours: By Appointment
+website: https://theportalsalon.com/

@@ -1,11 +1,11 @@
 id: 1015478699
-type: way
+type: node
 latitude: 34.59583
 longitude: -120.13925
 postcode: "93463"
 city: Solvang
-street: "1st Street"
-housenumber: 496
+street: 1st Street
+housenumber: "496"
 phone: ""
 opening_hours: ""
 website: ""

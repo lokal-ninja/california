@@ -1,11 +1,11 @@
 id: 339130664
-type: way
+type: node
 latitude: 33.70059
 longitude: -117.88813
 postcode: "92704"
 city: Santa Ana
-street: "MacArthur Boulevard"
-housenumber: 1601
-phone: "+1 714-540-1875"
+street: MacArthur Boulevard
+housenumber: "1601"
+phone: +1 714-540-1875
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/santa-ana/1441-w-macarthur-35633"
+website: https://www.7-eleven.com/locations/ca/santa-ana/1441-w-macarthur-35633

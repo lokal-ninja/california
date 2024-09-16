@@ -1,11 +1,11 @@
 id: 442279064
-type: way
+type: node
 latitude: 33.81954
 longitude: -118.35033
 postcode: "90505"
 city: Torrance
-street: "Hawthorne Boulevard"
-housenumber: 22910
+street: Hawthorne Boulevard
+housenumber: "22910"
 phone: "+13103783237"
 opening_hours: ""
-website: "https://www.americastire.com/store/ca/torrance/s/1042?y_source=1_NjI3NDQwLTcxNS1sb2NhdGlvbi53ZWJzaXRl"
+website: https://www.americastire.com/store/ca/torrance/s/1042?y_source=1_NjI3NDQwLTcxNS1sb2NhdGlvbi53ZWJzaXRl

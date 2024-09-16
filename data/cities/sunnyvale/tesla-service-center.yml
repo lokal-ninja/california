@@ -1,11 +1,11 @@
 id: 113360712
-type: way
+type: node
 latitude: 37.35947
 longitude: -122.02277
 postcode: "94087"
 city: Sunnyvale
-street: "East El Camino Real"
-housenumber: 680
+street: East El Camino Real
+housenumber: "680"
 phone: ""
 opening_hours: ""
-website: "https://www.nissansunnyvale.com/"
+website: https://www.nissansunnyvale.com/

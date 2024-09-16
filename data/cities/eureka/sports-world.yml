@@ -1,11 +1,11 @@
 id: 238290514
-type: way
+type: node
 latitude: 40.80233
 longitude: -124.17238
 postcode: ""
 city: Eureka
-street: "West 4th Street"
-housenumber: 26
-phone: "+1 707-443-4011"
-opening_hours: "Mo-Fr 09:30-17:00"
-website: "https://www.facebook.com/pages/The-Sports-World/100296146696486"
+street: West 4th Street
+housenumber: "26"
+phone: +1 707-443-4011
+opening_hours: Mo-Fr 09:30-17:00
+website: https://www.facebook.com/pages/The-Sports-World/100296146696486

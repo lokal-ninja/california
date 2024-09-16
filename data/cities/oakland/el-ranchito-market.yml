@@ -1,11 +1,11 @@
 id: 473154239
-type: way
+type: node
 latitude: 37.7847
 longitude: -122.23454
 postcode: "94606"
 city: Oakland
-street: "23rd Avenue"
-housenumber: 1536
+street: 23rd Avenue
+housenumber: "1536"
 phone: ""
 opening_hours: ""
 website: ""

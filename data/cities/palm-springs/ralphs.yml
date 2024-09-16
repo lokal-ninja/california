@@ -1,11 +1,11 @@
 id: 239282052
-type: way
+type: node
 latitude: 33.79966
 longitude: -116.52658
 postcode: "92264"
 city: Palm Springs
-street: "East Palm Canyon Drive"
-housenumber: 1733
-phone: "+1 760-325-5664"
-opening_hours: "Mo-Su 05:00-24:00"
-website: "https://www.ralphs.com/stores/grocery/ca/palm-springs/smoketree-village/703/00181"
+street: East Palm Canyon Drive
+housenumber: "1733"
+phone: +1 760-325-5664
+opening_hours: Mo-Su 05:00-24:00
+website: https://www.ralphs.com/stores/grocery/ca/palm-springs/smoketree-village/703/00181

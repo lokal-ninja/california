@@ -4,8 +4,8 @@ latitude: 37.76999
 longitude: -122.40267
 postcode: "94103"
 city: San Francisco
-street: "King Street"
-housenumber: 68
-phone: "+1 415-595-1862"
-opening_hours: "Mo-Fr 11:00-17:00; Sa 11:00-16:00"
-website: "https://scicsanfrancisco.com"
+street: King Street
+housenumber: "68"
+phone: +1 415-595-1862
+opening_hours: Mo-Fr 11:00-17:00; Sa 11:00-16:00
+website: https://scicsanfrancisco.com

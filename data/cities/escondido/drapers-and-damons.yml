@@ -1,11 +1,11 @@
 id: 94333955
-type: way
+type: node
 latitude: 33.12163
 longitude: -117.08126
 postcode: "92025"
 city: Escondido
-street: "South Broadway"
-housenumber: 101
+street: South Broadway
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 227068916
-type: way
+type: node
 latitude: 37.31372
 longitude: -121.86056
 postcode: "95112"
 city: San Jose
-street: "South 10th Street"
-housenumber: 1795
+street: South 10th Street
+housenumber: "1795"
 phone: ""
 opening_hours: ""
 website: ""

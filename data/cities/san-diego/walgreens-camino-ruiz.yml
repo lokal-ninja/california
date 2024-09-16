@@ -1,11 +1,11 @@
 id: 280673785
-type: way
+type: node
 latitude: 32.91506
 longitude: -117.14368
 postcode: "92126"
 city: San Diego
-street: "Camino Ruiz"
-housenumber: 10787
+street: Camino Ruiz
+housenumber: "10787"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-10787+camino+ruiz-san+diego-ca-92126/id=11654"
+website: https://www.walgreens.com/locator/walgreens-10787+camino+ruiz-san+diego-ca-92126/id=11654

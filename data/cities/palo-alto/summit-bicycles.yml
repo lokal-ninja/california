@@ -1,11 +1,11 @@
 id: 232276145
-type: way
+type: node
 latitude: 37.42663
 longitude: -122.14479
 postcode: ""
 city: Palo Alto
-street: "South California Avenue"
-housenumber: 392
+street: South California Avenue
+housenumber: "392"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:00; Sa-Su 11:00-17:00"
+opening_hours: Mo-Fr 11:00-18:00; Sa-Su 11:00-17:00
 website: ""

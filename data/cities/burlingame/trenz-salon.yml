@@ -1,11 +1,11 @@
 id: 312335799
-type: way
+type: node
 latitude: 37.586
 longitude: -122.3647
 postcode: ""
 city: Burlingame
-street: "Broadway"
-housenumber: 1211
+street: Broadway
+housenumber: "1211"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 468702777
-type: way
+type: node
 latitude: 40.58338
 longitude: -122.35699
 postcode: "96002"
 city: Redding
-street: "East Hilltop Drive"
-housenumber: 1603
-phone: "+1 530-226-1200"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ca/redding/pet-supplies-redding-ca-366.html"
+street: East Hilltop Drive
+housenumber: "1603"
+phone: +1 530-226-1200
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/ca/redding/pet-supplies-redding-ca-366.html

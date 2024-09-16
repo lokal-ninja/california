@@ -1,11 +1,11 @@
 id: 359904402
-type: way
+type: node
 latitude: 33.90624
 longitude: -118.39436
 postcode: "90245"
 city: El Segundo
-street: "South Sepulveda Boulevard"
-housenumber: 730
-phone: "+1 310-333-0602"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ca/el-segundo-store1316.html"
+street: South Sepulveda Boulevard
+housenumber: "730"
+phone: +1 310-333-0602
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ca/el-segundo-store1316.html

@@ -1,11 +1,11 @@
 id: 944402544
-type: way
+type: node
 latitude: 33.20925
 longitude: -117.03491
 postcode: "92082"
 city: Valley Center
-street: "Valley Center Road"
-housenumber: 27444
-phone: "+1 760-751-5465"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Valley Center Road
+housenumber: "27444"
+phone: +1 760-751-5465
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

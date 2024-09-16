@@ -4,8 +4,8 @@ latitude: 37.79055
 longitude: -122.41407
 postcode: ""
 city: San Francisco
-street: "Pine Street"
-housenumber: 1100
+street: Pine Street
+housenumber: "1100"
 phone: ""
-opening_hours: "Mo-Su 09:00-22:00"
+opening_hours: Mo-Su 09:00-22:00
 website: ""

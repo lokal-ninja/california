@@ -1,11 +1,11 @@
 id: 879100149
-type: way
+type: node
 latitude: 37.62346
 longitude: -121.75602
 postcode: "94550"
 city: Livermore
-street: "Arroyo Road"
-housenumber: 5050
+street: Arroyo Road
+housenumber: "5050"
 phone: ""
 opening_hours: ""
 website: ""

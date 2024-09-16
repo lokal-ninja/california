@@ -1,11 +1,11 @@
 id: 132686785
-type: way
+type: node
 latitude: 33.55456
 longitude: -117.13903
 postcode: "92563"
 city: Murrieta
-street: "Sky Canyon Drive"
-housenumber: 38995
-phone: "+1 951-600-9583"
+street: Sky Canyon Drive
+housenumber: "38995"
+phone: +1 951-600-9583
 opening_hours: ""
-website: "https://local.vons.com/ca/murrieta/38995-sky-canyon-dr.html"
+website: https://local.vons.com/ca/murrieta/38995-sky-canyon-dr.html

@@ -4,8 +4,8 @@ latitude: 33.90675
 longitude: -117.45769
 postcode: "92503"
 city: Riverside
-street: "Tyler Street"
-housenumber: 3502
-phone: "+1 951-689-0235"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/riverside-ca-1153"
+street: Tyler Street
+housenumber: "3502"
+phone: +1 951-689-0235
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/riverside-ca-1153

@@ -4,8 +4,8 @@ latitude: 37.37321
 longitude: -121.84316
 postcode: "95133"
 city: San Jose
-street: "North Capitol Avenue"
-housenumber: 400
+street: North Capitol Avenue
+housenumber: "400"
 phone: ""
 opening_hours: ""
-website: "https://cuts-more-studio.edan.io/"
+website: https://cuts-more-studio.edan.io/

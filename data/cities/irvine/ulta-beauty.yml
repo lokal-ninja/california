@@ -1,11 +1,11 @@
 id: 101121785
-type: way
+type: node
 latitude: 33.72045
 longitude: -117.792
 postcode: "92602"
 city: Irvine
-street: "Jamboree Road"
-housenumber: 13676
-phone: "+1 714-573-2675"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/irvine-ca-736"
+street: Jamboree Road
+housenumber: "13676"
+phone: +1 714-573-2675
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/irvine-ca-736

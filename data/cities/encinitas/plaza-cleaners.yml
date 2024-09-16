@@ -1,11 +1,11 @@
 id: 80219786
-type: way
+type: node
 latitude: 33.05043
 longitude: -117.26102
 postcode: "92024"
 city: Encinitas
-street: "North El Camino Real"
-housenumber: 252
-phone: "760-942-3425"
+street: North El Camino Real
+housenumber: "252"
+phone: 760-942-3425
 opening_hours: ""
 website: ""

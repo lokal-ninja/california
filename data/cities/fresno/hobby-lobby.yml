@@ -1,11 +1,11 @@
 id: 849978120
-type: way
+type: node
 latitude: 36.83156
 longitude: -119.90918
 postcode: "93722"
 city: Fresno
-street: "North Riverside Drive"
-housenumber: 6485
+street: North Riverside Drive
+housenumber: "6485"
 phone: "+15592750123"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.hobbylobby.com/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.hobbylobby.com/

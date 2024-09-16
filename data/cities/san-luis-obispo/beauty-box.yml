@@ -4,8 +4,8 @@ latitude: 35.29365
 longitude: -120.6708
 postcode: "93405"
 city: San Luis Obispo
-street: "Chorro Street"
-housenumber: 17
+street: Chorro Street
+housenumber: "17"
 phone: "+18054393777"
-opening_hours: "Mo-Fr 11:00-18:00; Sa 10:18:00"
-website: "beautyboxslo.con"
+opening_hours: Mo-Fr 11:00-18:00; Sa 10:18:00
+website: beautyboxslo.con

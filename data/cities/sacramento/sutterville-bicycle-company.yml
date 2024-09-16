@@ -1,11 +1,11 @@
 id: 1089355418
-type: way
+type: node
 latitude: 38.53863
 longitude: -121.486
 postcode: "95822"
 city: Sacramento
-street: "SUTTERVILLE BYPASS"
-housenumber: 2365
-phone: "(916) 737 -7537"
-opening_hours: "Tu-Su 12:00-18:00"
+street: SUTTERVILLE BYPASS
+housenumber: "2365"
+phone: (916) 737 -7537
+opening_hours: Tu-Su 12:00-18:00
 website: ""

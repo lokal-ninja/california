@@ -1,11 +1,11 @@
 id: 259804442
-type: way
+type: node
 latitude: 37.77748
 longitude: -122.22525
 postcode: "94601"
 city: Oakland
-street: "International Boulevard"
-housenumber: 3240
-phone: "510-261-8909"
+street: International Boulevard
+housenumber: "3240"
+phone: 510-261-8909
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 276135287
-type: way
+type: node
 latitude: 37.36763
 longitude: -122.02222
 postcode: "94086"
 city: Sunnyvale
-street: "Old San Francisco Road"
-housenumber: 615
-phone: "+1 408-735-9080"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ca/sunnyvale/615-old-san-francisco-14219"
+street: Old San Francisco Road
+housenumber: "615"
+phone: +1 408-735-9080
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ca/sunnyvale/615-old-san-francisco-14219

@@ -1,11 +1,11 @@
 id: 443634070
-type: way
+type: node
 latitude: 36.75191
 longitude: -119.71952
 postcode: "93727"
 city: Fresno
-street: "East Belmont Avenue"
-housenumber: 5175
+street: East Belmont Avenue
+housenumber: "5175"
 phone: ""
-opening_hours: "8:00 - 21:00"
+opening_hours: 8:00 - 21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1208420237
-type: way
+type: node
 latitude: 34.28419
 longitude: -118.44106
 postcode: "91340"
 city: San Fernando
-street: "Truman Street"
-housenumber: 
+street: Truman Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

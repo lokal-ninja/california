@@ -1,11 +1,11 @@
 id: 682796927
-type: way
+type: node
 latitude: 32.59358
 longitude: -117.07432
 postcode: "91911"
 city: Chula Vista
-street: "Broadway"
-housenumber: 1773
+street: Broadway
+housenumber: "1773"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00"
+opening_hours: Mo-Sa 09:00-18:00
 website: ""

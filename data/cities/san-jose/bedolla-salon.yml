@@ -4,8 +4,8 @@ latitude: 37.32984
 longitude: -121.91171
 postcode: "95126"
 city: San Jose
-street: "Race Street"
-housenumber: 74
+street: Race Street
+housenumber: "74"
 phone: ""
 opening_hours: ""
-website: "https://bedollasalon.com/"
+website: https://bedollasalon.com/

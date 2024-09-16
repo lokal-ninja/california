@@ -4,8 +4,8 @@ latitude: 34.08382
 longitude: -118.38616
 postcode: "90069"
 city: West Hollywood
-street: "Santa Monica Boulevard"
-housenumber: 8951
-phone: "+1-310-858-8838"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://www.beautycollection.com/West-Hollywood"
+street: Santa Monica Boulevard
+housenumber: "8951"
+phone: +1-310-858-8838
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://www.beautycollection.com/West-Hollywood

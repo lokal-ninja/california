@@ -1,11 +1,11 @@
 id: 785160916
-type: way
+type: node
 latitude: 33.71249
 longitude: -117.88503
 postcode: "92704"
 city: Santa Ana
-street: "South Bristol Street"
-housenumber: 2603
+street: South Bristol Street
+housenumber: "2603"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ca/santa-ana/2603-s-bristol-st.html"
+website: https://www.autozone.com/locations/ca/santa-ana/2603-s-bristol-st.html

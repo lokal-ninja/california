@@ -1,11 +1,11 @@
 id: 662207806
-type: way
+type: node
 latitude: 33.81563
 longitude: -117.82248
 postcode: "92861"
 city: Villa Park
-street: "Santiago Boulevard"
-housenumber: 17767
-phone: "+1-714-941-5401"
+street: Santiago Boulevard
+housenumber: "17767"
+phone: +1-714-941-5401
 opening_hours: ""
-website: "https://www.theyoungamerican.com/"
+website: https://www.theyoungamerican.com/

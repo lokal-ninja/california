@@ -1,11 +1,11 @@
 id: 132301661
-type: way
+type: node
 latitude: 38.34875
 longitude: -122.72475
 postcode: "94928"
 city: Rohnert Park
-street: "Rohnert Park Expressway"
-housenumber: 605
-phone: "707-584-1200"
-opening_hours: "Mo-Su 06:00-01:00"
+street: Rohnert Park Expressway
+housenumber: "605"
+phone: 707-584-1200
+opening_hours: Mo-Su 06:00-01:00
 website: ""

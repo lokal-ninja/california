@@ -4,8 +4,8 @@ latitude: 37.77644
 longitude: -122.42544
 postcode: "94102"
 city: San Francisco
-street: "Hayes Street"
-housenumber: 551
-phone: "+1 415-901-3491"
+street: Hayes Street
+housenumber: "551"
+phone: +1 415-901-3491
 opening_hours: ""
-website: "https://sfdancegear.com/"
+website: https://sfdancegear.com/

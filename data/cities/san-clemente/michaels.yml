@@ -1,11 +1,11 @@
 id: 394956908
-type: way
+type: node
 latitude: 33.45489
 longitude: -117.60815
 postcode: "92673"
 city: San Clemente
-street: "Avenida Pico"
-housenumber: 937
-phone: "+1 949-940-0465"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/ca/san-clemente/2711"
+street: Avenida Pico
+housenumber: "937"
+phone: +1 949-940-0465
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/ca/san-clemente/2711

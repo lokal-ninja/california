@@ -1,11 +1,11 @@
 id: 972186972
-type: way
+type: node
 latitude: 34.12089
 longitude: -117.45404
 postcode: "92336"
 city: Fontana
-street: "Baseline Avenue"
-housenumber: 16049
+street: Baseline Avenue
+housenumber: "16049"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/fontana-ca-pharmacies/16049-baseline-avenue-1-fontana-ca-92336/storeid=11035"
+website: https://www.cvs.com/store-locator/fontana-ca-pharmacies/16049-baseline-avenue-1-fontana-ca-92336/storeid=11035

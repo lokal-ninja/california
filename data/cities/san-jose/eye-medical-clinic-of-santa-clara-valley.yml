@@ -1,11 +1,11 @@
 id: 229832384
-type: way
+type: node
 latitude: 37.32526
 longitude: -121.91339
 postcode: "95126"
 city: San Jose
-street: "Meridian Avenue"
-housenumber: 220
+street: Meridian Avenue
+housenumber: "220"
 phone: ""
 opening_hours: ""
-website: "https://www.eyemedicalclinic.com/"
+website: https://www.eyemedicalclinic.com/

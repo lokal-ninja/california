@@ -1,11 +1,11 @@
 id: 55313762
-type: way
+type: node
 latitude: 33.63713
 longitude: -117.9407
 postcode: "92627"
 city: Costa Mesa
-street: "Whittier Avenue"
-housenumber: 1741
+street: Whittier Avenue
+housenumber: "1741"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 107138702
-type: way
+type: node
 latitude: 38.57303
 longitude: -121.57889
 postcode: "95691"
 city: West Sacramento
-street: "Enterprise Boulevard"
-housenumber: 4000
+street: Enterprise Boulevard
+housenumber: "4000"
 phone: ""
 opening_hours: ""
 website: ""

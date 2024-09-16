@@ -1,11 +1,11 @@
 id: 782888809
-type: way
+type: node
 latitude: 38.42857
 longitude: -122.74345
 postcode: "95407"
 city: Santa Rosa
-street: "Sebastopol Road"
-housenumber: 2011
+street: Sebastopol Road
+housenumber: "2011"
 phone: ""
 opening_hours: ""
 website: ""

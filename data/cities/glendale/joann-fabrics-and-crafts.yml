@@ -1,11 +1,11 @@
 id: 397821368
-type: way
+type: node
 latitude: 34.13388
 longitude: -118.25659
 postcode: "91204"
 city: Glendale
-street: "South Central Avenue"
-housenumber: 1000
-phone: "+1 818-546-8755"
-opening_hours: "Su 10:00-19:00,Mo-Fr 9:00-21:00,Sa 9:00-21:00"
-website: "https://stores.joann.com/ca/glendale/2389/"
+street: South Central Avenue
+housenumber: "1000"
+phone: +1 818-546-8755
+opening_hours: Su 10:00-19:00,Mo-Fr 9:00-21:00,Sa 9:00-21:00
+website: https://stores.joann.com/ca/glendale/2389/

@@ -1,11 +1,11 @@
 id: 269632187
-type: way
+type: node
 latitude: 37.74951
 longitude: -122.41501
 postcode: ""
 city: San Francisco
-street: "26th Street"
-housenumber: 3260
+street: 26th Street
+housenumber: "3260"
 phone: ""
 opening_hours: ""
 website: ""

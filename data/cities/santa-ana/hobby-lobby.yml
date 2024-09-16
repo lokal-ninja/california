@@ -1,11 +1,11 @@
 id: 228735018
-type: way
+type: node
 latitude: 33.76131
 longitude: -117.83816
 postcode: "92705"
 city: Santa Ana
-street: "East 17th Street"
-housenumber: 1975
+street: East 17th Street
+housenumber: "1975"
 phone: ""
 opening_hours: ""
 website: ""

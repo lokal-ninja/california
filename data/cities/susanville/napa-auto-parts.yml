@@ -1,11 +1,11 @@
 id: 436364468
-type: way
+type: node
 latitude: 40.41733
 longitude: -120.65456
 postcode: "96130"
 city: Susanville
-street: "Main Street"
-housenumber: 1289
+street: Main Street
+housenumber: "1289"
 phone: "5302575131"
-opening_hours: "Mo-Fr 08:00-17:00, Sa 9:00-15:00"
+opening_hours: Mo-Fr 08:00-17:00, Sa 9:00-15:00
 website: ""

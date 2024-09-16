@@ -1,11 +1,11 @@
 id: 1126103639
-type: way
+type: node
 latitude: 37.78255
 longitude: -121.53375
 postcode: "95391"
 city: Mountain House
-street: "Mountain House Parkway"
-housenumber: 19555
-phone: "+1 209-362-1256"
+street: Mountain House Parkway
+housenumber: "19555"
+phone: +1 209-362-1256
 opening_hours: ""
-website: "https://local.safeway.com/safeway/ca/mountain-house/19555-s-mountain-house-pkwy.html"
+website: https://local.safeway.com/safeway/ca/mountain-house/19555-s-mountain-house-pkwy.html

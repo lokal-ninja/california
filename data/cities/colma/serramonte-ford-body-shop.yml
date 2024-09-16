@@ -1,11 +1,11 @@
 id: 382759646
-type: way
+type: node
 latitude: 37.67319
 longitude: -122.46045
 postcode: "94014"
 city: Colma
-street: "Collins Avenue"
-housenumber: 500
+street: Collins Avenue
+housenumber: "500"
 phone: ""
 opening_hours: ""
 website: ""

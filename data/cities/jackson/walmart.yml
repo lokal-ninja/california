@@ -1,11 +1,11 @@
 id: 694049321
-type: way
+type: node
 latitude: 38.35841
 longitude: -120.80586
 postcode: "95642"
 city: Jackson
-street: "Wicklow Way"
-housenumber: 10355
-phone: "+1 209-223-5384"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.walmart.com/store/2054/jackson-ca/whats-new"
+street: Wicklow Way
+housenumber: "10355"
+phone: +1 209-223-5384
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.walmart.com/store/2054/jackson-ca/whats-new

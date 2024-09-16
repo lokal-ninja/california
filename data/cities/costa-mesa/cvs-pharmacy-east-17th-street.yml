@@ -1,11 +1,11 @@
 id: 553135939
-type: way
+type: node
 latitude: 33.63618
 longitude: -117.92044
 postcode: "92627"
 city: Costa Mesa
-street: "East 17th Street"
-housenumber: 171
+street: East 17th Street
+housenumber: "171"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/costa-mesa-ca-pharmacies/175-e-17th-st-costa-mesa-ca-92627/storeid=9863"
+website: https://www.cvs.com/store-locator/costa-mesa-ca-pharmacies/175-e-17th-st-costa-mesa-ca-92627/storeid=9863

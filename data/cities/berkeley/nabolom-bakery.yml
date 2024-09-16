@@ -4,8 +4,8 @@ latitude: 37.85839
 longitude: -122.25277
 postcode: ""
 city: Berkeley
-street: "Russell Street"
-housenumber: 2708
+street: Russell Street
+housenumber: "2708"
 phone: ""
-opening_hours: "Mo 7:00-14:00; Tu-Fr 7:00-17:00; Sa-Su 7:30-17:00"
-website: "https://www.nabolombakery.com/"
+opening_hours: Mo 7:00-14:00; Tu-Fr 7:00-17:00; Sa-Su 7:30-17:00
+website: https://www.nabolombakery.com/

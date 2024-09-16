@@ -1,11 +1,11 @@
 id: 935637925
-type: way
+type: node
 latitude: 33.76024
 longitude: -118.00652
-postcode: "92683-3804"
+postcode: 92683-3804
 city: Westminster
-street: "Goldenwest Street"
-housenumber: 13900
-phone: "+1 661-836-4305"
-opening_hours: "Mo, We, Fr-Su 09:00-21:00; Tu, Th 08:30-21:00"
-website: "https://stores.aldi.us/ca/westminster/13900-goldenwest-st"
+street: Goldenwest Street
+housenumber: "13900"
+phone: +1 661-836-4305
+opening_hours: Mo, We, Fr-Su 09:00-21:00; Tu, Th 08:30-21:00
+website: https://stores.aldi.us/ca/westminster/13900-goldenwest-st

@@ -1,11 +1,11 @@
 id: 1002782873
-type: way
+type: node
 latitude: 33.67779
 longitude: -116.30253
 postcode: "92253"
 city: La Quinta
-street: "Main Street"
-housenumber: 78100
+street: Main Street
+housenumber: "78100"
 phone: ""
 opening_hours: ""
 website: ""

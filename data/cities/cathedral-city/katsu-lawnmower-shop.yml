@@ -1,11 +1,11 @@
 id: 231002681
-type: way
+type: node
 latitude: 33.81678
 longitude: -116.48461
 postcode: "92234"
 city: Cathedral City
-street: "Sarah Street"
-housenumber: 67470
-phone: "760-320-4335"
+street: Sarah Street
+housenumber: "67470"
+phone: 760-320-4335
 opening_hours: ""
 website: ""

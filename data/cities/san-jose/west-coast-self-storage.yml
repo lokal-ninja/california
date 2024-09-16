@@ -1,11 +1,11 @@
 id: 37893788
-type: way
+type: node
 latitude: 37.32009
 longitude: -121.90979
 postcode: "95126"
 city: San Jose
-street: "Lincoln Avenue"
-housenumber: 421
-phone: "+1-408-977-1010"
+street: Lincoln Avenue
+housenumber: "421"
+phone: +1-408-977-1010
 opening_hours: ""
-website: "https://westcoastselfstoragesanjose.com/"
+website: https://westcoastselfstoragesanjose.com/

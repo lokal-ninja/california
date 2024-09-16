@@ -1,11 +1,11 @@
 id: 250610757
-type: way
+type: node
 latitude: 37.37532
 longitude: -122.06099
 postcode: "94040"
 city: Mountain View
-street: "East El Camino Real"
-housenumber: 861
+street: East El Camino Real
+housenumber: "861"
 phone: ""
 opening_hours: ""
-website: "http://kitchensbymeyer.com"
+website: http://kitchensbymeyer.com

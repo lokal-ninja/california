@@ -1,11 +1,11 @@
 id: 472905677
-type: way
+type: node
 latitude: 34.60901
 longitude: -118.14386
 postcode: "93551"
 city: Palmdale
-street: "10th Street West"
-housenumber: 39940
-phone: "+1 661-575-9200"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/palmdale-ca-sams-club/4767"
+street: 10th Street West
+housenumber: "39940"
+phone: +1 661-575-9200
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/palmdale-ca-sams-club/4767

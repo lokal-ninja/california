@@ -1,11 +1,11 @@
 id: 386859263
-type: way
+type: node
 latitude: 37.70481
 longitude: -121.8827
 postcode: "94568"
 city: Dublin
-street: "Dublin Boulevard"
-housenumber: 4870
+street: Dublin Boulevard
+housenumber: "4870"
 phone: ""
 opening_hours: ""
 website: ""

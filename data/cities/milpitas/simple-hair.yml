@@ -4,8 +4,8 @@ latitude: 37.43338
 longitude: -121.90144
 postcode: "95035"
 city: Milpitas
-street: "North Milpitas Boulevard"
-housenumber: 33
+street: North Milpitas Boulevard
+housenumber: "33"
 phone: ""
-opening_hours: "Sa,Su off, Mo,We-Fr 10:00-19:00, Sa,Su 09:30-18:00"
-website: "http://simplehairs.com/"
+opening_hours: Sa,Su off, Mo,We-Fr 10:00-19:00, Sa,Su 09:30-18:00
+website: http://simplehairs.com/

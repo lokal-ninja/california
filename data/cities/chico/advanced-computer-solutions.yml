@@ -1,11 +1,11 @@
 id: 484467587
-type: way
+type: node
 latitude: 39.74746
 longitude: -121.8913
 postcode: "95973"
 city: Chico
-street: "Jordans Place Ste 600"
-housenumber: 28
-phone: "+1-530-826-6906"
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://advcompsolutions.com/"
+street: Jordans Place Ste 600
+housenumber: "28"
+phone: +1-530-826-6906
+opening_hours: Mo-Fr 10:00-18:00
+website: https://advcompsolutions.com/

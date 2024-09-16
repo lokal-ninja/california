@@ -1,11 +1,11 @@
 id: 991117347
-type: way
+type: node
 latitude: 37.93739
 longitude: -122.05388
 postcode: "94597"
 city: Walnut Creek
-street: "Mayhew Way"
-housenumber: 181
+street: Mayhew Way
+housenumber: "181"
 phone: ""
 opening_hours: ""
 website: ""

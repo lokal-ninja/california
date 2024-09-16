@@ -1,11 +1,11 @@
 id: 259292220
-type: way
+type: node
 latitude: 33.80557
 longitude: -118.35148
 postcode: "90505"
 city: Torrance
-street: "Hawthorne Boulevard"
-housenumber: 24043
+street: Hawthorne Boulevard
+housenumber: "24043"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/ca/torrance/oil-change-gn0010.html"
+website: https://store.vioc.com/ca/torrance/oil-change-gn0010.html

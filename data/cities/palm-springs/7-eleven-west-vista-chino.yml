@@ -1,11 +1,11 @@
 id: 312212566
-type: way
+type: node
 latitude: 33.84515
 longitude: -116.54629
 postcode: "92262"
 city: Palm Springs
-street: "West Vista Chino"
-housenumber: 150
-phone: "+1 760-327-0305"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ca/palm-springs/150-w-vista-chino-34637"
+street: West Vista Chino
+housenumber: "150"
+phone: +1 760-327-0305
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ca/palm-springs/150-w-vista-chino-34637

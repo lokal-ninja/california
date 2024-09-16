@@ -1,11 +1,11 @@
 id: 404159214
-type: way
+type: node
 latitude: 33.209
 longitude: -117.38736
 postcode: "92054"
 city: Oceanside
-street: "North Coast Highway"
-housenumber: 1601
+street: North Coast Highway
+housenumber: "1601"
 phone: ""
 opening_hours: ""
 website: ""

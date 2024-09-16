@@ -1,11 +1,11 @@
 id: 237698969
-type: way
+type: node
 latitude: 37.57857
 longitude: -122.3469
 postcode: ""
 city: Burlingame
-street: "Burlingame Avenue"
-housenumber: 1235
-phone: "650-343-2874"
-opening_hours: "Mo-Sa 10:00-18:00; Su 10:00-17:00"
-website: "https://www.francescas.com/"
+street: Burlingame Avenue
+housenumber: "1235"
+phone: 650-343-2874
+opening_hours: Mo-Sa 10:00-18:00; Su 10:00-17:00
+website: https://www.francescas.com/

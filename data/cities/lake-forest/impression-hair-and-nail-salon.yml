@@ -4,8 +4,8 @@ latitude: 33.6216
 longitude: -117.70024
 postcode: "92630"
 city: Lake Forest
-street: "Raymond Way"
-housenumber: 24601
-phone: "+1 949-280-3263"
-opening_hours: "Mo-Fr 10:00-19:30; Sa 09:30-19:30 || Sunday by appointment"
+street: Raymond Way
+housenumber: "24601"
+phone: +1 949-280-3263
+opening_hours: Mo-Fr 10:00-19:30; Sa 09:30-19:30 || "Sunday by appointment"
 website: ""

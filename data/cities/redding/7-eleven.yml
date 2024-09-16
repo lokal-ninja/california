@@ -1,11 +1,11 @@
 id: 475756507
-type: way
+type: node
 latitude: 40.57742
 longitude: -122.41262
 postcode: "96001"
 city: Redding
-street: "Placer Street"
-housenumber: 3002
-phone: "+1 530-246-2291"
+street: Placer Street
+housenumber: "3002"
+phone: +1 530-246-2291
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/redding/3002-placer-street-20090"
+website: https://www.7-eleven.com/locations/ca/redding/3002-placer-street-20090

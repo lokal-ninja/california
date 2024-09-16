@@ -1,11 +1,11 @@
 id: 93751928
-type: way
+type: node
 latitude: 37.5351
 longitude: -122.29608
 postcode: "94403"
 city: San Mateo
-street: "South El Camino Real"
-housenumber: 3580
-phone: "+1-650-638-0294"
-opening_hours: "Mo-Fr 06:30-17:00; Sa 08:00-13:00"
-website: "https://www.dunnedwards.com/directory/store-list/san-mateo-155"
+street: South El Camino Real
+housenumber: "3580"
+phone: +1-650-638-0294
+opening_hours: Mo-Fr 06:30-17:00; Sa 08:00-13:00
+website: https://www.dunnedwards.com/directory/store-list/san-mateo-155

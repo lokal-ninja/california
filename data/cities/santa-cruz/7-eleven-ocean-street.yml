@@ -1,11 +1,11 @@
 id: 35555836
-type: way
+type: node
 latitude: 36.97307
 longitude: -122.01862
 postcode: "95060"
 city: Santa Cruz
-street: "Ocean Street"
-housenumber: 367
-phone: "+1 831-426-6027"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ca/santa-cruz/367-ocean-st-14279"
+street: Ocean Street
+housenumber: "367"
+phone: +1 831-426-6027
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ca/santa-cruz/367-ocean-st-14279

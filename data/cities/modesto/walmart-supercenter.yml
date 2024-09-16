@@ -1,11 +1,11 @@
 id: 693748249
-type: way
+type: node
 latitude: 37.69396
 longitude: -120.99232
 postcode: "95356"
 city: Modesto
-street: "McHenry Avenue"
-housenumber: 3848
-phone: "+1 209-342-0949"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/5710/modesto-ca/whats-new"
+street: McHenry Avenue
+housenumber: "3848"
+phone: +1 209-342-0949
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/5710/modesto-ca/whats-new

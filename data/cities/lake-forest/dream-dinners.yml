@@ -1,11 +1,11 @@
 id: 361092096
-type: way
+type: node
 latitude: 33.63878
 longitude: -117.68079
 postcode: "92630"
 city: Lake Forest
-street: "El Toro Road"
-housenumber: 22369
+street: El Toro Road
+housenumber: "22369"
 phone: ""
-opening_hours: "by appointment"
+opening_hours: '"by appointment"'
 website: ""

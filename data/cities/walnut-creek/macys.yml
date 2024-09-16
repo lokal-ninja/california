@@ -1,11 +1,11 @@
 id: 131655017
-type: way
+type: node
 latitude: 37.89523
 longitude: -122.05783
 postcode: "94596"
 city: Walnut Creek
-street: "Broadway Plaza"
-housenumber: 1320
+street: Broadway Plaza
+housenumber: "1320"
 phone: ""
 opening_hours: ""
-website: "https://www.macys.com/stores/ca/walnutcreek/broadway-plaza_324.html"
+website: https://www.macys.com/stores/ca/walnutcreek/broadway-plaza_324.html

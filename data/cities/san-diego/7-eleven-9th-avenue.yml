@@ -4,8 +4,8 @@ latitude: 32.70958
 longitude: -117.15633
 postcode: "92101"
 city: San Diego
-street: "9th Avenue"
-housenumber: 417
-phone: "+1 619-234-0353"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.7-eleven.com/locations/ca/san-diego/417-9th-avenue-suite-a-33666"
+street: 9th Avenue
+housenumber: "417"
+phone: +1 619-234-0353
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.7-eleven.com/locations/ca/san-diego/417-9th-avenue-suite-a-33666

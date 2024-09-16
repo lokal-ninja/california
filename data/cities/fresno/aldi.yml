@@ -1,11 +1,11 @@
 id: 1275177631
-type: way
+type: node
 latitude: 36.81003
 longitude: -119.82839
 postcode: "93711"
 city: Fresno
-street: "West Shaw Avenue"
-housenumber: 2072
+street: West Shaw Avenue
+housenumber: "2072"
 phone: "+18559552534"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://stores.aldi.us/ca/fresno/2072-w-shaw-ave?utm_source=google&utm_medium=local&utm_campaign=brand&utm_content=storepage_webclick"
+opening_hours: Mo-Su 09:00-21:00
+website: https://stores.aldi.us/ca/fresno/2072-w-shaw-ave?utm_source=google&utm_medium=local&utm_campaign=brand&utm_content=storepage_webclick

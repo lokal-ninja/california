@@ -4,8 +4,8 @@ latitude: 38.57985
 longitude: -121.49498
 postcode: ""
 city: Sacramento
-street: "9th Street"
-housenumber: 1023
-phone: "(916) 443-1711"
-opening_hours: "Mo-Fr 9:00-17:00"
-website: "https://optometryon9th.com/"
+street: 9th Street
+housenumber: "1023"
+phone: (916) 443-1711
+opening_hours: Mo-Fr 9:00-17:00
+website: https://optometryon9th.com/

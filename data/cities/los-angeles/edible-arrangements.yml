@@ -4,8 +4,8 @@ latitude: 34.08317
 longitude: -118.32864
 postcode: "90038"
 city: Los Angeles
-street: "Melrose Avenue"
-housenumber: 5870
-phone: "+1-323-462-6666"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-17:00; Su 10:00-17:00"
-website: "https://www.ediblearrangements.com/stores/5870-Melrose-Avenue-Los-Angeles-CA-90038"
+street: Melrose Avenue
+housenumber: "5870"
+phone: +1-323-462-6666
+opening_hours: Mo-Fr 08:00-19:00; Sa 09:00-17:00; Su 10:00-17:00
+website: https://www.ediblearrangements.com/stores/5870-Melrose-Avenue-Los-Angeles-CA-90038

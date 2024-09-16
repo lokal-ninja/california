@@ -1,11 +1,11 @@
 id: 311712164
-type: way
+type: node
 latitude: 37.30465
 longitude: -120.48639
 postcode: "95340"
 city: Merced
-street: "West 19th Street"
-housenumber: 740
+street: West 19th Street
+housenumber: "740"
 phone: ""
 opening_hours: ""
 website: ""

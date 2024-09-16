@@ -1,11 +1,11 @@
 id: 269471637
-type: way
+type: node
 latitude: 39.73076
 longitude: -121.83998
 postcode: "95928"
 city: Chico
-street: "East 2nd Street"
-housenumber: 166
+street: East 2nd Street
+housenumber: "166"
 phone: ""
 opening_hours: ""
 website: ""

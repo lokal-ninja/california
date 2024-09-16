@@ -1,11 +1,11 @@
 id: 31809742
-type: way
+type: node
 latitude: 32.74188
 longitude: -117.18544
 postcode: "92110"
 city: San Diego
-street: "Sutherland Street"
-housenumber: 3441
+street: Sutherland Street
+housenumber: "3441"
 phone: ""
 opening_hours: ""
 website: ""

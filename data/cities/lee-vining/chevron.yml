@@ -1,11 +1,11 @@
 id: 42149319
-type: way
+type: node
 latitude: 37.95883
 longitude: -119.1213
 postcode: "93541"
 city: Lee Vining
-street: "US 395"
-housenumber: 51557
+street: US 395
+housenumber: "51557"
 phone: ""
 opening_hours: ""
 website: ""

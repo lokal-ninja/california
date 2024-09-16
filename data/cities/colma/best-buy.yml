@@ -1,11 +1,11 @@
 id: 143811375
-type: way
+type: node
 latitude: 37.67662
 longitude: -122.46504
 postcode: "94014"
 city: Colma
-street: "Colma Boulevard"
-housenumber: 200
-phone: "+1 650-756-8711"
+street: Colma Boulevard
+housenumber: "200"
+phone: +1 650-756-8711
 opening_hours: ""
-website: "http://stores.bestbuy.com/873/"
+website: http://stores.bestbuy.com/873/

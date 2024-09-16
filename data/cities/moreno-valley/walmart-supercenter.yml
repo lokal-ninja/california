@@ -1,11 +1,11 @@
 id: 712387295
-type: way
+type: node
 latitude: 33.9368
 longitude: -117.18256
 postcode: "92555"
 city: Moreno Valley
-street: "Moreno Beach Drive"
-housenumber: 12721
-phone: "+1 951-242-1185"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/5193/moreno-valley-ca/whats-new"
+street: Moreno Beach Drive
+housenumber: "12721"
+phone: +1 951-242-1185
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/5193/moreno-valley-ca/whats-new

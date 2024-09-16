@@ -1,11 +1,11 @@
 id: 133574187
-type: way
+type: node
 latitude: 34.1852
 longitude: -118.59356
 postcode: "91367"
 city: Woodland Hills
-street: "Variel Avenue"
-housenumber: 6345
-phone: "+1 818-716-9141"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/woodland-hills/ca/woodland-hills/91367/6632"
+street: Variel Avenue
+housenumber: "6345"
+phone: +1 818-716-9141
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/woodland-hills/ca/woodland-hills/91367/6632

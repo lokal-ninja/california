@@ -1,11 +1,11 @@
 id: 160439385
-type: way
+type: node
 latitude: 33.77442
 longitude: -117.9438
 postcode: "92843"
 city: Garden Grove
-street: "Garden Grove Boulevard"
-housenumber: 10801
-phone: "+1 714-539-0319"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Garden-Grove/CA/Garden-Grove/92843/6639"
+street: Garden Grove Boulevard
+housenumber: "10801"
+phone: +1 714-539-0319
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Garden-Grove/CA/Garden-Grove/92843/6639

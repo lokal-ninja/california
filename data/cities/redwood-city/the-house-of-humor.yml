@@ -4,8 +4,8 @@ latitude: 37.48666
 longitude: -122.23512
 postcode: ""
 city: Redwood City
-street: "El Camino Real"
-housenumber: 747
-phone: "+1 650-365-5524"
-opening_hours: "We-Fr 12:00-18:00; Sa 11:00-17:00"
-website: "https://thehouseofhumor.com"
+street: El Camino Real
+housenumber: "747"
+phone: +1 650-365-5524
+opening_hours: We-Fr 12:00-18:00; Sa 11:00-17:00
+website: https://thehouseofhumor.com

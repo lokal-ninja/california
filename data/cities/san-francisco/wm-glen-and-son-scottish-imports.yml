@@ -4,8 +4,8 @@ latitude: 37.78964
 longitude: -122.40651
 postcode: ""
 city: San Francisco
-street: "Sutter Street"
-housenumber: 360
-phone: "+1 415 9895458"
-opening_hours: "Mo-Sa 10:00-18:00; Su 11:00-17:00"
-website: "https://wmglenusa.com/"
+street: Sutter Street
+housenumber: "360"
+phone: +1 415 9895458
+opening_hours: Mo-Sa 10:00-18:00; Su 11:00-17:00
+website: https://wmglenusa.com/

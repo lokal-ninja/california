@@ -1,11 +1,11 @@
 id: 471874546
-type: way
+type: node
 latitude: 34.15075
 longitude: -118.24622
 postcode: "91206"
 city: Glendale
-street: "North Glendale Avenue"
-housenumber: 331
-phone: "+1 818-548-3695"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/glendale"
+street: North Glendale Avenue
+housenumber: "331"
+phone: +1 818-548-3695
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.wholefoodsmarket.com/stores/glendale

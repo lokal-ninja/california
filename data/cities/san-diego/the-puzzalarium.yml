@@ -4,8 +4,8 @@ latitude: 32.7478
 longitude: -117.16097
 postcode: ""
 city: San Diego
-street: "5th Avenue"
-housenumber: 3864
+street: 5th Avenue
+housenumber: "3864"
 phone: "6194021466"
 opening_hours: ""
-website: "https://puzzalarium.com/"
+website: https://puzzalarium.com/

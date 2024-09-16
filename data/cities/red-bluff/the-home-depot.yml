@@ -1,11 +1,11 @@
 id: 1254180760
-type: way
+type: node
 latitude: 40.19402
 longitude: -122.23785
 postcode: "96080"
 city: Red Bluff
-street: "Main Street"
-housenumber: 2650
-phone: "+1 530-528-8579"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Red-Bluff/CA/Red-Bluff/96080/8492"
+street: Main Street
+housenumber: "2650"
+phone: +1 530-528-8579
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Red-Bluff/CA/Red-Bluff/96080/8492

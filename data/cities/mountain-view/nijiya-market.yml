@@ -4,8 +4,8 @@ latitude: 37.37867
 longitude: -122.07145
 postcode: "94040"
 city: Mountain View
-street: "East El Camino Real"
-housenumber: 143
-phone: "+1 650 6911600"
-opening_hours: "07:00-22:00"
-website: "https://www.nijiya.com/"
+street: East El Camino Real
+housenumber: "143"
+phone: +1 650 6911600
+opening_hours: 07:00-22:00
+website: https://www.nijiya.com/

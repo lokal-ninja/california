@@ -1,11 +1,11 @@
 id: 28136100
-type: way
+type: node
 latitude: 37.00509
 longitude: -121.55202
 postcode: "95020"
 city: Gilroy
-street: "Camino Arroyo"
-housenumber: 7011
-phone: "+1 408-847-0325"
+street: Camino Arroyo
+housenumber: "7011"
+phone: +1 408-847-0325
 opening_hours: ""
-website: "https://stores.bestbuy.com/ca/gilroy/7011-camino-arroyo-884.html?ref=NS&loc=ns100"
+website: https://stores.bestbuy.com/ca/gilroy/7011-camino-arroyo-884.html?ref=NS&loc=ns100

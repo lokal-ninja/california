@@ -1,11 +1,11 @@
 id: 470614813
-type: way
+type: node
 latitude: 34.09513
 longitude: -117.87238
 postcode: "91724"
 city: Covina
-street: "North Grand Avenue"
-housenumber: 4550
+street: North Grand Avenue
+housenumber: "4550"
 phone: ""
-opening_hours: "Mo-Su 07:00-00:30"
+opening_hours: Mo-Su 07:00-00:30
 website: ""

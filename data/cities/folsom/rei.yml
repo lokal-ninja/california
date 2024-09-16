@@ -1,11 +1,11 @@
 id: 158274659
-type: way
+type: node
 latitude: 38.64368
 longitude: -121.12157
 postcode: "95630"
 city: Folsom
-street: "Iron Point Road"
-housenumber: 2425
-phone: "+1-916-817-8944"
-opening_hours: "Mo-Fr 10:00-21:00; Sa 10:00-19:00; Su 10:00-18:00"
-website: "https://www.rei.com/stores/folsom"
+street: Iron Point Road
+housenumber: "2425"
+phone: +1-916-817-8944
+opening_hours: Mo-Fr 10:00-21:00; Sa 10:00-19:00; Su 10:00-18:00
+website: https://www.rei.com/stores/folsom

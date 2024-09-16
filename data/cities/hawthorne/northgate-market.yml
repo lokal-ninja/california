@@ -1,11 +1,11 @@
 id: 442424806
-type: way
+type: node
 latitude: 33.90016
 longitude: -118.34276
 postcode: "90250"
 city: Hawthorne
-street: "Rosecrans Avenue"
-housenumber: 3930
+street: Rosecrans Avenue
+housenumber: "3930"
 phone: "+13109731079"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.northgatemarket.com/"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.northgatemarket.com/

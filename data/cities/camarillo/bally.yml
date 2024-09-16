@@ -4,8 +4,8 @@ latitude: 34.21605
 longitude: -119.06002
 postcode: "93010"
 city: Camarillo
-street: "Ventura Boulevard"
-housenumber: 740
-phone: "+1-844-442-2559"
-opening_hours: "Mo-Th,Su 11:00-19:00; Fr-Sa 10:00-20:00"
-website: "https://www.bally.com"
+street: Ventura Boulevard
+housenumber: "740"
+phone: +1-844-442-2559
+opening_hours: Mo-Th,Su 11:00-19:00; Fr-Sa 10:00-20:00
+website: https://www.bally.com

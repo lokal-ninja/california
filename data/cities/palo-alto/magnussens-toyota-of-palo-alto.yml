@@ -4,8 +4,8 @@ latitude: 37.41503
 longitude: -122.10257
 postcode: "94306"
 city: Palo Alto
-street: "San Antonio Road"
-housenumber: 690
-phone: "+1-650-494-2100"
-opening_hours: "Mo-Fr 06:00-21:00; Sa 07:00-20:00; Su 10:00-19:00"
-website: "https://www.toyotapaloalto.com/"
+street: San Antonio Road
+housenumber: "690"
+phone: +1-650-494-2100
+opening_hours: Mo-Fr 06:00-21:00; Sa 07:00-20:00; Su 10:00-19:00
+website: https://www.toyotapaloalto.com/

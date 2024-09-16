@@ -1,11 +1,11 @@
 id: 741327468
-type: way
+type: node
 latitude: 34.03534
 longitude: -117.68808
 postcode: "91710"
 city: Chino
-street: "Central Avenue"
-housenumber: 12013
-phone: "+1 909-464-1594"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.albertsons.com/ca/chino/12013-central-ave.html"
+street: Central Avenue
+housenumber: "12013"
+phone: +1 909-464-1594
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.albertsons.com/ca/chino/12013-central-ave.html

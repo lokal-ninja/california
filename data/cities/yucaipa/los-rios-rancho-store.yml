@@ -1,11 +1,11 @@
 id: 1292962861
-type: way
+type: node
 latitude: 34.03985
 longitude: -116.94069
 postcode: "92399"
 city: yucaipa
-street: "Oak Glen Road"
-housenumber: 39611
-phone: "1(909)797-1005"
-opening_hours: "Sun-Tu; Th-Sat 10:00-17:00"
+street: Oak Glen Road
+housenumber: "39611"
+phone: 1(909)797-1005
+opening_hours: Sun-Tu; Th-Sat 10:00-17:00
 website: ""

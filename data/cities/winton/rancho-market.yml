@@ -1,11 +1,11 @@
 id: 311711650
-type: way
+type: node
 latitude: 37.38931
 longitude: -120.61782
 postcode: "95388"
 city: Winton
-street: "North Santa Fe Drive"
-housenumber: 6986
+street: North Santa Fe Drive
+housenumber: "6986"
 phone: ""
 opening_hours: ""
 website: ""

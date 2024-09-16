@@ -1,11 +1,11 @@
 id: 427942962
-type: way
+type: node
 latitude: 34.05007
 longitude: -118.24811
 postcode: "90013"
 city: Los Angeles
-street: "South Broadway"
-housenumber: 324
+street: South Broadway
+housenumber: "324"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

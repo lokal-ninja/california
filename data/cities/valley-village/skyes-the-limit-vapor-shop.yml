@@ -4,8 +4,8 @@ latitude: 34.15782
 longitude: -118.39752
 postcode: "91607"
 city: Valley Village
-street: "Riverside Drive #100"
-housenumber: 12125
-phone: "+1-818-582-6957"
-opening_hours: "Mo-We,Fr, Sa 11:00-21:00; Th off; Su 12:00-18:00"
-website: "http://www.skyesthelimitvaporshop.com"
+street: 'Riverside Drive #100'
+housenumber: "12125"
+phone: +1-818-582-6957
+opening_hours: Mo-We,Fr, Sa 11:00-21:00; Th off; Su 12:00-18:00
+website: http://www.skyesthelimitvaporshop.com

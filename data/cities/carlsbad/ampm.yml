@@ -1,11 +1,11 @@
 id: 401800333
-type: way
+type: node
 latitude: 33.11935
 longitude: -117.28201
 postcode: "92011"
 city: Carlsbad
-street: "Palomar Airport Road"
-housenumber: 1991
+street: Palomar Airport Road
+housenumber: "1991"
 phone: ""
 opening_hours: ""
 website: ""

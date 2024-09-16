@@ -1,11 +1,11 @@
 id: 710759914
-type: way
+type: node
 latitude: 37.60187
 longitude: -122.06441
 postcode: "94587"
 city: Union City
-street: "Courthouse Drive"
-housenumber: 31320
+street: Courthouse Drive
+housenumber: "31320"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 149705538
-type: way
+type: node
 latitude: 37.7885
 longitude: -122.42107
 postcode: "94109"
 city: San Francisco
-street: "Bush Street"
-housenumber: 1441
+street: Bush Street
+housenumber: "1441"
 phone: ""
 opening_hours: ""
 website: ""

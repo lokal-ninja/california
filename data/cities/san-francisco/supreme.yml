@@ -4,8 +4,8 @@ latitude: 37.78181
 longitude: -122.41045
 postcode: "94103"
 city: San Francisco
-street: "Market Street"
-housenumber: 1015
-phone: "+1 415 9912929"
-opening_hours: "Mo-Sa 11:00-19:00; Su 12:00-18:00"
-website: "https://www.supremenewyork.com"
+street: Market Street
+housenumber: "1015"
+phone: +1 415 9912929
+opening_hours: Mo-Sa 11:00-19:00; Su 12:00-18:00
+website: https://www.supremenewyork.com

@@ -1,11 +1,11 @@
 id: 1245123253
-type: way
+type: node
 latitude: 34.88986
 longitude: -116.99819
 postcode: "92311"
 city: Barstow
-street: "East Main Street"
-housenumber: 1700
+street: East Main Street
+housenumber: "1700"
 phone: ""
 opening_hours: ""
 website: ""

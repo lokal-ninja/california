@@ -1,11 +1,11 @@
 id: 1276581978
-type: way
+type: node
 latitude: 33.9275
 longitude: -116.87661
 postcode: "92220"
 city: Banning
-street: "San Gorgonio Avenue"
-housenumber: 266
+street: San Gorgonio Avenue
+housenumber: "266"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1067766479
-type: way
+type: node
 latitude: 34.28509
 longitude: -118.43867
 postcode: "91340"
 city: San Fernando
-street: "Maclay Street"
-housenumber: 
+street: Maclay Street
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "http://www.lotusbakeryonline.com/"
+website: http://www.lotusbakeryonline.com/

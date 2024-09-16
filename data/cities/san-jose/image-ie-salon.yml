@@ -4,8 +4,8 @@ latitude: 37.34008
 longitude: -121.89374
 postcode: "95110"
 city: San Jose
-street: "East Julian Street"
-housenumber: 46
+street: East Julian Street
+housenumber: "46"
 phone: ""
 opening_hours: ""
-website: "https://imageie.com/"
+website: https://imageie.com/

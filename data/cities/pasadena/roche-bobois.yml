@@ -1,11 +1,11 @@
 id: 206081716
-type: way
+type: node
 latitude: 34.14461
 longitude: -118.15143
 postcode: "91105"
 city: Pasadena
-street: "West Green Street"
-housenumber: 33
+street: West Green Street
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

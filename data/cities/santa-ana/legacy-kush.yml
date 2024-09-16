@@ -1,11 +1,11 @@
 id: 470925532
-type: way
+type: node
 latitude: 33.72494
 longitude: -117.84564
 postcode: "92705"
 city: Santa Ana
-street: "South Lyon Street"
-housenumber: 1714
+street: South Lyon Street
+housenumber: "1714"
 phone: ""
 opening_hours: ""
 website: ""

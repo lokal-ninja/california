@@ -1,11 +1,11 @@
 id: 86094280
-type: way
+type: node
 latitude: 38.72824
 longitude: -121.27051
 postcode: "95661"
 city: Roseville
-street: "Sunrise Avenue"
-housenumber: 1039
+street: Sunrise Avenue
+housenumber: "1039"
 phone: ""
 opening_hours: ""
 website: ""

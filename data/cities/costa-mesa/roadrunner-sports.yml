@@ -1,11 +1,11 @@
 id: 67515109
-type: way
+type: node
 latitude: 33.64324
 longitude: -117.91951
 postcode: "92627"
 city: Costa Mesa
-street: "Harbor Boulevard"
-housenumber: 1870
+street: Harbor Boulevard
+housenumber: "1870"
 phone: ""
 opening_hours: ""
 website: ""

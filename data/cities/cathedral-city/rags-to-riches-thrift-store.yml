@@ -1,11 +1,11 @@
 id: 231002687
-type: way
+type: node
 latitude: 33.81623
 longitude: -116.48615
 postcode: "92234"
 city: Cathedral City
-street: "Ramon Road"
-housenumber: 67390
-phone: "760-327-7379"
+street: Ramon Road
+housenumber: "67390"
+phone: 760-327-7379
 opening_hours: ""
 website: ""

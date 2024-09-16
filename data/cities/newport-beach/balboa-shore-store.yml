@@ -1,11 +1,11 @@
 id: 1067739778
-type: way
+type: node
 latitude: 33.60148
 longitude: -117.89942
 postcode: "92661"
 city: Newport Beach
-street: "Main Street"
-housenumber: 104
+street: Main Street
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

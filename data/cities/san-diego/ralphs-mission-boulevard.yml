@@ -4,8 +4,8 @@ latitude: 32.79423
 longitude: -117.2543
 postcode: "92109"
 city: San Diego
-street: "Mission Boulevard"
-housenumber: 4315
-phone: "+1 858-273-2108"
-opening_hours: "Mo-Fr 09:00-21:00;Sa-Su 10:00-18:00"
-website: "https://www.ralphs.com/stores/grocery/ca/san-diego/pb-marketplace/703/00207"
+street: Mission Boulevard
+housenumber: "4315"
+phone: +1 858-273-2108
+opening_hours: Mo-Fr 09:00-21:00;Sa-Su 10:00-18:00
+website: https://www.ralphs.com/stores/grocery/ca/san-diego/pb-marketplace/703/00207

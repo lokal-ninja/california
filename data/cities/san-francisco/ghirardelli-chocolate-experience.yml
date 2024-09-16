@@ -4,8 +4,8 @@ latitude: 37.80591
 longitude: -122.42333
 postcode: "94109"
 city: San Francisco
-street: "Beach Street"
-housenumber: 891
+street: Beach Street
+housenumber: "891"
 phone: ""
-opening_hours: "Mo-Th,Su 09:00-22:00; Fr-Sa 09:00-23:00"
+opening_hours: Mo-Th,Su 09:00-22:00; Fr-Sa 09:00-23:00
 website: ""

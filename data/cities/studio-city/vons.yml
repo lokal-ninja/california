@@ -1,11 +1,11 @@
 id: 432106511
-type: way
+type: node
 latitude: 34.14433
 longitude: -118.39636
 postcode: "91604"
 city: Studio City
-street: "Laurel Canyon Boulevard"
-housenumber: 4033
-phone: "+1 818-985-5401"
-opening_hours: "24/7"
-website: "https://local.vons.com/ca/studio-city/4033-laurel-canyon-blvd.html"
+street: Laurel Canyon Boulevard
+housenumber: "4033"
+phone: +1 818-985-5401
+opening_hours: 24/7
+website: https://local.vons.com/ca/studio-city/4033-laurel-canyon-blvd.html

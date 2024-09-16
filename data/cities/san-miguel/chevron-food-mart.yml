@@ -1,11 +1,11 @@
 id: 170044888
-type: way
+type: node
 latitude: 35.74756
 longitude: -120.69941
 postcode: "93451"
 city: San Miguel
-street: "K Street"
-housenumber: 998
+street: K Street
+housenumber: "998"
 phone: ""
 opening_hours: ""
 website: ""

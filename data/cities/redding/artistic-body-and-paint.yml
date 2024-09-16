@@ -1,11 +1,11 @@
 id: 789687075
-type: way
+type: node
 latitude: 40.59796
 longitude: -122.38447
 postcode: "96003"
 city: Redding
-street: "Market Street"
-housenumber: 553
+street: Market Street
+housenumber: "553"
 phone: ""
 opening_hours: ""
 website: ""

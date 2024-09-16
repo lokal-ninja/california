@@ -1,11 +1,11 @@
 id: 1022118701
-type: way
+type: node
 latitude: 34.28045
 longitude: -118.88391
 postcode: "93021"
 city: Moorpark
-street: "West Los Angeles Avenue"
-housenumber: 101
-phone: "+1 805-529-1604"
-opening_hours: "Mo-Su 05:00-01:00"
-website: "https://www.ralphs.com/stores/grocery/ca/moorpark/moorpark-town-center/703/00723"
+street: West Los Angeles Avenue
+housenumber: "101"
+phone: +1 805-529-1604
+opening_hours: Mo-Su 05:00-01:00
+website: https://www.ralphs.com/stores/grocery/ca/moorpark/moorpark-town-center/703/00723

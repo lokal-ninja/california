@@ -4,8 +4,8 @@ latitude: 38.37634
 longitude: -121.35915
 postcode: "95624"
 city: Elk Grove
-street: "Grant Line Road"
-housenumber: 10481
+street: Grant Line Road
+housenumber: "10481"
 phone: ""
-opening_hours: "by appointment"
+opening_hours: '"by appointment"'
 website: ""

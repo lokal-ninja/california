@@ -1,11 +1,11 @@
 id: 101122048
-type: way
+type: node
 latitude: 33.7212
 longitude: -117.7929
 postcode: "92602"
 city: Irvine
-street: "Jamboree Road"
+street: Jamboree Road
 housenumber: 13662A
 phone: ""
 opening_hours: ""
-website: "https://local.lenscrafters.com/ca/irvine/13662a-jamboree-rd.html"
+website: https://local.lenscrafters.com/ca/irvine/13662a-jamboree-rd.html

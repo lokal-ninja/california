@@ -1,11 +1,11 @@
 id: 407421930
-type: way
+type: node
 latitude: 33.74865
 longitude: -118.32481
 postcode: "90275"
 city: Rancho Palos Verdes
-street: "Miraleste Plaza"
-housenumber: 40
+street: Miraleste Plaza
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

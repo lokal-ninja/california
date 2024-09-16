@@ -1,11 +1,11 @@
 id: 238696642
-type: way
+type: node
 latitude: 40.40658
 longitude: -120.63452
 postcode: "96130"
 city: Susanville
-street: "Main Street"
-housenumber: 2970
-phone: "+1 530-257-2029"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/ca/susanville/2970-main-st.html"
+street: Main Street
+housenumber: "2970"
+phone: +1 530-257-2029
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/ca/susanville/2970-main-st.html

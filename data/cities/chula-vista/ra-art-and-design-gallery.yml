@@ -4,8 +4,8 @@ latitude: 32.6408
 longitude: -117.07953
 postcode: "91910"
 city: Chula Vista
-street: "3rd Avenue"
-housenumber: 313
+street: 3rd Avenue
+housenumber: "313"
 phone: "+16194224584"
-opening_hours: "Mo-Fr 10:00-18:00;Sa 11:00-16:00;Su closed"
-website: "https://www.raart.com/"
+opening_hours: Mo-Fr 10:00-18:00;Sa 11:00-16:00;Su closed
+website: https://www.raart.com/

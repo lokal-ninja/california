@@ -1,11 +1,11 @@
 id: 240337940
-type: way
+type: node
 latitude: 39.93656
 longitude: -120.938
 postcode: "95971"
 city: Quincy
-street: "East Main Street"
-housenumber: 20
-phone: "+1 530-283-1404"
-opening_hours: "06:00-01:00"
-website: "https://local.safeway.com/safeway/ca/quincy/20-e-main-st.html"
+street: East Main Street
+housenumber: "20"
+phone: +1 530-283-1404
+opening_hours: 06:00-01:00
+website: https://local.safeway.com/safeway/ca/quincy/20-e-main-st.html

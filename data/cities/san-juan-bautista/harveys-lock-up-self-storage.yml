@@ -1,11 +1,11 @@
 id: 28713699
-type: way
+type: node
 latitude: 36.84699
 longitude: -121.54123
 postcode: "95045"
 city: San Juan Bautista
-street: "Monterey Street"
-housenumber: 29
+street: Monterey Street
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

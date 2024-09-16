@@ -1,11 +1,11 @@
 id: 151966455
-type: way
+type: node
 latitude: 33.75771
 longitude: -116.30322
 postcode: ""
 city: Palm Desert
-street: "Country Club Drive"
-housenumber: 78005
+street: Country Club Drive
+housenumber: "78005"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

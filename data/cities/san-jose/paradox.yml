@@ -4,8 +4,8 @@ latitude: 37.34873
 longitude: -121.89524
 postcode: "95112"
 city: San Jose
-street: "Jackson Street"
-housenumber: 161
+street: Jackson Street
+housenumber: "161"
 phone: ""
 opening_hours: ""
-website: "https://www.prdx.us/"
+website: https://www.prdx.us/

@@ -1,11 +1,11 @@
 id: 28370672
-type: way
+type: node
 latitude: 37.13321
 longitude: -121.63591
 postcode: "95037"
 city: Morgan Hill
-street: "Laurel Road"
-housenumber: 17100
+street: Laurel Road
+housenumber: "17100"
 phone: ""
 opening_hours: ""
 website: ""

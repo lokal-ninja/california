@@ -1,11 +1,11 @@
 id: 299748594
-type: way
+type: node
 latitude: 40.88563
 longitude: -121.65676
 postcode: "96013"
 city: Burney
-street: "Main Street"
-housenumber: 37325
-phone: "(530)335-4544"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-15:00; Su off"
-website: "https://www.napaonline.com/"
+street: Main Street
+housenumber: "37325"
+phone: (530)335-4544
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-15:00; Su off
+website: https://www.napaonline.com/

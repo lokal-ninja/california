@@ -1,11 +1,11 @@
 id: 481629421
-type: way
+type: node
 latitude: 33.84694
 longitude: -118.02933
 postcode: "90623"
 city: La Palma
-street: "La Palma Avenue"
-housenumber: 5961
-phone: "714-670-8920"
+street: La Palma Avenue
+housenumber: "5961"
+phone: 714-670-8920
 opening_hours: ""
 website: ""

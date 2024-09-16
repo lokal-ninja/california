@@ -1,11 +1,11 @@
 id: 232276605
-type: way
+type: node
 latitude: 37.42236
 longitude: -122.13648
 postcode: "94306"
 city: Palo Alto
-street: "Ash Street"
-housenumber: 3251
+street: Ash Street
+housenumber: "3251"
 phone: ""
 opening_hours: ""
 website: ""

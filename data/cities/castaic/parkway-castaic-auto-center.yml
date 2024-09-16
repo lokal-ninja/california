@@ -1,11 +1,11 @@
 id: 84736434
-type: way
+type: node
 latitude: 34.48896
 longitude: -118.62105
 postcode: "91384"
 city: Castaic
-street: "The Old Road"
-housenumber: 31280
-phone: "+1 888 348 2354"
+street: The Old Road
+housenumber: "31280"
+phone: +1 888 348 2354
 opening_hours: ""
 website: ""

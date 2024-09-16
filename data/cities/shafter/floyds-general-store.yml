@@ -1,11 +1,11 @@
 id: 1100920842
-type: way
+type: node
 latitude: 35.50343
 longitude: -119.2735
 postcode: "93263"
 city: Shafter
-street: "Walker Street"
-housenumber: 555
-phone: "+1 661-746-6868"
-opening_hours: "Mo-Sa 08:00-18:00; Su 09:00-17:00"
-website: "https://www.acehardware.com/store-details/17083"
+street: Walker Street
+housenumber: "555"
+phone: +1 661-746-6868
+opening_hours: Mo-Sa 08:00-18:00; Su 09:00-17:00
+website: https://www.acehardware.com/store-details/17083

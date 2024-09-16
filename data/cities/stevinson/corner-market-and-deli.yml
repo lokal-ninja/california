@@ -1,11 +1,11 @@
 id: 311695684
-type: way
+type: node
 latitude: 37.32737
 longitude: -120.8515
 postcode: "95374"
 city: Stevinson
-street: "West Third Avenue"
-housenumber: 20015
+street: West Third Avenue
+housenumber: "20015"
 phone: ""
 opening_hours: ""
 website: ""

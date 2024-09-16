@@ -4,8 +4,8 @@ latitude: 37.7868
 longitude: -122.41674
 postcode: "94109"
 city: San Francisco
-street: "Hyde Street"
-housenumber: 639
+street: Hyde Street
+housenumber: "639"
 phone: ""
-opening_hours: "Mo-Fr 18:00-23:00; Sa 08:00-23:00; Su 08:30-23:00"
+opening_hours: Mo-Fr 18:00-23:00; Sa 08:00-23:00; Su 08:30-23:00
 website: ""

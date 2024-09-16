@@ -1,11 +1,11 @@
 id: 91800016
-type: way
+type: node
 latitude: 33.56055
 longitude: -117.17951
 postcode: "92563"
 city: Murrieta
-street: "Alta Murrieta Drive"
-housenumber: 39855
-phone: "+1 951-677-8204"
-opening_hours: "Mo-Th 08:00-23:00; Fr-Sa 08:00-24:00; Su 08:00-23:00"
-website: "https://stores.burlington.com/ca/murrieta/748"
+street: Alta Murrieta Drive
+housenumber: "39855"
+phone: +1 951-677-8204
+opening_hours: Mo-Th 08:00-23:00; Fr-Sa 08:00-24:00; Su 08:00-23:00
+website: https://stores.burlington.com/ca/murrieta/748

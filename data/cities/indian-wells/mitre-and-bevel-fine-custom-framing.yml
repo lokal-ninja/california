@@ -1,11 +1,11 @@
 id: 227553319
-type: way
+type: node
 latitude: 33.72016
 longitude: -116.35795
 postcode: "92210"
 city: Indian Wells
-street: "Highway 111"
-housenumber: 74931
-phone: "760-773-5260"
+street: Highway 111
+housenumber: "74931"
+phone: 760-773-5260
 opening_hours: ""
-website: "mitreandbevel.com"
+website: mitreandbevel.com

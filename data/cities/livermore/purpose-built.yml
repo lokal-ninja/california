@@ -4,8 +4,8 @@ latitude: 37.68069
 longitude: -121.77323
 postcode: "94550"
 city: Livermore
-street: "First Street"
-housenumber: 1870
+street: First Street
+housenumber: "1870"
 phone: ""
 opening_hours: ""
-website: "https://purpose-built.com/livermore"
+website: https://purpose-built.com/livermore

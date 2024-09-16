@@ -1,11 +1,11 @@
 id: 1296810347
-type: way
+type: node
 latitude: 36.83761
 longitude: -119.88836
 postcode: "93722"
 city: Fresno
-street: "West Spruce Avenue"
-housenumber: 5316
+street: West Spruce Avenue
+housenumber: "5316"
 phone: "+15592762348"
-opening_hours: "Mo-Fr 07:30-18:30; Sa 07:30-17:00"
-website: "https://www.jiffylube.com/locations/ca/fresno/3200"
+opening_hours: Mo-Fr 07:30-18:30; Sa 07:30-17:00
+website: https://www.jiffylube.com/locations/ca/fresno/3200

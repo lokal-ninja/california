@@ -1,11 +1,11 @@
 id: 1306235311
-type: way
+type: node
 latitude: 41.9566
 longitude: -121.47657
 postcode: "96134"
 city: Tulelake
-street: "Main Street"
-housenumber: 348
-phone: "+1-530-667-2525"
+street: Main Street
+housenumber: "348"
+phone: +1-530-667-2525
 opening_hours: ""
 website: ""

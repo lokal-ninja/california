@@ -1,11 +1,11 @@
 id: 1275424294
-type: way
+type: node
 latitude: 37.38687
 longitude: -122.08669
 postcode: "94040"
 city: Mountain View
-street: "West El Camino Real"
-housenumber: 1051
+street: West El Camino Real
+housenumber: "1051"
 phone: ""
 opening_hours: ""
 website: ""

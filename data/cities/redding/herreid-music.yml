@@ -1,11 +1,11 @@
 id: 899412161
-type: way
+type: node
 latitude: 40.57812
 longitude: -122.38836
 postcode: "96001"
 city: Redding
-street: "Market Street"
-housenumber: 2148
-phone: "+1 (530) 243-7283"
+street: Market Street
+housenumber: "2148"
+phone: +1 (530) 243-7283
 opening_hours: ""
-website: "https://www.hmusic.com/"
+website: https://www.hmusic.com/

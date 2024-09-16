@@ -4,8 +4,8 @@ latitude: 32.81299
 longitude: -117.26856
 postcode: "92037"
 city: La Jolla
-street: "La Jolla Boulevard"
-housenumber: 5525
+street: La Jolla Boulevard
+housenumber: "5525"
 phone: ""
-opening_hours: "Tu-Su 08:30-14:30; Fr-Sa 16:30-20:30; Tu 17:00-20:00"
-website: "https://www.wayfarerbread.com/"
+opening_hours: Tu-Su 08:30-14:30; Fr-Sa 16:30-20:30; Tu 17:00-20:00
+website: https://www.wayfarerbread.com/

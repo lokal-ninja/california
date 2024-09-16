@@ -1,11 +1,11 @@
 id: 997050973
-type: way
+type: node
 latitude: 32.70676
 longitude: -117.0104
 postcode: "91977"
 city: Spring Valley
-street: "Sweetwater Road"
-housenumber: 483
-phone: "+1-619-567-0421"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 08:00-17:00"
-website: "https://store.vioc.com/ca/springvalley/oil-change-gn0148.html"
+street: Sweetwater Road
+housenumber: "483"
+phone: +1-619-567-0421
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 08:00-17:00
+website: https://store.vioc.com/ca/springvalley/oil-change-gn0148.html

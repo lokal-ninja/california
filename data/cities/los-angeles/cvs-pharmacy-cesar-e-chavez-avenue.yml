@@ -1,11 +1,11 @@
 id: 607972867
-type: way
+type: node
 latitude: 34.04097
 longitude: -118.18645
 postcode: "90063"
 city: Los Angeles
-street: "Cesar E Chavez Avenue"
-housenumber: 3627
+street: Cesar E Chavez Avenue
+housenumber: "3627"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/los-angeles-ca-pharmacies/3627-east-cesar-east-chavez-ave-los-angeles-ca-90063/storeid=10509"
+website: https://www.cvs.com/store-locator/los-angeles-ca-pharmacies/3627-east-cesar-east-chavez-ave-los-angeles-ca-90063/storeid=10509

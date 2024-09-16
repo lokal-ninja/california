@@ -1,11 +1,11 @@
 id: 30908068
-type: way
+type: node
 latitude: 37.37615
 longitude: -122.02951
 postcode: "94086"
 city: Sunnyvale
-street: "East Washington Avenue"
-housenumber: 151
+street: East Washington Avenue
+housenumber: "151"
 phone: ""
-opening_hours: "Mo-Su 10:00-20:00"
-website: "https://goodwillsv.org/"
+opening_hours: Mo-Su 10:00-20:00
+website: https://goodwillsv.org/

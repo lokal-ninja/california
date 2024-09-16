@@ -1,11 +1,11 @@
 id: 1301319543
-type: way
+type: node
 latitude: 36.95969
 longitude: -120.05705
 postcode: ""
 city: Madera
-street: "South E Street"
-housenumber: 241
-phone: "+1-559-673-9420"
+street: South E Street
+housenumber: "241"
+phone: +1-559-673-9420
 opening_hours: ""
-website: "https://evansfeed.com"
+website: https://evansfeed.com

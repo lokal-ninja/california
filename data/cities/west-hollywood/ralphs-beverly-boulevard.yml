@@ -1,11 +1,11 @@
 id: 31367631
-type: way
+type: node
 latitude: 34.07648
 longitude: -118.38929
 postcode: "90048"
 city: West Hollywood
-street: "Beverly Boulevard"
-housenumber: 9040
-phone: "+1 310-278-1351"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.ralphs.com/stores/grocery/ca/west-hollywood/beverly-doheny/703/00724"
+street: Beverly Boulevard
+housenumber: "9040"
+phone: +1 310-278-1351
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.ralphs.com/stores/grocery/ca/west-hollywood/beverly-doheny/703/00724

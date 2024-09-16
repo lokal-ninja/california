@@ -1,11 +1,11 @@
 id: 132986459
-type: way
+type: node
 latitude: 32.83018
 longitude: -117.20549
 postcode: "92117"
 city: San Diego
-street: "Clairemont Dive"
-housenumber: 4725
-phone: "+1 858-483-4670"
-opening_hours: "Mo-Su 05:00-24:00"
-website: "https://local.vons.com/ca/san-diego/4725-clairemont-dr.html"
+street: Clairemont Dive
+housenumber: "4725"
+phone: +1 858-483-4670
+opening_hours: Mo-Su 05:00-24:00
+website: https://local.vons.com/ca/san-diego/4725-clairemont-dr.html

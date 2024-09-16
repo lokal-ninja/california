@@ -1,11 +1,11 @@
 id: 361484947
-type: way
+type: node
 latitude: 33.65784
 longitude: -117.86452
 postcode: "92660"
 city: Newport Beach
-street: "MacArthur Boulevard"
-housenumber: 3901
+street: MacArthur Boulevard
+housenumber: "3901"
 phone: ""
 opening_hours: ""
 website: ""

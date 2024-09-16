@@ -1,11 +1,11 @@
 id: 702325666
-type: way
+type: node
 latitude: 38.34722
 longitude: -121.99871
 postcode: "95688"
 city: Vacaville
-street: "Alamo Drive"
-housenumber: 892
+street: Alamo Drive
+housenumber: "892"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 360639388
-type: way
+type: node
 latitude: 33.68002
 longitude: -117.66712
 postcode: "92610"
 city: Foothill Ranch
-street: "Portola Parkway"
-housenumber: 26686
+street: Portola Parkway
+housenumber: "26686"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/foothill-ranch-ca-pharmacies/26686-portola-pkwy-foothill-ranch-ca-92610/storeid=8834"
+website: https://www.cvs.com/store-locator/foothill-ranch-ca-pharmacies/26686-portola-pkwy-foothill-ranch-ca-92610/storeid=8834

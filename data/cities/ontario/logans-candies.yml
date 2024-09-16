@@ -4,8 +4,8 @@ latitude: 34.0645
 longitude: -117.65219
 postcode: "91762"
 city: Ontario
-street: "West B Street"
-housenumber: 125
-phone: "+1 909-984-5410"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-1730"
-website: "https://loganscandies.com/"
+street: West B Street
+housenumber: "125"
+phone: +1 909-984-5410
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-1730
+website: https://loganscandies.com/

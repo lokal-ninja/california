@@ -1,11 +1,11 @@
 id: 29056747
-type: way
+type: node
 latitude: 37.00603
 longitude: -121.56603
 postcode: "95020"
 city: Gilroy
-street: "Old Gilroy Street"
-housenumber: 157
+street: Old Gilroy Street
+housenumber: "157"
 phone: ""
 opening_hours: ""
 website: ""

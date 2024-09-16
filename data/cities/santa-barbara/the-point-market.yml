@@ -1,11 +1,11 @@
 id: 244375241
-type: way
+type: node
 latitude: 34.4015
 longitude: -119.72349
 postcode: "93109"
 city: Santa Barbara
-street: "Cliff Drive"
-housenumber: 1929
+street: Cliff Drive
+housenumber: "1929"
 phone: ""
 opening_hours: ""
 website: ""

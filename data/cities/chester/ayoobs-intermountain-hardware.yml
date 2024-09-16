@@ -4,8 +4,8 @@ latitude: 40.30979
 longitude: -121.22877
 postcode: "96020"
 city: Chester
-street: "Main Street"
-housenumber: 201
+street: Main Street
+housenumber: "201"
 phone: ""
-opening_hours: "Mo-Su 07:30-17:00"
+opening_hours: Mo-Su 07:30-17:00
 website: ""

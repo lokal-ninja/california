@@ -1,11 +1,11 @@
 id: 1217273076
-type: way
+type: node
 latitude: 36.83656
 longitude: -119.91322
 postcode: "93722"
 city: Fresno
-street: "West Herndon Avenue"
-housenumber: 6780
+street: West Herndon Avenue
+housenumber: "6780"
 phone: ""
 opening_hours: ""
 website: ""

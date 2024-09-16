@@ -1,11 +1,11 @@
 id: 260500565
-type: way
+type: node
 latitude: 37.77341
 longitude: -122.41671
 postcode: "94103"
 city: San Francisco
-street: "11th Street"
-housenumber: 140
+street: 11th Street
+housenumber: "140"
 phone: ""
 opening_hours: ""
-website: "https://www.tonyscollisioncenter.com/"
+website: https://www.tonyscollisioncenter.com/

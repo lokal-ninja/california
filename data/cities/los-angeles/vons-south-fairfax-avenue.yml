@@ -1,11 +1,11 @@
 id: 132660883
-type: way
+type: node
 latitude: 34.05034
 longitude: -118.36663
 postcode: "90019"
 city: Los Angeles
-street: "South Fairfax Avenue"
-housenumber: 1430
-phone: "+1 323-939-9335"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.vons.com/ca/los-angeles/1430-s-fairfax-ave.html"
+street: South Fairfax Avenue
+housenumber: "1430"
+phone: +1 323-939-9335
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.vons.com/ca/los-angeles/1430-s-fairfax-ave.html

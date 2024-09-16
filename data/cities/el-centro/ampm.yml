@@ -1,11 +1,11 @@
 id: 401873943
-type: way
+type: node
 latitude: 32.77913
 longitude: -115.55184
 postcode: "92243"
 city: El Centro
-street: "Aurora Drive"
-housenumber: 398
+street: Aurora Drive
+housenumber: "398"
 phone: ""
 opening_hours: ""
 website: ""

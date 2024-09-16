@@ -1,11 +1,11 @@
 id: 836842306
-type: way
+type: node
 latitude: 33.13383
 longitude: -117.32738
 postcode: "92008"
 city: Carlsbad
-street: "Paseo del Norte"
-housenumber: 5335
+street: Paseo del Norte
+housenumber: "5335"
 phone: ""
 opening_hours: ""
-website: "https://www.premierchevroletofcarlsbad.com/"
+website: https://www.premierchevroletofcarlsbad.com/

@@ -1,11 +1,11 @@
 id: 1056779474
-type: way
+type: node
 latitude: 37.32161
 longitude: -121.94776
 postcode: "95128"
 city: San Jose
-street: "Santana Row"
-housenumber: 334
-phone: "+1 408-564-4478"
-opening_hours: "Mo-Sa 10:00-18:00; Su 11:00-18:00"
-website: "https://amourvert.com/"
+street: Santana Row
+housenumber: "334"
+phone: +1 408-564-4478
+opening_hours: Mo-Sa 10:00-18:00; Su 11:00-18:00
+website: https://amourvert.com/

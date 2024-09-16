@@ -4,8 +4,8 @@ latitude: 33.0198
 longitude: -117.12338
 postcode: "92127"
 city: San Diego
-street: "Paseo del Sur"
-housenumber: 16415
-phone: "+1 858-798-8232"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/ca/san-diego/san-diego-del-sur/"
+street: Paseo del Sur
+housenumber: "16415"
+phone: +1 858-798-8232
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/ca/san-diego/san-diego-del-sur/

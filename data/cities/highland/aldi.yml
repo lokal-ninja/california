@@ -1,11 +1,11 @@
 id: 270782774
-type: way
+type: node
 latitude: 34.13754
 longitude: -117.19876
-postcode: "92346-2637"
+postcode: 92346-2637
 city: Highland
-street: "Highland Avenue"
-housenumber: 4020
-phone: "+1 909-543-0758"
-opening_hours: "Mo, We, Fr-Su 09:00-21:00; Tu, Th 08:30-21:00"
-website: "https://stores.aldi.us/ca/highland/4020-highland-ave"
+street: Highland Avenue
+housenumber: "4020"
+phone: +1 909-543-0758
+opening_hours: Mo, We, Fr-Su 09:00-21:00; Tu, Th 08:30-21:00
+website: https://stores.aldi.us/ca/highland/4020-highland-ave

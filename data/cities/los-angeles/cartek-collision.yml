@@ -1,11 +1,11 @@
 id: 426957597
-type: way
+type: node
 latitude: 34.1327
 longitude: -118.21547
 postcode: "90041"
 city: Los Angeles
-street: "Eagle Rock Boulevard"
-housenumber: 4802
+street: Eagle Rock Boulevard
+housenumber: "4802"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 629325763
-type: way
+type: node
 latitude: 37.90587
 longitude: -122.54606
 postcode: "94941"
 city: Mill Valley
-street: "Sunnyside Avenue"
-housenumber: 34
+street: Sunnyside Avenue
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

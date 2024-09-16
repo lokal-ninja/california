@@ -1,11 +1,11 @@
 id: 550433802
-type: way
+type: node
 latitude: 41.29042
 longitude: -124.05778
 postcode: "95555"
 city: Orick
-street: "Highway 101"
-housenumber: 121175
+street: Highway 101
+housenumber: "121175"
 phone: ""
-opening_hours: "Mo-Fr 09:00-21:00; Sa,Su 10:00-21:00"
+opening_hours: Mo-Fr 09:00-21:00; Sa,Su 10:00-21:00
 website: ""

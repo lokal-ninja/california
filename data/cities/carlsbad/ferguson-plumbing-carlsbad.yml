@@ -1,11 +1,11 @@
 id: 571534867
-type: way
+type: node
 latitude: 33.13137
 longitude: -117.25465
 postcode: "92009"
 city: Carlsbad
-street: "Loker Avenue West"
-housenumber: 2785
+street: Loker Avenue West
+housenumber: "2785"
 phone: "+17604388644"
 opening_hours: ""
-website: "https://www.ferguson.com/branch/carlsbad-ca"
+website: https://www.ferguson.com/branch/carlsbad-ca

@@ -1,11 +1,11 @@
 id: 257657887
-type: way
+type: node
 latitude: 37.38111
 longitude: -122.07111
 postcode: "94040"
 city: Mountain View
-street: "East El Camino Real"
-housenumber: 150
-phone: "+1-650-200-0149"
+street: East El Camino Real
+housenumber: "150"
+phone: +1-650-200-0149
 opening_hours: ""
-website: "https://www.bmwofmountainview.com"
+website: https://www.bmwofmountainview.com

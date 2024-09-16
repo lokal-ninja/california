@@ -1,11 +1,11 @@
 id: 23014312
-type: way
+type: node
 latitude: 37.82751
 longitude: -122.28729
 postcode: "94608"
 city: Oakland
-street: "Mandela Parkway"
-housenumber: 3700
-phone: "+1 510 4200323"
-opening_hours: "Mo-Su 10:00-20:00"
-website: "https://stores.bestbuy.com/ca/oakland/3700-mandela-pkwy-499.html"
+street: Mandela Parkway
+housenumber: "3700"
+phone: +1 510 4200323
+opening_hours: Mo-Su 10:00-20:00
+website: https://stores.bestbuy.com/ca/oakland/3700-mandela-pkwy-499.html

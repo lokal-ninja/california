@@ -1,11 +1,11 @@
 id: 1075482772
-type: way
+type: node
 latitude: 34.61187
 longitude: -117.82708
 postcode: ""
 city: Lake Los Angeles
-street: "170th Street East"
-housenumber: 40187
+street: 170th Street East
+housenumber: "40187"
 phone: ""
 opening_hours: ""
 website: ""

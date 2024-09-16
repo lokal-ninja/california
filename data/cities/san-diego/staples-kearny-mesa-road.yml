@@ -1,11 +1,11 @@
 id: 1256982077
-type: way
+type: node
 latitude: 32.81908
 longitude: -117.15078
 postcode: "92111"
 city: San Diego
-street: "Kearny Mesa Road"
-housenumber: 4240
+street: Kearny Mesa Road
+housenumber: "4240"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 11:00-17:00"
-website: "https://stores.staples.com/ca/kearny-mesa/4240-kearny-mesa-rd-suite120"
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 11:00-17:00
+website: https://stores.staples.com/ca/kearny-mesa/4240-kearny-mesa-rd-suite120

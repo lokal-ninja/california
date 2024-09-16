@@ -1,11 +1,11 @@
 id: 406668188
-type: way
+type: node
 latitude: 33.5585
 longitude: -117.65743
 postcode: "92692"
 city: Mission Viejo
-street: "Center Drive"
-housenumber: 27771
-phone: "+1 949 340 1010"
+street: Center Drive
+housenumber: "27771"
+phone: +1 949 340 1010
 opening_hours: ""
 website: ""

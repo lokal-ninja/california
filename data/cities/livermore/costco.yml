@@ -1,11 +1,11 @@
 id: 225005065
-type: way
+type: node
 latitude: 37.70332
 longitude: -121.81353
 postcode: "94550"
 city: Livermore
-street: "Independence Drive"
-housenumber: 2800
-phone: "+1 925-443-6306"
-opening_hours: "Mo-Fr 09:00-20:30; Sa-Su 09:00-19:00"
-website: "https://www.costco.com/warehouse-locations/livermore-ca-146.html"
+street: Independence Drive
+housenumber: "2800"
+phone: +1 925-443-6306
+opening_hours: Mo-Fr 09:00-20:30; Sa-Su 09:00-19:00
+website: https://www.costco.com/warehouse-locations/livermore-ca-146.html

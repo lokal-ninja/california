@@ -1,11 +1,11 @@
 id: 237686099
-type: way
+type: node
 latitude: 37.57886
 longitude: -122.34567
 postcode: ""
 city: Burlingame
-street: "Lorton Avenue"
-housenumber: 260
-phone: "+1 650-343-3633"
-opening_hours: "Mo-Sa 6:00-16:00; Su 6:00-14:00"
-website: "bayareabagel.com"
+street: Lorton Avenue
+housenumber: "260"
+phone: +1 650-343-3633
+opening_hours: Mo-Sa 6:00-16:00; Su 6:00-14:00
+website: bayareabagel.com

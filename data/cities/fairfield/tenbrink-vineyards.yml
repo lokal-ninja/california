@@ -4,8 +4,8 @@ latitude: 38.24518
 longitude: -122.08459
 postcode: "94534"
 city: Fairfield
-street: "Chadbourne Road"
-housenumber: 4185
-phone: "+1 707 480 7334"
-opening_hours: "By appointment only"
-website: "http://www.tenbrinkvineyards.com"
+street: Chadbourne Road
+housenumber: "4185"
+phone: +1 707 480 7334
+opening_hours: '"By appointment only"'
+website: http://www.tenbrinkvineyards.com

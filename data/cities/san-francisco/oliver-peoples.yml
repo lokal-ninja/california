@@ -4,8 +4,8 @@ latitude: 37.78833
 longitude: -122.40502
 postcode: "94108"
 city: San Francisco
-street: "Grant Avenue"
-housenumber: 140
-phone: "+1 415-362-3222"
-opening_hours: "Su,Mo off; Tu-Sa 11:00-18:00"
-website: "https://www.oliverpeoples.com/usa/boutique-san-francisco"
+street: Grant Avenue
+housenumber: "140"
+phone: +1 415-362-3222
+opening_hours: Su,Mo off; Tu-Sa 11:00-18:00
+website: https://www.oliverpeoples.com/usa/boutique-san-francisco

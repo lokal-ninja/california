@@ -4,8 +4,8 @@ latitude: 34.08923
 longitude: -118.37732
 postcode: "90069"
 city: West Hollywood
-street: "Santa Monica Boulevard"
-housenumber: 8527
-phone: "+1-310-657-6904"
-opening_hours: "Mo,We 09:00-17:00; Tu,Th 09:00-13:00; Fr 09:00-16:00"
+street: Santa Monica Boulevard
+housenumber: "8527"
+phone: +1-310-657-6904
+opening_hours: Mo,We 09:00-17:00; Tu,Th 09:00-13:00; Fr 09:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 470435464
-type: way
+type: node
 latitude: 34.23715
 longitude: -118.46659
 postcode: ""
 city: North Hills
-street: "Sepulveda Boulevard"
-housenumber: 9150
+street: Sepulveda Boulevard
+housenumber: "9150"
 phone: ""
 opening_hours: ""
 website: ""

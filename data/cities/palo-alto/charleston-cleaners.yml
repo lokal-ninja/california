@@ -1,11 +1,11 @@
 id: 231481682
-type: way
+type: node
 latitude: 37.41939
 longitude: -122.11025
 postcode: "94303"
 city: Palo Alto
-street: "Middlefield Road"
-housenumber: 3900
-phone: "+1-650-424-1113"
-opening_hours: "Mo-Fr 07:30-18:30, Sa 09:00-17:00"
-website: "https://charlestoncleaners.info/"
+street: Middlefield Road
+housenumber: "3900"
+phone: +1-650-424-1113
+opening_hours: Mo-Fr 07:30-18:30, Sa 09:00-17:00
+website: https://charlestoncleaners.info/

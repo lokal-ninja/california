@@ -1,11 +1,11 @@
 id: 176913267
-type: way
+type: node
 latitude: 32.82208
 longitude: -117.17948
 postcode: "92111"
 city: San Diego
-street: "Balboa Avenue"
-housenumber: 5680
-phone: "+1 858-309-6564"
-opening_hours: "07:00-22:00"
-website: "https://www.target.com/sl/balboa/2465"
+street: Balboa Avenue
+housenumber: "5680"
+phone: +1 858-309-6564
+opening_hours: 07:00-22:00
+website: https://www.target.com/sl/balboa/2465

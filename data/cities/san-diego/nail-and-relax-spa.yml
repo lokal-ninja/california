@@ -1,11 +1,11 @@
 id: 1257032372
-type: way
+type: node
 latitude: 32.81977
 longitude: -117.15009
 postcode: "92111"
 city: San Diego
-street: "Armour Street"
-housenumber: 8055
+street: Armour Street
+housenumber: "8055"
 phone: ""
 opening_hours: ""
 website: ""

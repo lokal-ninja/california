@@ -4,8 +4,8 @@ latitude: 37.42131
 longitude: -121.9162
 postcode: "95035"
 city: Milpitas
-street: "Barber Lane"
-housenumber: 480
-phone: "+1 408-459-6888"
-opening_hours: "Mo,We-Sa 10:00-18:00"
+street: Barber Lane
+housenumber: "480"
+phone: +1 408-459-6888
+opening_hours: Mo,We-Sa 10:00-18:00
 website: ""

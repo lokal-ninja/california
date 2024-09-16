@@ -1,11 +1,11 @@
 id: 34939011
-type: way
+type: node
 latitude: 37.29274
 longitude: -121.94184
 postcode: "95008"
 city: Campbell
-street: "East Hamilton Avenue"
-housenumber: 480
-phone: "+1 408-866-1900"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/campbell/ca/campbell/95008/642"
+street: East Hamilton Avenue
+housenumber: "480"
+phone: +1 408-866-1900
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/campbell/ca/campbell/95008/642

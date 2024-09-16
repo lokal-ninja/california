@@ -1,11 +1,11 @@
 id: 295189462
-type: way
+type: node
 latitude: 36.27412
 longitude: -118.0029
 postcode: "93549"
 city: Olancha
-street: "South Highway 395"
-housenumber: 601
+street: South Highway 395
+housenumber: "601"
 phone: ""
 opening_hours: ""
 website: ""

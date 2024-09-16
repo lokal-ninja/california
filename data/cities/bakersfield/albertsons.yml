@@ -4,8 +4,8 @@ latitude: 35.39611
 longitude: -118.96596
 postcode: "93306"
 city: Bakersfield
-street: "Mount Vernon Avenue"
-housenumber: 2691
-phone: "+1 661-872-3511"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.albertsons.com/ca/bakersfield/2691-mt-vernon-ave.html"
+street: Mount Vernon Avenue
+housenumber: "2691"
+phone: +1 661-872-3511
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.albertsons.com/ca/bakersfield/2691-mt-vernon-ave.html

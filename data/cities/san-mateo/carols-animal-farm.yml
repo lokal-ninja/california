@@ -1,11 +1,11 @@
 id: 387072148
-type: way
+type: node
 latitude: 37.55529
 longitude: -122.31107
 postcode: "94402"
 city: San Mateo
-street: "South Boulevard"
-housenumber: 176
+street: South Boulevard
+housenumber: "176"
 phone: ""
 opening_hours: ""
 website: ""

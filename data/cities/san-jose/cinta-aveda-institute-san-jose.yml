@@ -4,8 +4,8 @@ latitude: 37.33727
 longitude: -121.89418
 postcode: "95113"
 city: San Jose
-street: "West Saint John Street"
-housenumber: 111
+street: West Saint John Street
+housenumber: "111"
 phone: ""
 opening_hours: ""
-website: "https://aveda.edu/locations/students/san-jose-ca/"
+website: https://aveda.edu/locations/students/san-jose-ca/

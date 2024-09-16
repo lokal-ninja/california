@@ -1,11 +1,11 @@
 id: 152341001
-type: way
+type: node
 latitude: 33.74197
 longitude: -116.21601
 postcode: "92203"
 city: Indio
-street: "Jackson Street"
-housenumber: 42250
-phone: "760-672-4610"
+street: Jackson Street
+housenumber: "42250"
+phone: 760-672-4610
 opening_hours: ""
 website: ""

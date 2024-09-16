@@ -4,8 +4,8 @@ latitude: 32.71928
 longitude: -117.16002
 postcode: "92101"
 city: San Diego
-street: "5th Avenue"
-housenumber: 1333
-phone: "+1 619 234 7703"
-opening_hours: "Tu-Sa 8:30-17:00"
-website: "http://www.associatedbarbercollegesd.com/"
+street: 5th Avenue
+housenumber: "1333"
+phone: +1 619 234 7703
+opening_hours: Tu-Sa 8:30-17:00
+website: http://www.associatedbarbercollegesd.com/

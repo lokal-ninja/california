@@ -1,11 +1,11 @@
 id: 287874295
-type: way
+type: node
 latitude: 37.74223
 longitude: -122.40357
 postcode: "94124"
 city: San Francisco
-street: "Oakdale Avenue"
-housenumber: 2700
-phone: "+1-415-821-2123"
+street: Oakdale Avenue
+housenumber: "2700"
+phone: +1-415-821-2123
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 136448611
-type: way
+type: node
 latitude: 33.80862
 longitude: -117.92063
 postcode: "92802"
 city: Anaheim
-street: "South Disneyland Drive"
-housenumber: 1560
+street: South Disneyland Drive
+housenumber: "1560"
 phone: ""
 opening_hours: ""
-website: "https://disneyland.disney.go.com/shopping/world-of-disney/"
+website: https://disneyland.disney.go.com/shopping/world-of-disney/

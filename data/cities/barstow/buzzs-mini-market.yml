@@ -4,8 +4,8 @@ latitude: 34.8984
 longitude: -117.02749
 postcode: "92311"
 city: Barstow
-street: "East Main Street"
-housenumber: 100
+street: East Main Street
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
+opening_hours: Mo-Su 08:00-22:00
 website: ""

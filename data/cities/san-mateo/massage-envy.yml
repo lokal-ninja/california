@@ -4,8 +4,8 @@ latitude: 37.54504
 longitude: -122.29105
 postcode: "94403"
 city: San Mateo
-street: "Park Place"
-housenumber: 1100
-phone: "+1 650-393-6477"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-20:00; Su 10:00-20:00"
-website: "https://locations.massageenvy.com/california/san-mateo/1100-park-place.html"
+street: Park Place
+housenumber: "1100"
+phone: +1 650-393-6477
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-20:00; Su 10:00-20:00
+website: https://locations.massageenvy.com/california/san-mateo/1100-park-place.html

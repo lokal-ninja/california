@@ -1,11 +1,11 @@
 id: 685884968
-type: way
+type: node
 latitude: 38.36146
 longitude: -122.69307
 postcode: "94928"
 city: Rohnert Park
-street: "Golf Course Drive"
-housenumber: 901
-phone: "+1 707-540-9303"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/2468/rohnert-park-ca/whats-new"
+street: Golf Course Drive
+housenumber: "901"
+phone: +1 707-540-9303
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/2468/rohnert-park-ca/whats-new

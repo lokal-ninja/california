@@ -4,8 +4,8 @@ latitude: 37.76532
 longitude: -122.45289
 postcode: "94117"
 city: San Francisco
-street: "Stanyan Street"
-housenumber: 1001
+street: Stanyan Street
+housenumber: "1001"
 phone: ""
 opening_hours: ""
-website: "https://www.simple-sf.com/"
+website: https://www.simple-sf.com/

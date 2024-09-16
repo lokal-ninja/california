@@ -4,8 +4,8 @@ latitude: 32.74975
 longitude: -117.10223
 postcode: "92105"
 city: San Diego
-street: "University Avenue"
-housenumber: 4292
-phone: "+1 619 277 5321"
-opening_hours: "Mo-Su 10:00-20:00"
+street: University Avenue
+housenumber: "4292"
+phone: +1 619 277 5321
+opening_hours: Mo-Su 10:00-20:00
 website: ""

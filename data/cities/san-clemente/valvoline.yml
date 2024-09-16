@@ -1,11 +1,11 @@
 id: 405184199
-type: way
+type: node
 latitude: 33.43836
 longitude: -117.62366
 postcode: "92672"
 city: San Clemente
-street: "East Avenida Pico"
-housenumber: 525
+street: East Avenida Pico
+housenumber: "525"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/ca/sanclemente/oil-change-gn0035.html"
+website: https://store.vioc.com/ca/sanclemente/oil-change-gn0035.html

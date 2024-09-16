@@ -1,11 +1,11 @@
 id: 46899737
-type: way
+type: node
 latitude: 38.75138
 longitude: -121.25888
 postcode: "95661"
 city: Roseville
-street: "Automall Drive"
-housenumber: 700
-phone: "+1-916-782-5999"
+street: Automall Drive
+housenumber: "700"
+phone: +1-916-782-5999
 opening_hours: ""
 website: ""

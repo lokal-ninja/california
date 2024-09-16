@@ -1,11 +1,11 @@
 id: 1093976334
-type: way
+type: node
 latitude: 38.57475
 longitude: -121.50672
 postcode: "95811"
 city: Sacramento
-street: "Q Street"
-housenumber: 226
+street: Q Street
+housenumber: "226"
 phone: ""
 opening_hours: ""
-website: "https://mikeandsonsautomotive.com/"
+website: https://mikeandsonsautomotive.com/

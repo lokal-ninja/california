@@ -1,11 +1,11 @@
 id: 94791753
-type: way
+type: node
 latitude: 33.12247
 longitude: -117.07821
 postcode: "92025"
 city: Escondido
-street: "South Juniper Street"
-housenumber: 136
+street: South Juniper Street
+housenumber: "136"
 phone: ""
 opening_hours: ""
-website: "https://www.suessparklers.com/"
+website: https://www.suessparklers.com/

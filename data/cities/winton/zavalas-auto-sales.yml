@@ -1,11 +1,11 @@
 id: 311712211
-type: way
+type: node
 latitude: 37.3855
 longitude: -120.61252
 postcode: "95388"
 city: Winton
-street: "North Cottage Street"
-housenumber: 6739
+street: North Cottage Street
+housenumber: "6739"
 phone: ""
 opening_hours: ""
 website: ""

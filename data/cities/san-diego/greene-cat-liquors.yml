@@ -1,11 +1,11 @@
 id: 31800989
-type: way
+type: node
 latitude: 32.70514
 longitude: -117.08453
 postcode: "92114"
 city: San Diego
-street: "Imperial Avenue"
-housenumber: 5102
-phone: "+1-619-262-2865"
-opening_hours: "Mo-Su 08:00-00:00"
+street: Imperial Avenue
+housenumber: "5102"
+phone: +1-619-262-2865
+opening_hours: Mo-Su 08:00-00:00
 website: ""

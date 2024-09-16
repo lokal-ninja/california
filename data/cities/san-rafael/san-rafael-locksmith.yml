@@ -4,8 +4,8 @@ latitude: 37.97797
 longitude: -122.52193
 postcode: "94901"
 city: San Rafael
-street: "Lincoln Avenue"
-housenumber: 1400
+street: Lincoln Avenue
+housenumber: "1400"
 phone: "4152595387"
-opening_hours: "24/7"
-website: "http://www.SanRafaelLocksmith.Com"
+opening_hours: 24/7
+website: http://www.SanRafaelLocksmith.Com

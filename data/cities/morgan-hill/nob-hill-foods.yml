@@ -1,11 +1,11 @@
 id: 302352191
-type: way
+type: node
 latitude: 37.11061
 longitude: -121.64258
 postcode: "95037"
 city: Morgan Hill
-street: "Vineyard Town Center"
-housenumber: 451
+street: Vineyard Town Center
+housenumber: "451"
 phone: ""
 opening_hours: ""
 website: ""

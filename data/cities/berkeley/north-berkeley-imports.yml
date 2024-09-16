@@ -1,11 +1,11 @@
 id: 28595706
-type: way
+type: node
 latitude: 37.87996
 longitude: -122.26911
 postcode: "94709"
 city: Berkeley
-street: "Shattuck Avenue"
-housenumber: 1505
-phone: "+1-800-2666585"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.northberkeleyimports.com/wordpress/"
+street: Shattuck Avenue
+housenumber: "1505"
+phone: +1-800-2666585
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.northberkeleyimports.com/wordpress/

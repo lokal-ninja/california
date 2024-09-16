@@ -1,11 +1,11 @@
 id: 253078348
-type: way
+type: node
 latitude: 38.37532
 longitude: -121.94759
 postcode: "95687"
 city: Vacaville
-street: "Orange Drive"
-housenumber: 570
-phone: "+1 707-451-0622"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/ca/vacaville-757.shtml"
+street: Orange Drive
+housenumber: "570"
+phone: +1 707-451-0622
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/ca/vacaville-757.shtml

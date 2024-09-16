@@ -1,11 +1,11 @@
 id: 161393292
-type: way
+type: node
 latitude: 33.74044
 longitude: -116.22068
 postcode: "92203"
 city: Indio
-street: "Atlantic Avenue"
-housenumber: 82740
+street: Atlantic Avenue
+housenumber: "82740"
 phone: ""
 opening_hours: ""
 website: ""

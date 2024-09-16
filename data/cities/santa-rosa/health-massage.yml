@@ -1,11 +1,11 @@
 id: 742747785
-type: way
+type: node
 latitude: 38.44624
 longitude: -122.72243
 postcode: "95401"
 city: Santa Rosa
-street: "Morgan Street"
-housenumber: 1112
+street: Morgan Street
+housenumber: "1112"
 phone: ""
 opening_hours: ""
 website: ""

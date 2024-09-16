@@ -1,11 +1,11 @@
 id: 901723239
-type: way
+type: node
 latitude: 32.73986
 longitude: -117.05213
 postcode: "91945"
 city: Lemon Grove
-street: "Federal Boulevard"
-housenumber: 6800
-phone: "(619) 649-8075"
+street: Federal Boulevard
+housenumber: "6800"
+phone: (619) 649-8075
 opening_hours: ""
-website: "https://www.lhmtoyotalemongrove.com/"
+website: https://www.lhmtoyotalemongrove.com/

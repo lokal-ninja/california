@@ -1,11 +1,11 @@
 id: 1290654478
-type: way
+type: node
 latitude: 36.84525
 longitude: -119.73037
 postcode: "93612"
 city: Clovis
-street: "North Willow Avenue"
-housenumber: 7505
+street: North Willow Avenue
+housenumber: "7505"
 phone: "+15599407538"
-opening_hours: "Mo-Su 05:00-24:00"
-website: "https://dayandnightmarkets.com/"
+opening_hours: Mo-Su 05:00-24:00
+website: https://dayandnightmarkets.com/

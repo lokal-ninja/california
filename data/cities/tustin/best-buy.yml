@@ -1,11 +1,11 @@
 id: 184707333
-type: way
+type: node
 latitude: 33.72112
 longitude: -117.79466
 postcode: "92782"
 city: Tustin
-street: "El Camino Real"
-housenumber: 2982
-phone: "+1 714-669-8355"
+street: El Camino Real
+housenumber: "2982"
+phone: +1 714-669-8355
 opening_hours: ""
-website: "https://stores.bestbuy.com/ca/tustin/2982-el-camino-real-774.html"
+website: https://stores.bestbuy.com/ca/tustin/2982-el-camino-real-774.html

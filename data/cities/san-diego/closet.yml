@@ -4,8 +4,8 @@ latitude: 32.7456
 longitude: -117.24871
 postcode: "92017"
 city: San Diego
-street: "Newport Avenue"
-housenumber: 4878
-phone: "+1 619 222 2999"
-opening_hours: "Mo-Su 10:00-21:00"
-website: "https://www.closetsignature.com/"
+street: Newport Avenue
+housenumber: "4878"
+phone: +1 619 222 2999
+opening_hours: Mo-Su 10:00-21:00
+website: https://www.closetsignature.com/

@@ -1,11 +1,11 @@
 id: 419787919
-type: way
+type: node
 latitude: 33.63068
 longitude: -117.72606
 postcode: "92618"
 city: Irvine
-street: "Lake Forest Drive"
-housenumber: 16181
+street: Lake Forest Drive
+housenumber: "16181"
 phone: ""
 opening_hours: ""
 website: ""

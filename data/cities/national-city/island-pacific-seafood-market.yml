@@ -1,11 +1,11 @@
 id: 761304440
-type: way
+type: node
 latitude: 32.68009
 longitude: -117.07904
 postcode: "91950"
 city: National City
-street: "East Plaza Boulevard"
-housenumber: 2720
+street: East Plaza Boulevard
+housenumber: "2720"
 phone: ""
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://islandpacificmarket.com/"
+opening_hours: Mo-Su 08:00-21:00
+website: https://islandpacificmarket.com/

@@ -4,8 +4,8 @@ latitude: 37.78864
 longitude: -122.40479
 postcode: "94108"
 city: San Francisco
-street: "Post Street"
-housenumber: 175
-phone: "+1 415-981-0900"
-opening_hours: "Mo-Sa 11:00-18:00"
+street: Post Street
+housenumber: "175"
+phone: +1 415-981-0900
+opening_hours: Mo-Sa 11:00-18:00
 website: ""

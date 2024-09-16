@@ -4,8 +4,8 @@ latitude: 33.04478
 longitude: -117.29441
 postcode: "92024"
 city: Encinitas
-street: "West E Street"
-housenumber: 128
-phone: "+1 760 931 1390"
-opening_hours: "Mo-Th 09:00-17:00; Fr 09:00-14:00; Sa 10:00-14:00"
-website: "https://www.estreeteyes.com/"
+street: West E Street
+housenumber: "128"
+phone: +1 760 931 1390
+opening_hours: Mo-Th 09:00-17:00; Fr 09:00-14:00; Sa 10:00-14:00
+website: https://www.estreeteyes.com/

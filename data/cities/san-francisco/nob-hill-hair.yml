@@ -1,11 +1,11 @@
 id: 292138577
-type: way
+type: node
 latitude: 37.79101
 longitude: -122.41096
 postcode: "94108"
 city: San Francisco
-street: "Pine Street"
-housenumber: 906
-phone: "+1 415 928 1350"
+street: Pine Street
+housenumber: "906"
+phone: +1 415 928 1350
 opening_hours: ""
-website: "https://nobhillhair.weebly.com/"
+website: https://nobhillhair.weebly.com/

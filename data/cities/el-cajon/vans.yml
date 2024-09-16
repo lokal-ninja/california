@@ -1,11 +1,11 @@
 id: 995061666
-type: way
+type: node
 latitude: 32.80718
 longitude: -116.93605
 postcode: "92021"
 city: El Cajon
-street: "North 2nd Street"
-housenumber: 882
+street: North 2nd Street
+housenumber: "882"
 phone: "+16194410627"
 opening_hours: ""
-website: "https://www.vans.com/"
+website: https://www.vans.com/

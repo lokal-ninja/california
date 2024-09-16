@@ -1,11 +1,11 @@
 id: 289859527
-type: way
+type: node
 latitude: 33.84818
 longitude: -118.11519
 postcode: "90713"
 city: Lakewood
-street: "Del Amo Boulevard"
-housenumber: 5951
-phone: "+1 562-867-7282"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.ralphs.com/stores/grocery/ca/lakewood/lakewood/703/00165"
+street: Del Amo Boulevard
+housenumber: "5951"
+phone: +1 562-867-7282
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.ralphs.com/stores/grocery/ca/lakewood/lakewood/703/00165

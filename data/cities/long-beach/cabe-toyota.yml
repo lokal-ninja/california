@@ -1,11 +1,11 @@
 id: 441460158
-type: way
+type: node
 latitude: 33.809
 longitude: -118.19005
 postcode: ""
 city: Long Beach
-street: "Long Beach Boulevard"
-housenumber: 2849
+street: Long Beach Boulevard
+housenumber: "2849"
 phone: ""
 opening_hours: ""
 website: ""

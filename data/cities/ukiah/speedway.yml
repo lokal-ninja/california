@@ -1,11 +1,11 @@
 id: 461287534
-type: way
+type: node
 latitude: 39.16814
 longitude: -123.21051
 postcode: "95482"
 city: Ukiah
-street: "North State Street"
-housenumber: 1301
+street: North State Street
+housenumber: "1301"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/CA/Ukiah/1301-N-STATE-ST"
+website: https://www.speedway.com/locations/CA/Ukiah/1301-N-STATE-ST

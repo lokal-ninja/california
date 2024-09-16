@@ -4,8 +4,8 @@ latitude: 32.91429
 longitude: -117.14813
 postcode: "92126"
 city: San Diego
-street: "Mira Mesa Boulevard"
-housenumber: 8142
-phone: "+1 858-880-0210"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/ca/san-diego/mira-mesa/"
+street: Mira Mesa Boulevard
+housenumber: "8142"
+phone: +1 858-880-0210
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/ca/san-diego/mira-mesa/

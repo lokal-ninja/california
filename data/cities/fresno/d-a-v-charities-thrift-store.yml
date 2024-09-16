@@ -1,11 +1,11 @@
 id: 437170342
-type: way
+type: node
 latitude: 36.73188
 longitude: -119.78628
 postcode: "93721"
 city: Fresno
-street: "Van Ness Avenue"
-housenumber: 701
+street: Van Ness Avenue
+housenumber: "701"
 phone: ""
 opening_hours: ""
 website: ""

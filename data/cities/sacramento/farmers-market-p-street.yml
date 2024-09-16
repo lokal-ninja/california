@@ -1,11 +1,11 @@
 id: 230603050
-type: way
+type: node
 latitude: 38.57178
 longitude: -121.48939
 postcode: "95814"
 city: Sacramento
-street: "P Street"
-housenumber: 1540
+street: P Street
+housenumber: "1540"
 phone: ""
 opening_hours: ""
 website: ""

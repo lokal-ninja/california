@@ -1,11 +1,11 @@
 id: 127288324
-type: way
+type: node
 latitude: 33.67983
 longitude: -117.8883
 postcode: "92626"
 city: Costa Mesa
-street: "Baker Street"
-housenumber: 751
+street: Baker Street
+housenumber: "751"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/CA/Costa-Mesa/751-BAKER-ST"
+website: https://www.speedway.com/locations/CA/Costa-Mesa/751-BAKER-ST

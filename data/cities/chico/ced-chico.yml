@@ -1,11 +1,11 @@
 id: 1296513151
-type: way
+type: node
 latitude: 39.72009
 longitude: -121.84756
 postcode: "95928"
 city: Chico
-street: "West 7th Street"
-housenumber: 1210
-phone: "+1-530-895-8611"
-opening_hours: "Mo-Fr 07:00-17:00"
-website: "https://cedchico.portalced.com/"
+street: West 7th Street
+housenumber: "1210"
+phone: +1-530-895-8611
+opening_hours: Mo-Fr 07:00-17:00
+website: https://cedchico.portalced.com/

@@ -4,8 +4,8 @@ latitude: 34.03817
 longitude: -118.44051
 postcode: "90025"
 city: Los Angeles
-street: "West Olympic Boulevard"
-housenumber: 11270
-phone: "+1-310-312-1266"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
-website: "https://www.marshalls.com/us/store/stores/West+Los+Angeles-CA-90025/693/aboutstore"
+street: West Olympic Boulevard
+housenumber: "11270"
+phone: +1-310-312-1266
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
+website: https://www.marshalls.com/us/store/stores/West+Los+Angeles-CA-90025/693/aboutstore

@@ -4,8 +4,8 @@ latitude: 34.27799
 longitude: -118.77954
 postcode: "93065"
 city: Simi Valley
-street: "1st Street"
-housenumber: 2383
-phone: "+1 805-579-7921"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
-website: "https://www.americastire.com/store/ca/simi-valley/s/1330"
+street: 1st Street
+housenumber: "2383"
+phone: +1 805-579-7921
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
+website: https://www.americastire.com/store/ca/simi-valley/s/1330

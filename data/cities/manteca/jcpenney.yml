@@ -1,11 +1,11 @@
 id: 319611434
-type: way
+type: node
 latitude: 37.78176
 longitude: -121.23234
 postcode: "95337"
 city: Manteca
-street: "Perimeter Drive"
-housenumber: 1060
+street: Perimeter Drive
+housenumber: "1060"
 phone: ""
 opening_hours: ""
 website: ""

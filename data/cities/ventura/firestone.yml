@@ -1,11 +1,11 @@
 id: 32776229
-type: way
+type: node
 latitude: 34.27791
 longitude: -119.29298
 postcode: "93001"
 city: Ventura
-street: "South California Street"
-housenumber: 200
+street: South California Street
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

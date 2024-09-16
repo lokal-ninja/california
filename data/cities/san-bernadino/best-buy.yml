@@ -1,11 +1,11 @@
 id: 279687476
-type: way
+type: node
 latitude: 34.06709
 longitude: -117.26742
 postcode: "92408"
 city: San Bernadino
-street: "Harriman Place"
-housenumber: 888
-phone: "+1 909-885-4049"
+street: Harriman Place
+housenumber: "888"
+phone: +1 909-885-4049
 opening_hours: ""
-website: "http://stores.bestbuy.com/150/"
+website: http://stores.bestbuy.com/150/

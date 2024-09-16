@@ -1,11 +1,11 @@
 id: 287546495
-type: way
+type: node
 latitude: 37.99434
 longitude: -121.30961
 postcode: ""
 city: Stockton
-street: "Claremont Avenue"
-housenumber: 4905
+street: Claremont Avenue
+housenumber: "4905"
 phone: ""
 opening_hours: ""
 website: ""

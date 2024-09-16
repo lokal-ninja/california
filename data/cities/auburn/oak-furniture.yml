@@ -1,11 +1,11 @@
 id: 484975630
-type: way
+type: node
 latitude: 38.95821
 longitude: -121.10094
 postcode: "95602"
 city: Auburn
-street: "Grass Valley Highway"
-housenumber: 4086
-phone: "(530) 888-1946"
-opening_hours: "Mo-Sa 10:00-17:00"
+street: Grass Valley Highway
+housenumber: "4086"
+phone: (530) 888-1946
+opening_hours: Mo-Sa 10:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 792731211
-type: way
+type: node
 latitude: 37.97576
 longitude: -122.02603
 postcode: "94519"
 city: Concord
-street: "Main Avenue"
-housenumber: 2801
-phone: "+1-925-827-2443"
+street: Main Avenue
+housenumber: "2801"
+phone: +1-925-827-2443
 opening_hours: ""
 website: ""

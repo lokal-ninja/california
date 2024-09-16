@@ -1,11 +1,11 @@
 id: 94296910
-type: way
+type: node
 latitude: 36.86915
 longitude: -121.39984
-postcode: "95023-9388"
+postcode: 95023-9388
 city: Hollister
-street: "McCloskey Road"
-housenumber: 71
+street: McCloskey Road
+housenumber: "71"
 phone: ""
 opening_hours: ""
 website: ""

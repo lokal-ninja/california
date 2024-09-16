@@ -1,11 +1,11 @@
 id: 94333989
-type: way
+type: node
 latitude: 33.12212
 longitude: -117.08027
 postcode: "92025"
 city: Escondido
-street: "East Grand Avenue"
-housenumber: 157
+street: East Grand Avenue
+housenumber: "157"
 phone: ""
 opening_hours: ""
 website: ""

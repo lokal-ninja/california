@@ -1,11 +1,11 @@
 id: 311695777
-type: way
+type: node
 latitude: 37.0558
 longitude: -120.87607
 postcode: "93635"
 city: Los Banos
-street: "West Pacheco Boulevard"
-housenumber: 1423
+street: West Pacheco Boulevard
+housenumber: "1423"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/ca/los-banos/1256/"
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/ca/los-banos/1256/

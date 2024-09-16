@@ -1,11 +1,11 @@
 id: 1136229544
-type: way
+type: node
 latitude: 33.25758
 longitude: -116.37148
 postcode: "92004"
 city: Borrego Springs
-street: "Stirrup Road"
-housenumber: 2476
+street: Stirrup Road
+housenumber: "2476"
 phone: ""
 opening_hours: ""
 website: ""

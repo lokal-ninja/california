@@ -1,11 +1,11 @@
 id: 117146293
-type: way
+type: node
 latitude: 37.37821
 longitude: -122.11722
 postcode: ""
 city: Los Altos
-street: "Main Street"
-housenumber: 346
+street: Main Street
+housenumber: "346"
 phone: "6509414384"
 opening_hours: ""
-website: "https://www.ikbinc.com/"
+website: https://www.ikbinc.com/

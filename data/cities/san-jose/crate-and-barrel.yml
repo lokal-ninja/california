@@ -1,11 +1,11 @@
 id: 142697827
-type: way
+type: node
 latitude: 37.32309
 longitude: -121.94857
 postcode: "95128"
 city: San Jose
-street: "Santana Row"
-housenumber: 301
-phone: "+1 408-247-0600"
-opening_hours: "Mo-Sa 10:00-20:00; Su 10:00-19:00"
-website: "https://www.crateandbarrel.com/stores/santana-row/str404"
+street: Santana Row
+housenumber: "301"
+phone: +1 408-247-0600
+opening_hours: Mo-Sa 10:00-20:00; Su 10:00-19:00
+website: https://www.crateandbarrel.com/stores/santana-row/str404

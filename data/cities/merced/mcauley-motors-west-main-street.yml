@@ -1,11 +1,11 @@
 id: 311711316
-type: way
+type: node
 latitude: 37.3033
 longitude: -120.48746
 postcode: "95340"
 city: Merced
-street: "West Main Street"
-housenumber: 757
+street: West Main Street
+housenumber: "757"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 802300604
-type: way
+type: node
 latitude: 35.13782
 longitude: -118.45057
 postcode: "93561"
 city: Tehachapi
-street: "North Mill Street"
-housenumber: 480
-phone: "+1 661-823-1687"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: North Mill Street
+housenumber: "480"
+phone: +1 661-823-1687
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

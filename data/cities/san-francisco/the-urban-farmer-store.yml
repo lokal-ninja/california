@@ -1,11 +1,11 @@
 id: 288678031
-type: way
+type: node
 latitude: 37.73795
 longitude: -122.49778
 postcode: "94116"
 city: San Francisco
-street: "Vicente Street"
-housenumber: 2833
+street: Vicente Street
+housenumber: "2833"
 phone: ""
 opening_hours: ""
 website: ""

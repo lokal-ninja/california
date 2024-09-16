@@ -4,8 +4,8 @@ latitude: 37.90084
 longitude: -122.30294
 postcode: "94530"
 city: El Cerrito
-street: "San Pablo Avenue"
-housenumber: 10057
+street: San Pablo Avenue
+housenumber: "10057"
 phone: "+15105266615"
-opening_hours: "Mo-Fr 07:30-20:00; Sa-Su 08:00-18:00"
-website: "https://www.acehardware.com/mystore/index.jsp?store=00903"
+opening_hours: Mo-Fr 07:30-20:00; Sa-Su 08:00-18:00
+website: https://www.acehardware.com/mystore/index.jsp?store=00903

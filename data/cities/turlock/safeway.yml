@@ -1,11 +1,11 @@
 id: 238690118
-type: way
+type: node
 latitude: 37.52128
 longitude: -120.8838
 postcode: "95380"
 city: Turlock
-street: "Countryside Drive"
-housenumber: 3051
-phone: "+1 209-669-2725"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/ca/turlock/3051-countryside-dr.html"
+street: Countryside Drive
+housenumber: "3051"
+phone: +1 209-669-2725
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/ca/turlock/3051-countryside-dr.html

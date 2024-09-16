@@ -1,11 +1,11 @@
 id: 287558141
-type: way
+type: node
 latitude: 38.03618
 longitude: -121.29436
 postcode: ""
 city: Stockton
-street: "East Morada Lane"
-housenumber: 1530
+street: East Morada Lane
+housenumber: "1530"
 phone: ""
 opening_hours: ""
 website: ""

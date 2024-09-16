@@ -1,11 +1,11 @@
 id: 179236101
-type: way
+type: node
 latitude: 37.67051
 longitude: -120.95651
 postcode: "95355"
 city: Modesto
-street: "Oakdale Road Building A"
-housenumber: 1800
-phone: "+1 209-488-4224"
-opening_hours: "Mo-Su 07:00-20:00"
-website: "https://www.strandace.com/"
+street: Oakdale Road Building A
+housenumber: "1800"
+phone: +1 209-488-4224
+opening_hours: Mo-Su 07:00-20:00
+website: https://www.strandace.com/

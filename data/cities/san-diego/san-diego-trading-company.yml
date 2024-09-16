@@ -4,8 +4,8 @@ latitude: 32.71131
 longitude: -117.16033
 postcode: "92101"
 city: San Diego
-street: "5th Avenue"
-housenumber: 701
+street: 5th Avenue
+housenumber: "701"
 phone: ""
 opening_hours: ""
-website: "https://sdtradingcousa.com/"
+website: https://sdtradingcousa.com/

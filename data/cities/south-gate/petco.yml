@@ -1,11 +1,11 @@
 id: 451383119
-type: way
+type: node
 latitude: 33.95477
 longitude: -118.18686
 postcode: "90280"
 city: South Gate
-street: "Firestone Boulevard"
-housenumber: 4663
-phone: "+1 323-357-3792"
-opening_hours: "Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ca/southgate/pet-supplies-southgate-ca-2123.html"
+street: Firestone Boulevard
+housenumber: "4663"
+phone: +1 323-357-3792
+opening_hours: Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/ca/southgate/pet-supplies-southgate-ca-2123.html

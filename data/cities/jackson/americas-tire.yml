@@ -1,11 +1,11 @@
 id: 958340387
-type: way
+type: node
 latitude: 38.36964
 longitude: -120.79829
 postcode: "95642"
 city: Jackson
-street: "Industry Boulevard"
-housenumber: 12230
+street: Industry Boulevard
+housenumber: "12230"
 phone: ""
 opening_hours: ""
 website: ""

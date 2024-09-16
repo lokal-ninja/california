@@ -1,11 +1,11 @@
 id: 1272663279
-type: way
+type: node
 latitude: 32.58538
 longitude: -117.11507
 postcode: "91932"
 city: Imperial Beach
-street: "Palm Avenue"
-housenumber: 836
+street: Palm Avenue
+housenumber: "836"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 08:00-21:00"
-website: "https://www.dollartree.com/locations/ca/imperial-beach/7616/"
+opening_hours: Mo-Sa 08:00-22:00; Su 08:00-21:00
+website: https://www.dollartree.com/locations/ca/imperial-beach/7616/

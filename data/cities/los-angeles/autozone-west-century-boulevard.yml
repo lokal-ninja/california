@@ -4,8 +4,8 @@ latitude: 33.94513
 longitude: -118.28664
 postcode: "90044"
 city: Los Angeles
-street: "West Century Boulevard"
-housenumber: 648
+street: West Century Boulevard
+housenumber: "648"
 phone: "+13237772691"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.autozone.com/locations/ca/los-angeles/648-w-century-blvd.html"
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.autozone.com/locations/ca/los-angeles/648-w-century-blvd.html

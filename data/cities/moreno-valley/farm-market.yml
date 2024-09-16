@@ -1,11 +1,11 @@
 id: 1294886606
-type: way
+type: node
 latitude: 33.91683
 longitude: -117.15623
 postcode: "92555"
 city: Moreno Valley
-street: "Redlands Boulevard"
-housenumber: 14058
+street: Redlands Boulevard
+housenumber: "14058"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 239448002
-type: way
+type: node
 latitude: 37.49379
 longitude: -122.23482
 postcode: ""
 city: Redwood City
-street: "Howland Street"
-housenumber: 509
+street: Howland Street
+housenumber: "509"
 phone: ""
 opening_hours: ""
 website: ""

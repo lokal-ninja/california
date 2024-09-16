@@ -4,8 +4,8 @@ latitude: 37.65132
 longitude: -122.49162
 postcode: "94044"
 city: Pacifica
-street: "Bill Drake Way"
-housenumber: 75
-phone: "+1 650 898 8697"
-opening_hours: "Mo-Su 10:00-22:00"
+street: Bill Drake Way
+housenumber: "75"
+phone: +1 650 898 8697
+opening_hours: Mo-Su 10:00-22:00
 website: ""

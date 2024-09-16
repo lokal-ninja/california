@@ -1,11 +1,11 @@
 id: 240594598
-type: way
+type: node
 latitude: 37.47486
 longitude: -122.22041
 postcode: "94063"
 city: Redwood City
-street: "El Camino Real"
-housenumber: 2336
-phone: "(650) 368-9908"
+street: El Camino Real
+housenumber: "2336"
+phone: (650) 368-9908
 opening_hours: ""
-website: "https://www.redwoodrental.com/"
+website: https://www.redwoodrental.com/

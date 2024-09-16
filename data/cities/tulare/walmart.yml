@@ -1,11 +1,11 @@
 id: 691041803
-type: way
+type: node
 latitude: 36.22816
 longitude: -119.32829
 postcode: "93274"
 city: Tulare
-street: "East Prosperity Avenue"
-housenumber: 1110
-phone: "+1 559-684-1300"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.walmart.com/store/2536/tulare-ca/whats-new"
+street: East Prosperity Avenue
+housenumber: "1110"
+phone: +1 559-684-1300
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.walmart.com/store/2536/tulare-ca/whats-new

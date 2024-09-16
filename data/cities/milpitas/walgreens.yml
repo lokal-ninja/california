@@ -1,11 +1,11 @@
 id: 39041874
-type: way
+type: node
 latitude: 37.42658
 longitude: -121.91189
 postcode: "95035"
 city: Milpitas
-street: "West Calaveras Boulevard"
-housenumber: 342
+street: West Calaveras Boulevard
+housenumber: "342"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-342+w+calaveras+blvd-milpitas-ca-95035/id=3671"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-342+w+calaveras+blvd-milpitas-ca-95035/id=3671

@@ -1,11 +1,11 @@
 id: 31817998
-type: way
+type: node
 latitude: 32.57657
 longitude: -117.03689
 postcode: "92154"
 city: San Diego
-street: "Dennery Road"
-housenumber: 950
-phone: "+1 619-428-8662"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/otay-mesa/ca/san-diego/92154/1034"
+street: Dennery Road
+housenumber: "950"
+phone: +1 619-428-8662
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/otay-mesa/ca/san-diego/92154/1034

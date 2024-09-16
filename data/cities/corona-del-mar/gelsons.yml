@@ -1,11 +1,11 @@
 id: 320525210
-type: way
+type: node
 latitude: 33.6118
 longitude: -117.86307
 postcode: "92625"
 city: Corona Del Mar
-street: "San Miguel Drive"
-housenumber: 1660
+street: San Miguel Drive
+housenumber: "1660"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1292289213
-type: way
+type: node
 latitude: 37.49991
 longitude: -120.83963
 postcode: "95380"
 city: Turlock
-street: "East Main Street"
-housenumber: 825
+street: East Main Street
+housenumber: "825"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

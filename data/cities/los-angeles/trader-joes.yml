@@ -4,8 +4,8 @@ latitude: 34.02032
 longitude: -118.42207
 postcode: "90034"
 city: Los Angeles
-street: "Sepulveda Boulevard"
-housenumber: 3456
-phone: "+1 310-836-2458"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://locations.traderjoes.com/ca/los-angeles/119/"
+street: Sepulveda Boulevard
+housenumber: "3456"
+phone: +1 310-836-2458
+opening_hours: Mo-Su 08:00-21:00
+website: https://locations.traderjoes.com/ca/los-angeles/119/

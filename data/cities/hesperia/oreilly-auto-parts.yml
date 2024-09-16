@@ -1,11 +1,11 @@
 id: 704230967
-type: way
+type: node
 latitude: 34.42395
 longitude: -117.37264
 postcode: "92345"
 city: Hesperia
-street: "Main Street"
-housenumber: 13303
+street: Main Street
+housenumber: "13303"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ca/hesperia/autoparts-5816.html"
+website: https://locations.oreillyauto.com/ca/hesperia/autoparts-5816.html

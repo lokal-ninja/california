@@ -1,11 +1,11 @@
 id: 253759170
-type: way
+type: node
 latitude: 39.92976
 longitude: -122.19847
 postcode: "96021"
 city: Corning
-street: "Edith Avenue"
-housenumber: 600
-phone: "+1 530-824-2467"
-opening_hours: "06:00-24:00"
-website: "https://local.safeway.com/safeway/ca/corning/600-edith-st.html"
+street: Edith Avenue
+housenumber: "600"
+phone: +1 530-824-2467
+opening_hours: 06:00-24:00
+website: https://local.safeway.com/safeway/ca/corning/600-edith-st.html

@@ -1,11 +1,11 @@
 id: 1307509933
-type: way
+type: node
 latitude: 34.22691
 longitude: -119.17932
 postcode: "93036"
 city: Oxnard
-street: "N Oxnard Blvd"
-housenumber: 2343
+street: N Oxnard Blvd
+housenumber: "2343"
 phone: "+18054753957"
-opening_hours: "Mo-Su 09:00-20:45"
-website: "https://www.stiiizy.com/pages/stiiizy-oxnard"
+opening_hours: Mo-Su 09:00-20:45
+website: https://www.stiiizy.com/pages/stiiizy-oxnard

@@ -1,11 +1,11 @@
 id: 238112872
-type: way
+type: node
 latitude: 38.61039
 longitude: -122.86972
 postcode: ""
 city: Healdsburg
-street: "Matheson Street"
-housenumber: 114
+street: Matheson Street
+housenumber: "114"
 phone: ""
 opening_hours: ""
-website: "https://www.facebook.com/rete.healdsburg"
+website: https://www.facebook.com/rete.healdsburg

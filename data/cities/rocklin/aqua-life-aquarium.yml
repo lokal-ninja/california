@@ -1,11 +1,11 @@
 id: 504642372
-type: way
+type: node
 latitude: 38.79345
 longitude: -121.21902
 postcode: "95677"
 city: Rocklin
-street: "Granite Drive"
-housenumber: 4505
+street: Granite Drive
+housenumber: "4505"
 phone: ""
 opening_hours: ""
-website: "https://aqualifeaquarium.com/"
+website: https://aqualifeaquarium.com/

@@ -1,11 +1,11 @@
 id: 282603970
-type: way
+type: node
 latitude: 33.90901
 longitude: -117.56061
 postcode: "92860"
 city: Norco
-street: "Hamner Avenue"
-housenumber: 1845
-phone: "+1 951-735-0384"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ca/norco/1845-e.-hamner-avenue-29685"
+street: Hamner Avenue
+housenumber: "1845"
+phone: +1 951-735-0384
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ca/norco/1845-e.-hamner-avenue-29685

@@ -1,11 +1,11 @@
 id: 138515821
-type: way
+type: node
 latitude: 33.61594
 longitude: -117.70526
 postcode: "92630"
 city: Lake Forest
-street: "El Toro Road"
-housenumber: 23842
-phone: "+1 949-699-0643"
-opening_hours: "Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 10:00-19:00"
-website: "https://www.att.com/stores/california/lake-forest/19"
+street: El Toro Road
+housenumber: "23842"
+phone: +1 949-699-0643
+opening_hours: Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 10:00-19:00
+website: https://www.att.com/stores/california/lake-forest/19

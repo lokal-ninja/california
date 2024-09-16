@@ -1,11 +1,11 @@
 id: 472539321
-type: way
+type: node
 latitude: 34.37997
 longitude: -118.54131
 postcode: "91355"
 city: Santa Clarita
-street: "Lyons Avenue"
-housenumber: 23323
+street: Lyons Avenue
+housenumber: "23323"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ca/santaclarita/autoparts-2822.html"
+website: https://locations.oreillyauto.com/ca/santaclarita/autoparts-2822.html

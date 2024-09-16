@@ -4,8 +4,8 @@ latitude: 37.79
 longitude: -122.40722
 postcode: "94108"
 city: San Francisco
-street: "Stockton Street"
-housenumber: 429
-phone: "+1 415 9672622"
-opening_hours: "Mo-Th 11:00-18:00; Fr-Sa 11:00-19:00; Su 11:00-18:00"
-website: "https://www.bobaguys.com/"
+street: Stockton Street
+housenumber: "429"
+phone: +1 415 9672622
+opening_hours: Mo-Th 11:00-18:00; Fr-Sa 11:00-19:00; Su 11:00-18:00
+website: https://www.bobaguys.com/

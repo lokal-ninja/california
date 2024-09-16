@@ -1,11 +1,11 @@
 id: 311712103
-type: way
+type: node
 latitude: 37.36081
 longitude: -120.5949
 postcode: "95301"
 city: Atwater
-street: "East Bellevue Road"
-housenumber: 231
+street: East Bellevue Road
+housenumber: "231"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-2730+shaffer+rd-atwater-ca-95301/id=6718"
+website: https://www.walgreens.com/locator/walgreens-2730+shaffer+rd-atwater-ca-95301/id=6718

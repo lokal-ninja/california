@@ -1,11 +1,11 @@
 id: 1019485764
-type: way
+type: node
 latitude: 38.35755
 longitude: -122.76883
 postcode: "95472"
 city: Sebastopol
-street: "Gravenstein Highway South"
-housenumber: 4353
+street: Gravenstein Highway South
+housenumber: "4353"
 phone: ""
 opening_hours: ""
 website: ""

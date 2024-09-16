@@ -1,11 +1,11 @@
 id: 200858729
-type: way
+type: node
 latitude: 37.32188
 longitude: -121.94776
 postcode: "95128"
 city: San Jose
-street: "Santana Row"
-housenumber: 334
-phone: "+1 408-260-9802"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-19:00"
-website: "https://stores.sunglasshut.com/us/ca/san-jose/334-santana-row"
+street: Santana Row
+housenumber: "334"
+phone: +1 408-260-9802
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-19:00
+website: https://stores.sunglasshut.com/us/ca/san-jose/334-santana-row

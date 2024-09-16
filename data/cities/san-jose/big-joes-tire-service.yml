@@ -1,11 +1,11 @@
 id: 779220052
-type: way
+type: node
 latitude: 37.37414
 longitude: -121.83566
 postcode: "95127"
 city: San Jose
-street: "North White Road"
-housenumber: 279
+street: North White Road
+housenumber: "279"
 phone: ""
 opening_hours: ""
 website: ""

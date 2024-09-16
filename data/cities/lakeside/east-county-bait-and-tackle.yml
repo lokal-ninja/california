@@ -1,11 +1,11 @@
 id: 961157263
-type: way
+type: node
 latitude: 32.8624
 longitude: -116.92177
 postcode: "92040"
 city: Lakeside
-street: "Maine Avenue"
-housenumber: 10137
+street: Maine Avenue
+housenumber: "10137"
 phone: "+16193909112"
 opening_hours: ""
-website: "https://www.eastcountybaitandtackle.com/"
+website: https://www.eastcountybaitandtackle.com/

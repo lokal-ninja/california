@@ -4,8 +4,8 @@ latitude: 37.37998
 longitude: -122.11463
 postcode: ""
 city: Los Altos
-street: "Main Street"
-housenumber: 123
+street: Main Street
+housenumber: "123"
 phone: ""
 opening_hours: ""
 website: ""

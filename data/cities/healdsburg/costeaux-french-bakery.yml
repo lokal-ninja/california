@@ -1,11 +1,11 @@
 id: 238121228
-type: way
+type: node
 latitude: 38.61266
 longitude: -122.87145
 postcode: ""
 city: Healdsburg
-street: "Healdsburg Avenue"
-housenumber: 417
-phone: "+1 707-433-1913"
-opening_hours: "Mo-Th 07:00-16:00; Fr-Sa 07:00-017:00; Su 07:00-013:00"
-website: "https://www.costeaux.com/"
+street: Healdsburg Avenue
+housenumber: "417"
+phone: +1 707-433-1913
+opening_hours: Mo-Th 07:00-16:00; Fr-Sa 07:00-017:00; Su 07:00-013:00
+website: https://www.costeaux.com/

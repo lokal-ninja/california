@@ -1,11 +1,11 @@
 id: 1072084932
-type: way
+type: node
 latitude: 33.84505
 longitude: -117.9169
 postcode: "92805"
 city: Anaheim
-street: "North Anaheim Boulevard"
-housenumber: 816
+street: North Anaheim Boulevard
+housenumber: "816"
 phone: ""
 opening_hours: ""
 website: ""

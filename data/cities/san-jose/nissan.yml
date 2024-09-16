@@ -1,11 +1,11 @@
 id: 39128429
-type: way
+type: node
 latitude: 37.27376
 longitude: -121.87783
 postcode: "95136"
 city: San Jose
-street: "West Capitol Expressway"
-housenumber: 1120
+street: West Capitol Expressway
+housenumber: "1120"
 phone: ""
 opening_hours: ""
 website: ""

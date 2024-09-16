@@ -4,8 +4,8 @@ latitude: 36.29871
 longitude: -119.29002
 postcode: "93277"
 city: Visalia
-street: "East Caldwell Avenue"
-housenumber: 246
-phone: "+1-559-732-7768"
-opening_hours: "Mo-Fr 09:00-17:30 on appointment; Sa 09:30-15:00 on appointment"
-website: "https://main-spot-barber-shop.hub.biz/"
+street: East Caldwell Avenue
+housenumber: "246"
+phone: +1-559-732-7768
+opening_hours: Mo-Fr 09:00-17:30 "on appointment"; Sa 09:30-15:00 "on appointment"
+website: https://main-spot-barber-shop.hub.biz/

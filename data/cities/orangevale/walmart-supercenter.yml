@@ -1,11 +1,11 @@
 id: 326371890
-type: way
+type: node
 latitude: 38.67996
 longitude: -121.22307
 postcode: "95662"
 city: Orangevale
-street: "Greenback Lane"
-housenumber: 8961
-phone: "+1 916-989-5800"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/4309/orangevale-ca/whats-new"
+street: Greenback Lane
+housenumber: "8961"
+phone: +1 916-989-5800
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/4309/orangevale-ca/whats-new

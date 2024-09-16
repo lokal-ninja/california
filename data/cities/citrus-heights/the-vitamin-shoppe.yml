@@ -1,11 +1,11 @@
 id: 330369116
-type: way
+type: node
 latitude: 38.67516
 longitude: -121.27224
 postcode: "95610"
 city: Citrus Heights
-street: "Sunrise Boulevard"
-housenumber: 6147
+street: Sunrise Boulevard
+housenumber: "6147"
 phone: ""
 opening_hours: ""
 website: ""

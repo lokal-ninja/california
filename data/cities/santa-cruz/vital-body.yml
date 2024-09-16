@@ -1,11 +1,11 @@
 id: 35556040
-type: way
+type: node
 latitude: 36.97622
 longitude: -122.0166
 postcode: ""
 city: Santa Cruz
-street: "Ocean View Avenue"
-housenumber: 556
-phone: "+1-831-454-8312"
+street: Ocean View Avenue
+housenumber: "556"
+phone: +1-831-454-8312
 opening_hours: ""
-website: "http://www.vitalbodytherapy.com/"
+website: http://www.vitalbodytherapy.com/

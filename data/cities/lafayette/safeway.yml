@@ -1,11 +1,11 @@
 id: 154644945
-type: way
+type: node
 latitude: 37.89273
 longitude: -122.11898
 postcode: "94549"
 city: Lafayette
-street: "Mount Diablo Boulevard"
-housenumber: 3540
-phone: "+1 925-283-0228"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/ca/lafayette/3540-mt-diablo-blvd.html"
+street: Mount Diablo Boulevard
+housenumber: "3540"
+phone: +1 925-283-0228
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/ca/lafayette/3540-mt-diablo-blvd.html

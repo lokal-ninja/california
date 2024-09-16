@@ -1,11 +1,11 @@
 id: 31840026
-type: way
+type: node
 latitude: 32.7932
 longitude: -117.15613
 postcode: "92123"
 city: San Diego
-street: "Starling Drive"
-housenumber: 7750
-phone: "+1 858-565-6252"
+street: Starling Drive
+housenumber: "7750"
+phone: +1 858-565-6252
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/san-diego/7750-starling-dr-13648"
+website: https://www.7-eleven.com/locations/ca/san-diego/7750-starling-dr-13648

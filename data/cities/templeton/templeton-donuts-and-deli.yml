@@ -1,11 +1,11 @@
 id: 172080838
-type: way
+type: node
 latitude: 35.55424
 longitude: -120.70209
 postcode: ""
 city: Templeton
-street: "Main Street"
-housenumber: 70
+street: Main Street
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

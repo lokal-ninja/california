@@ -1,11 +1,11 @@
 id: 337856406
-type: way
+type: node
 latitude: 33.63857
 longitude: -117.6795
 postcode: "92630"
 city: Lake Forest
-street: "El Toro Road"
-housenumber: 22351
-phone: "+1 949-581-3440"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.staterbros.com/stores/142"
+street: El Toro Road
+housenumber: "22351"
+phone: +1 949-581-3440
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.staterbros.com/stores/142

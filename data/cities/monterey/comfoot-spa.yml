@@ -1,11 +1,11 @@
 id: 152297443
-type: way
+type: node
 latitude: 36.59776
 longitude: -121.89561
 postcode: ""
 city: Monterey
-street: "Polk Street"
-housenumber: 500
-phone: "+1-831-655-3132"
+street: Polk Street
+housenumber: "500"
+phone: +1-831-655-3132
 opening_hours: ""
 website: ""

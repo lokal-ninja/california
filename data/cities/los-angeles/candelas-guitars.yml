@@ -1,11 +1,11 @@
 id: 429207449
-type: way
+type: node
 latitude: 34.04458
 longitude: -118.20352
 postcode: "90033"
 city: Los Angeles
-street: "Cesar E Chavez Avenue"
-housenumber: 2724
+street: Cesar E Chavez Avenue
+housenumber: "2724"
 phone: ""
 opening_hours: ""
-website: "https://www.candelas.com/"
+website: https://www.candelas.com/

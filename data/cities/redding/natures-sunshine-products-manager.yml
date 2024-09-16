@@ -4,8 +4,8 @@ latitude: 40.5788
 longitude: -122.37965
 postcode: "96001"
 city: Redding
-street: "Gold St"
-housenumber: 720
-phone: "530-221-2253"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 14:00-20:00"
-website: "https://shopnsp.com"
+street: Gold St
+housenumber: "720"
+phone: 530-221-2253
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 14:00-20:00
+website: https://shopnsp.com

@@ -1,11 +1,11 @@
 id: 868794743
-type: way
+type: node
 latitude: 37.02851
 longitude: -121.56545
 postcode: "95020"
 city: Gilroy
-street: "San Ysidro Avenue"
-housenumber: 8840
+street: San Ysidro Avenue
+housenumber: "8840"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://stores.staples.com/ca/gilroy/8840-san-ysidro-ave"
+opening_hours: Mo-Fr 09:00-20:00; Sa 10:00-19:00; Su 11:00-18:00
+website: https://stores.staples.com/ca/gilroy/8840-san-ysidro-ave

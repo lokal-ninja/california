@@ -1,11 +1,11 @@
 id: 311695583
-type: way
+type: node
 latitude: 37.06098
 longitude: -120.8492
 postcode: "93635"
 city: Los Banos
-street: "I Street"
-housenumber: 511
+street: I Street
+housenumber: "511"
 phone: ""
 opening_hours: ""
 website: ""

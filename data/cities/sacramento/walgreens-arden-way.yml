@@ -1,11 +1,11 @@
 id: 403731520
-type: way
+type: node
 latitude: 38.595
 longitude: -121.36566
 postcode: "95864"
 city: Sacramento
-street: "Arden Way"
-housenumber: 4200
+street: Arden Way
+housenumber: "4200"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-4200+arden+way-sacramento-ca-95864/id=4170"
+website: https://www.walgreens.com/locator/walgreens-4200+arden+way-sacramento-ca-95864/id=4170

@@ -1,11 +1,11 @@
 id: 1034933414
-type: way
+type: node
 latitude: 33.88271
 longitude: -117.61464
 postcode: "92882"
 city: Corona
-street: "Wardlow Road"
-housenumber: 2525
+street: Wardlow Road
+housenumber: "2525"
 phone: ""
 opening_hours: ""
-website: "https://dayfamilyclassiccars.com/"
+website: https://dayfamilyclassiccars.com/

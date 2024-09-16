@@ -1,11 +1,11 @@
 id: 252242568
-type: way
+type: node
 latitude: 37.11322
 longitude: -121.63904
 postcode: "95307"
 city: Morgan Hill
-street: "Tennant Station Way"
-housenumber: 100
-phone: "+1 408-776-9861"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/ca/morgan-hill/235-tennant-station.html"
+street: Tennant Station Way
+housenumber: "100"
+phone: +1 408-776-9861
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/ca/morgan-hill/235-tennant-station.html

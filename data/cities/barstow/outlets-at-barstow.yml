@@ -1,11 +1,11 @@
 id: 366304776
-type: way
+type: node
 latitude: 34.84842
 longitude: -117.08614
 postcode: "92311"
 city: Barstow
-street: "Tanger Way"
-housenumber: 2796
+street: Tanger Way
+housenumber: "2796"
 phone: ""
 opening_hours: ""
-website: "https://www.tangeroutlet.com/barstow"
+website: https://www.tangeroutlet.com/barstow

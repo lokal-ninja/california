@@ -1,11 +1,11 @@
 id: 366050749
-type: way
+type: node
 latitude: 37.3235
 longitude: -121.82472
 postcode: "95122"
 city: San Jose
-street: "Tully Road"
-housenumber: 1855
+street: Tully Road
+housenumber: "1855"
 phone: ""
 opening_hours: ""
 website: ""

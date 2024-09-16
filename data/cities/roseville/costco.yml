@@ -1,11 +1,11 @@
 id: 45373100
-type: way
+type: node
 latitude: 38.78049
 longitude: -121.26853
-postcode: "95678-1907"
+postcode: 95678-1907
 city: Roseville
-street: "Stanford Ranch Road"
-housenumber: 6750
-phone: "+1 916-789-1485"
-opening_hours: "Mo-Fr 09:00-20:30; Sa-Su 09:00-19:00"
-website: "https://www.costco.com/warehouse-locations/roseville-ca-roseville-ca-29.html"
+street: Stanford Ranch Road
+housenumber: "6750"
+phone: +1 916-789-1485
+opening_hours: Mo-Fr 09:00-20:30; Sa-Su 09:00-19:00
+website: https://www.costco.com/warehouse-locations/roseville-ca-roseville-ca-29.html

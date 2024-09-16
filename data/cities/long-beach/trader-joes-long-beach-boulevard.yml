@@ -1,11 +1,11 @@
 id: 295974563
-type: way
+type: node
 latitude: 33.83605
 longitude: -118.18893
 postcode: "90807"
 city: Long Beach
-street: "Long Beach Boulevard"
-housenumber: 4210
-phone: "+1 562-422-1020"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://locations.traderjoes.com/ca/long-beach/116/"
+street: Long Beach Boulevard
+housenumber: "4210"
+phone: +1 562-422-1020
+opening_hours: Mo-Su 08:00-21:00
+website: https://locations.traderjoes.com/ca/long-beach/116/

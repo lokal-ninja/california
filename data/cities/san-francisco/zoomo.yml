@@ -4,8 +4,8 @@ latitude: 37.79696
 longitude: -122.40581
 postcode: "94133"
 city: San Francisco
-street: "Pacific Avenue"
-housenumber: 609
+street: Pacific Avenue
+housenumber: "609"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa-Su off"
-website: "https://www.ridezoomo.com/cities/san-francisco"
+opening_hours: Mo-Fr 11:00-19:00; Sa-Su off
+website: https://www.ridezoomo.com/cities/san-francisco

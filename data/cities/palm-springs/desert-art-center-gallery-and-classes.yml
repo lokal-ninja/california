@@ -1,11 +1,11 @@
 id: 316805352
-type: way
+type: node
 latitude: 33.83135
 longitude: -116.54664
 postcode: "92262"
 city: Palm Springs
-street: "North Palm Canyon Drive"
-housenumber: 550
-phone: "(760) 323-7973"
+street: North Palm Canyon Drive
+housenumber: "550"
+phone: (760) 323-7973
 opening_hours: ""
 website: ""

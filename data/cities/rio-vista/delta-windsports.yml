@@ -1,11 +1,11 @@
 id: 1071153043
-type: way
+type: node
 latitude: 38.081
 longitude: -121.73209
 postcode: "94571"
 city: Rio Vista
-street: "West Sherman Island Road"
-housenumber: 3729
+street: West Sherman Island Road
+housenumber: "3729"
 phone: "+19167772299"
-opening_hours: "Th-Su 10:00-17:00"
-website: "https://deltawindsports.com/"
+opening_hours: Th-Su 10:00-17:00
+website: https://deltawindsports.com/

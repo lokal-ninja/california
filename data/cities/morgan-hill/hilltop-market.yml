@@ -1,11 +1,11 @@
 id: 331021964
-type: way
+type: node
 latitude: 37.14354
 longitude: -121.59347
 postcode: "95037"
 city: Morgan Hill
-street: "Jackson Oaks Drive"
-housenumber: 16820
+street: Jackson Oaks Drive
+housenumber: "16820"
 phone: ""
 opening_hours: ""
 website: ""

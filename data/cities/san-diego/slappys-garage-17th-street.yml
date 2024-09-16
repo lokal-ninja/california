@@ -4,8 +4,8 @@ latitude: 32.71022
 longitude: -117.14821
 postcode: "92101"
 city: San Diego
-street: "17th Street"
-housenumber: 465
+street: 17th Street
+housenumber: "465"
 phone: ""
-opening_hours: "Mo-Su 11:00-19:00"
-website: "https://slappysgaragesd.com"
+opening_hours: Mo-Su 11:00-19:00
+website: https://slappysgaragesd.com

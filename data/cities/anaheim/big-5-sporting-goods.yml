@@ -1,11 +1,11 @@
 id: 158075815
-type: way
+type: node
 latitude: 33.79
 longitude: -117.91446
 postcode: "92802"
 city: Anaheim
-street: "Harbor Boulevard"
-housenumber: 2320
-phone: "+1-714-750-3055"
-opening_hours: "Mo-Th 10:00-21:00; Fr 09:00-22:00; Sa 09:00-21:00; Su 09:30-20:00"
+street: Harbor Boulevard
+housenumber: "2320"
+phone: +1-714-750-3055
+opening_hours: Mo-Th 10:00-21:00; Fr 09:00-22:00; Sa 09:00-21:00; Su 09:30-20:00
 website: ""

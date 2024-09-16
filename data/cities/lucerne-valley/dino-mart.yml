@@ -1,11 +1,11 @@
 id: 712559140
-type: way
+type: node
 latitude: 34.44341
 longitude: -116.95022
 postcode: "92356"
 city: Lucerne Valley
-street: "Highway 18"
-housenumber: 32787
+street: Highway 18
+housenumber: "32787"
 phone: ""
 opening_hours: ""
 website: ""

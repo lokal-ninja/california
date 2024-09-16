@@ -4,8 +4,8 @@ latitude: 37.02226
 longitude: -121.56125
 postcode: "95020"
 city: Gilroy
-street: "Arroyo Circle"
-housenumber: 8300
-phone: "(408) 846-2745"
-opening_hours: "Mo-Th 10:00-20:00, Fr-Sa 10:00-21:00, Su 12:00-18:00"
+street: Arroyo Circle
+housenumber: "8300"
+phone: (408) 846-2745
+opening_hours: Mo-Th 10:00-20:00, Fr-Sa 10:00-21:00, Su 12:00-18:00
 website: ""

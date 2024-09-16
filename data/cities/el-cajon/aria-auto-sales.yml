@@ -1,11 +1,11 @@
 id: 1179629589
-type: way
+type: node
 latitude: 32.82145
 longitude: -116.9337
 postcode: "92021"
 city: El Cajon
-street: "Winter Gardens Boulevard"
-housenumber: 7931
+street: Winter Gardens Boulevard
+housenumber: "7931"
 phone: ""
 opening_hours: ""
 website: ""

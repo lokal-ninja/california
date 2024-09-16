@@ -1,11 +1,11 @@
 id: 1034620185
-type: way
+type: node
 latitude: 32.64079
 longitude: -117.0502
 postcode: "91910"
 city: Chula Vista
-street: "East H Street"
-housenumber: 350
+street: East H Street
+housenumber: "350"
 phone: ""
 opening_hours: ""
 website: ""

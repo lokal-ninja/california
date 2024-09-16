@@ -1,11 +1,11 @@
 id: 284571535
-type: way
+type: node
 latitude: 38.29109
 longitude: -122.45782
 postcode: "95476"
 city: Sonoma
-street: "Broadway"
-housenumber: 542
-phone: "+1 (707) 996-8944"
+street: Broadway
+housenumber: "542"
+phone: +1 (707) 996-8944
 opening_hours: ""
 website: ""

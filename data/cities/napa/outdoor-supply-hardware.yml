@@ -1,11 +1,11 @@
 id: 463579346
-type: way
+type: node
 latitude: 38.32361
 longitude: -122.30996
 postcode: "94558"
 city: Napa
-street: "Bel Aire Plaza"
-housenumber: 3980
-phone: "+1 707 690 0366"
-opening_hours: "Mo-Sa 07:00-20:00; Su 08:00-18:00"
+street: Bel Aire Plaza
+housenumber: "3980"
+phone: +1 707 690 0366
+opening_hours: Mo-Sa 07:00-20:00; Su 08:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 563963744
-type: way
+type: node
 latitude: 33.75916
 longitude: -116.29644
 postcode: ""
 city: Palm Desert
-street: "Varner Road"
-housenumber: 78415
-phone: "(760) 360-3489"
-opening_hours: "24/7"
+street: Varner Road
+housenumber: "78415"
+phone: (760) 360-3489
+opening_hours: 24/7
 website: ""

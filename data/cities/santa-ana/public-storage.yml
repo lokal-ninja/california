@@ -1,11 +1,11 @@
 id: 614255407
-type: way
+type: node
 latitude: 33.74247
 longitude: -117.85063
 postcode: "92705"
 city: Santa Ana
-street: "South Grand Avenue"
-housenumber: 400
+street: South Grand Avenue
+housenumber: "400"
 phone: ""
 opening_hours: ""
 website: ""

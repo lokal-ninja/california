@@ -1,11 +1,11 @@
 id: 28616849
-type: way
+type: node
 latitude: 39.15491
 longitude: -123.20151
 postcode: "95482"
 city: Ukiah
-street: "North Orchard Avenue"
-housenumber: 350
-phone: "+1 707-462-3009"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/ukiah/ca/ukiah/95482/8408"
+street: North Orchard Avenue
+housenumber: "350"
+phone: +1 707-462-3009
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/ukiah/ca/ukiah/95482/8408

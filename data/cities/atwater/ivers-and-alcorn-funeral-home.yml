@@ -1,11 +1,11 @@
 id: 311711048
-type: way
+type: node
 latitude: 37.36307
 longitude: -120.6134
 postcode: "95301"
 city: Atwater
-street: "Winton Way"
-housenumber: 3050
+street: Winton Way
+housenumber: "3050"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 130006709
-type: way
+type: node
 latitude: 36.83912
 longitude: -119.68305
 postcode: "93611"
 city: Clovis
-street: "Herndon Ave"
-housenumber: 1835
+street: Herndon Ave
+housenumber: "1835"
 phone: ""
 opening_hours: ""
 website: ""

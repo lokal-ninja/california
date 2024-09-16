@@ -4,8 +4,8 @@ latitude: 37.22108
 longitude: -121.98141
 postcode: "95030"
 city: Los Gatos
-street: "East Main Street"
-housenumber: 14
-phone: "(408) 354-8920"
+street: East Main Street
+housenumber: "14"
+phone: (408) 354-8920
 opening_hours: ""
-website: "https://www.capellisalon-losgatos.com/"
+website: https://www.capellisalon-losgatos.com/

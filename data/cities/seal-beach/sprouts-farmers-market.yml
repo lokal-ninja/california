@@ -1,11 +1,11 @@
 id: 675916077
-type: way
+type: node
 latitude: 33.78436
 longitude: -118.07379
 postcode: "90740"
 city: Seal Beach
-street: "Seal Beach Boulevard"
-housenumber: 12301
-phone: "+1 562-794-2125"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/ca/seal-beach/seal-beach-blvd/"
+street: Seal Beach Boulevard
+housenumber: "12301"
+phone: +1 562-794-2125
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/ca/seal-beach/seal-beach-blvd/

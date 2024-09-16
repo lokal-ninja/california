@@ -1,11 +1,11 @@
 id: 252692811
-type: way
+type: node
 latitude: 37.89896
 longitude: -122.51485
 postcode: "94941"
 city: Mill Valley
-street: "Reed Boulevard"
-housenumber: 110
-phone: "+1 415-360-9016"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/ca/mill-valley/800-redwood-hwy-frontage-rd--110.html"
+street: Reed Boulevard
+housenumber: "110"
+phone: +1 415-360-9016
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/ca/mill-valley/800-redwood-hwy-frontage-rd--110.html

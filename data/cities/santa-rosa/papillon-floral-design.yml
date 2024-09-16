@@ -4,8 +4,8 @@ latitude: 38.4377
 longitude: -122.72046
 postcode: "95401"
 city: Santa Rosa
-street: "4th Street"
-housenumber: 109
+street: 4th Street
+housenumber: "109"
 phone: "+17073037228"
-opening_hours: "Mo-Su 10:00-17:00"
-website: "https://papillonfloral.com/"
+opening_hours: Mo-Su 10:00-17:00
+website: https://papillonfloral.com/

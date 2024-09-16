@@ -4,8 +4,8 @@ latitude: 37.71094
 longitude: -122.39165
 postcode: "94134"
 city: San Francisco
-street: "Executive Park Boulevard"
-housenumber: 250
-phone: "650-691-3277"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.odoo.com/"
+street: Executive Park Boulevard
+housenumber: "250"
+phone: 650-691-3277
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.odoo.com/

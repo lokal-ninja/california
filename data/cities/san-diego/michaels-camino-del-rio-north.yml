@@ -2,10 +2,10 @@ id: 1741918095
 type: node
 latitude: 32.76979
 longitude: -117.14707
-postcode: "92108-1514"
+postcode: 92108-1514
 city: San Diego
-street: "Camino Del Rio North"
-housenumber: 1640
-phone: "+1 619-314-7644"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-19:00"
-website: "https://locations.michaels.com/ca/san-diego/5139"
+street: Camino Del Rio North
+housenumber: "1640"
+phone: +1 619-314-7644
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-19:00
+website: https://locations.michaels.com/ca/san-diego/5139

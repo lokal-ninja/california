@@ -1,11 +1,11 @@
 id: 240337535
-type: way
+type: node
 latitude: 40.57148
 longitude: -122.35264
 postcode: "96002"
 city: Redding
-street: "Cypress Avenue"
-housenumber: 1010
+street: Cypress Avenue
+housenumber: "1010"
 phone: ""
 opening_hours: ""
 website: ""

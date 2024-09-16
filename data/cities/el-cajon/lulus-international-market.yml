@@ -1,11 +1,11 @@
 id: 993792471
-type: way
+type: node
 latitude: 32.7885
 longitude: -116.92962
 postcode: "92019"
 city: El Cajon
-street: "Jamacha Road"
-housenumber: 678
+street: Jamacha Road
+housenumber: "678"
 phone: "+16193289607"
 opening_hours: ""
-website: "https://www.lulusmarkets.com/"
+website: https://www.lulusmarkets.com/

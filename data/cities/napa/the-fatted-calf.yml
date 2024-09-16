@@ -4,8 +4,8 @@ latitude: 38.30142
 longitude: -122.28201
 postcode: "94559"
 city: Napa
-street: "1st Street"
-housenumber: 644
-phone: "+1-707-256-3684"
-opening_hours: "Mo-Su 09:00-19:00"
-website: "https://fattedcalf.com/locations/napa-store"
+street: 1st Street
+housenumber: "644"
+phone: +1-707-256-3684
+opening_hours: Mo-Su 09:00-19:00
+website: https://fattedcalf.com/locations/napa-store

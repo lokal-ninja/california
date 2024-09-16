@@ -1,11 +1,11 @@
 id: 911134567
-type: way
+type: node
 latitude: 37.70048
 longitude: -122.10754
 postcode: "94578"
 city: San Leandro
-street: "Foothill Boulevard"
-housenumber: 16360
+street: Foothill Boulevard
+housenumber: "16360"
 phone: ""
 opening_hours: ""
 website: ""

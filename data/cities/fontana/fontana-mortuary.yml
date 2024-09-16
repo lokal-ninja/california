@@ -1,11 +1,11 @@
 id: 923556460
-type: way
+type: node
 latitude: 34.10767
 longitude: -117.4317
 postcode: "92336"
 city: Fontana
-street: "Mango Avenue"
-housenumber: 8030
+street: Mango Avenue
+housenumber: "8030"
 phone: ""
 opening_hours: ""
-website: "https://www.fontanamortuary.com/"
+website: https://www.fontanamortuary.com/

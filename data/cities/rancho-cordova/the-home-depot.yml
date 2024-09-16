@@ -1,11 +1,11 @@
 id: 933394325
-type: way
+type: node
 latitude: 38.59974
 longitude: -121.2682
 postcode: "95742"
 city: Rancho Cordova
-street: "Sunrise Boulevard"
-housenumber: 2756
-phone: "+1 916-852-0900"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/rancho-cordova/ca/rancho-cordova/95742/652"
+street: Sunrise Boulevard
+housenumber: "2756"
+phone: +1 916-852-0900
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/rancho-cordova/ca/rancho-cordova/95742/652

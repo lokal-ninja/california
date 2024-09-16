@@ -1,11 +1,11 @@
 id: 297996193
-type: way
+type: node
 latitude: 33.79616
 longitude: -116.3851
 postcode: "92211"
 city: Palm Desert
-street: "Monterey Avenue"
-housenumber: 34740
-phone: "+1 760-202-3052"
-opening_hours: "10:00-21:00"
-website: "www.ashleyfurniturehomestore.com/storelocator/StoreDetail.aspx?store=PalmDesert"
+street: Monterey Avenue
+housenumber: "34740"
+phone: +1 760-202-3052
+opening_hours: 10:00-21:00
+website: www.ashleyfurniturehomestore.com/storelocator/StoreDetail.aspx?store=PalmDesert

@@ -4,8 +4,8 @@ latitude: 34.03803
 longitude: -118.44054
 postcode: "90064"
 city: Los Angeles
-street: "West Olympic Boulevard"
-housenumber: 11260
-phone: "+1 310-479-1293"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/ca/los-angeles/5035"
+street: West Olympic Boulevard
+housenumber: "11260"
+phone: +1 310-479-1293
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/ca/los-angeles/5035

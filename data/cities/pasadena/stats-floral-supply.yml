@@ -1,11 +1,11 @@
 id: 206093268
-type: way
+type: node
 latitude: 34.14398
 longitude: -118.14845
 postcode: "91105"
 city: Pasadena
-street: "South Raymond Avenue"
-housenumber: 120
+street: South Raymond Avenue
+housenumber: "120"
 phone: ""
 opening_hours: ""
-website: "http://www.statsfloral.com/"
+website: http://www.statsfloral.com/

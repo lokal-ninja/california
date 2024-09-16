@@ -1,11 +1,11 @@
 id: 1280941672
-type: way
+type: node
 latitude: 36.82045
 longitude: -119.7882
 postcode: "93710"
 city: Fresno
-street: "North Blackstone Avenue"
-housenumber: 5630
-phone: "+1 559-432-2628"
-opening_hours: "Mo-Su 09:00-22:00"
-website: "https://stores.burlington.com/ca/fresno/299/"
+street: North Blackstone Avenue
+housenumber: "5630"
+phone: +1 559-432-2628
+opening_hours: Mo-Su 09:00-22:00
+website: https://stores.burlington.com/ca/fresno/299/

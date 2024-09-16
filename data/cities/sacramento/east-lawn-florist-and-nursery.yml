@@ -1,11 +1,11 @@
 id: 963933697
-type: way
+type: node
 latitude: 38.56123
 longitude: -121.4493
 postcode: "95819"
 city: Sacramento
-street: "Folsom Boulevard"
-housenumber: 4590
-phone: "+1 916 732-2016"
+street: Folsom Boulevard
+housenumber: "4590"
+phone: +1 916 732-2016
 opening_hours: ""
-website: "https://www.eastlawnflorist.com/about-us"
+website: https://www.eastlawnflorist.com/about-us

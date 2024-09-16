@@ -1,11 +1,11 @@
 id: 295974560
-type: way
+type: node
 latitude: 33.83515
 longitude: -118.189
-postcode: "90807-2004"
+postcode: 90807-2004
 city: Long Beach
-street: "Long Beach Boulevard"
-housenumber: 4200
-phone: "+1 562-422-0700"
+street: Long Beach Boulevard
+housenumber: "4200"
+phone: +1 562-422-0700
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/long-beach/4200-long-beach-blvd-18659"
+website: https://www.7-eleven.com/locations/ca/long-beach/4200-long-beach-blvd-18659

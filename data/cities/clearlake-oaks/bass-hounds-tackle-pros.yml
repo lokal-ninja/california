@@ -1,11 +1,11 @@
 id: 1261919964
-type: way
+type: node
 latitude: 39.02672
 longitude: -122.66352
 postcode: "95423"
 city: Clearlake Oaks
-street: "CA-20"
-housenumber: 13151
-phone: "707-560-5062"
+street: CA-20
+housenumber: "13151"
+phone: 707-560-5062
 opening_hours: ""
 website: ""

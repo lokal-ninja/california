@@ -4,8 +4,8 @@ latitude: 33.62598
 longitude: -117.94788
 postcode: "92663"
 city: Newport Beach
-street: "Pacific Coast Highway"
-housenumber: 6000
+street: Pacific Coast Highway
+housenumber: "6000"
 phone: ""
-opening_hours: "by appointment"
+opening_hours: '"by appointment"'
 website: ""

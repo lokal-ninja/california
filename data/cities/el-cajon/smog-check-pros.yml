@@ -1,11 +1,11 @@
 id: 995099360
-type: way
+type: node
 latitude: 32.80001
 longitude: -116.93122
 postcode: "92019"
 city: El Cajon
-street: "East Main Street"
-housenumber: 1410
+street: East Main Street
+housenumber: "1410"
 phone: "+16194421621"
 opening_hours: ""
-website: "https://www.smogpros.net/"
+website: https://www.smogpros.net/

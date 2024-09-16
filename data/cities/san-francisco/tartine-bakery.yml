@@ -4,8 +4,8 @@ latitude: 37.76146
 longitude: -122.42395
 postcode: "94110"
 city: San Francisco
-street: "Guerrero Street"
-housenumber: 600
+street: Guerrero Street
+housenumber: "600"
 phone: ""
-opening_hours: "Mo-Su 08:00-17:00"
+opening_hours: Mo-Su 08:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 36.80936
 longitude: -119.80867
 postcode: "93711"
 city: Fresno
-street: "West Shaw Avenue"
-housenumber: 1008
+street: West Shaw Avenue
+housenumber: "1008"
 phone: "+15592212701"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-19:00; Su 11:00-17:00"
-website: "https://www.att.com/stores/california/fresno/118025?source=E-g2s10000000000X&wtExtndSource=stores"
+opening_hours: Mo-Fr 09:00-19:00; Sa 10:00-19:00; Su 11:00-17:00
+website: https://www.att.com/stores/california/fresno/118025?source=E-g2s10000000000X&wtExtndSource=stores

@@ -4,8 +4,8 @@ latitude: 32.75575
 longitude: -117.12036
 postcode: "92104"
 city: San Diego
-street: "El Cajon Boulevard"
-housenumber: 3400
-phone: "(619) 640-4606"
-opening_hours: "Mo-Fr 08:00-17:30"
-website: "https://www.yelp.com/biz/thao-auto-repair-san-diego"
+street: El Cajon Boulevard
+housenumber: "3400"
+phone: (619) 640-4606
+opening_hours: Mo-Fr 08:00-17:30
+website: https://www.yelp.com/biz/thao-auto-repair-san-diego

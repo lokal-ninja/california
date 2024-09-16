@@ -1,11 +1,11 @@
 id: 486468665
-type: way
+type: node
 latitude: 38.29813
 longitude: -122.28137
 postcode: ""
 city: Napa
-street: "Soscol Avenue"
-housenumber: 784
-phone: "707-257-1565"
+street: Soscol Avenue
+housenumber: "784"
+phone: 707-257-1565
 opening_hours: ""
-website: "https://www.greenbergsquality.com/default.aspx"
+website: https://www.greenbergsquality.com/default.aspx

@@ -1,11 +1,11 @@
 id: 471149255
-type: way
+type: node
 latitude: 34.1048
 longitude: -118.13503
 postcode: "91030"
 city: South Pasadena
-street: "Garfield Avenue"
-housenumber: 1745
-phone: "+1 626-403-0082"
-opening_hours: "Mo-Fr 09:00-21:00;Sa-Su 10:00-18:00"
-website: "https://www.ralphs.com/stores/grocery/ca/south-pasadena/south-pasadena/703/00021"
+street: Garfield Avenue
+housenumber: "1745"
+phone: +1 626-403-0082
+opening_hours: Mo-Fr 09:00-21:00;Sa-Su 10:00-18:00
+website: https://www.ralphs.com/stores/grocery/ca/south-pasadena/south-pasadena/703/00021

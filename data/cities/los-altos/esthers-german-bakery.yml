@@ -4,8 +4,8 @@ latitude: 37.39995
 longitude: -122.11407
 postcode: "94022"
 city: Los Altos
-street: "North San Antonio Road"
-housenumber: 987
+street: North San Antonio Road
+housenumber: "987"
 phone: "+16509414463"
-opening_hours: "Mo 07:30-17:00; Tu-Fr 07:30-21:00; Sa 08:00-21:00; Su 08:30-17:00"
-website: "https://www.esthersbakery.com/"
+opening_hours: Mo 07:30-17:00; Tu-Fr 07:30-21:00; Sa 08:00-21:00; Su 08:30-17:00
+website: https://www.esthersbakery.com/

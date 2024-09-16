@@ -1,11 +1,11 @@
 id: 886621748
-type: way
+type: node
 latitude: 34.08973
 longitude: -117.67224
 postcode: "91786"
 city: Upland
-street: "South Mountain Avenue"
-housenumber: 357
-phone: "+1 909-291-8273"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/ca/upland/2869"
+street: South Mountain Avenue
+housenumber: "357"
+phone: +1 909-291-8273
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/ca/upland/2869

@@ -1,11 +1,11 @@
 id: 201659360
-type: way
+type: node
 latitude: 36.67545
 longitude: -121.65431
 postcode: "93901"
 city: Salinas
-street: "Monterey Street"
-housenumber: 202
-phone: "831.783.1140"
+street: Monterey Street
+housenumber: "202"
+phone: 831.783.1140
 opening_hours: ""
-website: "http://www.thebakerystation.com/"
+website: http://www.thebakerystation.com/

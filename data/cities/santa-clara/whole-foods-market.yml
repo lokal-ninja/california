@@ -1,11 +1,11 @@
 id: 438908869
-type: way
+type: node
 latitude: 37.3811
 longitude: -121.97646
 postcode: "95054"
 city: Santa Clara
-street: "Augustine Drive"
-housenumber: 2732
-phone: "+1 408-562-9162"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/santaclara"
+street: Augustine Drive
+housenumber: "2732"
+phone: +1 408-562-9162
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.wholefoodsmarket.com/stores/santaclara

@@ -1,11 +1,11 @@
 id: 423517417
-type: way
+type: node
 latitude: 34.07174
 longitude: -118.35756
 postcode: "90036"
 city: Los Angeles
-street: "The Grove Drive"
-housenumber: 189
-phone: "+1 323 617 9800"
-opening_hours: "Mo-Th 10:00-21:00; Fr,Sa 10:00-22:00; Su 10:00-20:00"
-website: "https://www.apple.com/retail/thegrove/"
+street: The Grove Drive
+housenumber: "189"
+phone: +1 323 617 9800
+opening_hours: Mo-Th 10:00-21:00; Fr,Sa 10:00-22:00; Su 10:00-20:00
+website: https://www.apple.com/retail/thegrove/

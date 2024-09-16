@@ -1,11 +1,11 @@
 id: 231404229
-type: way
+type: node
 latitude: 37.38313
 longitude: -122.04581
 postcode: "94086"
 city: Sunnyvale
-street: "West Evelyn Avenue"
-housenumber: 1024
-phone: "+1-408-730-5044"
+street: West Evelyn Avenue
+housenumber: "1024"
+phone: +1-408-730-5044
 opening_hours: ""
-website: "http://www.kuykendalls-auto-body.com/"
+website: http://www.kuykendalls-auto-body.com/

@@ -4,8 +4,9 @@ latitude: 33.81807
 longitude: -118.03809
 postcode: "90630"
 city: Cypress
-street: "Walker Street"
-housenumber: 9937
-phone: "+1 714-816-9931"
-opening_hours: "Mo 08:00-21:00; Tu 07:00-21:00; We 08:00-21:00; Th 07:00-21:00; Fr-Su 08:00-21:00"
-website: "https://locations.99only.com/ca/cypress/discount-store-418.html"
+street: Walker Street
+housenumber: "9937"
+phone: +1 714-816-9931
+opening_hours: Mo 08:00-21:00; Tu 07:00-21:00; We 08:00-21:00; Th 07:00-21:00; Fr-Su
+    08:00-21:00
+website: https://locations.99only.com/ca/cypress/discount-store-418.html

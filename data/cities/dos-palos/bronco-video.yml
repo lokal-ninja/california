@@ -1,11 +1,11 @@
 id: 311695487
-type: way
+type: node
 latitude: 36.98374
 longitude: -120.62629
 postcode: "93620"
 city: Dos Palos
-street: "Center Avenue"
-housenumber: 1657
+street: Center Avenue
+housenumber: "1657"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 574876151
-type: way
+type: node
 latitude: 34.17561
 longitude: -118.30363
 postcode: "91502"
 city: Burbank
-street: "South Ikea Way"
-housenumber: 600
+street: South Ikea Way
+housenumber: "600"
 phone: ""
-opening_hours: "10:00-21:00"
-website: "https://www.ikea.com/us/en/store/burbank"
+opening_hours: 10:00-21:00
+website: https://www.ikea.com/us/en/store/burbank

@@ -1,11 +1,11 @@
 id: 878028734
-type: way
+type: node
 latitude: 34.61616
 longitude: -117.82626
 postcode: "93591"
 city: Lake Los Angeles
-street: "171st Street East"
-housenumber: 40360
-phone: "(661) 544-1955"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/ca/lake-los-angeles/14002"
+street: 171st Street East
+housenumber: "40360"
+phone: (661) 544-1955
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.dollargeneral.com/store-directory/ca/lake-los-angeles/14002

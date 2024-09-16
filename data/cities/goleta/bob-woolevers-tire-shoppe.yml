@@ -1,11 +1,11 @@
 id: 622589746
-type: way
+type: node
 latitude: 34.4306
 longitude: -119.83033
 postcode: "93117"
 city: Goleta
-street: "South Fairview Avenue"
-housenumber: 660
+street: South Fairview Avenue
+housenumber: "660"
 phone: ""
 opening_hours: ""
 website: ""

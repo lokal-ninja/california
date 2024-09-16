@@ -1,11 +1,11 @@
 id: 59593472
-type: way
+type: node
 latitude: 35.38615
 longitude: -119.10567
 postcode: "93312"
 city: Bakersfield
-street: "Rosedale Highway"
-housenumber: 9280
-phone: "+1 661-498-8283"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/bakersfield-ca-1639"
+street: Rosedale Highway
+housenumber: "9280"
+phone: +1 661-498-8283
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/bakersfield-ca-1639

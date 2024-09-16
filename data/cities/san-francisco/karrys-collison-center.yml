@@ -1,11 +1,11 @@
 id: 243464436
-type: way
+type: node
 latitude: 37.77916
 longitude: -122.39925
 postcode: ""
 city: San Francisco
-street: "Bryant Street"
-housenumber: 610
-phone: "+1 415-538-8688"
+street: Bryant Street
+housenumber: "610"
+phone: +1 415-538-8688
 opening_hours: ""
 website: ""

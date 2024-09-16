@@ -1,11 +1,11 @@
 id: 331036390
-type: way
+type: node
 latitude: 33.83102
 longitude: -118.02941
 postcode: "90630"
 city: Cypress
-street: "Lincoln Avenue"
-housenumber: 5904
+street: Lincoln Avenue
+housenumber: "5904"
 phone: ""
 opening_hours: ""
 website: ""

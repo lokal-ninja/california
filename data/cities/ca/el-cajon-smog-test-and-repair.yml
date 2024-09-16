@@ -1,11 +1,11 @@
 id: 994404272
-type: way
+type: node
 latitude: 32.80802
 longitude: -116.95321
 postcode: "92021"
 city: CA
-street: "Broadway"
-housenumber: 720
+street: Broadway
+housenumber: "720"
 phone: ""
 opening_hours: ""
 website: ""

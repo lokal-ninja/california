@@ -1,11 +1,11 @@
 id: 391242148
-type: way
+type: node
 latitude: 34.09324
 longitude: -118.37849
 postcode: "90069"
 city: West Hollywood
-street: "West Sunset Boulevard"
-housenumber: 8569
-phone: "+1-310-289-0808"
-opening_hours: "Mo-Sa 10:00-18:00; Su 12:00-17:00"
+street: West Sunset Boulevard
+housenumber: "8569"
+phone: +1-310-289-0808
+opening_hours: Mo-Sa 10:00-18:00; Su 12:00-17:00
 website: ""

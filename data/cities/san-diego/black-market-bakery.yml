@@ -4,8 +4,8 @@ latitude: 32.71417
 longitude: -117.15023
 postcode: "92101"
 city: San Diego
-street: "15th Street"
-housenumber: 845
+street: 15th Street
+housenumber: "845"
 phone: ""
 opening_hours: ""
-website: "https://www.blackmarketbakery.com/location/blackmarket-bakery-san-diego-east-village-california/"
+website: https://www.blackmarketbakery.com/location/blackmarket-bakery-san-diego-east-village-california/

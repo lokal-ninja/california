@@ -1,11 +1,11 @@
 id: 543405300
-type: way
+type: node
 latitude: 32.83646
 longitude: -116.98399
 postcode: "92071"
 city: Santee
-street: "Cuyamaca Street"
-housenumber: 8828
+street: Cuyamaca Street
+housenumber: "8828"
 phone: ""
 opening_hours: ""
 website: ""

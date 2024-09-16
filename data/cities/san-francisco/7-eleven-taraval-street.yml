@@ -1,11 +1,11 @@
 id: 284846007
-type: way
+type: node
 latitude: 37.74281
 longitude: -122.49016
-postcode: "94116-2250"
+postcode: 94116-2250
 city: San Francisco
-street: "Taraval Street"
-housenumber: 2222
-phone: "+1 415-665-4747"
+street: Taraval Street
+housenumber: "2222"
+phone: +1 415-665-4747
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/san-francisco/2222-taraval-st-20473"
+website: https://www.7-eleven.com/locations/ca/san-francisco/2222-taraval-st-20473

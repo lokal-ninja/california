@@ -1,11 +1,11 @@
 id: 171298158
-type: way
+type: node
 latitude: 33.78918
 longitude: -117.86855
 postcode: "92868"
 city: Orange
-street: "West Chapman Avenue"
-housenumber: 1435
-phone: "+1 714-634-2905"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.ralphs.com/stores/grocery/ca/orange/chapman-main-center/703/00008"
+street: West Chapman Avenue
+housenumber: "1435"
+phone: +1 714-634-2905
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.ralphs.com/stores/grocery/ca/orange/chapman-main-center/703/00008

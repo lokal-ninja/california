@@ -4,8 +4,8 @@ latitude: 37.74336
 longitude: -122.47121
 postcode: "94116"
 city: San Francisco
-street: "Taraval Street"
-housenumber: 490
+street: Taraval Street
+housenumber: "490"
 phone: ""
 opening_hours: ""
-website: "https://www.guerrameats.com/default.aspx"
+website: https://www.guerrameats.com/default.aspx

@@ -1,11 +1,11 @@
 id: 239963632
-type: way
+type: node
 latitude: 36.71309
 longitude: -121.65192
 postcode: "93906"
 city: Salinas
-street: "North Main Street"
-housenumber: 1546
-phone: "+1 831-442-7500"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/ca/salinas/1546-n-main-st.html"
+street: North Main Street
+housenumber: "1546"
+phone: +1 831-442-7500
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/ca/salinas/1546-n-main-st.html

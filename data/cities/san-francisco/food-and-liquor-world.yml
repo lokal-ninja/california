@@ -1,11 +1,11 @@
 id: 256061659
-type: way
+type: node
 latitude: 37.78769
 longitude: -122.41398
 postcode: "94109"
 city: San Francisco
-street: "Post Street"
-housenumber: 728
+street: Post Street
+housenumber: "728"
 phone: ""
 opening_hours: ""
 website: ""

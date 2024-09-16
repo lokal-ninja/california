@@ -1,11 +1,11 @@
 id: 729204602
-type: way
+type: node
 latitude: 40.86661
 longitude: -124.0879
 postcode: "95521"
 city: Arcata
-street: "H Street"
-housenumber: 575
+street: H Street
+housenumber: "575"
 phone: ""
 opening_hours: ""
 website: ""

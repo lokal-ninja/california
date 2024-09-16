@@ -1,11 +1,11 @@
 id: 202622147
-type: way
+type: node
 latitude: 33.48994
 longitude: -117.69991
 postcode: "92629"
 city: Dana Point
-street: "Golden Lantern Street"
-housenumber: 32555
-phone: "+1 949-661-6334"
-opening_hours: "Mo-Su 05:00-24:00"
-website: "https://www.ralphs.com/stores/grocery/ca/dana-point/ocean-ranch-village/703/00739"
+street: Golden Lantern Street
+housenumber: "32555"
+phone: +1 949-661-6334
+opening_hours: Mo-Su 05:00-24:00
+website: https://www.ralphs.com/stores/grocery/ca/dana-point/ocean-ranch-village/703/00739

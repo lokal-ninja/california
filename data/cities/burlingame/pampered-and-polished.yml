@@ -1,11 +1,11 @@
 id: 237808410
-type: way
+type: node
 latitude: 37.57845
 longitude: -122.34927
 postcode: ""
 city: Burlingame
-street: "Primrose Road"
-housenumber: 363
+street: Primrose Road
+housenumber: "363"
 phone: ""
 opening_hours: ""
 website: ""

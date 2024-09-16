@@ -4,8 +4,8 @@ latitude: 34.11779
 longitude: -118.26062
 postcode: "90039"
 city: Los Angeles
-street: "Glendale Boulevard"
-housenumber: 3214
-phone: "+1-323-663-6601"
-opening_hours: "Tu-Sa 10:00-18:00; Su 10:00-17:00"
-website: "https://racketdoctor.com"
+street: Glendale Boulevard
+housenumber: "3214"
+phone: +1-323-663-6601
+opening_hours: Tu-Sa 10:00-18:00; Su 10:00-17:00
+website: https://racketdoctor.com

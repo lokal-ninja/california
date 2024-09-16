@@ -1,11 +1,11 @@
 id: 59694820
-type: way
+type: node
 latitude: 35.30423
 longitude: -119.03493
 postcode: "93313"
 city: Bakersfield
-street: "Gasoline Alley Drive"
-housenumber: 5500
+street: Gasoline Alley Drive
+housenumber: "5500"
 phone: ""
 opening_hours: ""
 website: ""

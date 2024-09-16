@@ -1,11 +1,11 @@
 id: 511151732
-type: way
+type: node
 latitude: 33.7181
 longitude: -117.84641
 postcode: "92705"
 city: Santa Ana
-street: "South Wright Street"
-housenumber: 2129
+street: South Wright Street
+housenumber: "2129"
 phone: ""
 opening_hours: ""
 website: ""

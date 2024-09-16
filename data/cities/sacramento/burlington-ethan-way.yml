@@ -1,11 +1,11 @@
 id: 917387792
-type: way
+type: node
 latitude: 38.59426
 longitude: -121.41766
 postcode: "95825"
 city: Sacramento
-street: "Ethan Way"
-housenumber: 1596
-phone: "+1 279-972-9846"
-opening_hours: "Mo-Th 09:00-23:00; Fr-Sa 09:00-23:30; Su 09:00-23:00"
-website: "https://stores.burlington.com/ca/sacramento/1216"
+street: Ethan Way
+housenumber: "1596"
+phone: +1 279-972-9846
+opening_hours: Mo-Th 09:00-23:00; Fr-Sa 09:00-23:30; Su 09:00-23:00
+website: https://stores.burlington.com/ca/sacramento/1216

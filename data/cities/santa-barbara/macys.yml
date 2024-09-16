@@ -1,11 +1,11 @@
 id: 233698183
-type: way
+type: node
 latitude: 34.4397
 longitude: -119.74814
 postcode: "93105"
 city: Santa Barbara
-street: "State Street"
-housenumber: 3805
+street: State Street
+housenumber: "3805"
 phone: ""
-opening_hours: "Su 11:00-19:00; Mo-Sa 10:00-21:00"
-website: "https://www.macys.com/stores/ca/santabarbara/la-cumbre-plaza_497.html"
+opening_hours: Su 11:00-19:00; Mo-Sa 10:00-21:00
+website: https://www.macys.com/stores/ca/santabarbara/la-cumbre-plaza_497.html

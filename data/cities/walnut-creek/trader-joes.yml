@@ -1,11 +1,11 @@
 id: 159607227
-type: way
+type: node
 latitude: 37.8931
 longitude: -122.06085
 postcode: "94596"
 city: Walnut Creek
-street: "South California Boulevard"
-housenumber: 1372
-phone: "+1 925-945-1674"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://locations.traderjoes.com/ca/walnut-creek/123/"
+street: South California Boulevard
+housenumber: "1372"
+phone: +1 925-945-1674
+opening_hours: Mo-Su 08:00-21:00
+website: https://locations.traderjoes.com/ca/walnut-creek/123/

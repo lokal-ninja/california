@@ -1,11 +1,11 @@
 id: 753609528
-type: way
+type: node
 latitude: 39.73025
 longitude: -121.8582
 postcode: "95926"
 city: Chico
-street: "Nord Avenue"
-housenumber: 933
+street: Nord Avenue
+housenumber: "933"
 phone: "+15308914842"
-opening_hours: "Mo-Th 8:00-23:30; Fr 8:00-24:00; Sa 9:00-24:00; Su 9:00-23:30"
-website: "https://starliquors.business.site/"
+opening_hours: Mo-Th 8:00-23:30; Fr 8:00-24:00; Sa 9:00-24:00; Su 9:00-23:30
+website: https://starliquors.business.site/

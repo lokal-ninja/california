@@ -1,11 +1,11 @@
 id: 143811372
-type: way
+type: node
 latitude: 37.67549
 longitude: -122.46766
 postcode: "94014"
 city: Colma
-street: "Colma Boulevard"
-housenumber: 2
-phone: "+1 650-755-9600"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-21:00"
-website: "https://www.homedepot.com/l/Colma-II/CA/Colma/94014/639"
+street: Colma Boulevard
+housenumber: "2"
+phone: +1 650-755-9600
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-21:00
+website: https://www.homedepot.com/l/Colma-II/CA/Colma/94014/639

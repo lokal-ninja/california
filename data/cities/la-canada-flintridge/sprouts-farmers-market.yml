@@ -1,11 +1,11 @@
 id: 667788043
-type: way
+type: node
 latitude: 34.2034
 longitude: -118.19892
 postcode: "91011"
 city: La Canada Flintridge
-street: "Foothill Boulevard"
-housenumber: 920
-phone: "+1 818-495-1103"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/ca/la-canada-flintridge/foothill-blvd/"
+street: Foothill Boulevard
+housenumber: "920"
+phone: +1 818-495-1103
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/ca/la-canada-flintridge/foothill-blvd/

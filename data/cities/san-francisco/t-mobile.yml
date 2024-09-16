@@ -4,8 +4,8 @@ latitude: 37.78729
 longitude: -122.40358
 postcode: "94103"
 city: San Francisco
-street: "Market Street"
-housenumber: 701
+street: Market Street
+housenumber: "701"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; Su 10:00-18:00"
+opening_hours: Mo-Sa 09:00-19:00; Su 10:00-18:00
 website: ""

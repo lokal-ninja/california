@@ -1,11 +1,11 @@
 id: 240668250
-type: way
+type: node
 latitude: 37.47582
 longitude: -122.2192
 postcode: "94063"
 city: Redwood City
-street: "Charter Street"
-housenumber: 51
-phone: "(650) 364-7039"
+street: Charter Street
+housenumber: "51"
+phone: (650) 364-7039
 opening_hours: ""
 website: ""

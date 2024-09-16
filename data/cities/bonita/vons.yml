@@ -1,11 +1,11 @@
 id: 131287427
-type: way
+type: node
 latitude: 32.66034
 longitude: -117.03211
 postcode: "91902"
 city: Bonita
-street: "Bonita Road"
-housenumber: 4404
-phone: "+1 619-512-0125"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.vons.com/ca/bonita/4404-bonita-rd.html"
+street: Bonita Road
+housenumber: "4404"
+phone: +1 619-512-0125
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.vons.com/ca/bonita/4404-bonita-rd.html

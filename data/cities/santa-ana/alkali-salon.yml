@@ -4,8 +4,8 @@ latitude: 33.69493
 longitude: -117.88598
 postcode: "92704"
 city: Santa Ana
-street: "Bristol Street"
-housenumber: 3930
-phone: "+1-714-557-5353"
+street: Bristol Street
+housenumber: "3930"
+phone: +1-714-557-5353
 opening_hours: ""
-website: "https://www.alkalisalon.com/"
+website: https://www.alkalisalon.com/

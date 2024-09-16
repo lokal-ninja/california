@@ -1,11 +1,11 @@
 id: 91532996
-type: way
+type: node
 latitude: 38.16502
 longitude: -122.25537
 postcode: "94503"
 city: American Canyon
-street: "West American Canyon Road"
-housenumber: 103
-phone: "+1 707-649-5150"
+street: West American Canyon Road
+housenumber: "103"
+phone: +1 707-649-5150
 opening_hours: ""
-website: "https://local.safeway.com/safeway/ca/american-canyon/103-american-canyon-rd.html"
+website: https://local.safeway.com/safeway/ca/american-canyon/103-american-canyon-rd.html

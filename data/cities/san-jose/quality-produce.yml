@@ -1,11 +1,11 @@
 id: 527139280
-type: way
+type: node
 latitude: 37.35747
 longitude: -121.86091
 postcode: "95116"
 city: San Jose
-street: "McKee Road"
-housenumber: 1696
+street: McKee Road
+housenumber: "1696"
 phone: ""
 opening_hours: ""
 website: ""

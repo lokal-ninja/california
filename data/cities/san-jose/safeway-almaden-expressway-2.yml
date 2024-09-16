@@ -1,11 +1,11 @@
 id: 239716066
-type: way
+type: node
 latitude: 37.26026
 longitude: -121.87498
 postcode: "95118"
 city: San Jose
-street: "Almaden Expressway"
-housenumber: 4950
-phone: "+1 408-267-1200"
-opening_hours: "06:00-01:00"
-website: "https://local.safeway.com/safeway/ca/san-jose/4950-almaden-expy.html"
+street: Almaden Expressway
+housenumber: "4950"
+phone: +1 408-267-1200
+opening_hours: 06:00-01:00
+website: https://local.safeway.com/safeway/ca/san-jose/4950-almaden-expy.html

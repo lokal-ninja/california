@@ -1,11 +1,11 @@
 id: 424320497
-type: way
+type: node
 latitude: 34.07518
 longitude: -118.3436
 postcode: "90036"
 city: Los Angeles
-street: "North La Brea Avenue"
-housenumber: 130
+street: North La Brea Avenue
+housenumber: "130"
 phone: ""
-opening_hours: "Mo-Sa 12:00-19:00; Su 12:00-18:00"
+opening_hours: Mo-Sa 12:00-19:00; Su 12:00-18:00
 website: ""

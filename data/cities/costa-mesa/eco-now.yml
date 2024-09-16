@@ -4,8 +4,8 @@ latitude: 33.67747
 longitude: -117.88589
 postcode: "92626"
 city: Costa Mesa
-street: "Bristol Street"
-housenumber: 2930
-phone: "657-900-2833"
-opening_hours: "11:00-19:00"
-website: "https://www.econowca.com/"
+street: Bristol Street
+housenumber: "2930"
+phone: 657-900-2833
+opening_hours: 11:00-19:00
+website: https://www.econowca.com/

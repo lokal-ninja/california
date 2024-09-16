@@ -1,11 +1,11 @@
 id: 343404130
-type: way
+type: node
 latitude: 33.13663
 longitude: -117.17466
 postcode: "92078"
 city: San Marcos
-street: "Grand Avenue"
-housenumber: 567
-phone: "+1 760-891-0755"
+street: Grand Avenue
+housenumber: "567"
+phone: +1 760-891-0755
 opening_hours: ""
-website: "https://stores.bestbuy.com/ca/san-marcos/567-grand-ave-871.html"
+website: https://stores.bestbuy.com/ca/san-marcos/567-grand-ave-871.html

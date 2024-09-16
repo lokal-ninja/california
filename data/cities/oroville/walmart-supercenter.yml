@@ -1,11 +1,11 @@
 id: 474456102
-type: way
+type: node
 latitude: 39.49037
 longitude: -121.57245
 postcode: "95965"
 city: Oroville
-street: "Cal Oak Road"
-housenumber: 465
-phone: "+1 530-534-1082"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1575/oroville-ca/whats-new"
+street: Cal Oak Road
+housenumber: "465"
+phone: +1 530-534-1082
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1575/oroville-ca/whats-new

@@ -1,11 +1,11 @@
 id: 881532323
-type: way
+type: node
 latitude: 37.31062
 longitude: -121.91319
 postcode: "95126"
 city: San Jose
-street: "Meridian Avenue"
-housenumber: 900
+street: Meridian Avenue
+housenumber: "900"
 phone: ""
 opening_hours: ""
 website: ""

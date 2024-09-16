@@ -1,11 +1,11 @@
 id: 278659201
-type: way
+type: node
 latitude: 33.91731
 longitude: -117.56795
 postcode: "92860"
 city: Norco
-street: "3rd Street"
-housenumber: 2001
+street: 3rd Street
+housenumber: "2001"
 phone: ""
-opening_hours: "Mo-Th 08:00-14:00, Fr 08:00-13:00"
-website: "https://rcc.bncollege.com/webapp/wcs/stores/servlet/BNCBHomePage?catalogId=10001&langId=-1&storeId=24057"
+opening_hours: Mo-Th 08:00-14:00, Fr 08:00-13:00
+website: https://rcc.bncollege.com/webapp/wcs/stores/servlet/BNCBHomePage?catalogId=10001&langId=-1&storeId=24057

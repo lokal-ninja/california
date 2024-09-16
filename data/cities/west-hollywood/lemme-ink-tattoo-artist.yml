@@ -4,8 +4,8 @@ latitude: 34.0909
 longitude: -118.38726
 postcode: "90069"
 city: West Hollywood
-street: "Sunset Blvd"
-housenumber: 8967
-phone: "323-366-0060"
-opening_hours: "Monday – Sunday : 11 AM – 9 PM"
-website: "https://lemme.ink/"
+street: Sunset Blvd
+housenumber: "8967"
+phone: 323-366-0060
+opening_hours: 'Monday – Sunday : 11 AM – 9 PM'
+website: https://lemme.ink/

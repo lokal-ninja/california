@@ -1,11 +1,11 @@
 id: 364800563
-type: way
+type: node
 latitude: 34.13519
 longitude: -117.30844
 postcode: "92405"
 city: San Bernardino
-street: "West Highland Avenue"
-housenumber: 1085
-phone: "+1 909-886-1517"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.staterbros.com/stores/8"
+street: West Highland Avenue
+housenumber: "1085"
+phone: +1 909-886-1517
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.staterbros.com/stores/8

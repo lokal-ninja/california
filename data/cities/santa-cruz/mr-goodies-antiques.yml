@@ -4,8 +4,8 @@ latitude: 36.97614
 longitude: -122.02689
 postcode: "95060"
 city: Santa Cruz
-street: "Pacific Avenue"
-housenumber: 1541 #A
+street: Pacific Avenue
+housenumber: '1541 #A'
 phone: ""
 opening_hours: ""
 website: ""

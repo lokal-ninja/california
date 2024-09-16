@@ -1,11 +1,11 @@
 id: 1070718025
-type: way
+type: node
 latitude: 38.62846
 longitude: -121.38244
-postcode: "95821-3613"
+postcode: 95821-3613
 city: Sacramento
-street: "Watt Avenue"
-housenumber: 3448
-phone: "+1 916-482-1860"
+street: Watt Avenue
+housenumber: "3448"
+phone: +1 916-482-1860
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/sacramento/3448-watt-ave-24276"
+website: https://www.7-eleven.com/locations/ca/sacramento/3448-watt-ave-24276

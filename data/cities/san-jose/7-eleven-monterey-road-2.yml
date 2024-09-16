@@ -1,11 +1,11 @@
 id: 1057501996
-type: way
+type: node
 latitude: 37.26245
 longitude: -121.8129
 postcode: "95111"
 city: San Jose
-street: "Monterey Road"
-housenumber: 5152
-phone: "+1 408-225-2593"
+street: Monterey Road
+housenumber: "5152"
+phone: +1 408-225-2593
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/san-jose/5152-monterey-rd-16117"
+website: https://www.7-eleven.com/locations/ca/san-jose/5152-monterey-rd-16117

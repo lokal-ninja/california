@@ -1,11 +1,11 @@
 id: 346681387
-type: way
+type: node
 latitude: 37.34869
 longitude: -121.88822
 postcode: "95112"
 city: San Jose
-street: "East Empire Street"
-housenumber: 412
+street: East Empire Street
+housenumber: "412"
 phone: ""
 opening_hours: ""
 website: ""

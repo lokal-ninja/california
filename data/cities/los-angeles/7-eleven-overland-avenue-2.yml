@@ -1,11 +1,11 @@
 id: 425412041
-type: way
+type: node
 latitude: 34.02527
 longitude: -118.41137
-postcode: "90034-5406"
+postcode: 90034-5406
 city: Los Angeles
-street: "Overland Avenue"
-housenumber: 3450
-phone: "+1 310-836-4686"
+street: Overland Avenue
+housenumber: "3450"
+phone: +1 310-836-4686
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/los-angeles/3450-overland-ave-13731"
+website: https://www.7-eleven.com/locations/ca/los-angeles/3450-overland-ave-13731

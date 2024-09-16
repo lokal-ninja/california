@@ -1,11 +1,11 @@
 id: 463073816
-type: way
+type: node
 latitude: 33.69644
 longitude: -117.8222
 postcode: "92606"
 city: Irvine
-street: "Construction Circle West"
-housenumber: 16191
-phone: "+1 949 7333444"
+street: Construction Circle West
+housenumber: "16191"
+phone: +1 949 7333444
 opening_hours: ""
-website: "http://www.irvineautobody.com"
+website: http://www.irvineautobody.com

@@ -1,11 +1,11 @@
 id: 706853784
-type: way
+type: node
 latitude: 37.51866
 longitude: -120.88243
 postcode: "95380"
 city: Turlock
-street: "Countryside Drive"
-housenumber: 2841
-phone: "+1 209-664-1725"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/turlock-ca-575"
+street: Countryside Drive
+housenumber: "2841"
+phone: +1 209-664-1725
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/turlock-ca-575

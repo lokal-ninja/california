@@ -1,11 +1,11 @@
 id: 423235730
-type: way
+type: node
 latitude: 33.14063
 longitude: -117.24407
 postcode: "92081"
 city: Vista
-street: "South Melrose Drive"
-housenumber: 2450
+street: South Melrose Drive
+housenumber: "2450"
 phone: "+17603050340"
 opening_hours: ""
-website: "https://www.discounttire.com/store/ca/vista/s/1904"
+website: https://www.discounttire.com/store/ca/vista/s/1904

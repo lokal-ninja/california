@@ -1,11 +1,11 @@
 id: 472547386
-type: way
+type: node
 latitude: 34.42261
 longitude: -118.56428
 postcode: "91355"
 city: Valencia
-street: "McBean Parkway"
-housenumber: 27087
-phone: "+1 661-253-0477"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
+street: McBean Parkway
+housenumber: "27087"
+phone: +1 661-253-0477
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
 website: ""

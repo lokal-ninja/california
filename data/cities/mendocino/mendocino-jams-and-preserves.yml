@@ -1,11 +1,11 @@
 id: 387046858
-type: way
+type: node
 latitude: 39.30446
 longitude: -123.80357
 postcode: "95460"
 city: Mendocino
-street: "Main Street"
-housenumber: 440
+street: Main Street
+housenumber: "440"
 phone: ""
 opening_hours: ""
-website: "https://mendocinojams.com/"
+website: https://mendocinojams.com/

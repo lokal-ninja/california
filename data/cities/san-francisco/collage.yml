@@ -4,8 +4,8 @@ latitude: 37.76251
 longitude: -122.3962
 postcode: "94107"
 city: San Francisco
-street: "18th Street"
-housenumber: 1345
+street: 18th Street
+housenumber: "1345"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 238278406
-type: way
+type: node
 latitude: 40.8017
 longitude: -124.17256
 postcode: ""
 city: Eureka
-street: "West 4th Street"
-housenumber: 47
+street: West 4th Street
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

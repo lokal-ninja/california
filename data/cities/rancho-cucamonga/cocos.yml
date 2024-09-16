@@ -1,11 +1,11 @@
 id: 40040882
-type: way
+type: node
 latitude: 34.12221
 longitude: -117.57556
 postcode: "91730"
 city: Rancho Cucamonga
-street: "Haven Ave"
-housenumber: 7269
+street: Haven Ave
+housenumber: "7269"
 phone: ""
 opening_hours: ""
 website: ""

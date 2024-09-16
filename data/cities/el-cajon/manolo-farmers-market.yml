@@ -1,11 +1,11 @@
 id: 1002520254
-type: way
+type: node
 latitude: 32.79435
 longitude: -116.94522
 postcode: "92020"
 city: El Cajon
-street: "East Main Street"
-housenumber: 1099
+street: East Main Street
+housenumber: "1099"
 phone: "+16195794100"
 opening_hours: ""
-website: "http://manolofarmersmarket.net/"
+website: http://manolofarmersmarket.net/

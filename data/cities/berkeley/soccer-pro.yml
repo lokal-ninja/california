@@ -4,8 +4,8 @@ latitude: 37.87954
 longitude: -122.29725
 postcode: "94710"
 city: Berkeley
-street: "10th Street"
-housenumber: 1324
-phone: "+1 510 5596956"
+street: 10th Street
+housenumber: "1324"
+phone: +1 510 5596956
 opening_hours: ""
-website: "https://www.soccerproinc.com/"
+website: https://www.soccerproinc.com/

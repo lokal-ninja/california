@@ -1,11 +1,11 @@
 id: 1087106792
-type: way
+type: node
 latitude: 36.73162
 longitude: -119.78315
 postcode: "93721"
 city: Fresno
-street: "Ventura Street"
-housenumber: 2222
+street: Ventura Street
+housenumber: "2222"
 phone: ""
 opening_hours: ""
-website: "https://www.haron.com/"
+website: https://www.haron.com/

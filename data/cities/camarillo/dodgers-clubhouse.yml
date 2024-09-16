@@ -4,8 +4,8 @@ latitude: 34.21437
 longitude: -119.06716
 postcode: "93010"
 city: Camarillo
-street: "Ventura Boulevard"
-housenumber: 540
-phone: "+1-805-322-7313"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-19:00"
-website: "https://www.lids.com/stores"
+street: Ventura Boulevard
+housenumber: "540"
+phone: +1-805-322-7313
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-19:00
+website: https://www.lids.com/stores

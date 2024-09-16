@@ -2,10 +2,10 @@ id: 6357472210
 type: node
 latitude: 35.12094
 longitude: -120.58019
-postcode: "93420-3372"
+postcode: 93420-3372
 city: Arroyo Grande
-street: "Station Way"
-housenumber: 186
-phone: "+1 805-489-9100"
-opening_hours: "Mo-Sa 07:00-19:00; Su 08:00-19:00"
+street: Station Way
+housenumber: "186"
+phone: +1 805-489-9100
+opening_hours: Mo-Sa 07:00-19:00; Su 08:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 45597364
-type: way
+type: node
 latitude: 35.27761
 longitude: -120.66127
 postcode: "93401"
 city: San Luis Obispo
-street: "Pismo Street"
-housenumber: 788
+street: Pismo Street
+housenumber: "788"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

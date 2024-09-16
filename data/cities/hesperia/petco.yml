@@ -1,11 +1,11 @@
 id: 704230955
-type: way
+type: node
 latitude: 34.42592
 longitude: -117.37272
 postcode: "92345"
 city: Hesperia
-street: "Main Street"
-housenumber: 13319
-phone: "+1 760-662-2081"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ca/hesperia/pet-supplies-hesperia-ca-2138.html"
+street: Main Street
+housenumber: "13319"
+phone: +1 760-662-2081
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/ca/hesperia/pet-supplies-hesperia-ca-2138.html

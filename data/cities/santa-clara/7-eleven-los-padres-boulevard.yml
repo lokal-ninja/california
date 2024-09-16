@@ -1,11 +1,11 @@
 id: 484704888
-type: way
+type: node
 latitude: 37.35181
 longitude: -121.96453
-postcode: "95050-4439"
+postcode: 95050-4439
 city: Santa Clara
-street: "Los Padres Boulevard"
-housenumber: 1555
-phone: "+1 408-554-1432"
+street: Los Padres Boulevard
+housenumber: "1555"
+phone: +1 408-554-1432
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/santa-clara/1555-los-padres-blvd-14236"
+website: https://www.7-eleven.com/locations/ca/santa-clara/1555-los-padres-blvd-14236

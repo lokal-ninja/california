@@ -4,8 +4,8 @@ latitude: 32.82273
 longitude: -117.22681
 postcode: "92117"
 city: San Diego
-street: "Morena Boulevard"
-housenumber: 4645
-phone: "+1 858 616 6999"
-opening_hours: "Mo-Fr 10:00-19:00; Sa,Su 09:00-17:00; PH off"
-website: "https://www.sandiegoharley.com"
+street: Morena Boulevard
+housenumber: "4645"
+phone: +1 858 616 6999
+opening_hours: Mo-Fr 10:00-19:00; Sa,Su 09:00-17:00; PH off
+website: https://www.sandiegoharley.com

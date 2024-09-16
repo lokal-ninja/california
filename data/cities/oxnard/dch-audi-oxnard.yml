@@ -1,11 +1,11 @@
 id: 835048146
-type: way
+type: node
 latitude: 34.22627
 longitude: -119.15634
 postcode: "93036"
 city: Oxnard
-street: "Ventura Boulevard"
-housenumber: 1600
+street: Ventura Boulevard
+housenumber: "1600"
 phone: ""
 opening_hours: ""
-website: "https://www.dchaudioxnard.com/"
+website: https://www.dchaudioxnard.com/

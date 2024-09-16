@@ -1,11 +1,11 @@
 id: 93549898
-type: way
+type: node
 latitude: 37.51285
 longitude: -122.29296
 postcode: "94002"
 city: Belmont
-street: "Ralston Avenue"
-housenumber: 1900
-phone: "+1 650 212 2575"
-opening_hours: "Mo-Fr 6:30-19:00"
+street: Ralston Avenue
+housenumber: "1900"
+phone: +1 650 212 2575
+opening_hours: Mo-Fr 6:30-19:00
 website: ""

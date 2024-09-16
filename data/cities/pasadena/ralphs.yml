@@ -4,8 +4,8 @@ latitude: 34.14897
 longitude: -118.13133
 postcode: "91101"
 city: Pasadena
-street: "Lake Avenue"
-housenumber: 160
-phone: "+1 626-793-0531"
-opening_hours: "Mo-Su 05:00-01:00"
-website: "https://www.ralphs.com/stores/grocery/ca/pasadena/lake/703/00096"
+street: Lake Avenue
+housenumber: "160"
+phone: +1 626-793-0531
+opening_hours: Mo-Su 05:00-01:00
+website: https://www.ralphs.com/stores/grocery/ca/pasadena/lake/703/00096

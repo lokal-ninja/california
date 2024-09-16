@@ -1,11 +1,11 @@
 id: 546735178
-type: way
+type: node
 latitude: 40.16447
 longitude: -122.22875
 postcode: "96080"
 city: Red Bluff
-street: "South Main Street"
-housenumber: 555
+street: South Main Street
+housenumber: "555"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ca/red-bluff/555-s-main-st.html"
+website: https://www.autozone.com/locations/ca/red-bluff/555-s-main-st.html

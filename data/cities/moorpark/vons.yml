@@ -1,11 +1,11 @@
 id: 132686570
-type: way
+type: node
 latitude: 34.26779
 longitude: -118.89975
 postcode: "93021"
 city: Moorpark
-street: "Tierra Rejada Street"
-housenumber: 4241
-phone: "+1 805-530-3770"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://local.vons.com/ca/moorpark/4241-tierra-rejada-rd.html"
+street: Tierra Rejada Street
+housenumber: "4241"
+phone: +1 805-530-3770
+opening_hours: Mo-Su 06:00-22:00
+website: https://local.vons.com/ca/moorpark/4241-tierra-rejada-rd.html

@@ -1,11 +1,11 @@
 id: 68675078
-type: way
+type: node
 latitude: 37.8598
 longitude: -122.26928
 postcode: "94703"
 city: Berkeley
-street: "Milvia Street"
-housenumber: 2727
-phone: "+1-510-984-3907"
-opening_hours: "Mo-Fr 10:00-20:00; Sa, Su 10:00-18:00"
-website: "https://shop.sportsbasement.com/blogs/stores/berkeley"
+street: Milvia Street
+housenumber: "2727"
+phone: +1-510-984-3907
+opening_hours: Mo-Fr 10:00-20:00; Sa, Su 10:00-18:00
+website: https://shop.sportsbasement.com/blogs/stores/berkeley

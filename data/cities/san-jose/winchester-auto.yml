@@ -1,11 +1,11 @@
 id: 44803346
-type: way
+type: node
 latitude: 37.29898
 longitude: -121.94944
 postcode: "95128"
 city: San Jose
-street: "South Winchester Boulevard"
-housenumber: 1366
-phone: "+1 408 866 1222"
+street: South Winchester Boulevard
+housenumber: "1366"
+phone: +1 408 866 1222
 opening_hours: ""
-website: "http://www.winchesterauto.com/"
+website: http://www.winchesterauto.com/

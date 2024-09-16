@@ -1,11 +1,11 @@
 id: 1296948203
-type: way
+type: node
 latitude: 39.77265
 longitude: -121.84541
 postcode: "95973"
 city: Chico
-street: "Cohasset Road"
-housenumber: 3155
-phone: "+1-530-891-0311"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-18:00; Su 09:00-18:00; "
-website: "https://www.chicoministorage.com"
+street: Cohasset Road
+housenumber: "3155"
+phone: +1-530-891-0311
+opening_hours: 'Mo-Fr 07:00-18:00; Sa 08:00-18:00; Su 09:00-18:00; '
+website: https://www.chicoministorage.com

@@ -4,8 +4,8 @@ latitude: 37.3402
 longitude: -121.90826
 postcode: "95110"
 city: San Jose
-street: "Coleman Avenue"
-housenumber: 615
-phone: "+1 669-444-3186"
-opening_hours: "07:00-22:00"
-website: "https://www.sprouts.com/store/ca/san-jose/coleman-ave/"
+street: Coleman Avenue
+housenumber: "615"
+phone: +1 669-444-3186
+opening_hours: 07:00-22:00
+website: https://www.sprouts.com/store/ca/san-jose/coleman-ave/

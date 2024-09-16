@@ -1,11 +1,11 @@
 id: 102718520
-type: way
+type: node
 latitude: 37.82174
 longitude: -122.26015
 postcode: ""
 city: Oakland
-street: "Broadway"
-housenumber: 3330
+street: Broadway
+housenumber: "3330"
 phone: ""
 opening_hours: ""
 website: ""

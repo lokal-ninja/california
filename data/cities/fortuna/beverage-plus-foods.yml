@@ -1,11 +1,11 @@
 id: 238190017
-type: way
+type: node
 latitude: 40.59788
 longitude: -124.15421
 postcode: "95540"
 city: Fortuna
-street: "Main Street"
-housenumber: 1221
-phone: "+1 707-725-9303"
-opening_hours: "Mo-Su 08:30-20:30"
-website: "https://www.facebook.com/pages/Beverage-Plus-Foods/322467129559"
+street: Main Street
+housenumber: "1221"
+phone: +1 707-725-9303
+opening_hours: Mo-Su 08:30-20:30
+website: https://www.facebook.com/pages/Beverage-Plus-Foods/322467129559

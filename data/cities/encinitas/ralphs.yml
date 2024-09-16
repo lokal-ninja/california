@@ -1,11 +1,11 @@
 id: 232293172
-type: way
+type: node
 latitude: 33.04843
 longitude: -117.25651
 postcode: "92024"
 city: Encinitas
-street: "North El Camino Real"
-housenumber: 125
-phone: "+1 760-942-5472"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.ralphs.com/stores/grocery/ca/encinitas/encinitas-village-square/703/00168"
+street: North El Camino Real
+housenumber: "125"
+phone: +1 760-942-5472
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.ralphs.com/stores/grocery/ca/encinitas/encinitas-village-square/703/00168

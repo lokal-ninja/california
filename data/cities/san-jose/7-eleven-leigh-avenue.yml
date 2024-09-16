@@ -1,11 +1,11 @@
 id: 226907340
-type: way
+type: node
 latitude: 37.3058
 longitude: -121.92204
 postcode: "95126"
 city: San Jose
-street: "Leigh Avenue"
-housenumber: 1031
-phone: "+1 408-292-7676"
+street: Leigh Avenue
+housenumber: "1031"
+phone: +1 408-292-7676
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/san-jose/1031-leigh-ave-39747"
+website: https://www.7-eleven.com/locations/ca/san-jose/1031-leigh-ave-39747

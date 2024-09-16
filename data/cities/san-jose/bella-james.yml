@@ -1,11 +1,11 @@
 id: 560209798
-type: way
+type: node
 latitude: 37.30416
 longitude: -121.89799
 postcode: "95125"
 city: San Jose
-street: "Lincoln Avenue"
-housenumber: 1371
+street: Lincoln Avenue
+housenumber: "1371"
 phone: ""
 opening_hours: ""
-website: "https://bellajames.com/"
+website: https://bellajames.com/

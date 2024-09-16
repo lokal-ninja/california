@@ -1,11 +1,11 @@
 id: 403719728
-type: way
+type: node
 latitude: 38.59771
 longitude: -121.38169
 postcode: "95825"
 city: Sacramento
-street: "Watt Avenue"
-housenumber: 1738
-phone: "+1 916-973-8391"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ca/sacramento-store0050.html"
+street: Watt Avenue
+housenumber: "1738"
+phone: +1 916-973-8391
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ca/sacramento-store0050.html

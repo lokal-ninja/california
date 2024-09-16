@@ -1,11 +1,11 @@
 id: 442275411
-type: way
+type: node
 latitude: 33.82299
 longitude: -118.35174
 postcode: "90505"
 city: Torrance
-street: "Hawthorne Boulevard"
-housenumber: 22601
-phone: "+1 310-375-5058"
+street: Hawthorne Boulevard
+housenumber: "22601"
+phone: +1 310-375-5058
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/torrance/22601-hawthorne-blvd-18892"
+website: https://www.7-eleven.com/locations/ca/torrance/22601-hawthorne-blvd-18892

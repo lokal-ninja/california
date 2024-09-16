@@ -1,11 +1,11 @@
 id: 287559207
-type: way
+type: node
 latitude: 38.01849
 longitude: -121.29313
-postcode: "95210-4119"
+postcode: 95210-4119
 city: Stockton
-street: "East Hammer Lane"
-housenumber: 1616
-phone: "+1 209-478-2040"
-opening_hours: "Mo-Fr 09:00-20:30; Sa-Su 09:00-19:00"
-website: "https://www.costco.com/warehouse-locations/stockton-ca-38.html"
+street: East Hammer Lane
+housenumber: "1616"
+phone: +1 209-478-2040
+opening_hours: Mo-Fr 09:00-20:30; Sa-Su 09:00-19:00
+website: https://www.costco.com/warehouse-locations/stockton-ca-38.html

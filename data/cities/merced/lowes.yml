@@ -1,11 +1,11 @@
 id: 205149878
-type: way
+type: node
 latitude: 37.31674
 longitude: -120.49639
 postcode: "95348"
 city: Merced
-street: "West Olive Avenue"
-housenumber: 1750
-phone: "+1 209-385-5000"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/"
+street: West Olive Avenue
+housenumber: "1750"
+phone: +1 209-385-5000
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/

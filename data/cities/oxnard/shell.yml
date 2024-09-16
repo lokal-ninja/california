@@ -1,11 +1,11 @@
 id: 472866720
-type: way
+type: node
 latitude: 34.20331
 longitude: -119.1265
 postcode: "93030"
 city: Oxnard
-street: "North Del Norte Boulevard"
-housenumber: 100
+street: North Del Norte Boulevard
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 407370360
-type: way
+type: node
 latitude: 33.86892
 longitude: -118.28678
 postcode: "90248"
 city: Los Angeles
-street: "West 182nd Street"
-housenumber: 740
-phone: "+1 310-324-7100"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Gardena/CA/Gardena/90248/611"
+street: West 182nd Street
+housenumber: "740"
+phone: +1 310-324-7100
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Gardena/CA/Gardena/90248/611

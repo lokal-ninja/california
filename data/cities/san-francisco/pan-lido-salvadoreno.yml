@@ -4,8 +4,8 @@ latitude: 37.75542
 longitude: -122.41745
 postcode: "94110"
 city: San Francisco
-street: "22nd Street"
-housenumber: 3147
-phone: "+1-415-282-3350"
-opening_hours: "Mo-Sa 09:00-19:00, Su 10:00-17:00"
+street: 22nd Street
+housenumber: "3147"
+phone: +1-415-282-3350
+opening_hours: Mo-Sa 09:00-19:00, Su 10:00-17:00
 website: ""

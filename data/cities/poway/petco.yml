@@ -1,11 +1,11 @@
 id: 544065387
-type: way
+type: node
 latitude: 32.95532
 longitude: -117.04171
 postcode: "92064"
 city: Poway
-street: "Poway Road"
-housenumber: 13375
-phone: "+1 858-762-8720"
-opening_hours: "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ca/poway/pet-supplies-poway-ca-4502.html"
+street: Poway Road
+housenumber: "13375"
+phone: +1 858-762-8720
+opening_hours: Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/ca/poway/pet-supplies-poway-ca-4502.html

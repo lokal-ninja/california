@@ -1,11 +1,11 @@
 id: 47150114
-type: way
+type: node
 latitude: 38.72996
 longitude: -121.29134
 postcode: "95678"
 city: r
-street: "Riverside Avenue"
-housenumber: 998
+street: Riverside Avenue
+housenumber: "998"
 phone: ""
 opening_hours: ""
 website: ""

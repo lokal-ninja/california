@@ -1,11 +1,11 @@
 id: 263922364
-type: way
+type: node
 latitude: 37.66881
 longitude: -122.46949
 postcode: "94015"
 city: Daly City
-street: "Serramonte Boulevard"
-housenumber: 501
-phone: "1-650-756-8166"
-opening_hours: "Mo-Su 05:00-23:00"
+street: Serramonte Boulevard
+housenumber: "501"
+phone: 1-650-756-8166
+opening_hours: Mo-Su 05:00-23:00
 website: ""

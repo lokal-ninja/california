@@ -4,8 +4,8 @@ latitude: 37.27438
 longitude: -121.87074
 postcode: "95136"
 city: San Jose
-street: "West Capitol Expressway"
-housenumber: 900
+street: West Capitol Expressway
+housenumber: "900"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00, Su 10:00-20:00"
-website: "https://www.normandinchryslerjeep.net/chrysler-dodge-jeep-ram-service-san-jose/"
+opening_hours: Mo-Sa 09:00-21:00, Su 10:00-20:00
+website: https://www.normandinchryslerjeep.net/chrysler-dodge-jeep-ram-service-san-jose/

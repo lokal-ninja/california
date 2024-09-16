@@ -1,11 +1,11 @@
 id: 471445001
-type: way
+type: node
 latitude: 34.13642
 longitude: -117.98695
 postcode: "91016"
 city: Monrovia
-street: "Mountain Avenue"
-housenumber: 1451
-phone: "+1 626-249-4412"
-opening_hours: "Monday - Saturday 09:00-20:00, Sunday 10:00-19:00"
-website: "https://www.miniofmonrovia.com/"
+street: Mountain Avenue
+housenumber: "1451"
+phone: +1 626-249-4412
+opening_hours: Monday - Saturday 09:00-20:00, Sunday 10:00-19:00
+website: https://www.miniofmonrovia.com/

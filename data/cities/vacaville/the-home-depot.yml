@@ -1,11 +1,11 @@
 id: 253078347
-type: way
+type: node
 latitude: 38.3739
 longitude: -121.94853
 postcode: "95687"
 city: Vacaville
-street: "Orange Drive"
-housenumber: 510
-phone: "+1 707-454-0714"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Vacaville/CA/Vacaville/95687/1043"
+street: Orange Drive
+housenumber: "510"
+phone: +1 707-454-0714
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Vacaville/CA/Vacaville/95687/1043

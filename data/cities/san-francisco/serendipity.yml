@@ -4,8 +4,8 @@ latitude: 37.75997
 longitude: -122.42127
 postcode: "94110"
 city: San Francisco
-street: "Valencia Street"
-housenumber: 803
+street: Valencia Street
+housenumber: "803"
 phone: ""
-opening_hours: "Mo-Fr 10:30-20:00; Sa 10:30-19:00; Su 11:00-19:00"
+opening_hours: Mo-Fr 10:30-20:00; Sa 10:30-19:00; Su 11:00-19:00
 website: ""

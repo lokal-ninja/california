@@ -1,11 +1,11 @@
 id: 31800362
-type: way
+type: node
 latitude: 32.82882
 longitude: -117.15287
 postcode: "92111"
 city: San Diego
-street: "Convoy Street"
-housenumber: 4797
-phone: "877-268-8822"
+street: Convoy Street
+housenumber: "4797"
+phone: 877-268-8822
 opening_hours: ""
-website: "https://www.kearnymesasubaru.com/"
+website: https://www.kearnymesasubaru.com/

@@ -1,11 +1,11 @@
 id: 485227170
-type: way
+type: node
 latitude: 36.84118
 longitude: -119.78693
 postcode: "93720"
 city: Fresno
-street: "North Abby Street"
-housenumber: 7150
-phone: "+1 559-431-9860"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/N-Fresno/CA/Fresno/93720/1014"
+street: North Abby Street
+housenumber: "7150"
+phone: +1 559-431-9860
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/N-Fresno/CA/Fresno/93720/1014

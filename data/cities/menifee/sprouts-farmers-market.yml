@@ -1,11 +1,11 @@
 id: 1133967056
-type: way
+type: node
 latitude: 33.6831
 longitude: -117.18361
 postcode: "92584"
 city: Menifee
-street: "Newport Road"
-housenumber: 27281
-phone: "+1 951-370-1317"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/ca/menifee/443-menifee/"
+street: Newport Road
+housenumber: "27281"
+phone: +1 951-370-1317
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/ca/menifee/443-menifee/

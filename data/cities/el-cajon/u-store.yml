@@ -1,11 +1,11 @@
 id: 1046993199
-type: way
+type: node
 latitude: 32.82945
 longitude: -116.90863
 postcode: "92021"
 city: El Cajon
-street: "Highway 8 Business"
-housenumber: 13180
+street: Highway 8 Business
+housenumber: "13180"
 phone: ""
 opening_hours: ""
 website: ""

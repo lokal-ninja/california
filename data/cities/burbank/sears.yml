@@ -1,11 +1,11 @@
 id: 31964312
-type: way
+type: node
 latitude: 34.18217
 longitude: -118.31313
 postcode: "91502"
 city: Burbank
-street: "Magnolia Boulevard"
-housenumber: 111
-phone: "+1 (818)559-6600"
-opening_hours: "Su 11:00-15:30; Mo-Fr 11:00-20:00; sa 11:00-21:00"
-website: "https://www.sears.com/stores/california/burbank/0001838"
+street: Magnolia Boulevard
+housenumber: "111"
+phone: +1 (818)559-6600
+opening_hours: Su 11:00-15:30; Mo-Fr 11:00-20:00; sa 11:00-21:00
+website: https://www.sears.com/stores/california/burbank/0001838

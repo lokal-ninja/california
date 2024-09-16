@@ -1,11 +1,11 @@
 id: 579741591
-type: way
+type: node
 latitude: 34.41341
 longitude: -119.85768
 postcode: "93117"
 city: Isla Vista
-street: "Pardall Road"
-housenumber: 6580
-phone: "+1-805-685-4541"
-opening_hours: "10:00-24:00"
+street: Pardall Road
+housenumber: "6580"
+phone: +1-805-685-4541
+opening_hours: 10:00-24:00
 website: ""

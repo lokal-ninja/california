@@ -1,11 +1,11 @@
 id: 758881770
-type: way
+type: node
 latitude: 33.46573
 longitude: -117.70527
 postcode: "92629"
 city: Dana Point
-street: "Pacific Coast Highway"
-housenumber: 34105
-phone: "+1 (949) 415-4724"
+street: Pacific Coast Highway
+housenumber: "34105"
+phone: +1 (949) 415-4724
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 751479273
-type: way
+type: node
 latitude: 37.67798
 longitude: -122.46955
 postcode: "94014"
 city: Colma
-street: "Colma Boulevard"
-housenumber: 19
-phone: "+1 650-991-8991"
-opening_hours: "Mo-Sa 09:00-23:00; Su 09:30-22:00"
+street: Colma Boulevard
+housenumber: "19"
+phone: +1 650-991-8991
+opening_hours: Mo-Sa 09:00-23:00; Su 09:30-22:00
 website: ""

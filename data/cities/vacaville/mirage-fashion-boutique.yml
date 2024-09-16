@@ -1,11 +1,11 @@
 id: 693733298
-type: way
+type: node
 latitude: 38.35653
 longitude: -121.98692
 postcode: "95688"
 city: Vacaville
-street: "Main Street"
-housenumber: 536
+street: Main Street
+housenumber: "536"
 phone: ""
 opening_hours: ""
 website: ""

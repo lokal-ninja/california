@@ -4,8 +4,8 @@ latitude: 37.56305
 longitude: -122.32361
 postcode: "94401"
 city: San Mateo
-street: "East 4th Avenue"
-housenumber: 66
+street: East 4th Avenue
+housenumber: "66"
 phone: "6503935031"
-opening_hours: "Mo-Sa 10:00-18:00, Su 11:00-17:00"
-website: "Cognitioncyclery.com"
+opening_hours: Mo-Sa 10:00-18:00, Su 11:00-17:00
+website: Cognitioncyclery.com

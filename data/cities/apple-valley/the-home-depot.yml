@@ -1,11 +1,11 @@
 id: 460850595
-type: way
+type: node
 latitude: 34.4738
 longitude: -117.24487
 postcode: "92308"
 city: Apple Valley
-street: "Apple Valley Road"
-housenumber: 12218
-phone: "+1 760-961-9046"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Apple-Valley-CA/CA/Apple-Valley/92308/6834"
+street: Apple Valley Road
+housenumber: "12218"
+phone: +1 760-961-9046
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Apple-Valley-CA/CA/Apple-Valley/92308/6834

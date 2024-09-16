@@ -1,11 +1,11 @@
 id: 488361695
-type: way
+type: node
 latitude: 36.2145
 longitude: -119.34805
 postcode: "93274"
 city: Tulare
-street: "East Cross Avenue"
-housenumber: 170
+street: East Cross Avenue
+housenumber: "170"
 phone: ""
 opening_hours: ""
 website: ""

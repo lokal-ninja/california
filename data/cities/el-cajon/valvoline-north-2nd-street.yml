@@ -1,11 +1,11 @@
 id: 995061675
-type: way
+type: node
 latitude: 32.8025
 longitude: -116.93622
 postcode: "92021"
 city: El Cajon
-street: "North 2nd Street"
-housenumber: 610
+street: North 2nd Street
+housenumber: "610"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/ca/elcajon/oil-change-gn0141.html"
+website: https://store.vioc.com/ca/elcajon/oil-change-gn0141.html

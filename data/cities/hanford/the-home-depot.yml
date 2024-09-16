@@ -1,11 +1,11 @@
 id: 703452778
-type: way
+type: node
 latitude: 36.32911
 longitude: -119.67161
 postcode: "93230"
 city: Hanford
-street: "North 12th Avenue"
-housenumber: 501
-phone: "+1 559-582-9120"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/hanford/ca/hanford/93230/1073"
+street: North 12th Avenue
+housenumber: "501"
+phone: +1 559-582-9120
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/hanford/ca/hanford/93230/1073

@@ -1,11 +1,11 @@
 id: 61108750
-type: way
+type: node
 latitude: 37.36039
 longitude: -122.02455
 postcode: "94087"
 city: Sunnyvale
-street: "East El Camino Real"
-housenumber: 650
+street: East El Camino Real
+housenumber: "650"
 phone: ""
 opening_hours: ""
-website: "https://www.sunnyvaleford.com/"
+website: https://www.sunnyvaleford.com/

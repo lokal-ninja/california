@@ -1,11 +1,11 @@
 id: 582592279
-type: way
+type: node
 latitude: 38.19313
 longitude: -120.67622
 postcode: "95249"
 city: San Andreas
-street: "East Saint Charles Street"
-housenumber: 265
+street: East Saint Charles Street
+housenumber: "265"
 phone: ""
 opening_hours: ""
 website: ""

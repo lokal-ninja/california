@@ -1,11 +1,11 @@
 id: 404077913
-type: way
+type: node
 latitude: 33.13728
 longitude: -117.18219
 postcode: "92078"
 city: San Marcos
-street: "South Bent Avenue"
-housenumber: 175
+street: South Bent Avenue
+housenumber: "175"
 phone: "7607441065"
 opening_hours: ""
-website: "https://www.sandiegoselfstorage.com/self-storage/ca/san-marcos/san-marcos-mini-storage/#/units?category=Small"
+website: https://www.sandiegoselfstorage.com/self-storage/ca/san-marcos/san-marcos-mini-storage/#/units?category=Small

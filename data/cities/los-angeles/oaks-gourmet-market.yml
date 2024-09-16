@@ -1,11 +1,11 @@
 id: 427742271
-type: way
+type: node
 latitude: 34.10559
 longitude: -118.31828
 postcode: "90028"
 city: Los Angeles
-street: "Bronson Avenue"
-housenumber: 1915
-phone: "+1-323-871-8894"
-opening_hours: "Mo-Su 07:00-00:00"
-website: "https://www.theoaksgourmet.com/"
+street: Bronson Avenue
+housenumber: "1915"
+phone: +1-323-871-8894
+opening_hours: Mo-Su 07:00-00:00
+website: https://www.theoaksgourmet.com/

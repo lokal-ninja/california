@@ -1,11 +1,11 @@
 id: 59733274
-type: way
+type: node
 latitude: 35.38498
 longitude: -119.04977
-postcode: "93308-6235"
+postcode: 93308-6235
 city: Bakersfield
-street: "Rosedale Highway"
-housenumber: 3800
-phone: "+1 661-852-2643"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/bakersfield-ca-688.html"
+street: Rosedale Highway
+housenumber: "3800"
+phone: +1 661-852-2643
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/bakersfield-ca-688.html

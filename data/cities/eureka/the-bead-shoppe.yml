@@ -1,11 +1,11 @@
 id: 238293023
-type: way
+type: node
 latitude: 40.80343
 longitude: -124.16697
 postcode: "95501"
 city: Eureka
-street: "3rd Street"
-housenumber: 418
+street: 3rd Street
+housenumber: "418"
 phone: ""
 opening_hours: ""
-website: "https://www.facebook.com/pages/Bead-Shoppe/178483163150"
+website: https://www.facebook.com/pages/Bead-Shoppe/178483163150

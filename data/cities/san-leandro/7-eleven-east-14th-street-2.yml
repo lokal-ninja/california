@@ -1,11 +1,11 @@
 id: 953861445
-type: way
+type: node
 latitude: 37.71556
 longitude: -122.14207
 postcode: "94578"
 city: San Leandro
-street: "East 14th Street"
-housenumber: 13792
-phone: "+1 510-352-2611"
+street: East 14th Street
+housenumber: "13792"
+phone: +1 510-352-2611
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/san-leandro/13792-e.-14th-st.-19250"
+website: https://www.7-eleven.com/locations/ca/san-leandro/13792-e.-14th-st.-19250

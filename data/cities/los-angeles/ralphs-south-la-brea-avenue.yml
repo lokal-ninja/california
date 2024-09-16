@@ -4,8 +4,8 @@ latitude: 34.07002
 longitude: -118.34363
 postcode: "90036"
 city: Los Angeles
-street: "South La Brea Avenue"
-housenumber: 260
-phone: "+1 323-937-3264"
-opening_hours: "Mo-Su 05:00-01:00"
-website: "https://www.ralphs.com/stores/grocery/ca/los-angeles/la-brea/703/00039"
+street: South La Brea Avenue
+housenumber: "260"
+phone: +1 323-937-3264
+opening_hours: Mo-Su 05:00-01:00
+website: https://www.ralphs.com/stores/grocery/ca/los-angeles/la-brea/703/00039

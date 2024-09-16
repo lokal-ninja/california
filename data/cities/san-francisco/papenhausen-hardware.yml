@@ -1,11 +1,11 @@
 id: 213616091
-type: way
+type: node
 latitude: 37.74061
 longitude: -122.46659
 postcode: "94127"
 city: San Francisco
-street: "West Portal Avenue"
-housenumber: 32
-phone: "+1 415 681 6717"
-opening_hours: "Mo-Fr 08:30-18:30; Sa,Su 09:00-17:30"
-website: "https://www.papenhausen.com/"
+street: West Portal Avenue
+housenumber: "32"
+phone: +1 415 681 6717
+opening_hours: Mo-Fr 08:30-18:30; Sa,Su 09:00-17:30
+website: https://www.papenhausen.com/

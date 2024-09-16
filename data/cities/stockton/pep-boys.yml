@@ -1,11 +1,11 @@
 id: 287618540
-type: way
+type: node
 latitude: 38.00049
 longitude: -121.29103
 postcode: ""
 city: Stockton
-street: "West Lane"
-housenumber: 4987
+street: West Lane
+housenumber: "4987"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 123539779
-type: way
+type: node
 latitude: 34.523
 longitude: -117.33
 postcode: "93533"
 city: Victorville
-street: "Roy Rogers Drive"
-housenumber: 15350
+street: Roy Rogers Drive
+housenumber: "15350"
 phone: ""
 opening_hours: ""
-website: "https://www.wincofoods.com/stores/win-co-foods-victorville-67/4758"
+website: https://www.wincofoods.com/stores/win-co-foods-victorville-67/4758

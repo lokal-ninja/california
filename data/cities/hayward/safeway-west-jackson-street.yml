@@ -1,11 +1,11 @@
 id: 253018411
-type: way
+type: node
 latitude: 37.65227
 longitude: -122.09149
 postcode: "94544"
 city: Hayward
-street: "West Jackson Street"
-housenumber: 231
-phone: "+1 510-783-8611"
-opening_hours: "06:00-24:00"
-website: "https://local.safeway.com/safeway/ca/hayward/231-w-jackson-st.html"
+street: West Jackson Street
+housenumber: "231"
+phone: +1 510-783-8611
+opening_hours: 06:00-24:00
+website: https://local.safeway.com/safeway/ca/hayward/231-w-jackson-st.html

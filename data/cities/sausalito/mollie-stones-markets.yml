@@ -1,11 +1,11 @@
 id: 387641142
-type: way
+type: node
 latitude: 37.86662
 longitude: -122.49922
 postcode: "94965"
 city: Sausalito
-street: "Harbor Drive"
-housenumber: 100
+street: Harbor Drive
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

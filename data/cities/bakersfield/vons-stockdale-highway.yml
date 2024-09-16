@@ -1,11 +1,11 @@
 id: 131286296
-type: way
+type: node
 latitude: 35.35522
 longitude: -119.06547
 postcode: "93309"
 city: Bakersfield
-street: "Stockdale Highway"
-housenumber: 5700
-phone: "+1 661-328-6950"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.vons.com/ca/bakersfield/5700-stockdale-hwy.html"
+street: Stockdale Highway
+housenumber: "5700"
+phone: +1 661-328-6950
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.vons.com/ca/bakersfield/5700-stockdale-hwy.html

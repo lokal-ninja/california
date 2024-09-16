@@ -1,11 +1,11 @@
 id: 252995702
-type: way
+type: node
 latitude: 38.34981
 longitude: -121.97986
 postcode: "95687"
 city: Vacaville
-street: "Hume Way"
-housenumber: 1051
-phone: "+1 707-453-7343"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/vacaville-ca-694.html"
+street: Hume Way
+housenumber: "1051"
+phone: +1 707-453-7343
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/vacaville-ca-694.html

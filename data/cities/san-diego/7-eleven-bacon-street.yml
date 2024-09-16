@@ -1,11 +1,11 @@
 id: 31802976
-type: way
+type: node
 latitude: 32.75205
 longitude: -117.24696
 postcode: "92107"
 city: San Diego
-street: "Bacon Street"
-housenumber: 2190
-phone: "+1 619-226-0711"
+street: Bacon Street
+housenumber: "2190"
+phone: +1 619-226-0711
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/san-diego/2190-bacon-st-24133"
+website: https://www.7-eleven.com/locations/ca/san-diego/2190-bacon-st-24133

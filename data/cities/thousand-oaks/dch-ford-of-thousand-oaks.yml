@@ -1,11 +1,11 @@
 id: 498657885
-type: way
+type: node
 latitude: 34.16358
 longitude: -118.82884
 postcode: "91362"
 city: Thousand Oaks
-street: "East Thousand Oaks Boulevard"
-housenumber: 3810
-phone: "(805) 719-6867"
-opening_hours: "Mo-Sa 08:30-20:00; Su 09:30-19:00"
-website: "https://www.dchfordofthousandoaks.com/"
+street: East Thousand Oaks Boulevard
+housenumber: "3810"
+phone: (805) 719-6867
+opening_hours: Mo-Sa 08:30-20:00; Su 09:30-19:00
+website: https://www.dchfordofthousandoaks.com/

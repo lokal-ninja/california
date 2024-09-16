@@ -1,11 +1,11 @@
 id: 390867154
-type: way
+type: node
 latitude: 34.0665
 longitude: -118.38525
 postcode: "90212"
 city: Beverly Hills
-street: "8850 Wilshire Blvd"
-housenumber: 8850
+street: 8850 Wilshire Blvd
+housenumber: "8850"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 749131875
-type: way
+type: node
 latitude: 40.58491
 longitude: -122.3497
 postcode: "96003"
 city: Redding
-street: "Dana Drive"
-housenumber: 1145
-phone: "+1 (530) 722-9901"
+street: Dana Drive
+housenumber: "1145"
+phone: +1 (530) 722-9901
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ca/redding/autoparts-3230.html"
+website: https://locations.oreillyauto.com/ca/redding/autoparts-3230.html

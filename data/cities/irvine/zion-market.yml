@@ -1,11 +1,11 @@
 id: 342868124
-type: way
+type: node
 latitude: 33.71248
 longitude: -117.76116
 postcode: "92620"
 city: Irvine
-street: "Irvine Boulevard"
-housenumber: 4800
+street: Irvine Boulevard
+housenumber: "4800"
 phone: ""
 opening_hours: ""
 website: ""

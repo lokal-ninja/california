@@ -1,11 +1,11 @@
 id: 152722810
-type: way
+type: node
 latitude: 37.67412
 longitude: -122.46485
 postcode: "94014"
 city: Colma
-street: "Junipero Serra Boulevard"
-housenumber: 5001
-phone: "1-650-992-8433"
-opening_hours: "Mo-Sa 08:00-23:00; Su 08:00-22:00"
-website: "https://www.target.com/store-locator/store-details?storeNumber=320"
+street: Junipero Serra Boulevard
+housenumber: "5001"
+phone: 1-650-992-8433
+opening_hours: Mo-Sa 08:00-23:00; Su 08:00-22:00
+website: https://www.target.com/store-locator/store-details?storeNumber=320

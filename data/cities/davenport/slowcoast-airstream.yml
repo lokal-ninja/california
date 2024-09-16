@@ -1,11 +1,11 @@
 id: 424471219
-type: way
+type: node
 latitude: 37.01111
 longitude: -122.19414
 postcode: "95017"
 city: Davenport
-street: "Cabrillo Highway"
-housenumber: 450
+street: Cabrillo Highway
+housenumber: "450"
 phone: ""
 opening_hours: ""
-website: "http://www.slowcoast.org/"
+website: http://www.slowcoast.org/

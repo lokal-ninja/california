@@ -1,11 +1,11 @@
 id: 28613602
-type: way
+type: node
 latitude: 39.16929
 longitude: -123.21091
 postcode: "95482"
 city: Ukiah
-street: "North State Street"
-housenumber: 1401
-phone: "+1 707-376-8787"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/1401-n-state-street-ukiah-95482?number=3112"
+street: North State Street
+housenumber: "1401"
+phone: +1 707-376-8787
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/1401-n-state-street-ukiah-95482?number=3112

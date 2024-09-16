@@ -1,11 +1,11 @@
 id: 614310979
-type: way
+type: node
 latitude: 33.72841
 longitude: -117.83665
 postcode: "92705"
 city: Santa Ana
-street: "Auto Mall Drive"
-housenumber: 1455
+street: Auto Mall Drive
+housenumber: "1455"
 phone: ""
 opening_hours: ""
 website: ""

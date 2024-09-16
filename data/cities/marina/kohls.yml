@@ -1,11 +1,11 @@
 id: 151800290
-type: way
+type: node
 latitude: 36.66726
 longitude: -121.81334
 postcode: "93933"
 city: Marina
-street: "General Stilwell Drive"
-housenumber: 111
-phone: "+1 831-883-8449"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/ca/marina-1122.shtml"
+street: General Stilwell Drive
+housenumber: "111"
+phone: +1 831-883-8449
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/ca/marina-1122.shtml

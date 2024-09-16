@@ -1,11 +1,11 @@
 id: 623252470
-type: way
+type: node
 latitude: 34.44072
 longitude: -119.72747
 postcode: "93105"
 city: Santa Barbara
-street: "State Street"
-housenumber: 2980
+street: State Street
+housenumber: "2980"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-18:00; PH closed"
+opening_hours: Mo-Sa 10:00-19:00; Su 11:00-18:00; PH closed
 website: ""

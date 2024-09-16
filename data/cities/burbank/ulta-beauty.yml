@@ -1,11 +1,11 @@
 id: 471969376
-type: way
+type: node
 latitude: 34.18851
 longitude: -118.32696
 postcode: "91502"
 city: Burbank
-street: "North Victory Place"
-housenumber: 1351
-phone: "+1 818-565-5646"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/burbank-ca-260"
+street: North Victory Place
+housenumber: "1351"
+phone: +1 818-565-5646
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/burbank-ca-260

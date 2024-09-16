@@ -1,11 +1,11 @@
 id: 293624123
-type: way
+type: node
 latitude: 37.96715
 longitude: -121.25279
 postcode: "95205"
 city: Stockton
-street: "East Fremont Street"
-housenumber: 2911
+street: East Fremont Street
+housenumber: "2911"
 phone: ""
 opening_hours: ""
 website: ""

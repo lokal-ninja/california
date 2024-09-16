@@ -1,11 +1,11 @@
 id: 451686834
-type: way
+type: node
 latitude: 37.32418
 longitude: -121.86785
 postcode: "95112"
 city: San Jose
-street: "Keyes Street"
-housenumber: 480
+street: Keyes Street
+housenumber: "480"
 phone: ""
 opening_hours: ""
 website: ""

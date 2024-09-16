@@ -4,8 +4,8 @@ latitude: 37.76309
 longitude: -122.42679
 postcode: "94114"
 city: San Francisco
-street: "17th Street"
-housenumber: 3618
-phone: "+1 415-983-2966"
-opening_hours: "We-Fr 11:00-18:00; Sa 12:00-17:00"
-website: "https://www.newdealhome.com/"
+street: 17th Street
+housenumber: "3618"
+phone: +1 415-983-2966
+opening_hours: We-Fr 11:00-18:00; Sa 12:00-17:00
+website: https://www.newdealhome.com/

@@ -1,11 +1,11 @@
 id: 174296280
-type: way
+type: node
 latitude: 38.13596
 longitude: -122.20722
 postcode: "94591"
 city: Vallejo
-street: "Columbus Parkway"
-housenumber: 401
-phone: "+1 707-563-3040"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/CA-Vallejo/1871"
+street: Columbus Parkway
+housenumber: "401"
+phone: +1 707-563-3040
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/CA-Vallejo/1871

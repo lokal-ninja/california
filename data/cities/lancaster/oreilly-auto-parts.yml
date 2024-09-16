@@ -1,11 +1,11 @@
 id: 472702096
-type: way
+type: node
 latitude: 34.68906
 longitude: -118.11335
 postcode: "93535"
 city: Lancaster
-street: "East Avenue J"
-housenumber: 836
+street: East Avenue J
+housenumber: "836"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ca/lancaster/autoparts-4008.html"
+website: https://locations.oreillyauto.com/ca/lancaster/autoparts-4008.html

@@ -1,11 +1,11 @@
 id: 132725182
-type: way
+type: node
 latitude: 34.06952
 longitude: -117.21034
-postcode: "92374-2048"
+postcode: 92374-2048
 city: Orangetree Marketplace
-street: "West Lugonia Avenue"
-housenumber: 1625
-phone: "+1 909-335-5922"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://stores.joann.com/ca/redlands/2096/"
+street: West Lugonia Avenue
+housenumber: "1625"
+phone: +1 909-335-5922
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-18:00
+website: https://stores.joann.com/ca/redlands/2096/

@@ -1,11 +1,11 @@
 id: 407557224
-type: way
+type: node
 latitude: 33.83527
 longitude: -117.85207
 postcode: "92865"
 city: Orange
-street: "East Lincoln Avenue"
-housenumber: 110
+street: East Lincoln Avenue
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

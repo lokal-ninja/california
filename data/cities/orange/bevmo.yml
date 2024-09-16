@@ -1,11 +1,11 @@
 id: 1133969914
-type: way
+type: node
 latitude: 33.82149
 longitude: -117.8367
 postcode: "92865"
 city: Orange
-street: "North Tustin Street"
-housenumber: 2000
-phone: "714-279-8131"
-opening_hours: "09:00-23:00"
-website: "https://www.bevmo.com/stores/orange"
+street: North Tustin Street
+housenumber: "2000"
+phone: 714-279-8131
+opening_hours: 09:00-23:00
+website: https://www.bevmo.com/stores/orange

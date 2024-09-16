@@ -1,11 +1,11 @@
 id: 1093263965
-type: way
+type: node
 latitude: 37.58847
 longitude: -122.36216
 postcode: "94010"
 city: Burlingame
-street: "Cadillac Way"
-housenumber: 1010
+street: Cadillac Way
+housenumber: "1010"
 phone: ""
 opening_hours: ""
 website: ""

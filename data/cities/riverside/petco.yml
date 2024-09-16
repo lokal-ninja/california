@@ -4,8 +4,8 @@ latitude: 33.90443
 longitude: -117.45834
 postcode: "92503"
 city: Riverside
-street: "Tyler Street"
-housenumber: 3384
-phone: "+1 951-688-8886"
-opening_hours: "Mo-We 09:00-20:00; Th 09:00-18:00; Fr-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ca/riverside/pet-supplies-riverside-ca-586.html"
+street: Tyler Street
+housenumber: "3384"
+phone: +1 951-688-8886
+opening_hours: Mo-We 09:00-20:00; Th 09:00-18:00; Fr-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/ca/riverside/pet-supplies-riverside-ca-586.html

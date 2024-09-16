@@ -1,11 +1,11 @@
 id: 681566915
-type: way
+type: node
 latitude: 33.92566
 longitude: -116.95267
 postcode: "92223"
 city: Beaumont
-street: "East 2nd Street"
-housenumber: 1540
-phone: "+1 951-845-1529"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/5156/beaumont-ca/whats-new"
+street: East 2nd Street
+housenumber: "1540"
+phone: +1 951-845-1529
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/5156/beaumont-ca/whats-new

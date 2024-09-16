@@ -1,11 +1,11 @@
 id: 254102373
-type: way
+type: node
 latitude: 37.69595
 longitude: -122.07531
 postcode: "94546"
 city: Castro Valley
-street: "Redwood Road"
-housenumber: 20629
-phone: "+1 510-538-3088"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/ca/castro-valley/20629-redwood-rd.html"
+street: Redwood Road
+housenumber: "20629"
+phone: +1 510-538-3088
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/ca/castro-valley/20629-redwood-rd.html

@@ -1,11 +1,11 @@
 id: 207406403
-type: way
+type: node
 latitude: 34.66139
 longitude: -118.1515
 postcode: "93534"
 city: Lancaster
-street: "West Avenue L"
-housenumber: 1141
-phone: "+1 661-802-4470"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/lancaster-ca-lancaster-ca-762.html"
+street: West Avenue L
+housenumber: "1141"
+phone: +1 661-802-4470
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/lancaster-ca-lancaster-ca-762.html

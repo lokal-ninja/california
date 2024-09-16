@@ -1,11 +1,11 @@
 id: 554285234
-type: way
+type: node
 latitude: 33.82698
 longitude: -117.83821
 postcode: "92865"
 city: Orange
-street: "East Village Way"
-housenumber: 1500
-phone: "714-974-5012"
-opening_hours: "Mo-Su 11:00-19:00"
+street: East Village Way
+housenumber: "1500"
+phone: 714-974-5012
+opening_hours: Mo-Su 11:00-19:00
 website: ""

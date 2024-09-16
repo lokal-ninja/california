@@ -1,11 +1,11 @@
 id: 184707331
-type: way
+type: node
 latitude: 33.72626
 longitude: -117.79282
 postcode: "92782"
 city: Tustin
-street: "El Camino Real"
-housenumber: 2851
-phone: "+1 714-731-9360"
-opening_hours: "Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-23:00"
+street: El Camino Real
+housenumber: "2851"
+phone: +1 714-731-9360
+opening_hours: Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-23:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 34.03638
 longitude: -118.38918
 postcode: "90034"
 city: Los Angeles
-street: "South Robertson Boulevard"
-housenumber: 2863
-phone: "+1 323-484-1012"
-opening_hours: "Tu-We,Fr 11:00-17:00; Sa 11:00-15:00"
-website: "https://www.hangsteady.com/"
+street: South Robertson Boulevard
+housenumber: "2863"
+phone: +1 323-484-1012
+opening_hours: Tu-We,Fr 11:00-17:00; Sa 11:00-15:00
+website: https://www.hangsteady.com/

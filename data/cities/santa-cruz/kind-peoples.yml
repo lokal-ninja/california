@@ -1,11 +1,11 @@
 id: 35555555
-type: way
+type: node
 latitude: 36.97559
 longitude: -122.01977
 postcode: "95060"
 city: Santa Cruz
-street: "Ocean Street"
-housenumber: 533
-phone: "+1-831-515-4114"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.kindpeoples.com/"
+street: Ocean Street
+housenumber: "533"
+phone: +1-831-515-4114
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.kindpeoples.com/

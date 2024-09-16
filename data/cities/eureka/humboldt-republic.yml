@@ -1,11 +1,11 @@
 id: 238214242
-type: way
+type: node
 latitude: 40.80299
 longitude: -124.16541
 postcode: ""
 city: Eureka
-street: "4th Street"
-housenumber: 535
-phone: "+1 707-497-6270"
-opening_hours: "Mo-Sa 11:00-19:00"
-website: "https://humboldtrepublic.com/"
+street: 4th Street
+housenumber: "535"
+phone: +1 707-497-6270
+opening_hours: Mo-Sa 11:00-19:00
+website: https://humboldtrepublic.com/

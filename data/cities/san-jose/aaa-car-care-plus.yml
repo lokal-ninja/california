@@ -1,11 +1,11 @@
 id: 728832415
-type: way
+type: node
 latitude: 37.3836
 longitude: -121.89839
 postcode: "95131"
 city: San Jose
-street: "East Brokaw Road"
-housenumber: 1035
-phone: "+1-408-436-7300"
-opening_hours: "Mo-Fr 08:30-17:30; Sa 08:00-17:00"
-website: "https://calstate.aaa.com/membership/offices/san-jose-brokaw-commons"
+street: East Brokaw Road
+housenumber: "1035"
+phone: +1-408-436-7300
+opening_hours: Mo-Fr 08:30-17:30; Sa 08:00-17:00
+website: https://calstate.aaa.com/membership/offices/san-jose-brokaw-commons

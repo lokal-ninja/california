@@ -1,11 +1,11 @@
 id: 69686823
-type: way
+type: node
 latitude: 33.64415
 longitude: -117.92819
 postcode: "92627"
 city: Costa Mesa
-street: "Pomona Avenue"
-housenumber: 1913
-phone: "(949) 574-9657"
-opening_hours: "Su-Sa 05:00-22:00"
+street: Pomona Avenue
+housenumber: "1913"
+phone: (949) 574-9657
+opening_hours: Su-Sa 05:00-22:00
 website: ""

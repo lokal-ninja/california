@@ -1,11 +1,11 @@
 id: 443435573
-type: way
+type: node
 latitude: 33.94457
 longitude: -118.32959
-postcode: "90303-1305"
+postcode: 90303-1305
 city: Inglewood
-street: "West Century Boulevard"
-housenumber: 3330
-phone: "+1 424-789-7374"
-opening_hours: "Mo, We, Fr-Su 09:00-21:00; Tu, Th 08:30-21:00"
-website: "https://stores.aldi.us/ca/inglewood/3330-w-century-blvd"
+street: West Century Boulevard
+housenumber: "3330"
+phone: +1 424-789-7374
+opening_hours: Mo, We, Fr-Su 09:00-21:00; Tu, Th 08:30-21:00
+website: https://stores.aldi.us/ca/inglewood/3330-w-century-blvd

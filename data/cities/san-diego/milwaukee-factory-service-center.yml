@@ -4,8 +4,8 @@ latitude: 32.8172
 longitude: -117.13143
 postcode: "92123"
 city: San Diego
-street: "Ponderosa Avenue"
-housenumber: 4229
+street: Ponderosa Avenue
+housenumber: "4229"
 phone: ""
-opening_hours: "Mo-Fr 08:00-16:00"
-website: "https://www.milwaukeetool.com/Support/Find-A-Service-Center"
+opening_hours: Mo-Fr 08:00-16:00
+website: https://www.milwaukeetool.com/Support/Find-A-Service-Center

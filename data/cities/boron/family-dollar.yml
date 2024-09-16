@@ -1,11 +1,11 @@
 id: 707134558
-type: way
+type: node
 latitude: 35.00049
 longitude: -117.65629
 postcode: "93516"
 city: Boron
-street: "Twenty Mule Team Road"
-housenumber: 26645
+street: Twenty Mule Team Road
+housenumber: "26645"
 phone: ""
-opening_hours: "Mo-Su 08:00-20:00"
+opening_hours: Mo-Su 08:00-20:00
 website: ""

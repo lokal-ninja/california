@@ -1,11 +1,11 @@
 id: 133125588
-type: way
+type: node
 latitude: 34.95385
 longitude: -120.4243
 postcode: "93454"
 city: Santa Maria
-street: "East Main Street"
-housenumber: 817
-phone: "+1 805-922-0772"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.vons.com/ca/santa-maria/817-e-main-st.html"
+street: East Main Street
+housenumber: "817"
+phone: +1 805-922-0772
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.vons.com/ca/santa-maria/817-e-main-st.html

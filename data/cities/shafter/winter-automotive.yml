@@ -1,11 +1,11 @@
 id: 1105024657
-type: way
+type: node
 latitude: 35.49839
 longitude: -119.27807
 postcode: "93263"
 city: Shafter
-street: "South Shafter Avenue"
-housenumber: 236
-phone: "(661) 746-3673"
+street: South Shafter Avenue
+housenumber: "236"
+phone: (661) 746-3673
 opening_hours: ""
 website: ""

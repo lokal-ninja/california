@@ -1,11 +1,11 @@
 id: 421666777
-type: way
+type: node
 latitude: 33.97206
 longitude: -118.39463
 postcode: "90045"
 city: Los Angeles
-street: "Naylor Avenue"
-housenumber: 7531
+street: Naylor Avenue
+housenumber: "7531"
 phone: ""
 opening_hours: ""
 website: ""

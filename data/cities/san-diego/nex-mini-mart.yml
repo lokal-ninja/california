@@ -1,11 +1,11 @@
 id: 1178489561
-type: way
+type: node
 latitude: 32.69785
 longitude: -117.18668
 postcode: "92135"
 city: San Diego
-street: "Naval Air Station North Island"
-housenumber: 244
+street: Naval Air Station North Island
+housenumber: "244"
 phone: ""
-opening_hours: "Su 09:00-23:00,Mo-Fr 06:00-23:00,Sa 08:00-23:00"
+opening_hours: Su 09:00-23:00,Mo-Fr 06:00-23:00,Sa 08:00-23:00
 website: ""

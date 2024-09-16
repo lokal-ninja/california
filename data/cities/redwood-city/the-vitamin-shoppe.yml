@@ -1,11 +1,11 @@
 id: 240427372
-type: way
+type: node
 latitude: 37.48248
 longitude: -122.23061
 postcode: "94062"
 city: Redwood City
-street: "El Camino Real"
-housenumber: 1200
-phone: "(650) 701-0273"
+street: El Camino Real
+housenumber: "1200"
+phone: (650) 701-0273
 opening_hours: ""
-website: "http://www.vitaminshoppe.com"
+website: http://www.vitaminshoppe.com

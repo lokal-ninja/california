@@ -4,8 +4,8 @@ latitude: 33.14001
 longitude: -117.13841
 postcode: "92069"
 city: San Marcos
-street: "Woodland Parkway"
-housenumber: 151
-phone: "+1 760-736-8880"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.albertsons.com/ca/san-marcos/151-woodland-pkwy.html"
+street: Woodland Parkway
+housenumber: "151"
+phone: +1 760-736-8880
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.albertsons.com/ca/san-marcos/151-woodland-pkwy.html

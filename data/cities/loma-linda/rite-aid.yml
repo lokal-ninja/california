@@ -1,11 +1,11 @@
 id: 403354396
-type: way
+type: node
 latitude: 34.04913
 longitude: -117.24323
 postcode: "92354"
 city: Loma Linda
-street: "Barton Road"
-housenumber: 25710
+street: Barton Road
+housenumber: "25710"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.riteaid.com/locations/ca/loma-linda/25710-barton-road.html"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.riteaid.com/locations/ca/loma-linda/25710-barton-road.html

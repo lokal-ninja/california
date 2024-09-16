@@ -1,11 +1,11 @@
 id: 879104678
-type: way
+type: node
 latitude: 37.68043
 longitude: -121.74608
 postcode: "94550"
 city: Livermore
-street: "East Avenue"
-housenumber: 4186
+street: East Avenue
+housenumber: "4186"
 phone: ""
 opening_hours: ""
 website: ""

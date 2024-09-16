@@ -1,11 +1,11 @@
 id: 386388131
-type: way
+type: node
 latitude: 37.29047
 longitude: -121.94936
 postcode: "95008"
 city: Campbell
-street: "Winchester Boulevard"
-housenumber: 1820
+street: Winchester Boulevard
+housenumber: "1820"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 130819317
-type: way
+type: node
 latitude: 37.47557
 longitude: -122.21657
 postcode: "94061"
 city: Redwood City
-street: "El Camino Real"
-housenumber: 2545
-phone: "(650) 366-1142"
+street: El Camino Real
+housenumber: "2545"
+phone: (650) 366-1142
 opening_hours: ""
-website: "http://www.marshallsonline.com"
+website: http://www.marshallsonline.com

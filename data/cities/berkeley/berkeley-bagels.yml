@@ -4,8 +4,8 @@ latitude: 37.88167
 longitude: -122.29041
 postcode: "94706"
 city: Berkeley
-street: "Gilman Street"
-housenumber: 1281
+street: Gilman Street
+housenumber: "1281"
 phone: "+15105243104"
-opening_hours: "Mo-Fr 06:30-17:00; Sa, Su 07:00-17:00"
-website: "http://www.facebook.com/berkeleybagels/"
+opening_hours: Mo-Fr 06:30-17:00; Sa, Su 07:00-17:00
+website: http://www.facebook.com/berkeleybagels/

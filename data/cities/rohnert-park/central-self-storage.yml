@@ -1,11 +1,11 @@
 id: 440568206
-type: way
+type: node
 latitude: 38.35148
 longitude: -122.70582
 postcode: ""
 city: Rohnert Park
-street: "State Farm Drive"
-housenumber: 6100
+street: State Farm Drive
+housenumber: "6100"
 phone: ""
 opening_hours: ""
 website: ""

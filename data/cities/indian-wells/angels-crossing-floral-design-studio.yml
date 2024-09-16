@@ -1,11 +1,11 @@
 id: 227553212
-type: way
+type: node
 latitude: 33.72028
 longitude: -116.3579
 postcode: "92210"
 city: Indian Wells
-street: "Highway 111"
-housenumber: 74933
-phone: "760-776-5880"
+street: Highway 111
+housenumber: "74933"
+phone: 760-776-5880
 opening_hours: ""
-website: "https://www.angels-crossing.com/"
+website: https://www.angels-crossing.com/

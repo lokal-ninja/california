@@ -1,11 +1,11 @@
 id: 233058070
-type: way
+type: node
 latitude: 37.49506
 longitude: -122.23129
 postcode: "94063"
 city: Redwood City
-street: "Convention Way"
-housenumber: 386
+street: Convention Way
+housenumber: "386"
 phone: ""
 opening_hours: ""
-website: "https://www.toyota101.com/"
+website: https://www.toyota101.com/

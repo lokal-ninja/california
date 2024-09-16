@@ -1,11 +1,11 @@
 id: 133173973
-type: way
+type: node
 latitude: 34.42811
 longitude: -118.5347
 postcode: "91350"
 city: Saugus
-street: "Bouquet Canyon Road"
-housenumber: 26558
-phone: "+1 661-296-3443"
-opening_hours: "Mo-Sa 09:00-22:30; Su 09:30-22:00"
-website: "https://www.rossstores.com/"
+street: Bouquet Canyon Road
+housenumber: "26558"
+phone: +1 661-296-3443
+opening_hours: Mo-Sa 09:00-22:30; Su 09:30-22:00
+website: https://www.rossstores.com/

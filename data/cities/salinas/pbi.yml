@@ -1,11 +1,11 @@
 id: 201732218
-type: way
+type: node
 latitude: 36.67304
 longitude: -121.65458
 postcode: "93901"
 city: Salinas
-street: "Midtown Lane"
-housenumber: 325
-phone: "(831) 757-4107"
-opening_hours: "Mo-Fr 9:00-17:00"
-website: "https://www.pbifurniture.com/"
+street: Midtown Lane
+housenumber: "325"
+phone: (831) 757-4107
+opening_hours: Mo-Fr 9:00-17:00
+website: https://www.pbifurniture.com/

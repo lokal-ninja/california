@@ -1,11 +1,11 @@
 id: 461653735
-type: way
+type: node
 latitude: 38.57087
 longitude: -121.48819
 postcode: "95814"
 city: Sacramento
-street: "16th Street"
-housenumber: 1617
+street: 16th Street
+housenumber: "1617"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 188709099
-type: way
+type: node
 latitude: 33.61505
 longitude: -117.9311
 postcode: "92663"
 city: Newport Beach
-street: "West Balboa Boulevard"
-housenumber: 3100
+street: West Balboa Boulevard
+housenumber: "3100"
 phone: ""
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://local.pavilions.com/ca/newport-beach/3100-w-balboa-blvd.html"
+opening_hours: Mo-Su 06:00-24:00
+website: https://local.pavilions.com/ca/newport-beach/3100-w-balboa-blvd.html

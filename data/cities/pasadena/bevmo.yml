@@ -1,11 +1,11 @@
 id: 457598993
-type: way
+type: node
 latitude: 34.13064
 longitude: -118.148
 postcode: "91105"
 city: Pasadena
-street: "South Arroyo Parkway"
-housenumber: 885
+street: South Arroyo Parkway
+housenumber: "885"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 129035629
-type: way
+type: node
 latitude: 34.41813
 longitude: -117.28282
 postcode: "92345"
 city: Hesperia
-street: "Main Street"
-housenumber: 17441
+street: Main Street
+housenumber: "17441"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.riteaid.com/locations/ca/hesperia/17441-main-street.html"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.riteaid.com/locations/ca/hesperia/17441-main-street.html

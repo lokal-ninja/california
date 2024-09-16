@@ -1,11 +1,11 @@
 id: 636658581
-type: way
+type: node
 latitude: 33.72333
 longitude: -117.85256
 postcode: "92705"
 city: Santa Ana
-street: "East Saint Andrew Place"
-housenumber: 1325
+street: East Saint Andrew Place
+housenumber: "1325"
 phone: ""
 opening_hours: ""
 website: ""

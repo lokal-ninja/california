@@ -1,11 +1,11 @@
 id: 253015222
-type: way
+type: node
 latitude: 38.60942
 longitude: -122.87313
 postcode: "95448"
 city: Healdsburg
-street: "Vine Street"
-housenumber: 1115
-phone: "+1 707-431-7102"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/ca/healdsburg/1115-vine-st.html"
+street: Vine Street
+housenumber: "1115"
+phone: +1 707-431-7102
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/ca/healdsburg/1115-vine-st.html

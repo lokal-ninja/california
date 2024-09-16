@@ -1,11 +1,11 @@
 id: 1049817645
-type: way
+type: node
 latitude: 37.89367
 longitude: -122.07602
 postcode: "94595"
 city: Walnut Creek
-street: "Boulevard Way"
-housenumber: 1248
-phone: "+1 925-939-1878"
+street: Boulevard Way
+housenumber: "1248"
+phone: +1 925-939-1878
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/walnut-creek/1248-boulevard-way-16990"
+website: https://www.7-eleven.com/locations/ca/walnut-creek/1248-boulevard-way-16990

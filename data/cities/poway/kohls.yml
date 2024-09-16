@@ -1,11 +1,11 @@
 id: 321717365
-type: way
+type: node
 latitude: 32.93881
 longitude: -117.04929
 postcode: "92064"
 city: Poway
-street: "Gregg Court"
-housenumber: 12880
-phone: "+1 858-668-2860"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/ca/poway-710.shtml"
+street: Gregg Court
+housenumber: "12880"
+phone: +1 858-668-2860
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/ca/poway-710.shtml

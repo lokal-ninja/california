@@ -1,11 +1,11 @@
 id: 238112857
-type: way
+type: node
 latitude: 38.60998
 longitude: -122.86936
 postcode: ""
 city: Healdsburg
-street: "Center Street"
-housenumber: 239
-phone: "(707) 433-6856"
-opening_hours: "10:00-20:00"
-website: "https://www.asimpletouchspa.com/"
+street: Center Street
+housenumber: "239"
+phone: (707) 433-6856
+opening_hours: 10:00-20:00
+website: https://www.asimpletouchspa.com/

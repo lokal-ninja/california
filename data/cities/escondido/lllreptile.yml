@@ -1,11 +1,11 @@
 id: 94333975
-type: way
+type: node
 latitude: 33.12301
 longitude: -117.08002
 postcode: "92025"
 city: Escondido
-street: "East Grand Avenue"
-housenumber: 214
+street: East Grand Avenue
+housenumber: "214"
 phone: ""
 opening_hours: ""
-website: "https://lllreptile.com/"
+website: https://lllreptile.com/

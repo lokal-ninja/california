@@ -4,8 +4,8 @@ latitude: 37.77644
 longitude: -122.4254
 postcode: "94102"
 city: San Francisco
-street: "Hayes Street"
-housenumber: 549
-phone: "+1 415-652-1747"
-opening_hours: "Mo-Sa 11:00-19:00; Su 11:00-18:00"
-website: "https://www.cotopaxi.com/"
+street: Hayes Street
+housenumber: "549"
+phone: +1 415-652-1747
+opening_hours: Mo-Sa 11:00-19:00; Su 11:00-18:00
+website: https://www.cotopaxi.com/

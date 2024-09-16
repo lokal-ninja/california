@@ -1,11 +1,11 @@
 id: 429647140
-type: way
+type: node
 latitude: 34.16448
 longitude: -118.39716
 postcode: "91607"
 city: North Hollywood
-street: "Magnolia Boulevard"
-housenumber: 12122
-phone: "+1-818-985-4780"
-opening_hours: "Mo-Su 07:00-23:00"
+street: Magnolia Boulevard
+housenumber: "12122"
+phone: +1-818-985-4780
+opening_hours: Mo-Su 07:00-23:00
 website: ""

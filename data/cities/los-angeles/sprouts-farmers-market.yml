@@ -4,8 +4,8 @@ latitude: 34.13566
 longitude: -118.21645
 postcode: "90041"
 city: Los Angeles
-street: "Yosemite Drive"
-housenumber: 2245
-phone: "+1 323-423-1128"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "http://sprouts.com/store/ca/los-angeles/eagle-rock/"
+street: Yosemite Drive
+housenumber: "2245"
+phone: +1 323-423-1128
+opening_hours: Mo-Su 07:00-22:00
+website: http://sprouts.com/store/ca/los-angeles/eagle-rock/

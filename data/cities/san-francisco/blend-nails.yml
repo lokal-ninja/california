@@ -4,8 +4,8 @@ latitude: 37.78902
 longitude: -122.40939
 postcode: ""
 city: San Francisco
-street: "Sutter Street"
-housenumber: 547
+street: Sutter Street
+housenumber: "547"
 phone: ""
-opening_hours: "Mo-Su 09:30-19:00"
+opening_hours: Mo-Su 09:30-19:00
 website: ""

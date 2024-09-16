@@ -1,11 +1,11 @@
 id: 1251926855
-type: way
+type: node
 latitude: 33.91676
 longitude: -118.11199
 postcode: "90242"
 city: Downey
-street: "Imperial Highway"
-housenumber: 10050
-phone: "+1-562-803-4513"
+street: Imperial Highway
+housenumber: "10050"
+phone: +1-562-803-4513
 opening_hours: ""
 website: ""

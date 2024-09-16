@@ -1,11 +1,11 @@
 id: 99426072
-type: way
+type: node
 latitude: 33.11553
 longitude: -117.10728
 postcode: "92029"
 city: Escondido
-street: "Autopark Wy"
-housenumber: 1515
+street: Autopark Wy
+housenumber: "1515"
 phone: ""
 opening_hours: ""
 website: ""

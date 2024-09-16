@@ -1,11 +1,11 @@
 id: 311695741
-type: way
+type: node
 latitude: 37.43079
 longitude: -120.77642
 postcode: "95315"
 city: Delhi
-street: "North Stephens Street"
-housenumber: 9764
+street: North Stephens Street
+housenumber: "9764"
 phone: ""
 opening_hours: ""
 website: ""

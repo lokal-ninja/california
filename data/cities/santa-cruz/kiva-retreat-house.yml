@@ -1,11 +1,12 @@
 id: 130892901
-type: way
+type: node
 latitude: 36.98065
 longitude: -122.01723
 postcode: ""
 city: Santa Cruz
-street: "Water Street"
-housenumber: 702
-phone: "+1-831-431-6385"
-opening_hours: "Mo-Tu 12:00-23:00, Th 12:00-23:00, Fr 12:00-00:00, Sa 11:00-00:00, Su 10:00-14:00 Womens' morning, Su 14:00-23:00"
-website: "https://www.kivaretreat.com/"
+street: Water Street
+housenumber: "702"
+phone: +1-831-431-6385
+opening_hours: Mo-Tu 12:00-23:00, Th 12:00-23:00, Fr 12:00-00:00, Sa 11:00-00:00,
+    Su 10:00-14:00 "Womens' morning", Su 14:00-23:00
+website: https://www.kivaretreat.com/

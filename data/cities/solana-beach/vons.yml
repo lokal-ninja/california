@@ -1,11 +1,11 @@
 id: 133180403
-type: way
+type: node
 latitude: 32.9938
 longitude: -117.25497
 postcode: "92075"
 city: Solana Beach
-street: "Lomas Santa Fe Drive"
-housenumber: 931
-phone: "+1 858-481-1008"
+street: Lomas Santa Fe Drive
+housenumber: "931"
+phone: +1 858-481-1008
 opening_hours: ""
-website: "https://local.vons.com/ca/solana-beach-2327.html"
+website: https://local.vons.com/ca/solana-beach-2327.html

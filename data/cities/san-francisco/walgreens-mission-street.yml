@@ -4,8 +4,8 @@ latitude: 37.79001
 longitude: -122.39755
 postcode: ""
 city: San Francisco
-street: "Mission Street"
-housenumber: 456
+street: Mission Street
+housenumber: "456"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 09:00-17:00"
-website: "https://www.walgreens.com/locator/walgreens-456+mission+st-san+francisco-ca-94105/id=4275"
+opening_hours: Mo-Fr 07:00-20:00; Sa 09:00-17:00
+website: https://www.walgreens.com/locator/walgreens-456+mission+st-san+francisco-ca-94105/id=4275

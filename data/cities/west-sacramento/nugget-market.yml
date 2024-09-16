@@ -1,11 +1,11 @@
 id: 120610528
-type: way
+type: node
 latitude: 38.55098
 longitude: -121.53597
 postcode: "95691"
 city: West Sacramento
 street: ""
-housenumber: 2000
-phone: "+1 916 375 8700"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.nuggetmarket.com/locations/west-sacramento/"
+housenumber: "2000"
+phone: +1 916 375 8700
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.nuggetmarket.com/locations/west-sacramento/

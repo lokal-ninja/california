@@ -1,11 +1,11 @@
 id: 231754149
-type: way
+type: node
 latitude: 37.3757
 longitude: -122.02868
 postcode: "94086"
 city: Sunnyvale
-street: "East Washington Avenue"
-housenumber: 217
+street: East Washington Avenue
+housenumber: "217"
 phone: ""
 opening_hours: ""
 website: ""

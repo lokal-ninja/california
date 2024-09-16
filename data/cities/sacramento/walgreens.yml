@@ -1,11 +1,11 @@
 id: 82443706
-type: way
+type: node
 latitude: 38.65648
 longitude: -121.54199
 postcode: "95835"
 city: Sacramento
-street: "Del Paso Road"
-housenumber: 3521
+street: Del Paso Road
+housenumber: "3521"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-3521+del+paso+rd-sacramento-ca-95835/id=10114"
+website: https://www.walgreens.com/locator/walgreens-3521+del+paso+rd-sacramento-ca-95835/id=10114

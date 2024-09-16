@@ -1,11 +1,11 @@
 id: 658080663
-type: way
+type: node
 latitude: 40.17785
 longitude: -122.23706
 postcode: "96080"
 city: Red Bluff
-street: "Walnut Street"
-housenumber: 418
-phone: "+1 (530) 528-2069"
+street: Walnut Street
+housenumber: "418"
+phone: +1 (530) 528-2069
 opening_hours: ""
-website: "https://www.holbrooksclearancecenter.com/"
+website: https://www.holbrooksclearancecenter.com/

@@ -1,11 +1,11 @@
 id: 206011315
-type: way
+type: node
 latitude: 37.387
 longitude: -122.08268
 postcode: "94041"
 city: Mountain View
-street: "Castro Street"
-housenumber: 799
+street: Castro Street
+housenumber: "799"
 phone: ""
 opening_hours: ""
-website: "https://spanglermortuary.com/53/Mountain-View-Chapel.html"
+website: https://spanglermortuary.com/53/Mountain-View-Chapel.html

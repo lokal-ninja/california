@@ -4,8 +4,9 @@ latitude: 33.78005
 longitude: -118.26734
 postcode: "90744"
 city: Wilmington
-street: "West Anaheim Street"
-housenumber: 401
-phone: "+1 310-952-9900"
-opening_hours: "Mo 08:00-21:00; Tu 07:00-21:00; We 08:00-21:00; Th 07:00-21:00; Fr-Su 08:00-21:00"
-website: "https://locations.99only.com/ca/wilmington/discount-store-283.html"
+street: West Anaheim Street
+housenumber: "401"
+phone: +1 310-952-9900
+opening_hours: Mo 08:00-21:00; Tu 07:00-21:00; We 08:00-21:00; Th 07:00-21:00; Fr-Su
+    08:00-21:00
+website: https://locations.99only.com/ca/wilmington/discount-store-283.html

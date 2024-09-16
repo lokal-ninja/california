@@ -1,11 +1,11 @@
 id: 311695264
-type: way
+type: node
 latitude: 37.32511
 longitude: -120.55064
 postcode: "95301"
 city: Atwater
-street: "North Ashby Road"
-housenumber: 2550
+street: North Ashby Road
+housenumber: "2550"
 phone: ""
 opening_hours: ""
 website: ""

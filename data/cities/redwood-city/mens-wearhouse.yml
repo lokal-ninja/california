@@ -4,8 +4,8 @@ latitude: 37.47376
 longitude: -122.21724
 postcode: "94061"
 city: Redwood City
-street: "El Camino Real"
-housenumber: 2505
-phone: "(650) 364-8887"
+street: El Camino Real
+housenumber: "2505"
+phone: (650) 364-8887
 opening_hours: ""
-website: "https://www.menswearhouse.com/"
+website: https://www.menswearhouse.com/

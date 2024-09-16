@@ -1,11 +1,11 @@
 id: 259003491
-type: way
+type: node
 latitude: 38.87167
 longitude: -121.30335
 postcode: "95648"
 city: Lincoln
-street: "Groveland Lane"
-housenumber: 900
+street: Groveland Lane
+housenumber: "900"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ca/lincoln/autoparts-3683.html"
+website: https://locations.oreillyauto.com/ca/lincoln/autoparts-3683.html

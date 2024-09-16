@@ -1,11 +1,11 @@
 id: 321557557
-type: way
+type: node
 latitude: 34.21611
 longitude: -118.44717
 postcode: "91402"
 city: Van Nuys
-street: "Van Nuys Boulevard"
-housenumber: 7884
-phone: "+1 818-901-0490"
-opening_hours: "09:00-23:00"
+street: Van Nuys Boulevard
+housenumber: "7884"
+phone: +1 818-901-0490
+opening_hours: 09:00-23:00
 website: ""

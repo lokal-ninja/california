@@ -1,11 +1,11 @@
 id: 578841687
-type: way
+type: node
 latitude: 36.60484
 longitude: -119.44044
 postcode: "93654"
 city: Reedley
-street: "East Manning Avenue"
-housenumber: 852
-phone: "+1 559 643 0367"
-opening_hours: "08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-852+e+manning+ave-reedley-ca-93654/id=12298"
+street: East Manning Avenue
+housenumber: "852"
+phone: +1 559 643 0367
+opening_hours: 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-852+e+manning+ave-reedley-ca-93654/id=12298

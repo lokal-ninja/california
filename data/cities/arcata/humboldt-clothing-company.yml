@@ -1,11 +1,11 @@
 id: 672807365
-type: way
+type: node
 latitude: 40.86972
 longitude: -124.08668
 postcode: "95521"
 city: Arcata
-street: "H Street"
-housenumber: 987
-phone: "+1 (707) 822-3090"
+street: H Street
+housenumber: "987"
+phone: +1 (707) 822-3090
 opening_hours: ""
-website: "https://www.humboldtclothing.com/"
+website: https://www.humboldtclothing.com/

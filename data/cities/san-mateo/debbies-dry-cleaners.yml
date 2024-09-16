@@ -4,8 +4,8 @@ latitude: 37.55234
 longitude: -122.3137
 postcode: "94402"
 city: San Mateo
-street: "17th Avenue"
-housenumber: 8
+street: 17th Avenue
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.sanmateotailoring.com/"
+website: https://www.sanmateotailoring.com/

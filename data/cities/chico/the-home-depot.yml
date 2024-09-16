@@ -1,11 +1,11 @@
 id: 85462261
-type: way
+type: node
 latitude: 39.71305
 longitude: -121.79552
 postcode: "95928"
 city: Chico
-street: "Notre Dame Boulevard"
-housenumber: 2580
-phone: "+1 530-342-0477"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Chico/CA/Chico/95928/6609"
+street: Notre Dame Boulevard
+housenumber: "2580"
+phone: +1 530-342-0477
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Chico/CA/Chico/95928/6609

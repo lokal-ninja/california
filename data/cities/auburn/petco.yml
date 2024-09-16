@@ -1,11 +1,11 @@
 id: 86199032
-type: way
+type: node
 latitude: 38.93884
 longitude: -121.09755
 postcode: ""
 city: Auburn
-street: "Bell Avenue"
-housenumber: 2635
-phone: "+1 530-745-9830"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ca/auburn/pet-supplies-auburn-ca-1251.html"
+street: Bell Avenue
+housenumber: "2635"
+phone: +1 530-745-9830
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/ca/auburn/pet-supplies-auburn-ca-1251.html

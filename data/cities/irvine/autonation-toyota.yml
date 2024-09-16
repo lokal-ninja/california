@@ -1,11 +1,11 @@
 id: 352338454
-type: way
+type: node
 latitude: 33.63945
 longitude: -117.73648
 postcode: "92618"
 city: Irvine
-street: "Research Drive"
-housenumber: 9101
-phone: "+1 833-759-1698"
+street: Research Drive
+housenumber: "9101"
+phone: +1 833-759-1698
 opening_hours: ""
-website: "https://www.autonation.com/dealers/toyota-irvine-ca"
+website: https://www.autonation.com/dealers/toyota-irvine-ca

@@ -4,8 +4,8 @@ latitude: 37.35308
 longitude: -121.88608
 postcode: "95112"
 city: San Jose
-street: "North 13th Street"
-housenumber: 602
-phone: "+1-408-294-7757"
-opening_hours: "04:00-12:00"
-website: "https://rollosdonuts.com"
+street: North 13th Street
+housenumber: "602"
+phone: +1-408-294-7757
+opening_hours: 04:00-12:00
+website: https://rollosdonuts.com

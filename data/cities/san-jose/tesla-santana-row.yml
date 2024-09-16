@@ -1,11 +1,11 @@
 id: 200858182
-type: way
+type: node
 latitude: 37.32221
 longitude: -121.94799
 postcode: "95128"
 city: San Jose
-street: "Santana Row"
-housenumber: 333
-phone: "+1 408-249-2815"
-opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-19:00"
-website: "https://www.tesla.com/findus/location/store/santanarow"
+street: Santana Row
+housenumber: "333"
+phone: +1 408-249-2815
+opening_hours: Mo-Sa 10:00-19:00; Su 11:00-19:00
+website: https://www.tesla.com/findus/location/store/santanarow

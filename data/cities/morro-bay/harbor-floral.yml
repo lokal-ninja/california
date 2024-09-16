@@ -1,11 +1,11 @@
 id: 319786448
-type: way
+type: node
 latitude: 35.36647
 longitude: -120.84746
 postcode: "93442"
 city: Morro Bay
-street: "Napa Avenue"
-housenumber: 868
+street: Napa Avenue
+housenumber: "868"
 phone: ""
 opening_hours: ""
 website: ""

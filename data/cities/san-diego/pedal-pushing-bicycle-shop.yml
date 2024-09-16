@@ -1,11 +1,11 @@
 id: 31809809
-type: way
+type: node
 latitude: 32.7684
 longitude: -117.04768
 postcode: "92115"
 city: San Diego
-street: "El Cajon Boulevard"
-housenumber: 6969
-phone: "(619) 460-0760"
+street: El Cajon Boulevard
+housenumber: "6969"
+phone: (619) 460-0760
 opening_hours: ""
 website: ""

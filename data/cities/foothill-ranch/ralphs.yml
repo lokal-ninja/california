@@ -1,11 +1,11 @@
 id: 331157866
-type: way
+type: node
 latitude: 33.68071
 longitude: -117.6631
 postcode: "92610"
 city: Foothill Ranch
-street: "Portola Parkway"
-housenumber: 26751
-phone: "+1 949-457-9349"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.ralphs.com/stores/grocery/ca/foothill-ranch/foothill-marketplace/703/00099"
+street: Portola Parkway
+housenumber: "26751"
+phone: +1 949-457-9349
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.ralphs.com/stores/grocery/ca/foothill-ranch/foothill-marketplace/703/00099

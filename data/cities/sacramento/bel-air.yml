@@ -1,11 +1,11 @@
 id: 1071339368
-type: way
+type: node
 latitude: 38.52542
 longitude: -121.43231
 postcode: ""
 city: Sacramento
-street: "Fruitridge Road"
-housenumber: 6231
+street: Fruitridge Road
+housenumber: "6231"
 phone: "+19167398647"
-opening_hours: "Mo-Su 06:00-23:00"
+opening_hours: Mo-Su 06:00-23:00
 website: ""

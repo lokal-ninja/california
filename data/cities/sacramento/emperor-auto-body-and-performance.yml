@@ -4,8 +4,8 @@ latitude: 38.50454
 longitude: -121.47279
 postcode: "95823"
 city: Sacramento
-street: "51st Avenue"
-housenumber: 3210
+street: 51st Avenue
+housenumber: "3210"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

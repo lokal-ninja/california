@@ -1,11 +1,11 @@
 id: 407557223
-type: way
+type: node
 latitude: 33.83555
 longitude: -117.85159
 postcode: "92865"
 city: Orange
-street: "East Lincoln Avenue"
-housenumber: 150
-phone: "+1-714-283-8600"
+street: East Lincoln Avenue
+housenumber: "150"
+phone: +1-714-283-8600
 opening_hours: ""
-website: "https://www.orangemotors.net/"
+website: https://www.orangemotors.net/

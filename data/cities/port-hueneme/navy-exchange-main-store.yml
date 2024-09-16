@@ -1,11 +1,11 @@
 id: 1305304103
-type: way
+type: node
 latitude: 34.16719
 longitude: -119.1976
 postcode: "93043"
 city: Port Hueneme
-street: "23rd Avenue"
-housenumber: 130
-phone: "+1-805-982-6801"
+street: 23rd Avenue
+housenumber: "130"
+phone: +1-805-982-6801
 opening_hours: ""
-website: "https://www.mynavyexchange.com/storelocator/storesearch.jsp?displayDetails=true&storeid=335"
+website: https://www.mynavyexchange.com/storelocator/storesearch.jsp?displayDetails=true&storeid=335

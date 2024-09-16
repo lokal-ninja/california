@@ -4,8 +4,8 @@ latitude: 36.67217
 longitude: -121.65538
 postcode: "93901"
 city: Salinas
-street: "Salinas Street"
-housenumber: 385
+street: Salinas Street
+housenumber: "385"
 phone: ""
 opening_hours: ""
-website: "https://grapesngrain.com/"
+website: https://grapesngrain.com/

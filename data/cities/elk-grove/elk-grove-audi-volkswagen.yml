@@ -1,11 +1,11 @@
 id: 149612294
-type: way
+type: node
 latitude: 38.4038
 longitude: -121.38672
 postcode: "95757"
 city: Elk Grove
-street: "West Stockton Boulevard"
-housenumber: 9776
+street: West Stockton Boulevard
+housenumber: "9776"
 phone: ""
 opening_hours: ""
 website: ""

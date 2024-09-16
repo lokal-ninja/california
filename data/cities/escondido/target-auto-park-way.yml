@@ -1,11 +1,11 @@
 id: 102946916
-type: way
+type: node
 latitude: 33.11389
 longitude: -117.1
 postcode: "92029"
 city: Escondido
-street: "Auto Park Way"
-housenumber: 1280
-phone: "+1 760-489-6119"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/escondido/274"
+street: Auto Park Way
+housenumber: "1280"
+phone: +1 760-489-6119
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/escondido/274

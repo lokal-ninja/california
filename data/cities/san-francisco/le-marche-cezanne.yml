@@ -4,8 +4,8 @@ latitude: 37.76265
 longitude: -122.39718
 postcode: "94107"
 city: San Francisco
-street: "18th Street"
-housenumber: 1426
-phone: "+1-415-361-1496"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://www.lemarchecezanne.com/"
+street: 18th Street
+housenumber: "1426"
+phone: +1-415-361-1496
+opening_hours: Mo-Su 08:00-20:00
+website: https://www.lemarchecezanne.com/

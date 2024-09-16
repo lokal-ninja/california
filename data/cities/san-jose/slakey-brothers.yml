@@ -1,11 +1,11 @@
 id: 1077825480
-type: way
+type: node
 latitude: 37.36186
 longitude: -121.87118
 postcode: "95133"
 city: San Jose
-street: "Nicora Avenue"
-housenumber: 1480
+street: Nicora Avenue
+housenumber: "1480"
 phone: ""
 opening_hours: ""
 website: ""

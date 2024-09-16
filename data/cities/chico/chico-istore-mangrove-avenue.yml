@@ -1,11 +1,11 @@
 id: 461298622
-type: way
+type: node
 latitude: 39.74992
 longitude: -121.84395
 postcode: "95926"
 city: Chico
-street: "Mangrove Avenue"
-housenumber: 1900
+street: Mangrove Avenue
+housenumber: "1900"
 phone: ""
-opening_hours: "10:00-18:00"
+opening_hours: 10:00-18:00
 website: ""

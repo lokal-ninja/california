@@ -1,11 +1,11 @@
 id: 1203538929
-type: way
+type: node
 latitude: 41.92457
 longitude: -124.14088
 postcode: ""
 city: Smith River
-street: "Timbers Boulevard"
-housenumber: 100
+street: Timbers Boulevard
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ca/smith-river/16787"
+website: https://www.dollargeneral.com/store-directory/ca/smith-river/16787

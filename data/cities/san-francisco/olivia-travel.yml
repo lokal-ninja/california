@@ -1,11 +1,11 @@
 id: 124889482
-type: way
+type: node
 latitude: 37.77964
 longitude: -122.39566
 postcode: "94107"
 city: San Francisco
-street: "Brannan Street"
-housenumber: 434
+street: Brannan Street
+housenumber: "434"
 phone: ""
 opening_hours: ""
 website: ""

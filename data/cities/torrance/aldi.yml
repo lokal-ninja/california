@@ -1,11 +1,11 @@
 id: 984086006
-type: way
+type: node
 latitude: 33.80257
 longitude: -118.32731
 postcode: "90509"
 city: Torrance
-street: "Crenshaw Boulevard"
-housenumber: 24610
-phone: "+1 833-479-7007"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://stores.aldi.us/ca/torrance/24610-crenshaw-blvd"
+street: Crenshaw Boulevard
+housenumber: "24610"
+phone: +1 833-479-7007
+opening_hours: Mo-Su 09:00-21:00
+website: https://stores.aldi.us/ca/torrance/24610-crenshaw-blvd

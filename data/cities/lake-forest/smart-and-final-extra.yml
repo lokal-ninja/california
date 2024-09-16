@@ -1,11 +1,11 @@
 id: 138516506
-type: way
+type: node
 latitude: 33.62151
 longitude: -117.70394
 postcode: "92630"
 city: Lake Forest
-street: "El Toro Road"
-housenumber: 23631
-phone: "+1 949-770-8281"
-opening_hours: "06:00-22:00"
-website: "https://smartandfinal.com/"
+street: El Toro Road
+housenumber: "23631"
+phone: +1 949-770-8281
+opening_hours: 06:00-22:00
+website: https://smartandfinal.com/

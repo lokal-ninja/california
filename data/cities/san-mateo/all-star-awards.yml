@@ -1,11 +1,11 @@
 id: 387064102
-type: way
+type: node
 latitude: 37.55346
 longitude: -122.31241
 postcode: "94402"
 city: San Mateo
-street: "South Boulevard"
-housenumber: 106
+street: South Boulevard
+housenumber: "106"
 phone: ""
 opening_hours: ""
-website: "https://www.rallstarawards.com/"
+website: https://www.rallstarawards.com/

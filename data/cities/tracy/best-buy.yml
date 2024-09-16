@@ -1,11 +1,11 @@
 id: 252944092
-type: way
+type: node
 latitude: 37.75656
 longitude: -121.46023
 postcode: "95304"
 city: Tracy
-street: "Naglee Road"
-housenumber: 2550
-phone: "+1 209-832-2166"
+street: Naglee Road
+housenumber: "2550"
+phone: +1 209-832-2166
 opening_hours: ""
-website: "https://stores.bestbuy.com/ca/tracy/2550-naglee-rd-391.html"
+website: https://stores.bestbuy.com/ca/tracy/2550-naglee-rd-391.html

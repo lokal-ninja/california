@@ -1,11 +1,11 @@
 id: 429314899
-type: way
+type: node
 latitude: 34.04072
 longitude: -118.18735
 postcode: "90063"
 city: Los Angeles
-street: "Cesar E Chavez Avenue"
-housenumber: 3555
+street: Cesar E Chavez Avenue
+housenumber: "3555"
 phone: ""
 opening_hours: ""
 website: ""

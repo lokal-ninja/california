@@ -1,11 +1,11 @@
 id: 259003233
-type: way
+type: node
 latitude: 38.8713
 longitude: -121.30428
 postcode: "95648"
 city: Lincoln
-street: "Groveland Lane"
-housenumber: 920
-phone: "+1 916-543-6411"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ca/lincoln-store1600.html"
+street: Groveland Lane
+housenumber: "920"
+phone: +1 916-543-6411
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ca/lincoln-store1600.html

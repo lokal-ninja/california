@@ -1,11 +1,11 @@
 id: 453360395
-type: way
+type: node
 latitude: 40.62685
 longitude: -122.40467
 postcode: "96003"
 city: Redding
-street: "Lake Boulevard"
-housenumber: 1495
+street: Lake Boulevard
+housenumber: "1495"
 phone: ""
 opening_hours: ""
 website: ""

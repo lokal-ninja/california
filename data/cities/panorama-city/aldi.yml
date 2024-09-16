@@ -1,11 +1,11 @@
 id: 935180197
-type: way
+type: node
 latitude: 34.22073
 longitude: -118.45164
-postcode: "91402-4105"
+postcode: 91402-4105
 city: Panorama City
-street: "Roscoe Boulevard"
-housenumber: 14626
-phone: "+1 833-479-7087"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://stores.aldi.us/ca/panorama-city/14626-roscoe-blvd"
+street: Roscoe Boulevard
+housenumber: "14626"
+phone: +1 833-479-7087
+opening_hours: Mo-Su 09:00-21:00
+website: https://stores.aldi.us/ca/panorama-city/14626-roscoe-blvd

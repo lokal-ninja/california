@@ -1,11 +1,11 @@
 id: 370775650
-type: way
+type: node
 latitude: 35.25158
 longitude: -120.68318
 postcode: "93405"
 city: San Luis Obispo
-street: "Auto Park Way"
-housenumber: 1404
-phone: "(888) 830-5236"
+street: Auto Park Way
+housenumber: "1404"
+phone: (888) 830-5236
 opening_hours: ""
-website: "https://www.ranchograndesubaru.com/"
+website: https://www.ranchograndesubaru.com/

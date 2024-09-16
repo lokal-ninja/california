@@ -1,11 +1,11 @@
 id: 253702561
-type: way
+type: node
 latitude: 38.45678
 longitude: -121.83943
 postcode: "95620"
 city: Dixon
-street: "Stratford Avenue"
-housenumber: 1235
-phone: "+1 707-678-7400"
-opening_hours: "Mo-Su 05:00-24:00"
-website: "https://local.safeway.com/safeway/ca/dixon/1235-stratford-ave.html"
+street: Stratford Avenue
+housenumber: "1235"
+phone: +1 707-678-7400
+opening_hours: Mo-Su 05:00-24:00
+website: https://local.safeway.com/safeway/ca/dixon/1235-stratford-ave.html

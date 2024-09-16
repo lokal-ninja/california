@@ -1,11 +1,11 @@
 id: 255946343
-type: way
+type: node
 latitude: 38.58313
 longitude: -121.2824
 postcode: "95670"
 city: Rancho Cordova
-street: "Zinfandel Drive"
-housenumber: 3251
-phone: "+1 916-267-2850"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/ca-rancho-cordova/2341"
+street: Zinfandel Drive
+housenumber: "3251"
+phone: +1 916-267-2850
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/ca-rancho-cordova/2341

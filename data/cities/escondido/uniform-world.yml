@@ -1,11 +1,11 @@
 id: 96508962
-type: way
+type: node
 latitude: 33.12251
 longitude: -117.07824
 postcode: "92025"
 city: Escondido
-street: "South Juniper Street"
-housenumber: 132
+street: South Juniper Street
+housenumber: "132"
 phone: ""
 opening_hours: ""
 website: ""

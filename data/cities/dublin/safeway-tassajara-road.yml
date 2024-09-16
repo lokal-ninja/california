@@ -1,11 +1,11 @@
 id: 253587333
-type: way
+type: node
 latitude: 37.70704
 longitude: -121.8744
 postcode: "94568"
 city: Dublin
-street: "Tassajara Road"
-housenumber: 4440
-phone: "+1 925-551-4710"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/ca/dublin/4440-tassajara-rd.html"
+street: Tassajara Road
+housenumber: "4440"
+phone: +1 925-551-4710
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/ca/dublin/4440-tassajara-rd.html

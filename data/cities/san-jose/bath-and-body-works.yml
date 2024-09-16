@@ -4,8 +4,8 @@ latitude: 37.325
 longitude: -121.81415
 postcode: "95122"
 city: San Jose
-street: "Eastridge Loop"
-housenumber: 2200
-phone: "+1 408-528-7631"
-opening_hours: "Mo-Th 10:00-20:00; Fr-Sa 10:00-21:00; Su 11:00-19:00"
+street: Eastridge Loop
+housenumber: "2200"
+phone: +1 408-528-7631
+opening_hours: Mo-Th 10:00-20:00; Fr-Sa 10:00-21:00; Su 11:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 322151163
-type: way
+type: node
 latitude: 34.19996
 longitude: -118.38302
 postcode: "91605"
 city: North Hollywood
-street: "Sherman Way"
-housenumber: 11600
-phone: "+1 818-764-9600"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-21:00"
-website: "https://www.homedepot.com/l/N-Hollywood/CA/North-Hollywood/91605/6613"
+street: Sherman Way
+housenumber: "11600"
+phone: +1 818-764-9600
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-21:00
+website: https://www.homedepot.com/l/N-Hollywood/CA/North-Hollywood/91605/6613

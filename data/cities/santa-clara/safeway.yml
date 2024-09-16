@@ -1,11 +1,11 @@
 id: 239727558
-type: way
+type: node
 latitude: 37.34496
 longitude: -121.93661
 postcode: "95050"
 city: Santa Clara
-street: "The Alameda"
-housenumber: 2605
-phone: "+1 408-244-6873"
-opening_hours: "06:00-02:00,05:00-02:00"
-website: "https://local.safeway.com/safeway/ca/santa-clara/2605-the-alameda-ave.html"
+street: The Alameda
+housenumber: "2605"
+phone: +1 408-244-6873
+opening_hours: 06:00-02:00,05:00-02:00
+website: https://local.safeway.com/safeway/ca/santa-clara/2605-the-alameda-ave.html

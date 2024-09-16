@@ -1,11 +1,11 @@
 id: 172250602
-type: way
+type: node
 latitude: 37.7775
 longitude: -122.40981
 postcode: "94103"
 city: San Francisco
-street: "Howard Street"
-housenumber: 1121
+street: Howard Street
+housenumber: "1121"
 phone: ""
 opening_hours: ""
-website: "https://www.arttitud.com/"
+website: https://www.arttitud.com/

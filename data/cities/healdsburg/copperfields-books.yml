@@ -1,11 +1,11 @@
 id: 238038450
-type: way
+type: node
 latitude: 38.61031
 longitude: -122.87016
 postcode: ""
 city: Healdsburg
-street: "Matheson Street"
-housenumber: 106
-phone: "707 433-9270"
-opening_hours: "Su-Th 9:00-19:00; Fr-Sa 9:00-20:00"
-website: "https://www.copperfieldsbooks.com/stores/healdsburg"
+street: Matheson Street
+housenumber: "106"
+phone: 707 433-9270
+opening_hours: Su-Th 9:00-19:00; Fr-Sa 9:00-20:00
+website: https://www.copperfieldsbooks.com/stores/healdsburg

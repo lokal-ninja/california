@@ -4,8 +4,8 @@ latitude: 37.35363
 longitude: -121.99865
 postcode: "95051"
 city: Santa Clara
-street: "El Camino Real"
-housenumber: 3735
-phone: "+1 408-247-0389"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/ca/santa-clara/3735-el-camino-real"
+street: El Camino Real
+housenumber: "3735"
+phone: +1 408-247-0389
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/ca/santa-clara/3735-el-camino-real

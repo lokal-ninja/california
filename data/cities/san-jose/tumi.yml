@@ -1,11 +1,11 @@
 id: 200858184
-type: way
+type: node
 latitude: 37.32239
 longitude: -121.94833
 postcode: "95128"
 city: San Jose
-street: "Santana Row"
-housenumber: 333
-phone: "+1 408-244-6512"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-19:00"
-website: "https://www.tumi.com/store/0000001195"
+street: Santana Row
+housenumber: "333"
+phone: +1 408-244-6512
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-19:00
+website: https://www.tumi.com/store/0000001195

@@ -1,11 +1,11 @@
 id: 223413254
-type: way
+type: node
 latitude: 38.91137
 longitude: -120.0095
 postcode: "96150"
 city: South Lake Tahoe
-street: "Lake Tahoe Boulevard"
-housenumber: 1875
-phone: "+1-530-541-4349"
+street: Lake Tahoe Boulevard
+housenumber: "1875"
+phone: +1-530-541-4349
 opening_hours: ""
-website: "https://diyhomecenter.net/south-lake-tahoe/"
+website: https://diyhomecenter.net/south-lake-tahoe/

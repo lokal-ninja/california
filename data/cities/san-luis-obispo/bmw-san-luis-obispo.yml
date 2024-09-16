@@ -1,11 +1,11 @@
 id: 769473574
-type: way
+type: node
 latitude: 35.25104
 longitude: -120.68043
 postcode: "93405"
 city: San Luis Obispo
-street: "Calle Joaquin"
-housenumber: 1251
+street: Calle Joaquin
+housenumber: "1251"
 phone: ""
 opening_hours: ""
 website: ""

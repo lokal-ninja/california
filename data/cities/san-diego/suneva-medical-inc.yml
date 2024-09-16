@@ -1,11 +1,11 @@
 id: 31841277
-type: way
+type: node
 latitude: 32.90453
 longitude: -117.19313
 postcode: "92121"
 city: San Diego
-street: "Pacific Center Boulevard"
-housenumber: 5870
+street: Pacific Center Boulevard
+housenumber: "5870"
 phone: "+18585509999"
 opening_hours: ""
-website: "https://www.sunevamedical.com/"
+website: https://www.sunevamedical.com/

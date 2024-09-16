@@ -4,8 +4,8 @@ latitude: 34.03928
 longitude: -118.44165
 postcode: "90025"
 city: Los Angeles
-street: "Sawtelle Boulevard"
-housenumber: 2130
-phone: "+1-310-312-6668"
-opening_hours: "Mo-Th 10:30-22:00; Fr-Su 10:00-22:00"
-website: "https://www.beardpapas.com/sawtelle"
+street: Sawtelle Boulevard
+housenumber: "2130"
+phone: +1-310-312-6668
+opening_hours: Mo-Th 10:30-22:00; Fr-Su 10:00-22:00
+website: https://www.beardpapas.com/sawtelle

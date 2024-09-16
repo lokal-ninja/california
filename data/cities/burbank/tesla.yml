@@ -1,11 +1,11 @@
 id: 471940620
-type: way
+type: node
 latitude: 34.17481
 longitude: -118.30087
 postcode: "91501"
 city: Burbank
-street: "South San Fernando Boulevard"
-housenumber: 811
+street: South San Fernando Boulevard
+housenumber: "811"
 phone: ""
 opening_hours: ""
 website: ""

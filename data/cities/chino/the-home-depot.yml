@@ -1,11 +1,11 @@
 id: 1253793169
-type: way
+type: node
 latitude: 33.98808
 longitude: -117.70433
 postcode: "91710"
 city: Chino
-street: "Ramona Avenue"
-housenumber: 14549
-phone: "+1 909-393-5205"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/South-Chino/CA/Chino/91710/6876"
+street: Ramona Avenue
+housenumber: "14549"
+phone: +1 909-393-5205
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/South-Chino/CA/Chino/91710/6876

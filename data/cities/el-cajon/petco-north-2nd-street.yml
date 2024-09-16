@@ -1,11 +1,11 @@
 id: 995061677
-type: way
+type: node
 latitude: 32.80135
 longitude: -116.93722
 postcode: "92021"
 city: El Cajon
-street: "North 2nd Street"
-housenumber: 540
-phone: "+1 619-441-5200"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ca/elcajon/pet-supplies-elcajon-ca-924.html"
+street: North 2nd Street
+housenumber: "540"
+phone: +1 619-441-5200
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/ca/elcajon/pet-supplies-elcajon-ca-924.html

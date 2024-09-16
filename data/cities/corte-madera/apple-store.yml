@@ -4,8 +4,8 @@ latitude: 37.92863
 longitude: -122.51413
 postcode: "94925"
 city: Corte Madera
-street: "Redwood Highway"
-housenumber: 1520
-phone: "+1 415-413-9120;+1 415-927-5820"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://www.apple.com/retail/cortemadera"
+street: Redwood Highway
+housenumber: "1520"
+phone: +1 415-413-9120;+1 415-927-5820
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 11:00-18:00
+website: https://www.apple.com/retail/cortemadera

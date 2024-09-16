@@ -4,8 +4,8 @@ latitude: 37.77201
 longitude: -122.41213
 postcode: "94103"
 city: San Francisco
-street: "10th Street"
-housenumber: 358
+street: 10th Street
+housenumber: "358"
 phone: ""
 opening_hours: ""
 website: ""

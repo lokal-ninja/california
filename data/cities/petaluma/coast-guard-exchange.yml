@@ -1,11 +1,11 @@
 id: 638301568
-type: way
+type: node
 latitude: 38.2492
 longitude: -122.79652
 postcode: ""
 city: Petaluma
-street: "Tomales Road"
-housenumber: 599
+street: Tomales Road
+housenumber: "599"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00, Sa-Su 09:00-19:00"
-website: "https://shopcgx.com/store-locations.html"
+opening_hours: Mo-Fr 07:00-19:00, Sa-Su 09:00-19:00
+website: https://shopcgx.com/store-locations.html

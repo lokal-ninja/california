@@ -1,11 +1,11 @@
 id: 518479685
-type: way
+type: node
 latitude: 40.58684
 longitude: -122.40042
 postcode: "96001"
 city: Redding
-street: "Eureka Way"
-housenumber: 2026
+street: Eureka Way
+housenumber: "2026"
 phone: ""
 opening_hours: ""
 website: ""

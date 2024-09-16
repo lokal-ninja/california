@@ -1,11 +1,11 @@
 id: 470398807
-type: way
+type: node
 latitude: 37.74063
 longitude: -122.14768
 postcode: "94577"
 city: San Leandro
-street: "MacArthur Boulevard"
-housenumber: 296
+street: MacArthur Boulevard
+housenumber: "296"
 phone: ""
 opening_hours: ""
 website: ""

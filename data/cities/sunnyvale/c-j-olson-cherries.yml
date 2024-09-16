@@ -1,11 +1,11 @@
 id: 207251571
-type: way
+type: node
 latitude: 37.35673
 longitude: -122.02574
 postcode: "94087"
 city: Sunnyvale
-street: "East Remington Drive"
-housenumber: 560
+street: East Remington Drive
+housenumber: "560"
 phone: ""
 opening_hours: ""
-website: "https://www.cjolsoncherries.com/"
+website: https://www.cjolsoncherries.com/

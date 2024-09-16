@@ -1,11 +1,11 @@
 id: 957710410
-type: way
+type: node
 latitude: 32.79469
 longitude: -116.94869
 postcode: "92020"
 city: El Cajon
-street: "East Main Street"
-housenumber: 993
+street: East Main Street
+housenumber: "993"
 phone: "+16194420212"
 opening_hours: ""
 website: ""

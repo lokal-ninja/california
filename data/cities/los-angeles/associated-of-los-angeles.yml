@@ -1,11 +1,11 @@
 id: 426857677
-type: way
+type: node
 latitude: 34.02577
 longitude: -118.22216
 postcode: ""
 city: Los Angeles
-street: "East Olympic Blvd."
-housenumber: 2585
-phone: "+1 323-268-8411"
-opening_hours: "Mo-Fr 06:00-16:30"
-website: "https://www.turtle.com/contact-us/contact-us-los-angeles"
+street: East Olympic Blvd.
+housenumber: "2585"
+phone: +1 323-268-8411
+opening_hours: Mo-Fr 06:00-16:30
+website: https://www.turtle.com/contact-us/contact-us-los-angeles

@@ -1,11 +1,11 @@
 id: 444637203
-type: way
+type: node
 latitude: 33.93845
 longitude: -117.278
 postcode: "92553"
 city: Moreno Valley
-street: "Day Street"
-housenumber: 12530
+street: Day Street
+housenumber: "12530"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 443433027
-type: way
+type: node
 latitude: 33.89814
 longitude: -118.36552
 postcode: "90250"
 city: Hawthorne
-street: "Ocean Gate Avenue"
-housenumber: 14600
-phone: "+1 310-349-2083"
+street: Ocean Gate Avenue
+housenumber: "14600"
+phone: +1 310-349-2083
 opening_hours: ""
-website: "https://stores.ashleyfurniture.com/store/us/california/hawthorne/7710000041/"
+website: https://stores.ashleyfurniture.com/store/us/california/hawthorne/7710000041/

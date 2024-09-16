@@ -1,11 +1,11 @@
 id: 132911892
-type: way
+type: node
 latitude: 34.18795
 longitude: -118.55475
 postcode: "91335"
 city: Reseda
-street: "Victory Boulevard"
-housenumber: 19333
-phone: "+1 818-881-7020"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.vons.com/ca/reseda/19333-victory-blvd.html"
+street: Victory Boulevard
+housenumber: "19333"
+phone: +1 818-881-7020
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.vons.com/ca/reseda/19333-victory-blvd.html

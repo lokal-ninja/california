@@ -4,8 +4,8 @@ latitude: 37.33553
 longitude: -121.88974
 postcode: "95113"
 city: San Jose
-street: "South 1st Street"
-housenumber: 42
+street: South 1st Street
+housenumber: "42"
 phone: ""
 opening_hours: ""
-website: "http://www.followcharles.com/"
+website: http://www.followcharles.com/

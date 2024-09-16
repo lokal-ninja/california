@@ -1,11 +1,11 @@
 id: 1284793074
-type: way
+type: node
 latitude: 36.83592
 longitude: -119.75521
 postcode: "93710"
 city: Fresno
-street: "North Cedar Avenue"
-housenumber: 6745
+street: North Cedar Avenue
+housenumber: "6745"
 phone: "+15595128523"
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:00-20:00"
-website: "https://www.autozone.com/locations/ca/fresno/6745-n-cedar-ave.html?cmpid=LOC:US:EN:AD:NL:1000000:GEN:6514"
+opening_hours: Mo-Sa 07:30-21:00; Su 08:00-20:00
+website: https://www.autozone.com/locations/ca/fresno/6745-n-cedar-ave.html?cmpid=LOC:US:EN:AD:NL:1000000:GEN:6514

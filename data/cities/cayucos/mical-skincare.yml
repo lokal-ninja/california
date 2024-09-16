@@ -1,11 +1,11 @@
 id: 1258454994
-type: way
+type: node
 latitude: 35.44948
 longitude: -120.9063
 postcode: "93430"
 city: Cayucos
-street: "Cayucos Drive"
-housenumber: 95
+street: Cayucos Drive
+housenumber: "95"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 37.96886
 longitude: -121.27009
 postcode: "95205"
 city: Stockton
-street: "Waterloo Road"
-housenumber: 1120
-phone: "+1 209-467-7041"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/1120-e-waterloo-rd-4-stockton-95205?number=11"
+street: Waterloo Road
+housenumber: "1120"
+phone: +1 209-467-7041
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/1120-e-waterloo-rd-4-stockton-95205?number=11

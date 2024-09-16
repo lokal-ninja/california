@@ -1,11 +1,11 @@
 id: 629305165
-type: way
+type: node
 latitude: 33.93922
 longitude: -117.26108
 postcode: "92553"
 city: Moreno Valley
-street: "Sunnymead Boulevard"
-housenumber: 23021
+street: Sunnymead Boulevard
+housenumber: "23021"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

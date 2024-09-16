@@ -4,8 +4,8 @@ latitude: 32.79066
 longitude: -117.0982
 postcode: "92120"
 city: San Diego
-street: "Mission Gorge Road"
-housenumber: 6424
+street: Mission Gorge Road
+housenumber: "6424"
 phone: ""
-opening_hours: "Mo-Su 07:30-21:00"
-website: "https://www.autozone.com/locations/ca/san-diego/6424-mission-gorge-rd.html"
+opening_hours: Mo-Su 07:30-21:00
+website: https://www.autozone.com/locations/ca/san-diego/6424-mission-gorge-rd.html

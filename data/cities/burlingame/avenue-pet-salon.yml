@@ -1,11 +1,11 @@
 id: 237723169
-type: way
+type: node
 latitude: 37.57728
 longitude: -122.34876
 postcode: ""
 city: Burlingame
-street: "Burlingame Avenue"
-housenumber: 1427
-phone: "+1 650-340-7387"
-opening_hours: "Mo 13:00-18:00; Tu-Sa 09:00-18:00"
-website: "https://www.facebook.com/pages/Avenue-Pet-Salon/255498797807768?id=255498797807768&sk=info"
+street: Burlingame Avenue
+housenumber: "1427"
+phone: +1 650-340-7387
+opening_hours: Mo 13:00-18:00; Tu-Sa 09:00-18:00
+website: https://www.facebook.com/pages/Avenue-Pet-Salon/255498797807768?id=255498797807768&sk=info

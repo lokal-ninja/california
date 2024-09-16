@@ -1,11 +1,11 @@
 id: 771300227
-type: way
+type: node
 latitude: 37.35055
 longitude: -121.79775
 postcode: "95148"
 city: San Jose
-street: "Marten Avenue"
-housenumber: 3497
-phone: "+1 408-251-5450"
+street: Marten Avenue
+housenumber: "3497"
+phone: +1 408-251-5450
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/san-jose/3497-marten-ave-14254"
+website: https://www.7-eleven.com/locations/ca/san-jose/3497-marten-ave-14254

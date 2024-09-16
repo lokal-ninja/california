@@ -1,11 +1,11 @@
 id: 197945155
-type: way
+type: node
 latitude: 37.32276
 longitude: -121.95089
 postcode: "95117"
 city: San Jose
-street: "Stevens Creek Boulevard"
-housenumber: 3132
+street: Stevens Creek Boulevard
+housenumber: "3132"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 661080269
-type: way
+type: node
 latitude: 33.74895
 longitude: -117.00814
 postcode: "92545"
 city: Hemet
-street: "West Florida"
-housenumber: 3400
-phone: "+1 951-929-9742"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/hemet/ca/hemet/92545/6637"
+street: West Florida
+housenumber: "3400"
+phone: +1 951-929-9742
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/hemet/ca/hemet/92545/6637

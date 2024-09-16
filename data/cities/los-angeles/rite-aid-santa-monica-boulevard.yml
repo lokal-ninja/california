@@ -1,11 +1,11 @@
 id: 420298857
-type: way
+type: node
 latitude: 34.09173
 longitude: -118.29059
 postcode: "90029"
 city: Los Angeles
-street: "Santa Monica Boulevard"
-housenumber: 4633
+street: Santa Monica Boulevard
+housenumber: "4633"
 phone: ""
-opening_hours: "Mo-Su 08:00-23:00"
-website: "https://www.riteaid.com/locations/ca/los-angeles/4633-santa-monica-blvd.html"
+opening_hours: Mo-Su 08:00-23:00
+website: https://www.riteaid.com/locations/ca/los-angeles/4633-santa-monica-blvd.html

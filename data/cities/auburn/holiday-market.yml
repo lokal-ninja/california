@@ -1,11 +1,11 @@
 id: 735113452
-type: way
+type: node
 latitude: 39.04108
 longitude: -121.07787
 postcode: "95602"
 city: Auburn
-street: "Combie Road"
-housenumber: 10952
+street: Combie Road
+housenumber: "10952"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

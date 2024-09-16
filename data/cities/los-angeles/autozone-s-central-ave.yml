@@ -4,8 +4,8 @@ latitude: 33.9883
 longitude: -118.25614
 postcode: "90001"
 city: Los Angeles
-street: "S Central Ave"
-housenumber: 5858
+street: S Central Ave
+housenumber: "5858"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ca/los-angeles/5858-s-central-ave.html"
+website: https://www.autozone.com/locations/ca/los-angeles/5858-s-central-ave.html

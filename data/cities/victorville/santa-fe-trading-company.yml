@@ -1,11 +1,11 @@
 id: 1060510936
-type: way
+type: node
 latitude: 34.53364
 longitude: -117.29631
 postcode: "92395"
 city: Victorville
-street: "7th Street"
-housenumber: 15426
+street: 7th Street
+housenumber: "15426"
 phone: ""
 opening_hours: ""
 website: ""

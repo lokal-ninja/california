@@ -1,11 +1,11 @@
 id: 371622702
-type: way
+type: node
 latitude: 37.32022
 longitude: -121.87625
 postcode: "95112"
 city: San Jose
-street: "South 3rd Street"
-housenumber: 1125
+street: South 3rd Street
+housenumber: "1125"
 phone: ""
 opening_hours: ""
 website: ""

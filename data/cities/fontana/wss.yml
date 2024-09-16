@@ -1,11 +1,11 @@
 id: 978621790
-type: way
+type: node
 latitude: 34.08518
 longitude: -117.43598
 postcode: "92335"
 city: Fontana
-street: "Sierra Avenue"
-housenumber: 9288
+street: Sierra Avenue
+housenumber: "9288"
 phone: ""
 opening_hours: ""
-website: "https://www.shopwss.com/pages/store-locator"
+website: https://www.shopwss.com/pages/store-locator

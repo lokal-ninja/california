@@ -1,11 +1,11 @@
 id: 542850672
-type: way
+type: node
 latitude: 32.79858
 longitude: -116.97062
 postcode: "92020"
 city: El Cajon
-street: "North Johnson Avenue"
-housenumber: 333
+street: North Johnson Avenue
+housenumber: "333"
 phone: ""
 opening_hours: ""
-website: "https://www.jeromes.com/"
+website: https://www.jeromes.com/

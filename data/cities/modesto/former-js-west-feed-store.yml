@@ -1,11 +1,11 @@
 id: 1289462683
-type: way
+type: node
 latitude: 37.63686
 longitude: -120.99805
 postcode: "95354"
 city: Modesto
-street: "9th Street"
-housenumber: 709
+street: 9th Street
+housenumber: "709"
 phone: ""
 opening_hours: ""
 website: ""

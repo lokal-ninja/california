@@ -1,11 +1,11 @@
 id: 107879989
-type: way
+type: node
 latitude: 33.50586
 longitude: -117.14875
 postcode: "92591"
 city: Temecula
-street: "Ynez Road"
-housenumber: 27560
-phone: "+1 951-587-3668"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
+street: Ynez Road
+housenumber: "27560"
+phone: +1 951-587-3668
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
 website: ""

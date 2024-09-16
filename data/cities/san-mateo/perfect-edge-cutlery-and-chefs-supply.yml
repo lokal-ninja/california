@@ -1,11 +1,11 @@
 id: 128159615
-type: way
+type: node
 latitude: 37.55344
 longitude: -122.31331
 postcode: "94402"
 city: San Mateo
-street: "Palm Avenue"
-housenumber: 1640
+street: Palm Avenue
+housenumber: "1640"
 phone: ""
 opening_hours: ""
-website: "http://www.perfectedgesharpening.com/"
+website: http://www.perfectedgesharpening.com/

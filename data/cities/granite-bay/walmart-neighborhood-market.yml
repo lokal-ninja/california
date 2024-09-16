@@ -1,11 +1,11 @@
 id: 685676947
-type: way
+type: node
 latitude: 38.74268
 longitude: -121.22534
 postcode: "95746"
 city: Granite Bay
-street: "Douglas Boulevard"
-housenumber: 4080
-phone: "+1 916-380-3252"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/5980/granite-bay-ca/whats-new"
+street: Douglas Boulevard
+housenumber: "4080"
+phone: +1 916-380-3252
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/5980/granite-bay-ca/whats-new

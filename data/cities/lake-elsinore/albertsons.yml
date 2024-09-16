@@ -1,11 +1,11 @@
 id: 118778627
-type: way
+type: node
 latitude: 33.68594
 longitude: -117.3675
 postcode: "92530"
 city: Lake Elsinore
-street: "Riverside Drive"
-housenumber: 30901
-phone: "+1 951-245-4461"
+street: Riverside Drive
+housenumber: "30901"
+phone: +1 951-245-4461
 opening_hours: ""
-website: "https://local.albertsons.com/ca/lake-elsinore/30901-riverside-dr.html"
+website: https://local.albertsons.com/ca/lake-elsinore/30901-riverside-dr.html

@@ -1,11 +1,11 @@
 id: 207917064
-type: way
+type: node
 latitude: 37.31919
 longitude: -122.05317
-postcode: "95014-5947"
+postcode: 95014-5947
 city: Cupertino
-street: "Imperial Avenue"
-housenumber: 10262
+street: Imperial Avenue
+housenumber: "10262"
 phone: ""
 opening_hours: ""
 website: ""

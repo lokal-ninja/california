@@ -1,11 +1,11 @@
 id: 100483482
-type: way
+type: node
 latitude: 37.26672
 longitude: -121.94242
 postcode: "95008"
 city: San Jose
-street: "Camden Avenue"
-housenumber: 2272
+street: Camden Avenue
+housenumber: "2272"
 phone: ""
 opening_hours: ""
-website: "https://www.racknroad.com/store/san-jose-rack-n-road-store.html"
+website: https://www.racknroad.com/store/san-jose-rack-n-road-store.html

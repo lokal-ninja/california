@@ -4,8 +4,8 @@ latitude: 37.38715
 longitude: -122.06797
 postcode: "94041"
 city: Mountain View
-street: "Pioneer Way"
-housenumber: 300
+street: Pioneer Way
+housenumber: "300"
 phone: ""
-opening_hours: "Mo-Fr 08:00-16:30; Sa 10:00-14:00"
-website: "https://www.interiordoor.com/"
+opening_hours: Mo-Fr 08:00-16:30; Sa 10:00-14:00
+website: https://www.interiordoor.com/

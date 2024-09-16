@@ -4,8 +4,8 @@ latitude: 34.27222
 longitude: -118.78719
 postcode: "93065"
 city: Simi Valley
-street: "East Los Angeles Avenue"
-housenumber: 501
-phone: "+1 805-426-2078"
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:00-21:00"
-website: "https://www.autozone.com/locations/ca/simi-valley/501-e-los-angeles-ave.html"
+street: East Los Angeles Avenue
+housenumber: "501"
+phone: +1 805-426-2078
+opening_hours: Mo-Sa 07:30-21:00; Su 08:00-21:00
+website: https://www.autozone.com/locations/ca/simi-valley/501-e-los-angeles-ave.html

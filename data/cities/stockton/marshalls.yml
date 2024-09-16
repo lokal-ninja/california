@@ -1,11 +1,11 @@
 id: 287634069
-type: way
+type: node
 latitude: 37.98516
 longitude: -121.33395
 postcode: "95207"
 city: Stockton
-street: "Grand Canal Boulevard"
-housenumber: 2203
-phone: "+1-209-952-7870"
+street: Grand Canal Boulevard
+housenumber: "2203"
+phone: +1-209-952-7870
 opening_hours: ""
-website: "https://www.marshalls.com/store-finder/Stockton-CA-95207/122"
+website: https://www.marshalls.com/store-finder/Stockton-CA-95207/122

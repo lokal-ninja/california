@@ -1,11 +1,11 @@
 id: 351579195
-type: way
+type: node
 latitude: 37.34062
 longitude: -121.914
 postcode: "95126"
 city: San Jose
-street: "Stockton Avenue"
-housenumber: 715
+street: Stockton Avenue
+housenumber: "715"
 phone: ""
 opening_hours: ""
-website: "https://www.builtincenter.com/"
+website: https://www.builtincenter.com/

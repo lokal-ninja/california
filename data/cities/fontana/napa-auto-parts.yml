@@ -1,11 +1,11 @@
 id: 978621788
-type: way
+type: node
 latitude: 34.08394
 longitude: -117.43495
 postcode: "92335"
 city: Fontana
-street: "Sierra Avenue"
-housenumber: 9361
+street: Sierra Avenue
+housenumber: "9361"
 phone: ""
 opening_hours: ""
-website: "https://www.napaonline.com/en/ca/fontana/store/28256"
+website: https://www.napaonline.com/en/ca/fontana/store/28256

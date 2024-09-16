@@ -1,11 +1,11 @@
 id: 790312452
-type: way
+type: node
 latitude: 34.0743
 longitude: -117.88906
 postcode: "91791"
 city: West Covina
-street: "East Workman Avenue"
-housenumber: 2630
-phone: "+1 626-257-9787"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/ca/west-covina/west-covina/"
+street: East Workman Avenue
+housenumber: "2630"
+phone: +1 626-257-9787
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/ca/west-covina/west-covina/

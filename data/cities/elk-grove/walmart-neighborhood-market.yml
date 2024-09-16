@@ -1,11 +1,11 @@
 id: 610978649
-type: way
+type: node
 latitude: 38.40974
 longitude: -121.39248
 postcode: "95758"
 city: Elk Grove
-street: "Elk Grove Boulevard"
-housenumber: 8455
-phone: "+1 916-509-3170"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/5683/elk-grove-ca/whats-new"
+street: Elk Grove Boulevard
+housenumber: "8455"
+phone: +1 916-509-3170
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/5683/elk-grove-ca/whats-new

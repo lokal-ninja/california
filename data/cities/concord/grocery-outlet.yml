@@ -1,11 +1,11 @@
 id: 32650192
-type: way
+type: node
 latitude: 37.97439
 longitude: -122.03799
 postcode: "94520"
 city: Concord
-street: "Willow Pass Road"
-housenumber: 1840
+street: Willow Pass Road
+housenumber: "1840"
 phone: ""
 opening_hours: ""
 website: ""

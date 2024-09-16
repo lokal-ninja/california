@@ -1,11 +1,11 @@
 id: 512113086
-type: way
+type: node
 latitude: 37.68876
 longitude: -121.02342
 postcode: "95350"
 city: Modesto
-street: "Standiford Avenue"
-housenumber: 1700
+street: Standiford Avenue
+housenumber: "1700"
 phone: "2095275416"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-1700+standiford+ave-modesto-ca-95350/id=7313"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-1700+standiford+ave-modesto-ca-95350/id=7313

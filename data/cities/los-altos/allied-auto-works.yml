@@ -1,11 +1,11 @@
 id: 282741492
-type: way
+type: node
 latitude: 37.3422
 longitude: -122.07247
 postcode: "94024"
 city: Los Altos
-street: "Grant Road"
-housenumber: 2073
+street: Grant Road
+housenumber: "2073"
 phone: ""
 opening_hours: ""
 website: ""

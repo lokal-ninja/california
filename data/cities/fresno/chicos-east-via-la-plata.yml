@@ -4,8 +4,8 @@ latitude: 36.84841
 longitude: -119.78971
 postcode: "93720"
 city: Fresno
-street: "East Via La Plata"
-housenumber: 45
+street: East Via La Plata
+housenumber: "45"
 phone: "+15594388045"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://www.chicos.com/locations/us/ca/fresno/45-via-la-plata/"
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
+website: https://www.chicos.com/locations/us/ca/fresno/45-via-la-plata/

@@ -1,11 +1,11 @@
 id: 752914973
-type: way
+type: node
 latitude: 39.73009
 longitude: -121.84191
 postcode: "95928"
 city: chico
-street: "Broadway Street"
-housenumber: 116
-phone: "+1 (530) 809-4086"
+street: Broadway Street
+housenumber: "116"
+phone: +1 (530) 809-4086
 opening_hours: ""
 website: ""

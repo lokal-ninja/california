@@ -1,11 +1,11 @@
 id: 230780112
-type: way
+type: node
 latitude: 33.81903
 longitude: -116.49152
 postcode: "92264"
 city: Palm Springs
-street: "East Ramon Road"
-housenumber: 5200
-phone: "760-322-2717"
+street: East Ramon Road
+housenumber: "5200"
+phone: 760-322-2717
 opening_hours: ""
-website: "marshallsonline.com"
+website: marshallsonline.com

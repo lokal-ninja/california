@@ -1,11 +1,11 @@
 id: 892577003
-type: way
+type: node
 latitude: 40.59808
 longitude: -124.1549
 postcode: "95540"
 city: Fortuna
-street: "Main Street"
-housenumber: 1136
+street: Main Street
+housenumber: "1136"
 phone: ""
-opening_hours: "Mo-Su 12:00-18:30"
+opening_hours: Mo-Su 12:00-18:30
 website: ""

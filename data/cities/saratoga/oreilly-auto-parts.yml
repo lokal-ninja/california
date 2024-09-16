@@ -1,11 +1,11 @@
 id: 923522936
-type: way
+type: node
 latitude: 37.29191
 longitude: -121.99471
 postcode: "95070"
 city: Saratoga
-street: "Prospect Road"
-housenumber: 18506
+street: Prospect Road
+housenumber: "18506"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ca/saratoga/autoparts-3469.html"
+website: https://locations.oreillyauto.com/ca/saratoga/autoparts-3469.html

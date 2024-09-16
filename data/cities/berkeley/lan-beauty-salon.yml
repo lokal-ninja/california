@@ -4,8 +4,8 @@ latitude: 37.87183
 longitude: -122.26965
 postcode: ""
 city: Berkeley
-street: "University Avenue"
-housenumber: 2048
+street: University Avenue
+housenumber: "2048"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00, Su 10:30-18:30"
+opening_hours: Mo-Sa 10:00-19:00, Su 10:30-18:30
 website: ""

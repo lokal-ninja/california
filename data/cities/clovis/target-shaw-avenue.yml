@@ -1,11 +1,11 @@
 id: 620473382
-type: way
+type: node
 latitude: 36.80612
 longitude: -119.69954
-postcode: "93612-3900"
+postcode: 93612-3900
 city: Clovis
-street: "Shaw Avenue"
-housenumber: 900
-phone: "+1 559-297-4691"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/clovis/358"
+street: Shaw Avenue
+housenumber: "900"
+phone: +1 559-297-4691
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/clovis/358

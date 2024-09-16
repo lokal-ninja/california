@@ -1,11 +1,11 @@
 id: 286277225
-type: way
+type: node
 latitude: 37.76133
 longitude: -122.47737
 postcode: "94122"
 city: San Francisco
-street: "Judah Street"
-housenumber: 1401
+street: Judah Street
+housenumber: "1401"
 phone: ""
 opening_hours: ""
 website: ""

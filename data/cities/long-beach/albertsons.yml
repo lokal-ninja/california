@@ -1,11 +1,11 @@
 id: 326892036
-type: way
+type: node
 latitude: 33.80534
 longitude: -118.19187
 postcode: "90806"
 city: Long Beach
-street: "East Willow Street"
-housenumber: 101
-phone: "+1 562-988-8785"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.albertsons.com/ca/long-beach/101-e-willow-st.html"
+street: East Willow Street
+housenumber: "101"
+phone: +1 562-988-8785
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.albertsons.com/ca/long-beach/101-e-willow-st.html

@@ -1,11 +1,11 @@
 id: 365926069
-type: way
+type: node
 latitude: 37.67022
 longitude: -120.99331
 postcode: "95350"
 city: Modesto
-street: "McHenry Avenue"
-housenumber: 1700
-phone: "(209) 529-4813"
+street: McHenry Avenue
+housenumber: "1700"
+phone: (209) 529-4813
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/modesto-ca-pharmacies/1700-mchenry-ave-modesto-ca-95350/storeid=9248"
+website: https://www.cvs.com/store-locator/modesto-ca-pharmacies/1700-mchenry-ave-modesto-ca-95350/storeid=9248

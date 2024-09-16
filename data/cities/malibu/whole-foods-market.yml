@@ -1,11 +1,11 @@
 id: 1074623234
-type: way
+type: node
 latitude: 34.03867
 longitude: -118.68611
 postcode: "90265"
 city: Malibu
-street: "Civic Center Way"
-housenumber: 23401
-phone: "+1 424-425-7351"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.wholefoodsmarket.com/stores/malibu"
+street: Civic Center Way
+housenumber: "23401"
+phone: +1 424-425-7351
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.wholefoodsmarket.com/stores/malibu

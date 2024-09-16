@@ -1,11 +1,11 @@
 id: 109689681
-type: way
+type: node
 latitude: 32.7467
 longitude: -116.92976
 postcode: "92019"
 city: El Cajon
-street: "Jamacha Road"
-housenumber: 2398
-phone: "+1 619-670-2330"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/ca/elcajon-675.shtml"
+street: Jamacha Road
+housenumber: "2398"
+phone: +1 619-670-2330
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/ca/elcajon-675.shtml

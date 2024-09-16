@@ -1,11 +1,11 @@
 id: 452922760
-type: way
+type: node
 latitude: 33.86548
 longitude: -117.54696
 postcode: "92879"
 city: Corona
-street: "Magnolia Avenue"
-housenumber: 1193
-phone: "+1 951-736-1399"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.staterbros.com/stores/103"
+street: Magnolia Avenue
+housenumber: "1193"
+phone: +1 951-736-1399
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.staterbros.com/stores/103

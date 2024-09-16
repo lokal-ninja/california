@@ -1,11 +1,11 @@
 id: 355360067
-type: way
+type: node
 latitude: 37.35532
 longitude: -121.88861
 postcode: "95112"
 city: San Jose
-street: "North 13th Street"
-housenumber: 705
+street: North 13th Street
+housenumber: "705"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 545750080
-type: way
+type: node
 latitude: 40.1621
 longitude: -122.22848
 postcode: "96080"
 city: Red Bluff
-street: "South Main Street"
-housenumber: 1055
+street: South Main Street
+housenumber: "1055"
 phone: ""
 opening_hours: ""
 website: ""

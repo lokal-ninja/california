@@ -1,11 +1,11 @@
 id: 849978113
-type: way
+type: node
 latitude: 36.83372
 longitude: -119.91193
 postcode: "93722"
 city: Fresno
-street: "North Riverside Drive"
-housenumber: 6607
+street: North Riverside Drive
+housenumber: "6607"
 phone: "+15598908160"
-opening_hours: "Mo-Th 10:00-21:00; Fr-Sa 10:00-22:00; Su 10:00-20:00"
-website: "https://oldnavy.gap.com/stores/ca/fresno/oldnavy-6371.html"
+opening_hours: Mo-Th 10:00-21:00; Fr-Sa 10:00-22:00; Su 10:00-20:00
+website: https://oldnavy.gap.com/stores/ca/fresno/oldnavy-6371.html

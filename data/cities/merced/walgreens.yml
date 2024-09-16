@@ -1,11 +1,11 @@
 id: 206005650
-type: way
+type: node
 latitude: 37.31781
 longitude: -120.46804
 postcode: "95340"
 city: Merced
-street: "East Olive Avenue"
-housenumber: 180
+street: East Olive Avenue
+housenumber: "180"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-3098+g+st-merced-ca-95340/id=4415"
+website: https://www.walgreens.com/locator/walgreens-3098+g+st-merced-ca-95340/id=4415

@@ -1,11 +1,11 @@
 id: 133109864
-type: way
+type: node
 latitude: 32.818
 longitude: -117.17923
 postcode: "92111"
 city: San Diego
-street: "Balboa Avenue"
-housenumber: 5505
-phone: "+1 858-565-6113"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/ca/sandiego-1377.shtml"
+street: Balboa Avenue
+housenumber: "5505"
+phone: +1 858-565-6113
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/ca/sandiego-1377.shtml

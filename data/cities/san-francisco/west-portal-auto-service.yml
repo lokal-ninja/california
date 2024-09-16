@@ -1,11 +1,11 @@
 id: 356866203
-type: way
+type: node
 latitude: 37.74095
 longitude: -122.46525
 postcode: "94127"
 city: San Francisco
-street: "Ulloa Street"
-housenumber: 800
+street: Ulloa Street
+housenumber: "800"
 phone: ""
 opening_hours: ""
 website: ""

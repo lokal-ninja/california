@@ -1,11 +1,11 @@
 id: 329771465
-type: way
+type: node
 latitude: 37.90765
 longitude: -122.30676
 postcode: ""
 city: Richmond
-street: "San Pablo Avenue"
-housenumber: 10367
+street: San Pablo Avenue
+housenumber: "10367"
 phone: ""
-opening_hours: "Mo-Su 08:30-19:30"
-website: "https://naturalgrocery.com/"
+opening_hours: Mo-Su 08:30-19:30
+website: https://naturalgrocery.com/

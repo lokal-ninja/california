@@ -1,11 +1,11 @@
 id: 31817247
-type: way
+type: node
 latitude: 32.83294
 longitude: -117.16444
 postcode: "92111"
 city: San Diego
-street: "Clairemont Mesa Boulevard"
-housenumber: 7070
+street: Clairemont Mesa Boulevard
+housenumber: "7070"
 phone: ""
 opening_hours: ""
 website: ""

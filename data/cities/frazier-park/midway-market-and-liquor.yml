@@ -1,11 +1,11 @@
 id: 260821817
-type: way
+type: node
 latitude: 34.81837
 longitude: -118.99125
 postcode: ""
 city: Frazier Park
-street: "East Border Street"
-housenumber: 600
+street: East Border Street
+housenumber: "600"
 phone: ""
 opening_hours: ""
 website: ""

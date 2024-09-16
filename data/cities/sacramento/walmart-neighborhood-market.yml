@@ -4,8 +4,8 @@ latitude: 38.61702
 longitude: -121.39909
 postcode: "95821"
 city: Sacramento
-street: "Marconi Avenue"
-housenumber: 2700
-phone: "+1 916-576-6657"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/5982/sacramento-ca/whats-new"
+street: Marconi Avenue
+housenumber: "2700"
+phone: +1 916-576-6657
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/5982/sacramento-ca/whats-new

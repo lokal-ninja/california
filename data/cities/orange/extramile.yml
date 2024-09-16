@@ -1,11 +1,11 @@
 id: 184318363
-type: way
+type: node
 latitude: 33.78933
 longitude: -117.89819
 postcode: "92868"
 city: Orange
-street: "West Chapman Avenue"
-housenumber: 4104
-phone: "714-663-8100"
+street: West Chapman Avenue
+housenumber: "4104"
+phone: 714-663-8100
 opening_hours: ""
 website: ""

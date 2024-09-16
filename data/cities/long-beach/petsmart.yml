@@ -1,11 +1,11 @@
 id: 224056200
-type: way
+type: node
 latitude: 33.82902
 longitude: -118.08379
 postcode: "90808"
 city: Long Beach
-street: "Carson Boulevard"
-housenumber: 7631
-phone: "+1 562-938-8056"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ca/long-beach-store0112.html"
+street: Carson Boulevard
+housenumber: "7631"
+phone: +1 562-938-8056
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ca/long-beach-store0112.html

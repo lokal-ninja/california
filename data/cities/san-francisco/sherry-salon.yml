@@ -1,11 +1,11 @@
 id: 1036654458
-type: way
+type: node
 latitude: 37.71082
 longitude: -122.40433
 postcode: ""
 city: San Francisco
-street: "Bayshore Boulevard"
-housenumber: 2436
+street: Bayshore Boulevard
+housenumber: "2436"
 phone: ""
 opening_hours: ""
 website: ""

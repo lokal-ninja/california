@@ -4,8 +4,8 @@ latitude: 37.89478
 longitude: -122.3002
 postcode: "94706"
 city: Albany
-street: "San Pablo Avenue"
-housenumber: 609
+street: San Pablo Avenue
+housenumber: "609"
 phone: ""
-opening_hours: "Mo,We-Sa 09:30-18:00"
+opening_hours: Mo,We-Sa 09:30-18:00
 website: ""

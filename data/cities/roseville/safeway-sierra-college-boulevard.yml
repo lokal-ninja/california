@@ -1,11 +1,11 @@
 id: 240068831
-type: way
+type: node
 latitude: 38.74148
 longitude: -121.22816
 postcode: "95661"
 city: Roseville
-street: "Sierra College Boulevard"
-housenumber: 8640
-phone: "+1 916-783-2225"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/ca/roseville/8640-sierra-college-blvd.html"
+street: Sierra College Boulevard
+housenumber: "8640"
+phone: +1 916-783-2225
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/ca/roseville/8640-sierra-college-blvd.html

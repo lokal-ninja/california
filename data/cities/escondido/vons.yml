@@ -1,11 +1,11 @@
 id: 131288947
-type: way
+type: node
 latitude: 33.14371
 longitude: -117.09442
 postcode: "92026"
 city: Escondido
-street: "West El Norte Parkway"
-housenumber: 330
-phone: "+1 760-741-0928"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.vons.com/ca/escondido/330-w-el-norte-pkwy.html"
+street: West El Norte Parkway
+housenumber: "330"
+phone: +1 760-741-0928
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.vons.com/ca/escondido/330-w-el-norte-pkwy.html

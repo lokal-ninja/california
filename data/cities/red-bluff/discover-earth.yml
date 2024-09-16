@@ -1,11 +1,11 @@
 id: 654587433
-type: way
+type: node
 latitude: 40.17699
 longitude: -122.23469
 postcode: "96080"
 city: Red Bluff
-street: "Main Street"
-housenumber: 635
-phone: "+1 (530) 529-3856"
+street: Main Street
+housenumber: "635"
+phone: +1 (530) 529-3856
 opening_hours: ""
-website: "https://discoverearth.us/"
+website: https://discoverearth.us/

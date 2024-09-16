@@ -1,11 +1,11 @@
 id: 230587457
-type: way
+type: node
 latitude: 37.27617
 longitude: -121.87509
 postcode: "95125"
 city: San Jose
-street: "Capitol Expressway Auto Mall"
-housenumber: 911
+street: Capitol Expressway Auto Mall
+housenumber: "911"
 phone: ""
 opening_hours: ""
 website: ""

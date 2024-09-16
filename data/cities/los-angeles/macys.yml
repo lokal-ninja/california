@@ -1,11 +1,11 @@
 id: 557689269
-type: way
+type: node
 latitude: 34.06035
 longitude: -118.41917
 postcode: "90067"
 city: Los Angeles
-street: "Santa Monica Boulevard"
-housenumber: 10250
-phone: "+1-310-556-1611"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-19:00"
-website: "https://www.macys.com/stores/ca/losangeles/westfield-century-city_518.html"
+street: Santa Monica Boulevard
+housenumber: "10250"
+phone: +1-310-556-1611
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-19:00
+website: https://www.macys.com/stores/ca/losangeles/westfield-century-city_518.html

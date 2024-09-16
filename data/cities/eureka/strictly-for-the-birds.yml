@@ -1,11 +1,11 @@
 id: 238365961
-type: way
+type: node
 latitude: 40.80467
 longitude: -124.16656
 postcode: "95501"
 city: Eureka
-street: "F Street"
-housenumber: 123
+street: F Street
+housenumber: "123"
 phone: ""
 opening_hours: ""
 website: ""

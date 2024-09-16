@@ -4,8 +4,8 @@ latitude: 37.77493
 longitude: -122.42245
 postcode: "94102"
 city: San Francisco
-street: "Gough Street"
-housenumber: 198
+street: Gough Street
+housenumber: "198"
 phone: ""
 opening_hours: ""
-website: "https://loquatsf.com/"
+website: https://loquatsf.com/

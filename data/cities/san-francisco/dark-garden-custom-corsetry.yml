@@ -4,8 +4,8 @@ latitude: 37.77628
 longitude: -122.42333
 postcode: "94102"
 city: San Francisco
-street: "Linden Street"
-housenumber: 321
-phone: "+1-415-431-7684"
+street: Linden Street
+housenumber: "321"
+phone: +1-415-431-7684
 opening_hours: ""
-website: "https://www.darkgarden.com"
+website: https://www.darkgarden.com

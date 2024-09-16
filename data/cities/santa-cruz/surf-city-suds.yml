@@ -1,11 +1,11 @@
 id: 34964716
-type: way
+type: node
 latitude: 36.97641
 longitude: -122.05004
 postcode: "95060"
 city: Santa Cruz
-street: "Cardiff Place"
-housenumber: 228
-phone: "+1-831-334-8098"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "http://surfcitysuds.findalaundry.org/"
+street: Cardiff Place
+housenumber: "228"
+phone: +1-831-334-8098
+opening_hours: Mo-Su 07:00-22:00
+website: http://surfcitysuds.findalaundry.org/

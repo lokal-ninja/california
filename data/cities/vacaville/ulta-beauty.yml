@@ -1,11 +1,11 @@
 id: 736793615
-type: way
+type: node
 latitude: 38.36926
 longitude: -121.96261
 postcode: "95688"
 city: Vacaville
-street: "East Monte Vista Avenue"
-housenumber: 1641
-phone: "+1 707-455-8369"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/vacaville-ca-545"
+street: East Monte Vista Avenue
+housenumber: "1641"
+phone: +1 707-455-8369
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/vacaville-ca-545

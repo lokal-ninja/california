@@ -1,11 +1,11 @@
 id: 469516121
-type: way
+type: node
 latitude: 38.31034
 longitude: -122.27711
-postcode: "94558-3606"
+postcode: 94558-3606
 city: Napa
-street: "Lincoln Avenue"
-housenumber: 325
-phone: "+1 707-255-4272"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-17:00; Su 08:00-17:00"
+street: Lincoln Avenue
+housenumber: "325"
+phone: +1 707-255-4272
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-17:00; Su 08:00-17:00
 website: ""

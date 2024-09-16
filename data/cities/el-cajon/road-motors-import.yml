@@ -1,11 +1,11 @@
 id: 995099391
-type: way
+type: node
 latitude: 32.79479
 longitude: -116.95324
 postcode: "92020"
 city: El Cajon
-street: "East Main Street"
-housenumber: 715
+street: East Main Street
+housenumber: "715"
 phone: ""
 opening_hours: ""
-website: "https://roadmotorsimports.com/"
+website: https://roadmotorsimports.com/

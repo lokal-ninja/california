@@ -1,11 +1,11 @@
 id: 543168951
-type: way
+type: node
 latitude: 32.81423
 longitude: -116.97164
 postcode: "92020"
 city: El Cajon
-street: "North Johnson Avenue"
-housenumber: 1406
+street: North Johnson Avenue
+housenumber: "1406"
 phone: ""
 opening_hours: ""
 website: ""

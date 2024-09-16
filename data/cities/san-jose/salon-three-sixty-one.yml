@@ -1,11 +1,11 @@
 id: 103920583
-type: way
+type: node
 latitude: 37.32191
 longitude: -121.91437
 postcode: "95126"
 city: San Jose
-street: "Meridian Avenue"
-housenumber: 361
+street: Meridian Avenue
+housenumber: "361"
 phone: ""
 opening_hours: ""
 website: ""

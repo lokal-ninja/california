@@ -1,11 +1,11 @@
 id: 224022985
-type: way
+type: node
 latitude: 38.00929
 longitude: -121.83605
-postcode: "94509-7911"
+postcode: 94509-7911
 city: Antioch
-street: "Verne Roberts Circle"
-housenumber: 2201
-phone: "+1 925-757-7130"
-opening_hours: "Mo-Fr 09:00-20:30; Sa-Su 09:00-19:00"
-website: "https://www.costco.com/warehouse-locations/antioch-ca-1002.html"
+street: Verne Roberts Circle
+housenumber: "2201"
+phone: +1 925-757-7130
+opening_hours: Mo-Fr 09:00-20:30; Sa-Su 09:00-19:00
+website: https://www.costco.com/warehouse-locations/antioch-ca-1002.html

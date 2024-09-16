@@ -2,10 +2,10 @@ id: 401461449
 type: node
 latitude: 36.9602
 longitude: -122.0491
-postcode: "95060-5225"
+postcode: 95060-5225
 city: Santa Cruz
-street: "Mission Street"
-housenumber: 2429
-phone: "+1 831-458-2720"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ca/santa-cruz/2429-mission-street-29795"
+street: Mission Street
+housenumber: "2429"
+phone: +1 831-458-2720
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ca/santa-cruz/2429-mission-street-29795

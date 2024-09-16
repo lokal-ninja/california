@@ -1,11 +1,11 @@
 id: 990598328
-type: way
+type: node
 latitude: 34.13622
 longitude: -117.24135
 postcode: "92404"
 city: San Bernardino
-street: "Highland Avenue"
-housenumber: 2150
+street: Highland Avenue
+housenumber: "2150"
 phone: ""
 opening_hours: ""
 website: ""

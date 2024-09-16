@@ -4,8 +4,8 @@ latitude: 32.74175
 longitude: -117.05478
 postcode: "92115"
 city: San Diego
-street: "College Avenue"
-housenumber: 3450
-phone: "+1 619-582-1140"
-opening_hours: "Su-Th 09:00-23:00; Fr-Sa 08:30-23:00"
-website: "https://www.rossstores.com"
+street: College Avenue
+housenumber: "3450"
+phone: +1 619-582-1140
+opening_hours: Su-Th 09:00-23:00; Fr-Sa 08:30-23:00
+website: https://www.rossstores.com

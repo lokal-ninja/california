@@ -1,11 +1,11 @@
 id: 238290497
-type: way
+type: node
 latitude: 40.80195
 longitude: -124.17486
 postcode: ""
 city: Eureka
-street: "West 4th Street"
-housenumber: 142
-phone: "707.443.5074"
+street: West 4th Street
+housenumber: "142"
+phone: 707.443.5074
 opening_hours: ""
-website: "http://baywestsupply.com"
+website: http://baywestsupply.com

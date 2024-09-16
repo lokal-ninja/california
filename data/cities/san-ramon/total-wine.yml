@@ -1,11 +1,11 @@
 id: 230078178
-type: way
+type: node
 latitude: 37.77749
 longitude: -121.96901
 postcode: "94583"
 city: San Ramon
-street: "Crow Canyon Place"
-housenumber: 3161
-phone: "+1 925-275-9239"
-opening_hours: "09:00-22:00"
-website: "https://www.totalwine.com/store-info/1124"
+street: Crow Canyon Place
+housenumber: "3161"
+phone: +1 925-275-9239
+opening_hours: 09:00-22:00
+website: https://www.totalwine.com/store-info/1124

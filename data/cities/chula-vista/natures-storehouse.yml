@@ -4,8 +4,8 @@ latitude: 32.641
 longitude: -117.07961
 postcode: "91910"
 city: Chula Vista
-street: "3rd Avenue"
-housenumber: 307
-phone: "+16194257480;+16194257481"
-opening_hours: "Mo-Fr 09:00-17:30;Sa 09:00-16:00;Su closed"
-website: "http://fatimaspirit.com/"
+street: 3rd Avenue
+housenumber: "307"
+phone: +16194257480;+16194257481
+opening_hours: Mo-Fr 09:00-17:30;Sa 09:00-16:00;Su closed
+website: http://fatimaspirit.com/

@@ -1,11 +1,11 @@
 id: 426857815
-type: way
+type: node
 latitude: 34.01753
 longitude: -118.22053
 postcode: "90023"
 city: Los Angeles
-street: "South Soto Street"
-housenumber: 1717
-phone: "+1 323-356-4405"
+street: South Soto Street
+housenumber: "1717"
+phone: +1 323-356-4405
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/los-angeles/1717-s-soto-st-37754"
+website: https://www.7-eleven.com/locations/ca/los-angeles/1717-s-soto-st-37754

@@ -1,11 +1,11 @@
 id: 776204844
-type: way
+type: node
 latitude: 40.59351
 longitude: -122.35798
 postcode: "96003"
 city: Redding
-street: "Hilltop Drive"
-housenumber: 975
+street: Hilltop Drive
+housenumber: "975"
 phone: ""
 opening_hours: ""
 website: ""

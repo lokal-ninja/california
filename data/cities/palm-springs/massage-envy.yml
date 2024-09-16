@@ -1,11 +1,11 @@
 id: 230780113
-type: way
+type: node
 latitude: 33.81622
 longitude: -116.49111
 postcode: "92264"
 city: Palm Springs
-street: "East Ramon Road"
-housenumber: 5200
-phone: "760-969-4800"
+street: East Ramon Road
+housenumber: "5200"
+phone: 760-969-4800
 opening_hours: ""
-website: "https://www.massageenvy.com/clinics/CA/Palm-Springs.aspx"
+website: https://www.massageenvy.com/clinics/CA/Palm-Springs.aspx

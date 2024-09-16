@@ -4,8 +4,8 @@ latitude: 34.01151
 longitude: -117.33829
 postcode: "92507"
 city: Riverside
-street: "Spring Street"
-housenumber: 1218
-phone: "+1-951-900-3970"
-opening_hours: "Mo-Sa 07:00-24:00, Su 09:00-24:00"
-website: "https://www.sempersolaris.com/locations/inland-empire/"
+street: Spring Street
+housenumber: "1218"
+phone: +1-951-900-3970
+opening_hours: Mo-Sa 07:00-24:00, Su 09:00-24:00
+website: https://www.sempersolaris.com/locations/inland-empire/

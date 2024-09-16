@@ -1,11 +1,11 @@
 id: 1147088669
-type: way
+type: node
 latitude: 33.60695
 longitude: -117.73117
 postcode: "92637"
 city: Laguna Hills
-street: "El Toro Road"
-housenumber: 24332
-phone: "+1 949-598-9171"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Laguna-Hills/CA/Laguna-Hills/92637/6628"
+street: El Toro Road
+housenumber: "24332"
+phone: +1 949-598-9171
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Laguna-Hills/CA/Laguna-Hills/92637/6628

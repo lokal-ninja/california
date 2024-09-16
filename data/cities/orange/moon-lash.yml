@@ -1,11 +1,11 @@
 id: 1133969929
-type: way
+type: node
 latitude: 33.82242
 longitude: -117.83714
 postcode: "92865"
 city: Orange
-street: "North Tustin Street"
-housenumber: 2076
-phone: "657-259-8042"
-opening_hours: "Mo-Su 09:00-18:30"
-website: "https://www.moonlashbeauty.com/"
+street: North Tustin Street
+housenumber: "2076"
+phone: 657-259-8042
+opening_hours: Mo-Su 09:00-18:30
+website: https://www.moonlashbeauty.com/

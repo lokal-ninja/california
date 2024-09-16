@@ -4,8 +4,8 @@ latitude: 32.70899
 longitude: -117.14923
 postcode: "92101"
 city: San Diego
-street: "16th Street"
-housenumber: 343
+street: 16th Street
+housenumber: "343"
 phone: ""
 opening_hours: ""
-website: "https://sdgoodwill.org/"
+website: https://sdgoodwill.org/

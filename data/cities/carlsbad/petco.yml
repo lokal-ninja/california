@@ -1,11 +1,11 @@
 id: 484156957
-type: way
+type: node
 latitude: 33.08128
 longitude: -117.23357
 postcode: "92009"
 city: Carlsbad
-street: "Via Montebello"
-housenumber: 3421
-phone: "+1 760-633-2241"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ca/carlsbad/pet-supplies-carlsbad-ca-2131.html"
+street: Via Montebello
+housenumber: "3421"
+phone: +1 760-633-2241
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/ca/carlsbad/pet-supplies-carlsbad-ca-2131.html

@@ -1,11 +1,11 @@
 id: 132908425
-type: way
+type: node
 latitude: 34.13385
 longitude: -117.61481
 postcode: "91701"
 city: Rancho Cucamonga
-street: "19TH Street"
-housenumber: 8778
-phone: "+1 909-989-1000"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.vons.com/ca/rancho-cucamonga/8778-19th-st.html"
+street: 19TH Street
+housenumber: "8778"
+phone: +1 909-989-1000
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.vons.com/ca/rancho-cucamonga/8778-19th-st.html

@@ -1,11 +1,11 @@
 id: 382759640
-type: way
+type: node
 latitude: 37.67569
 longitude: -122.46218
 postcode: "94014"
 city: Colma
-street: "Serramonte Boulevard"
-housenumber: 700
-phone: "+1 650-731-3906"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.lexusserramonte.com"
+street: Serramonte Boulevard
+housenumber: "700"
+phone: +1 650-731-3906
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.lexusserramonte.com

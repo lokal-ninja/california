@@ -4,8 +4,8 @@ latitude: 37.77469
 longitude: -122.42269
 postcode: "94102"
 city: San Francisco
-street: "Gough Street"
-housenumber: 141
+street: Gough Street
+housenumber: "141"
 phone: ""
 opening_hours: ""
-website: "https://www.sfwineandcheese.com/"
+website: https://www.sfwineandcheese.com/

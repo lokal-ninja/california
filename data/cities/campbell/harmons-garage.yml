@@ -1,11 +1,11 @@
 id: 225876250
-type: way
+type: node
 latitude: 37.27838
 longitude: -121.94378
 postcode: "95008"
 city: Campbell
-street: "Cristich Lane"
-housenumber: 216
+street: Cristich Lane
+housenumber: "216"
 phone: ""
 opening_hours: ""
 website: ""

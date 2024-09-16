@@ -4,8 +4,8 @@ latitude: 37.77763
 longitude: -122.39081
 postcode: "94107"
 city: San Francisco
-street: "3rd Street"
-housenumber: 913
+street: 3rd Street
+housenumber: "913"
 phone: ""
 opening_hours: ""
 website: ""

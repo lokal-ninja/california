@@ -1,11 +1,11 @@
 id: 88159931
-type: way
+type: node
 latitude: 37.89632
 longitude: -122.53617
 postcode: "94941"
 city: Mill Valley
-street: "Miller Avenue"
-housenumber: 414
-phone: "+1 415-381-1200"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.wholefoodsmarket.com/stores/millvalley"
+street: Miller Avenue
+housenumber: "414"
+phone: +1 415-381-1200
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.wholefoodsmarket.com/stores/millvalley

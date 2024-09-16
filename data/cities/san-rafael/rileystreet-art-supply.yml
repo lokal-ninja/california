@@ -4,8 +4,8 @@ latitude: 37.97336
 longitude: -122.52917
 postcode: "94901"
 city: San Rafael
-street: "Fourth Street"
-housenumber: 1138
+street: Fourth Street
+housenumber: "1138"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00; Su 11:00-16:00"
-website: "https://www.rileystreet.com"
+opening_hours: Mo-Sa 10:00-18:00; Su 11:00-16:00
+website: https://www.rileystreet.com

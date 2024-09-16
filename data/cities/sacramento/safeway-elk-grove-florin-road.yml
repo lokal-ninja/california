@@ -1,11 +1,11 @@
 id: 239970281
-type: way
+type: node
 latitude: 38.45377
 longitude: -121.37033
 postcode: "95829"
 city: Sacramento
-street: "Elk Grove Florin Road"
-housenumber: 8377
-phone: "+1-916-681-8666"
-opening_hours: "05:00-01:00"
-website: "https://local.safeway.com/safeway/ca/sacramento/8377-elk-grove-florin-rd.html"
+street: Elk Grove Florin Road
+housenumber: "8377"
+phone: +1-916-681-8666
+opening_hours: 05:00-01:00
+website: https://local.safeway.com/safeway/ca/sacramento/8377-elk-grove-florin-rd.html

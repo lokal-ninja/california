@@ -4,8 +4,8 @@ latitude: 37.32953
 longitude: -121.90082
 postcode: "95110"
 city: San Jose
-street: "South Montgomery Street"
-housenumber: 82
-phone: "+1-408-291-0501"
-opening_hours: "Mo off; Tu-Su 12:00-17:00"
-website: "https://www.goodkarmabikes.org/"
+street: South Montgomery Street
+housenumber: "82"
+phone: +1-408-291-0501
+opening_hours: Mo off; Tu-Su 12:00-17:00
+website: https://www.goodkarmabikes.org/

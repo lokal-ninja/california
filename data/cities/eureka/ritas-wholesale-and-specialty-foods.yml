@@ -1,11 +1,11 @@
 id: 238290513
-type: way
+type: node
 latitude: 40.80238
 longitude: -124.17195
 postcode: ""
 city: Eureka
-street: "West 4th Street"
-housenumber: 12
-phone: "(707) 268-0843"
+street: West 4th Street
+housenumber: "12"
+phone: (707) 268-0843
 opening_hours: ""
-website: "https://www.ritascafe.com/wholesale.html"
+website: https://www.ritascafe.com/wholesale.html

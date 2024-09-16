@@ -4,8 +4,8 @@ latitude: 37.33633
 longitude: -121.88975
 postcode: "95113"
 city: San Jose
-street: "East Santa Clara Street"
-housenumber: 30
+street: East Santa Clara Street
+housenumber: "30"
 phone: ""
 opening_hours: ""
-website: "https://pasteladega.com/"
+website: https://pasteladega.com/

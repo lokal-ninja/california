@@ -1,11 +1,11 @@
 id: 128898359
-type: way
+type: node
 latitude: 37.97201
 longitude: -120.36666
 postcode: "95370"
 city: Sonora
-street: "Sanguinetti Road"
-housenumber: 1101
-phone: "+1 209-533-2617"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2030/sonora-ca/whats-new"
+street: Sanguinetti Road
+housenumber: "1101"
+phone: +1 209-533-2617
+opening_hours: 24/7
+website: https://www.walmart.com/store/2030/sonora-ca/whats-new

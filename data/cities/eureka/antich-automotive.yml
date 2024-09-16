@@ -1,11 +1,11 @@
 id: 238354331
-type: way
+type: node
 latitude: 40.80451
 longitude: -124.17084
 postcode: "95501"
 city: Eureka
-street: "2nd Street"
-housenumber: 101
-phone: "707-443-4467"
-opening_hours: "Mo-Fr 7:30-17:30; Sa 8:00-16:00"
-website: "https://www.antichautoeureka.com/"
+street: 2nd Street
+housenumber: "101"
+phone: 707-443-4467
+opening_hours: Mo-Fr 7:30-17:30; Sa 8:00-16:00
+website: https://www.antichautoeureka.com/

@@ -1,11 +1,11 @@
 id: 960979205
-type: way
+type: node
 latitude: 32.77531
 longitude: -117.00523
 postcode: "91941"
 city: La Mesa
-street: "La Mesa Boulevard"
-housenumber: 8970
+street: La Mesa Boulevard
+housenumber: "8970"
 phone: "+16194647777"
 opening_hours: ""
 website: ""

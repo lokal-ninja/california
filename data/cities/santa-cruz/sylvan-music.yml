@@ -1,11 +1,11 @@
 id: 35027174
-type: way
+type: node
 latitude: 36.9667
 longitude: -122.04009
 postcode: "95060"
 city: Santa Cruz
-street: "Mission Street"
-housenumber: 1521
-phone: "+1-831-427-1917"
-opening_hours: "Mo-Su 11:00-18:00"
-website: "https://www.sylvanmusic.com"
+street: Mission Street
+housenumber: "1521"
+phone: +1-831-427-1917
+opening_hours: Mo-Su 11:00-18:00
+website: https://www.sylvanmusic.com

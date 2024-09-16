@@ -1,11 +1,11 @@
 id: 227068802
-type: way
+type: node
 latitude: 37.31368
 longitude: -121.86457
 postcode: "95112"
 city: San Jose
-street: "South 7th Street"
-housenumber: 1684
+street: South 7th Street
+housenumber: "1684"
 phone: ""
 opening_hours: ""
 website: ""

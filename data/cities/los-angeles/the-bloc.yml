@@ -1,11 +1,11 @@
 id: 428021795
-type: way
+type: node
 latitude: 34.04741
 longitude: -118.2598
 postcode: "90017"
 city: Los Angeles
-street: "West 7th Street"
-housenumber: 700
+street: West 7th Street
+housenumber: "700"
 phone: ""
 opening_hours: ""
 website: ""

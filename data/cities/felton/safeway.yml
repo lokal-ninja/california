@@ -1,11 +1,11 @@
 id: 253282612
-type: way
+type: node
 latitude: 37.05311
 longitude: -122.06836
 postcode: "95018"
 city: Felton
-street: "Graham Hill Road"
-housenumber: 6255
-phone: "+1 831-335-3532"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/ca/felton/6255-graham-hill-rd.html"
+street: Graham Hill Road
+housenumber: "6255"
+phone: +1 831-335-3532
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/ca/felton/6255-graham-hill-rd.html

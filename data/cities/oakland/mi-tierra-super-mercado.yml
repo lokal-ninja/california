@@ -1,11 +1,11 @@
 id: 347004781
-type: way
+type: node
 latitude: 37.79145
 longitude: -122.21954
 postcode: "94601"
 city: Oakland
-street: "Fruitvale Avenue"
-housenumber: 2758
+street: Fruitvale Avenue
+housenumber: "2758"
 phone: ""
-opening_hours: "07:00-20:30"
+opening_hours: 07:00-20:30
 website: ""

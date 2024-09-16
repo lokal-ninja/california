@@ -1,11 +1,11 @@
 id: 783525381
-type: way
+type: node
 latitude: 34.27685
 longitude: -119.21387
 postcode: "93003"
 city: Ventura
-street: "Telegraph Road"
-housenumber: 5900
+street: Telegraph Road
+housenumber: "5900"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/ventura-ca-pharmacies/5900-telegraph-rd-ventura-ca-93003/storeid=9683"
+website: https://www.cvs.com/store-locator/ventura-ca-pharmacies/5900-telegraph-rd-ventura-ca-93003/storeid=9683

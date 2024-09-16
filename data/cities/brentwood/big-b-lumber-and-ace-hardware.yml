@@ -4,8 +4,8 @@ latitude: 37.9602
 longitude: -121.69525
 postcode: "94513"
 city: Brentwood
-street: "Brentwood Boulevard"
-housenumber: 6600
-phone: "+1 925-634-2442"
-opening_hours: "Mo-Fr 06:30-17:00; Sa 08:00-16:00; Su 09:00-15:00"
-website: "https://www.bigblumber.com/"
+street: Brentwood Boulevard
+housenumber: "6600"
+phone: +1 925-634-2442
+opening_hours: Mo-Fr 06:30-17:00; Sa 08:00-16:00; Su 09:00-15:00
+website: https://www.bigblumber.com/

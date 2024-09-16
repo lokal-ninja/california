@@ -4,8 +4,8 @@ latitude: 34.07559
 longitude: -117.56254
 postcode: "91764"
 city: Ontario
-street: "4th Street"
-housenumber: 4120
-phone: "+1 909-484-5502"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ca/ontario-store1738.html"
+street: 4th Street
+housenumber: "4120"
+phone: +1 909-484-5502
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ca/ontario-store1738.html

@@ -1,11 +1,11 @@
 id: 387046897
-type: way
+type: node
 latitude: 39.30591
 longitude: -123.80019
 postcode: "95460"
 city: Mendocino
-street: "Ukiah Street"
-housenumber: 45051
-phone: "+1 707-937-3474"
-opening_hours: "Mo-Sa 11:00-16:30"
-website: "https://mendocino-market.business.site/"
+street: Ukiah Street
+housenumber: "45051"
+phone: +1 707-937-3474
+opening_hours: Mo-Sa 11:00-16:30
+website: https://mendocino-market.business.site/

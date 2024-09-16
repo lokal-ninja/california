@@ -1,11 +1,11 @@
 id: 31842931
-type: way
+type: node
 latitude: 32.80283
 longitude: -117.01146
 postcode: "92119"
 city: San Diego
-street: "Navajo Road"
-housenumber: 8675
+street: Navajo Road
+housenumber: "8675"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/ca/sandiego/oil-change-gn0150.html"
+website: https://store.vioc.com/ca/sandiego/oil-change-gn0150.html

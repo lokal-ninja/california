@@ -1,11 +1,11 @@
 id: 1235780575
-type: way
+type: node
 latitude: 38.49565
 longitude: -121.3898
 postcode: "95828"
 city: Sacramento
-street: "Florin Road"
-housenumber: 8500
+street: Florin Road
+housenumber: "8500"
 phone: ""
 opening_hours: ""
 website: ""

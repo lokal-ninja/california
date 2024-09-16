@@ -1,11 +1,12 @@
 id: 68675082
-type: way
+type: node
 latitude: 37.85983
 longitude: -122.26646
 postcode: "94705"
 city: Berkeley
-street: "Shattuck Avenue"
-housenumber: 2721
-phone: "(510) 288-9971"
-opening_hours: "Mo-Fr 09:30-18:00 open office || Sa 09:00-16:00 open office || Mo-Fr 07:00-18:00 open access || Sa-Su 07:00-16:00 open access"
-website: "https://securespace.com/storage-units/ca/berkeley-self-storage/2721-shattuck-ave-berkeley-ca-94705"
+street: Shattuck Avenue
+housenumber: "2721"
+phone: (510) 288-9971
+opening_hours: Mo-Fr 09:30-18:00 open "office" || Sa 09:00-16:00 open "office" ||
+    Mo-Fr 07:00-18:00 open "access" || Sa-Su 07:00-16:00 open "access"
+website: https://securespace.com/storage-units/ca/berkeley-self-storage/2721-shattuck-ave-berkeley-ca-94705

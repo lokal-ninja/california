@@ -1,11 +1,11 @@
 id: 935076858
-type: way
+type: node
 latitude: 34.10734
 longitude: -117.38276
-postcode: "92376-4861"
+postcode: 92376-4861
 city: Rialto
-street: "West Foothill Boulevard"
-housenumber: 630
-phone: "+1 909-741-6764"
-opening_hours: "Mo, We, Fr-Su 09:00-21:00; Tu, Th 08:30-21:00"
-website: "https://stores.aldi.us/ca/rialto/630-w-foothill-blvd"
+street: West Foothill Boulevard
+housenumber: "630"
+phone: +1 909-741-6764
+opening_hours: Mo, We, Fr-Su 09:00-21:00; Tu, Th 08:30-21:00
+website: https://stores.aldi.us/ca/rialto/630-w-foothill-blvd

@@ -4,8 +4,8 @@ latitude: 33.6202
 longitude: -117.70434
 postcode: "92630"
 city: Lake Forest
-street: "El Toro Road"
-housenumber: 23635
-phone: "+1 949-707-7999"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00 || Sunday by appointment"
-website: "https://occarpetandmore.com/"
+street: El Toro Road
+housenumber: "23635"
+phone: +1 949-707-7999
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00 || "Sunday by appointment"
+website: https://occarpetandmore.com/

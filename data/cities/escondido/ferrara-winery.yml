@@ -1,11 +1,11 @@
 id: 129846752
-type: way
+type: node
 latitude: 33.10284
 longitude: -117.0875
 postcode: "92025"
 city: Escondido
-street: "West 15th Avenue"
-housenumber: 1120
+street: West 15th Avenue
+housenumber: "1120"
 phone: ""
 opening_hours: ""
-website: "http://www.ferrarawinery.com/"
+website: http://www.ferrarawinery.com/

@@ -4,8 +4,8 @@ latitude: 38.10815
 longitude: -122.57962
 postcode: "94945"
 city: Novato
-street: "Grant Ave"
-housenumber: 1721
-phone: "+1 415-897-8964"
-opening_hours: "Mo-Sa: 09:00-15:00"
-website: "https://morninggloryflorist.com"
+street: Grant Ave
+housenumber: "1721"
+phone: +1 415-897-8964
+opening_hours: 'Mo-Sa: 09:00-15:00'
+website: https://morninggloryflorist.com

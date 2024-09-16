@@ -4,8 +4,8 @@ latitude: 33.15078
 longitude: -117.22899
 postcode: "92081"
 city: Vista
-street: "La Mirada Drive"
-housenumber: 2314
-phone: "+1-760-727-1177"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://salonfactory.com/"
+street: La Mirada Drive
+housenumber: "2314"
+phone: +1-760-727-1177
+opening_hours: Mo-Fr 09:00-17:00
+website: https://salonfactory.com/

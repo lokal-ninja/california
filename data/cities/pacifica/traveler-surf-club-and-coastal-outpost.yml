@@ -1,11 +1,11 @@
 id: 1299135459
-type: way
+type: node
 latitude: 37.59488
 longitude: -122.50621
 postcode: "94044"
 city: Pacifica
-street: "CA-1"
-housenumber: 5440
-phone: "+1 (650) 735-9192"
-opening_hours: "Mo-Fr 09:00-19:00;Sa-Su 08:00-19:00"
-website: "https://travelersurfclub.com/"
+street: CA-1
+housenumber: "5440"
+phone: +1 (650) 735-9192
+opening_hours: Mo-Fr 09:00-19:00;Sa-Su 08:00-19:00
+website: https://travelersurfclub.com/

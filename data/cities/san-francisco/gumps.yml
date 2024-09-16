@@ -4,8 +4,8 @@ latitude: 37.78872
 longitude: -122.40611
 postcode: ""
 city: San Francisco
-street: "Post Street"
-housenumber: 250
-phone: "+1 866 6122226"
+street: Post Street
+housenumber: "250"
+phone: +1 866 6122226
 opening_hours: ""
-website: "https://gumps.com/"
+website: https://gumps.com/

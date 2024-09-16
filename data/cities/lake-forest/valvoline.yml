@@ -1,11 +1,11 @@
 id: 333370138
-type: way
+type: node
 latitude: 33.67276
 longitude: -117.66537
 postcode: "92630"
 city: Lake Forest
-street: "Rancho Parkway"
-housenumber: 26731
+street: Rancho Parkway
+housenumber: "26731"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/ca/lakeforest/oil-change-gn0049.html"
+website: https://store.vioc.com/ca/lakeforest/oil-change-gn0049.html

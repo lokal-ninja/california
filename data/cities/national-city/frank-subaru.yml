@@ -4,8 +4,9 @@ latitude: 32.65833
 longitude: -117.09949
 postcode: "91950"
 city: National City
-street: "National City Boulevard"
-housenumber: 2829
-phone: "+1-866-760-0643"
-opening_hours: "Sun 10 am - 7 pm, Mon-Fri 8:30 am - 9 pm, Sat 8:30 am - 8 pm; Service and parts: Sun closed, Mon-Sat  7 am - 6 pm"
-website: "https://www.franksubaru.com/"
+street: National City Boulevard
+housenumber: "2829"
+phone: +1-866-760-0643
+opening_hours: 'Sun 10 am - 7 pm, Mon-Fri 8:30 am - 9 pm, Sat 8:30 am - 8 pm; Service
+    and parts: Sun closed, Mon-Sat  7 am - 6 pm'
+website: https://www.franksubaru.com/

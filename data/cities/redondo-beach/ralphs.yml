@@ -1,11 +1,11 @@
 id: 442859695
-type: way
+type: node
 latitude: 33.86739
 longitude: -118.35348
 postcode: "90278"
 city: Redondo Beach
-street: "Hawthorne Boulevard"
-housenumber: 1413
-phone: "+1 310-370-9446"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.ralphs.com/stores/grocery/ca/redondo-beach/south-bay/703/00120"
+street: Hawthorne Boulevard
+housenumber: "1413"
+phone: +1 310-370-9446
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.ralphs.com/stores/grocery/ca/redondo-beach/south-bay/703/00120

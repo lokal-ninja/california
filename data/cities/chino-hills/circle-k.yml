@@ -1,11 +1,11 @@
 id: 452565536
-type: way
+type: node
 latitude: 33.96235
 longitude: -117.69493
 postcode: "91709"
 city: Chino Hills
-street: "Los Serranos Country Club Drive"
-housenumber: 15960
-phone: "(909) 606-9375"
+street: Los Serranos Country Club Drive
+housenumber: "15960"
+phone: (909) 606-9375
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1286506095
-type: way
+type: node
 latitude: 37.49757
 longitude: -120.84858
 postcode: "95380"
 city: Turlock
-street: "North Golden State Boulevard"
-housenumber: 437
-phone: "+1 209 632 0188"
+street: North Golden State Boulevard
+housenumber: "437"
+phone: +1 209 632 0188
 opening_hours: ""
 website: ""

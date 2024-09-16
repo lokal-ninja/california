@@ -1,11 +1,11 @@
 id: 629747136
-type: way
+type: node
 latitude: 37.90651
 longitude: -122.54702
 postcode: "94941"
 city: Mill Valley
-street: "Throckmorton Avenue"
-housenumber: 35
+street: Throckmorton Avenue
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

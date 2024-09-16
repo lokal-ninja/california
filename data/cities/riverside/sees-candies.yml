@@ -1,11 +1,11 @@
 id: 233267709
-type: way
+type: node
 latitude: 33.95397
 longitude: -117.38914
 postcode: ""
 city: Riverside
-street: "Central Avenue"
-housenumber: 3525
+street: Central Avenue
+housenumber: "3525"
 phone: ""
 opening_hours: ""
 website: ""

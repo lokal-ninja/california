@@ -1,11 +1,11 @@
 id: 268532926
-type: way
+type: node
 latitude: 34.02935
 longitude: -117.80978
 postcode: "91765"
 city: Diamond Bar
-street: "North Diamond Bar Boulevard"
-housenumber: 530
-phone: "+1 909-860-3605"
+street: North Diamond Bar Boulevard
+housenumber: "530"
+phone: +1 909-860-3605
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/diamond-bar/530-n.-diamond-bar-13993"
+website: https://www.7-eleven.com/locations/ca/diamond-bar/530-n.-diamond-bar-13993

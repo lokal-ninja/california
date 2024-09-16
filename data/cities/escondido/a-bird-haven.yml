@@ -1,11 +1,11 @@
 id: 94333923
-type: way
+type: node
 latitude: 33.12269
 longitude: -117.07913
 postcode: "92025"
 city: Escondido
-street: "East Grand Avenue"
-housenumber: 249
+street: East Grand Avenue
+housenumber: "249"
 phone: ""
 opening_hours: ""
-website: "https://www.ourfeatheredfriends.com/"
+website: https://www.ourfeatheredfriends.com/

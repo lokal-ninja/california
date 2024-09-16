@@ -1,11 +1,11 @@
 id: 616957560
-type: way
+type: node
 latitude: 37.96844
 longitude: -122.52301
 postcode: "94901"
 city: San Rafael
-street: "Irwin Street"
-housenumber: 655
-phone: "+1 415-524-1159"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/ca/san-rafael/irwin-st/"
+street: Irwin Street
+housenumber: "655"
+phone: +1 415-524-1159
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/ca/san-rafael/irwin-st/

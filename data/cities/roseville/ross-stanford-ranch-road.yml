@@ -1,11 +1,11 @@
 id: 45407097
-type: way
+type: node
 latitude: 38.78325
 longitude: -121.26897
 postcode: "95678"
 city: Roseville
-street: "Stanford Ranch Road"
-housenumber: 6744
-phone: "+1 916-771-8920"
-opening_hours: "Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 10:00-22:00"
+street: Stanford Ranch Road
+housenumber: "6744"
+phone: +1 916-771-8920
+opening_hours: Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 10:00-22:00
 website: ""

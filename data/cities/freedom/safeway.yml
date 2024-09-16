@@ -1,11 +1,11 @@
 id: 35263622
-type: way
+type: node
 latitude: 36.9396
 longitude: -121.77535
-postcode: "95019-2834"
+postcode: 95019-2834
 city: Freedom
-street: "Freedom Boulevard"
-housenumber: 2010
-phone: "+1 831-728-2640"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://local.safeway.com/safeway/ca/freedom/2010-freedom-blvd.html"
+street: Freedom Boulevard
+housenumber: "2010"
+phone: +1 831-728-2640
+opening_hours: Mo-Su 06:00-24:00
+website: https://local.safeway.com/safeway/ca/freedom/2010-freedom-blvd.html

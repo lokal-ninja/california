@@ -1,11 +1,11 @@
 id: 166195195
-type: way
+type: node
 latitude: 37.72276
 longitude: -122.15613
 postcode: "94577"
 city: San Leandro
-street: "Washington Avenue"
-housenumber: 1499
-phone: "+1 510-895-2660"
-opening_hours: "06:00-24:00"
-website: "https://local.safeway.com/safeway/ca/san-leandro/1499-washington-ave.html"
+street: Washington Avenue
+housenumber: "1499"
+phone: +1 510-895-2660
+opening_hours: 06:00-24:00
+website: https://local.safeway.com/safeway/ca/san-leandro/1499-washington-ave.html

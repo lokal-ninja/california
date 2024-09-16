@@ -1,11 +1,11 @@
 id: 219058329
-type: way
+type: node
 latitude: 37.75395
 longitude: -122.48925
 postcode: "94122"
 city: San Francisco
-street: "Noriega Street"
-housenumber: 2350
-phone: "+1 415-665-4565"
-opening_hours: "06:00-02:00"
-website: "https://local.safeway.com/safeway/ca/san-francisco/2350-noriega-st.html"
+street: Noriega Street
+housenumber: "2350"
+phone: +1 415-665-4565
+opening_hours: 06:00-02:00
+website: https://local.safeway.com/safeway/ca/san-francisco/2350-noriega-st.html

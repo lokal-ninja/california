@@ -1,11 +1,11 @@
 id: 884955730
-type: way
+type: node
 latitude: 37.02196
 longitude: -121.5692
-postcode: "95020-3608"
+postcode: 95020-3608
 city: Gilroy
-street: "Leavesley Road"
-housenumber: 401
+street: Leavesley Road
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

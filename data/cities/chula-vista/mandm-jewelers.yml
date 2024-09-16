@@ -4,8 +4,8 @@ latitude: 32.64241
 longitude: -117.08054
 postcode: "91910"
 city: Chula Vista
-street: "3rd Avenue"
-housenumber: 266
+street: 3rd Avenue
+housenumber: "266"
 phone: "+16194262992"
-opening_hours: "Mo-Fr 09:30-18:00;Sa 09:30-17:00;Su closed"
-website: "https://mmjewelers.net/"
+opening_hours: Mo-Fr 09:30-18:00;Sa 09:30-17:00;Su closed
+website: https://mmjewelers.net/

@@ -1,11 +1,11 @@
 id: 132258392
-type: way
+type: node
 latitude: 33.56661
 longitude: -117.7132
 postcode: "92677"
 city: Laguna Niguel
-street: "Alicia Parkway"
-housenumber: 27320
+street: Alicia Parkway
+housenumber: "27320"
 phone: ""
 opening_hours: ""
-website: "https://local.pavilions.com/ca/laguna-niguel/27320-alicia-pkwy.html"
+website: https://local.pavilions.com/ca/laguna-niguel/27320-alicia-pkwy.html

@@ -1,11 +1,11 @@
 id: 229838258
-type: way
+type: node
 latitude: 37.32234
 longitude: -121.90054
 postcode: "95126"
 city: San Jose
-street: "Auzerais Avenue"
-housenumber: 682
+street: Auzerais Avenue
+housenumber: "682"
 phone: ""
 opening_hours: ""
 website: ""

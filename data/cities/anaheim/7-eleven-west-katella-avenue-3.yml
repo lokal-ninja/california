@@ -1,11 +1,11 @@
 id: 121175846
-type: way
+type: node
 latitude: 33.80372
 longitude: -117.90717
-postcode: "92802-3601"
+postcode: 92802-3601
 city: Anaheim
-street: "West Katella Avenue"
-housenumber: 100
-phone: "+1 714-956-7893"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ca/anaheim/101-w.-katella-ave-19200"
+street: West Katella Avenue
+housenumber: "100"
+phone: +1 714-956-7893
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ca/anaheim/101-w.-katella-ave-19200

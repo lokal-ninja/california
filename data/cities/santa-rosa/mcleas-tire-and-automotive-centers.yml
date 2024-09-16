@@ -1,11 +1,11 @@
 id: 641455372
-type: way
+type: node
 latitude: 38.42084
 longitude: -122.71443
 postcode: "95407"
 city: Santa Rosa
-street: "Baker Avenue"
-housenumber: 106
-phone: "+1-707-755-7317"
-opening_hours: "Tu-Fr 08:00-17:30; Sa 08:00-16:00"
+street: Baker Avenue
+housenumber: "106"
+phone: +1-707-755-7317
+opening_hours: Tu-Fr 08:00-17:30; Sa 08:00-16:00
 website: ""

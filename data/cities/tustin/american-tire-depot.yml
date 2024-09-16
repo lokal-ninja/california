@@ -1,11 +1,11 @@
 id: 507415947
-type: way
+type: node
 latitude: 33.73611
 longitude: -117.82327
 postcode: "92780"
 city: Tustin
-street: "Newport Avenue"
-housenumber: 14122
+street: Newport Avenue
+housenumber: "14122"
 phone: ""
 opening_hours: ""
 website: ""

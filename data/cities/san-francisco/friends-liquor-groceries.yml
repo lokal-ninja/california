@@ -4,8 +4,8 @@ latitude: 37.78601
 longitude: -122.43313
 postcode: "94115"
 city: San Francisco
-street: "Fillmore Street"
-housenumber: 1758
+street: Fillmore Street
+housenumber: "1758"
 phone: ""
 opening_hours: ""
-website: "https://friendsliquor.com/"
+website: https://friendsliquor.com/

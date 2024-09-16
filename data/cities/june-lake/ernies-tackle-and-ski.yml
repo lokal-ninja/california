@@ -1,11 +1,11 @@
 id: 42154002
-type: way
+type: node
 latitude: 37.78023
 longitude: -119.07545
 postcode: ""
 city: June Lake
-street: "Boulder Drive"
-housenumber: 2604
+street: Boulder Drive
+housenumber: "2604"
 phone: ""
 opening_hours: ""
 website: ""

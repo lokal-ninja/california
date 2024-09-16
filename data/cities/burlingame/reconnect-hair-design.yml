@@ -1,11 +1,11 @@
 id: 237686123
-type: way
+type: node
 latitude: 37.57882
 longitude: -122.34562
 postcode: ""
 city: Burlingame
-street: "Lorton Avenue"
-housenumber: 256
-phone: "650-347-1202"
+street: Lorton Avenue
+housenumber: "256"
+phone: 650-347-1202
 opening_hours: ""
-website: "https://www.reconnecthairdesign.com/"
+website: https://www.reconnecthairdesign.com/

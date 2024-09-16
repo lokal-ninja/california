@@ -1,11 +1,11 @@
 id: 375227234
-type: way
+type: node
 latitude: 32.83921
 longitude: -117.27893
 postcode: ""
 city: San Diego
-street: "Pearl Street"
-housenumber: 454
+street: Pearl Street
+housenumber: "454"
 phone: ""
-opening_hours: "07:00-19:00"
+opening_hours: 07:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1116455767
-type: way
+type: node
 latitude: 38.42429
 longitude: -121.41745
 postcode: "95758"
 city: Elk Grove
-street: "Laguna Boulevard"
-housenumber: 7415
-phone: "+1 916-525-8715"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-19:00"
-website: "https://stores.dsw.com/usa/ca/elkgrove/dsw-designer-shoe-warehouse-laguna-crossroads.html"
+street: Laguna Boulevard
+housenumber: "7415"
+phone: +1 916-525-8715
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-19:00
+website: https://stores.dsw.com/usa/ca/elkgrove/dsw-designer-shoe-warehouse-laguna-crossroads.html

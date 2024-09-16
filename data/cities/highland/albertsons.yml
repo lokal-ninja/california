@@ -1,11 +1,11 @@
 id: 208956864
-type: way
+type: node
 latitude: 34.12419
 longitude: -117.1939
 postcode: "92346"
 city: Highland
-street: "Boulder Avenue"
-housenumber: 7201
-phone: "+1 909-425-9100"
+street: Boulder Avenue
+housenumber: "7201"
+phone: +1 909-425-9100
 opening_hours: ""
-website: "https://local.albertsons.com/ca/highland/7201-boulder-ave.html"
+website: https://local.albertsons.com/ca/highland/7201-boulder-ave.html

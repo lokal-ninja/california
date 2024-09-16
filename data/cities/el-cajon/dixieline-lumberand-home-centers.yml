@@ -1,11 +1,11 @@
 id: 527564446
-type: way
+type: node
 latitude: 32.79619
 longitude: -116.9378
 postcode: "92019"
 city: El Cajon
-street: "East Main Street"
-housenumber: 1262
+street: East Main Street
+housenumber: "1262"
 phone: "+16194407711"
 opening_hours: ""
-website: "https://www.dixieline.com/"
+website: https://www.dixieline.com/

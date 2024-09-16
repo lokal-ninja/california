@@ -4,8 +4,8 @@ latitude: 34.4685
 longitude: -117.35108
 postcode: "92392"
 city: Victorville
-street: "Bear Valley Road"
-housenumber: 14333
-phone: "+1 760-949-9565"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/ca-victorville/1001"
+street: Bear Valley Road
+housenumber: "14333"
+phone: +1 760-949-9565
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/ca-victorville/1001

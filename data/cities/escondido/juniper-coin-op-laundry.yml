@@ -1,11 +1,11 @@
 id: 96501513
-type: way
+type: node
 latitude: 33.12242
 longitude: -117.07848
 postcode: "92025"
 city: Escondido
-street: "East 2nd Avenue"
-housenumber: 
+street: East 2nd Avenue
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

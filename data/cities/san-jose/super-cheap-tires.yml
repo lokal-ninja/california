@@ -1,11 +1,11 @@
 id: 363686746
-type: way
+type: node
 latitude: 37.33322
 longitude: -121.87582
 postcode: "95112"
 city: San Jose
-street: "East William Street"
-housenumber: 447
-phone: "+1-408-449-6843"
+street: East William Street
+housenumber: "447"
+phone: +1-408-449-6843
 opening_hours: ""
 website: ""

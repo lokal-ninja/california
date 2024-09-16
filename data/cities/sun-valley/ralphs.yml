@@ -4,8 +4,8 @@ latitude: 34.22262
 longitude: -118.39775
 postcode: "91352"
 city: Sun Valley
-street: "Laurel Canyon Boulevard"
-housenumber: 8325
-phone: "+1 818-768-0378"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.ralphs.com/onlinedeli/servlet/TopCategoriesDisplayView?catalogId=10102&langId=-1&storeId=10154&changeStore=Y&loaded=true"
+street: Laurel Canyon Boulevard
+housenumber: "8325"
+phone: +1 818-768-0378
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.ralphs.com/onlinedeli/servlet/TopCategoriesDisplayView?catalogId=10102&langId=-1&storeId=10154&changeStore=Y&loaded=true

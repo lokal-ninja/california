@@ -1,11 +1,11 @@
 id: 190262186
-type: way
+type: node
 latitude: 33.71675
 longitude: -117.98677
 postcode: "92647"
 city: Huntington Beach
-street: "B Street"
-housenumber: 16891
-phone: "+1 714-907-9006"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ca-huntington-beach/1753"
+street: B Street
+housenumber: "16891"
+phone: +1 714-907-9006
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ca-huntington-beach/1753

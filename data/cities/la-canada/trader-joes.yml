@@ -1,11 +1,11 @@
 id: 229131720
-type: way
+type: node
 latitude: 34.2
 longitude: -118.18815
 postcode: "91011"
 city: La Canada
-street: "Foothill Boulevard"
-housenumber: 475
-phone: "+1 818-790-6373"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://locations.traderjoes.com/ca/la-canada/42/"
+street: Foothill Boulevard
+housenumber: "475"
+phone: +1 818-790-6373
+opening_hours: Mo-Su 08:00-21:00
+website: https://locations.traderjoes.com/ca/la-canada/42/

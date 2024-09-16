@@ -1,11 +1,11 @@
 id: 776145693
-type: way
+type: node
 latitude: 40.57233
 longitude: -122.35927
 postcode: "96003"
 city: Redding
-street: "Grove Street"
-housenumber: 
+street: Grove Street
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.fators.com/"
+website: https://www.fators.com/

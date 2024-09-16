@@ -1,11 +1,11 @@
 id: 131286008
-type: way
+type: node
 latitude: 33.84942
 longitude: -117.79157
 postcode: "92807"
 city: Anaheim
-street: "Santa Ana Canyon Road"
-housenumber: 5600
-phone: "+1 714-998-3751"
-opening_hours: "05:00-24:00"
-website: "https://local.vons.com/ca/anaheim/5600-santa-ana-canyon-rd.html"
+street: Santa Ana Canyon Road
+housenumber: "5600"
+phone: +1 714-998-3751
+opening_hours: 05:00-24:00
+website: https://local.vons.com/ca/anaheim/5600-santa-ana-canyon-rd.html

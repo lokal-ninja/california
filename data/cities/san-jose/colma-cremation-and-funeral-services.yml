@@ -4,8 +4,8 @@ latitude: 37.33792
 longitude: -121.8942
 postcode: "95113"
 city: San Jose
-street: "North Market Street"
-housenumber: 111
-phone: "+1-408-755-9101"
-opening_hours: "24/7"
-website: "https://www.colmacremation.com/"
+street: North Market Street
+housenumber: "111"
+phone: +1-408-755-9101
+opening_hours: 24/7
+website: https://www.colmacremation.com/

@@ -1,11 +1,11 @@
 id: 1151696120
-type: way
+type: node
 latitude: 37.6455
 longitude: -121.00534
 postcode: "95354"
 city: Modesto
-street: "11th Street"
-housenumber: 1433
+street: 11th Street
+housenumber: "1433"
 phone: ""
 opening_hours: ""
 website: ""

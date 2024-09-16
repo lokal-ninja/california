@@ -1,11 +1,11 @@
 id: 176222291
-type: way
+type: node
 latitude: 35.20237
 longitude: -120.61209
 postcode: "93401"
 city: San Luis Obispo
-street: "Old Price Canyon Road"
-housenumber: 1653
+street: Old Price Canyon Road
+housenumber: "1653"
 phone: ""
 opening_hours: ""
-website: "https://www.sextantwines.com/"
+website: https://www.sextantwines.com/

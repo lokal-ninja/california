@@ -4,8 +4,8 @@ latitude: 37.42609
 longitude: -122.14704
 postcode: ""
 city: Palo Alto
-street: "El Camino Real"
-housenumber: 2233
-phone: "+1 650-323-8388"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://pippaloalto.com"
+street: El Camino Real
+housenumber: "2233"
+phone: +1 650-323-8388
+opening_hours: Mo-Fr 08:00-17:00
+website: https://pippaloalto.com

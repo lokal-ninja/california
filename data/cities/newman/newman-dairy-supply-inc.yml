@@ -1,11 +1,11 @@
 id: 189005011
-type: way
+type: node
 latitude: 37.31306
 longitude: -121.02277
 postcode: "95360"
 city: Newman
-street: "Merced Street"
-housenumber: 1030
+street: Merced Street
+housenumber: "1030"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 100401087
-type: way
+type: node
 latitude: 33.12738
 longitude: -117.07333
 postcode: "92025"
 city: Escondido
-street: "East Valley Parkway"
-housenumber: 719
+street: East Valley Parkway
+housenumber: "719"
 phone: ""
 opening_hours: ""
-website: "http://www.cathyscanine.com/"
+website: http://www.cathyscanine.com/

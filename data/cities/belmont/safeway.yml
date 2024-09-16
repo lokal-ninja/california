@@ -1,11 +1,11 @@
 id: 93759078
-type: way
+type: node
 latitude: 37.51828
 longitude: -122.27576
 postcode: "94002"
 city: Belmont
-street: "El Camino Real"
-housenumber: 1110
-phone: "+1 650-596-1730"
-opening_hours: "Mo-Su 05:00-02:00"
-website: "https://local.safeway.com/safeway/ca/belmont/1100-el-camino.html"
+street: El Camino Real
+housenumber: "1110"
+phone: +1 650-596-1730
+opening_hours: Mo-Su 05:00-02:00
+website: https://local.safeway.com/safeway/ca/belmont/1100-el-camino.html

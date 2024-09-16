@@ -1,11 +1,11 @@
 id: 451459303
-type: way
+type: node
 latitude: 34.00025
 longitude: -118.16065
 postcode: "90040"
 city: Commerce
-street: "East Washington Boulevard"
-housenumber: 5536
-phone: "+1-323-838-9486"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ca/commerce/5536-e-washington-blvd-33459"
+street: East Washington Boulevard
+housenumber: "5536"
+phone: +1-323-838-9486
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ca/commerce/5536-e-washington-blvd-33459

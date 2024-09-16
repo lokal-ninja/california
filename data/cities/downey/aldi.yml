@@ -1,11 +1,11 @@
 id: 935640545
-type: way
+type: node
 latitude: 33.93456
 longitude: -118.12508
-postcode: "90241-5204"
+postcode: 90241-5204
 city: Downey
-street: "Lakewood Boulevard"
-housenumber: 11215
-phone: "+1 562-320-8840"
-opening_hours: "Mo, We, Fr-Su 09:00-21:00; Tu, Th 08:30-21:00"
-website: "https://stores.aldi.us/ca/downey/11215-lakewood-blvd"
+street: Lakewood Boulevard
+housenumber: "11215"
+phone: +1 562-320-8840
+opening_hours: Mo, We, Fr-Su 09:00-21:00; Tu, Th 08:30-21:00
+website: https://stores.aldi.us/ca/downey/11215-lakewood-blvd

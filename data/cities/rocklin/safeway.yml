@@ -1,11 +1,11 @@
 id: 240072873
-type: way
+type: node
 latitude: 38.78963
 longitude: -121.22238
 postcode: "95677"
 city: Rocklin
-street: "Granite Drive"
-housenumber: 4805
-phone: "+1 916-624-0669"
-opening_hours: "06:00-24:00"
-website: "https://local.safeway.com/safeway/ca/rocklin/4805-granite-dr.html"
+street: Granite Drive
+housenumber: "4805"
+phone: +1 916-624-0669
+opening_hours: 06:00-24:00
+website: https://local.safeway.com/safeway/ca/rocklin/4805-granite-dr.html

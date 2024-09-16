@@ -1,11 +1,11 @@
 id: 732153528
-type: way
+type: node
 latitude: 39.23787
 longitude: -120.02977
 postcode: "96143"
 city: Kings Beach
-street: "Secline Street"
-housenumber: 200
-phone: "+1 530-546-3505"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-18:00; Su 09:00-17:00"
-website: "https://www.acehardware.com/mystore/index.jsp?store=11120"
+street: Secline Street
+housenumber: "200"
+phone: +1 530-546-3505
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-18:00; Su 09:00-17:00
+website: https://www.acehardware.com/mystore/index.jsp?store=11120

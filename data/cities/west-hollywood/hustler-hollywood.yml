@@ -1,11 +1,11 @@
 id: 391211974
-type: way
+type: node
 latitude: 34.09045
 longitude: -118.38617
 postcode: "90069"
 city: West Hollywood
-street: "West Sunset Boulevard"
-housenumber: 8920
-phone: "+1-310-860-9009"
-opening_hours: "Mo-Th 10:00-00:00, Fr-Sa 10:00-02:00, Su 12:00-00:00"
-website: "https://hustlerhollywood.com"
+street: West Sunset Boulevard
+housenumber: "8920"
+phone: +1-310-860-9009
+opening_hours: Mo-Th 10:00-00:00, Fr-Sa 10:00-02:00, Su 12:00-00:00
+website: https://hustlerhollywood.com

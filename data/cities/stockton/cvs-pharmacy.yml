@@ -1,11 +1,11 @@
 id: 1011632078
-type: way
+type: node
 latitude: 38.01103
 longitude: -121.31969
 postcode: "95207"
 city: Stockton
-street: "Pacific Avenue"
-housenumber: 6632
+street: Pacific Avenue
+housenumber: "6632"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/stockton-ca-pharmacies/6632-pacific-ave-stockton-ca-95207/storeid=9830"
+website: https://www.cvs.com/store-locator/stockton-ca-pharmacies/6632-pacific-ave-stockton-ca-95207/storeid=9830

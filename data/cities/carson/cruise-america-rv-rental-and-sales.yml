@@ -1,11 +1,11 @@
 id: 408790818
-type: way
+type: node
 latitude: 33.82498
 longitude: -118.23269
 postcode: "90810"
 city: Carson
-street: "East 223rd Street"
-housenumber: 2233
+street: East 223rd Street
+housenumber: "2233"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 331020383
-type: way
+type: node
 latitude: 33.6804
 longitude: -117.66432
 postcode: "92610"
 city: Foothill Ranch
-street: "Portola Parkway"
-housenumber: 26731
+street: Portola Parkway
+housenumber: "26731"
 phone: ""
 opening_hours: ""
 website: ""

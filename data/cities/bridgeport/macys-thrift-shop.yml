@@ -1,11 +1,11 @@
 id: 42155031
-type: way
+type: node
 latitude: 38.25551
 longitude: -119.22872
 postcode: ""
 city: Bridgeport
-street: "Main Street"
-housenumber: 291
+street: Main Street
+housenumber: "291"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 39019344
-type: way
+type: node
 latitude: 37.36126
 longitude: -121.89467
 postcode: "95112"
 city: San Jose
-street: "North 11th Street"
-housenumber: 1036
+street: North 11th Street
+housenumber: "1036"
 phone: ""
 opening_hours: ""
 website: ""

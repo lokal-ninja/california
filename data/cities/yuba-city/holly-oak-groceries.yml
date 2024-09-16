@@ -1,11 +1,11 @@
 id: 1306422797
-type: way
+type: node
 latitude: 39.1199
 longitude: -121.61717
 postcode: "95991"
 city: Yuba City
-street: "Garden Highway"
-housenumber: 555
-phone: "+1-530-671-9064"
+street: Garden Highway
+housenumber: "555"
+phone: +1-530-671-9064
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 38.24512
 longitude: -122.08459
 postcode: "94534"
 city: Fairfield
-street: "Chadbourne Road"
-housenumber: 4185
-phone: "+1 707 372 1434"
-opening_hours: "By appointment only"
-website: "https://www.tolenaswinery.com/"
+street: Chadbourne Road
+housenumber: "4185"
+phone: +1 707 372 1434
+opening_hours: '"By appointment only"'
+website: https://www.tolenaswinery.com/

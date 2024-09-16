@@ -1,11 +1,11 @@
 id: 1251932095
-type: way
+type: node
 latitude: 34.22193
 longitude: -118.46062
 postcode: "91402"
 city: North Hills
-street: "Roscoe Boulevard"
-housenumber: 15033
+street: Roscoe Boulevard
+housenumber: "15033"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 45599870
-type: way
+type: node
 latitude: 35.29297
 longitude: -120.66182
 postcode: ""
 city: San Luis Obispo
-street: "Hathway Avenue"
-housenumber: 290
+street: Hathway Avenue
+housenumber: "290"
 phone: ""
 opening_hours: ""
 website: ""

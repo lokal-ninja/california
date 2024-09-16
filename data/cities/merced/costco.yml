@@ -1,11 +1,11 @@
 id: 311695693
-type: way
+type: node
 latitude: 37.30385
 longitude: -120.49777
-postcode: "95340-5850"
+postcode: 95340-5850
 city: Merced
-street: "R Street"
-housenumber: 1445
-phone: "+1 209-725-5020"
-opening_hours: "Mo-Fr 09:00-20:30; Sa 09:00-19:00; Su 09:00-18:00"
-website: "https://www.costco.com/warehouse-locations/merced-ca-142.html"
+street: R Street
+housenumber: "1445"
+phone: +1 209-725-5020
+opening_hours: Mo-Fr 09:00-20:30; Sa 09:00-19:00; Su 09:00-18:00
+website: https://www.costco.com/warehouse-locations/merced-ca-142.html

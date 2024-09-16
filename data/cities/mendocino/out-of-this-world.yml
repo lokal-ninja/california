@@ -1,11 +1,11 @@
 id: 343812912
-type: way
+type: node
 latitude: 39.30483
 longitude: -123.8016
 postcode: "95460"
 city: Mendocino
-street: "Main Street"
-housenumber: 45100
+street: Main Street
+housenumber: "45100"
 phone: ""
-opening_hours: "Mo-Su 10:30-17:00"
-website: "https://outofthisworldshop.com/"
+opening_hours: Mo-Su 10:30-17:00
+website: https://outofthisworldshop.com/

@@ -1,11 +1,11 @@
 id: 344057345
-type: way
+type: node
 latitude: 37.66872
 longitude: -122.46724
 postcode: "94015"
 city: Daly City
-street: "Gellert Boulevard"
-housenumber: 301
-phone: "+1 415-325-1091"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/ca/daly-city/gellert-blvd/"
+street: Gellert Boulevard
+housenumber: "301"
+phone: +1 415-325-1091
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/ca/daly-city/gellert-blvd/

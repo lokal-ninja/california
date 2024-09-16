@@ -1,11 +1,11 @@
 id: 160439382
-type: way
+type: node
 latitude: 33.77338
 longitude: -117.93937
 postcode: "92843"
 city: Garden Grove
-street: "Garden Grove Boulevard"
-housenumber: 11100
-phone: "+1 714-534-6601"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 10:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/ca/garden-grove/office-depot-970"
+street: Garden Grove Boulevard
+housenumber: "11100"
+phone: +1 714-534-6601
+opening_hours: Mo-Fr 09:00-20:00; Sa 10:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/ca/garden-grove/office-depot-970

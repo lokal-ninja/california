@@ -1,11 +1,11 @@
 id: 38827909
-type: way
+type: node
 latitude: 37.29622
 longitude: -121.94012
 postcode: "95008"
 city: Campbell
-street: "East Hamilton Avenue"
-housenumber: 525
-phone: "+1 408-866-5171"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/ca/campbell-977.shtml"
+street: East Hamilton Avenue
+housenumber: "525"
+phone: +1 408-866-5171
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/ca/campbell-977.shtml

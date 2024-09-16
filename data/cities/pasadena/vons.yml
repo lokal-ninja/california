@@ -1,11 +1,11 @@
 id: 43668491
-type: way
+type: node
 latitude: 34.13653
 longitude: -118.15311
 postcode: "91105"
 city: Pasadena
-street: "West California Boulevard"
-housenumber: 155
-phone: "+1 626-577-7149"
+street: West California Boulevard
+housenumber: "155"
+phone: +1 626-577-7149
 opening_hours: ""
-website: "https://local.vons.com/ca/pasadena/155-california-blvd.html"
+website: https://local.vons.com/ca/pasadena/155-california-blvd.html

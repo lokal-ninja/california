@@ -1,11 +1,11 @@
 id: 133110016
-type: way
+type: node
 latitude: 32.86251
 longitude: -117.22395
 postcode: "92122"
 city: San Diego
-street: "Regents Road"
-housenumber: 7788
-phone: "+1 858-455-6130"
+street: Regents Road
+housenumber: "7788"
+phone: +1 858-455-6130
 opening_hours: ""
-website: "https://local.vons.com/ca/san-diego/7788-regents-rd.html"
+website: https://local.vons.com/ca/san-diego/7788-regents-rd.html

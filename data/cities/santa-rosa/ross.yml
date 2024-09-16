@@ -4,8 +4,8 @@ latitude: 38.44303
 longitude: -122.68639
 postcode: "95405"
 city: Santa Rosa
-street: "Farmer's Lane"
-housenumber: 800
-phone: "+1 707-575-1690"
-opening_hours: "Mo-Th 09:00-23:00; Fr-Sa 09:00-23:30; Su 09:30-22:30"
+street: Farmer's Lane
+housenumber: "800"
+phone: +1 707-575-1690
+opening_hours: Mo-Th 09:00-23:00; Fr-Sa 09:00-23:30; Su 09:30-22:30
 website: ""

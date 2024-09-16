@@ -1,11 +1,11 @@
 id: 201659367
-type: way
+type: node
 latitude: 36.67418
 longitude: -121.65554
 postcode: "93901"
 city: Salinas
-street: "South Main Street"
-housenumber: 256
-phone: "(831) 422-2967"
-opening_hours: "Mo-Fr 9:00-17:30; Sa 10:00-1:00"
-website: "http://www.valleytrophiesoldtown.com/"
+street: South Main Street
+housenumber: "256"
+phone: (831) 422-2967
+opening_hours: Mo-Fr 9:00-17:30; Sa 10:00-1:00
+website: http://www.valleytrophiesoldtown.com/

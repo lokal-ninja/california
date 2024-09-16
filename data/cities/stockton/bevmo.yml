@@ -1,11 +1,11 @@
 id: 287624442
-type: way
+type: node
 latitude: 38.00769
 longitude: -121.32032
 postcode: ""
 city: Stockton
-street: "Pacific Avenue"
-housenumber: 6393
+street: Pacific Avenue
+housenumber: "6393"
 phone: ""
 opening_hours: ""
 website: ""

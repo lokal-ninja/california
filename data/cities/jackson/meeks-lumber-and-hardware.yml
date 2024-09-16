@@ -1,11 +1,11 @@
 id: 606632410
-type: way
+type: node
 latitude: 38.36774
 longitude: -120.79704
 postcode: "95642"
 city: Jackson
-street: "CA 49"
-housenumber: 10422
+street: CA 49
+housenumber: "10422"
 phone: ""
 opening_hours: ""
 website: ""

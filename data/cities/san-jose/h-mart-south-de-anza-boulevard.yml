@@ -1,11 +1,11 @@
 id: 114059853
-type: way
+type: node
 latitude: 37.30391
 longitude: -122.03334
 postcode: "95129"
 city: San Jose
-street: "South De Anza Boulevard"
-housenumber: 1179
+street: South De Anza Boulevard
+housenumber: "1179"
 phone: ""
 opening_hours: ""
 website: ""

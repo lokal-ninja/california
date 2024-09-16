@@ -1,11 +1,11 @@
 id: 997050977
-type: way
+type: node
 latitude: 32.70744
 longitude: -117.01009
 postcode: "91977"
 city: Spring Valley
-street: "Sweetwater Road"
-housenumber: 501
+street: Sweetwater Road
+housenumber: "501"
 phone: ""
 opening_hours: ""
 website: ""

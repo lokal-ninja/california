@@ -1,11 +1,11 @@
 id: 133172101
-type: way
+type: node
 latitude: 32.83753
 longitude: -116.98744
 postcode: "92071"
 city: Santee
-street: "Mission Gorge Road"
-housenumber: 9643
-phone: "+1 619-596-5930"
-opening_hours: "Mo-Su 05:00-01:00"
-website: "https://local.vons.com/ca/santee/9643-mission-gorge-rd.html"
+street: Mission Gorge Road
+housenumber: "9643"
+phone: +1 619-596-5930
+opening_hours: Mo-Su 05:00-01:00
+website: https://local.vons.com/ca/santee/9643-mission-gorge-rd.html

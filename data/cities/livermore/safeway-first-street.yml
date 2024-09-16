@@ -1,11 +1,11 @@
 id: 252719425
-type: way
+type: node
 latitude: 37.68015
 longitude: -121.7777
 postcode: "94550"
 city: Livermore
-street: "First Street"
-housenumber: 1554
-phone: "+1 925-455-5667"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/ca/livermore/1554-first-st.html"
+street: First Street
+housenumber: "1554"
+phone: +1 925-455-5667
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/ca/livermore/1554-first-st.html

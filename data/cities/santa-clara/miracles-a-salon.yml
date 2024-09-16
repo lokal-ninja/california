@@ -1,11 +1,11 @@
 id: 484518340
-type: way
+type: node
 latitude: 37.34344
 longitude: -121.94048
 postcode: "95050"
 city: Santa Clara
-street: "Poplar Street"
-housenumber: 976
+street: Poplar Street
+housenumber: "976"
 phone: ""
 opening_hours: ""
 website: ""

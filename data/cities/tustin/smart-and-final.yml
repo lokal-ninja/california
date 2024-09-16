@@ -1,11 +1,11 @@
 id: 228737740
-type: way
+type: node
 latitude: 33.74736
 longitude: -117.81037
 postcode: "92780"
 city: Tustin
-street: "Irvine Boulevard"
-housenumber: 1114
+street: Irvine Boulevard
+housenumber: "1114"
 phone: ""
 opening_hours: ""
 website: ""

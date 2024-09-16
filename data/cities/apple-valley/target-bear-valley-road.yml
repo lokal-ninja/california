@@ -1,11 +1,11 @@
 id: 460850832
-type: way
+type: node
 latitude: 34.46908
 longitude: -117.24421
-postcode: "92308-6763"
+postcode: 92308-6763
 city: Apple Valley
-street: "Bear Valley Road"
-housenumber: 19201
-phone: "+1 760-247-4111"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/apple-valley/939"
+street: Bear Valley Road
+housenumber: "19201"
+phone: +1 760-247-4111
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/apple-valley/939

@@ -1,11 +1,11 @@
 id: 314222044
-type: way
+type: node
 latitude: 33.77471
 longitude: -118.11912
 postcode: "90803"
 city: Long Beach
-street: "East 7th Street"
-housenumber: 5760
-phone: "+1-562-343-9142"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.target.com/sl/long-beach-bixby/3225"
+street: East 7th Street
+housenumber: "5760"
+phone: +1-562-343-9142
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.target.com/sl/long-beach-bixby/3225

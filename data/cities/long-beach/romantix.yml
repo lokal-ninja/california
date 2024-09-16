@@ -4,8 +4,8 @@ latitude: 33.76759
 longitude: -118.17108
 postcode: "90802"
 city: Long Beach
-street: "East Broadway"
-housenumber: 1712
+street: East Broadway
+housenumber: "1712"
 phone: ""
-opening_hours: "Mo-Su 12:00-01:00"
-website: "https://www.romantix.com/s/content/c/Romantix_Long_Beach_CA"
+opening_hours: Mo-Su 12:00-01:00
+website: https://www.romantix.com/s/content/c/Romantix_Long_Beach_CA

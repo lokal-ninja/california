@@ -1,11 +1,11 @@
 id: 513189182
-type: way
+type: node
 latitude: 37.02972
 longitude: -121.93398
 postcode: ""
 city: Soquel
-street: "Glen Haven Road"
-housenumber: 8063
-phone: "+1-831 462-9045"
+street: Glen Haven Road
+housenumber: "8063"
+phone: +1-831 462-9045
 opening_hours: ""
 website: ""

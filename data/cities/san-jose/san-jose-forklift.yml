@@ -1,11 +1,11 @@
 id: 355249921
-type: way
+type: node
 latitude: 37.34439
 longitude: -121.91718
 postcode: "95110"
 city: San Jose
-street: "Stockton Avenue"
-housenumber: 888
+street: Stockton Avenue
+housenumber: "888"
 phone: ""
 opening_hours: ""
-website: "https://www.sanjoseforklift.com/"
+website: https://www.sanjoseforklift.com/

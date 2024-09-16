@@ -1,11 +1,11 @@
 id: 287617108
-type: way
+type: node
 latitude: 37.98393
 longitude: -121.34033
 postcode: "95207"
 city: Stockton
-street: "Da Vinci Drive"
-housenumber: 4627
+street: Da Vinci Drive
+housenumber: "4627"
 phone: ""
 opening_hours: ""
 website: ""

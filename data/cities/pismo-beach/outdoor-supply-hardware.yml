@@ -1,11 +1,11 @@
 id: 162027920
-type: way
+type: node
 latitude: 35.13212
 longitude: -120.60776
 postcode: "93449"
 city: Pismo Beach
-street: "Oak Park Boulevard"
-housenumber: 825
-phone: "+1 805-779-3066"
-opening_hours: "Mo-Sa 07:00-20:00; Su 08:00-18:00"
+street: Oak Park Boulevard
+housenumber: "825"
+phone: +1 805-779-3066
+opening_hours: Mo-Sa 07:00-20:00; Su 08:00-18:00
 website: ""

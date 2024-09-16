@@ -1,11 +1,11 @@
 id: 169535805
-type: way
+type: node
 latitude: 37.7049
 longitude: -122.46302
 postcode: "94014"
 city: Daly City
-street: "Mission Street"
-housenumber: 6400
+street: Mission Street
+housenumber: "6400"
 phone: ""
 opening_hours: ""
 website: ""

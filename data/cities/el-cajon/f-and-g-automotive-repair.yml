@@ -1,11 +1,11 @@
 id: 959567832
-type: way
+type: node
 latitude: 32.79883
 longitude: -116.93486
 postcode: "92021"
 city: El Cajon
-street: "Walter Way"
-housenumber: 354
+street: Walter Way
+housenumber: "354"
 phone: "+16199383134"
 opening_hours: ""
 website: ""

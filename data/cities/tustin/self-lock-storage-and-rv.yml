@@ -1,11 +1,11 @@
 id: 501069803
-type: way
+type: node
 latitude: 33.71858
 longitude: -117.82783
 postcode: "92780"
 city: Tustin
-street: "Parkway Loop"
-housenumber: 1611
+street: Parkway Loop
+housenumber: "1611"
 phone: ""
 opening_hours: ""
 website: ""

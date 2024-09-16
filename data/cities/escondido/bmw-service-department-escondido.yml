@@ -1,11 +1,11 @@
 id: 165815272
-type: way
+type: node
 latitude: 33.11439
 longitude: -117.10349
 postcode: "92029"
 city: Escondido
-street: "N Hale Av"
-housenumber: 330
+street: N Hale Av
+housenumber: "330"
 phone: ""
 opening_hours: ""
 website: ""

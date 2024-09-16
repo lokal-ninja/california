@@ -1,11 +1,11 @@
 id: 917791567
-type: way
+type: node
 latitude: 34.4215
 longitude: -119.60132
 postcode: "93067"
 city: Summerland
-street: "Ortega Hill Road"
-housenumber: 2275
+street: Ortega Hill Road
+housenumber: "2275"
 phone: ""
-opening_hours: "Tu-Sa 11:00-18:00; Su 11:00-16:00"
+opening_hours: Tu-Sa 11:00-18:00; Su 11:00-16:00
 website: ""

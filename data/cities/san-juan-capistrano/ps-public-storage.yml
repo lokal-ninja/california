@@ -1,11 +1,11 @@
 id: 783151028
-type: way
+type: node
 latitude: 33.49279
 longitude: -117.65971
 postcode: "92675"
 city: San Juan Capistrano
-street: "San Juan Creek Road"
-housenumber: 32371
+street: San Juan Creek Road
+housenumber: "32371"
 phone: ""
 opening_hours: ""
 website: ""

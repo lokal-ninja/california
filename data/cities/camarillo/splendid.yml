@@ -4,8 +4,8 @@ latitude: 34.21584
 longitude: -119.06091
 postcode: "93010"
 city: Camarillo
-street: "Ventura Boulevard"
-housenumber: 740
-phone: "+1-805-388-3572"
-opening_hours: "Mo-Th 11:00-19:00; Fr-Sa 10:00-20:00; Su 12:00-18:00"
-website: "https://splendid.com/pages/store-locations"
+street: Ventura Boulevard
+housenumber: "740"
+phone: +1-805-388-3572
+opening_hours: Mo-Th 11:00-19:00; Fr-Sa 10:00-20:00; Su 12:00-18:00
+website: https://splendid.com/pages/store-locations

@@ -1,11 +1,11 @@
 id: 441539873
-type: way
+type: node
 latitude: 33.82996
 longitude: -117.94196
 postcode: "92801"
 city: Anaheim
-street: "Euclid Street"
-housenumber: 261
+street: Euclid Street
+housenumber: "261"
 phone: ""
 opening_hours: ""
 website: ""

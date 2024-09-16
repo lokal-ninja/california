@@ -1,11 +1,11 @@
 id: 233401438
-type: way
+type: node
 latitude: 33.94577
 longitude: -117.40104
-postcode: "92506-2803"
+postcode: 92506-2803
 city: Riverside
-street: "Magnolia Avenue"
-housenumber: 7020
-phone: "+1 951-787-7133"
+street: Magnolia Avenue
+housenumber: "7020"
+phone: +1 951-787-7133
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/riverside/7020-magnolia-avenue-20019"
+website: https://www.7-eleven.com/locations/ca/riverside/7020-magnolia-avenue-20019

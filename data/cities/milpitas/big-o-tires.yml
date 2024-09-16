@@ -1,11 +1,11 @@
 id: 712537725
-type: way
+type: node
 latitude: 37.42936
 longitude: -121.90596
 postcode: "95035"
 city: Milpitas
-street: "North Main Street"
-housenumber: 100
+street: North Main Street
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

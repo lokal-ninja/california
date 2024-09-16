@@ -4,8 +4,8 @@ latitude: 37.78638
 longitude: -122.42982
 postcode: ""
 city: San Francisco
-street: "Buchanan Street"
-housenumber: 1758
-phone: "+1 415 9228331"
-opening_hours: "Mo, We-Su 12:00-17:00"
-website: "https://www.sf-76.com/"
+street: Buchanan Street
+housenumber: "1758"
+phone: +1 415 9228331
+opening_hours: Mo, We-Su 12:00-17:00
+website: https://www.sf-76.com/

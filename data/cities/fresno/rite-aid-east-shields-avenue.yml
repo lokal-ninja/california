@@ -1,11 +1,11 @@
 id: 993527530
-type: way
+type: node
 latitude: 36.77915
 longitude: -119.75321
 postcode: "93726"
 city: Fresno
-street: "East Shields Avenue"
-housenumber: 4224
+street: East Shields Avenue
+housenumber: "4224"
 phone: ""
 opening_hours: ""
 website: ""

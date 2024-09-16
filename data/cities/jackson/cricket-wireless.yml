@@ -1,11 +1,11 @@
 id: 966308846
-type: way
+type: node
 latitude: 38.36273
 longitude: -120.80065
 postcode: "95642"
 city: Jackson
-street: "CA-88"
-housenumber: 11984
-phone: "+1-209-257-9561"
-opening_hours: "Mo-Sa 10:00-19:00; Su 12:00-17:00"
-website: "https://www.cricketwireless.com"
+street: CA-88
+housenumber: "11984"
+phone: +1-209-257-9561
+opening_hours: Mo-Sa 10:00-19:00; Su 12:00-17:00
+website: https://www.cricketwireless.com

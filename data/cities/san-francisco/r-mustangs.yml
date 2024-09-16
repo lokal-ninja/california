@@ -1,11 +1,11 @@
 id: 219783372
-type: way
+type: node
 latitude: 37.77066
 longitude: -122.40956
 postcode: "94127"
 city: San Francisco
-street: "Bryant Street"
-housenumber: 1168
+street: Bryant Street
+housenumber: "1168"
 phone: ""
 opening_hours: ""
 website: ""

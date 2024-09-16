@@ -1,11 +1,11 @@
 id: 31817750
-type: way
+type: node
 latitude: 32.91409
 longitude: -117.12082
 postcode: "92126"
 city: San Diego
-street: "Westview Parkway"
-housenumber: 10604
-phone: "+1 858-653-6761"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Mira-Mesa/CA/San-Diego/92126/6679"
+street: Westview Parkway
+housenumber: "10604"
+phone: +1 858-653-6761
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Mira-Mesa/CA/San-Diego/92126/6679

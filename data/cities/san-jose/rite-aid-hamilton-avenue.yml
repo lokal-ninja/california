@@ -4,8 +4,8 @@ latitude: 37.29338
 longitude: -121.91188
 postcode: "95125"
 city: San Jose
-street: "Hamilton Avenue"
-housenumber: 1550
+street: Hamilton Avenue
+housenumber: "1550"
 phone: ""
-opening_hours: "Mo-Fr 08:00-22:00; Sa-Su 09:00-21:00"
-website: "https://www.riteaid.com/locations/ca/san-jose/1550-hamilton-avenue.html"
+opening_hours: Mo-Fr 08:00-22:00; Sa-Su 09:00-21:00
+website: https://www.riteaid.com/locations/ca/san-jose/1550-hamilton-avenue.html

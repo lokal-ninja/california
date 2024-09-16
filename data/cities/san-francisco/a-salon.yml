@@ -4,8 +4,8 @@ latitude: 37.79377
 longitude: -122.40967
 postcode: ""
 city: San Francisco
-street: "Powell Street"
-housenumber: 999
-phone: "+1 415 3999888"
+street: Powell Street
+housenumber: "999"
+phone: +1 415 3999888
 opening_hours: ""
 website: ""

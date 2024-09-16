@@ -1,11 +1,11 @@
 id: 31512320
-type: way
+type: node
 latitude: 37.95687
 longitude: -122.0322
-postcode: "94520-3105"
+postcode: 94520-3105
 city: Concord
-street: "Monument Boulevard"
-housenumber: 2400
-phone: "+1 925-566-4003"
-opening_hours: "Mo-Fr 09:00-20:30; Sa-Su 09:00-19:00"
-website: "https://www.costco.com/warehouse-locations/concord-ca-663.html"
+street: Monument Boulevard
+housenumber: "2400"
+phone: +1 925-566-4003
+opening_hours: Mo-Fr 09:00-20:30; Sa-Su 09:00-19:00
+website: https://www.costco.com/warehouse-locations/concord-ca-663.html

@@ -1,11 +1,11 @@
 id: 1015687341
-type: way
+type: node
 latitude: 32.78638
 longitude: -116.92733
 postcode: "92019"
 city: El Cajon
-street: "Jamacha Road"
-housenumber: 759
+street: Jamacha Road
+housenumber: "759"
 phone: "+16194420355"
 opening_hours: ""
-website: "http://www.harvestranchmarkets.com/"
+website: http://www.harvestranchmarkets.com/

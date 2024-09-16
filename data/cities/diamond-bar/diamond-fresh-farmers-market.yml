@@ -1,11 +1,11 @@
 id: 471230427
-type: way
+type: node
 latitude: 33.99993
 longitude: -117.84274
 postcode: "91765"
 city: Diamond Bar
-street: "Golden Springs Drive"
-housenumber: 21168
+street: Golden Springs Drive
+housenumber: "21168"
 phone: ""
 opening_hours: ""
 website: ""

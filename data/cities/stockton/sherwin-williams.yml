@@ -1,11 +1,11 @@
 id: 287600833
-type: way
+type: node
 latitude: 38.02062
 longitude: -121.27376
 postcode: ""
 city: Stockton
-street: "East Hammer Lane"
-housenumber: 3304
+street: East Hammer Lane
+housenumber: "3304"
 phone: ""
 opening_hours: ""
 website: ""

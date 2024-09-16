@@ -1,11 +1,11 @@
 id: 130008762
-type: way
+type: node
 latitude: 34.08547
 longitude: -117.87133
 postcode: "91724"
 city: Covina
-street: "East Badillo Street"
-housenumber: 932
-phone: "+1 626-967-0072"
-opening_hours: "06:00-24:00"
-website: "https://local.vons.com/ca/covina/932-e-badillo-st.html"
+street: East Badillo Street
+housenumber: "932"
+phone: +1 626-967-0072
+opening_hours: 06:00-24:00
+website: https://local.vons.com/ca/covina/932-e-badillo-st.html

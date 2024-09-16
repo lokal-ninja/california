@@ -4,8 +4,8 @@ latitude: 37.76659
 longitude: -122.39703
 postcode: "94107"
 city: San Francisco
-street: "16th Street"
-housenumber: 1000
-phone: "+1 415-997-8184"
+street: 16th Street
+housenumber: "1000"
+phone: +1 415-997-8184
 opening_hours: ""
-website: "https://www.wholecakes.com/"
+website: https://www.wholecakes.com/

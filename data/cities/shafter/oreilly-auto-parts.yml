@@ -1,11 +1,11 @@
 id: 177583199
-type: way
+type: node
 latitude: 35.50614
 longitude: -119.27884
 postcode: "93263"
 city: Shafter
-street: "North Shafter Avenue"
-housenumber: 515
+street: North Shafter Avenue
+housenumber: "515"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ca/shafter/autoparts-2947.html"
+website: https://locations.oreillyauto.com/ca/shafter/autoparts-2947.html

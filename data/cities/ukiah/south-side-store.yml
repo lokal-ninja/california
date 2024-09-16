@@ -1,11 +1,11 @@
 id: 732170542
-type: way
+type: node
 latitude: 39.1174
 longitude: -123.20122
 postcode: "95482"
 city: Ukiah
-street: "Oak Knoll Road"
-housenumber: 22
+street: Oak Knoll Road
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Su 07:00-21:00"
+opening_hours: Mo-Su 07:00-21:00
 website: ""

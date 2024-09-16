@@ -1,11 +1,11 @@
 id: 119402604
-type: way
+type: node
 latitude: 33.12743
 longitude: -117.0883
 postcode: "92025"
 city: Escondido
-street: "North Escondido Boulevard"
-housenumber: 642
+street: North Escondido Boulevard
+housenumber: "642"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ca/escondido/642-n-escondido-blvd.html"
+website: https://www.autozone.com/locations/ca/escondido/642-n-escondido-blvd.html

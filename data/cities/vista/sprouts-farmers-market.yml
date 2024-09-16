@@ -1,11 +1,11 @@
 id: 807674370
-type: way
+type: node
 latitude: 33.22034
 longitude: -117.22725
 postcode: "92084"
 city: Vista
-street: "East Vista Way"
-housenumber: 1400
-phone: "+1 760-936-4010"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/ca/vista/vista/"
+street: East Vista Way
+housenumber: "1400"
+phone: +1 760-936-4010
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/ca/vista/vista/

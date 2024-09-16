@@ -1,11 +1,11 @@
 id: 1084546066
-type: way
+type: node
 latitude: 33.81416
 longitude: -116.48903
 postcode: "92264"
 city: Palm Springs
-street: "East Ramon Road"
-housenumber: 5201
-phone: "+1 760-866-1901"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/CA-Palm-Springs/1026"
+street: East Ramon Road
+housenumber: "5201"
+phone: +1 760-866-1901
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/CA-Palm-Springs/1026

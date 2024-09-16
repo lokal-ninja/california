@@ -1,11 +1,11 @@
 id: 239798247
-type: way
+type: node
 latitude: 37.65627
 longitude: -121.90005
 postcode: "94566"
 city: Pleasanton
-street: "Bernal Avenue"
-housenumber: 6790
-phone: "+1 925-846-8644"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/ca/pleasanton/6790-bernal-ave.html"
+street: Bernal Avenue
+housenumber: "6790"
+phone: +1 925-846-8644
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/ca/pleasanton/6790-bernal-ave.html

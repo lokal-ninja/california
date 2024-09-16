@@ -1,11 +1,11 @@
 id: 642718265
-type: way
+type: node
 latitude: 33.45601
 longitude: -117.65664
 postcode: "92672"
 city: San Clemente
-street: "Camino de Estrella"
-housenumber: 470
+street: Camino de Estrella
+housenumber: "470"
 phone: ""
 opening_hours: ""
 website: ""

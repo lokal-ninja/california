@@ -1,11 +1,11 @@
 id: 132501303
-type: way
+type: node
 latitude: 33.48273
 longitude: -117.09703
 postcode: "92592"
 city: Temecula
-street: "Highway 79 South"
-housenumber: 32120
+street: Highway 79 South
+housenumber: "32120"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://stores.staples.com/ca/temecula/32120-highway-79-south"
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-18:00
+website: https://stores.staples.com/ca/temecula/32120-highway-79-south

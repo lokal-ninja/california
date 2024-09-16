@@ -1,11 +1,11 @@
 id: 507835970
-type: way
+type: node
 latitude: 34.2582
 longitude: -119.21579
 postcode: "93003"
 city: Ventura
-street: "Walker Street"
-housenumber: 5515
+street: Walker Street
+housenumber: "5515"
 phone: ""
 opening_hours: ""
 website: ""

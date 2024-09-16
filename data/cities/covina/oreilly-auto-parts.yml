@@ -1,11 +1,11 @@
 id: 471412423
-type: way
+type: node
 latitude: 34.08918
 longitude: -117.90822
 postcode: "91722"
 city: Covina
-street: "North Azusa Avenue"
-housenumber: 501
-phone: "626-339-5888"
-opening_hours: "Mo-Su 07:30-22:00"
-website: "https://locations.oreillyauto.com/ca/covina/autoparts-2983.html"
+street: North Azusa Avenue
+housenumber: "501"
+phone: 626-339-5888
+opening_hours: Mo-Su 07:30-22:00
+website: https://locations.oreillyauto.com/ca/covina/autoparts-2983.html

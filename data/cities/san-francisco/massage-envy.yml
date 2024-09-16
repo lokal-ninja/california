@@ -4,8 +4,8 @@ latitude: 37.78478
 longitude: -122.40366
 postcode: "94103"
 city: San Francisco
-street: "Mission Street"
-housenumber: 785
-phone: "+1-415-341-9800"
-opening_hours: "11:00-19:00"
-website: "http://sfmassageenvy.com"
+street: Mission Street
+housenumber: "785"
+phone: +1-415-341-9800
+opening_hours: 11:00-19:00
+website: http://sfmassageenvy.com

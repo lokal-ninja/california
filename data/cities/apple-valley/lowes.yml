@@ -1,11 +1,11 @@
 id: 460849806
-type: way
+type: node
 latitude: 34.47352
 longitude: -117.24087
 postcode: "92308"
 city: Apple Valley
-street: "Apple Valley Road"
-housenumber: 12189
-phone: "+1 760-961-3000"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/ca-apple-valley/2528"
+street: Apple Valley Road
+housenumber: "12189"
+phone: +1 760-961-3000
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/ca-apple-valley/2528

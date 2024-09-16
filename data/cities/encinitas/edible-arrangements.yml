@@ -1,11 +1,11 @@
 id: 225853645
-type: way
+type: node
 latitude: 33.04891
 longitude: -117.26031
 postcode: "92024"
 city: Encinitas
-street: "North El Camino Real"
-housenumber: 204
-phone: "760-632-0222"
+street: North El Camino Real
+housenumber: "204"
+phone: 760-632-0222
 opening_hours: ""
-website: "https://www.ediblearrangements.com/stores/StoreDetail.aspx?storeid=788"
+website: https://www.ediblearrangements.com/stores/StoreDetail.aspx?storeid=788

@@ -1,11 +1,11 @@
 id: 311711393
-type: way
+type: node
 latitude: 37.29827
 longitude: -120.48129
 postcode: "95340"
 city: Merced
-street: "West 15th Street"
-housenumber: 265
-phone: "+1-209-722-8055"
+street: West 15th Street
+housenumber: "265"
+phone: +1-209-722-8055
 opening_hours: ""
-website: "https://mercedpowersports.com/"
+website: https://mercedpowersports.com/

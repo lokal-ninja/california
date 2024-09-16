@@ -1,11 +1,11 @@
 id: 28274316
-type: way
+type: node
 latitude: 37.09243
 longitude: -121.59979
 postcode: "95046"
 city: San Martin
-street: "Sycamore Avenue"
-housenumber: 13575
+street: Sycamore Avenue
+housenumber: "13575"
 phone: ""
 opening_hours: ""
 website: ""

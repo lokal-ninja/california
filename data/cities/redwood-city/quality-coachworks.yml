@@ -1,11 +1,11 @@
 id: 240594594
-type: way
+type: node
 latitude: 37.47182
 longitude: -122.22263
 postcode: "94061"
 city: Redwood City
-street: "Woodside Road"
-housenumber: 411
-phone: "(650) 280-3119"
+street: Woodside Road
+housenumber: "411"
+phone: (650) 280-3119
 opening_hours: ""
 website: ""

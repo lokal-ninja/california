@@ -1,11 +1,11 @@
 id: 568473843
-type: way
+type: node
 latitude: 38.73028
 longitude: -120.79144
 postcode: ""
 city: Placerville
-street: "Main Street"
-housenumber: 693
+street: Main Street
+housenumber: "693"
 phone: ""
 opening_hours: ""
 website: ""

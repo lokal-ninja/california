@@ -1,11 +1,11 @@
 id: 1004818416
-type: way
+type: node
 latitude: 32.8121
 longitude: -116.96825
 postcode: "92020"
 city: El Cajon
-street: "Pioneer Way"
-housenumber: 1192
+street: Pioneer Way
+housenumber: "1192"
 phone: "+16194426605"
 opening_hours: ""
-website: "https://locations.airgas.com/ca/elcajon/airgas-store-w054.html"
+website: https://locations.airgas.com/ca/elcajon/airgas-store-w054.html

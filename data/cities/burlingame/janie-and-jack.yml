@@ -1,11 +1,11 @@
 id: 237844097
-type: way
+type: node
 latitude: 37.57931
 longitude: -122.34657
 postcode: ""
 city: Burlingame
-street: "Burlingame Avenue"
-housenumber: 1202
-phone: "650-558-8319"
+street: Burlingame Avenue
+housenumber: "1202"
+phone: 650-558-8319
 opening_hours: ""
-website: "https://www.janieandjack.com/"
+website: https://www.janieandjack.com/

@@ -1,11 +1,11 @@
 id: 837021014
-type: way
+type: node
 latitude: 34.10864
 longitude: -117.31368
 postcode: "92411"
 city: San Bernardino
-street: "Mount Vernon Avenue"
-housenumber: 501
+street: Mount Vernon Avenue
+housenumber: "501"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 442279180
-type: way
+type: node
 latitude: 33.81666
 longitude: -118.35088
 postcode: "90505"
 city: Torrance
-street: "Hawthorne Boulevard"
-housenumber: 23126
+street: Hawthorne Boulevard
+housenumber: "23126"
 phone: "+14242822629"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/ca/torrance/4644/"
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/ca/torrance/4644/

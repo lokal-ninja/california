@@ -1,11 +1,11 @@
 id: 161011008
-type: way
+type: node
 latitude: 33.68954
 longitude: -116.18368
 postcode: "92236"
 city: Coachella
-street: "Grapefruit Boulevard"
-housenumber: 49301
+street: Grapefruit Boulevard
+housenumber: "49301"
 phone: ""
 opening_hours: ""
 website: ""

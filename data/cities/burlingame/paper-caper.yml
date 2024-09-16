@@ -1,11 +1,11 @@
 id: 237792252
-type: way
+type: node
 latitude: 37.57736
 longitude: -122.349
 postcode: ""
 city: Burlingame
-street: "Burlingame Avenue"
-housenumber: 1442
-phone: "650-347-4566"
-opening_hours: "Mo-Sa 10:00-15:30"
-website: "http://www.papercaper.net"
+street: Burlingame Avenue
+housenumber: "1442"
+phone: 650-347-4566
+opening_hours: Mo-Sa 10:00-15:30
+website: http://www.papercaper.net

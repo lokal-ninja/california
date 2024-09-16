@@ -1,11 +1,11 @@
 id: 119384775
-type: way
+type: node
 latitude: 34.17487
 longitude: -119.18016
 postcode: "93033"
 city: Oxnard
-street: "2701 Saviers Road"
-housenumber: 2701
-phone: "+1 805-200-5224"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/3087-oxnard-ca"
+street: 2701 Saviers Road
+housenumber: "2701"
+phone: +1 805-200-5224
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/3087-oxnard-ca

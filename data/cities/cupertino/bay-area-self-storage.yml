@@ -1,11 +1,11 @@
 id: 38745791
-type: way
+type: node
 latitude: 37.33124
 longitude: -122.05247
 postcode: "95014"
 city: Cupertino
-street: "Mary Avenue"
-housenumber: 10655
+street: Mary Avenue
+housenumber: "10655"
 phone: ""
 opening_hours: ""
 website: ""

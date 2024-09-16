@@ -1,11 +1,11 @@
 id: 112118769
-type: way
+type: node
 latitude: 33.59733
 longitude: -117.24826
 postcode: "92595"
 city: Wildomar
-street: "Hidden Springs Road"
-housenumber: 36010
-phone: "+1 951-678-3191"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.staterbros.com/stores/174"
+street: Hidden Springs Road
+housenumber: "36010"
+phone: +1 951-678-3191
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.staterbros.com/stores/174

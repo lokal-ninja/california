@@ -1,11 +1,11 @@
 id: 431668110
-type: way
+type: node
 latitude: 34.22187
 longitude: -118.47684
 postcode: "91343"
 city: North Hills
-street: "Haskell Avenue"
-housenumber: 8311
+street: Haskell Avenue
+housenumber: "8311"
 phone: ""
 opening_hours: ""
 website: ""

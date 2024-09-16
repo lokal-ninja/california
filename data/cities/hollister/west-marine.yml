@@ -1,11 +1,11 @@
 id: 28223454
-type: way
+type: node
 latitude: 36.89434
 longitude: -121.39727
-postcode: "95023-2547"
+postcode: 95023-2547
 city: Hollister
-street: "Bert Dr"
-housenumber: 2395
+street: Bert Dr
+housenumber: "2395"
 phone: ""
 opening_hours: ""
 website: ""

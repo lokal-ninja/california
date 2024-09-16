@@ -1,11 +1,11 @@
 id: 385260664
-type: way
+type: node
 latitude: 32.77075
 longitude: -115.55193
 postcode: ""
 city: El Centro
-street: "South 4th Street"
-housenumber: 2403
-phone: "+1 760 482 0056"
+street: South 4th Street
+housenumber: "2403"
+phone: +1 760 482 0056
 opening_hours: ""
-website: "https://www.autozone.com/locations/ca/el-centro/2403-s-4th-st.html"
+website: https://www.autozone.com/locations/ca/el-centro/2403-s-4th-st.html

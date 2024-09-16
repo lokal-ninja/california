@@ -4,8 +4,8 @@ latitude: 37.83473
 longitude: -122.24878
 postcode: "94611"
 city: Oakland
-street: "Broadway"
-housenumber: 5100
-phone: "+1 510-285-0782"
-opening_hours: "Mo-Su 05:00-02:00"
-website: "https://local.safeway.com/safeway/ca/oakland/5100-broadway.html"
+street: Broadway
+housenumber: "5100"
+phone: +1 510-285-0782
+opening_hours: Mo-Su 05:00-02:00
+website: https://local.safeway.com/safeway/ca/oakland/5100-broadway.html

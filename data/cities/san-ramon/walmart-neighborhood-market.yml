@@ -1,11 +1,11 @@
 id: 231418234
-type: way
+type: node
 latitude: 37.72971
 longitude: -121.92906
 postcode: "94583"
 city: San Ramon
-street: "Alcosta Boulevard"
-housenumber: 9100
-phone: "+1 925-364-9207"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/5610-san-ramon-ca"
+street: Alcosta Boulevard
+housenumber: "9100"
+phone: +1 925-364-9207
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/5610-san-ramon-ca

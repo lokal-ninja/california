@@ -1,11 +1,11 @@
 id: 557611281
-type: way
+type: node
 latitude: 34.03649
 longitude: -118.08747
 postcode: "90640"
 city: Montebello
-street: "Town Center Drive"
-housenumber: 2134
+street: Town Center Drive
+housenumber: "2134"
 phone: "+13237228454"
 opening_hours: ""
-website: "https://www.shopsatmontebello.com/"
+website: https://www.shopsatmontebello.com/

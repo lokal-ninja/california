@@ -1,11 +1,11 @@
 id: 389684796
-type: way
+type: node
 latitude: 37.67428
 longitude: -122.45515
 postcode: "94014"
 city: Colma
-street: "El Camino Real"
-housenumber: 1361
-phone: "+1 650-755-6011"
+street: El Camino Real
+housenumber: "1361"
+phone: +1 650-755-6011
 opening_hours: ""
 website: ""

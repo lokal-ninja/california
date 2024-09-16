@@ -1,11 +1,11 @@
 id: 238214214
-type: way
+type: node
 latitude: 40.80301
 longitude: -124.16677
 postcode: ""
 city: Eureka
-street: "4th Street"
-housenumber: 445
-phone: "(707) 476 - 0450"
+street: 4th Street
+housenumber: "445"
+phone: (707) 476 - 0450
 opening_hours: ""
-website: "https://hprcdispensary.com/"
+website: https://hprcdispensary.com/

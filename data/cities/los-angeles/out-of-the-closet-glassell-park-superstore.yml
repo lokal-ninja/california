@@ -4,8 +4,8 @@ latitude: 34.10664
 longitude: -118.23966
 postcode: "90065"
 city: Los Angeles
-street: "San Fernando Road"
-housenumber: 2425
-phone: "323-223-0838"
-opening_hours: "Mo-Sa 10:00-19:00; Su 10:00-18:00"
-website: "https://outofthecloset.org"
+street: San Fernando Road
+housenumber: "2425"
+phone: 323-223-0838
+opening_hours: Mo-Sa 10:00-19:00; Su 10:00-18:00
+website: https://outofthecloset.org

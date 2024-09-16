@@ -1,11 +1,11 @@
 id: 686477538
-type: way
+type: node
 latitude: 38.4362
 longitude: -121.40602
 postcode: "95758"
 city: Elk Grove
-street: "Sheldon Road"
-housenumber: 8142
+street: Sheldon Road
+housenumber: "8142"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

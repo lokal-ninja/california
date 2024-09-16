@@ -1,11 +1,11 @@
 id: 161826009
-type: way
+type: node
 latitude: 38.67964
 longitude: -121.23459
 postcode: "95662"
 city: Orangevale
-street: "Greenback Lane"
-housenumber: 8701
+street: Greenback Lane
+housenumber: "8701"
 phone: ""
 opening_hours: ""
 website: ""

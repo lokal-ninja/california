@@ -1,11 +1,11 @@
 id: 507828756
-type: way
+type: node
 latitude: 37.85705
 longitude: -122.12479
 postcode: "94556"
 city: Moraga
-street: "Moraga Road"
-housenumber: 530
-phone: "(925) 376-0692"
+street: Moraga Road
+housenumber: "530"
+phone: (925) 376-0692
 opening_hours: ""
-website: "https://moragamotors.com/"
+website: https://moragamotors.com/

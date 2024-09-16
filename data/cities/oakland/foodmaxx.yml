@@ -1,11 +1,11 @@
 id: 116807337
-type: way
+type: node
 latitude: 37.77564
 longitude: -122.22972
 postcode: "94601"
 city: Oakland
-street: "East 9th Street"
-housenumber: 3100
-phone: "510 437 8000"
+street: East 9th Street
+housenumber: "3100"
+phone: 510 437 8000
 opening_hours: ""
 website: ""

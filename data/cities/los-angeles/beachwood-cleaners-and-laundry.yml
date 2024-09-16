@@ -1,11 +1,11 @@
 id: 552091062
-type: way
+type: node
 latitude: 34.12006
 longitude: -118.32154
 postcode: "90068"
 city: Los Angeles
-street: "N. Beachwood Dr."
-housenumber: 2699
-phone: "(323) 498-5044"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 08:00-17:00; Su closed"
+street: N. Beachwood Dr.
+housenumber: "2699"
+phone: (323) 498-5044
+opening_hours: Mo-Fr 07:00-18:30; Sa 08:00-17:00; Su closed
 website: ""

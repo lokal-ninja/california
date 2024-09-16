@@ -1,11 +1,11 @@
 id: 258958663
-type: way
+type: node
 latitude: 37.78275
 longitude: -122.21915
 postcode: "94601"
 city: oakland
-street: "Foothill Boulevard"
-housenumber: 3464
-phone: "510-532-3100"
+street: Foothill Boulevard
+housenumber: "3464"
+phone: 510-532-3100
 opening_hours: ""
 website: ""

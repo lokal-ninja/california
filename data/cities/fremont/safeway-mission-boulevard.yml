@@ -1,11 +1,11 @@
 id: 253143749
-type: way
+type: node
 latitude: 37.48923
 longitude: -121.92774
 postcode: "94539"
 city: Fremont
-street: "Mission Boulevard"
-housenumber: 46848
-phone: "+1 510-497-1003"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/ca/fremont/46848-mission-blvd.html"
+street: Mission Boulevard
+housenumber: "46848"
+phone: +1 510-497-1003
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/ca/fremont/46848-mission-blvd.html

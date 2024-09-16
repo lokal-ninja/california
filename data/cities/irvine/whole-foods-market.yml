@@ -1,11 +1,11 @@
 id: 837275930
-type: way
+type: node
 latitude: 33.64631
 longitude: -117.74395
 postcode: "92618"
 city: Irvine
-street: "Research Drive"
-housenumber: 8525
-phone: "+1 949-777-8500"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/irvine"
+street: Research Drive
+housenumber: "8525"
+phone: +1 949-777-8500
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.wholefoodsmarket.com/stores/irvine

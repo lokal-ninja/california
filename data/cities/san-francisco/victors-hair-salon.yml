@@ -4,8 +4,8 @@ latitude: 37.75493
 longitude: -122.42331
 postcode: "94110"
 city: San Francisco
-street: "Guerrero Street"
-housenumber: 1008
-phone: "+1 415 282 6016"
-opening_hours: "Tu-Fr 10:00-18:30; Sa 09:00-17:00; Su-Mo off"
-website: "http://victorshairsalon.com"
+street: Guerrero Street
+housenumber: "1008"
+phone: +1 415 282 6016
+opening_hours: Tu-Fr 10:00-18:30; Sa 09:00-17:00; Su-Mo off
+website: http://victorshairsalon.com

@@ -1,11 +1,11 @@
 id: 60519708
-type: way
+type: node
 latitude: 32.82714
 longitude: -117.15358
 postcode: "92111"
 city: San Diego
-street: "Convoy Street"
-housenumber: 4761
+street: Convoy Street
+housenumber: "4761"
 phone: ""
 opening_hours: ""
 website: ""

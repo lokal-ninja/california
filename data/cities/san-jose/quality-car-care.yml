@@ -4,8 +4,8 @@ latitude: 37.32086
 longitude: -121.95072
 postcode: "95128"
 city: San Jose
-street: "South Winchester Boulevard"
-housenumber: 425
-phone: "+1 408-557-8157"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-17:00"
+street: South Winchester Boulevard
+housenumber: "425"
+phone: +1 408-557-8157
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-17:00
 website: ""

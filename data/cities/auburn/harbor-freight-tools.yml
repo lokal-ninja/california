@@ -1,11 +1,11 @@
 id: 1132924040
-type: way
+type: node
 latitude: 38.94132
 longitude: -121.09288
 postcode: "95603"
 city: Auburn
-street: "Bell Road"
-housenumber: 2513
-phone: "+1 530-718-3535"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/2513-bell-road-auburn-95603?number=3259"
+street: Bell Road
+housenumber: "2513"
+phone: +1 530-718-3535
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/2513-bell-road-auburn-95603?number=3259

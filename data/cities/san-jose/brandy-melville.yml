@@ -1,11 +1,11 @@
 id: 200959890
-type: way
+type: node
 latitude: 37.32032
 longitude: -121.94733
 postcode: "95128"
 city: San Jose
-street: "Santana Row"
-housenumber: 378
-phone: "+1 669-242-7570"
-opening_hours: "Mo-Th 11:00-19:00; Fr-Sa 12:00-20:00; Su 11:00-19:00"
+street: Santana Row
+housenumber: "378"
+phone: +1 669-242-7570
+opening_hours: Mo-Th 11:00-19:00; Fr-Sa 12:00-20:00; Su 11:00-19:00
 website: ""

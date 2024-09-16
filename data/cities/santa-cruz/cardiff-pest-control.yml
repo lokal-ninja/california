@@ -1,11 +1,11 @@
 id: 265858708
-type: way
+type: node
 latitude: 36.9856
 longitude: -121.98957
 postcode: "95062"
 city: Santa Cruz
-street: "Soquel Avenue"
-housenumber: 2701
-phone: "+1-831-475-4214"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.cardiffpestcontrol.com/"
+street: Soquel Avenue
+housenumber: "2701"
+phone: +1-831-475-4214
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.cardiffpestcontrol.com/

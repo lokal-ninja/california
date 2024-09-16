@@ -1,11 +1,11 @@
 id: 827132381
-type: way
+type: node
 latitude: 38.38296
 longitude: -121.36276
 postcode: ""
 city: Elk Grove
-street: "Elkmont Way"
-housenumber: 9088
-phone: "+1 916 714 6861"
+street: Elkmont Way
+housenumber: "9088"
+phone: +1 916 714 6861
 opening_hours: ""
-website: "https://sacramentosprayerrepair.net/"
+website: https://sacramentosprayerrepair.net/

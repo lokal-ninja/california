@@ -4,8 +4,8 @@ latitude: 37.37939
 longitude: -122.1152
 postcode: ""
 city: Los Altos
-street: "Main Street"
-housenumber: 162
+street: Main Street
+housenumber: "162"
 phone: "6509494438"
 opening_hours: ""
-website: "https://www.presentlosaltos.com/"
+website: https://www.presentlosaltos.com/

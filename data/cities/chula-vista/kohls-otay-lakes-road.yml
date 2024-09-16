@@ -1,11 +1,11 @@
 id: 503828691
-type: way
+type: node
 latitude: 32.65061
 longitude: -116.96561
 postcode: "91915"
 city: Chula Vista
-street: "Otay Lakes Road"
-housenumber: 2325
-phone: "+1 619-591-5920"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/ca/chulavista-726.shtml"
+street: Otay Lakes Road
+housenumber: "2325"
+phone: +1 619-591-5920
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/ca/chulavista-726.shtml

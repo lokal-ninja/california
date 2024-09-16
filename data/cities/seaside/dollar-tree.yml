@@ -1,11 +1,11 @@
 id: 326486731
-type: way
+type: node
 latitude: 36.61521
 longitude: -121.84229
 postcode: "93955"
 city: Seaside
-street: "Fremont Boulevard"
-housenumber: 1816
+street: Fremont Boulevard
+housenumber: "1816"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/ca/seaside/2183/"
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/ca/seaside/2183/

@@ -1,11 +1,11 @@
 id: 700253638
-type: way
+type: node
 latitude: 37.64864
 longitude: -122.07594
 postcode: "94544"
 city: Hayward
-street: "Harder Road"
-housenumber: 187
+street: Harder Road
+housenumber: "187"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
+opening_hours: Mo-Su 07:00-23:00
 website: ""

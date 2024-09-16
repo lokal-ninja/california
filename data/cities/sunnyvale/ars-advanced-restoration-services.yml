@@ -1,11 +1,11 @@
 id: 359267215
-type: way
+type: node
 latitude: 37.36789
 longitude: -121.99736
 postcode: "94086"
 city: Sunnyvale
-street: "Willow Avenue"
-housenumber: 1164
+street: Willow Avenue
+housenumber: "1164"
 phone: ""
 opening_hours: ""
 website: ""

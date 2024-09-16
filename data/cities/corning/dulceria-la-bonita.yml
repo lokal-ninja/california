@@ -1,11 +1,11 @@
 id: 669892433
-type: way
+type: node
 latitude: 39.92756
 longitude: -122.18274
 postcode: "96021"
 city: Corning
-street: "Solano Street"
-housenumber: 1311
+street: Solano Street
+housenumber: "1311"
 phone: ""
 opening_hours: ""
 website: ""

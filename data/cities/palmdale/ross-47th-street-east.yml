@@ -1,11 +1,11 @@
 id: 1006767316
-type: way
+type: node
 latitude: 34.57484
 longitude: -118.04804
 postcode: "93552"
 city: Palmdale
-street: "47th Street East"
-housenumber: 38115
-phone: "+1 661-533-9394"
-opening_hours: "Mo-Th 08:30-22:30; Fr-Sa 08:00-23:00; Su 09:00-22:00"
+street: 47th Street East
+housenumber: "38115"
+phone: +1 661-533-9394
+opening_hours: Mo-Th 08:30-22:30; Fr-Sa 08:00-23:00; Su 09:00-22:00
 website: ""

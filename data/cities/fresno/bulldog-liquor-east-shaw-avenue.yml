@@ -1,11 +1,11 @@
 id: 1290843592
-type: way
+type: node
 latitude: 36.8089
 longitude: -119.78109
 postcode: "93710"
 city: Fresno
-street: "East Shaw Avenue"
-housenumber: 420
+street: East Shaw Avenue
+housenumber: "420"
 phone: "+15592266926"
-opening_hours: "Mo-Su 06:00-26:00"
-website: "https://instagram.com/bulldog.liquor?igshid=OGQ5ZDc2ODk2ZA=="
+opening_hours: Mo-Su 06:00-26:00
+website: https://instagram.com/bulldog.liquor?igshid=OGQ5ZDc2ODk2ZA==

@@ -1,11 +1,11 @@
 id: 311522969
-type: way
+type: node
 latitude: 33.82136
 longitude: -117.91588
 postcode: "92805"
 city: Anaheim
-street: "South Harbor Boulevard"
-housenumber: 901
+street: South Harbor Boulevard
+housenumber: "901"
 phone: ""
 opening_hours: ""
 website: ""

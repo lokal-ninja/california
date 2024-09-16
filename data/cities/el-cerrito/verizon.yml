@@ -4,8 +4,8 @@ latitude: 37.89946
 longitude: -122.29862
 postcode: "94530"
 city: El Cerrito
-street: "El Cerrito Plaza"
-housenumber: 410
+street: El Cerrito Plaza
+housenumber: "410"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
 website: ""

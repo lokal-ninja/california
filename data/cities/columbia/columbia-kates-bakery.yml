@@ -1,11 +1,11 @@
 id: 554296636
-type: way
+type: node
 latitude: 38.03506
 longitude: -120.40009
 postcode: "95310"
 city: Columbia
-street: "State Street"
-housenumber: 11256
+street: State Street
+housenumber: "11256"
 phone: ""
 opening_hours: ""
 website: ""

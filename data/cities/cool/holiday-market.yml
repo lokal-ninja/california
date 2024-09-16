@@ -1,11 +1,11 @@
 id: 1006625913
-type: way
+type: node
 latitude: 38.88564
 longitude: -121.01464
 postcode: "95614"
 city: Cool
-street: "Ellinghouse Dr"
-housenumber: 5030
+street: Ellinghouse Dr
+housenumber: "5030"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 240668229
-type: way
+type: node
 latitude: 37.47758
 longitude: -122.22234
 postcode: "94063"
 city: Redwood City
-street: "Main Street"
-housenumber: 1681
-phone: "(650) 368-0862"
+street: Main Street
+housenumber: "1681"
+phone: (650) 368-0862
 opening_hours: ""
-website: "http://www.broadwaycleaners.net"
+website: http://www.broadwaycleaners.net

@@ -1,11 +1,11 @@
 id: 227070453
-type: way
+type: node
 latitude: 37.30852
 longitude: -121.84892
 postcode: "95112"
 city: San Jose
-street: "Parrott Street"
-housenumber: 580
+street: Parrott Street
+housenumber: "580"
 phone: ""
 opening_hours: ""
 website: ""

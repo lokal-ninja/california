@@ -4,8 +4,8 @@ latitude: 37.324
 longitude: -121.92247
 postcode: "95128"
 city: San Jose
-street: "West San Carlos Street"
-housenumber: 1717
+street: West San Carlos Street
+housenumber: "1717"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ca/san-jose/1717-w-san-carlos-ave.html"
+website: https://www.autozone.com/locations/ca/san-jose/1717-w-san-carlos-ave.html

@@ -1,11 +1,11 @@
 id: 1096181845
-type: way
+type: node
 latitude: 40.93637
 longitude: -124.09867
 postcode: "95519"
 city: McKinleyville
-street: "Sutter Road"
-housenumber: 1685
-phone: "+1 707-839-3222"
+street: Sutter Road
+housenumber: "1685"
+phone: +1 707-839-3222
 opening_hours: ""
-website: "http://www.truevalue.com/thomas"
+website: http://www.truevalue.com/thomas

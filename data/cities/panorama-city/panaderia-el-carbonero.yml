@@ -1,11 +1,11 @@
 id: 1135027202
-type: way
+type: node
 latitude: 34.2431
 longitude: -118.45078
 postcode: "91402"
 city: Panorama City
-street: "Van Nuys Boulevard"
-housenumber: 9501
-phone: "+1-818-830-1386"
-opening_hours: "Mo-Su 05:30-20:30"
-website: "https://el-carbonero-bakery.edan.io/"
+street: Van Nuys Boulevard
+housenumber: "9501"
+phone: +1-818-830-1386
+opening_hours: Mo-Su 05:30-20:30
+website: https://el-carbonero-bakery.edan.io/

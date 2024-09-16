@@ -1,11 +1,11 @@
 id: 51210330
-type: way
+type: node
 latitude: 34.27773
 longitude: -118.56772
 postcode: "91326"
 city: Porter Ranch
-street: "Rinaldi Street"
-housenumber: 19821
-phone: "+1 818-832-0643"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/2526/porter-ranch-ca/whats-new"
+street: Rinaldi Street
+housenumber: "19821"
+phone: +1 818-832-0643
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/2526/porter-ranch-ca/whats-new

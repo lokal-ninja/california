@@ -1,11 +1,11 @@
 id: 351101893
-type: way
+type: node
 latitude: 38.37448
 longitude: -122.78961
 postcode: "95472"
 city: Sebastopol
-street: "Old Gravenstein Highway"
-housenumber: 2833
-phone: "(707) 824-0433"
+street: Old Gravenstein Highway
+housenumber: "2833"
+phone: (707) 824-0433
 opening_hours: ""
-website: "https://www.californiacarnivores.com/"
+website: https://www.californiacarnivores.com/

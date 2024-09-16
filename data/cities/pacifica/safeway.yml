@@ -4,8 +4,8 @@ latitude: 37.66096
 longitude: -122.47783
 postcode: "94044"
 city: Pacifica
-street: "Hickey Boulevard"
-housenumber: 709
-phone: "+1 650-290-5014"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://local.safeway.com/safeway/ca/pacifica/709-hickey-blvd.html"
+street: Hickey Boulevard
+housenumber: "709"
+phone: +1 650-290-5014
+opening_hours: Mo-Su 06:00-24:00
+website: https://local.safeway.com/safeway/ca/pacifica/709-hickey-blvd.html

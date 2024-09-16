@@ -1,11 +1,11 @@
 id: 133770788
-type: way
+type: node
 latitude: 33.7585
 longitude: -117.82415
 postcode: "92780"
 city: Tustin
-street: "East 17th Street"
-housenumber: 17642
+street: East 17th Street
+housenumber: "17642"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/tustin-ca-pharmacies/17642-east-17th-st-tustin-ca-92780/storeid=8890"
+website: https://www.cvs.com/store-locator/tustin-ca-pharmacies/17642-east-17th-st-tustin-ca-92780/storeid=8890

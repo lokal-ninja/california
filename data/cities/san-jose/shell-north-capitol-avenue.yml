@@ -1,11 +1,11 @@
 id: 768981448
-type: way
+type: node
 latitude: 37.39666
 longitude: -121.87227
 postcode: "95132"
 city: San Jose
-street: "North Capitol Avenue"
-housenumber: 1601
+street: North Capitol Avenue
+housenumber: "1601"
 phone: ""
 opening_hours: ""
 website: ""

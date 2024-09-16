@@ -1,11 +1,11 @@
 id: 94333990
-type: way
+type: node
 latitude: 33.12171
 longitude: -117.08111
 postcode: "92025"
 city: Escondido
-street: "East Grand Avenue"
-housenumber: 105
+street: East Grand Avenue
+housenumber: "105"
 phone: ""
 opening_hours: ""
-website: "http://swirlzcandy.com/"
+website: http://swirlzcandy.com/

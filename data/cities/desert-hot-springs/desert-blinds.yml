@@ -4,8 +4,8 @@ latitude: 33.9453
 longitude: -116.52552
 postcode: "92240"
 city: Desert Hot Springs
-street: "San Jacinto Lane"
-housenumber: 65118
-phone: "+1 760 3299398"
-opening_hours: "Mo 09:00-17:30; Tu-Th 09:30-17:30; Fr 09:30-15:30; Sa 09:30-15:00"
-website: "http://desertblinds.net"
+street: San Jacinto Lane
+housenumber: "65118"
+phone: +1 760 3299398
+opening_hours: Mo 09:00-17:30; Tu-Th 09:30-17:30; Fr 09:30-15:30; Sa 09:30-15:00
+website: http://desertblinds.net

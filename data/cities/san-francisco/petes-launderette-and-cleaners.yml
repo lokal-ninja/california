@@ -4,8 +4,8 @@ latitude: 37.77773
 longitude: -122.42472
 postcode: "94102"
 city: San Francisco
-street: "Octavia Street"
-housenumber: 600
-phone: "+1 415-863-5084"
-opening_hours: "09:00-17:00"
+street: Octavia Street
+housenumber: "600"
+phone: +1 415-863-5084
+opening_hours: 09:00-17:00
 website: ""

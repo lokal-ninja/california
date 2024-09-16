@@ -1,11 +1,11 @@
 id: 312951056
-type: way
+type: node
 latitude: 34.14386
 longitude: -118.76144
 postcode: "91301"
 city: Agoura Hills
-street: "Kanan Road"
-housenumber: 5000
+street: Kanan Road
+housenumber: "5000"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/CA/Agoura/5000-KANAN-RD"
+website: https://www.speedway.com/locations/CA/Agoura/5000-KANAN-RD

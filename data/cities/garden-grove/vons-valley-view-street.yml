@@ -1,11 +1,11 @@
 id: 131513451
-type: way
+type: node
 latitude: 33.79046
 longitude: -118.02874
 postcode: "92845"
 city: Garden Grove
-street: "Valley View Street"
-housenumber: 11861
-phone: "+1 714-889-9955"
-opening_hours: "Mo-Su 05:00-02:00"
-website: "https://local.vons.com/ca/garden-grove/11861-valley-view-st.html"
+street: Valley View Street
+housenumber: "11861"
+phone: +1 714-889-9955
+opening_hours: Mo-Su 05:00-02:00
+website: https://local.vons.com/ca/garden-grove/11861-valley-view-st.html

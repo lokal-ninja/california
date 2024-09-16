@@ -1,11 +1,11 @@
 id: 42006942
-type: way
+type: node
 latitude: 37.60188
 longitude: -122.06444
 postcode: "94587"
 city: Union City
-street: "Union Landing Boulevard"
-housenumber: 31200
+street: Union Landing Boulevard
+housenumber: "31200"
 phone: ""
 opening_hours: ""
 website: ""

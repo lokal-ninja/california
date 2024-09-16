@@ -1,11 +1,11 @@
 id: 287546504
-type: way
-latitude: 37.99153
+type: node
+latitude: 37.99151
 longitude: -121.31666
 postcode: ""
 city: Stockton
-street: "West March Lane"
-housenumber: 909
+street: West March Lane
+housenumber: "909"
 phone: ""
 opening_hours: ""
 website: ""

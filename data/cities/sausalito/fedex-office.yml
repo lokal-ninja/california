@@ -4,8 +4,8 @@ latitude: 37.86664
 longitude: -122.50026
 postcode: "94965"
 city: Sausalito
-street: "Bridgeway"
-housenumber: 2400
+street: Bridgeway
+housenumber: "2400"
 phone: ""
 opening_hours: ""
-website: "https://local.fedex.com/ca/sausalito/office-5177/"
+website: https://local.fedex.com/ca/sausalito/office-5177/

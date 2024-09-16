@@ -4,8 +4,8 @@ latitude: 34.21537
 longitude: -119.0657
 postcode: "93010"
 city: Camarillo
-street: "Ventura Boulevard"
-housenumber: 620
-phone: "+1-657-859-3721"
-opening_hours: "Mo-Th,Su 11:00-19:00; Fr-Sa 10:00-20:00"
-website: "https://us.oneill.com"
+street: Ventura Boulevard
+housenumber: "620"
+phone: +1-657-859-3721
+opening_hours: Mo-Th,Su 11:00-19:00; Fr-Sa 10:00-20:00
+website: https://us.oneill.com

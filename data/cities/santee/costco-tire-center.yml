@@ -1,11 +1,11 @@
 id: 956456259
-type: way
+type: node
 latitude: 32.84013
 longitude: -116.98766
 postcode: "92071"
 city: Santee
-street: "Town Center Parkway"
-housenumber: 101
+street: Town Center Parkway
+housenumber: "101"
 phone: "+16195623227"
 opening_hours: ""
-website: "https://www.costco.com/warehouse-locations/santee-ca-403.html"
+website: https://www.costco.com/warehouse-locations/santee-ca-403.html

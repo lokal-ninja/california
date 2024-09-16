@@ -1,11 +1,11 @@
 id: 965739001
-type: way
+type: node
 latitude: 33.93358
 longitude: -118.21311
 postcode: "90262"
 city: Lynwood
-street: "Long Beach Boulevard;long Beach blvd"
-housenumber: 10917
+street: Long Beach Boulevard;long Beach blvd
+housenumber: "10917"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ca/lynwood/10917-long-beach-blvd.html"
+website: https://www.autozone.com/locations/ca/lynwood/10917-long-beach-blvd.html

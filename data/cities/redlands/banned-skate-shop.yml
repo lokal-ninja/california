@@ -1,11 +1,11 @@
 id: 132723428
-type: way
+type: node
 latitude: 34.06895
 longitude: -117.20724
 postcode: "92374"
 city: Redlands
-street: "Arizona Street"
-housenumber: 1200
+street: Arizona Street
+housenumber: "1200"
 phone: ""
 opening_hours: ""
 website: ""

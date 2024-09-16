@@ -1,11 +1,11 @@
 id: 692395850
-type: way
+type: node
 latitude: 38.44124
 longitude: -122.71398
 postcode: "95404"
 city: Santa Rosa
-street: "5th Street"
-housenumber: 618
-phone: "+1-707-527-6565"
+street: 5th Street
+housenumber: "618"
+phone: +1-707-527-6565
 opening_hours: ""
-website: "https://www.cloneprint.com/"
+website: https://www.cloneprint.com/

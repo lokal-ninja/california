@@ -1,11 +1,11 @@
 id: 240212015
-type: way
+type: node
 latitude: 37.48706
 longitude: -122.22515
 postcode: "94063"
 city: Redwood City
-street: "Broadway"
-housenumber: 1870
-phone: "+1 650 446 6006"
-opening_hours: "09:00-21:00"
-website: "https://goembarc.com/redwood-city-dispensary/"
+street: Broadway
+housenumber: "1870"
+phone: +1 650 446 6006
+opening_hours: 09:00-21:00
+website: https://goembarc.com/redwood-city-dispensary/

@@ -1,11 +1,11 @@
 id: 1006083143
-type: way
+type: node
 latitude: 41.46331
 longitude: -122.89484
 postcode: ""
 city: Etna
-street: "Telco Way"
-housenumber: 15
+street: Telco Way
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ca/etna/16154"
+website: https://www.dollargeneral.com/store-directory/ca/etna/16154

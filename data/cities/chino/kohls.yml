@@ -1,11 +1,11 @@
 id: 742378154
-type: way
+type: node
 latitude: 33.99204
 longitude: -117.7165
 postcode: "91710"
 city: Chino
-street: "Grand Avenue"
-housenumber: 4093
-phone: "+1 909-591-8525"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/ca/chino-591.shtml"
+street: Grand Avenue
+housenumber: "4093"
+phone: +1 909-591-8525
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/ca/chino-591.shtml

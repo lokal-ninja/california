@@ -1,11 +1,11 @@
 id: 152954393
-type: way
+type: node
 latitude: 36.61212
 longitude: -121.84369
 postcode: "93955"
 city: Monterey
-street: "Fremont Boulevard"
-housenumber: 1720
+street: Fremont Boulevard
+housenumber: "1720"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ca/seaside/autoparts-3503.html"
+website: https://locations.oreillyauto.com/ca/seaside/autoparts-3503.html

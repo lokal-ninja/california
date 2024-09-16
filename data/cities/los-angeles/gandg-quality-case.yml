@@ -1,11 +1,11 @@
 id: 428414295
-type: way
+type: node
 latitude: 34.01569
 longitude: -118.23506
 postcode: "90058"
 city: Los Angeles
-street: "East 25th Street"
-housenumber: 2025
+street: East 25th Street
+housenumber: "2025"
 phone: "+13232332482"
 opening_hours: ""
-website: "https://ggqualitycase.com/"
+website: https://ggqualitycase.com/

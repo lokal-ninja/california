@@ -1,11 +1,11 @@
 id: 653767471
-type: way
+type: node
 latitude: 41.18767
 longitude: -120.94479
 postcode: "96006"
 city: Adin
-street: "South Main Street"
-housenumber: 711
+street: South Main Street
+housenumber: "711"
 phone: ""
 opening_hours: ""
 website: ""

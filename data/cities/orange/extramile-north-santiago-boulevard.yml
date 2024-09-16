@@ -1,11 +1,11 @@
 id: 421843124
-type: way
+type: node
 latitude: 33.83637
 longitude: -117.83447
 postcode: "92867"
 city: Orange
-street: "North Santiago Boulevard"
-housenumber: 2844
+street: North Santiago Boulevard
+housenumber: "2844"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.chevronwithtechron.com/extramile.aspx/"
+opening_hours: 24/7
+website: https://www.chevronwithtechron.com/extramile.aspx/

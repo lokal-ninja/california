@@ -1,11 +1,11 @@
 id: 71699522
-type: way
+type: node
 latitude: 33.48278
 longitude: -117.09926
 postcode: "92592"
 city: Temecula
-street: "Temecula Parkway"
-housenumber: 32020
-phone: "+1 951-303-6768"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/temecula/ca/temecula/92592/1028"
+street: Temecula Parkway
+housenumber: "32020"
+phone: +1 951-303-6768
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/temecula/ca/temecula/92592/1028

@@ -1,11 +1,11 @@
 id: 472545147
-type: way
+type: node
 latitude: 34.41475
 longitude: -118.50286
 postcode: "91350"
 city: Santa Clarita
-street: "Carl Boyer Drive"
-housenumber: 26468
-phone: "+1 661-222-7408"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/santa-clarita-ca-sams-club/4824"
+street: Carl Boyer Drive
+housenumber: "26468"
+phone: +1 661-222-7408
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/santa-clarita-ca-sams-club/4824

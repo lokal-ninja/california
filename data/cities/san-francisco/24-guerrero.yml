@@ -4,8 +4,8 @@ latitude: 37.75204
 longitude: -122.42305
 postcode: ""
 city: San Francisco
-street: "Guerrero Street"
-housenumber: 1198
-phone: "+1 415-647-0404"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 08:00-18:00"
+street: Guerrero Street
+housenumber: "1198"
+phone: +1 415-647-0404
+opening_hours: Mo-Fr 07:30-19:00; Sa 08:00-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 37.7876
 longitude: -122.41182
 postcode: ""
 city: San Francisco
-street: "Taylor Street"
-housenumber: 551
-phone: "+1 415 4746220"
-opening_hours: "Mo-Sa 09:30-15:00; Su off"
+street: Taylor Street
+housenumber: "551"
+phone: +1 415 4746220
+opening_hours: Mo-Sa 09:30-15:00; Su off
 website: ""

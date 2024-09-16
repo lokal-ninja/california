@@ -1,11 +1,11 @@
 id: 482141194
-type: way
+type: node
 latitude: 37.85818
 longitude: -122.48497
 postcode: "94965"
 city: Sausalito
-street: "Caledonia Street"
-housenumber: 35
+street: Caledonia Street
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

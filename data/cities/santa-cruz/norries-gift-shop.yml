@@ -1,11 +1,11 @@
 id: 30735431
-type: way
+type: node
 latitude: 36.98259
 longitude: -122.06141
 postcode: "95064"
 city: Santa Cruz
-street: "Arboretum Road"
-housenumber: 104
+street: Arboretum Road
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

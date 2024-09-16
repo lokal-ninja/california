@@ -1,11 +1,11 @@
 id: 1288822961
-type: way
+type: node
 latitude: 34.13809
 longitude: -117.41772
 postcode: "92377"
 city: Rialto
-street: "West Casmalia Street"
-housenumber: 2281
+street: West Casmalia Street
+housenumber: "2281"
 phone: ""
-opening_hours: "24/7"
-website: "https://app.jacksons.com/location"
+opening_hours: 24/7
+website: https://app.jacksons.com/location

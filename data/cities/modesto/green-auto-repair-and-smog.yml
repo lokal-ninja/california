@@ -1,11 +1,11 @@
 id: 1290120876
-type: way
+type: node
 latitude: 37.6355
 longitude: -121.00401
 postcode: "95351"
 city: Modesto
-street: "5th Street"
-housenumber: 829
-phone: "+1-209-525-9381"
-opening_hours: "Mo-Sa 08:30-17:00"
+street: 5th Street
+housenumber: "829"
+phone: +1-209-525-9381
+opening_hours: Mo-Sa 08:30-17:00
 website: ""

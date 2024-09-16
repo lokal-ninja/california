@@ -1,11 +1,11 @@
 id: 1146145034
-type: way
+type: node
 latitude: 37.52147
 longitude: -120.87198
 postcode: "95382"
 city: Turlock
-street: "West Monte Vista Avenue"
-housenumber: 2000
-phone: "+1 209 656 8900"
-opening_hours: "Mo-Sa 09:00-17:00"
+street: West Monte Vista Avenue
+housenumber: "2000"
+phone: +1 209 656 8900
+opening_hours: Mo-Sa 09:00-17:00
 website: ""

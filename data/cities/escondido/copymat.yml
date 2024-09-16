@@ -1,11 +1,11 @@
 id: 96490128
-type: way
+type: node
 latitude: 33.11963
 longitude: -117.08357
 postcode: "92025"
 city: Escondido
-street: "South Escondido Boulevard"
-housenumber: 190
+street: South Escondido Boulevard
+housenumber: "190"
 phone: ""
 opening_hours: ""
-website: "http://www.copymatonline.com/"
+website: http://www.copymatonline.com/

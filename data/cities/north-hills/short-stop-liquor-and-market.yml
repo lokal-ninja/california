@@ -1,11 +1,11 @@
 id: 1155697453
-type: way
+type: node
 latitude: 34.23527
 longitude: -118.46812
 postcode: "91343"
 city: North Hills
-street: "Nordhoff Street"
-housenumber: 15400
-phone: "+1-818-892-0640"
-opening_hours: "Mo-Su 06:00-26:00"
+street: Nordhoff Street
+housenumber: "15400"
+phone: +1-818-892-0640
+opening_hours: Mo-Su 06:00-26:00
 website: ""

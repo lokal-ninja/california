@@ -1,11 +1,11 @@
 id: 779244482
-type: way
+type: node
 latitude: 40.56861
 longitude: -122.36224
 postcode: "96002"
 city: Redding
-street: "Bechelli Lane"
-housenumber: 2665
-phone: "+1 (530) 710-1889"
+street: Bechelli Lane
+housenumber: "2665"
+phone: +1 (530) 710-1889
 opening_hours: ""
-website: "https://shastarepairs.com/"
+website: https://shastarepairs.com/

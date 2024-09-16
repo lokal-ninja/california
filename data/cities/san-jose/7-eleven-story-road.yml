@@ -1,11 +1,11 @@
 id: 783092059
-type: way
+type: node
 latitude: 37.3436
 longitude: -121.83673
 postcode: "95122"
 city: San Jose
-street: "Story Road"
-housenumber: 2032
-phone: "+1 408-251-0555"
+street: Story Road
+housenumber: "2032"
+phone: +1 408-251-0555
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/san-jose/2032-story-rd-14257"
+website: https://www.7-eleven.com/locations/ca/san-jose/2032-story-rd-14257

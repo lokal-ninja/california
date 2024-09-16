@@ -1,11 +1,11 @@
 id: 981100789
-type: way
+type: node
 latitude: 37.99868
 longitude: -121.73227
 postcode: "94561"
 city: Oakley
-street: "Main Street"
-housenumber: 2435
+street: Main Street
+housenumber: "2435"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/ca/oakley/oil-change-ih0001.html"
+website: https://store.vioc.com/ca/oakley/oil-change-ih0001.html

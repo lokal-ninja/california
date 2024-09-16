@@ -1,11 +1,11 @@
 id: 142697819
-type: way
+type: node
 latitude: 37.32304
 longitude: -121.94927
 postcode: "95128"
 city: San Jose
-street: "Stevens Creek Boulevard"
-housenumber: 3090
-phone: "+1 408-241-6040"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-19:00"
-website: "https://stores.bestbuy.com/ca/san-jose/3090-stevens-creek-blvd-851.html"
+street: Stevens Creek Boulevard
+housenumber: "3090"
+phone: +1 408-241-6040
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-19:00
+website: https://stores.bestbuy.com/ca/san-jose/3090-stevens-creek-blvd-851.html

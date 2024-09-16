@@ -1,11 +1,11 @@
 id: 1151579814
-type: way
+type: node
 latitude: 33.59902
 longitude: -117.16757
 postcode: "92563"
 city: Murrieta
-street: "Clinton Keith Road"
-housenumber: 28230
-phone: "+1 855-479-1176"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://stores.aldi.us/ca/murrieta/28230-clinton-keith-road"
+street: Clinton Keith Road
+housenumber: "28230"
+phone: +1 855-479-1176
+opening_hours: Mo-Su 09:00-21:00
+website: https://stores.aldi.us/ca/murrieta/28230-clinton-keith-road

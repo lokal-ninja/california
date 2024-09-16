@@ -4,8 +4,8 @@ latitude: 37.75735
 longitude: -122.41879
 postcode: "94110"
 city: San Francisco
-street: "Mission Street"
-housenumber: 2485
+street: Mission Street
+housenumber: "2485"
 phone: ""
-opening_hours: "Mo-Su 10:00-18:00"
-website: "https://www.vagaro.com/oldmissionbarbershop"
+opening_hours: Mo-Su 10:00-18:00
+website: https://www.vagaro.com/oldmissionbarbershop

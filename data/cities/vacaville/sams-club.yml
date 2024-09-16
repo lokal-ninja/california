@@ -1,11 +1,11 @@
 id: 32562102
-type: way
+type: node
 latitude: 38.36368
 longitude: -121.95818
 postcode: "95687"
 city: Vacaville
-street: "Helen Power Drive"
-housenumber: 1500
-phone: "+1 707-449-0290"
-opening_hours: "Su 10:00-18:00; Mo-Fr 10:00-20:30; Sa 09:00-20:30"
-website: "https://www.samsclub.com/club/vacaville-ca-sams-club/6433"
+street: Helen Power Drive
+housenumber: "1500"
+phone: +1 707-449-0290
+opening_hours: Su 10:00-18:00; Mo-Fr 10:00-20:30; Sa 09:00-20:30
+website: https://www.samsclub.com/club/vacaville-ca-sams-club/6433

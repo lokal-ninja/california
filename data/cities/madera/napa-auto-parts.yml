@@ -1,11 +1,11 @@
 id: 1301785349
-type: way
+type: node
 latitude: 36.95684
 longitude: -120.05576
 postcode: ""
 city: Madera
-street: "South Gateway Drive"
-housenumber: 509
-phone: "+1-559-674-2451"
+street: South Gateway Drive
+housenumber: "509"
+phone: +1-559-674-2451
 opening_hours: ""
-website: "https://www.napaonline.com/en/ca/madera/store/25260"
+website: https://www.napaonline.com/en/ca/madera/store/25260

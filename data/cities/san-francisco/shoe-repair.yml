@@ -4,8 +4,8 @@ latitude: 37.78933
 longitude: -122.41453
 postcode: ""
 city: San Francisco
-street: "Bush Street"
-housenumber: 1051
-phone: "+1 415 3493841"
-opening_hours: "Mo,Sa-Su off; Tu 06:00-17:00; We 06:00-18:00; Th-Fr 07:00-19:00"
-website: "https://www.shoerepair.today/"
+street: Bush Street
+housenumber: "1051"
+phone: +1 415 3493841
+opening_hours: Mo,Sa-Su off; Tu 06:00-17:00; We 06:00-18:00; Th-Fr 07:00-19:00
+website: https://www.shoerepair.today/

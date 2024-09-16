@@ -1,11 +1,11 @@
 id: 87223334
-type: way
+type: node
 latitude: 38.74561
 longitude: -121.26534
 postcode: "95661"
 city: Roseville
-street: "Douglas Boulevard"
-housenumber: 1607
-phone: "+1 916-783-1954"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/ca/roseville/office-depot-928"
+street: Douglas Boulevard
+housenumber: "1607"
+phone: +1 916-783-1954
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/ca/roseville/office-depot-928

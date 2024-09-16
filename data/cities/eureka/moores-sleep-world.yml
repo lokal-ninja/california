@@ -4,8 +4,8 @@ latitude: 40.80129
 longitude: -124.17123
 postcode: "95501"
 city: Eureka
-street: "5th Street"
-housenumber: 3
+street: 5th Street
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

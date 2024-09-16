@@ -1,11 +1,11 @@
 id: 367164747
-type: way
+type: node
 latitude: 37.35819
 longitude: -121.89533
 postcode: "95112"
 city: San Jose
-street: "North 9th Street"
-housenumber: 928
+street: North 9th Street
+housenumber: "928"
 phone: ""
 opening_hours: ""
-website: "https://www.thriftysupply.com/"
+website: https://www.thriftysupply.com/

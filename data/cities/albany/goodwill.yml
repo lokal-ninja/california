@@ -1,11 +1,11 @@
 id: 227282058
-type: way
+type: node
 latitude: 37.89667
 longitude: -122.30084
 postcode: "94706"
 city: Albany
-street: "San Pablo Avenue"
-housenumber: 505
-phone: "+1 510 525 2680"
-opening_hours: "Mo-Sa 09:00-21:00; Su 11:00-18:00"
-website: "https://eastbaygoodwill.org/"
+street: San Pablo Avenue
+housenumber: "505"
+phone: +1 510 525 2680
+opening_hours: Mo-Sa 09:00-21:00; Su 11:00-18:00
+website: https://eastbaygoodwill.org/

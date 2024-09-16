@@ -4,8 +4,8 @@ latitude: 32.72768
 longitude: -117.18295
 postcode: "92101"
 city: San Diego
-street: "North Harbor Drive"
-housenumber: 2710
+street: North Harbor Drive
+housenumber: "2710"
 phone: ""
-opening_hours: "Mo-Th 07:30-15:00,Fr 07:30-14:00"
-website: "https://shopcgx.com/store-locations.html"
+opening_hours: Mo-Th 07:30-15:00,Fr 07:30-14:00
+website: https://shopcgx.com/store-locations.html

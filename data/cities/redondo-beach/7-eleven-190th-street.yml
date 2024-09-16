@@ -4,8 +4,8 @@ latitude: 33.85865
 longitude: -118.37011
 postcode: "90278"
 city: Redondo Beach
-street: "190th Street"
-housenumber: 2299
-phone: "+1 310-374-0941"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ca/redondo-beach/2299-190th-st-34571"
+street: 190th Street
+housenumber: "2299"
+phone: +1 310-374-0941
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ca/redondo-beach/2299-190th-st-34571

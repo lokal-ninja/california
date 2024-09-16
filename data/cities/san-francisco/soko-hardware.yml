@@ -4,8 +4,8 @@ latitude: 37.78571
 longitude: -122.42969
 postcode: ""
 city: San Francisco
-street: "Post Street"
-housenumber: 1698
-phone: "+1 415 9315510"
-opening_hours: "Mo-Sa 9:00-17:30"
-website: "https://www.sokohardware.com/"
+street: Post Street
+housenumber: "1698"
+phone: +1 415 9315510
+opening_hours: Mo-Sa 9:00-17:30
+website: https://www.sokohardware.com/

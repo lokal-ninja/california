@@ -1,11 +1,11 @@
 id: 465223587
-type: way
+type: node
 latitude: 40.68136
 longitude: -122.37179
 postcode: "96019"
 city: Shasta Lake
-street: "Front Street"
-housenumber: 4161
+street: Front Street
+housenumber: "4161"
 phone: ""
 opening_hours: ""
 website: ""

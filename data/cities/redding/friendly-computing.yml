@@ -1,11 +1,11 @@
 id: 569590368
-type: way
+type: node
 latitude: 40.57217
 longitude: -122.33913
 postcode: "96002"
 city: Redding
-street: "Victor Avenue"
-housenumber: 2418
+street: Victor Avenue
+housenumber: "2418"
 phone: ""
 opening_hours: ""
 website: ""

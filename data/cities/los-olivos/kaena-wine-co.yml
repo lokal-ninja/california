@@ -1,11 +1,11 @@
 id: 1012978872
-type: way
+type: node
 latitude: 34.66543
 longitude: -120.11493
 postcode: "93441"
 city: Los Olivos
-street: "Grand Avenue"
-housenumber: 2890
+street: Grand Avenue
+housenumber: "2890"
 phone: ""
 opening_hours: ""
 website: ""

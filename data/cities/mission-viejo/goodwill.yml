@@ -1,11 +1,11 @@
 id: 459926017
-type: way
+type: node
 latitude: 33.61791
 longitude: -117.68088
 postcode: "92691"
 city: Mission Viejo
-street: "Via Fabricante"
-housenumber: 23871
+street: Via Fabricante
+housenumber: "23871"
 phone: ""
 opening_hours: ""
 website: ""

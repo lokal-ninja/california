@@ -1,11 +1,11 @@
 id: 222800791
-type: way
+type: node
 latitude: 33.59783
 longitude: -117.87205
 postcode: "92625"
 city: Corona Del Mar
-street: "Pacific Coast Highway"
-housenumber: 3049
+street: Pacific Coast Highway
+housenumber: "3049"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 620726973
-type: way
+type: node
 latitude: 38.56486
 longitude: -121.47298
 postcode: "95816"
 city: Sacramento
-street: "R Street"
-housenumber: 2820
+street: R Street
+housenumber: "2820"
 phone: ""
-opening_hours: "06:00-23:00"
+opening_hours: 06:00-23:00
 website: ""

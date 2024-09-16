@@ -1,11 +1,11 @@
 id: 150980442
-type: way
+type: node
 latitude: 33.7388
 longitude: -116.21292
 postcode: "92203"
 city: Indio
-street: "Jackson Street"
-housenumber: 42800
-phone: "+1 442-300-9960"
+street: Jackson Street
+housenumber: "42800"
+phone: +1 442-300-9960
 opening_hours: ""
-website: "https://stores.partycity.com/us/ca/indio/party-store-pc760.html"
+website: https://stores.partycity.com/us/ca/indio/party-store-pc760.html

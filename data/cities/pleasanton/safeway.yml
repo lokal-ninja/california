@@ -1,11 +1,11 @@
 id: 128512250
-type: way
+type: node
 latitude: 37.67472
 longitude: -121.8739
 postcode: "94566"
 city: Pleasanton
-street: "Santa Rita Road"
-housenumber: 1701
-phone: "+1 925-417-5530"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/ca/pleasanton/1701-santa-rita-rd.html"
+street: Santa Rita Road
+housenumber: "1701"
+phone: +1 925-417-5530
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/ca/pleasanton/1701-santa-rita-rd.html

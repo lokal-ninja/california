@@ -4,8 +4,8 @@ latitude: 37.78907
 longitude: -122.42233
 postcode: ""
 city: San Francisco
-street: "Van Ness Avenue"
-housenumber: 1455
-phone: "+1 415-440-4001"
-opening_hours: "Mo-Sa 13:00-17:30; Su off"
-website: "http://enotecavinostro.com"
+street: Van Ness Avenue
+housenumber: "1455"
+phone: +1 415-440-4001
+opening_hours: Mo-Sa 13:00-17:30; Su off
+website: http://enotecavinostro.com

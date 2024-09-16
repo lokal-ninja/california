@@ -1,11 +1,11 @@
 id: 228735062
-type: way
+type: node
 latitude: 33.77351
 longitude: -117.83491
 postcode: "92866"
 city: Orange
-street: "South Tustin Street"
-housenumber: 885
+street: South Tustin Street
+housenumber: "885"
 phone: ""
 opening_hours: ""
 website: ""

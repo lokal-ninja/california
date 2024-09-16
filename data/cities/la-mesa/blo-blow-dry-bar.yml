@@ -1,11 +1,11 @@
 id: 1012852577
-type: way
+type: node
 latitude: 32.77454
 longitude: -117.00872
 postcode: "91942"
 city: La Mesa
-street: "Grossmont Boulevard"
-housenumber: 8806
+street: Grossmont Boulevard
+housenumber: "8806"
 phone: ""
 opening_hours: ""
 website: ""

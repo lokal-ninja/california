@@ -1,11 +1,11 @@
 id: 311711811
-type: way
+type: node
 latitude: 37.05626
 longitude: -120.85351
 postcode: "93635"
 city: Los Banos
-street: "Washington Avenue"
-housenumber: 402
+street: Washington Avenue
+housenumber: "402"
 phone: ""
 opening_hours: ""
 website: ""

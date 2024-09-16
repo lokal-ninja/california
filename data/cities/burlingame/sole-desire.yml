@@ -1,11 +1,11 @@
 id: 237693090
-type: way
+type: node
 latitude: 37.57886
 longitude: -122.34651
 postcode: ""
 city: Burlingame
-street: "Burlingame Avenue"
-housenumber: 1215
-phone: "(650) 548-1066"
-opening_hours: "Mo-Th 10:30-19:00; Fr-Sa 10:30-19:30; Su 11:00-18:00"
-website: "https://soledesire.com/"
+street: Burlingame Avenue
+housenumber: "1215"
+phone: (650) 548-1066
+opening_hours: Mo-Th 10:30-19:00; Fr-Sa 10:30-19:30; Su 11:00-18:00
+website: https://soledesire.com/

@@ -1,11 +1,11 @@
 id: 61709343
-type: way
+type: node
 latitude: 36.71464
 longitude: -119.73637
-postcode: "93725-1206"
+postcode: 93725-1206
 city: Fresno
-street: "South Chestnut Avenue"
-housenumber: 2397
-phone: "+1 559-252-5221"
+street: South Chestnut Avenue
+housenumber: "2397"
+phone: +1 559-252-5221
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/fresno/2397-s-chestnut-ave-16970"
+website: https://www.7-eleven.com/locations/ca/fresno/2397-s-chestnut-ave-16970

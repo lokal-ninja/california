@@ -1,11 +1,11 @@
 id: 37685397
-type: way
+type: node
 latitude: 34.22609
 longitude: -119.14856
-postcode: "93036-1813"
+postcode: 93036-1813
 city: Oxnard
-street: "East Ventura Boulevard"
-housenumber: 2001
-phone: "+1 805-983-4200"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/oxnard-ca-420.html"
+street: East Ventura Boulevard
+housenumber: "2001"
+phone: +1 805-983-4200
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/oxnard-ca-420.html

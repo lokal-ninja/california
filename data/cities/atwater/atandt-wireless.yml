@@ -1,11 +1,11 @@
 id: 311695275
-type: way
+type: node
 latitude: 37.36206
 longitude: -120.57197
 postcode: "95301"
 city: Atwater
-street: "West Customer Care Way"
-housenumber: 1920
+street: West Customer Care Way
+housenumber: "1920"
 phone: ""
 opening_hours: ""
 website: ""

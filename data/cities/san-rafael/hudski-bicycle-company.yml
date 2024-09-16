@@ -4,8 +4,8 @@ latitude: 37.96622
 longitude: -122.51161
 postcode: "94901"
 city: San Rafael
-street: "Mill Street"
-housenumber: 150
+street: Mill Street
+housenumber: "150"
 phone: ""
 opening_hours: ""
-website: "https://hudskibikes.com"
+website: https://hudskibikes.com

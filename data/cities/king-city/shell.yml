@@ -1,11 +1,11 @@
 id: 253921022
-type: way
+type: node
 latitude: 36.20255
 longitude: -121.12881
 postcode: ""
 city: King City
-street: "Canal Street"
-housenumber: 601
+street: Canal Street
+housenumber: "601"
 phone: ""
 opening_hours: ""
 website: ""

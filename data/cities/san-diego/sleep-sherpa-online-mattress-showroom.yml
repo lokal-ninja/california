@@ -4,8 +4,9 @@ latitude: 32.87917
 longitude: -117.16629
 postcode: "92121"
 city: San Diego
-street: "Miramar Road"
-housenumber: 6910
-phone: "+1 858 232 5760"
-opening_hours: "Mo 11:00-18:00; Tu 11:00-19:00; We-Th on appointment; Fr 11:00-19:00; Sa 10:00-17:00, Su 11:00-17:00"
-website: "https://sleepsherpa.com/sandiego/"
+street: Miramar Road
+housenumber: "6910"
+phone: +1 858 232 5760
+opening_hours: Mo 11:00-18:00; Tu 11:00-19:00; We-Th "on appointment"; Fr 11:00-19:00;
+    Sa 10:00-17:00, Su 11:00-17:00
+website: https://sleepsherpa.com/sandiego/

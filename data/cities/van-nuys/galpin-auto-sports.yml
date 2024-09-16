@@ -1,11 +1,11 @@
 id: 432321770
-type: way
+type: node
 latitude: 34.22022
 longitude: -118.47257
 postcode: "91406"
 city: Van Nuys
-street: "Roscoe Boulevard"
-housenumber: 15600
+street: Roscoe Boulevard
+housenumber: "15600"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00"
-website: "https://www.galpinautosports.com/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00
+website: https://www.galpinautosports.com/

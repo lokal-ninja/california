@@ -2,10 +2,10 @@ id: 1541941446
 type: node
 latitude: 36.8529
 longitude: -121.40185
-postcode: "95023-3965"
+postcode: 95023-3965
 city: Hollister
-street: "San Benito St"
-housenumber: 335
+street: San Benito St
+housenumber: "335"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 37.34927
 longitude: -121.8929
 postcode: "95112"
 city: San Jose
-street: "North 6th Street"
-housenumber: 570
+street: North 6th Street
+housenumber: "570"
 phone: ""
-opening_hours: "Mo off; Tu-Fr 12:00-19:00; Sa-Su 11:00-19:00"
-website: "https://classicloot.com/"
+opening_hours: Mo off; Tu-Fr 12:00-19:00; Sa-Su 11:00-19:00
+website: https://classicloot.com/

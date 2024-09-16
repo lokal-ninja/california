@@ -1,11 +1,11 @@
 id: 162433269
-type: way
+type: node
 latitude: 33.69939
 longitude: -116.18889
 postcode: "92236"
 city: Coachella
-street: "Avenue 48"
-housenumber: 84701
+street: Avenue 48
+housenumber: "84701"
 phone: ""
 opening_hours: ""
 website: ""

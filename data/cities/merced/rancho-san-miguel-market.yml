@@ -1,11 +1,11 @@
 id: 205275190
-type: way
+type: node
 latitude: 37.29402
 longitude: -120.45247
 postcode: "95341"
 city: Merced
-street: "Parsons Avenue"
-housenumber: 1720
+street: Parsons Avenue
+housenumber: "1720"
 phone: ""
 opening_hours: ""
 website: ""

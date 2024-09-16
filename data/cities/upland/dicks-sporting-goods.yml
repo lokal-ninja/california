@@ -1,11 +1,11 @@
 id: 599072860
-type: way
+type: node
 latitude: 34.1341
 longitude: -117.63921
 postcode: "91786"
 city: Upland
-street: "Campus Avenue"
-housenumber: 1939
-phone: "+1 909-946-7192"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/ca/upland/922/"
+street: Campus Avenue
+housenumber: "1939"
+phone: +1 909-946-7192
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/ca/upland/922/

@@ -1,11 +1,11 @@
 id: 431145259
-type: way
+type: node
 latitude: 34.27213
 longitude: -118.42776
-postcode: "91331-2352"
+postcode: 91331-2352
 city: Pacoima
-street: "Paxton Street"
-housenumber: 13550
-phone: "+1 818-272-2700"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/pacoima-ca-1071.html"
+street: Paxton Street
+housenumber: "13550"
+phone: +1 818-272-2700
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/pacoima-ca-1071.html

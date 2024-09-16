@@ -1,11 +1,11 @@
 id: 401852457
-type: way
+type: node
 latitude: 32.7441
 longitude: -117.21188
 postcode: "92110"
 city: San Diego
-street: "Lytton Street"
-housenumber: 2940
+street: Lytton Street
+housenumber: "2940"
 phone: ""
 opening_hours: ""
 website: ""

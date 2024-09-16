@@ -4,8 +4,8 @@ latitude: 37.77656
 longitude: -122.47608
 postcode: "94121"
 city: San Francisco
-street: "Balboa Street"
-housenumber: 1601
+street: Balboa Street
+housenumber: "1601"
 phone: ""
-opening_hours: "10:00-19:30"
+opening_hours: 10:00-19:30
 website: ""

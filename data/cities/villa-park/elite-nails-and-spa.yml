@@ -1,11 +1,11 @@
 id: 662207804
-type: way
+type: node
 latitude: 33.81552
 longitude: -117.82246
 postcode: "92861"
 city: Villa Park
-street: "Santiago Boulevard"
-housenumber: 17767
-phone: "714-974-4948"
+street: Santiago Boulevard
+housenumber: "17767"
+phone: 714-974-4948
 opening_hours: ""
-website: "http://elitenailclub.com/"
+website: http://elitenailclub.com/

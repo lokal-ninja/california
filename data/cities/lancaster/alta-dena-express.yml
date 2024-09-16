@@ -1,11 +1,11 @@
 id: 197109996
-type: way
+type: node
 latitude: 34.70023
 longitude: -118.14837
 postcode: "93534"
 city: Lancaster
-street: "10th Street West"
-housenumber: 
+street: 10th Street West
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

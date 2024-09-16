@@ -1,11 +1,11 @@
 id: 1139126926
-type: way
+type: node
 latitude: 34.19626
 longitude: -118.86955
 postcode: "91360"
 city: Thousand Oaks
-street: "North Moorpark Road"
-housenumber: 1332
-phone: "+1 805-777-4856"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
-website: "https://www.homegoods.com/"
+street: North Moorpark Road
+housenumber: "1332"
+phone: +1 805-777-4856
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
+website: https://www.homegoods.com/

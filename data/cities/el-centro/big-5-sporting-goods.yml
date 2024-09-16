@@ -1,11 +1,11 @@
 id: 992414412
-type: way
+type: node
 latitude: 32.80039
 longitude: -115.56973
 postcode: "92243"
 city: El Centro
-street: "North Imperial Avenue"
-housenumber: 905
+street: North Imperial Avenue
+housenumber: "905"
 phone: ""
 opening_hours: ""
 website: ""

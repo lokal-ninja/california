@@ -1,11 +1,11 @@
 id: 225968459
-type: way
+type: node
 latitude: 37.27255
 longitude: -121.9531
 postcode: "95008"
 city: Campbell
-street: "Dell Avenue"
-housenumber: 940
+street: Dell Avenue
+housenumber: "940"
 phone: ""
 opening_hours: ""
 website: ""

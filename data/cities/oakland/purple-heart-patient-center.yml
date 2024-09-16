@@ -4,8 +4,8 @@ latitude: 37.797
 longitude: -122.27476
 postcode: "94607"
 city: Oakland
-street: "4th Street"
-housenumber: 415
+street: 4th Street
+housenumber: "415"
 phone: ""
 opening_hours: ""
-website: "http://www.purpleheartpc.org/"
+website: http://www.purpleheartpc.org/

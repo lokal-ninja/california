@@ -5,7 +5,7 @@ longitude: -121.98829
 postcode: ""
 city: Fremont
 street: ""
-housenumber: 110
+housenumber: "110"
 phone: ""
 opening_hours: ""
-website: "https://www.gamestop.com/store/us/ca/fremont/695/fremont-hub-gamestop"
+website: https://www.gamestop.com/store/us/ca/fremont/695/fremont-hub-gamestop

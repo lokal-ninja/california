@@ -1,11 +1,11 @@
 id: 1015115069
-type: way
+type: node
 latitude: 32.7763
 longitude: -117.01728
 postcode: "91942"
 city: La Mesa
-street: "Jackson Drive"
-housenumber: 5350
+street: Jackson Drive
+housenumber: "5350"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ca/lamesa/autoparts-2686.html"
+website: https://locations.oreillyauto.com/ca/lamesa/autoparts-2686.html

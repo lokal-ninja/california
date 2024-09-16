@@ -1,11 +1,11 @@
 id: 1002514114
-type: way
+type: node
 latitude: 32.799
 longitude: -116.97428
 postcode: "92020"
 city: El Cajon
-street: "Raleigh Avenue"
-housenumber: 430
+street: Raleigh Avenue
+housenumber: "430"
 phone: "16195902001"
-opening_hours: "Mo-Fr 06:00-17:00"
-website: "https://www.whitecap.com/branches/036"
+opening_hours: Mo-Fr 06:00-17:00
+website: https://www.whitecap.com/branches/036

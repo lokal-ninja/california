@@ -1,11 +1,11 @@
 id: 239968530
-type: way
+type: node
 latitude: 38.57364
 longitude: -121.41332
 postcode: "95825"
 city: Sacramento
-street: "Howe Avenue"
-housenumber: 424
-phone: "+1 916-925-1676"
-opening_hours: "06:00-02:00"
-website: "https://local.safeway.com/safeway/ca/sacramento/424-howe-ave.html"
+street: Howe Avenue
+housenumber: "424"
+phone: +1 916-925-1676
+opening_hours: 06:00-02:00
+website: https://local.safeway.com/safeway/ca/sacramento/424-howe-ave.html

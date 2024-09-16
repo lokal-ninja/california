@@ -4,8 +4,8 @@ latitude: 37.86842
 longitude: -122.26756
 postcode: "94704"
 city: Berkeley
-street: "Shattuck Avenue"
-housenumber: 2255
-phone: "+1 510-225-0451"
-opening_hours: "Mo-Fr 06:00-16:00; Sa, Su 07:00-16:00"
-website: "https://www.peets.com/pages/store-locator?stockist-query=Berkeley&selected=Shattuck%20Ave"
+street: Shattuck Avenue
+housenumber: "2255"
+phone: +1 510-225-0451
+opening_hours: Mo-Fr 06:00-16:00; Sa, Su 07:00-16:00
+website: https://www.peets.com/pages/store-locator?stockist-query=Berkeley&selected=Shattuck%20Ave

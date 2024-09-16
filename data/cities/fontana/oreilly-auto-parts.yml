@@ -1,11 +1,11 @@
 id: 919658249
-type: way
+type: node
 latitude: 34.10702
 longitude: -117.43368
 postcode: "92335"
 city: Fontana
-street: "Foothill Boulevard"
-housenumber: 16990
+street: Foothill Boulevard
+housenumber: "16990"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ca/fontana/autoparts-2606.html"
+website: https://locations.oreillyauto.com/ca/fontana/autoparts-2606.html

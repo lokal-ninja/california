@@ -1,11 +1,11 @@
 id: 28129018
-type: way
+type: node
 latitude: 36.9993
 longitude: -121.55869
 postcode: "95020"
 city: Gilroy
-street: "Automall Drive"
-housenumber: 455
+street: Automall Drive
+housenumber: "455"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00, Su 10:00-22:00"
+opening_hours: Mo-Sa 09:00-22:00, Su 10:00-22:00
 website: ""

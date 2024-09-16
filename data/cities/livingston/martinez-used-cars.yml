@@ -1,11 +1,11 @@
 id: 311711305
-type: way
+type: node
 latitude: 37.38776
 longitude: -120.72417
 postcode: "95334"
 city: Livingston
-street: "Court Street"
-housenumber: 1290
+street: Court Street
+housenumber: "1290"
 phone: ""
 opening_hours: ""
 website: ""

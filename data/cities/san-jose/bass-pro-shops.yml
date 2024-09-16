@@ -1,11 +1,11 @@
 id: 546788141
-type: way
+type: node
 latitude: 37.25692
 longitude: -121.87221
 postcode: "95118"
 city: San Jose
-street: "Cherry Avenue"
-housenumber: 5160
+street: Cherry Avenue
+housenumber: "5160"
 phone: ""
 opening_hours: ""
 website: ""

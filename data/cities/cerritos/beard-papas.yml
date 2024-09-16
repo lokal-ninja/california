@@ -4,8 +4,8 @@ latitude: 33.85905
 longitude: -118.09009
 postcode: "90703"
 city: Cerritos
-street: "South Street"
-housenumber: 11443
-phone: "+1 310-935-5890"
-opening_hours: "Mo-Su 11:00-21:00; Fr,Sa 11:00-22:00"
-website: "https://www.beardpapas.com/cerritos"
+street: South Street
+housenumber: "11443"
+phone: +1 310-935-5890
+opening_hours: Mo-Su 11:00-21:00; Fr,Sa 11:00-22:00
+website: https://www.beardpapas.com/cerritos

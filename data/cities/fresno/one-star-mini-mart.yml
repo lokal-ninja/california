@@ -1,11 +1,11 @@
 id: 1286736049
-type: way
+type: node
 latitude: 36.79463
 longitude: -119.79
 postcode: "93726"
 city: Fresno
-street: "North Blackstone Avenue"
-housenumber: 4206
+street: North Blackstone Avenue
+housenumber: "4206"
 phone: "+15592223077"
-opening_hours: "Mo-Su 05:00-24:00"
+opening_hours: Mo-Su 05:00-24:00
 website: ""

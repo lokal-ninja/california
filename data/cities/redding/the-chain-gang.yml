@@ -1,11 +1,11 @@
 id: 510913407
-type: way
+type: node
 latitude: 40.58668
 longitude: -122.39407
 postcode: "96001"
 city: redding
-street: "Division Street"
-housenumber: 1540
-phone: "+1 (530) 243-9951"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:30-17:00"
-website: "https://www.chaingangbikeshop.com/"
+street: Division Street
+housenumber: "1540"
+phone: +1 (530) 243-9951
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:30-17:00
+website: https://www.chaingangbikeshop.com/

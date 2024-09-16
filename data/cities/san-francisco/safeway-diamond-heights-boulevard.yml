@@ -1,11 +1,11 @@
 id: 219071301
-type: way
+type: node
 latitude: 37.74332
 longitude: -122.43933
 postcode: "94131"
 city: San Francisco
-street: "Diamond Heights Boulevard"
-housenumber: 5290
-phone: "+1 415-824-7744"
-opening_hours: "06:00-02:00"
-website: "https://local.safeway.com/safeway/ca/san-francisco/5290-diamond-heights-blvd.html"
+street: Diamond Heights Boulevard
+housenumber: "5290"
+phone: +1 415-824-7744
+opening_hours: 06:00-02:00
+website: https://local.safeway.com/safeway/ca/san-francisco/5290-diamond-heights-blvd.html

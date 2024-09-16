@@ -1,11 +1,11 @@
 id: 431145224
-type: way
+type: node
 latitude: 34.27158
 longitude: -118.42381
 postcode: "91331"
 city: Pacoima
-street: "Paxton Street"
-housenumber: 13510
-phone: "+1 818-686-1839"
+street: Paxton Street
+housenumber: "13510"
+phone: +1 818-686-1839
 opening_hours: ""
-website: "https://stores.bestbuy.com/ca/pacoima/13510-paxton-st-1511.html"
+website: https://stores.bestbuy.com/ca/pacoima/13510-paxton-st-1511.html

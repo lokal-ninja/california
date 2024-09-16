@@ -1,11 +1,11 @@
 id: 652514115
-type: way
+type: node
 latitude: 32.91455
 longitude: -117.14288
 postcode: "92126"
 city: San Diego
-street: "Camino Ruiz"
-housenumber: 10765
+street: Camino Ruiz
+housenumber: "10765"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://locations.99only.com/ca/sandiego/discount-store-369.html"
+opening_hours: Mo-Su 08:00-22:00
+website: https://locations.99only.com/ca/sandiego/discount-store-369.html

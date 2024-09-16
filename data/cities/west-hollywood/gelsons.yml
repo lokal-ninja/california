@@ -1,11 +1,11 @@
 id: 429102506
-type: way
+type: node
 latitude: 34.09004
 longitude: -118.37099
 postcode: "90046"
 city: West Hollywood
-street: "Santa Monica Boulevard"
-housenumber: 8330
+street: Santa Monica Boulevard
+housenumber: "8330"
 phone: ""
 opening_hours: ""
 website: ""

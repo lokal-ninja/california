@@ -1,11 +1,11 @@
 id: 431920189
-type: way
+type: node
 latitude: 37.40379
 longitude: -121.90534
 postcode: "95131"
 city: San Jose
-street: "Montague Expressway"
-housenumber: 1298
+street: Montague Expressway
+housenumber: "1298"
 phone: ""
 opening_hours: ""
 website: ""

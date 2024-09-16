@@ -1,11 +1,11 @@
 id: 31740279
-type: way
+type: node
 latitude: 37.97613
 longitude: -122.0671
 postcode: "94523"
 city: Pleasant Hill
-street: "Contra Costa Boulevard"
-housenumber: 568
-phone: "+1 925-202-0176"
-opening_hours: "Mo-Sa 09:00-24:00; Su 09:00-23:00"
-website: "https://stores.burlington.com/ca/pleasant-hill/294"
+street: Contra Costa Boulevard
+housenumber: "568"
+phone: +1 925-202-0176
+opening_hours: Mo-Sa 09:00-24:00; Su 09:00-23:00
+website: https://stores.burlington.com/ca/pleasant-hill/294

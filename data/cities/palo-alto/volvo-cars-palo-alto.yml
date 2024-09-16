@@ -4,8 +4,8 @@ latitude: 37.41055
 longitude: -122.12412
 postcode: ""
 city: Palo Alto
-street: "El Camino Real"
-housenumber: 4190
+street: El Camino Real
+housenumber: "4190"
 phone: ""
 opening_hours: ""
-website: "https://www.volvopaloalto.com/"
+website: https://www.volvopaloalto.com/

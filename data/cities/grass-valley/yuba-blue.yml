@@ -1,11 +1,11 @@
 id: 825913175
-type: way
+type: node
 latitude: 39.21853
 longitude: -121.06307
 postcode: "95945"
 city: Grass Valley
-street: "Mill Street"
-housenumber: 116
-phone: "+1 (530) 273-9620"
+street: Mill Street
+housenumber: "116"
+phone: +1 (530) 273-9620
 opening_hours: ""
-website: "https://yubablueonline.com/"
+website: https://yubablueonline.com/

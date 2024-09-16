@@ -1,11 +1,11 @@
 id: 120651456
-type: way
+type: node
 latitude: 38.5913
 longitude: -121.54655
 postcode: "95605"
 city: West Sacramento
-street: "Riverpoint Court"
-housenumber: 690
-phone: "+1 916-617-2128"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/w-sacramento/ca/west-sacramento/95605/1846"
+street: Riverpoint Court
+housenumber: "690"
+phone: +1 916-617-2128
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/w-sacramento/ca/west-sacramento/95605/1846

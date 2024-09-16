@@ -1,11 +1,11 @@
 id: 602683746
-type: way
+type: node
 latitude: 32.78954
 longitude: -115.55237
 postcode: "92243"
 city: El Centro
-street: "South 4th Street"
-housenumber: 419
-phone: "+1 (760) 353-5675"
+street: South 4th Street
+housenumber: "419"
+phone: +1 (760) 353-5675
 opening_hours: ""
-website: "https://www.vannashflorist.com/"
+website: https://www.vannashflorist.com/

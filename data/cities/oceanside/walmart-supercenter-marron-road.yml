@@ -1,11 +1,11 @@
 id: 122350410
-type: way
+type: node
 latitude: 33.1775
 longitude: -117.29839
 postcode: "92056"
 city: Oceanside
-street: "Marron Road"
-housenumber: 3405
-phone: "+1 760-730-1371"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/5075/oceanside-ca/whats-new"
+street: Marron Road
+housenumber: "3405"
+phone: +1 760-730-1371
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/5075/oceanside-ca/whats-new

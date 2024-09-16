@@ -4,8 +4,8 @@ latitude: 38.44633
 longitude: -122.74147
 postcode: "95401"
 city: Santa Rosa
-street: "West College Avenue"
-housenumber: 1211
-phone: "+1 707-546-6877"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://local.safeway.com/safeway/ca/santa-rosa/1211-w-college-ave.html"
+street: West College Avenue
+housenumber: "1211"
+phone: +1 707-546-6877
+opening_hours: Mo-Su 06:00-24:00
+website: https://local.safeway.com/safeway/ca/santa-rosa/1211-w-college-ave.html

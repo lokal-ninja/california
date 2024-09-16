@@ -1,11 +1,11 @@
 id: 133173977
-type: way
+type: node
 latitude: 34.42684
 longitude: -118.53568
 postcode: "91350"
 city: Saugus
-street: "Bouquet Canyon Road"
-housenumber: 26518
-phone: "+1 661-296-0031"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.vons.com/ca/saugus/26518-bouquet-canyon-rd.html"
+street: Bouquet Canyon Road
+housenumber: "26518"
+phone: +1 661-296-0031
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.vons.com/ca/saugus/26518-bouquet-canyon-rd.html

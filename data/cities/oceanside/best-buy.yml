@@ -1,11 +1,11 @@
 id: 450137339
-type: way
+type: node
 latitude: 33.18255
 longitude: -117.34569
 postcode: "92054"
 city: Oceanside
-street: "Vista Way"
-housenumber: 2110
-phone: "+1 760-439-3210"
+street: Vista Way
+housenumber: "2110"
+phone: +1 760-439-3210
 opening_hours: ""
-website: "https://stores.bestbuy.com/ca/oceanside/2110-vista-way-437.html"
+website: https://stores.bestbuy.com/ca/oceanside/2110-vista-way-437.html

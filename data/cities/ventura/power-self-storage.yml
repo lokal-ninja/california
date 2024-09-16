@@ -1,11 +1,11 @@
 id: 401495087
-type: way
+type: node
 latitude: 34.25989
 longitude: -119.2115
 postcode: "93003"
 city: Ventura
-street: "South Victoria Avenue"
-housenumber: 1661
+street: South Victoria Avenue
+housenumber: "1661"
 phone: ""
-opening_hours: "Mo-Sa 09:30-17:30; Su 11:00-16:00"
+opening_hours: Mo-Sa 09:30-17:30; Su 11:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 311696048
-type: way
+type: node
 latitude: 37.28565
 longitude: -120.48737
 postcode: "95341"
 city: Merced
-street: "South Highway 59"
-housenumber: 226
+street: South Highway 59
+housenumber: "226"
 phone: ""
 opening_hours: ""
 website: ""

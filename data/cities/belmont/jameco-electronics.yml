@@ -1,11 +1,11 @@
 id: 104090483
-type: way
+type: node
 latitude: 37.52257
 longitude: -122.2649
 postcode: "94002"
 city: Belmont
-street: "Shoreway Road"
-housenumber: 1355
+street: Shoreway Road
+housenumber: "1355"
 phone: "18008314242"
-opening_hours: "Mo-Fr 08:00-17:00; PH,Sa,Su off"
-website: "https://www.jameco.com/"
+opening_hours: Mo-Fr 08:00-17:00; PH,Sa,Su off
+website: https://www.jameco.com/

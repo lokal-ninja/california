@@ -1,11 +1,11 @@
 id: 238226078
-type: way
+type: node
 latitude: 40.80304
 longitude: -124.16346
 postcode: ""
 city: Eureka
-street: "4th Street"
-housenumber: 728
-phone: "707-445-9686"
-opening_hours: "Mo-Fr 9:00-17:30; Sa 10:00-17:00"
-website: "https://www.scrappersedge.net/"
+street: 4th Street
+housenumber: "728"
+phone: 707-445-9686
+opening_hours: Mo-Fr 9:00-17:30; Sa 10:00-17:00
+website: https://www.scrappersedge.net/

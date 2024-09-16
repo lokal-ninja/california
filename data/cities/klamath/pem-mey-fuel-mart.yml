@@ -1,11 +1,11 @@
 id: 244978764
-type: way
+type: node
 latitude: 41.53108
 longitude: -124.04084
 postcode: "95548"
 city: Klamath
-street: "Ehlers Avenue"
-housenumber: 125
+street: Ehlers Avenue
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

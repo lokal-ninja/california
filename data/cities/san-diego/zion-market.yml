@@ -1,11 +1,11 @@
 id: 31844161
-type: way
+type: node
 latitude: 32.83112
 longitude: -117.15444
 postcode: "92111"
 city: San Diego
-street: "Clairemont Mesa Boulevard"
-housenumber: 7655
+street: Clairemont Mesa Boulevard
+housenumber: "7655"
 phone: ""
 opening_hours: ""
-website: "https://www.zionmarket.com"
+website: https://www.zionmarket.com

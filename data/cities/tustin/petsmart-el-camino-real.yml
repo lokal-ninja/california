@@ -1,11 +1,11 @@
 id: 184707322
-type: way
+type: node
 latitude: 33.72629
 longitude: -117.79508
 postcode: "92782"
 city: Tustin
-street: "El Camino Real"
-housenumber: 2741
-phone: "+1 714-731-1106"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ca/tustin-store1708.html"
+street: El Camino Real
+housenumber: "2741"
+phone: +1 714-731-1106
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ca/tustin-store1708.html

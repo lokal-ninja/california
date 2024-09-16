@@ -1,11 +1,11 @@
 id: 630089100
-type: way
+type: node
 latitude: 32.63793
 longitude: -117.03202
 postcode: "91910"
 city: Chula Vista
-street: "Plaza Court"
-housenumber: 725
-phone: "+1 619-421-6200"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Chula-Vista/CA/Chula-Vista/91910/658"
+street: Plaza Court
+housenumber: "725"
+phone: +1 619-421-6200
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Chula-Vista/CA/Chula-Vista/91910/658

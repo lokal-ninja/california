@@ -1,11 +1,11 @@
 id: 361355861
-type: way
+type: node
 latitude: 33.63889
 longitude: -117.86025
 postcode: "92660"
 city: Newport Beach
-street: "Bison Avenue"
-housenumber: 1316
+street: Bison Avenue
+housenumber: "1316"
 phone: ""
 opening_hours: ""
 website: ""

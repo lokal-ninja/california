@@ -1,11 +1,11 @@
 id: 993796372
-type: way
+type: node
 latitude: 32.79549
 longitude: -116.94092
 postcode: "92019"
 city: El Cajon
-street: "East Main Street"
-housenumber: 1196
-phone: "+1 619-441-3771"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://go.harborfreight.com/store/harbor-freight-tools-in-el-cajon-ca-92021"
+street: East Main Street
+housenumber: "1196"
+phone: +1 619-441-3771
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://go.harborfreight.com/store/harbor-freight-tools-in-el-cajon-ca-92021

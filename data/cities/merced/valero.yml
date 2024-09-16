@@ -1,11 +1,11 @@
 id: 205262349
-type: way
+type: node
 latitude: 37.28834
 longitude: -120.45346
 postcode: "95341"
 city: Merced
-street: "East Childs Avenue"
-housenumber: 1975
+street: East Childs Avenue
+housenumber: "1975"
 phone: ""
 opening_hours: ""
 website: ""

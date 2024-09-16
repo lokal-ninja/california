@@ -1,11 +1,11 @@
 id: 1280053821
-type: way
+type: node
 latitude: 38.74188
 longitude: -120.74268
 postcode: ""
 city: Placeville
-street: "Carson Road"
-housenumber: 2501
+street: Carson Road
+housenumber: "2501"
 phone: ""
 opening_hours: ""
 website: ""

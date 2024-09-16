@@ -1,11 +1,11 @@
 id: 162967883
-type: way
+type: node
 latitude: 33.68425
 longitude: -116.17813
 postcode: "92236"
 city: Coachella
-street: "1st Street"
-housenumber: 1673
+street: 1st Street
+housenumber: "1673"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 771304353
-type: way
+type: node
 latitude: 37.3552
 longitude: -121.80012
 postcode: "95127"
 city: San Jose
-street: "Mount Pleasant Road"
-housenumber: 1510
+street: Mount Pleasant Road
+housenumber: "1510"
 phone: ""
 opening_hours: ""
 website: ""

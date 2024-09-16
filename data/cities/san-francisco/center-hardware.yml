@@ -1,11 +1,11 @@
 id: 274324995
-type: way
+type: node
 latitude: 37.75151
 longitude: -122.38698
-postcode: "94107-3505"
+postcode: 94107-3505
 city: San Francisco
-street: "3rd Street"
+street: 3rd Street
 housenumber: 3003;3095
-phone: "+1 415-861-1800"
-opening_hours: "Mo-Fr 07:00-18:00; Sa-Su 10:00-18:00"
+phone: +1 415-861-1800
+opening_hours: Mo-Fr 07:00-18:00; Sa-Su 10:00-18:00
 website: ""

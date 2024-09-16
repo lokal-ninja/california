@@ -1,11 +1,11 @@
 id: 240583622
-type: way
+type: node
 latitude: 37.47804
 longitude: -122.22533
 postcode: "94063"
 city: Redwood City
-street: "Roosevelt Avenue"
-housenumber: 137
-phone: "(650) 780-9410"
+street: Roosevelt Avenue
+housenumber: "137"
+phone: (650) 780-9410
 opening_hours: ""
 website: ""

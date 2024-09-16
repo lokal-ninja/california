@@ -1,11 +1,11 @@
 id: 35174716
-type: way
+type: node
 latitude: 37.77459
 longitude: -122.41661
 postcode: "94103"
 city: San Francisco
-street: "Mission Street"
-housenumber: 1475
-phone: "+1 415-861-5500"
+street: Mission Street
+housenumber: "1475"
+phone: +1 415-861-5500
 opening_hours: ""
 website: ""

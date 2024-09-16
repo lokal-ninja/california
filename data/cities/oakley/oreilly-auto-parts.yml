@@ -1,11 +1,11 @@
 id: 971048729
-type: way
+type: node
 latitude: 37.99132
 longitude: -121.69707
 postcode: "94561"
 city: Oakley
-street: "East Cypress Road"
-housenumber: 100
+street: East Cypress Road
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ca/oakley/autoparts-3783.html"
+website: https://locations.oreillyauto.com/ca/oakley/autoparts-3783.html

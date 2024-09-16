@@ -4,8 +4,8 @@ latitude: 38.43742
 longitude: -122.72039
 postcode: "95401"
 city: Santa Rosa
-street: "4th Street"
-housenumber: 100
+street: 4th Street
+housenumber: "100"
 phone: "+17075753198"
 opening_hours: ""
-website: "https://www.oldtownfurnitures.com/"
+website: https://www.oldtownfurnitures.com/

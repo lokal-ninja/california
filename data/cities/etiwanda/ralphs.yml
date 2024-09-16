@@ -1,11 +1,11 @@
 id: 41939516
-type: way
+type: node
 latitude: 34.13548
 longitude: -117.5396
 postcode: "91739"
 city: Etiwanda
-street: "Highland Avenue"
-housenumber: 12201
-phone: "+1 909-646-9356"
-opening_hours: "Mo-Fr 09:00-21:00;Sa-Su 10:00-18:00"
-website: "https://www.ralphs.com/stores/grocery/ca/rancho-cucamonga/day-creek-village/703/00700"
+street: Highland Avenue
+housenumber: "12201"
+phone: +1 909-646-9356
+opening_hours: Mo-Fr 09:00-21:00;Sa-Su 10:00-18:00
+website: https://www.ralphs.com/stores/grocery/ca/rancho-cucamonga/day-creek-village/703/00700

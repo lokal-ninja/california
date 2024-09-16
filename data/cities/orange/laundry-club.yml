@@ -1,11 +1,11 @@
 id: 1133969916
-type: way
+type: node
 latitude: 33.82129
 longitude: -117.83681
 postcode: "92865"
 city: Orange
-street: "North Tustin Street"
-housenumber: 2020
-phone: "949-274-9620"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://oclaundryclub.com/"
+street: North Tustin Street
+housenumber: "2020"
+phone: 949-274-9620
+opening_hours: Mo-Su 06:00-22:00
+website: https://oclaundryclub.com/

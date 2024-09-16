@@ -1,11 +1,11 @@
 id: 130008070
-type: way
+type: node
 latitude: 32.688
 longitude: -117.17915
 postcode: "92118"
 city: Coronado
-street: "Orange Street"
-housenumber: 868
-phone: "+1 619-435-6811"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.vons.com/ca/coronado/868-orange-ave.html"
+street: Orange Street
+housenumber: "868"
+phone: +1 619-435-6811
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.vons.com/ca/coronado/868-orange-ave.html

@@ -1,11 +1,11 @@
 id: 122351535
-type: way
+type: node
 latitude: 33.22013
 longitude: -117.25945
 postcode: "92056"
 city: Oceanside
-street: "North Melrose Drive"
-housenumber: 1501
+street: North Melrose Drive
+housenumber: "1501"
 phone: ""
 opening_hours: ""
 website: ""

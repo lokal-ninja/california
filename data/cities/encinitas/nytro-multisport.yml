@@ -4,8 +4,8 @@ latitude: 33.03986
 longitude: -117.29331
 postcode: "92024"
 city: Encinitas
-street: "South Coast Highway 101"
-housenumber: 940
+street: South Coast Highway 101
+housenumber: "940"
 phone: ""
 opening_hours: ""
-website: "https://nytro.com/"
+website: https://nytro.com/

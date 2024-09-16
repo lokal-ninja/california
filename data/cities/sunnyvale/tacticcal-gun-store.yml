@@ -1,11 +1,11 @@
 id: 210275061
-type: way
+type: node
 latitude: 37.37716
 longitude: -122.01295
 postcode: "94086"
 city: Sunnyvale
-street: "North Wolfe Road"
-housenumber: 170
+street: North Wolfe Road
+housenumber: "170"
 phone: ""
 opening_hours: ""
 website: ""

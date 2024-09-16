@@ -1,11 +1,11 @@
 id: 371530437
-type: way
+type: node
 latitude: 33.0465
 longitude: -117.28323
 postcode: "92024"
 city: Encinitas
-street: "Encinitas Boulevard"
-housenumber: 479
+street: Encinitas Boulevard
+housenumber: "479"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/encinitas-ca-pharmacies/455-encinitas-blvd-encinitas-ca-92024/storeid=9181"
+website: https://www.cvs.com/store-locator/encinitas-ca-pharmacies/455-encinitas-blvd-encinitas-ca-92024/storeid=9181

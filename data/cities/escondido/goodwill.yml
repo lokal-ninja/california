@@ -1,11 +1,11 @@
 id: 101867557
-type: way
+type: node
 latitude: 33.12503
 longitude: -117.08854
 postcode: "92025"
 city: Escondido
-street: "West Washington Avenue"
-housenumber: 315
+street: West Washington Avenue
+housenumber: "315"
 phone: ""
 opening_hours: ""
-website: "https://sdgoodwill.org/location/escondido-retail-store/"
+website: https://sdgoodwill.org/location/escondido-retail-store/

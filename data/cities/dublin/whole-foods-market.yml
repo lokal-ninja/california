@@ -1,11 +1,11 @@
 id: 332156249
-type: way
+type: node
 latitude: 37.70604
 longitude: -121.89015
 postcode: "94568"
 city: Dublin
-street: "Dublin Boulevard"
-housenumber: 5200
-phone: "+1 925-452-2226"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/dublin-ca"
+street: Dublin Boulevard
+housenumber: "5200"
+phone: +1 925-452-2226
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.wholefoodsmarket.com/stores/dublin-ca

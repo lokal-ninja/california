@@ -1,11 +1,11 @@
 id: 219072012
-type: way
+type: node
 latitude: 37.40204
 longitude: -122.1112
 postcode: "94040"
 city: Mountain View
-street: "San Antonio Road"
-housenumber: 645
-phone: "+1 650-948-4533"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/ca/mountain-view/645-san-antonio-rd.html"
+street: San Antonio Road
+housenumber: "645"
+phone: +1 650-948-4533
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/ca/mountain-view/645-san-antonio-rd.html

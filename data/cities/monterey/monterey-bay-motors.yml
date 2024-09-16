@@ -1,11 +1,11 @@
 id: 517112927
-type: way
+type: node
 latitude: 36.60023
 longitude: -121.881
 postcode: "93940"
 city: Monterey
-street: "Del Monte Avenue"
-housenumber: 1187
+street: Del Monte Avenue
+housenumber: "1187"
 phone: ""
 opening_hours: ""
 website: ""

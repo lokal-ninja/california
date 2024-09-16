@@ -1,11 +1,11 @@
 id: 131541110
-type: way
+type: node
 latitude: 33.86569
 longitude: -118.39481
 postcode: "90254"
 city: Hermosa Beach
-street: "Pier Avenue"
-housenumber: 715
-phone: "+1 310-374-4484"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.vons.com/ca/hermosa-beach/715-pier-ave.html"
+street: Pier Avenue
+housenumber: "715"
+phone: +1 310-374-4484
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.vons.com/ca/hermosa-beach/715-pier-ave.html

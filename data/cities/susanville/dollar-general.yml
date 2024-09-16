@@ -1,11 +1,11 @@
 id: 620226047
-type: way
+type: node
 latitude: 40.41279
 longitude: -120.6404
 postcode: "96130"
 city: Susanville
-street: "Main Street"
-housenumber: 2450
+street: Main Street
+housenumber: "2450"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ca/susanville/14816"
+website: https://www.dollargeneral.com/store-directory/ca/susanville/14816

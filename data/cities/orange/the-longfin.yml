@@ -1,11 +1,11 @@
 id: 185690924
-type: way
+type: node
 latitude: 33.78763
 longitude: -117.82433
 postcode: "92869"
 city: Orange
-street: "East Chapman Avenue"
-housenumber: 2740
+street: East Chapman Avenue
+housenumber: "2740"
 phone: ""
 opening_hours: ""
 website: ""

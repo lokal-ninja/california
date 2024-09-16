@@ -1,11 +1,11 @@
 id: 543419680
-type: way
+type: node
 latitude: 33.72412
 longitude: -117.7889
 postcode: "92602"
 city: Irvine
-street: "Jamboree Road"
-housenumber: 13766
-phone: "+1 714-734-3440"
+street: Jamboree Road
+housenumber: "13766"
+phone: +1 714-734-3440
 opening_hours: ""
-website: "http:// destinationxl.com"
+website: http:// destinationxl.com

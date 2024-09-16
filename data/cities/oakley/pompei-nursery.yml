@@ -1,11 +1,11 @@
 id: 971275885
-type: way
+type: node
 latitude: 37.98735
 longitude: -121.69657
 postcode: "94561"
 city: Oakley
-street: "Main Street"
-housenumber: 4701
+street: Main Street
+housenumber: "4701"
 phone: ""
 opening_hours: ""
 website: ""

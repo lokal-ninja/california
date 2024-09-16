@@ -1,11 +1,11 @@
 id: 102012341
-type: way
+type: node
 latitude: 36.86193
 longitude: -121.40088
-postcode: "95023-3019"
+postcode: 95023-3019
 city: Hollister
-street: "San Felipe Road"
-housenumber: 371
+street: San Felipe Road
+housenumber: "371"
 phone: ""
 opening_hours: ""
 website: ""

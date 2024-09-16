@@ -1,11 +1,11 @@
 id: 231002692
-type: way
+type: node
 latitude: 33.81628
 longitude: -116.48495
 postcode: "92234"
 city: Cathedral City
-street: "Ramon Road"
-housenumber: 67450
-phone: "760-668-0123"
+street: Ramon Road
+housenumber: "67450"
+phone: 760-668-0123
 opening_hours: ""
-website: "royalcomputerstore.com"
+website: royalcomputerstore.com

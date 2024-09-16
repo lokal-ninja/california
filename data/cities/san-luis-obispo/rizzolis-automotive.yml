@@ -1,11 +1,11 @@
 id: 45617273
-type: way
+type: node
 latitude: 35.26686
 longitude: -120.6516
 postcode: ""
 city: San Luis Obispo
-street: "Victoria Avenue"
-housenumber: 2584
+street: Victoria Avenue
+housenumber: "2584"
 phone: ""
 opening_hours: ""
 website: ""

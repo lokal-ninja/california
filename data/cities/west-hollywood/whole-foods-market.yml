@@ -4,8 +4,8 @@ latitude: 34.09154
 longitude: -118.36084
 postcode: "90046"
 city: West Hollywood
-street: "Santa Monica Boulevard"
-housenumber: 7871
-phone: "+1 323-848-4200"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/westhollywood"
+street: Santa Monica Boulevard
+housenumber: "7871"
+phone: +1 323-848-4200
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.wholefoodsmarket.com/stores/westhollywood

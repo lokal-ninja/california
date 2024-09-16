@@ -1,11 +1,11 @@
 id: 238226054
-type: way
+type: node
 latitude: 40.80369
 longitude: -124.15795
 postcode: ""
 city: Eureka
-street: "N Street"
-housenumber: 420
+street: N Street
+housenumber: "420"
 phone: ""
 opening_hours: ""
 website: ""

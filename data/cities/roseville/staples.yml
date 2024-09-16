@@ -1,11 +1,11 @@
 id: 45407114
-type: way
+type: node
 latitude: 38.78014
 longitude: -121.2698
 postcode: "95678"
 city: Roseville
-street: "Stanford Ranch Road"
-housenumber: 6770
+street: Stanford Ranch Road
+housenumber: "6770"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 09:00-18:00"
-website: "https://stores.staples.com/ca/roseville/6770-stanford-ranch-rd"
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 09:00-18:00
+website: https://stores.staples.com/ca/roseville/6770-stanford-ranch-rd

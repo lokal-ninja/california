@@ -1,11 +1,11 @@
 id: 75717118
-type: way
+type: node
 latitude: 35.63995
 longitude: -120.69136
 postcode: ""
 city: Paso Robles
-street: "Spring Street"
-housenumber: 2424
+street: Spring Street
+housenumber: "2424"
 phone: ""
 opening_hours: ""
 website: ""

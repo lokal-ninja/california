@@ -1,11 +1,11 @@
 id: 670737405
-type: way
+type: node
 latitude: 38.31378
 longitude: -122.48135
 postcode: "95476"
 city: Sonoma
-street: "Sonoma Highway"
-housenumber: 18133
+street: Sonoma Highway
+housenumber: "18133"
 phone: ""
 opening_hours: ""
-website: "https://www.barkingdogroasters.com/"
+website: https://www.barkingdogroasters.com/

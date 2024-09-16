@@ -1,11 +1,11 @@
 id: 441003491
-type: way
+type: node
 latitude: 33.82173
 longitude: -118.18484
 postcode: "90807"
 city: Long Beach
-street: "Atlantic Avenue"
-housenumber: 3570
+street: Atlantic Avenue
+housenumber: "3570"
 phone: ""
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.walgreens.com/locator/walgreens-3570+atlantic+ave-long+beach-ca-90807/id=7244"
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.walgreens.com/locator/walgreens-3570+atlantic+ave-long+beach-ca-90807/id=7244

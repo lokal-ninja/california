@@ -1,11 +1,11 @@
 id: 69338689
-type: way
+type: node
 latitude: 33.64288
 longitude: -117.92799
 postcode: "92627"
 city: Costa Mesa
-street: "West 19th Street"
-housenumber: 711
+street: West 19th Street
+housenumber: "711"
 phone: ""
 opening_hours: ""
 website: ""

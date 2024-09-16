@@ -1,11 +1,11 @@
 id: 1279806952
-type: way
+type: node
 latitude: 36.84291
 longitude: -119.78998
 postcode: "93650"
 city: Fresno
-street: "North Blackstone Avenue"
-housenumber: 7314
-phone: "+1 559-439-9231"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ca/fresno/7314-n-blackstone-23947"
+street: North Blackstone Avenue
+housenumber: "7314"
+phone: +1 559-439-9231
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ca/fresno/7314-n-blackstone-23947

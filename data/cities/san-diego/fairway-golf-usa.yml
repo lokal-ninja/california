@@ -1,11 +1,11 @@
 id: 31817415
-type: way
+type: node
 latitude: 32.72891
 longitude: -117.17292
 postcode: "92101"
 city: San Diego
-street: "Pacific Highway"
-housenumber: 2431
+street: Pacific Highway
+housenumber: "2431"
 phone: ""
 opening_hours: ""
 website: ""

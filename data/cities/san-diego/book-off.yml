@@ -1,11 +1,11 @@
 id: 1256982078
-type: way
+type: node
 latitude: 32.81957
 longitude: -117.15078
 postcode: "92111"
 city: San Diego
-street: "Kearny Mesa Road"
-housenumber: 4240
-phone: "+1 858-627-9600"
-opening_hours: "Mo-Su 10:00-20:00"
-website: "https://www.bookoffusa.com/bookoff-san-diego-store"
+street: Kearny Mesa Road
+housenumber: "4240"
+phone: +1 858-627-9600
+opening_hours: Mo-Su 10:00-20:00
+website: https://www.bookoffusa.com/bookoff-san-diego-store

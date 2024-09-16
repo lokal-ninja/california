@@ -1,11 +1,11 @@
 id: 206081702
-type: way
+type: node
 latitude: 34.14489
 longitude: -118.15172
 postcode: "91105"
 city: Pasadena
-street: "South DeLacey Avenue"
-housenumber: 42
+street: South DeLacey Avenue
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

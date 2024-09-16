@@ -1,11 +1,11 @@
 id: 688368720
-type: way
+type: node
 latitude: 32.77692
 longitude: -117.01719
 postcode: "91942"
 city: La Mesa
-street: "Jackson Drive"
-housenumber: 5349
+street: Jackson Drive
+housenumber: "5349"
 phone: ""
 opening_hours: ""
-website: "https://evanstire.com/locations/la-mesa/"
+website: https://evanstire.com/locations/la-mesa/

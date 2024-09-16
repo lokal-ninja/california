@@ -1,11 +1,11 @@
 id: 779525870
-type: way
+type: node
 latitude: 40.53102
 longitude: -122.38445
 postcode: "96001"
 city: Redding
-street: "Westside Road"
-housenumber: 5814
+street: Westside Road
+housenumber: "5814"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 206006683
-type: way
+type: node
 latitude: 37.31889
 longitude: -120.46828
 postcode: "95340"
 city: Merced
-street: "East Olive Avenue"
-housenumber: 77
-phone: "+1 209-722-8969"
+street: East Olive Avenue
+housenumber: "77"
+phone: +1 209-722-8969
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/merced/77-east-olive-dr-14110"
+website: https://www.7-eleven.com/locations/ca/merced/77-east-olive-dr-14110

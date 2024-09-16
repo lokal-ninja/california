@@ -4,8 +4,8 @@ latitude: 37.77678
 longitude: -122.39407
 postcode: "94107"
 city: San Francisco
-street: "King Street"
-housenumber: 298
-phone: "+1 415-633-1001"
-opening_hours: "Su-Sa 05:00-24:00"
-website: "https://local.safeway.com/safeway/ca/san-francisco/298-king-st.html"
+street: King Street
+housenumber: "298"
+phone: +1 415-633-1001
+opening_hours: Su-Sa 05:00-24:00
+website: https://local.safeway.com/safeway/ca/san-francisco/298-king-st.html

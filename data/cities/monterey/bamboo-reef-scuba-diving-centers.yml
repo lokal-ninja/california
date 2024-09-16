@@ -1,11 +1,11 @@
 id: 224851648
-type: way
+type: node
 latitude: 36.61393
 longitude: -121.90187
 postcode: "93940"
 city: Monterey
-street: "Lighthouse Avenue"
-housenumber: 614
+street: Lighthouse Avenue
+housenumber: "614"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa-Su 07:00-18:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa-Su 07:00-18:00
 website: ""

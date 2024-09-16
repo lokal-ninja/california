@@ -1,11 +1,11 @@
 id: 252835231
-type: way
+type: node
 latitude: 38.26122
 longitude: -122.0593
 postcode: "94533"
 city: Fairfield
-street: "Gateway Boulevard"
-housenumber: 1590
+street: Gateway Boulevard
+housenumber: "1590"
 phone: ""
 opening_hours: ""
 website: ""

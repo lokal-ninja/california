@@ -1,11 +1,11 @@
 id: 872744441
-type: way
+type: node
 latitude: 32.75378
 longitude: -117.20836
 postcode: "92110"
 city: San Diego
-street: "Sports Arena Boulevard"
-housenumber: 3250
-phone: "+1-619-224-4161"
+street: Sports Arena Boulevard
+housenumber: "3250"
+phone: +1-619-224-4161
 opening_hours: ""
-website: "https://www.dixieline.com/"
+website: https://www.dixieline.com/

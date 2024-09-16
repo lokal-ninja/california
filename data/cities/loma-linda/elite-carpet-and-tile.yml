@@ -4,8 +4,8 @@ latitude: 34.06333
 longitude: -117.26893
 postcode: "92354"
 city: Loma Linda
-street: "Redlands Blvd"
-housenumber: 24530
-phone: "+1 -909-799-5111"
-opening_hours: "Mon-Thu: 9:00AM to 5:00PM, Fri: 9:00AM to 3:00PM"
-website: "https://elitecarpetca.com"
+street: Redlands Blvd
+housenumber: "24530"
+phone: +1 -909-799-5111
+opening_hours: 'Mon-Thu: 9:00AM to 5:00PM, Fri: 9:00AM to 3:00PM'
+website: https://elitecarpetca.com

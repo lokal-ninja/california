@@ -1,11 +1,11 @@
 id: 395028449
-type: way
+type: node
 latitude: 32.80972
 longitude: -116.96564
 postcode: "92020"
 city: El Cajon
-street: "Fletcher Parkway"
-housenumber: 298
-phone: "+1 619-401-6610"
-opening_hours: "Mo-Sa 06:00-22:00, Su 07:00-10:00"
-website: "https://www.homedepot.com/l/El-Cajon-R676/CA/El-Cajon/92020/1848"
+street: Fletcher Parkway
+housenumber: "298"
+phone: +1 619-401-6610
+opening_hours: Mo-Sa 06:00-22:00, Su 07:00-10:00
+website: https://www.homedepot.com/l/El-Cajon-R676/CA/El-Cajon/92020/1848

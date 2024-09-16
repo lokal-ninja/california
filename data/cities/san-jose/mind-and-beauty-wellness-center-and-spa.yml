@@ -1,11 +1,11 @@
 id: 355249974
-type: way
+type: node
 latitude: 37.33983
 longitude: -121.8865
 postcode: "95112"
 city: San Jose
-street: "North 6th Street"
-housenumber: 99
+street: North 6th Street
+housenumber: "99"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 37.2574
 longitude: -121.78311
 postcode: "95138"
 city: San Jose
-street: "Piercy Road"
-housenumber: 357
+street: Piercy Road
+housenumber: "357"
 phone: ""
 opening_hours: ""
-website: "https://modusystems.com/"
+website: https://modusystems.com/

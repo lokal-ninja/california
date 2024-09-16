@@ -1,11 +1,11 @@
 id: 1107580334
-type: way
+type: node
 latitude: 35.49334
 longitude: -119.26036
 postcode: "93263"
 city: Shafter
-street: "South Beech Avenue"
-housenumber: 290
-phone: "(661) 292-5050"
+street: South Beech Avenue
+housenumber: "290"
+phone: (661) 292-5050
 opening_hours: ""
 website: ""

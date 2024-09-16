@@ -1,11 +1,11 @@
 id: 173390973
-type: way
+type: node
 latitude: 34.88512
 longitude: -116.99296
 postcode: "92311"
 city: Barstow
-street: "Montara Road"
-housenumber: 301
-phone: "+1 760-252-5000"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/1879/barstow-ca/whats-new"
+street: Montara Road
+housenumber: "301"
+phone: +1 760-252-5000
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/1879/barstow-ca/whats-new

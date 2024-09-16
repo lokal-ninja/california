@@ -1,11 +1,11 @@
 id: 1301203072
-type: way
+type: node
 latitude: 36.95912
 longitude: -120.05948
 postcode: ""
 city: Madera
-street: "West 7th Street"
-housenumber: 119
-phone: "+1-559-675-3520"
+street: West 7th Street
+housenumber: "119"
+phone: +1-559-675-3520
 opening_hours: ""
 website: ""

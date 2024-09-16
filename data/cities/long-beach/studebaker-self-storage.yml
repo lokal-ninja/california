@@ -1,11 +1,11 @@
 id: 780395542
-type: way
+type: node
 latitude: 33.77381
 longitude: -118.09846
 postcode: "90803"
 city: Long Beach
-street: "North Studebaker Road"
-housenumber: 698
+street: North Studebaker Road
+housenumber: "698"
 phone: ""
 opening_hours: ""
 website: ""

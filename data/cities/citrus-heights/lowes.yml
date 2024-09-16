@@ -1,11 +1,11 @@
 id: 326375686
-type: way
+type: node
 latitude: 38.67735
 longitude: -121.27482
 postcode: "95610"
 city: Citrus Heights
-street: "Greenback Lane"
-housenumber: 7840
-phone: "+1 916-728-7800"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/ca-citrus-heights/1540"
+street: Greenback Lane
+housenumber: "7840"
+phone: +1 916-728-7800
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/ca-citrus-heights/1540

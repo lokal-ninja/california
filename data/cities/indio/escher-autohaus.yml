@@ -1,11 +1,11 @@
 id: 215847084
-type: way
+type: node
 latitude: 33.68521
 longitude: -116.21817
 postcode: "92201"
 city: Indio
-street: "Avenue 50"
-housenumber: 82955
+street: Avenue 50
+housenumber: "82955"
 phone: ""
 opening_hours: ""
 website: ""

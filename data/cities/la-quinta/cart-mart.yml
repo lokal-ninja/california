@@ -4,8 +4,8 @@ latitude: 33.71373
 longitude: -116.29418
 postcode: "92253"
 city: La Quinta
-street: "Highway 111"
-housenumber: 78525
-phone: "+1-760-227-1221"
-opening_hours: "Mo-Fr 09:00-17:30; Sa-Su 10:00-16:00"
-website: "https://www.cartmart.com/stores/store/map/la-quinta"
+street: Highway 111
+housenumber: "78525"
+phone: +1-760-227-1221
+opening_hours: Mo-Fr 09:00-17:30; Sa-Su 10:00-16:00
+website: https://www.cartmart.com/stores/store/map/la-quinta

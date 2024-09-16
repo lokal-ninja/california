@@ -1,11 +1,11 @@
 id: 1212669621
-type: way
+type: node
 latitude: 35.36795
 longitude: -117.65624
 postcode: "93554"
 city: Randsburg
-street: "Butte Avenue"
-housenumber: 35
+street: Butte Avenue
+housenumber: "35"
 phone: ""
 opening_hours: ""
-website: "http://www.randsburg.com/text/mail.html"
+website: http://www.randsburg.com/text/mail.html

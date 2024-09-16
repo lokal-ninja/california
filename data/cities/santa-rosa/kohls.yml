@@ -1,11 +1,11 @@
 id: 766089390
-type: way
+type: node
 latitude: 38.48122
 longitude: -122.73715
 postcode: "95403"
 city: Santa Rosa
-street: "Airway Drive"
-housenumber: 3746
-phone: "+1 707-566-9880"
-opening_hours: "Mo-Th 09:00-21:00; Fr-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/ca/santarosa-980.shtml"
+street: Airway Drive
+housenumber: "3746"
+phone: +1 707-566-9880
+opening_hours: Mo-Th 09:00-21:00; Fr-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/ca/santarosa-980.shtml

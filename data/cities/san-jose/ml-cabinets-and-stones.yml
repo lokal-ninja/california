@@ -1,11 +1,11 @@
 id: 227073073
-type: way
+type: node
 latitude: 37.30998
 longitude: -121.84943
 postcode: "95112"
 city: San Jose
-street: "Senter Road"
-housenumber: 2276
+street: Senter Road
+housenumber: "2276"
 phone: ""
 opening_hours: ""
-website: "http://mlcabinetsandstones.com/"
+website: http://mlcabinetsandstones.com/

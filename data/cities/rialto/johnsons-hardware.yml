@@ -1,11 +1,11 @@
 id: 1065762831
-type: way
+type: node
 latitude: 34.09998
 longitude: -117.36976
-postcode: "92376-6413"
+postcode: 92376-6413
 city: Rialto
-street: "South Riverside Avenue"
-housenumber: 115
-phone: "+1 909-875-1821"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.acehardware.com/store-details/11136"
+street: South Riverside Avenue
+housenumber: "115"
+phone: +1 909-875-1821
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.acehardware.com/store-details/11136

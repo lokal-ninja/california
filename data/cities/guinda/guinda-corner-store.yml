@@ -1,11 +1,11 @@
 id: 34720160
-type: way
+type: node
 latitude: 38.829
 longitude: -122.19312
 postcode: ""
 city: Guinda
-street: "State Highway 16"
-housenumber: 7530
+street: State Highway 16
+housenumber: "7530"
 phone: ""
-opening_hours: "Mo-Su 09:00-18:00"
+opening_hours: Mo-Su 09:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 539737021
-type: way
+type: node
 latitude: 32.76296
 longitude: -117.01901
 postcode: "91942"
 city: La Mesa
-street: "Palm Avenue"
-housenumber: 4630
-phone: "+1 619-460-7722"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/ca/la-mesa/palm-ave/"
+street: Palm Avenue
+housenumber: "4630"
+phone: +1 619-460-7722
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/ca/la-mesa/palm-ave/

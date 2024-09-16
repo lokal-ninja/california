@@ -1,11 +1,11 @@
 id: 961263534
-type: way
+type: node
 latitude: 32.84485
 longitude: -116.87857
 postcode: "92021"
 city: El Cajon
-street: "Olde Highway 80"
-housenumber: 14140
-phone: "+1 619-561-1230"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
-website: "https://www.tractorsupply.com/tsc/store_Elcajon-CA-92021_2010"
+street: Olde Highway 80
+housenumber: "14140"
+phone: +1 619-561-1230
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
+website: https://www.tractorsupply.com/tsc/store_Elcajon-CA-92021_2010

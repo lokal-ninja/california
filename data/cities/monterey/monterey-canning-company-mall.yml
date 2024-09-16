@@ -1,11 +1,11 @@
 id: 153299628
-type: way
+type: node
 latitude: 36.61604
 longitude: -121.90044
 postcode: "93940"
 city: Monterey
-street: "Cannery Row"
-housenumber: 711
+street: Cannery Row
+housenumber: "711"
 phone: ""
 opening_hours: ""
 website: ""

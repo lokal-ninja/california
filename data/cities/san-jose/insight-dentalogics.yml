@@ -4,8 +4,8 @@ latitude: 37.32379
 longitude: -121.93768
 postcode: "95128"
 city: San Jose
-street: "O’Connor Drive"
-housenumber: 100
+street: O’Connor Drive
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "https://www.identalogics.com/"
+website: https://www.identalogics.com/

@@ -1,11 +1,11 @@
 id: 656118833
-type: way
+type: node
 latitude: 33.55155
 longitude: -117.13886
 postcode: "92563"
 city: Murrieta
-street: "Winchester Road"
-housenumber: 39140
-phone: "+1 951-600-4461"
+street: Winchester Road
+housenumber: "39140"
+phone: +1 951-600-4461
 opening_hours: ""
-website: "https://local.albertsons.com/ca/murrieta/39140-winchester-rd.html"
+website: https://local.albertsons.com/ca/murrieta/39140-winchester-rd.html

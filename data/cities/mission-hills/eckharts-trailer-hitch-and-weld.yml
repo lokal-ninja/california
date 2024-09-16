@@ -1,11 +1,11 @@
 id: 430688515
-type: way
+type: node
 latitude: 34.25493
 longitude: -118.46769
 postcode: "91345"
 city: Mission Hills
-street: "Sepulveda Boulevard"
-housenumber: 10137
+street: Sepulveda Boulevard
+housenumber: "10137"
 phone: ""
 opening_hours: ""
 website: ""

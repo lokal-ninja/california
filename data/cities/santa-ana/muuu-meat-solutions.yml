@@ -1,11 +1,11 @@
 id: 333370334
-type: way
+type: node
 latitude: 33.75039
 longitude: -117.8674
 postcode: "92701"
 city: Santa Ana
-street: "North Main Street"
-housenumber: 631
+street: North Main Street
+housenumber: "631"
 phone: ""
-opening_hours: "Mo-Fr 07:00-16:00; Sa 07:00-13:00"
-website: "https://muuumeat.com/"
+opening_hours: Mo-Fr 07:00-16:00; Sa 07:00-13:00
+website: https://muuumeat.com/

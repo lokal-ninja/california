@@ -1,11 +1,11 @@
 id: 691908409
-type: way
+type: node
 latitude: 38.39079
 longitude: -122.81751
 postcode: ""
 city: Sebastopol
-street: "Gravenstein Highway"
-housenumber: 998
-phone: "823-9171"
-opening_hours: "Mo-Su 08:00-21:00"
+street: Gravenstein Highway
+housenumber: "998"
+phone: 823-9171
+opening_hours: Mo-Su 08:00-21:00
 website: ""

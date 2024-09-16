@@ -1,11 +1,11 @@
 id: 298027295
-type: way
+type: node
 latitude: 33.79892
 longitude: -116.38546
 postcode: "92211"
 city: Palm Desert
-street: "Monterey Avenue"
-housenumber: 34500
-phone: "+1 760-328-4375"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/5096/palm-desert-ca/whats-new"
+street: Monterey Avenue
+housenumber: "34500"
+phone: +1 760-328-4375
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/5096/palm-desert-ca/whats-new

@@ -1,11 +1,11 @@
 id: 100949454
-type: way
+type: node
 latitude: 35.13896
 longitude: -118.45427
 postcode: "93561"
 city: Tehachapi
-street: "North Mill Street"
-housenumber: 507
-phone: "+1 661-823-5434"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/tehachapi/ca/tehachapi/93561/6835"
+street: North Mill Street
+housenumber: "507"
+phone: +1 661-823-5434
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/tehachapi/ca/tehachapi/93561/6835

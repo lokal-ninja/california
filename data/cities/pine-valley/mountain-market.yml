@@ -1,11 +1,11 @@
 id: 92809517
-type: way
+type: node
 latitude: 32.8215
 longitude: -116.52806
 postcode: "91962"
 city: Pine Valley
-street: "Old Highway 80"
-housenumber: 28914
+street: Old Highway 80
+housenumber: "28914"
 phone: ""
 opening_hours: ""
 website: ""

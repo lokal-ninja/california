@@ -1,11 +1,11 @@
 id: 228735127
-type: way
+type: node
 latitude: 33.76308
 longitude: -117.83523
 postcode: "92705"
 city: Santa Ana
-street: "North Tustin Avenue"
-housenumber: 1921
+street: North Tustin Avenue
+housenumber: "1921"
 phone: ""
 opening_hours: ""
 website: ""

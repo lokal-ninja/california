@@ -4,8 +4,8 @@ latitude: 32.71856
 longitude: -117.16217
 postcode: "92101"
 city: San Diego
-street: "3rd Avenue"
-housenumber: 1254
-phone: "+1 619 230 1485"
+street: 3rd Avenue
+housenumber: "1254"
+phone: +1 619 230 1485
 opening_hours: ""
-website: "http://alteatropaninigrill.com"
+website: http://alteatropaninigrill.com

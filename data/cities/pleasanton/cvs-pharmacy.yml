@@ -1,11 +1,11 @@
 id: 384584255
-type: way
+type: node
 latitude: 37.65653
 longitude: -121.89762
 postcode: "94566"
 city: Pleasanton
-street: "Bernal Avenue"
-housenumber: 6750
+street: Bernal Avenue
+housenumber: "6750"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/pleasanton-ca-pharmacies/6750-bernal-ave-pleasanton-ca-94566/storeid=10119"
+website: https://www.cvs.com/store-locator/pleasanton-ca-pharmacies/6750-bernal-ave-pleasanton-ca-94566/storeid=10119

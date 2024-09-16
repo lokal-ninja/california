@@ -1,11 +1,11 @@
 id: 393886820
-type: way
+type: node
 latitude: 38.65857
 longitude: -121.35007
 postcode: "95841"
 city: Sacramento
-street: "College Oak Drive"
-housenumber: 
+street: College Oak Drive
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

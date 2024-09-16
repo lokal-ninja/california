@@ -1,11 +1,11 @@
 id: 355252129
-type: way
+type: node
 latitude: 37.34878
 longitude: -121.89974
 postcode: "95112"
 city: San Jose
-street: "North 1st Street"
-housenumber: 684
+street: North 1st Street
+housenumber: "684"
 phone: ""
 opening_hours: ""
-website: "https://www.mygoodeyes.com/"
+website: https://www.mygoodeyes.com/

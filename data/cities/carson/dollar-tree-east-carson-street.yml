@@ -1,11 +1,11 @@
 id: 441329815
-type: way
+type: node
 latitude: 33.83072
 longitude: -118.27527
-postcode: "90745-2702"
+postcode: 90745-2702
 city: Carson
-street: "East Carson Street"
-housenumber: 164
-phone: "+1 424-368-6561"
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-21:00"
-website: "https://www.dollartree.com/locations/ca/carson/5475/"
+street: East Carson Street
+housenumber: "164"
+phone: +1 424-368-6561
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-21:00
+website: https://www.dollartree.com/locations/ca/carson/5475/

@@ -1,11 +1,11 @@
 id: 461425723
-type: way
+type: node
 latitude: 37.75635
 longitude: -122.23393
 postcode: "94501"
 city: Alameda
-street: "Encinal Avenue"
-housenumber: 3211
+street: Encinal Avenue
+housenumber: "3211"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 158966942
-type: way
+type: node
 latitude: 35.31161
 longitude: -120.83271
 postcode: "93402"
 city: Los Osos
-street: "10th Street"
-housenumber: 2199
+street: 10th Street
+housenumber: "2199"
 phone: ""
 opening_hours: ""
 website: ""

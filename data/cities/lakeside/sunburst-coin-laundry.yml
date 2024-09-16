@@ -1,11 +1,11 @@
 id: 961180838
-type: way
+type: node
 latitude: 32.86069
 longitude: -116.91983
 postcode: "92040"
 city: Lakeside
-street: "Lakeshore Drive"
-housenumber: 12562
+street: Lakeshore Drive
+housenumber: "12562"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 150989066
-type: way
+type: node
 latitude: 33.74186
 longitude: -116.2134
 postcode: "92203"
 city: Indio
-street: "Jackson Street"
-housenumber: 42100
-phone: "+1 760-347-7410"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/indio/ca/indio/92203/6874"
+street: Jackson Street
+housenumber: "42100"
+phone: +1 760-347-7410
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/indio/ca/indio/92203/6874

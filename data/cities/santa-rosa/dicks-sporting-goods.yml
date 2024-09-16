@@ -1,11 +1,11 @@
 id: 638652607
-type: way
+type: node
 latitude: 38.45625
 longitude: -122.72849
 postcode: "95401"
 city: Santa Rosa
-street: "Cleveland Avenue"
-housenumber: 1975
-phone: "+1 707-228-1223"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/ca/santa-rosa/1049/"
+street: Cleveland Avenue
+housenumber: "1975"
+phone: +1 707-228-1223
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/ca/santa-rosa/1049/

@@ -1,11 +1,11 @@
 id: 440322100
-type: way
+type: node
 latitude: 34.04215
 longitude: -118.1645
 postcode: "90022"
 city: Los Angeles
-street: "Hammel Street"
-housenumber: 4708
+street: Hammel Street
+housenumber: "4708"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 37.38226
 longitude: -121.89815
 postcode: "95131"
 city: San Jose
-street: "East Brokaw Road"
-housenumber: 1038
-phone: "+1 408-437-8926"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/san-jose-ca-1256"
+street: East Brokaw Road
+housenumber: "1038"
+phone: +1 408-437-8926
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/san-jose-ca-1256

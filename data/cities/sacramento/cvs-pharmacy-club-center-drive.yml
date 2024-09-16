@@ -1,11 +1,11 @@
 id: 197733533
-type: way
+type: node
 latitude: 38.67001
 longitude: -121.50606
 postcode: "95835"
 city: Sacramento
-street: "Club Center Drive"
-housenumber: 2050
+street: Club Center Drive
+housenumber: "2050"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/sacramento-ca-pharmacies/2050-club-center-dr-sacramento-ca-95835/storeid=4151"
+website: https://www.cvs.com/store-locator/sacramento-ca-pharmacies/2050-club-center-dr-sacramento-ca-95835/storeid=4151

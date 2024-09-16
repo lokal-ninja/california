@@ -1,11 +1,11 @@
 id: 206028380
-type: way
+type: node
 latitude: 37.38384
 longitude: -122.08106
 postcode: "94040"
 city: Mountain View
-street: "West El Camino Real"
-housenumber: 461
-phone: "+1-650-938-2003"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-17:00"
-website: "http://www.savingsautocare.com"
+street: West El Camino Real
+housenumber: "461"
+phone: +1-650-938-2003
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-17:00
+website: http://www.savingsautocare.com

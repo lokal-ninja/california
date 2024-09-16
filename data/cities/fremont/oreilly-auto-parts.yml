@@ -1,11 +1,11 @@
 id: 90551925
-type: way
+type: node
 latitude: 37.54894
 longitude: -122.04436
 postcode: "94536"
 city: Fremont
-street: "Newark Boulevard"
-housenumber: 35680
+street: Newark Boulevard
+housenumber: "35680"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:00-21:00"
-website: "https://locations.oreillyauto.com/ca/newark/autoparts-3464.html"
+opening_hours: Mo-Sa 07:30-21:00; Su 08:00-21:00
+website: https://locations.oreillyauto.com/ca/newark/autoparts-3464.html

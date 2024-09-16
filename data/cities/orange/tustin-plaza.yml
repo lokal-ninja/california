@@ -1,11 +1,11 @@
 id: 682009531
-type: way
+type: node
 latitude: 33.80625
 longitude: -117.83587
 postcode: "92867"
 city: Orange
-street: "North Tustin Street"
-housenumber: 1120
+street: North Tustin Street
+housenumber: "1120"
 phone: ""
 opening_hours: ""
 website: ""

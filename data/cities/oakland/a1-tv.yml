@@ -1,11 +1,11 @@
 id: 258958655
-type: way
+type: node
 latitude: 37.77683
 longitude: -122.22455
 postcode: "94601"
 city: Oakland
-street: "International Boulevard"
-housenumber: 3301
+street: International Boulevard
+housenumber: "3301"
 phone: ""
 opening_hours: ""
 website: ""

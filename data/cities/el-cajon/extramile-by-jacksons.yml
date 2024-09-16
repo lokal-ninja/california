@@ -1,11 +1,11 @@
 id: 959537902
-type: way
+type: node
 latitude: 32.78815
 longitude: -116.92793
 postcode: "92019"
 city: El Cajon
-street: "East Washington Avenue"
-housenumber: 1484
+street: East Washington Avenue
+housenumber: "1484"
 phone: ""
 opening_hours: ""
 website: ""

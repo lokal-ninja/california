@@ -4,8 +4,8 @@ latitude: 32.86641
 longitude: -117.23141
 postcode: "92037"
 city: La Jolla
-street: "Villa La Jolla Drive"
-housenumber: 8657
-phone: "+1 858-450-1233"
-opening_hours: "Mo-Th 09:30-22:00; Fr-Sa 09:00-23:00; Su 10:00-22:00"
+street: Villa La Jolla Drive
+housenumber: "8657"
+phone: +1 858-450-1233
+opening_hours: Mo-Th 09:30-22:00; Fr-Sa 09:00-23:00; Su 10:00-22:00
 website: ""

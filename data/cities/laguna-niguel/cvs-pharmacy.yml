@@ -1,11 +1,11 @@
 id: 428256843
-type: way
+type: node
 latitude: 33.55355
 longitude: -117.68736
 postcode: "92677"
 city: Laguna Niguel
-street: "Crown Valley Parkway"
-housenumber: 28221
+street: Crown Valley Parkway
+housenumber: "28221"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/laguna-niguel-ca-pharmacies/28221-crown-valley-pky-laguna-niguel-ca-92677/storeid=8863"
+website: https://www.cvs.com/store-locator/laguna-niguel-ca-pharmacies/28221-crown-valley-pky-laguna-niguel-ca-92677/storeid=8863

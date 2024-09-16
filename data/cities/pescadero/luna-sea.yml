@@ -1,11 +1,11 @@
 id: 292496008
-type: way
+type: node
 latitude: 37.25369
 longitude: -122.38307
 postcode: "94060"
 city: Pescadero
-street: "Stage Road"
-housenumber: 320
+street: Stage Road
+housenumber: "320"
 phone: ""
 opening_hours: ""
 website: ""

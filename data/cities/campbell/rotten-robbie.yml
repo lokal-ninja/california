@@ -1,11 +1,11 @@
 id: 229194173
-type: way
+type: node
 latitude: 37.29384
 longitude: -121.94325
 postcode: "95008"
 city: Campbell
-street: "East Hamilton Avenue"
-housenumber: 370
+street: East Hamilton Avenue
+housenumber: "370"
 phone: ""
 opening_hours: ""
 website: ""

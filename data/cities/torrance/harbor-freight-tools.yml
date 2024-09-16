@@ -1,11 +1,11 @@
 id: 442250998
-type: way
+type: node
 latitude: 33.87243
 longitude: -118.35074
 postcode: "90504"
 city: Torrance
-street: "Artesia Boulevard"
-housenumber: 4310
-phone: "+1 310-370-0860"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/4310-artesia-blvd-torrance-90504?number=425"
+street: Artesia Boulevard
+housenumber: "4310"
+phone: +1 310-370-0860
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/4310-artesia-blvd-torrance-90504?number=425

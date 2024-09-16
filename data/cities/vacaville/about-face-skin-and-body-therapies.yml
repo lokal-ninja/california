@@ -1,11 +1,11 @@
 id: 693852053
-type: way
+type: node
 latitude: 38.35535
 longitude: -122.0081
 postcode: "95688"
 city: Vacaville
-street: "Buck Avenue"
-housenumber: 595
+street: Buck Avenue
+housenumber: "595"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 377010667
-type: way
+type: node
 latitude: 33.71816
 longitude: -117.99896
 postcode: "92647"
 city: Huntington Beach
-street: "Prince Drive"
-housenumber: 7402
+street: Prince Drive
+housenumber: "7402"
 phone: "+17148420040"
 opening_hours: ""
-website: "https://www.dmccalifornia.com/"
+website: https://www.dmccalifornia.com/

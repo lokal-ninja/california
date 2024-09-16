@@ -1,11 +1,11 @@
 id: 977968660
-type: way
+type: node
 latitude: 37.96586
 longitude: -122.51169
 postcode: "94901"
 city: San Rafael
-street: "Mill Street"
-housenumber: 123
+street: Mill Street
+housenumber: "123"
 phone: ""
 opening_hours: ""
-website: "https://www.qualitywheelandbrake.com"
+website: https://www.qualitywheelandbrake.com

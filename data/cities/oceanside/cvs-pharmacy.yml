@@ -1,11 +1,11 @@
 id: 77687362
-type: way
+type: node
 latitude: 33.23813
 longitude: -117.29871
 postcode: ""
 city: Oceanside
-street: "Frazee Road"
-housenumber: 4615
+street: Frazee Road
+housenumber: "4615"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/oceanside-ca-pharmacies/4615-frazee-road-oceanside-ca-92057/storeid=9532"
+website: https://www.cvs.com/store-locator/oceanside-ca-pharmacies/4615-frazee-road-oceanside-ca-92057/storeid=9532

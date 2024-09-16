@@ -1,11 +1,11 @@
 id: 1127925536
-type: way
+type: node
 latitude: 40.56344
 longitude: -122.23962
 postcode: "96073"
 city: Palo Cedro
-street: "Deschutes Road"
-housenumber: 9494
+street: Deschutes Road
+housenumber: "9494"
 phone: "15303951605"
-opening_hours: "08:00-21:00"
-website: "https://www.dollargeneral.com/store-directory/ca/palo-cedro/15959"
+opening_hours: 08:00-21:00
+website: https://www.dollargeneral.com/store-directory/ca/palo-cedro/15959

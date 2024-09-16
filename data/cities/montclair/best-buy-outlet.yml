@@ -1,11 +1,11 @@
 id: 998579809
-type: way
+type: node
 latitude: 34.08714
 longitude: -117.68726
 postcode: "91763"
 city: Montclair
-street: "Moreno Street"
-housenumber: 5391
-phone: "+1 909-288-5254"
+street: Moreno Street
+housenumber: "5391"
+phone: +1 909-288-5254
 opening_hours: ""
-website: "https://stores.bestbuy.com/ca/montclair/5391-moreno-st-2650.html"
+website: https://stores.bestbuy.com/ca/montclair/5391-moreno-st-2650.html

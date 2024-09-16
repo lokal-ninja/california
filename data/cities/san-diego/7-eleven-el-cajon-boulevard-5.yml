@@ -4,8 +4,8 @@ latitude: 32.75545
 longitude: -117.11779
 postcode: "92104"
 city: San Diego
-street: "El Cajon Boulevard"
-housenumber: 3504
-phone: "+1 619-607-8742"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ca/san-diego/3504-el-cajon-blvd-38571"
+street: El Cajon Boulevard
+housenumber: "3504"
+phone: +1 619-607-8742
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ca/san-diego/3504-el-cajon-blvd-38571

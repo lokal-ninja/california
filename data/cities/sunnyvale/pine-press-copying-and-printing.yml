@@ -4,8 +4,8 @@ latitude: 37.35103
 longitude: -122.04947
 postcode: "94087"
 city: Sunnyvale
-street: "South Mary Avenue"
-housenumber: 1330
+street: South Mary Avenue
+housenumber: "1330"
 phone: ""
 opening_hours: ""
-website: "https://pinepress.com/"
+website: https://pinepress.com/

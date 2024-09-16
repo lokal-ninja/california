@@ -1,11 +1,11 @@
 id: 132908589
-type: way
+type: node
 latitude: 34.139
 longitude: -117.57436
 postcode: "91737"
 city: Alta Loma
-street: "Haven Avenue"
-housenumber: 6351
-phone: "+1 909-980-4277"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.vons.com/ca/rancho-cucamonga/6351-haven-ave.html"
+street: Haven Avenue
+housenumber: "6351"
+phone: +1 909-980-4277
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.vons.com/ca/rancho-cucamonga/6351-haven-ave.html

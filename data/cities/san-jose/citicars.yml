@@ -1,11 +1,11 @@
 id: 229921471
-type: way
+type: node
 latitude: 37.32381
 longitude: -121.91092
 postcode: "95126"
 city: San Jose
-street: "West San Carlos Street"
-housenumber: 1295
+street: West San Carlos Street
+housenumber: "1295"
 phone: ""
 opening_hours: ""
-website: "https://www.citicarssj.com/"
+website: https://www.citicarssj.com/

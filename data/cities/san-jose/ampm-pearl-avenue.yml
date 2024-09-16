@@ -1,11 +1,11 @@
 id: 881540817
-type: way
+type: node
 latitude: 37.26511
 longitude: -121.86547
 postcode: "95136"
 city: San Jose
-street: "Pearl Avenue"
-housenumber: 4610
+street: Pearl Avenue
+housenumber: "4610"
 phone: ""
 opening_hours: ""
 website: ""

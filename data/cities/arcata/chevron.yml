@@ -1,11 +1,11 @@
 id: 728986104
-type: way
+type: node
 latitude: 40.86591
 longitude: -124.09054
 postcode: "95521"
 city: Arcata
-street: "Samoa Boulevard"
-housenumber: 421
+street: Samoa Boulevard
+housenumber: "421"
 phone: ""
 opening_hours: ""
 website: ""

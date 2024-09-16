@@ -1,11 +1,11 @@
 id: 686220881
-type: way
+type: node
 latitude: 36.96364
 longitude: -122.00105
 postcode: "95062"
 city: Santa Cruz
-street: "Lake Avenue"
-housenumber: 413
-phone: "+1-831-479-1121"
+street: Lake Avenue
+housenumber: "413"
+phone: +1-831-479-1121
 opening_hours: ""
-website: "https://www.kayakconnection.com"
+website: https://www.kayakconnection.com

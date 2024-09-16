@@ -1,11 +1,11 @@
 id: 774897575
-type: way
+type: node
 latitude: 38.45639
 longitude: -122.71691
 postcode: "95404"
 city: Santa Rosa
-street: "Mendocino Avenue"
-housenumber: 1680
+street: Mendocino Avenue
+housenumber: "1680"
 phone: ""
 opening_hours: ""
 website: ""

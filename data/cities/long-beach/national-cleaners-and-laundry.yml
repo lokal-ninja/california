@@ -1,11 +1,11 @@
 id: 441464600
-type: way
+type: node
 latitude: 33.81728
 longitude: -118.16746
 postcode: "90807"
 city: Long Beach
-street: "Cherry Avenue"
-housenumber: 6602
+street: Cherry Avenue
+housenumber: "6602"
 phone: "+15625957093"
-opening_hours: "Mo-Sa 07:00-18:00; Su 11:00-14:00"
-website: "http://nationalcleanerslb.com/"
+opening_hours: Mo-Sa 07:00-18:00; Su 11:00-14:00
+website: http://nationalcleanerslb.com/

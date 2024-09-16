@@ -1,11 +1,11 @@
 id: 97469268
-type: way
+type: node
 latitude: 32.80482
 longitude: -116.96879
 postcode: "92020"
 city: El Cajon
-street: "Fletcher Parkway"
-housenumber: 605
-phone: "+1 619-440-2009"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/3524/el-cajon-ca/whats-new"
+street: Fletcher Parkway
+housenumber: "605"
+phone: +1 619-440-2009
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/3524/el-cajon-ca/whats-new

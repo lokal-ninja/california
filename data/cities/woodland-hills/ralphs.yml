@@ -1,11 +1,11 @@
 id: 24411962
-type: way
+type: node
 latitude: 34.16953
 longitude: -118.60362
 postcode: "91364"
 city: Woodland Hills
-street: "Ventura Boulevard"
-housenumber: 21909
-phone: "+1 818-883-1907"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.ralphs.com/stores/grocery/ca/woodland-hills/gateway-plaza-sc/703/00081"
+street: Ventura Boulevard
+housenumber: "21909"
+phone: +1 818-883-1907
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.ralphs.com/stores/grocery/ca/woodland-hills/gateway-plaza-sc/703/00081

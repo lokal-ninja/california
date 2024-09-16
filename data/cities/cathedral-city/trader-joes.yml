@@ -1,11 +1,11 @@
 id: 312714124
-type: way
+type: node
 latitude: 33.78903
 longitude: -116.48298
 postcode: "92234"
 city: Cathedral City
-street: "East Palm Canyon Drive"
-housenumber: 67720
-phone: "+1 760-202-0090"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://locations.traderjoes.com/ca/cathedral-city/118/"
+street: East Palm Canyon Drive
+housenumber: "67720"
+phone: +1 760-202-0090
+opening_hours: Mo-Su 08:00-21:00
+website: https://locations.traderjoes.com/ca/cathedral-city/118/

@@ -1,11 +1,11 @@
 id: 689820806
-type: way
+type: node
 latitude: 32.67924
 longitude: -116.50532
 postcode: "91906"
 city: Campo
-street: "Oak Drive"
-housenumber: 29801
+street: Oak Drive
+housenumber: "29801"
 phone: ""
 opening_hours: ""
 website: ""

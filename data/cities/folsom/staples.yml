@@ -1,11 +1,11 @@
 id: 158274673
-type: way
+type: node
 latitude: 38.64425
 longitude: -121.12077
 postcode: "95630"
 city: Folsom
-street: "Iron Point Road"
-housenumber: 2435
+street: Iron Point Road
+housenumber: "2435"
 phone: ""
-opening_hours: "Mo-Fr 8:00-21:00; Sa 9:00-19:00; Su 10:00-19:00"
-website: "http://storelocator.staples.com/stores/en_us/ca/folsom/1378"
+opening_hours: Mo-Fr 8:00-21:00; Sa 9:00-19:00; Su 10:00-19:00
+website: http://storelocator.staples.com/stores/en_us/ca/folsom/1378

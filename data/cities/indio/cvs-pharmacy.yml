@@ -1,11 +1,11 @@
 id: 468954793
-type: way
+type: node
 latitude: 33.71548
 longitude: -116.23001
 postcode: ""
 city: Indio
-street: "Highway 111"
-housenumber: 82270
-phone: "+1-760-342-2008"
+street: Highway 111
+housenumber: "82270"
+phone: +1-760-342-2008
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/indio-ca-pharmacies/82-270-highway-111-indio-ca-92201/storeid=9648"
+website: https://www.cvs.com/store-locator/indio-ca-pharmacies/82-270-highway-111-indio-ca-92201/storeid=9648

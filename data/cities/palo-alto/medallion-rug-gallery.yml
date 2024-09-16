@@ -1,11 +1,11 @@
 id: 132883465
-type: way
+type: node
 latitude: 37.44676
 longitude: -122.16093
 postcode: "94301"
 city: Palo Alto
-street: "University Avenue"
-housenumber: 353
+street: University Avenue
+housenumber: "353"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

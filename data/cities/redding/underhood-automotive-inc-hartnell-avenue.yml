@@ -1,11 +1,11 @@
 id: 776150850
-type: way
+type: node
 latitude: 40.56417
 longitude: -122.34885
 postcode: "96002"
 city: Redding
-street: "Hartnell Avenue"
-housenumber: 1236
-phone: "+1-530-223-3489"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://underhoodauto.com/"
+street: Hartnell Avenue
+housenumber: "1236"
+phone: +1-530-223-3489
+opening_hours: Mo-Fr 08:00-17:00
+website: https://underhoodauto.com/

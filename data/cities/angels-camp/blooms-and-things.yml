@@ -1,11 +1,11 @@
 id: 582569470
-type: way
+type: node
 latitude: 38.07785
 longitude: -120.55086
 postcode: ""
 city: Angels Camp
-street: "South Main Street"
-housenumber: 479
+street: South Main Street
+housenumber: "479"
 phone: ""
 opening_hours: ""
 website: ""

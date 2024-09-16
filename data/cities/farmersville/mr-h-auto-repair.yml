@@ -1,11 +1,11 @@
 id: 1148059795
-type: way
+type: node
 latitude: 36.29813
 longitude: -119.20227
 postcode: "93223"
 city: Farmersville
-street: "East Visalia Road"
-housenumber: 566
-phone: "+1-559-592-5500"
+street: East Visalia Road
+housenumber: "566"
+phone: +1-559-592-5500
 opening_hours: ""
 website: ""

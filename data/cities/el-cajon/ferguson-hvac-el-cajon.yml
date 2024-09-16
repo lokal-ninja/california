@@ -1,11 +1,11 @@
 id: 956998513
-type: way
+type: node
 latitude: 32.81293
 longitude: -116.97676
 postcode: "92020"
 city: El Cajon
-street: "North Marshall Avenue"
-housenumber: 1224
+street: North Marshall Avenue
+housenumber: "1224"
 phone: "+16192589328"
-opening_hours: "Mo-Fr 07:00-16:00"
-website: "https://www.ferguson.com/branch/el-cajon-ca-hvac"
+opening_hours: Mo-Fr 07:00-16:00
+website: https://www.ferguson.com/branch/el-cajon-ca-hvac

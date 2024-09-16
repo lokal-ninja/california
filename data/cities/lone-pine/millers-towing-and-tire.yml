@@ -1,11 +1,11 @@
 id: 759757231
-type: way
+type: node
 latitude: 36.58907
 longitude: -118.05698
 postcode: "93545"
 city: Lone Pine
-street: "South Main Street"
-housenumber: 1506
-phone: "+1 (760) 876 4643"
+street: South Main Street
+housenumber: "1506"
+phone: +1 (760) 876 4643
 opening_hours: ""
 website: ""

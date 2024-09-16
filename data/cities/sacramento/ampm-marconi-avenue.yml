@@ -1,11 +1,11 @@
 id: 403732990
-type: way
+type: node
 latitude: 38.61728
 longitude: -121.36491
 postcode: "95821"
 city: Sacramento
-street: "Marconi Avenue"
-housenumber: 4224
+street: Marconi Avenue
+housenumber: "4224"
 phone: ""
 opening_hours: ""
 website: ""

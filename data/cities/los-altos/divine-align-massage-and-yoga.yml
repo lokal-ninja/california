@@ -1,11 +1,11 @@
 id: 381124241
-type: way
+type: node
 latitude: 37.38426
 longitude: -122.09698
 postcode: "94024"
 city: Los Altos
-street: "Blinn Court"
-housenumber: 675
-phone: "(808) 443-1377"
+street: Blinn Court
+housenumber: "675"
+phone: (808) 443-1377
 opening_hours: ""
-website: "http://divine-align.com"
+website: http://divine-align.com

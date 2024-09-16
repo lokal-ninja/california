@@ -4,8 +4,8 @@ latitude: 37.96391
 longitude: -122.51694
 postcode: "94901"
 city: San Rafael
-street: "Du Bois Street"
-housenumber: 446
+street: Du Bois Street
+housenumber: "446"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 10:00-15:00"
+opening_hours: Mo-Fr 09:00-17:00; Sa 10:00-15:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1050882779
-type: way
+type: node
 latitude: 39.72839
 longitude: -121.8545
 postcode: "95926"
 city: Chico
-street: "Nord Avenue"
-housenumber: 532
+street: Nord Avenue
+housenumber: "532"
 phone: "+15303427342"
-opening_hours: "Mo-Fr 09:00-19:00; Sa-Su 09:00-16:00"
-website: "https://www.originalbarberjohns.com/"
+opening_hours: Mo-Fr 09:00-19:00; Sa-Su 09:00-16:00
+website: https://www.originalbarberjohns.com/

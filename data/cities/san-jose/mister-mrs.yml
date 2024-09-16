@@ -1,11 +1,11 @@
 id: 347004812
-type: way
+type: node
 latitude: 37.34886
 longitude: -121.89487
 postcode: "95112"
 city: San Jose
-street: "Jackson Street"
-housenumber: 175
+street: Jackson Street
+housenumber: "175"
 phone: ""
 opening_hours: ""
-website: "https://www.misterandmrshairsalon.com/"
+website: https://www.misterandmrshairsalon.com/

@@ -1,11 +1,11 @@
 id: 370808747
-type: way
+type: node
 latitude: 33.65271
 longitude: -117.71686
 postcode: "92630"
 city: Irvine
-street: "Hughes"
-housenumber: 18
+street: Hughes
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

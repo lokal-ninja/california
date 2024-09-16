@@ -1,11 +1,11 @@
 id: 207174195
-type: way
+type: node
 latitude: 37.29476
 longitude: -121.9496
 postcode: "95008"
 city: Campbell
-street: "South Winchester Boulevard"
-housenumber: 1600
+street: South Winchester Boulevard
+housenumber: "1600"
 phone: ""
 opening_hours: ""
-website: "https://www.sanjosecamera.com/"
+website: https://www.sanjosecamera.com/

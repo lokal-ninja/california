@@ -1,11 +1,11 @@
 id: 191530175
-type: way
+type: node
 latitude: 37.31253
 longitude: -121.87876
 postcode: "95125"
 city: San Jose
-street: "Almaden Expressway"
-housenumber: 1401
+street: Almaden Expressway
+housenumber: "1401"
 phone: ""
 opening_hours: ""
 website: ""

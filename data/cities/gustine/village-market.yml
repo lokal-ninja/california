@@ -1,11 +1,11 @@
 id: 311712098
-type: way
+type: node
 latitude: 37.09873
 longitude: -121.0164
 postcode: "95322"
 city: Gustine
-street: "South Comet"
-housenumber: 13162
+street: South Comet
+housenumber: "13162"
 phone: ""
 opening_hours: ""
 website: ""

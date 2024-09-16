@@ -1,11 +1,11 @@
 id: 233523952
-type: way
+type: node
 latitude: 33.94504
 longitude: -117.41443
 postcode: "92504"
 city: Riverside
-street: "Madison Street"
-housenumber: 4080
-phone: "+1 951-687-9930"
-opening_hours: "Mo-Sa 08:00-23:00; Su 09:00-23:00"
+street: Madison Street
+housenumber: "4080"
+phone: +1 951-687-9930
+opening_hours: Mo-Sa 08:00-23:00; Su 09:00-23:00
 website: ""

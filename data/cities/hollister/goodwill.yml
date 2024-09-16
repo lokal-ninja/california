@@ -1,11 +1,11 @@
 id: 214975147
-type: way
+type: node
 latitude: 36.83779
 longitude: -121.38909
 postcode: "95023"
 city: Hollister
-street: "Airline Highway"
-housenumber: 1703
+street: Airline Highway
+housenumber: "1703"
 phone: ""
-opening_hours: "Mo-Su 10:00-20:00"
+opening_hours: Mo-Su 10:00-20:00
 website: ""

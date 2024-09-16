@@ -1,11 +1,11 @@
 id: 402146150
-type: way
+type: node
 latitude: 33.14001
 longitude: -117.17561
 postcode: ""
 city: San Marcos
-street: "Knoll Road"
-housenumber: 188
+street: Knoll Road
+housenumber: "188"
 phone: ""
 opening_hours: ""
 website: ""

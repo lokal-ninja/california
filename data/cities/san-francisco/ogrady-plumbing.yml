@@ -4,8 +4,8 @@ latitude: 37.74332
 longitude: -122.38848
 postcode: "94124"
 city: San Francisco
-street: "Evans Avenue"
-housenumber: 1610
-phone: "+1 415-985-0155"
-opening_hours: "24/7"
+street: Evans Avenue
+housenumber: "1610"
+phone: +1 415-985-0155
+opening_hours: 24/7
 website: ""

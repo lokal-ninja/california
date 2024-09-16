@@ -1,11 +1,11 @@
 id: 1248330332
-type: way
+type: node
 latitude: 37.4775
 longitude: -120.85119
 postcode: "95380"
 city: Turlock
-street: "Lander Avenue"
-housenumber: 1631
+street: Lander Avenue
+housenumber: "1631"
 phone: ""
 opening_hours: ""
 website: ""

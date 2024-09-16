@@ -1,11 +1,11 @@
 id: 170973960
-type: way
+type: node
 latitude: 33.82326
 longitude: -117.83662
 postcode: "92865"
 city: Orange
-street: "North Tustin Street"
-housenumber: 2114
-phone: "+1 714-283-5697"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.traderjoes.com/"
+street: North Tustin Street
+housenumber: "2114"
+phone: +1 714-283-5697
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.traderjoes.com/

@@ -1,11 +1,11 @@
 id: 1006868821
-type: way
+type: node
 latitude: 33.02085
 longitude: -117.11406
 postcode: "92127"
 city: San Diego
-street: "Reserve Drive"
-housenumber: 10455
+street: Reserve Drive
+housenumber: "10455"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
 website: ""

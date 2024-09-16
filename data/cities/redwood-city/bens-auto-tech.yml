@@ -1,11 +1,11 @@
 id: 240668220
-type: way
+type: node
 latitude: 37.47874
 longitude: -122.22412
 postcode: "94063"
 city: Redwood City
-street: "Lathrop Street"
-housenumber: 413
-phone: "(650) 369-3022"
+street: Lathrop Street
+housenumber: "413"
+phone: (650) 369-3022
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 551782877
-type: way
+type: node
 latitude: 37.96212
 longitude: -122.06127
 postcode: "94523"
 city: Concord
-street: "Sunvalley Boulevard"
-housenumber: 1000
+street: Sunvalley Boulevard
+housenumber: "1000"
 phone: ""
 opening_hours: ""
 website: ""

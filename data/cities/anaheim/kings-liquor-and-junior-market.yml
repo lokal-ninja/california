@@ -1,11 +1,11 @@
 id: 183189463
-type: way
+type: node
 latitude: 33.79579
 longitude: -117.9144
 postcode: "92802"
 city: Anaheim
-street: "Orangewood Avenue"
-housenumber: 500
+street: Orangewood Avenue
+housenumber: "500"
 phone: ""
 opening_hours: ""
 website: ""

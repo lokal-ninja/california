@@ -1,11 +1,11 @@
 id: 1257032376
-type: way
+type: node
 latitude: 32.81888
 longitude: -117.15006
 postcode: "92111"
 city: San Diego
-street: "Kearny Mesa Road"
-housenumber: 4240
+street: Kearny Mesa Road
+housenumber: "4240"
 phone: ""
-opening_hours: "Tu-Th 10:00-15:00; Fr-Su 10:00-16:00"
-website: "https://www.flouratelier.com/"
+opening_hours: Tu-Th 10:00-15:00; Fr-Su 10:00-16:00
+website: https://www.flouratelier.com/

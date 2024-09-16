@@ -1,11 +1,11 @@
 id: 30130846
-type: way
+type: node
 latitude: 37.8032
 longitude: -122.45984
 postcode: "94129"
 city: San Francisco
-street: "Mason Street"
-housenumber: 610
+street: Mason Street
+housenumber: "610"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 33.80463
 longitude: -118.19331
 postcode: "90806"
 city: Long Beach
-street: "Pacific Avenue"
-housenumber: 2600
-phone: "+1 562-606-2499"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ca/long-beach/2600-pacific-ave-23713"
+street: Pacific Avenue
+housenumber: "2600"
+phone: +1 562-606-2499
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ca/long-beach/2600-pacific-ave-23713

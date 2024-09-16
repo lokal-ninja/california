@@ -1,11 +1,11 @@
 id: 689555612
-type: way
+type: node
 latitude: 38.36288
 longitude: -121.97006
 postcode: "95688"
 city: Vacaville
-street: "East Monte Vista Avenue"
-housenumber: 1385
+street: East Monte Vista Avenue
+housenumber: "1385"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 422034752
-type: way
+type: node
 latitude: 37.6946
 longitude: -121.06455
 postcode: "95356"
 city: Modesto
-street: "Sisk Road"
-housenumber: 3900
-phone: "+1 209-543-0117"
+street: Sisk Road
+housenumber: "3900"
+phone: +1 209-543-0117
 opening_hours: ""
-website: "https://stores.bestbuy.com/ca/modesto/3900-sisk-rd-141.html"
+website: https://stores.bestbuy.com/ca/modesto/3900-sisk-rd-141.html

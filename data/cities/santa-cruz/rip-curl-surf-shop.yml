@@ -1,11 +1,11 @@
 id: 35026953
-type: way
+type: node
 latitude: 36.9668
 longitude: -122.04078
 postcode: "95060"
 city: Santa Cruz
-street: "Mission Street"
-housenumber: 1604
+street: Mission Street
+housenumber: "1604"
 phone: ""
 opening_hours: ""
-website: "https://www.ripcurl.com"
+website: https://www.ripcurl.com

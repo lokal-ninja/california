@@ -1,11 +1,11 @@
 id: 124472673
-type: way
+type: node
 latitude: 37.42123
 longitude: -122.09809
 postcode: "94043"
 city: Mountain View
-street: "East Charleston Road"
-housenumber: 2485
+street: East Charleston Road
+housenumber: "2485"
 phone: ""
-opening_hours: "Mo-Su 10:00-19:00"
+opening_hours: Mo-Su 10:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 626703843
-type: way
+type: node
 latitude: 33.64383
 longitude: -117.91537
 postcode: "92627"
 city: Costa Mesa
-street: "Newport Boulevard"
-housenumber: 1930
-phone: "+1 949 312 9716"
+street: Newport Boulevard
+housenumber: "1930"
+phone: +1 949 312 9716
 opening_hours: ""
-website: "https://www.idealmotors.com"
+website: https://www.idealmotors.com

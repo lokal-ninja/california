@@ -2,10 +2,10 @@ id: 5397493623
 type: node
 latitude: 34.14897
 longitude: -118.24831
-postcode: "91206-4455"
+postcode: 91206-4455
 city: Glendale
-street: "North Glendale Avenue"
-housenumber: 219
-phone: "+1 818-291-0944"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/ca/glendale/2008"
+street: North Glendale Avenue
+housenumber: "219"
+phone: +1 818-291-0944
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/ca/glendale/2008

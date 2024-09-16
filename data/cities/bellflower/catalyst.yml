@@ -1,11 +1,11 @@
 id: 455825630
-type: way
+type: node
 latitude: 33.87436
 longitude: -118.14127
 postcode: "90706"
 city: Bellflower
-street: "Artesia Boulevard"
-housenumber: 9032
+street: Artesia Boulevard
+housenumber: "9032"
 phone: ""
 opening_hours: ""
 website: ""

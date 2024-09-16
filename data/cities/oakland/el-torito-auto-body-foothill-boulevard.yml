@@ -1,11 +1,11 @@
 id: 473841355
-type: way
+type: node
 latitude: 37.77963
 longitude: -122.21641
 postcode: "94601"
 city: Oakland
-street: "Foothill Boulevard"
-housenumber: 3714
-phone: "510-436-0129"
+street: Foothill Boulevard
+housenumber: "3714"
+phone: 510-436-0129
 opening_hours: ""
 website: ""

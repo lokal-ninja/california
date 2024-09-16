@@ -1,11 +1,11 @@
 id: 107523494
-type: way
+type: node
 latitude: 41.49505
 longitude: -120.54277
 postcode: "96101"
 city: Alturas
-street: "West 12th Street"
-housenumber: 100
+street: West 12th Street
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

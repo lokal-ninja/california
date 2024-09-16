@@ -1,11 +1,11 @@
 id: 47150229
-type: way
+type: node
 latitude: 38.74468
 longitude: -121.27419
 postcode: "95678"
 city: Roseville
-street: "Douglas Boulevard"
-housenumber: 1139
+street: Douglas Boulevard
+housenumber: "1139"
 phone: ""
 opening_hours: ""
 website: ""

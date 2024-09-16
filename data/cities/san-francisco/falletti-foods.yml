@@ -4,8 +4,8 @@ latitude: 37.77331
 longitude: -122.43894
 postcode: "94127"
 city: San Francisco
-street: "Broderick Street"
-housenumber: 302
+street: Broderick Street
+housenumber: "302"
 phone: ""
-opening_hours: "Mo-Su 07:00-21:00"
-website: "http://fallettifoods.com"
+opening_hours: Mo-Su 07:00-21:00
+website: http://fallettifoods.com

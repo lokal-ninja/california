@@ -1,11 +1,11 @@
 id: 1300719518
-type: way
+type: node
 latitude: 36.96328
 longitude: -120.05826
 postcode: ""
 city: Madera
-street: "East Yosemite Avenue"
-housenumber: 219
-phone: "+1-559-598-6080"
+street: East Yosemite Avenue
+housenumber: "219"
+phone: +1-559-598-6080
 opening_hours: ""
 website: ""

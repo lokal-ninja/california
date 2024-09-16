@@ -1,11 +1,11 @@
 id: 105081867
-type: way
+type: node
 latitude: 33.93857
 longitude: -117.18889
 postcode: "92555"
 city: Moreno Valley
-street: "Eucalyptus Avenue"
-housenumber: 27100
-phone: "+1 951-571-8014"
-opening_hours: "07:00-23:00"
-website: "https://www.target.com/sl/moreno-valley-east/2309"
+street: Eucalyptus Avenue
+housenumber: "27100"
+phone: +1 951-571-8014
+opening_hours: 07:00-23:00
+website: https://www.target.com/sl/moreno-valley-east/2309

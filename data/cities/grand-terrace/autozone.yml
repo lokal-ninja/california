@@ -1,11 +1,11 @@
 id: 578905176
-type: way
+type: node
 latitude: 34.0337
 longitude: -117.3212
 postcode: "92313"
 city: Grand Terrace
-street: "Barton Road"
-housenumber: 22203
+street: Barton Road
+housenumber: "22203"
 phone: ""
-opening_hours: "Mo-Sa 07:30-10:00; Su 8:00-9:00"
-website: "https://www.autozone.com/locations/ca/grand-terrace/22203-barton-rd.html"
+opening_hours: Mo-Sa 07:30-10:00; Su 8:00-9:00
+website: https://www.autozone.com/locations/ca/grand-terrace/22203-barton-rd.html

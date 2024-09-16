@@ -1,11 +1,11 @@
 id: 817168521
-type: way
+type: node
 latitude: 33.99426
 longitude: -117.75882
 postcode: "91709"
 city: Chino Hills
-street: "Chino Hills Parkway"
-housenumber: 14250
-phone: "+1 909-591-5405"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.staterbros.com/stores/169"
+street: Chino Hills Parkway
+housenumber: "14250"
+phone: +1 909-591-5405
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.staterbros.com/stores/169

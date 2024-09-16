@@ -1,11 +1,11 @@
 id: 226826596
-type: way
+type: node
 latitude: 33.92228
 longitude: -118.3234
-postcode: "90250-3388"
+postcode: 90250-3388
 city: Hawthorne
-street: "West 120th Street"
-housenumber: 2750
-phone: "+1 323-418-0429"
-opening_hours: "Mo-Th 09:00-22:00; Fr-Sa 08:30-22:00; Su 09:00-22:00"
+street: West 120th Street
+housenumber: "2750"
+phone: +1 323-418-0429
+opening_hours: Mo-Th 09:00-22:00; Fr-Sa 08:30-22:00; Su 09:00-22:00
 website: ""

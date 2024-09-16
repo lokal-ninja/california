@@ -4,8 +4,8 @@ latitude: 34.13469
 longitude: -116.31558
 postcode: "92252"
 city: Joshua Tree
-street: "29 Palms Highway"
-housenumber: 61795
+street: 29 Palms Highway
+housenumber: "61795"
 phone: "+17603664684"
 opening_hours: ""
-website: "https://nomadventures.com/"
+website: https://nomadventures.com/

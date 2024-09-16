@@ -1,11 +1,11 @@
 id: 430706298
-type: way
+type: node
 latitude: 34.21783
 longitude: -118.59348
 postcode: "91304"
 city: Canoga Park
-street: "Roscoe Boulevard"
-housenumber: 21218
-phone: "+1 818-348-9400"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Canoga-Park/CA/Canoga-Park/91304/612"
+street: Roscoe Boulevard
+housenumber: "21218"
+phone: +1 818-348-9400
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Canoga-Park/CA/Canoga-Park/91304/612

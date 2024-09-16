@@ -1,11 +1,11 @@
 id: 957710384
-type: way
+type: node
 latitude: 32.80737
 longitude: -116.94894
 postcode: "92021"
 city: El Cajon
-street: "Broadway"
-housenumber: 969
+street: Broadway
+housenumber: "969"
 phone: "+16197678932"
 opening_hours: ""
 website: ""

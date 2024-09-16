@@ -1,11 +1,11 @@
 id: 357150471
-type: way
+type: node
 latitude: 37.35173
 longitude: -121.86986
 postcode: "95116"
 city: San Jose
-street: "East Julian Street"
-housenumber: 1250
+street: East Julian Street
+housenumber: "1250"
 phone: ""
 opening_hours: ""
 website: ""

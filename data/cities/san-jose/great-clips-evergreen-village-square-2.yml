@@ -1,11 +1,11 @@
 id: 532624798
-type: way
+type: node
 latitude: 37.31371
 longitude: -121.77345
 postcode: "95135"
 city: San Jose
-street: "Evergreen Village Square"
-housenumber: 4055
+street: Evergreen Village Square
+housenumber: "4055"
 phone: ""
 opening_hours: ""
 website: ""

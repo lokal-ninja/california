@@ -1,11 +1,11 @@
 id: 1235002118
-type: way
+type: node
 latitude: 33.67673
 longitude: -117.83306
 postcode: "92614"
 city: Irvine
-street: "Harvard Avenue"
-housenumber: 17625
+street: Harvard Avenue
+housenumber: "17625"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/irvine-ca-pharmacies/17625-harvard-avenue-irvine-ca-92614/storeid=9561"
+website: https://www.cvs.com/store-locator/irvine-ca-pharmacies/17625-harvard-avenue-irvine-ca-92614/storeid=9561

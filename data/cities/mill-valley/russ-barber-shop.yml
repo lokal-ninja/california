@@ -1,11 +1,11 @@
 id: 630103405
-type: way
+type: node
 latitude: 37.8983
 longitude: -122.53739
 postcode: "94941"
 city: Mill Valley
-street: "Locust Avenue"
-housenumber: 6
+street: Locust Avenue
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

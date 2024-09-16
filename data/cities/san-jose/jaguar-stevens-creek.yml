@@ -1,11 +1,11 @@
 id: 105070548
-type: way
+type: node
 latitude: 37.3221
 longitude: -121.97151
 postcode: "95129"
 city: San Jose
-street: "Stevens Creek Boulevard"
-housenumber: 4040
-phone: "(866) 814-1511"
-opening_hours: "Mo-Sa 09:00-20:00; Su 11:00-18:00"
-website: "https://www.jaguarstevenscreek.com"
+street: Stevens Creek Boulevard
+housenumber: "4040"
+phone: (866) 814-1511
+opening_hours: Mo-Sa 09:00-20:00; Su 11:00-18:00
+website: https://www.jaguarstevenscreek.com

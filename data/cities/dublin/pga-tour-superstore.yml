@@ -1,11 +1,11 @@
 id: 119890353
-type: way
+type: node
 latitude: 37.7059
 longitude: -121.88662
 postcode: ""
 city: Dublin
-street: "Dublin Boulevard"
-housenumber: 4990
+street: Dublin Boulevard
+housenumber: "4990"
 phone: ""
 opening_hours: ""
-website: "https://www.pgatoursuperstore.com/stores/detail?StoreID=1236"
+website: https://www.pgatoursuperstore.com/stores/detail?StoreID=1236

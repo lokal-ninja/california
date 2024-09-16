@@ -1,11 +1,11 @@
 id: 343812914
-type: way
+type: node
 latitude: 39.30474
 longitude: -123.80173
 postcode: "95460"
 city: Mendocino
-street: "Main Street"
-housenumber: 45104
+street: Main Street
+housenumber: "45104"
 phone: ""
 opening_hours: ""
-website: "https://mendocinojewelry.com/"
+website: https://mendocinojewelry.com/

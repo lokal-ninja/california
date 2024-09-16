@@ -1,11 +1,11 @@
 id: 705657723
-type: way
+type: node
 latitude: 38.47171
 longitude: -122.73333
 postcode: "95403"
 city: Santa Rosa
-street: "Piner Road"
-housenumber: 820
+street: Piner Road
+housenumber: "820"
 phone: ""
 opening_hours: ""
 website: ""

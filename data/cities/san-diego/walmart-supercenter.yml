@@ -1,11 +1,11 @@
 id: 31809639
-type: way
+type: node
 latitude: 32.74199
 longitude: -117.05307
 postcode: "92115"
 city: San Diego
-street: "College Avenue"
-housenumber: 3412
-phone: "+1 619-858-0071"
-opening_hours: "Mo-Su 06:00-23:00,07:00-23:00"
-website: "https://www.walmart.com/store/2479-san-diego-ca"
+street: College Avenue
+housenumber: "3412"
+phone: +1 619-858-0071
+opening_hours: Mo-Su 06:00-23:00,07:00-23:00
+website: https://www.walmart.com/store/2479-san-diego-ca

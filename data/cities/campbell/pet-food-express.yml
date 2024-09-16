@@ -1,11 +1,11 @@
 id: 37665034
-type: way
+type: node
 latitude: 37.28912
 longitude: -121.93144
 postcode: "95008"
 city: Campbell
-street: "South Bascom Avenue"
-housenumber: 1902
+street: South Bascom Avenue
+housenumber: "1902"
 phone: ""
 opening_hours: ""
 website: ""

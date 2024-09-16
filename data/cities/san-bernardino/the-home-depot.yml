@@ -1,11 +1,11 @@
 id: 279687475
-type: way
+type: node
 latitude: 34.06502
 longitude: -117.27175
 postcode: "92408"
 city: San Bernardino
-street: "East Hospitality Lane"
-housenumber: 695
-phone: "+1 909-884-4055"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/s-san-bernardino/ca/san-bernardino/92408/610"
+street: East Hospitality Lane
+housenumber: "695"
+phone: +1 909-884-4055
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/s-san-bernardino/ca/san-bernardino/92408/610

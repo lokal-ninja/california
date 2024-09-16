@@ -2,10 +2,10 @@ id: 6579190427
 type: node
 latitude: 34.4409
 longitude: -119.26207
-postcode: "93023-3126"
+postcode: 93023-3126
 city: Ojai
-street: "Maricopa Highway"
-housenumber: 1115
-phone: "+1 805-646-8339"
+street: Maricopa Highway
+housenumber: "1115"
+phone: +1 805-646-8339
 opening_hours: ""
-website: "https://www.truevalue.com/ojai"
+website: https://www.truevalue.com/ojai

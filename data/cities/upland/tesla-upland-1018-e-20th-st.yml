@@ -1,11 +1,11 @@
 id: 993814549
-type: way
+type: node
 latitude: 34.13579
 longitude: -117.63944
 postcode: "91784"
 city: Upland
-street: "East 20th Street"
-housenumber: 1018
-phone: "+1 909-244-1884"
-opening_hours: "Mo-Sa 10:00-19:00; Su 10:00-17:00"
+street: East 20th Street
+housenumber: "1018"
+phone: +1 909-244-1884
+opening_hours: Mo-Sa 10:00-19:00; Su 10:00-17:00
 website: ""

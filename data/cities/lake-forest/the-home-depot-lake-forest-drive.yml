@@ -1,11 +1,11 @@
 id: 333370131
-type: way
+type: node
 latitude: 33.67126
 longitude: -117.66147
 postcode: "92630"
 city: Lake Forest
-street: "Lake Forest Drive"
-housenumber: 20021
-phone: "+1 949-609-0221"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/lake-forest/ca/lake-forest/92630/6668"
+street: Lake Forest Drive
+housenumber: "20021"
+phone: +1 949-609-0221
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/lake-forest/ca/lake-forest/92630/6668

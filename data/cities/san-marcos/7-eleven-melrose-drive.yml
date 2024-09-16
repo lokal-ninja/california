@@ -1,11 +1,11 @@
 id: 512173200
-type: way
+type: node
 latitude: 33.10689
 longitude: -117.22189
 postcode: "92078"
 city: San Marcos
-street: "Melrose Drive"
-housenumber: 1693
-phone: "+1 760-591-0182"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ca/san-marcos/1693-melrose-dr-33990"
+street: Melrose Drive
+housenumber: "1693"
+phone: +1 760-591-0182
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ca/san-marcos/1693-melrose-dr-33990

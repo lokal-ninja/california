@@ -1,11 +1,11 @@
 id: 228745503
-type: way
+type: node
 latitude: 33.70312
 longitude: -117.88831
 postcode: "92704"
 city: Santa Ana
-street: "Bristol Street"
-housenumber: 3300
-phone: "+1 714-641-4944"
-opening_hours: "07:00-22:00"
-website: "https://www.target.com/sl/santa-ana-south-coast/250"
+street: Bristol Street
+housenumber: "3300"
+phone: +1 714-641-4944
+opening_hours: 07:00-22:00
+website: https://www.target.com/sl/santa-ana-south-coast/250

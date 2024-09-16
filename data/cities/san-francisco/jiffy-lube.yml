@@ -1,11 +1,11 @@
 id: 278422077
-type: way
+type: node
 latitude: 37.77982
 longitude: -122.48444
 postcode: "94121"
 city: San Francisco
-street: "Geary Boulevard"
-housenumber: 6099
+street: Geary Boulevard
+housenumber: "6099"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-17:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-17:00
 website: ""

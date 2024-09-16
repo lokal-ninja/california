@@ -1,11 +1,11 @@
 id: 749915982
-type: way
+type: node
 latitude: 37.00362
 longitude: -121.54746
 postcode: "95020"
 city: Gilroy
-street: "Cameron Boulevard"
-housenumber: 6901
+street: Cameron Boulevard
+housenumber: "6901"
 phone: ""
 opening_hours: ""
 website: ""

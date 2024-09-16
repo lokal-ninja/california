@@ -1,11 +1,11 @@
 id: 274988880
-type: way
+type: node
 latitude: 37.78224
 longitude: -122.45955
 postcode: "94118"
 city: San Francisco
-street: "Geary Boulevard"
-housenumber: 3700
-phone: "+1 415-831-1080"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/ca/san-francisco/officemax-6498"
+street: Geary Boulevard
+housenumber: "3700"
+phone: +1 415-831-1080
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/ca/san-francisco/officemax-6498

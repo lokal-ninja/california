@@ -1,11 +1,11 @@
 id: 253076358
-type: way
+type: node
 latitude: 38.36189
 longitude: -121.95994
 postcode: "95687"
 city: Vacaville
-street: "Helen Power Drive"
-housenumber: 1501
-phone: "+1 707-451-0166"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1704/vacaville-ca/whats-new"
+street: Helen Power Drive
+housenumber: "1501"
+phone: +1 707-451-0166
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1704/vacaville-ca/whats-new

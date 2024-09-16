@@ -1,11 +1,11 @@
 id: 1126832814
-type: way
+type: node
 latitude: 33.9984
 longitude: -117.48283
 postcode: "92509"
 city: Riverside
-street: "Jurupa Road"
-housenumber: 9155
-phone: "+1 951-685-1266"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.staterbros.com/stores/69"
+street: Jurupa Road
+housenumber: "9155"
+phone: +1 951-685-1266
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.staterbros.com/stores/69

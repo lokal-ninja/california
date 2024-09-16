@@ -1,11 +1,11 @@
 id: 1290843589
-type: way
+type: node
 latitude: 36.80899
 longitude: -119.77962
 postcode: "93710"
 city: Fresno
-street: "East Shaw Avenue"
-housenumber: 488
+street: East Shaw Avenue
+housenumber: "488"
 phone: "+15592228421"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.menswearhouse.com/store-locator/2276?utm_source=google&utm_medium=listing&utm_content=2276&utm_campaign=CA"
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.menswearhouse.com/store-locator/2276?utm_source=google&utm_medium=listing&utm_content=2276&utm_campaign=CA

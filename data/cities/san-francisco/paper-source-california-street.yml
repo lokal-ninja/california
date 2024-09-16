@@ -4,8 +4,9 @@ latitude: 37.78641
 longitude: -122.45194
 postcode: "94118"
 city: San Francisco
-street: "California Street"
-housenumber: 3525
+street: California Street
+housenumber: "3525"
 phone: ""
-opening_hours: "Mo-Tu 10:00-19:00; We-Th 10:00-20:00; Fr 10:30-20:00; Sa 10:30-19:00; Su 11:30-18:00"
+opening_hours: Mo-Tu 10:00-19:00; We-Th 10:00-20:00; Fr 10:30-20:00; Sa 10:30-19:00;
+    Su 11:30-18:00
 website: ""

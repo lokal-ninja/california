@@ -4,8 +4,8 @@ latitude: 37.75728
 longitude: -122.42132
 postcode: ""
 city: San Francisco
-street: "Valencia Street"
-housenumber: 980
-phone: "+1 415 6553634"
-opening_hours: "Mo-Su 11:00-19:00"
-website: "https://topdrawershop.com/"
+street: Valencia Street
+housenumber: "980"
+phone: +1 415 6553634
+opening_hours: Mo-Su 11:00-19:00
+website: https://topdrawershop.com/

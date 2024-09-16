@@ -1,11 +1,11 @@
 id: 516103958
-type: way
+type: node
 latitude: 37.95504
 longitude: -122.49144
 postcode: "94901"
 city: San Rafael
-street: "Shoreline Parkway"
-housenumber: 125
-phone: "+1 415-299-6112"
-opening_hours: "08:00-23:00"
-website: "https://www.target.com/sl/san-rafael/2772"
+street: Shoreline Parkway
+housenumber: "125"
+phone: +1 415-299-6112
+opening_hours: 08:00-23:00
+website: https://www.target.com/sl/san-rafael/2772

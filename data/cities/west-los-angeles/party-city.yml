@@ -1,11 +1,11 @@
 id: 355366008
-type: way
+type: node
 latitude: 34.0358
 longitude: -118.43364
 postcode: "90064"
 city: West Los Angeles
-street: "South Sepulveda Boulevard"
-housenumber: 2480
-phone: "+1 213-631-7723"
+street: South Sepulveda Boulevard
+housenumber: "2480"
+phone: +1 213-631-7723
 opening_hours: ""
-website: "https://stores.partycity.com/us/ca/westlosangeles/party-store-pc514.html"
+website: https://stores.partycity.com/us/ca/westlosangeles/party-store-pc514.html

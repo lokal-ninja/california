@@ -1,11 +1,11 @@
 id: 872095921
-type: way
+type: node
 latitude: 41.76383
 longitude: -124.19971
 postcode: "95531"
 city: Crescent City
-street: "Redwood Highway"
-housenumber: 520
-phone: "+1 707-464-9463"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/crescent-city/ca/crescent-city/95531/8524"
+street: Redwood Highway
+housenumber: "520"
+phone: +1 707-464-9463
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/crescent-city/ca/crescent-city/95531/8524

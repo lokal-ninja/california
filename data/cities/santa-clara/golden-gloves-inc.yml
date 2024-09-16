@@ -1,11 +1,11 @@
 id: 123162180
-type: way
+type: node
 latitude: 37.38868
 longitude: -121.94108
 postcode: "95054"
 city: Santa Clara
-street: "Nelo Street"
-housenumber: 423
+street: Nelo Street
+housenumber: "423"
 phone: ""
 opening_hours: ""
 website: ""

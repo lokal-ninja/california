@@ -1,11 +1,11 @@
 id: 113362950
-type: way
+type: node
 latitude: 37.35554
 longitude: -122.01886
-postcode: "94087-2918"
+postcode: 94087-2918
 city: Sunnyvale
-street: "East El Camino Real"
-housenumber: 780
-phone: "+1 408-746-5443"
-opening_hours: "09:00-19:00"
+street: East El Camino Real
+housenumber: "780"
+phone: +1 408-746-5443
+opening_hours: 09:00-19:00
 website: ""

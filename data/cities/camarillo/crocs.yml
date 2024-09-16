@@ -4,8 +4,8 @@ latitude: 34.21591
 longitude: -119.06552
 postcode: "93010"
 city: Camarillo
-street: "Ventura Boulevard"
-housenumber: 620
-phone: "+1-805-484-1711"
-opening_hours: "Mo-Th 10:00-19:00; Fr-Sa 10:00-20:00; Su 11:00-19:00"
-website: "https://locations.crocs.com/CA-Camarillo-10000076"
+street: Ventura Boulevard
+housenumber: "620"
+phone: +1-805-484-1711
+opening_hours: Mo-Th 10:00-19:00; Fr-Sa 10:00-20:00; Su 11:00-19:00
+website: https://locations.crocs.com/CA-Camarillo-10000076

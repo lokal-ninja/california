@@ -1,11 +1,11 @@
 id: 230610698
-type: way
+type: node
 latitude: 37.3319
 longitude: -121.91203
 postcode: "95126"
 city: San Jose
-street: "The Alameda"
-housenumber: 1230
+street: The Alameda
+housenumber: "1230"
 phone: ""
 opening_hours: ""
-website: "https://www.gypsyrosesalonsj.com/"
+website: https://www.gypsyrosesalonsj.com/

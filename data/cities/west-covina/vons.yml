@@ -1,11 +1,11 @@
 id: 133955949
-type: way
+type: node
 latitude: 34.06257
 longitude: -117.93202
 postcode: "91790"
 city: West Covina
-street: "South Glendora Avenue"
-housenumber: 777
-phone: "+1 626-337-5615"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.vons.com/ca/west-covina/777-glendora-ave.html"
+street: South Glendora Avenue
+housenumber: "777"
+phone: +1 626-337-5615
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.vons.com/ca/west-covina/777-glendora-ave.html

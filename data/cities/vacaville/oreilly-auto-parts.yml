@@ -1,11 +1,11 @@
 id: 470508586
-type: way
+type: node
 latitude: 38.35828
 longitude: -121.98067
 postcode: "95688"
 city: Vacaville
-street: "Depot Street"
-housenumber: 181
+street: Depot Street
+housenumber: "181"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ca/vacaville/autoparts-2871.html"
+website: https://locations.oreillyauto.com/ca/vacaville/autoparts-2871.html

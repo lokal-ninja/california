@@ -1,11 +1,11 @@
 id: 312212588
-type: way
+type: node
 latitude: 33.81744
 longitude: -116.53027
 postcode: "92262"
 city: Palm Springs
-street: "South Sunrise Way"
-housenumber: 425
-phone: "+1 760-327-4381"
-opening_hours: "Mo-Fr 09:00-21:00;Sa-Su 10:00-18:00"
-website: "https://www.ralphs.com/stores/grocery/ca/palm-springs/sunrise-ramon/703/00611"
+street: South Sunrise Way
+housenumber: "425"
+phone: +1 760-327-4381
+opening_hours: Mo-Fr 09:00-21:00;Sa-Su 10:00-18:00
+website: https://www.ralphs.com/stores/grocery/ca/palm-springs/sunrise-ramon/703/00611

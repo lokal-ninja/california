@@ -1,11 +1,11 @@
 id: 545163633
-type: way
+type: node
 latitude: 32.75469
 longitude: -117.04703
 postcode: "91941"
 city: La Mesa
-street: "University Avenue"
-housenumber: 7021
+street: University Avenue
+housenumber: "7021"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1069902172
-type: way
+type: node
 latitude: 34.82459
 longitude: -114.59606
 postcode: "92363"
 city: Needles
-street: "East Broadway Street"
-housenumber: 1008
+street: East Broadway Street
+housenumber: "1008"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ca/needles/1008-e-broadway-st.html"
+website: https://www.autozone.com/locations/ca/needles/1008-e-broadway-st.html

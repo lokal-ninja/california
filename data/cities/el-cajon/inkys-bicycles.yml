@@ -1,11 +1,11 @@
 id: 957710389
-type: way
+type: node
 latitude: 32.80828
 longitude: -116.94717
 postcode: "92021"
 city: El Cajon
-street: "Broadway"
-housenumber: 1018
+street: Broadway
+housenumber: "1018"
 phone: "+16194420564"
 opening_hours: ""
-website: "https://www.inkysbikes.com/"
+website: https://www.inkysbikes.com/

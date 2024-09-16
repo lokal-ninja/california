@@ -1,11 +1,11 @@
 id: 196928632
-type: way
+type: node
 latitude: 39.15591
 longitude: -123.19797
 postcode: "95482"
 city: Ukiah
-street: "North Orchard Avenue"
-housenumber: 437
-phone: "+1 707-462-2694"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/ca/ukiah-1383.shtml"
+street: North Orchard Avenue
+housenumber: "437"
+phone: +1 707-462-2694
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/ca/ukiah-1383.shtml

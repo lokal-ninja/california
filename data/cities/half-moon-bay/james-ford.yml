@@ -1,11 +1,11 @@
 id: 291546385
-type: way
+type: node
 latitude: 37.45362
 longitude: -122.43076
 postcode: "94019"
 city: Half Moon Bay
-street: "Seymour Street"
-housenumber: 100
+street: Seymour Street
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

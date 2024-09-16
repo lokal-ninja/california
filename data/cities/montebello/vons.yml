@@ -1,11 +1,11 @@
 id: 132686089
-type: way
+type: node
 latitude: 34.02007
 longitude: -118.10637
 postcode: "90640"
 city: Montebello
-street: "Beverly Boulevard"
-housenumber: 804
-phone: "+1 323-722-1706"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.vons.com/ca/montebello/804-beverly-blvd.html"
+street: Beverly Boulevard
+housenumber: "804"
+phone: +1 323-722-1706
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.vons.com/ca/montebello/804-beverly-blvd.html

@@ -1,11 +1,11 @@
 id: 123528849
-type: way
+type: node
 latitude: 37.59443
 longitude: -122.50688
 postcode: "94044"
 city: Pacifica
-street: "CA-1"
-housenumber: 5550
-phone: "+1 (650) 355-5100"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.groceryoutlet.com/circulars/storeid/294"
+street: CA-1
+housenumber: "5550"
+phone: +1 (650) 355-5100
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.groceryoutlet.com/circulars/storeid/294

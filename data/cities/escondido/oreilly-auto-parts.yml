@@ -1,11 +1,11 @@
 id: 100403814
-type: way
+type: node
 latitude: 33.12926
 longitude: -117.07095
 postcode: "92025"
 city: Escondido
-street: "East Valley Parkway"
-housenumber: 910
+street: East Valley Parkway
+housenumber: "910"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ca/escondido/autoparts-2936.html"
+website: https://locations.oreillyauto.com/ca/escondido/autoparts-2936.html

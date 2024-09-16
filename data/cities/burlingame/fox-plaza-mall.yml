@@ -1,11 +1,11 @@
 id: 49917240
-type: way
+type: node
 latitude: 37.57755
 longitude: -122.34836
 postcode: "94010"
 city: Burlingame
-street: "Burlingame Avenue"
-housenumber: 1419
+street: Burlingame Avenue
+housenumber: "1419"
 phone: ""
 opening_hours: ""
 website: ""

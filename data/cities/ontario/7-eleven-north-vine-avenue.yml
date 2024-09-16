@@ -1,11 +1,11 @@
 id: 1275920109
-type: way
+type: node
 latitude: 34.0705
 longitude: -117.65556
-postcode: "91762-3136"
+postcode: 91762-3136
 city: Ontario
-street: "North Vine Avenue"
-housenumber: 636
-phone: "+1 909-984-7932"
+street: North Vine Avenue
+housenumber: "636"
+phone: +1 909-984-7932
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/ontario/636-north-vine-ave-13969"
+website: https://www.7-eleven.com/locations/ca/ontario/636-north-vine-ave-13969

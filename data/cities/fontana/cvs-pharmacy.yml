@@ -1,11 +1,11 @@
 id: 944186996
-type: way
+type: node
 latitude: 34.07498
 longitude: -117.43741
 postcode: "92335"
 city: Fontana
-street: "Sierra Avenue"
-housenumber: 9840
+street: Sierra Avenue
+housenumber: "9840"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/fontana-ca-pharmacies/9840-sierra-ave-fontana-ca-92335/storeid=9619"
+website: https://www.cvs.com/store-locator/fontana-ca-pharmacies/9840-sierra-ave-fontana-ca-92335/storeid=9619

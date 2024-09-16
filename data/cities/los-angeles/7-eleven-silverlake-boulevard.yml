@@ -1,11 +1,11 @@
 id: 426256614
-type: way
+type: node
 latitude: 34.08914
 longitude: -118.26898
-postcode: "90026-1310"
+postcode: 90026-1310
 city: Los Angeles
-street: "Silverlake Boulevard"
-housenumber: 1647
-phone: "+1 323-666-4212"
+street: Silverlake Boulevard
+housenumber: "1647"
+phone: +1 323-666-4212
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/los-angeles/1647-silverlake-blvd-17635"
+website: https://www.7-eleven.com/locations/ca/los-angeles/1647-silverlake-blvd-17635

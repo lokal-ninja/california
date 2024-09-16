@@ -1,11 +1,11 @@
 id: 984428766
-type: way
+type: node
 latitude: 36.79108
 longitude: -121.78407
 postcode: "95039"
 city: Moss Landing
-street: "Moss Landing Road"
-housenumber: 407
-phone: "+1-831-633-6069"
+street: Moss Landing Road
+housenumber: "407"
+phone: +1-831-633-6069
 opening_hours: ""
 website: ""

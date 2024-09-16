@@ -1,11 +1,11 @@
 id: 697290506
-type: way
+type: node
 latitude: 37.36472
 longitude: -121.87228
 postcode: "95133"
 city: San Jose
-street: "Lenfest Road"
-housenumber: 691
+street: Lenfest Road
+housenumber: "691"
 phone: ""
 opening_hours: ""
 website: ""

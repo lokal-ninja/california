@@ -1,11 +1,11 @@
 id: 70166432
-type: way
+type: node
 latitude: 33.47777
 longitude: -117.67382
 postcode: "92675"
 city: San Juan Capistrano
-street: "Camino Capistrano"
-housenumber: 33395
+street: Camino Capistrano
+housenumber: "33395"
 phone: ""
 opening_hours: ""
-website: "https://www.capovalleytoyota.com/"
+website: https://www.capovalleytoyota.com/

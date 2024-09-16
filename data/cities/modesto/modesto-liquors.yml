@@ -1,11 +1,11 @@
 id: 1220593530
-type: way
+type: node
 latitude: 37.66091
 longitude: -121.01202
 postcode: "95350"
 city: Modesto
-street: "Tully Road"
-housenumber: 1210
+street: Tully Road
+housenumber: "1210"
 phone: ""
 opening_hours: ""
 website: ""

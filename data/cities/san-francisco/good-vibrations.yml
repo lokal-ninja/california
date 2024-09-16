@@ -4,8 +4,8 @@ latitude: 37.7829
 longitude: -122.40602
 postcode: "94103"
 city: San Francisco
-street: "Mission Street"
-housenumber: 899
-phone: "+1 415 5131635"
-opening_hours: "12:00-15:30,16:30-20:00"
-website: "https://www.goodvibes.com"
+street: Mission Street
+housenumber: "899"
+phone: +1 415 5131635
+opening_hours: 12:00-15:30,16:30-20:00
+website: https://www.goodvibes.com

@@ -1,11 +1,11 @@
 id: 206753507
-type: way
+type: node
 latitude: 37.95561
 longitude: -121.28908
 postcode: "95202"
 city: Stockton
-street: "North Hunter Street"
-housenumber: 240
-phone: "(209) 466-4393"
+street: North Hunter Street
+housenumber: "240"
+phone: (209) 466-4393
 opening_hours: ""
-website: "http://www.jfdonaldson.com/"
+website: http://www.jfdonaldson.com/

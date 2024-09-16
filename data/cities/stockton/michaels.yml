@@ -4,8 +4,8 @@ latitude: 38.01981
 longitude: -121.32026
 postcode: "95210"
 city: Stockton
-street: "West Hammer Lane"
-housenumber: 628
-phone: "+1 209-473-1701"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/ca/stockton/8840"
+street: West Hammer Lane
+housenumber: "628"
+phone: +1 209-473-1701
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/ca/stockton/8840

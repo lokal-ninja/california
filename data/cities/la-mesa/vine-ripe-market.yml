@@ -1,11 +1,11 @@
 id: 764486928
-type: way
+type: node
 latitude: 32.77593
 longitude: -117.02014
 postcode: "91942"
 city: La Mesa
-street: "Fletcher Parkway"
-housenumber: 8191
+street: Fletcher Parkway
+housenumber: "8191"
 phone: "+16194627800"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.vineripefoods.com/"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.vineripefoods.com/

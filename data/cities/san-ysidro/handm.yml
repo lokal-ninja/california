@@ -1,11 +1,11 @@
 id: 545335800
-type: way
+type: node
 latitude: 32.54284
 longitude: -117.03844
 postcode: "92173"
 city: San Ysidro
-street: "Camino de la Plaza"
-housenumber: 
-phone: "+1619-210-1645"
-opening_hours: "Mo-Sa 10:00-21:00, Su 10:00-19:00"
+street: Camino de la Plaza
+housenumber: ""
+phone: +1619-210-1645
+opening_hours: Mo-Sa 10:00-21:00, Su 10:00-19:00
 website: ""

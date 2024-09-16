@@ -1,11 +1,11 @@
 id: 1283782903
-type: way
+type: node
 latitude: 33.03536
 longitude: -117.28366
 postcode: "92024"
 city: Encinitas
-street: "Santa Fe Drive"
-housenumber: 421
-phone: "760-942-9632"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-20:00; Su 09:00-20:00"
-website: "https://itan.com/locations/itan-encinitas/"
+street: Santa Fe Drive
+housenumber: "421"
+phone: 760-942-9632
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-20:00; Su 09:00-20:00
+website: https://itan.com/locations/itan-encinitas/

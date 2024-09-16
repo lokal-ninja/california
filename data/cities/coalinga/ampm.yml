@@ -1,11 +1,11 @@
 id: 233272235
-type: way
+type: node
 latitude: 36.13629
 longitude: -120.16508
 postcode: "93210"
 city: Coalinga
-street: "Sommerville Lane"
-housenumber: 20033
+street: Sommerville Lane
+housenumber: "20033"
 phone: ""
 opening_hours: ""
 website: ""

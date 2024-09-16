@@ -1,11 +1,11 @@
 id: 311712034
-type: way
+type: node
 latitude: 37.38708
 longitude: -120.72414
 postcode: "95334"
 city: Livingston
-street: "2nd Street"
-housenumber: 321
+street: 2nd Street
+housenumber: "321"
 phone: ""
 opening_hours: ""
 website: ""

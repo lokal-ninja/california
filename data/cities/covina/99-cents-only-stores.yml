@@ -4,8 +4,9 @@ latitude: 34.08976
 longitude: -117.90897
 postcode: "91722"
 city: Covina
-street: "North Azusa Avenue"
-housenumber: 543
-phone: "+1 626-339-9999"
-opening_hours: "Mo 08:00-22:00; Tu 07:00-22:00; We 08:00-22:00; Th 07:00-22:00; Fr-Su 08:00-22:00"
-website: "https://locations.99only.com/ca/covina/discount-store-340.html"
+street: North Azusa Avenue
+housenumber: "543"
+phone: +1 626-339-9999
+opening_hours: Mo 08:00-22:00; Tu 07:00-22:00; We 08:00-22:00; Th 07:00-22:00; Fr-Su
+    08:00-22:00
+website: https://locations.99only.com/ca/covina/discount-store-340.html

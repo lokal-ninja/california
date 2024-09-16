@@ -4,8 +4,8 @@ latitude: 38.00403
 longitude: -122.29767
 postcode: "94564"
 city: Pinole
-street: "San Pablo Avenue"
-housenumber: 1685
-phone: "510-268-4084"
-opening_hours: "Appointment Only"
-website: "https://www.smythesaccordioncenter.com/"
+street: San Pablo Avenue
+housenumber: "1685"
+phone: 510-268-4084
+opening_hours: Appointment Only
+website: https://www.smythesaccordioncenter.com/

@@ -1,11 +1,11 @@
 id: 120651489
-type: way
+type: node
 latitude: 38.57828
 longitude: -121.54746
 postcode: "95691"
 city: West Sacramento
-street: "Harbor Boulevard"
-housenumber: 845
+street: Harbor Boulevard
+housenumber: "845"
 phone: ""
 opening_hours: ""
 website: ""

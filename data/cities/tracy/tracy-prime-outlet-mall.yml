@@ -1,11 +1,11 @@
 id: 252928996
-type: way
+type: node
 latitude: 37.76374
 longitude: -121.41368
 postcode: "95304"
 city: Tracy
-street: "East Pescadero Avenue"
-housenumber: 1005
+street: East Pescadero Avenue
+housenumber: "1005"
 phone: ""
 opening_hours: ""
 website: ""

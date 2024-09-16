@@ -1,11 +1,11 @@
 id: 449500670
-type: way
+type: node
 latitude: 34.08175
 longitude: -117.69076
-postcode: "91763-2421"
+postcode: 91763-2421
 city: Montclair
-street: "Central Avenue"
-housenumber: 9404
-phone: "+1 909-575-5004"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/montclair-ca-686.html"
+street: Central Avenue
+housenumber: "9404"
+phone: +1 909-575-5004
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/montclair-ca-686.html

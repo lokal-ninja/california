@@ -1,11 +1,11 @@
 id: 260506860
-type: way
+type: node
 latitude: 37.77148
 longitude: -122.42274
 postcode: "94103"
 city: San Francisco
-street: "Valencia Street"
-housenumber: 100
-phone: "+1 415-864-3328"
-opening_hours: "Mo-Th,Sa 07:00-19:00; Fr 07:00-20:00; Su 09:00-17:00"
+street: Valencia Street
+housenumber: "100"
+phone: +1 415-864-3328
+opening_hours: Mo-Th,Sa 07:00-19:00; Fr 07:00-20:00; Su 09:00-17:00
 website: ""

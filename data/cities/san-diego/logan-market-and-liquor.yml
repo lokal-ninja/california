@@ -1,11 +1,11 @@
 id: 31844185
-type: way
+type: node
 latitude: 32.70819
 longitude: -117.1498
 postcode: "92101"
 city: San Diego
-street: "16th Street"
-housenumber: 270
+street: 16th Street
+housenumber: "270"
 phone: ""
 opening_hours: ""
 website: ""

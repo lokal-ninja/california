@@ -1,11 +1,11 @@
 id: 470130338
-type: way
+type: node
 latitude: 40.86868
 longitude: -124.08576
 postcode: "95521"
 city: Arcata
-street: "G Street"
-housenumber: 989
-phone: "(707) 822-2511"
+street: G Street
+housenumber: "989"
+phone: (707) 822-2511
 opening_hours: ""
 website: ""

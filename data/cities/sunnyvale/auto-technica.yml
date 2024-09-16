@@ -1,11 +1,11 @@
 id: 387477810
-type: way
+type: node
 latitude: 37.3615
 longitude: -122.02316
 postcode: "94087"
 city: Sunnyvale
-street: "East El Camino Real"
-housenumber: 665
+street: East El Camino Real
+housenumber: "665"
 phone: ""
 opening_hours: ""
 website: ""

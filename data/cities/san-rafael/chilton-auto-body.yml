@@ -1,11 +1,11 @@
 id: 978214815
-type: way
+type: node
 latitude: 37.96476
 longitude: -122.51051
 postcode: "94901"
 city: San Rafael
-street: "Front Street"
-housenumber: 36
+street: Front Street
+housenumber: "36"
 phone: ""
 opening_hours: ""
-website: "https://chiltonautobody.com/locations/certified-collision-shop-san-rafael/"
+website: https://chiltonautobody.com/locations/certified-collision-shop-san-rafael/

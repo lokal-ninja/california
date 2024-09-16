@@ -1,11 +1,11 @@
 id: 377123962
-type: way
+type: node
 latitude: 34.29358
 longitude: -118.41553
 postcode: "91342"
 city: Sylmar
-street: "Foothill Boulevard"
-housenumber: 12902
-phone: "+1 818-361-5858"
+street: Foothill Boulevard
+housenumber: "12902"
+phone: +1 818-361-5858
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/sylmar/12902-foothill-blvd-39217"
+website: https://www.7-eleven.com/locations/ca/sylmar/12902-foothill-blvd-39217

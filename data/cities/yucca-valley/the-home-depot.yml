@@ -1,11 +1,11 @@
 id: 221156701
-type: way
+type: node
 latitude: 34.13266
 longitude: -116.38088
 postcode: "92284"
 city: Yucca Valley
-street: "29 Palms Highway"
-housenumber: 58705
-phone: "+1 760-365-9202"
-opening_hours: "Mo-Tu 06:00-21:00; We-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/yucca-valley/ca/yucca-valley/92284/6971"
+street: 29 Palms Highway
+housenumber: "58705"
+phone: +1 760-365-9202
+opening_hours: Mo-Tu 06:00-21:00; We-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/yucca-valley/ca/yucca-valley/92284/6971

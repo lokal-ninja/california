@@ -1,11 +1,11 @@
 id: 219022660
-type: way
+type: node
 latitude: 38.49533
 longitude: -121.50513
 postcode: "95831"
 city: Sacramento
-street: "Florin Road"
-housenumber: 1350
+street: Florin Road
+housenumber: "1350"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/sacramento-ca-pharmacies/1350-florin-rd-sacramento-ca-95822/storeid=9823"
+website: https://www.cvs.com/store-locator/sacramento-ca-pharmacies/1350-florin-rd-sacramento-ca-95822/storeid=9823

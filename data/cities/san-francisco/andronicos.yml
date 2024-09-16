@@ -1,11 +1,11 @@
 id: 1156829796
-type: way
+type: node
 latitude: 37.78211
 longitude: -122.49274
 postcode: "94121"
 city: San Francisco
-street: "32nd Avenue"
-housenumber: 375
+street: 32nd Avenue
+housenumber: "375"
 phone: ""
 opening_hours: ""
-website: "https://local.andronicos.com/ca/san-francisco/375-32nd-ave.html"
+website: https://local.andronicos.com/ca/san-francisco/375-32nd-ave.html

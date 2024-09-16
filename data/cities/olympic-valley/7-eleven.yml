@@ -1,11 +1,11 @@
 id: 474486222
-type: way
+type: node
 latitude: 39.20638
 longitude: -120.1996
 postcode: "96146"
 city: Olympic Valley
-street: "River Road"
-housenumber: 3041
-phone: "+1 530-581-0463"
+street: River Road
+housenumber: "3041"
+phone: +1 530-581-0463
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/olympic-valley/3041-river-rd-23009"
+website: https://www.7-eleven.com/locations/ca/olympic-valley/3041-river-rd-23009

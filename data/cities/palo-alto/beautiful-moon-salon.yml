@@ -1,11 +1,11 @@
 id: 132883434
-type: way
+type: node
 latitude: 37.44779
 longitude: -122.1596
 postcode: "94301"
 city: Palo Alto
-street: "University Avenue"
-housenumber: 464
+street: University Avenue
+housenumber: "464"
 phone: ""
 opening_hours: ""
-website: "https://booksy.com/en-us/552354_beautiful-moon-salon_skin-care_103401_palo-alto"
+website: https://booksy.com/en-us/552354_beautiful-moon-salon_skin-care_103401_palo-alto

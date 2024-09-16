@@ -1,11 +1,11 @@
 id: 311067831
-type: way
+type: node
 latitude: 32.81235
 longitude: -117.26791
 postcode: "92037"
 city: La Jolla
-street: "La Jolla Boulevard"
-housenumber: 5495
+street: La Jolla Boulevard
+housenumber: "5495"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/la-jolla-ca-pharmacies/5495-la-jolla-blvd-la-jolla-ca-92037/storeid=9268"
+website: https://www.cvs.com/store-locator/la-jolla-ca-pharmacies/5495-la-jolla-blvd-la-jolla-ca-92037/storeid=9268

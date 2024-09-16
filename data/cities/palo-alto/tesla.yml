@@ -1,11 +1,11 @@
 id: 232376204
-type: way
+type: node
 latitude: 37.41037
 longitude: -122.12446
 postcode: ""
 city: Palo Alto
-street: "El Camino Real"
-housenumber: 4180
+street: El Camino Real
+housenumber: "4180"
 phone: ""
 opening_hours: ""
 website: ""

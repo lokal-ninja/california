@@ -4,8 +4,8 @@ latitude: 38.45712
 longitude: -122.72986
 postcode: "95401"
 city: Santa Rosa
-street: "Coddingtown"
-housenumber: 950
-phone: "+1 707-596-5587"
-opening_hours: "07:00-23:00"
-website: "https://www.target.com/sl/santa-rosa-north/2804"
+street: Coddingtown
+housenumber: "950"
+phone: +1 707-596-5587
+opening_hours: 07:00-23:00
+website: https://www.target.com/sl/santa-rosa-north/2804

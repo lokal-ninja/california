@@ -1,11 +1,11 @@
 id: 687180415
-type: way
+type: node
 latitude: 38.45229
 longitude: -121.36919
 postcode: "95829"
 city: Elk Grove
-street: "Calvine Road"
-housenumber: 8960
-phone: "+1-916-407-3055"
+street: Calvine Road
+housenumber: "8960"
+phone: +1-916-407-3055
 opening_hours: ""
-website: "https://www.lifestorage.com/"
+website: https://www.lifestorage.com/

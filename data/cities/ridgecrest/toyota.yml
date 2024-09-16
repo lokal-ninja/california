@@ -1,11 +1,11 @@
 id: 1080658086
-type: way
+type: node
 latitude: 35.62707
 longitude: -117.67055
 postcode: ""
 city: Ridgecrest
-street: "North China Lake Boulevard"
-housenumber: 321
-phone: "+1 (760) 301-5200"
+street: North China Lake Boulevard
+housenumber: "321"
+phone: +1 (760) 301-5200
 opening_hours: ""
-website: "https://www.toyotaridgecrest.com"
+website: https://www.toyotaridgecrest.com

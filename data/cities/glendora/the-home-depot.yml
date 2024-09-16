@@ -1,11 +1,11 @@
 id: 171534919
-type: way
+type: node
 latitude: 34.11507
 longitude: -117.83167
 postcode: "91740"
 city: Glendora
-street: "South Lone Hill Avenue"
-housenumber: 1305
-phone: "+1 909-592-0691"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Glendora/CA/Glendora/91740/6617"
+street: South Lone Hill Avenue
+housenumber: "1305"
+phone: +1 909-592-0691
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Glendora/CA/Glendora/91740/6617

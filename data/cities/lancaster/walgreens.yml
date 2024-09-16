@@ -1,11 +1,11 @@
 id: 472700948
-type: way
+type: node
 latitude: 34.67539
 longitude: -118.11321
 postcode: "93535"
 city: Lancaster
-street: "East Avenue K"
-housenumber: 831
+street: East Avenue K
+housenumber: "831"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-831+e+avenue+k-lancaster-ca-93535/id=6018"
+website: https://www.walgreens.com/locator/walgreens-831+e+avenue+k-lancaster-ca-93535/id=6018

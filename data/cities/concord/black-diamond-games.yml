@@ -4,8 +4,8 @@ latitude: 37.97368
 longitude: -122.04399
 postcode: "94520"
 city: Concord
-street: "Market Street"
-housenumber: 1950
-phone: "925-681-0600"
-opening_hours: "Mo-Sa 11:00-22:00 Su 11:00-18:00"
-website: "http://www.blackdiamondgames.com/"
+street: Market Street
+housenumber: "1950"
+phone: 925-681-0600
+opening_hours: Mo-Sa 11:00-22:00 Su 11:00-18:00
+website: http://www.blackdiamondgames.com/

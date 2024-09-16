@@ -4,8 +4,8 @@ latitude: 37.33247
 longitude: -121.88877
 postcode: "95113"
 city: San Jose
-street: "South Market Street"
-housenumber: 170
-phone: "+1-408-971-8000"
+street: South Market Street
+housenumber: "170"
+phone: +1-408-971-8000
 opening_hours: ""
-website: "https://bijanbakery.com/"
+website: https://bijanbakery.com/

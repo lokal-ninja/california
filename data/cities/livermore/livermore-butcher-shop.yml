@@ -1,11 +1,11 @@
 id: 863078244
-type: way
+type: node
 latitude: 37.6797
 longitude: -121.77054
 postcode: "94550"
 city: Livermore
-street: "South L Street"
-housenumber: 282
+street: South L Street
+housenumber: "282"
 phone: ""
-opening_hours: "We-Fr 09:00-17:00; Sa,Su 09:00-16:00"
-website: "https://livermorebutchershop.com/"
+opening_hours: We-Fr 09:00-17:00; Sa,Su 09:00-16:00
+website: https://livermorebutchershop.com/

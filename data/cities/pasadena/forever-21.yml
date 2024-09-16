@@ -1,11 +1,11 @@
 id: 206109159
-type: way
+type: node
 latitude: 34.14626
 longitude: -118.15231
 postcode: "91105"
 city: Pasadena
-street: "North De Lacey Avenue"
-housenumber: 35
+street: North De Lacey Avenue
+housenumber: "35"
 phone: ""
 opening_hours: ""
-website: "https://www.forever21.com/"
+website: https://www.forever21.com/

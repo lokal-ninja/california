@@ -1,11 +1,11 @@
 id: 311695753
-type: way
+type: node
 latitude: 37.43052
 longitude: -120.77379
 postcode: "95315"
 city: Delhi
-street: "North Third Street"
-housenumber: 9796
+street: North Third Street
+housenumber: "9796"
 phone: ""
 opening_hours: ""
 website: ""

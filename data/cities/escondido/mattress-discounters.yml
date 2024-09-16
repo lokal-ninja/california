@@ -1,11 +1,11 @@
 id: 75837396
-type: way
+type: node
 latitude: 33.13161
 longitude: -117.06563
 postcode: "92027"
 city: Escondido
-street: "East Valley Parkway"
-housenumber: 1300
+street: East Valley Parkway
+housenumber: "1300"
 phone: ""
 opening_hours: ""
 website: ""

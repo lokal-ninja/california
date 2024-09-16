@@ -1,11 +1,11 @@
 id: 442338984
-type: way
+type: node
 latitude: 33.9025
 longitude: -118.34281
 postcode: "90250"
 city: Hawthorne
-street: "Prairie Avenue"
-housenumber: 14250
-phone: "310-978-9167"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.walgreens.com/locator/walgreens-14250+prairie+ave-hawthorne-ca-90250/id=9137"
+street: Prairie Avenue
+housenumber: "14250"
+phone: 310-978-9167
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.walgreens.com/locator/walgreens-14250+prairie+ave-hawthorne-ca-90250/id=9137

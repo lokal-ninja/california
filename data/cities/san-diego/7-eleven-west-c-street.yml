@@ -2,10 +2,10 @@ id: 2049031818
 type: node
 latitude: 32.71658
 longitude: -117.16811
-postcode: "92101-8470"
+postcode: 92101-8470
 city: San Diego
-street: "West C Street"
-housenumber: 555
-phone: "+1 619-238-0251"
+street: West C Street
+housenumber: "555"
+phone: +1 619-238-0251
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/san-diego/555-west-c-st-ste-100-33569"
+website: https://www.7-eleven.com/locations/ca/san-diego/555-west-c-st-ste-100-33569

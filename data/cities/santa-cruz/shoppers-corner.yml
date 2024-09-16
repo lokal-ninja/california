@@ -1,11 +1,11 @@
 id: 35556042
-type: way
+type: node
 latitude: 36.97637
 longitude: -122.01603
 postcode: "95062"
 city: Santa Cruz
-street: "Soquel Avenue"
-housenumber: 622
-phone: "+1-831-423-1398"
-opening_hours: "Mo-Su 06:00-21:00"
-website: "http://shopperscorner.com/"
+street: Soquel Avenue
+housenumber: "622"
+phone: +1-831-423-1398
+opening_hours: Mo-Su 06:00-21:00
+website: http://shopperscorner.com/

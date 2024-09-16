@@ -1,11 +1,11 @@
 id: 230491575
-type: way
+type: node
 latitude: 35.53107
 longitude: -119.18818
 postcode: "93263"
 city: Bakersfield
-street: "Zachary Avenue"
-housenumber: 17047
+street: Zachary Avenue
+housenumber: "17047"
 phone: ""
-opening_hours: "24/7"
-website: "https://locations.pilotflyingj.com/us/ca/bakersfield/17047-zachary-ave"
+opening_hours: 24/7
+website: https://locations.pilotflyingj.com/us/ca/bakersfield/17047-zachary-ave

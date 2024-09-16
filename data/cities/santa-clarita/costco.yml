@@ -1,11 +1,11 @@
 id: 472602655
-type: way
+type: node
 latitude: 34.40511
 longitude: -118.4618
-postcode: "91387-4935"
+postcode: 91387-4935
 city: Santa Clarita
-street: "Via Princessa"
-housenumber: 18649
-phone: "+1 661-250-2818"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/santa-clarita-ca-447.html"
+street: Via Princessa
+housenumber: "18649"
+phone: +1 661-250-2818
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/santa-clarita-ca-447.html

@@ -1,11 +1,11 @@
 id: 39272693
-type: way
+type: node
 latitude: 34.21719
 longitude: -119.0734
-postcode: "93010-8359"
+postcode: 93010-8359
 city: Camarillo
-street: "West Ventura Boulevard"
-housenumber: 209
-phone: "+1 805-384-0040"
-opening_hours: "07:00-22:00"
-website: "https://www.target.com/sl/camarillo/1027"
+street: West Ventura Boulevard
+housenumber: "209"
+phone: +1 805-384-0040
+opening_hours: 07:00-22:00
+website: https://www.target.com/sl/camarillo/1027

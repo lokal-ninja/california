@@ -1,11 +1,11 @@
 id: 108692929
-type: way
+type: node
 latitude: 33.68105
 longitude: -117.17274
-postcode: "92584-6806"
+postcode: 92584-6806
 city: Menifee
-street: "Haun Road"
-housenumber: 30340
-phone: "+1 951-723-6151"
-opening_hours: "07:00-22:00"
-website: "https://www.target.com/sl/menifee/2471"
+street: Haun Road
+housenumber: "30340"
+phone: +1 951-723-6151
+opening_hours: 07:00-22:00
+website: https://www.target.com/sl/menifee/2471

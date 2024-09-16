@@ -1,11 +1,11 @@
 id: 228745490
-type: way
+type: node
 latitude: 33.70158
 longitude: -117.88393
 postcode: "92704"
 city: Santa Ana
-street: "South Bristol Street"
-housenumber: 3329
-phone: "+1 714-424-9304"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://locations.traderjoes.com/ca/santa-ana/113/"
+street: South Bristol Street
+housenumber: "3329"
+phone: +1 714-424-9304
+opening_hours: Mo-Su 08:00-21:00
+website: https://locations.traderjoes.com/ca/santa-ana/113/

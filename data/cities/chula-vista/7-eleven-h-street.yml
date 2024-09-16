@@ -1,11 +1,11 @@
 id: 959856795
-type: way
+type: node
 latitude: 32.62956
 longitude: -117.09323
 postcode: "91910"
 city: Chula Vista
-street: "H Street"
-housenumber: 698
-phone: "+1 619-422-6520"
+street: H Street
+housenumber: "698"
+phone: +1 619-422-6520
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/chula-vista/698-h-street-13576"
+website: https://www.7-eleven.com/locations/ca/chula-vista/698-h-street-13576

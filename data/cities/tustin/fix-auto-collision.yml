@@ -1,11 +1,11 @@
 id: 440688104
-type: way
+type: node
 latitude: 33.71621
 longitude: -117.83632
 postcode: "92780"
 city: Tustin
-street: "Mosher Avenue"
-housenumber: 15622
+street: Mosher Avenue
+housenumber: "15622"
 phone: ""
 opening_hours: ""
 website: ""

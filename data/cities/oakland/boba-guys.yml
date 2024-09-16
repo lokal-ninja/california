@@ -4,8 +4,8 @@ latitude: 37.84753
 longitude: -122.25228
 postcode: "94618"
 city: Oakland
-street: "College Avenue"
-housenumber: 5925
+street: College Avenue
+housenumber: "5925"
 phone: ""
-opening_hours: "Mo-Th 11:00-20:00; Fr-Sa 11:00-21:00; Su 11:00-18:00"
-website: "https://www.bobaguys.com/"
+opening_hours: Mo-Th 11:00-20:00; Fr-Sa 11:00-21:00; Su 11:00-18:00
+website: https://www.bobaguys.com/

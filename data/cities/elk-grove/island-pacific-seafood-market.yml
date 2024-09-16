@@ -1,11 +1,11 @@
 id: 559544007
-type: way
+type: node
 latitude: 38.4508
 longitude: -121.37244
 postcode: "95624"
 city: Elk Grove
-street: "Elk Grove Florin Road"
-housenumber: 8430
-phone: "+1-916-689-0467"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://islandpacificmarket.com/stores/listing/elk-grove"
+street: Elk Grove Florin Road
+housenumber: "8430"
+phone: +1-916-689-0467
+opening_hours: Mo-Su 08:00-21:00
+website: https://islandpacificmarket.com/stores/listing/elk-grove

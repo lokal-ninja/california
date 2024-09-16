@@ -1,11 +1,11 @@
 id: 429564698
-type: way
+type: node
 latitude: 34.14951
 longitude: -118.66231
 postcode: "91302"
 city: Calabasas
-street: "Calabasas Road"
-housenumber: 24650
-phone: "(818) 574-3211"
-opening_hours: "Mo-Sa, 9:00-20:00, Su, 10:00-19:00"
-website: "https://www.audicalabasas.com/"
+street: Calabasas Road
+housenumber: "24650"
+phone: (818) 574-3211
+opening_hours: Mo-Sa, 9:00-20:00, Su, 10:00-19:00
+website: https://www.audicalabasas.com/

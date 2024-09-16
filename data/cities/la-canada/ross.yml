@@ -1,11 +1,11 @@
 id: 471734090
-type: way
+type: node
 latitude: 34.21661
 longitude: -118.22377
 postcode: "91011"
 city: La Canada
-street: "Foothill Boulevard"
-housenumber: 2111
-phone: "+1 818-248-7565"
-opening_hours: "Mo-Sa 09:00-23:00; Su 09:30-23:00"
-website: "http://rosstores.com"
+street: Foothill Boulevard
+housenumber: "2111"
+phone: +1 818-248-7565
+opening_hours: Mo-Sa 09:00-23:00; Su 09:30-23:00
+website: http://rosstores.com

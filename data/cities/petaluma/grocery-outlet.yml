@@ -1,11 +1,11 @@
 id: 124315742
-type: way
+type: node
 latitude: 38.23592
 longitude: -122.63804
 postcode: "94952"
 city: Petaluma
-street: "East Washington Street"
-housenumber: 80
+street: East Washington Street
+housenumber: "80"
 phone: ""
 opening_hours: ""
 website: ""

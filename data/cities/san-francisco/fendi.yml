@@ -4,8 +4,8 @@ latitude: 37.7883
 longitude: -122.40531
 postcode: "94108"
 city: San Francisco
-street: "Grant Avenue"
-housenumber: 195
-phone: "+1 415-820-2090"
-opening_hours: "Mo-Sa 11:00-18:00; Su 12:00-18:00"
-website: "https://www.fendi.com/ii-en/store-locator/united-states/195-grant-avenue"
+street: Grant Avenue
+housenumber: "195"
+phone: +1 415-820-2090
+opening_hours: Mo-Sa 11:00-18:00; Su 12:00-18:00
+website: https://www.fendi.com/ii-en/store-locator/united-states/195-grant-avenue

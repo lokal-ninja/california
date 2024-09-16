@@ -1,11 +1,11 @@
 id: 780435061
-type: way
+type: node
 latitude: 34.27814
 longitude: -119.30009
 postcode: "93001"
 city: Ventura
-street: "East Thompson Boulevard"
-housenumber: 52
+street: East Thompson Boulevard
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

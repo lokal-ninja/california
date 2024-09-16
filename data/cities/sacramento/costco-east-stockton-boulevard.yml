@@ -1,11 +1,11 @@
 id: 198416620
-type: way
+type: node
 latitude: 38.46855
 longitude: -121.41347
-postcode: "95823-9606"
+postcode: 95823-9606
 city: Sacramento
-street: "East Stockton Boulevard"
-housenumber: 7981
-phone: "+1 916-682-3569"
-opening_hours: "Mo-Fr 09:00-20:30; Sa-Su 09:00-19:00"
-website: "https://www.costco.com/warehouse-locations/sacramento-ca-464.html"
+street: East Stockton Boulevard
+housenumber: "7981"
+phone: +1 916-682-3569
+opening_hours: Mo-Fr 09:00-20:30; Sa-Su 09:00-19:00
+website: https://www.costco.com/warehouse-locations/sacramento-ca-464.html

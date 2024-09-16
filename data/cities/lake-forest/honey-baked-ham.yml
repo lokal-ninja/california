@@ -1,11 +1,11 @@
 id: 347402187
-type: way
+type: node
 latitude: 33.61609
 longitude: -117.70845
 postcode: "92630"
 city: Lake Forest
-street: "Bridger Road"
-housenumber: 23851
-phone: "+1-949-837-3822"
-opening_hours: "Mo-Fr 10:30-18:00; Sa 10:00-17:00"
+street: Bridger Road
+housenumber: "23851"
+phone: +1-949-837-3822
+opening_hours: Mo-Fr 10:30-18:00; Sa 10:00-17:00
 website: ""

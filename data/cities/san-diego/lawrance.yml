@@ -1,11 +1,11 @@
 id: 31818837
-type: way
+type: node
 latitude: 32.748
 longitude: -117.15879
 postcode: "92103"
 city: San Diego
-street: "University Avenue"
-housenumber: 633
+street: University Avenue
+housenumber: "633"
 phone: ""
 opening_hours: ""
 website: ""

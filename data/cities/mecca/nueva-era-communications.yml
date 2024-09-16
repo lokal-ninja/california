@@ -1,11 +1,11 @@
 id: 219147222
-type: way
+type: node
 latitude: 33.56858
 longitude: -116.07365
 postcode: "92254"
 city: Mecca
-street: "66th Avenue"
-housenumber: 91275
+street: 66th Avenue
+housenumber: "91275"
 phone: ""
 opening_hours: ""
 website: ""

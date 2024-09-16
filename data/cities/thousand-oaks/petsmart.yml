@@ -1,11 +1,11 @@
 id: 575620894
-type: way
+type: node
 latitude: 34.18901
 longitude: -118.9339
 postcode: "91320"
 city: Thousand Oaks
-street: "West Hillcrest Drive"
-housenumber: 2685
-phone: "+1 805-499-3767"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ca/thousand-oaks-store1311.html"
+street: West Hillcrest Drive
+housenumber: "2685"
+phone: +1 805-499-3767
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ca/thousand-oaks-store1311.html

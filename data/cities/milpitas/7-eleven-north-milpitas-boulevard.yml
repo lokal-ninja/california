@@ -1,11 +1,11 @@
 id: 1199356941
-type: way
+type: node
 latitude: 37.45233
 longitude: -121.90971
 postcode: "95035"
 city: Milpitas
-street: "North Milpitas Boulevard"
-housenumber: 1496
-phone: "+1 408-942-1711"
+street: North Milpitas Boulevard
+housenumber: "1496"
+phone: +1 408-942-1711
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/milpitas/1496-n.-milpitas-blvd-23879"
+website: https://www.7-eleven.com/locations/ca/milpitas/1496-n.-milpitas-blvd-23879

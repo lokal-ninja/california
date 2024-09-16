@@ -1,11 +1,11 @@
 id: 332728421
-type: way
+type: node
 latitude: 33.84521
 longitude: -116.54644
 postcode: "92262"
 city: Palm Springs
-street: "North Palm Canyon Drive"
-housenumber: 1708
+street: North Palm Canyon Drive
+housenumber: "1708"
 phone: ""
 opening_hours: ""
-website: "http://www.smogcheckmobil.com/smog-location/palm-springs/"
+website: http://www.smogcheckmobil.com/smog-location/palm-springs/

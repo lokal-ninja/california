@@ -1,11 +1,11 @@
 id: 128159691
-type: way
+type: node
 latitude: 37.5532
 longitude: -122.31308
 postcode: "94402"
 city: San Mateo
-street: "Palm Avenue"
-housenumber: 1664
+street: Palm Avenue
+housenumber: "1664"
 phone: ""
 opening_hours: ""
 website: ""

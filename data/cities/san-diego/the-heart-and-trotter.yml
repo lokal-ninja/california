@@ -1,11 +1,11 @@
 id: 541654691
-type: way
+type: node
 latitude: 32.75494
 longitude: -117.13251
 postcode: "92104"
 city: San Diego
-street: "El Cajon Boulevard"
-housenumber: 2855
+street: El Cajon Boulevard
+housenumber: "2855"
 phone: ""
-opening_hours: "Tu-Sa 11:00-19:00; Su 11:00-17:00"
-website: "https://www.theheartandtrotter.com/"
+opening_hours: Tu-Sa 11:00-19:00; Su 11:00-17:00
+website: https://www.theheartandtrotter.com/

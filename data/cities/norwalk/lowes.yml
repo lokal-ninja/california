@@ -1,11 +1,11 @@
 id: 296128174
-type: way
+type: node
 latitude: 33.89678
 longitude: -118.04927
 postcode: "90650"
 city: Norwalk
-street: "Carmenita Road"
-housenumber: 14873
-phone: "+1 562-926-0826"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/CA-Norwalk/0056"
+street: Carmenita Road
+housenumber: "14873"
+phone: +1 562-926-0826
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.lowes.com/store/CA-Norwalk/0056

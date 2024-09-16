@@ -1,11 +1,11 @@
 id: 287000599
-type: way
+type: node
 latitude: 32.83857
 longitude: -116.98887
 postcode: "92071"
 city: Santee
-street: "Mission Gorge Road"
-housenumber: 9575
+street: Mission Gorge Road
+housenumber: "9575"
 phone: ""
 opening_hours: ""
 website: ""

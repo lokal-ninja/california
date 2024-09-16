@@ -1,11 +1,11 @@
 id: 640232324
-type: way
+type: node
 latitude: 34.4311
 longitude: -119.87516
 postcode: "93117"
 city: Goleta
-street: "Hollister Avenue"
-housenumber: 7090
+street: Hollister Avenue
+housenumber: "7090"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
+opening_hours: Mo-Su 06:00-22:00
 website: ""

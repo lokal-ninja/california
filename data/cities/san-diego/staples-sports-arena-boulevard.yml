@@ -4,8 +4,8 @@ latitude: 32.75287
 longitude: -117.20556
 postcode: "92110"
 city: San Diego
-street: "Sports Arena Boulevard"
-housenumber: 3146
+street: Sports Arena Boulevard
+housenumber: "3146"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.staples.com/ca/san-diego/3146b-sports-arena-blvd"
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.staples.com/ca/san-diego/3146b-sports-arena-blvd

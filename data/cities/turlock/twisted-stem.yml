@@ -1,11 +1,11 @@
 id: 542459013
-type: way
+type: node
 latitude: 37.49474
 longitude: -120.84931
 postcode: "95380"
 city: Turlock
-street: "North Broadway Street"
-housenumber: 239
+street: North Broadway Street
+housenumber: "239"
 phone: ""
 opening_hours: ""
 website: ""

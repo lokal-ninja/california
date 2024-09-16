@@ -1,11 +1,11 @@
 id: 239269953
-type: way
+type: node
 latitude: 38.46585
 longitude: -122.652
 postcode: "95409"
 city: Santa Rosa
-street: "Calistoga Road"
-housenumber: 100
-phone: "+1 707-539-1711"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/ca/santa-rosa/100-calistoga-rd.html"
+street: Calistoga Road
+housenumber: "100"
+phone: +1 707-539-1711
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/ca/santa-rosa/100-calistoga-rd.html

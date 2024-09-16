@@ -4,8 +4,8 @@ latitude: 37.43474
 longitude: -121.90226
 postcode: "95035"
 city: Milpitas
-street: "Beresford Court"
-housenumber: 111
-phone: "+1 408-956-5555"
-opening_hours: "Mo-Sa 10:00-19:00; PH closed"
+street: Beresford Court
+housenumber: "111"
+phone: +1 408-956-5555
+opening_hours: Mo-Sa 10:00-19:00; PH closed
 website: ""

@@ -1,11 +1,11 @@
 id: 142606474
-type: way
+type: node
 latitude: 33.91379
 longitude: -117.86607
 postcode: "92821"
 city: Brea
-street: "East Imperial Highway"
-housenumber: 2595
-phone: "+1 714-529-0596"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.walmart.com/store/2523/brea-ca/whats-new"
+street: East Imperial Highway
+housenumber: "2595"
+phone: +1 714-529-0596
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.walmart.com/store/2523/brea-ca/whats-new

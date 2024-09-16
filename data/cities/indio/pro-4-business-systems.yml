@@ -1,11 +1,11 @@
 id: 161393293
-type: way
+type: node
 latitude: 33.74145
 longitude: -116.22
 postcode: "92203"
 city: Indio
-street: "Aegean Street"
-housenumber: 42604
+street: Aegean Street
+housenumber: "42604"
 phone: ""
 opening_hours: ""
 website: ""

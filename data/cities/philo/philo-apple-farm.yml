@@ -1,11 +1,11 @@
 id: 930709884
-type: way
+type: node
 latitude: 39.08576
 longitude: -123.48238
 postcode: "95466"
 city: Philo
-street: "Greenwood Rd"
-housenumber: 18501
+street: Greenwood Rd
+housenumber: "18501"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 217052097
-type: way
+type: node
 latitude: 37.66115
 longitude: -122.40074
-postcode: "94080-1805"
+postcode: 94080-1805
 city: South San Francisco
-street: "Dubuque Avenue"
-housenumber: 900
-phone: "+1 650-784-4047"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-16:00"
-website: "https://www.costco.com/warehouse-locations/s-san-francisco-business-center-south-san-francisco-ca-654.html"
+street: Dubuque Avenue
+housenumber: "900"
+phone: +1 650-784-4047
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-16:00
+website: https://www.costco.com/warehouse-locations/s-san-francisco-business-center-south-san-francisco-ca-654.html

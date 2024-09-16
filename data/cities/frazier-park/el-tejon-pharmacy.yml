@@ -1,11 +1,11 @@
 id: 1160585042
-type: way
+type: node
 latitude: 34.82237
 longitude: -118.94501
 postcode: "93225"
 city: Frazier Park
-street: "Mount Pinos Way"
-housenumber: 3544
+street: Mount Pinos Way
+housenumber: "3544"
 phone: ""
 opening_hours: ""
 website: ""

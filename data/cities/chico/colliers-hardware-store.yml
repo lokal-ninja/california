@@ -1,11 +1,11 @@
 id: 460975285
-type: way
+type: node
 latitude: 39.73042
 longitude: -121.8419
 postcode: "95928"
 city: Chico
-street: "Broadway Street"
-housenumber: 105
-phone: "+1-530-342-0195"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-17:00; Su 10:00-16:00"
-website: "https://collier-hardware.com/"
+street: Broadway Street
+housenumber: "105"
+phone: +1-530-342-0195
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-17:00; Su 10:00-16:00
+website: https://collier-hardware.com/

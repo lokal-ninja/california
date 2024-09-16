@@ -1,11 +1,11 @@
 id: 515697992
-type: way
+type: node
 latitude: 36.5989
 longitude: -121.8884
 postcode: "93940"
 city: Monterey
-street: "East Franklin Street"
-housenumber: 650
+street: East Franklin Street
+housenumber: "650"
 phone: ""
 opening_hours: ""
 website: ""

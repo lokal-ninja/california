@@ -4,8 +4,8 @@ latitude: 38.77584
 longitude: -121.26799
 postcode: "95678"
 city: Roseville
-street: "Galleria Boulevard"
-housenumber: 1197
-phone: "+1-916-771-3333"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-19:00"
-website: "https://www.macys.com/stores/ca/roseville/westfield-galleria-at-roseville_408.html"
+street: Galleria Boulevard
+housenumber: "1197"
+phone: +1-916-771-3333
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-19:00
+website: https://www.macys.com/stores/ca/roseville/westfield-galleria-at-roseville_408.html

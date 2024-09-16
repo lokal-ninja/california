@@ -1,11 +1,11 @@
 id: 306205276
-type: way
+type: node
 latitude: 37.1367
 longitude: -120.49177
 postcode: "95317"
 city: El Nido
-street: "South Highway 59"
-housenumber: 10386
+street: South Highway 59
+housenumber: "10386"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 606724098
-type: way
+type: node
 latitude: 37.11667
 longitude: -122.12009
 postcode: "95006"
 city: Boulder Creek
-street: "Central Avenue"
-housenumber: 12550
-phone: "+1 831 338 9515"
-opening_hours: "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su Closed"
-website: "http://cruzflix.com/"
+street: Central Avenue
+housenumber: "12550"
+phone: +1 831 338 9515
+opening_hours: Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su Closed
+website: http://cruzflix.com/

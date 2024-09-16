@@ -1,11 +1,11 @@
 id: 806316894
-type: way
+type: node
 latitude: 34.03809
 longitude: -118.10446
 postcode: "91755"
 city: Monterey Park
-street: "Market Place Drive"
-housenumber: 2000
-phone: "+1 323-890-1904"
-opening_hours: "Mo-Sa 10:00-20:30; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/monterey-park-ca-1318.html"
+street: Market Place Drive
+housenumber: "2000"
+phone: +1 323-890-1904
+opening_hours: Mo-Sa 10:00-20:30; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/monterey-park-ca-1318.html

@@ -1,11 +1,11 @@
 id: 258238242
-type: way
+type: node
 latitude: 37.37585
 longitude: -122.11399
 postcode: "94022"
 city: Los Altos
-street: "South San Antonio Road"
-housenumber: 399
+street: South San Antonio Road
+housenumber: "399"
 phone: ""
 opening_hours: ""
-website: "https://spanglermortuary.com/54/Los-Altos-Chapel.html"
+website: https://spanglermortuary.com/54/Los-Altos-Chapel.html

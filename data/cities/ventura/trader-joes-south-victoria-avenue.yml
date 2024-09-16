@@ -1,11 +1,11 @@
 id: 70906458
-type: way
+type: node
 latitude: 34.25736
 longitude: -119.21203
 postcode: "93003"
 city: Ventura
-street: "South Victoria Avenue"
-housenumber: 1795
-phone: "+1 805-650-9977"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://locations.traderjoes.com/ca/ventura/45/"
+street: South Victoria Avenue
+housenumber: "1795"
+phone: +1 805-650-9977
+opening_hours: Mo-Su 08:00-21:00
+website: https://locations.traderjoes.com/ca/ventura/45/

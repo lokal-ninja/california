@@ -1,11 +1,11 @@
 id: 96330696
-type: way
+type: node
 latitude: 33.12149
 longitude: -117.08282
 postcode: "92025"
 city: Escondido
-street: "West Grand Avenue"
-housenumber: 156
+street: West Grand Avenue
+housenumber: "156"
 phone: ""
 opening_hours: ""
-website: "http://xsandoslingerie.com/"
+website: http://xsandoslingerie.com/

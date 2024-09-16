@@ -1,11 +1,11 @@
 id: 407729030
-type: way
+type: node
 latitude: 33.74278
 longitude: -116.30251
 postcode: "92203"
 city: Bermuda Dunes
-street: "Washington Street"
-housenumber: 42150
-phone: "+1 760-200-0843"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.ralphs.com/stores/grocery/ca/bermuda-dunes/bermuda-dunes/703/00681"
+street: Washington Street
+housenumber: "42150"
+phone: +1 760-200-0843
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.ralphs.com/stores/grocery/ca/bermuda-dunes/bermuda-dunes/703/00681

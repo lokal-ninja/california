@@ -1,11 +1,11 @@
 id: 45407146
-type: way
+type: node
 latitude: 38.77512
 longitude: -121.26322
 postcode: "95678"
 city: Roseville
-street: "Galleria Boulevard"
-housenumber: 1248
-phone: "+1 916-755-6013"
-opening_hours: "Mo-Th 09:00-23:30; Fr-Sa 09:00-24:00; Su 09:00-23:00"
-website: "https://stores.burlington.com/ca/roseville/1125/"
+street: Galleria Boulevard
+housenumber: "1248"
+phone: +1 916-755-6013
+opening_hours: Mo-Th 09:00-23:30; Fr-Sa 09:00-24:00; Su 09:00-23:00
+website: https://stores.burlington.com/ca/roseville/1125/

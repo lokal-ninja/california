@@ -4,8 +4,8 @@ latitude: 37.76525
 longitude: -122.46628
 postcode: "94122"
 city: San Francisco
-street: "9th Avenue"
-housenumber: 1234
+street: 9th Avenue
+housenumber: "1234"
 phone: ""
 opening_hours: ""
 website: ""

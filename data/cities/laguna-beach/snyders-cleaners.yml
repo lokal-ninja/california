@@ -1,11 +1,11 @@
 id: 1029080087
-type: way
+type: node
 latitude: 33.54118
 longitude: -117.78124
 postcode: "92651"
 city: Laguna Beach
-street: "Glenneyre Street"
-housenumber: 506
+street: Glenneyre Street
+housenumber: "506"
 phone: ""
 opening_hours: ""
 website: ""

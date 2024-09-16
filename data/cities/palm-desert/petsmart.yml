@@ -1,11 +1,11 @@
 id: 297390022
-type: way
+type: node
 latitude: 33.79489
 longitude: -116.38654
 postcode: "92211"
 city: Palm Desert
-street: "Monterey Avenue"
-housenumber: 34900
-phone: "+1 760-324-3059"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-19:00"
-website: "stores.petsmart.com/Store/Details/1624"
+street: Monterey Avenue
+housenumber: "34900"
+phone: +1 760-324-3059
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-19:00
+website: stores.petsmart.com/Store/Details/1624

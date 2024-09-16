@@ -1,11 +1,11 @@
 id: 293606760
-type: way
+type: node
 latitude: 34.45681
 longitude: -118.61946
 postcode: "91384"
 city: Castaic
-street: "The Old Road"
-housenumber: 29675
-phone: "+1 661-702-6911"
-opening_hours: "Mo-Su 05:00-01:00"
-website: "https://www.ralphs.com/stores/grocery/ca/castaic/hasley-canyon-village/703/00084"
+street: The Old Road
+housenumber: "29675"
+phone: +1 661-702-6911
+opening_hours: Mo-Su 05:00-01:00
+website: https://www.ralphs.com/stores/grocery/ca/castaic/hasley-canyon-village/703/00084

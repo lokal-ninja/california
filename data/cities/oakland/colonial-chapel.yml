@@ -1,11 +1,11 @@
 id: 464464072
-type: way
+type: node
 latitude: 37.78279
 longitude: -122.20335
 postcode: "94619"
 city: Oakland
-street: "High Street"
-housenumber: 2626
+street: High Street
+housenumber: "2626"
 phone: ""
 opening_hours: ""
 website: ""

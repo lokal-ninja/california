@@ -4,8 +4,8 @@ latitude: 37.42558
 longitude: -122.14523
 postcode: "94306"
 city: Palo Alto
-street: "South California Avenue"
-housenumber: 461
-phone: "(650) 327-5665"
-opening_hours: "Mo-Fr 10:00-16:00"
-website: "http://paloaltoeyeworks.com"
+street: South California Avenue
+housenumber: "461"
+phone: (650) 327-5665
+opening_hours: Mo-Fr 10:00-16:00
+website: http://paloaltoeyeworks.com

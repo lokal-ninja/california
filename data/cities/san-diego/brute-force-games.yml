@@ -4,8 +4,8 @@ latitude: 32.81098
 longitude: -117.1159
 postcode: "92123"
 city: San Diego
-street: "Murphy Canyon Road"
-housenumber: 3755
-phone: "1-619-230-5655"
-opening_hours: "Su-Th 12:00-20:00, Fr-Sa 12:00-22:00"
-website: "https://bruteforcemtg.com"
+street: Murphy Canyon Road
+housenumber: "3755"
+phone: 1-619-230-5655
+opening_hours: Su-Th 12:00-20:00, Fr-Sa 12:00-22:00
+website: https://bruteforcemtg.com

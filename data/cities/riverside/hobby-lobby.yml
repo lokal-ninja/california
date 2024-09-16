@@ -1,11 +1,11 @@
 id: 444490323
-type: way
+type: node
 latitude: 33.94099
 longitude: -117.28388
 postcode: "92507"
 city: Riverside
-street: "Canyon Springs Parkway"
-housenumber: 2663
+street: Canyon Springs Parkway
+housenumber: "2663"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

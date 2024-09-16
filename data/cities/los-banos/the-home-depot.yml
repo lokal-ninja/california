@@ -1,11 +1,11 @@
 id: 304467216
-type: way
+type: node
 latitude: 37.05547
 longitude: -120.8242
 postcode: "93635"
 city: Los Banos
-street: "East Pacheco Boulevard"
-housenumber: 1955
-phone: "+1 209-509-3940"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/los-banos/ca/los-banos/93635/8427"
+street: East Pacheco Boulevard
+housenumber: "1955"
+phone: +1 209-509-3940
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/los-banos/ca/los-banos/93635/8427

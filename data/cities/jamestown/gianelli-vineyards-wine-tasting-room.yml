@@ -1,11 +1,11 @@
 id: 256327237
-type: way
+type: node
 latitude: 37.9523
 longitude: -120.42366
 postcode: "95327"
 city: Jamestown
-street: "Main Street"
-housenumber: 18158
-phone: "+1 209 984-1500"
+street: Main Street
+housenumber: "18158"
+phone: +1 209 984-1500
 opening_hours: ""
-website: "https://gianellivineyards.com/tasting-room/"
+website: https://gianellivineyards.com/tasting-room/

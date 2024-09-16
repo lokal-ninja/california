@@ -4,8 +4,8 @@ latitude: 32.7127
 longitude: -117.16091
 postcode: "92101"
 city: San Diego
-street: "4th Avenue"
-housenumber: 711
-phone: "+1 619-544-8980"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ca/san-diego/711-4th-st-38147"
+street: 4th Avenue
+housenumber: "711"
+phone: +1 619-544-8980
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ca/san-diego/711-4th-st-38147

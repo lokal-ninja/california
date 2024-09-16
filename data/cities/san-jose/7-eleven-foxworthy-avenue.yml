@@ -1,11 +1,11 @@
 id: 225879112
-type: way
+type: node
 latitude: 37.26992
 longitude: -121.90746
 postcode: "95124"
 city: San Jose
-street: "Foxworthy Avenue"
-housenumber: 1674
-phone: "+1 408-265-5231"
+street: Foxworthy Avenue
+housenumber: "1674"
+phone: +1 408-265-5231
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/san-jose/1674-foxworthy-ave-14259"
+website: https://www.7-eleven.com/locations/ca/san-jose/1674-foxworthy-ave-14259

@@ -1,11 +1,11 @@
 id: 59441211
-type: way
+type: node
 latitude: 38.13679
 longitude: -122.21648
 postcode: "94591"
 city: Vallejo
-street: "Admiral Callaghan Ln;Admiral Callaghan Lane"
-housenumber: 1175
-phone: "+1 707-552-9600"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Vallejo/CA/Vallejo/94591/633"
+street: Admiral Callaghan Ln;Admiral Callaghan Lane
+housenumber: "1175"
+phone: +1 707-552-9600
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Vallejo/CA/Vallejo/94591/633

@@ -1,11 +1,11 @@
 id: 119705405
-type: way
+type: node
 latitude: 33.12538
 longitude: -117.0912
 postcode: "92025"
 city: Escondido
-street: "West Washington Avenue"
-housenumber: 518
+street: West Washington Avenue
+housenumber: "518"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:30; Sa 09:00-16:00"
-website: "https://www.carpetclub.com/"
+opening_hours: Mo-Fr 08:00-17:30; Sa 09:00-16:00
+website: https://www.carpetclub.com/

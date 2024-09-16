@@ -4,8 +4,8 @@ latitude: 32.6419
 longitude: -117.08035
 postcode: "91910"
 city: Chula Vista
-street: "3rd Avenue"
-housenumber: 284
+street: 3rd Avenue
+housenumber: "284"
 phone: "+16194222013"
-opening_hours: "Su,Mo closed;Tu-Fr 10:00-18:00;Sa 10:00-16:00"
-website: "http://www.standleesinc.com/"
+opening_hours: Su,Mo closed;Tu-Fr 10:00-18:00;Sa 10:00-16:00
+website: http://www.standleesinc.com/

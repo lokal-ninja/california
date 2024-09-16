@@ -1,11 +1,11 @@
 id: 289860052
-type: way
+type: node
 latitude: 33.84607
 longitude: -118.11589
 postcode: ""
 city: Lakewood
-street: "Woodruff Avenue"
-housenumber: 4834
+street: Woodruff Avenue
+housenumber: "4834"
 phone: ""
-opening_hours: "Mo-We,Fr 12:00-18:00; Sa 09:30-17:30"
+opening_hours: Mo-We,Fr 12:00-18:00; Sa 09:30-17:30
 website: ""

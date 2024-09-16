@@ -4,8 +4,8 @@ latitude: 37.77202
 longitude: -122.4303
 postcode: "94117"
 city: San Francisco
-street: "Haight Street"
-housenumber: 499
-phone: "+1 415-503-0722"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.cvs.com/store-locator/san-francisco-ca-pharmacies/499-haight-st-san-francisco-ca-94117/storeid=10188"
+street: Haight Street
+housenumber: "499"
+phone: +1 415-503-0722
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.cvs.com/store-locator/san-francisco-ca-pharmacies/499-haight-st-san-francisco-ca-94117/storeid=10188

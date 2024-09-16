@@ -1,11 +1,11 @@
 id: 311711210
-type: way
+type: node
 latitude: 37.38799
 longitude: -120.70987
 postcode: "95334"
 city: Livingston
-street: "Industrial Drive"
-housenumber: 462
+street: Industrial Drive
+housenumber: "462"
 phone: ""
 opening_hours: ""
 website: ""

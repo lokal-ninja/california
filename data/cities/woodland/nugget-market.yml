@@ -1,11 +1,11 @@
 id: 270510695
-type: way
+type: node
 latitude: 38.67844
 longitude: -121.78122
 postcode: "95695"
 city: Woodland
-street: "Main Street"
-housenumber: 157
+street: Main Street
+housenumber: "157"
 phone: ""
 opening_hours: ""
 website: ""

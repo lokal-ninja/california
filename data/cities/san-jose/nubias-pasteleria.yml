@@ -4,8 +4,8 @@ latitude: 37.39219
 longitude: -121.84249
 postcode: "95132"
 city: San Jose
-street: "Piedmont Road"
-housenumber: 1030
+street: Piedmont Road
+housenumber: "1030"
 phone: ""
-opening_hours: "Tu-Th,Su 11:00-14:00; Fr-Sa 11:00-16:00"
+opening_hours: Tu-Th,Su 11:00-14:00; Fr-Sa 11:00-16:00
 website: ""

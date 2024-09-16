@@ -1,11 +1,11 @@
 id: 165815275
-type: way
+type: node
 latitude: 33.11581
 longitude: -117.10743
 postcode: "92029"
 city: Escondido
-street: "Auto Park Way North"
-housenumber: 1555
+street: Auto Park Way North
+housenumber: "1555"
 phone: ""
 opening_hours: ""
-website: "https://www.miniofescondido.com/"
+website: https://www.miniofescondido.com/

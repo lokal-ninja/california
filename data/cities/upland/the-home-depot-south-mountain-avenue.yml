@@ -1,11 +1,11 @@
 id: 919011416
-type: way
+type: node
 latitude: 34.09063
 longitude: -117.66887
 postcode: "91786"
 city: Upland
-street: "South Mountain Avenue"
-housenumber: 250
-phone: "+1 909-949-4119"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Upland/CA/Upland/91786/687"
+street: South Mountain Avenue
+housenumber: "250"
+phone: +1 909-949-4119
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Upland/CA/Upland/91786/687

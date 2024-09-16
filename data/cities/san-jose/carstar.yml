@@ -1,11 +1,11 @@
 id: 39132328
-type: way
+type: node
 latitude: 37.37857
 longitude: -121.91015
 postcode: "95112"
 city: San Jose
-street: "East Brokaw Road"
-housenumber: 470
+street: East Brokaw Road
+housenumber: "470"
 phone: ""
 opening_hours: ""
 website: ""

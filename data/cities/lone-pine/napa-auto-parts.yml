@@ -1,11 +1,11 @@
 id: 671870634
-type: way
+type: node
 latitude: 36.60839
 longitude: -118.06458
 postcode: "93545"
 city: Lone Pine
-street: "North Main Street"
-housenumber: 430
-phone: "+1 (760) 876-5586"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-16:00; Su off"
-website: "https://www.napaonline.com/en/ca/lone-pine/store/22205"
+street: North Main Street
+housenumber: "430"
+phone: +1 (760) 876-5586
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-16:00; Su off
+website: https://www.napaonline.com/en/ca/lone-pine/store/22205

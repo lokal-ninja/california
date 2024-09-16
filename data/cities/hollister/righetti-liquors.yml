@@ -1,11 +1,11 @@
 id: 29131461
-type: way
+type: node
 latitude: 36.85577
 longitude: -121.40227
-postcode: "95023-3713"
+postcode: 95023-3713
 city: Hollister
-street: "1st St"
-housenumber: 310
+street: 1st St
+housenumber: "310"
 phone: ""
 opening_hours: ""
 website: ""

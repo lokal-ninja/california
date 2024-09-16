@@ -1,11 +1,11 @@
 id: 431160576
-type: way
+type: node
 latitude: 34.28415
 longitude: -118.43973
 postcode: "91340"
 city: San Fernando
-street: "Maclay Street"
-housenumber: 100
+street: Maclay Street
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

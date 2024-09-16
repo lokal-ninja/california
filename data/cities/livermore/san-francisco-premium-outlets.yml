@@ -1,11 +1,11 @@
 id: 255454870
-type: way
+type: node
 latitude: 37.69974
 longitude: -121.84798
 postcode: "94551"
 city: Livermore
-street: "Livermore Outlets Drive"
-housenumber: 2774
-phone: "+1 925-292-2868"
+street: Livermore Outlets Drive
+housenumber: "2774"
+phone: +1 925-292-2868
 opening_hours: ""
-website: "https://www.premiumoutlets.com/outlet/san-francisco"
+website: https://www.premiumoutlets.com/outlet/san-francisco

@@ -1,11 +1,11 @@
 id: 229304974
-type: way
+type: node
 latitude: 33.64733
 longitude: -117.68577
 postcode: "92630"
 city: Lake Forest
-street: "Lake Forest Drive"
-housenumber: 21721
-phone: "+1 949-770-1007"
-opening_hours: "05:00-23:00"
-website: "https://www.exxon.com/en/find-station/mobil-lakeforest-ca-lakeforestmobil-200313104"
+street: Lake Forest Drive
+housenumber: "21721"
+phone: +1 949-770-1007
+opening_hours: 05:00-23:00
+website: https://www.exxon.com/en/find-station/mobil-lakeforest-ca-lakeforestmobil-200313104

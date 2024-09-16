@@ -1,11 +1,11 @@
 id: 225770659
-type: way
+type: node
 latitude: 32.8419
 longitude: -116.98323
-postcode: "92071-3834"
+postcode: 92071-3834
 city: Santee
-street: "Mission Gorge Road"
-housenumber: 9846
-phone: "+1 619-449-9790"
-opening_hours: "Mo-Sa 08:00-11:00; Su 08:00-10:00"
-website: "https://www.target.com/sl/santee/1485"
+street: Mission Gorge Road
+housenumber: "9846"
+phone: +1 619-449-9790
+opening_hours: Mo-Sa 08:00-11:00; Su 08:00-10:00
+website: https://www.target.com/sl/santee/1485

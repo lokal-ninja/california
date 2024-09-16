@@ -1,11 +1,11 @@
 id: 311712078
-type: way
+type: node
 latitude: 37.34676
 longitude: -120.60843
 postcode: "95301"
 city: Atwater
-street: "Broadway Avenue"
-housenumber: 1149
+street: Broadway Avenue
+housenumber: "1149"
 phone: ""
 opening_hours: ""
 website: ""

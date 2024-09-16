@@ -1,11 +1,11 @@
 id: 851249053
-type: way
+type: node
 latitude: 36.97867
 longitude: -121.96473
 postcode: "95010"
 city: Capitola
-street: "41st Avenue"
-housenumber: 2100
-phone: "+1 831-465-1111"
+street: 41st Avenue
+housenumber: "2100"
+phone: +1 831-465-1111
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/ca/capitola/502034/"
+website: https://www.mattressfirm.com/en-us/stores/ca/capitola/502034/

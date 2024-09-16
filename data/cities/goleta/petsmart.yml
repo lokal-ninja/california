@@ -1,11 +1,11 @@
 id: 550860969
-type: way
+type: node
 latitude: 34.43071
 longitude: -119.87515
 postcode: "93117"
 city: Goleta
-street: "Hollister Avenue"
-housenumber: 7090
-phone: "+1 805-979-4824"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ca/goleta-store2572.html"
+street: Hollister Avenue
+housenumber: "7090"
+phone: +1 805-979-4824
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ca/goleta-store2572.html

@@ -1,11 +1,11 @@
 id: 1082427716
-type: way
+type: node
 latitude: 34.28353
 longitude: -118.44212
 postcode: "91340"
 city: San Fernando
-street: "San Fernando Road"
-housenumber: 1115
+street: San Fernando Road
+housenumber: "1115"
 phone: ""
 opening_hours: ""
-website: "https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-san-fernando-ca-10225574/"
+website: https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-san-fernando-ca-10225574/

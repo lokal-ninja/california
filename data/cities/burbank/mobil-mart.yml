@@ -1,11 +1,11 @@
 id: 471767620
-type: way
+type: node
 latitude: 34.18104
 longitude: -118.30393
 postcode: "91502"
 city: Burbank
-street: "South Glenoaks Boulevard"
-housenumber: 349
-phone: "(818) 266-5990"
-opening_hours: "Mo-Su 04:00-24:00"
-website: "https://www.exxon.com/en/find-station/mobil-burbank-ca-burbankoil-200312004?utm_medium=referral&utm_source=yxt-google&utm_campaign=us_fue_ret_xom_yxt"
+street: South Glenoaks Boulevard
+housenumber: "349"
+phone: (818) 266-5990
+opening_hours: Mo-Su 04:00-24:00
+website: https://www.exxon.com/en/find-station/mobil-burbank-ca-burbankoil-200312004?utm_medium=referral&utm_source=yxt-google&utm_campaign=us_fue_ret_xom_yxt

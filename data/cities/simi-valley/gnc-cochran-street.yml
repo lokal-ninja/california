@@ -4,8 +4,8 @@ latitude: 34.27803
 longitude: -118.73953
 postcode: "93065"
 city: Simi Valley
-street: "Cochran Street"
-housenumber: 2880
-phone: "+1 805-522-4425"
-opening_hours: "Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-19:00"
-website: "https://stores.gnc.com/all-stores-california/simi-valley/2880-d-2-cochran-st"
+street: Cochran Street
+housenumber: "2880"
+phone: +1 805-522-4425
+opening_hours: Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-19:00
+website: https://stores.gnc.com/all-stores-california/simi-valley/2880-d-2-cochran-st

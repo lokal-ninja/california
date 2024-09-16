@@ -4,8 +4,8 @@ latitude: 34.35289
 longitude: -119.06381
 postcode: "93060"
 city: Santa Paula
-street: "East Main Street"
-housenumber: 815
-phone: "+1 805-229-7338"
-opening_hours: "We-Th 16:00-21:00; Fr-Sa 12:00-21:00; Su 12:00-18:00"
-website: "https://annascider.com/"
+street: East Main Street
+housenumber: "815"
+phone: +1 805-229-7338
+opening_hours: We-Th 16:00-21:00; Fr-Sa 12:00-21:00; Su 12:00-18:00
+website: https://annascider.com/

@@ -1,11 +1,11 @@
 id: 402128395
-type: way
+type: node
 latitude: 33.15625
 longitude: -117.1291
 postcode: "92069"
 city: San Marcos
-street: "Woodland Parkway"
-housenumber: 997
+street: Woodland Parkway
+housenumber: "997"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/san-marcos-ca-pharmacies/997-woodland-pkwy-san-marcos-ca-92069/storeid=8818"
+website: https://www.cvs.com/store-locator/san-marcos-ca-pharmacies/997-woodland-pkwy-san-marcos-ca-92069/storeid=8818

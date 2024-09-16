@@ -4,8 +4,8 @@ latitude: 37.87967
 longitude: -122.2974
 postcode: "94710"
 city: Berkeley
-street: "Tenth Street"
-housenumber: 1318
-phone: "+1 510-982-0663"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su10:00-18:00"
-website: "https://www.officedepot.com/storelocator/ca/berkeley/office-depot-3306"
+street: Tenth Street
+housenumber: "1318"
+phone: +1 510-982-0663
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su10:00-18:00
+website: https://www.officedepot.com/storelocator/ca/berkeley/office-depot-3306

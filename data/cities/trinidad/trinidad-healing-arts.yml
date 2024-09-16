@@ -1,11 +1,11 @@
 id: 409186946
-type: way
+type: node
 latitude: 41.05901
 longitude: -124.14299
 postcode: "95570"
 city: Trinidad
-street: "Trinity Street"
-housenumber: 529
+street: Trinity Street
+housenumber: "529"
 phone: ""
 opening_hours: ""
-website: "https://trinidadhealingarts.com/"
+website: https://trinidadhealingarts.com/

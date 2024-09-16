@@ -4,8 +4,8 @@ latitude: 32.75174
 longitude: -117.1939
 postcode: ""
 city: San Diego
-street: "San Diego Avenue"
-housenumber: 104
+street: San Diego Avenue
+housenumber: "104"
 phone: ""
-opening_hours: "Mo-Th, Su 11:00-18:00; Fr, Sa 11:00-20:00"
+opening_hours: Mo-Th, Su 11:00-18:00; Fr, Sa 11:00-20:00
 website: ""

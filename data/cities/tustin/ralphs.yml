@@ -1,11 +1,11 @@
 id: 184706254
-type: way
+type: node
 latitude: 33.72971
 longitude: -117.7904
 postcode: "92782"
 city: Tustin
-street: "Jamboree Road"
-housenumber: 13321
-phone: "+1 714-544-0491"
-opening_hours: "Mo-Su 05:00-01:00"
-website: "https://www.ralphs.com/stores/grocery/ca/tustin/tustin-village-center/703/00139"
+street: Jamboree Road
+housenumber: "13321"
+phone: +1 714-544-0491
+opening_hours: Mo-Su 05:00-01:00
+website: https://www.ralphs.com/stores/grocery/ca/tustin/tustin-village-center/703/00139

@@ -1,11 +1,11 @@
 id: 227070581
-type: way
+type: node
 latitude: 37.30933
 longitude: -121.84799
 postcode: "95112"
 city: San Jose
-street: "Quinn Avenue"
-housenumber: 620
+street: Quinn Avenue
+housenumber: "620"
 phone: ""
 opening_hours: ""
-website: "http://www.aurahardwoods.com/home"
+website: http://www.aurahardwoods.com/home

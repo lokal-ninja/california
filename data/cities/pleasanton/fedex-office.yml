@@ -1,11 +1,11 @@
 id: 381876236
-type: way
+type: node
 latitude: 37.701
 longitude: -121.91051
 postcode: "94588"
 city: Pleasanton
-street: "Johnson Drive"
-housenumber: 6070
+street: Johnson Drive
+housenumber: "6070"
 phone: ""
 opening_hours: ""
 website: ""

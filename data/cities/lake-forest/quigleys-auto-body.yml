@@ -1,11 +1,11 @@
 id: 333369550
-type: way
+type: node
 latitude: 33.66589
 longitude: -117.66061
 postcode: "92630"
 city: Lake Forest
-street: "Vista Terrace"
-housenumber: 26921
-phone: "+1 949-768-5915"
-opening_hours: "Mo-Fr 07:30-17:30; Su off || Saturdays by appointment"
-website: "https://quigleysautobody.com/"
+street: Vista Terrace
+housenumber: "26921"
+phone: +1 949-768-5915
+opening_hours: Mo-Fr 07:30-17:30; Su off || "Saturdays by appointment"
+website: https://quigleysautobody.com/

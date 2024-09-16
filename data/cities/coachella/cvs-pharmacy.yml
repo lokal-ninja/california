@@ -1,11 +1,11 @@
 id: 158416839
-type: way
+type: node
 latitude: 33.68621
 longitude: -116.19816
 postcode: "92236"
 city: Coachella
-street: "Avenue 50"
-housenumber: 84010
+street: Avenue 50
+housenumber: "84010"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/coachella-ca-pharmacies/84010-avenue-50-coachella-ca-92236/storeid=5497"
+website: https://www.cvs.com/store-locator/coachella-ca-pharmacies/84010-avenue-50-coachella-ca-92236/storeid=5497

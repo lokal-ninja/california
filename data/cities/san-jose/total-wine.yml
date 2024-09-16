@@ -4,8 +4,8 @@ latitude: 37.32176
 longitude: -121.99451
 postcode: "95129"
 city: San Jose
-street: "Stevens Creek Boulevard"
-housenumber: 5170
-phone: "+1 408-556-4705"
-opening_hours: "09:00-22:00"
-website: "https://www.totalwine.com/store-info/1127"
+street: Stevens Creek Boulevard
+housenumber: "5170"
+phone: +1 408-556-4705
+opening_hours: 09:00-22:00
+website: https://www.totalwine.com/store-info/1127

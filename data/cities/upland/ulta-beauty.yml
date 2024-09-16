@@ -1,11 +1,11 @@
 id: 599072864
-type: way
+type: node
 latitude: 34.13358
 longitude: -117.64167
 postcode: "91786"
 city: Upland
-street: "Campus Avenue"
-housenumber: 1927
-phone: "+1 909-931-0608"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/upland-ca-174"
+street: Campus Avenue
+housenumber: "1927"
+phone: +1 909-931-0608
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/upland-ca-174

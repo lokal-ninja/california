@@ -4,8 +4,8 @@ latitude: 37.76806
 longitude: -122.42205
 postcode: "94103"
 city: San Francisco
-street: "Valencia Street"
-housenumber: 301
+street: Valencia Street
+housenumber: "301"
 phone: ""
 opening_hours: ""
-website: "https://shoplepoint.com/"
+website: https://shoplepoint.com/

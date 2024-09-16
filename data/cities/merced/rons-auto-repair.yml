@@ -1,11 +1,11 @@
 id: 311711695
-type: way
+type: node
 latitude: 37.28842
 longitude: -120.46339
 postcode: "95341"
 city: Merced
-street: "North Brantley Street"
-housenumber: 1341
+street: North Brantley Street
+housenumber: "1341"
 phone: ""
 opening_hours: ""
 website: ""

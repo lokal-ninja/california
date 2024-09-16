@@ -4,8 +4,8 @@ latitude: 37.3208
 longitude: -120.48195
 postcode: "95348"
 city: Merced
-street: "Merced Mall"
-housenumber: 400
-phone: "+1 209-384-2934"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/ca/merced-1367.shtml"
+street: Merced Mall
+housenumber: "400"
+phone: +1 209-384-2934
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/ca/merced-1367.shtml

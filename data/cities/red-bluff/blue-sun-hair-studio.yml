@@ -1,11 +1,11 @@
 id: 658068052
-type: way
+type: node
 latitude: 40.1775
 longitude: -122.23448
 postcode: "96080"
 city: Red Bluff
-street: "Pine Street"
-housenumber: 245
-phone: "+1 530-527-3974"
+street: Pine Street
+housenumber: "245"
+phone: +1 530-527-3974
 opening_hours: ""
-website: "https://www.bluesunhairstudio.com/"
+website: https://www.bluesunhairstudio.com/

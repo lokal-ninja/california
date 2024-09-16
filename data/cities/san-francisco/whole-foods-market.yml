@@ -4,8 +4,8 @@ latitude: 37.78115
 longitude: -122.39978
 postcode: "94107"
 city: San Francisco
-street: "4th Street"
-housenumber: 399
-phone: "+1 415-618-0066"
-opening_hours: "8:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/soma"
+street: 4th Street
+housenumber: "399"
+phone: +1 415-618-0066
+opening_hours: 8:00-22:00
+website: https://www.wholefoodsmarket.com/stores/soma

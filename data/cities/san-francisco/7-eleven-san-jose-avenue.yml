@@ -2,10 +2,10 @@ id: 1172744459
 type: node
 latitude: 37.70982
 longitude: -122.45789
-postcode: "94112-3933"
+postcode: 94112-3933
 city: San Francisco
-street: "San Jose Avenue"
-housenumber: 3080
-phone: "+1 650-994-9200"
+street: San Jose Avenue
+housenumber: "3080"
+phone: +1 650-994-9200
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/san-francisco/3080-san-jose-ave-23342"
+website: https://www.7-eleven.com/locations/ca/san-francisco/3080-san-jose-ave-23342

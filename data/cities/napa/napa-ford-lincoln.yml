@@ -1,11 +1,11 @@
 id: 382527733
-type: way
+type: node
 latitude: 38.29402
 longitude: -122.27875
 postcode: "94559"
 city: Napa
-street: "Soscol Avenue"
-housenumber: 570
-phone: "(888) 709-7542"
+street: Soscol Avenue
+housenumber: "570"
+phone: (888) 709-7542
 opening_hours: ""
-website: "https://www.napalincoln.com/"
+website: https://www.napalincoln.com/

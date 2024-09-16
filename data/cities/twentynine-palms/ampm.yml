@@ -1,11 +1,11 @@
 id: 293933009
-type: way
+type: node
 latitude: 34.13618
 longitude: -116.06002
 postcode: "92277"
 city: Twentynine Palms
-street: "29 Palms Highway"
-housenumber: 73434
+street: 29 Palms Highway
+housenumber: "73434"
 phone: ""
 opening_hours: ""
 website: ""

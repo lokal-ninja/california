@@ -1,11 +1,11 @@
 id: 702883716
-type: way
+type: node
 latitude: 39.14668
 longitude: -121.63158
-postcode: "95991-3102"
+postcode: 95991-3102
 city: Yuba City
-street: "Butte House Road"
-housenumber: 1153
-phone: "+1 530-671-6881"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/yuba-city/318"
+street: Butte House Road
+housenumber: "1153"
+phone: +1 530-671-6881
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/yuba-city/318

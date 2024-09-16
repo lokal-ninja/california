@@ -1,11 +1,11 @@
 id: 173916446
-type: way
+type: node
 latitude: 34.10718
 longitude: -117.19789
 postcode: "92346"
 city: Highland
-street: "Greenspot Road"
-housenumber: 27847
-phone: "+1 909-557-9010"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/"
+street: Greenspot Road
+housenumber: "27847"
+phone: +1 909-557-9010
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/

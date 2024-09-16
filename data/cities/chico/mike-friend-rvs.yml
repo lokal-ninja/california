@@ -1,11 +1,11 @@
 id: 1302775810
-type: way
+type: node
 latitude: 39.76296
 longitude: -121.86837
 postcode: "95973"
 city: Chico
-street: "Esplanade"
-housenumber: 2933
-phone: "+1-530-343-0245"
-opening_hours: "Tu-Fr 08:30-17:00; Su 09:00-14:00"
-website: "https://www.mikefriendrvs.com"
+street: Esplanade
+housenumber: "2933"
+phone: +1-530-343-0245
+opening_hours: Tu-Fr 08:30-17:00; Su 09:00-14:00
+website: https://www.mikefriendrvs.com

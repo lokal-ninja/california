@@ -1,11 +1,11 @@
 id: 1291256800
-type: way
+type: node
 latitude: 34.22814
 longitude: -118.46577
 postcode: "91343"
 city: North Hills
-street: "Parthenia Street"
-housenumber: 15306
+street: Parthenia Street
+housenumber: "15306"
 phone: ""
 opening_hours: ""
 website: ""

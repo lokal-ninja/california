@@ -4,8 +4,8 @@ latitude: 37.77141
 longitude: -122.42354
 postcode: "94103"
 city: San Francisco
-street: "Market Street"
-housenumber: 1797
-phone: "(415) 436-9933"
-opening_hours: "Mo-Su 12:00-19:00"
-website: "https://www.discogs.com/seller/GroovesVinyl/profile"
+street: Market Street
+housenumber: "1797"
+phone: (415) 436-9933
+opening_hours: Mo-Su 12:00-19:00
+website: https://www.discogs.com/seller/GroovesVinyl/profile

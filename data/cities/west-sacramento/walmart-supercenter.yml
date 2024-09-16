@@ -1,11 +1,11 @@
 id: 120652138
-type: way
+type: node
 latitude: 38.58657
 longitude: -121.5509
 postcode: "95605"
 city: West Sacramento
-street: "Riverpoint Court"
-housenumber: 755
-phone: "+1 916-373-2200"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/3652/west-sacramento-ca/whats-new"
+street: Riverpoint Court
+housenumber: "755"
+phone: +1 916-373-2200
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/3652/west-sacramento-ca/whats-new

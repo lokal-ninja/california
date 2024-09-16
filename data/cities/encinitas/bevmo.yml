@@ -1,11 +1,11 @@
 id: 225853642
-type: way
+type: node
 latitude: 33.0491
 longitude: -117.26159
 postcode: "92024"
 city: Encinitas
-street: "North El Camino Real"
-housenumber: 212
-phone: "760-943-6631"
+street: North El Camino Real
+housenumber: "212"
+phone: 760-943-6631
 opening_hours: ""
-website: "https://www.bevmo.com/Misc/StoreDetail.aspx?sid=16"
+website: https://www.bevmo.com/Misc/StoreDetail.aspx?sid=16

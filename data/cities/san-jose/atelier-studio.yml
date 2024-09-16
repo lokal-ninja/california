@@ -4,8 +4,8 @@ latitude: 37.31934
 longitude: -121.94933
 postcode: "95128"
 city: San Jose
-street: "Santana Row"
-housenumber: 377
-phone: "+1 408-244-4222"
-opening_hours: "Mo 12:30-21:00; Tu-Fr 08:00-21:00; Sa 09:00-17:30; Su 10:00-18:00"
-website: "https://www.ateliersalon.com/"
+street: Santana Row
+housenumber: "377"
+phone: +1 408-244-4222
+opening_hours: Mo 12:30-21:00; Tu-Fr 08:00-21:00; Sa 09:00-17:30; Su 10:00-18:00
+website: https://www.ateliersalon.com/

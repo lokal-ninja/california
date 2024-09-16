@@ -1,11 +1,11 @@
 id: 1082427729
-type: way
+type: node
 latitude: 34.28384
 longitude: -118.44324
 postcode: "91340"
 city: San Fernando
-street: "San Fernando Road"
-housenumber: 1150
-phone: "(888) 406-7063"
+street: San Fernando Road
+housenumber: "1150"
+phone: (888) 406-7063
 opening_hours: ""
-website: "https://spectrum.com"
+website: https://spectrum.com

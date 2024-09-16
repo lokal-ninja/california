@@ -1,11 +1,11 @@
 id: 457810514
-type: way
+type: node
 latitude: 36.80909
 longitude: -119.79112
 postcode: "93704"
 city: Fresno
-street: "West Shaw Avenue"
-housenumber: 20
+street: West Shaw Avenue
+housenumber: "20"
 phone: "+15592220220"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 11:30-17:00"
-website: "https://www.americasbest.com/location/ca/fresno/fresno?utm_source=gplus&utm_medium=listing&utm_campaign=w2gi"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 11:30-17:00
+website: https://www.americasbest.com/location/ca/fresno/fresno?utm_source=gplus&utm_medium=listing&utm_campaign=w2gi

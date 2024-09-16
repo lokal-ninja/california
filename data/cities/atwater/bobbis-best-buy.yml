@@ -1,11 +1,11 @@
 id: 311695472
-type: way
+type: node
 latitude: 37.36073
 longitude: -120.57696
 postcode: "95301"
 city: Atwater
-street: "East Bellevue Road"
-housenumber: 1595
+street: East Bellevue Road
+housenumber: "1595"
 phone: ""
 opening_hours: ""
 website: ""

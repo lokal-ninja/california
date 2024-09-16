@@ -1,11 +1,11 @@
 id: 217598826
-type: way
+type: node
 latitude: 33.87252
 longitude: -117.74656
 postcode: "92807"
 city: Anaheim
-street: "Weir Canyon Road"
-housenumber: 985
+street: Weir Canyon Road
+housenumber: "985"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/ca/anaheimhills/oil-change-gn0043.html"
+website: https://store.vioc.com/ca/anaheimhills/oil-change-gn0043.html

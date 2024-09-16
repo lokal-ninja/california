@@ -1,11 +1,11 @@
 id: 699519856
-type: way
+type: node
 latitude: 38.45452
 longitude: -122.71676
 postcode: "95404"
 city: Santa Rosa
-street: "McConnell Avenue"
-housenumber: 530
+street: McConnell Avenue
+housenumber: "530"
 phone: ""
 opening_hours: ""
 website: ""

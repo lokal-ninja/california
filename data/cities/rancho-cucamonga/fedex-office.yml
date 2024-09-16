@@ -1,11 +1,11 @@
 id: 599976787
-type: way
+type: node
 latitude: 34.10623
 longitude: -117.57017
 postcode: "91730"
 city: Rancho Cucamonga
-street: "Foothill Boulevard"
-housenumber: 10757
-phone: "+1-909-944-1819"
-opening_hours: "24/7"
+street: Foothill Boulevard
+housenumber: "10757"
+phone: +1-909-944-1819
+opening_hours: 24/7
 website: ""

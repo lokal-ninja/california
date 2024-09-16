@@ -1,11 +1,11 @@
 id: 1070719024
-type: way
+type: node
 latitude: 39.22199
 longitude: -121.04742
 postcode: "95945"
 city: Grass Valley
-street: "Idaho Maryland Road"
-housenumber: 625
-phone: "+1 530 272 6400"
-opening_hours: "Mo-Sa 09:00-17:00"
-website: "http://www.demartinirv.com/"
+street: Idaho Maryland Road
+housenumber: "625"
+phone: +1 530 272 6400
+opening_hours: Mo-Sa 09:00-17:00
+website: http://www.demartinirv.com/

@@ -1,11 +1,11 @@
 id: 1299936588
-type: way
+type: node
 latitude: 36.83834
 longitude: -119.72289
 postcode: "93612"
 city: Clovis
-street: "West Herndon Avenue"
-housenumber: 525
+street: West Herndon Avenue
+housenumber: "525"
 phone: "+15597012216"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
-website: "https://www.americastire.com/store/ca/clovis/s/2313"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
+website: https://www.americastire.com/store/ca/clovis/s/2313

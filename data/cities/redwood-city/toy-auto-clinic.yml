@@ -1,11 +1,11 @@
 id: 240594603
-type: way
+type: node
 latitude: 37.4749
 longitude: -122.22073
 postcode: "94061"
 city: Redwood City
-street: "Hazel Avenue"
-housenumber: 35
-phone: "(650) 257-3021"
+street: Hazel Avenue
+housenumber: "35"
+phone: (650) 257-3021
 opening_hours: ""
-website: "http://www.toyautoclinic.com"
+website: http://www.toyautoclinic.com

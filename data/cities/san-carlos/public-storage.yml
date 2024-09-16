@@ -1,11 +1,11 @@
 id: 1043098591
-type: way
+type: node
 latitude: 37.51591
 longitude: -122.25741
 postcode: "94065"
 city: San Carlos
-street: "Shoreway Road"
-housenumber: 375
+street: Shoreway Road
+housenumber: "375"
 phone: ""
 opening_hours: ""
 website: ""

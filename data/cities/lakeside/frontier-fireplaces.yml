@@ -1,11 +1,11 @@
 id: 961180856
-type: way
+type: node
 latitude: 32.86095
 longitude: -116.92258
 postcode: "92040"
 city: Lakeside
-street: "Maine Avenue"
-housenumber: 10042
+street: Maine Avenue
+housenumber: "10042"
 phone: ""
 opening_hours: ""
 website: ""

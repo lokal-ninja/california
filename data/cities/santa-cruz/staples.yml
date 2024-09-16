@@ -1,11 +1,11 @@
 id: 56716639
-type: way
+type: node
 latitude: 36.98494
 longitude: -121.98131
 postcode: "95062"
 city: Santa Cruz
-street: "17th Avenue"
-housenumber: 2460
+street: 17th Avenue
+housenumber: "2460"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su 10:00-18:00"
-website: "https://stores.staples.com/ca/santa-cruz/2460-17th-avenue"
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su 10:00-18:00
+website: https://stores.staples.com/ca/santa-cruz/2460-17th-avenue

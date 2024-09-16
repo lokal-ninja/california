@@ -4,8 +4,8 @@ latitude: 37.46935
 longitude: -122.43079
 postcode: "94019"
 city: Half Moon Bay
-street: "Main Street"
-housenumber: 111
-phone: "+1 650-726-5505"
-opening_hours: "Mo-Fr 07:00-19:00; Sa,Su 08:00-18:00"
+street: Main Street
+housenumber: "111"
+phone: +1 650-726-5505
+opening_hours: Mo-Fr 07:00-19:00; Sa,Su 08:00-18:00
 website: ""

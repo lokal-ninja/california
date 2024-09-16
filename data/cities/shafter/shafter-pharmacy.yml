@@ -1,11 +1,11 @@
 id: 1101340077
-type: way
+type: node
 latitude: 35.49994
 longitude: -119.27184
 postcode: "93263"
 city: Shafter
-street: "Central Valley Highway"
-housenumber: 825
+street: Central Valley Highway
+housenumber: "825"
 phone: ""
 opening_hours: ""
 website: ""

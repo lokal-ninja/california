@@ -1,11 +1,11 @@
 id: 502500053
-type: way
+type: node
 latitude: 34.10818
 longitude: -117.62991
 postcode: "91786"
 city: Upland
-street: "East Foothill Boulevard"
-housenumber: 1445
-phone: "+1 909-942-4931"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/5691/upland-ca/whats-new"
+street: East Foothill Boulevard
+housenumber: "1445"
+phone: +1 909-942-4931
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/5691/upland-ca/whats-new

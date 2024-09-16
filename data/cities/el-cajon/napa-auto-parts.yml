@@ -1,11 +1,11 @@
 id: 995061661
-type: way
+type: node
 latitude: 32.80757
 longitude: -116.93853
 postcode: "92021"
 city: El Cajon
-street: "Broadway"
-housenumber: 1235
+street: Broadway
+housenumber: "1235"
 phone: "+16194420461"
 opening_hours: ""
-website: "https://www.napaonline.com/stores/ca/el-cajon/1235-broadway"
+website: https://www.napaonline.com/stores/ca/el-cajon/1235-broadway

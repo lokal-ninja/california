@@ -1,11 +1,11 @@
 id: 993479759
-type: way
+type: node
 latitude: 33.93915
 longitude: -117.96907
 postcode: "90631"
 city: La Habra
-street: "West Whittier Boulevard"
-housenumber: 2000
+street: West Whittier Boulevard
+housenumber: "2000"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-2000+w+whittier+blvd-la+habra-ca-90631/id=5672"
+website: https://www.walgreens.com/locator/walgreens-2000+w+whittier+blvd-la+habra-ca-90631/id=5672

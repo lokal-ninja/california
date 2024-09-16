@@ -1,11 +1,11 @@
 id: 200858183
-type: way
+type: node
 latitude: 37.32208
 longitude: -121.94826
 postcode: "95128"
 city: San Jose
-street: "Santana Row"
-housenumber: 333
-phone: "+1 669-369-8585"
-opening_hours: "Mo-Sa 11:00-19:00; Su 12:00-18:00"
-website: "https://paige.com/stores/santana-row"
+street: Santana Row
+housenumber: "333"
+phone: +1 669-369-8585
+opening_hours: Mo-Sa 11:00-19:00; Su 12:00-18:00
+website: https://paige.com/stores/santana-row

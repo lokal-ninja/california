@@ -1,11 +1,11 @@
 id: 962076075
-type: way
+type: node
 latitude: 32.65613
 longitude: -117.08404
 postcode: "91910"
 city: Chula Vista
-street: "Press Lane"
-housenumber: 117
+street: Press Lane
+housenumber: "117"
 phone: "+16194264493"
 opening_hours: ""
-website: "https://www.expresspipe.com/"
+website: https://www.expresspipe.com/

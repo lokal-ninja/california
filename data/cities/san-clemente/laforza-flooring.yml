@@ -1,11 +1,11 @@
 id: 394749730
-type: way
+type: node
 latitude: 33.42982
 longitude: -117.61664
 postcode: "92672"
 city: San Clemente
-street: "North El Camino Real"
-housenumber: 530
+street: North El Camino Real
+housenumber: "530"
 phone: ""
 opening_hours: ""
-website: "http://laforzatile.com"
+website: http://laforzatile.com

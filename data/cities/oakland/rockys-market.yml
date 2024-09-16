@@ -1,11 +1,11 @@
 id: 362487046
-type: way
+type: node
 latitude: 37.81173
 longitude: -122.21231
 postcode: "94602"
 city: Oakland
-street: "Leimert Boulevard"
-housenumber: 1440
+street: Leimert Boulevard
+housenumber: "1440"
 phone: ""
-opening_hours: "08:00-20:00"
+opening_hours: 08:00-20:00
 website: ""

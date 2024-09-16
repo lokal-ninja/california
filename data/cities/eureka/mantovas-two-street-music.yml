@@ -4,8 +4,8 @@ latitude: 40.8038
 longitude: -124.17016
 postcode: "95501"
 city: Eureka
-street: "2nd Street"
-housenumber: 124
-phone: "+1 707-445-3155"
+street: 2nd Street
+housenumber: "124"
+phone: +1 707-445-3155
 opening_hours: ""
-website: "https://www.mtsmusic.com/"
+website: https://www.mtsmusic.com/

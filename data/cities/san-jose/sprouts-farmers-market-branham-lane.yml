@@ -4,8 +4,8 @@ latitude: 37.26189
 longitude: -121.87815
 postcode: "95118"
 city: San Jose
-street: "Branham Lane"
-housenumber: 1130
-phone: "+1 408-833-1152"
-opening_hours: "07:00-23:00"
-website: "https://www.sprouts.com/store/ca/san-jose/san-jose-branham-ln/"
+street: Branham Lane
+housenumber: "1130"
+phone: +1 408-833-1152
+opening_hours: 07:00-23:00
+website: https://www.sprouts.com/store/ca/san-jose/san-jose-branham-ln/

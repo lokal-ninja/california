@@ -1,11 +1,11 @@
 id: 229304985
-type: way
+type: node
 latitude: 33.64715
 longitude: -117.68782
 postcode: "92630"
 city: Lake Forest
-street: "Lake Forest Drive"
-housenumber: 21761
+street: Lake Forest Drive
+housenumber: "21761"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/lake-forest-ca-pharmacies/21761-lake-forest-drive-lake-forest-ca-92630/storeid=9587"
+website: https://www.cvs.com/store-locator/lake-forest-ca-pharmacies/21761-lake-forest-drive-lake-forest-ca-92630/storeid=9587

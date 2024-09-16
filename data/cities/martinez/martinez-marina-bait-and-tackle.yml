@@ -1,11 +1,11 @@
 id: 506265286
-type: way
+type: node
 latitude: 38.02554
 longitude: -122.13681
 postcode: "94553"
 city: Martinez
-street: "Tarantino Drive"
-housenumber: 95
-phone: "(925) 229-9420"
+street: Tarantino Drive
+housenumber: "95"
+phone: (925) 229-9420
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 37.74158
 longitude: -122.40537
 postcode: "94124"
 city: San Francisco
-street: "Bayshore Boulevard"
-housenumber: 355
+street: Bayshore Boulevard
+housenumber: "355"
 phone: ""
-opening_hours: "Mo-Su 08:00-21:00"
+opening_hours: Mo-Su 08:00-21:00
 website: ""

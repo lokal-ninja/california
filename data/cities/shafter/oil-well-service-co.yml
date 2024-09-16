@@ -1,11 +1,11 @@
 id: 1188111941
-type: way
+type: node
 latitude: 35.45315
 longitude: -119.25894
 postcode: "93263"
 city: Shafter
-street: "Enos Lane"
-housenumber: 10255
+street: Enos Lane
+housenumber: "10255"
 phone: ""
 opening_hours: ""
 website: ""

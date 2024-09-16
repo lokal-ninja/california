@@ -1,11 +1,11 @@
 id: 956214732
-type: way
+type: node
 latitude: 36.0523
 longitude: -119.02578
-postcode: "93257-5310"
+postcode: 93257-5310
 city: Porterville
-street: "South Jaye Street"
-housenumber: 770
-phone: "+1 442-666-7351"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://stores.aldi.us/ca/porterville/770-s-jaye-st"
+street: South Jaye Street
+housenumber: "770"
+phone: +1 442-666-7351
+opening_hours: Mo-Su 09:00-21:00
+website: https://stores.aldi.us/ca/porterville/770-s-jaye-st

@@ -4,8 +4,8 @@ latitude: 37.86086
 longitude: -122.28973
 postcode: "94702"
 city: Berkeley
-street: "San Pablo Avenue"
-housenumber: 2504
-phone: "+1 (510) 841-8987"
-opening_hours: "Mo-Th, Su 11:00-19:00; Fr, Sa 11:00-20:00"
-website: "https://www.goodvibes.com"
+street: San Pablo Avenue
+housenumber: "2504"
+phone: +1 (510) 841-8987
+opening_hours: Mo-Th, Su 11:00-19:00; Fr, Sa 11:00-20:00
+website: https://www.goodvibes.com

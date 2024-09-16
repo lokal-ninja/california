@@ -4,8 +4,8 @@ latitude: 37.33324
 longitude: -121.89203
 postcode: "95113"
 city: San Jose
-street: "West San Fernando Street"
-housenumber: 161
+street: West San Fernando Street
+housenumber: "161"
 phone: ""
 opening_hours: ""
-website: "https://bayprint.com/"
+website: https://bayprint.com/

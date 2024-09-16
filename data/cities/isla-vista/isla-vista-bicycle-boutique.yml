@@ -1,11 +1,11 @@
 id: 558704263
-type: way
+type: node
 latitude: 34.41336
 longitude: -119.85691
 postcode: "93117"
 city: Isla Vista
-street: "Embarcadero del Mar"
-housenumber: 880
-phone: "+1-805-968-3338"
-opening_hours: "Mo-Fr 08:30-17:30; Sa-Su 09:00-17:30"
-website: "http://www.islavistabicycles.com"
+street: Embarcadero del Mar
+housenumber: "880"
+phone: +1-805-968-3338
+opening_hours: Mo-Fr 08:30-17:30; Sa-Su 09:00-17:30
+website: http://www.islavistabicycles.com

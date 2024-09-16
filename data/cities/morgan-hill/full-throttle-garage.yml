@@ -1,11 +1,11 @@
 id: 306952406
-type: way
+type: node
 latitude: 37.11932
 longitude: -121.64506
 postcode: "95037"
 city: Morgan Hill
-street: "Church Street"
-housenumber: 16485
+street: Church Street
+housenumber: "16485"
 phone: ""
 opening_hours: ""
 website: ""

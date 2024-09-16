@@ -4,8 +4,8 @@ latitude: 32.62648
 longitude: -117.0756
 postcode: "91910"
 city: Chula Vista
-street: "3rd Avenue"
-housenumber: 720
-phone: "+1 619-498-5160"
+street: 3rd Avenue
+housenumber: "720"
+phone: +1 619-498-5160
 opening_hours: ""
-website: "https://local.albertsons.com/ca/chula-vista/720-3rd-ave.html"
+website: https://local.albertsons.com/ca/chula-vista/720-3rd-ave.html

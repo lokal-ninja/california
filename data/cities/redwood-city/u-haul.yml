@@ -1,11 +1,11 @@
 id: 240594604
-type: way
+type: node
 latitude: 37.47534
 longitude: -122.22131
 postcode: "94063"
 city: Redwood City
-street: "El Camino Real"
-housenumber: 2200
-phone: "(650) 365-6233"
+street: El Camino Real
+housenumber: "2200"
+phone: (650) 365-6233
 opening_hours: ""
-website: "https://uhaul.com/Locations/Rentals-near-Redwood-City-CA-94063/708061"
+website: https://uhaul.com/Locations/Rentals-near-Redwood-City-CA-94063/708061

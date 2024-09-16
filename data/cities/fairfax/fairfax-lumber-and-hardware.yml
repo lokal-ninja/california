@@ -2,10 +2,10 @@ id: 1937575286
 type: node
 latitude: 37.98824
 longitude: -122.59136
-postcode: "94930-1623"
+postcode: 94930-1623
 city: Fairfax
-street: "Broadway"
-housenumber: 109
-phone: "+1 415-453-4410"
-opening_hours: "Mo-Fr 07:30-18:00; Sa,Su 08:30-17:00"
-website: "https://www.fairfaxlumber.com/"
+street: Broadway
+housenumber: "109"
+phone: +1 415-453-4410
+opening_hours: Mo-Fr 07:30-18:00; Sa,Su 08:30-17:00
+website: https://www.fairfaxlumber.com/

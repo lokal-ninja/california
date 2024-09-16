@@ -1,11 +1,11 @@
 id: 220970898
-type: way
+type: node
 latitude: 33.62648
 longitude: -117.94806
 postcode: "92663"
 city: Newport Beach
-street: "Pacific Coast Highway"
-housenumber: 6100
+street: Pacific Coast Highway
+housenumber: "6100"
 phone: ""
 opening_hours: ""
-website: "http://southcoastarmynavy.com/"
+website: http://southcoastarmynavy.com/

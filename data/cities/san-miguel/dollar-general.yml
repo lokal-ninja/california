@@ -1,11 +1,11 @@
 id: 719031300
-type: way
+type: node
 latitude: 35.74698
 longitude: -120.6994
 postcode: "93451"
 city: San Miguel
-street: "K Street"
-housenumber: 972
+street: K Street
+housenumber: "972"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ca/san-miguel/17422"
+website: https://www.dollargeneral.com/store-directory/ca/san-miguel/17422

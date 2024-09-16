@@ -4,8 +4,8 @@ latitude: 35.27919
 longitude: -120.66316
 postcode: "93401"
 city: San Luis Obispo
-street: "Garden Street"
-housenumber: 1112
+street: Garden Street
+housenumber: "1112"
 phone: ""
 opening_hours: ""
-website: "http://salon62.com/"
+website: http://salon62.com/

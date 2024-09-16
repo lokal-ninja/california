@@ -1,11 +1,11 @@
 id: 403739164
-type: way
+type: node
 latitude: 38.67911
 longitude: -121.3216
 postcode: "95621"
 city: Citrus Heights
-street: "Greenback Lane"
-housenumber: 6140
+street: Greenback Lane
+housenumber: "6140"
 phone: ""
 opening_hours: ""
 website: ""

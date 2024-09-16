@@ -4,8 +4,8 @@ latitude: 37.7926
 longitude: -122.43278
 postcode: "94115"
 city: San Francisco
-street: "Webster Street"
-housenumber: 2398
-phone: "+1 415 3466849"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 10:00-20:00; Su 10:00-18:00"
-website: "https://www.alesunlimited.com/"
+street: Webster Street
+housenumber: "2398"
+phone: +1 415 3466849
+opening_hours: Mo-Fr 09:00-20:00; Sa 10:00-20:00; Su 10:00-18:00
+website: https://www.alesunlimited.com/

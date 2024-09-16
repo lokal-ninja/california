@@ -1,11 +1,11 @@
 id: 444490332
-type: way
+type: node
 latitude: 33.94268
 longitude: -117.28928
 postcode: "92507"
 city: Riverside
-street: "Valley Springs Parkway"
-housenumber: 2550
-phone: "+1 951-543-9408"
+street: Valley Springs Parkway
+housenumber: "2550"
+phone: +1 951-543-9408
 opening_hours: ""
-website: "https://stores.partycity.com/us/ca/riverside/party-store-pc750.html"
+website: https://stores.partycity.com/us/ca/riverside/party-store-pc750.html

@@ -1,11 +1,11 @@
 id: 253280941
-type: way
+type: node
 latitude: 40.58453
 longitude: -124.14524
 postcode: "95540"
 city: Fortuna
-street: "South Fortuna Boulevard"
-housenumber: 701
-phone: "+1 707-725-5104"
-opening_hours: "PH,Mo-Su 05:00-01:00"
-website: "https://local.safeway.com/safeway/ca/fortuna/701-s-fortuna-blvd.html"
+street: South Fortuna Boulevard
+housenumber: "701"
+phone: +1 707-725-5104
+opening_hours: PH,Mo-Su 05:00-01:00
+website: https://local.safeway.com/safeway/ca/fortuna/701-s-fortuna-blvd.html

@@ -1,11 +1,11 @@
 id: 133125902
-type: way
+type: node
 latitude: 34.93505
 longitude: -120.43474
 postcode: "93454"
 city: Santa Maria
-street: "South Broadway"
-housenumber: 1482
+street: South Broadway
+housenumber: "1482"
 phone: ""
 opening_hours: ""
 website: ""

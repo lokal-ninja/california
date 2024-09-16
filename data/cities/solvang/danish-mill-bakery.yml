@@ -1,11 +1,11 @@
 id: 1015404791
-type: way
+type: node
 latitude: 34.59435
 longitude: -120.1394
 postcode: "93463"
 city: Solvang
-street: "Copenhagen Drive"
-housenumber: 1682
+street: Copenhagen Drive
+housenumber: "1682"
 phone: ""
 opening_hours: ""
 website: ""

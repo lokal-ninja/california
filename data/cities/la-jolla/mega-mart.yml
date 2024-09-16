@@ -1,11 +1,11 @@
 id: 31818272
-type: way
+type: node
 latitude: 32.85076
 longitude: -117.25371
 postcode: "92037"
 city: La Jolla
-street: "Torrey Pines Road"
-housenumber: 2204
+street: Torrey Pines Road
+housenumber: "2204"
 phone: ""
 opening_hours: ""
 website: ""

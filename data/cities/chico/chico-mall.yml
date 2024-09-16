@@ -1,11 +1,11 @@
 id: 85226697
-type: way
+type: node
 latitude: 39.72855
 longitude: -121.80776
 postcode: "95928"
 city: Chico
-street: "East 20th Street"
-housenumber: 1950
+street: East 20th Street
+housenumber: "1950"
 phone: ""
 opening_hours: ""
-website: "https://www.shopchicomarketplace.com/"
+website: https://www.shopchicomarketplace.com/

@@ -1,11 +1,11 @@
 id: 31808751
-type: way
+type: node
 latitude: 32.71167
 longitude: -117.15334
 postcode: "92101"
 city: San Diego
-street: "Market Street"
-housenumber: 1202
+street: Market Street
+housenumber: "1202"
 phone: ""
 opening_hours: ""
-website: "https://www.sdrs.com/"
+website: https://www.sdrs.com/

@@ -1,11 +1,11 @@
 id: 142606469
-type: way
+type: node
 latitude: 33.91316
 longitude: -117.86831
 postcode: "92821"
 city: Brea
-street: "East Imperial Highway"
-housenumber: 2455
-phone: "+1 714-990-8493"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/east-brea/ca/brea/92821/1072"
+street: East Imperial Highway
+housenumber: "2455"
+phone: +1 714-990-8493
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/east-brea/ca/brea/92821/1072

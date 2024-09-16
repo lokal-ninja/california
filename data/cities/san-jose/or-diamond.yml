@@ -1,11 +1,11 @@
 id: 230610689
-type: way
+type: node
 latitude: 37.33288
 longitude: -121.91416
 postcode: "95126"
 city: San Jose
-street: "The Alameda"
-housenumber: 1401
+street: The Alameda
+housenumber: "1401"
 phone: ""
 opening_hours: ""
 website: ""

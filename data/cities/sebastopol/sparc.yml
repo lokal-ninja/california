@@ -1,11 +1,11 @@
 id: 691908329
-type: way
+type: node
 latitude: 38.40254
 longitude: -122.82039
 postcode: ""
 city: Sebastopol
-street: "Sebastopol Avenue"
-housenumber: 6771
-phone: "+1-707-823-4206"
-opening_hours: "Mo-Su 11:00-19:00"
+street: Sebastopol Avenue
+housenumber: "6771"
+phone: +1-707-823-4206
+opening_hours: Mo-Su 11:00-19:00
 website: ""

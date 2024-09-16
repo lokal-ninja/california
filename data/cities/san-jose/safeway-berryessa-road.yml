@@ -4,8 +4,8 @@ latitude: 37.37045
 longitude: -121.8816
 postcode: "95133"
 city: San Jose
-street: "Berryessa Road"
-housenumber: 2558
-phone: "+1 408-346-6130"
-opening_hours: "Mo-Su 05:00-23:00"
-website: "https://local.safeway.com/safeway/ca/san-jose/1455-berryessa-rd.html"
+street: Berryessa Road
+housenumber: "2558"
+phone: +1 408-346-6130
+opening_hours: Mo-Su 05:00-23:00
+website: https://local.safeway.com/safeway/ca/san-jose/1455-berryessa-rd.html

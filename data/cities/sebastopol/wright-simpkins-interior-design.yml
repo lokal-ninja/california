@@ -1,11 +1,11 @@
 id: 351103465
-type: way
+type: node
 latitude: 38.37485
 longitude: -122.78992
 postcode: "95472"
 city: Sebastopol
-street: "Old Gravenstein Highway"
-housenumber: 2833
-phone: "(707) 829-9177"
+street: Old Gravenstein Highway
+housenumber: "2833"
+phone: (707) 829-9177
 opening_hours: ""
-website: "http://www.wright-simpkins.com"
+website: http://www.wright-simpkins.com

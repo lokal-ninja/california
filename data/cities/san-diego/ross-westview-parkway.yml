@@ -4,8 +4,8 @@ latitude: 32.91464
 longitude: -117.12004
 postcode: "92126"
 city: San Diego
-street: "Westview Parkway"
-housenumber: 10643
-phone: "+1 858-271-6964"
-opening_hours: "09:00-23:00"
+street: Westview Parkway
+housenumber: "10643"
+phone: +1 858-271-6964
+opening_hours: 09:00-23:00
 website: ""

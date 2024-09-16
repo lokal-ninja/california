@@ -1,11 +1,11 @@
 id: 386859270
-type: way
+type: node
 latitude: 37.70345
 longitude: -121.88272
 postcode: "94568"
 city: Dublin
-street: "Dublin Boulevard"
-housenumber: 4820
-phone: "+1 925-829-7041"
+street: Dublin Boulevard
+housenumber: "4820"
+phone: +1 925-829-7041
 opening_hours: ""
-website: "https://stores.bestbuy.com/ca/dublin/4820-dublin-blvd-134.html"
+website: https://stores.bestbuy.com/ca/dublin/4820-dublin-blvd-134.html

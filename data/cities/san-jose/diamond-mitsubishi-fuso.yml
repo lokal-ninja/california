@@ -1,11 +1,11 @@
 id: 229819745
-type: way
+type: node
 latitude: 37.36493
 longitude: -121.90917
 postcode: "95112"
 city: San Jose
-street: "North 4th Street"
-housenumber: 1505
-phone: "+1 408-263-7300"
+street: North 4th Street
+housenumber: "1505"
+phone: +1 408-263-7300
 opening_hours: ""
 website: ""

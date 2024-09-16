@@ -1,11 +1,11 @@
 id: 342775439
-type: way
+type: node
 latitude: 33.79604
 longitude: -118.3376
 postcode: "90505"
 city: Torrance
-street: "Pacific Coast Highway Torrance"
-housenumber: 2909
+street: Pacific Coast Highway Torrance
+housenumber: "2909"
 phone: ""
 opening_hours: ""
-website: "https://www.torrancetoyota.com/"
+website: https://www.torrancetoyota.com/

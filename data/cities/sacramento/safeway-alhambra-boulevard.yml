@@ -1,11 +1,11 @@
 id: 198423273
-type: way
+type: node
 latitude: 38.572
 longitude: -121.46476
 postcode: "95816"
 city: Sacramento
-street: "Alhambra Boulevard"
-housenumber: 1025
-phone: "+1 916-456-0852"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/ca/sacramento/1025-alhambra-blvd.html"
+street: Alhambra Boulevard
+housenumber: "1025"
+phone: +1 916-456-0852
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/ca/sacramento/1025-alhambra-blvd.html

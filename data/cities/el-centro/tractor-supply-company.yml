@@ -1,11 +1,11 @@
 id: 597533460
-type: way
+type: node
 latitude: 32.8121
 longitude: -115.57606
 postcode: "92243"
 city: El Centro
-street: "Bradshaw Drive"
-housenumber: 1850
-phone: "+1 760-312-9734"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Bradshaw Drive
+housenumber: "1850"
+phone: +1 760-312-9734
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

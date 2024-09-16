@@ -2,10 +2,10 @@ id: 8663612432
 type: node
 latitude: 33.60955
 longitude: -117.72342
-postcode: "92637-3435"
+postcode: 92637-3435
 city: Laguna Woods
-street: "El Toro Road"
-housenumber: 24270
-phone: "+1 949-273-0341"
-opening_hours: "Mo, We, Fr-Su 09:00-21:00; Tu, Th 08:30-21:00"
-website: "https://stores.aldi.us/ca/laguna-woods/24270-el-toro-rd"
+street: El Toro Road
+housenumber: "24270"
+phone: +1 949-273-0341
+opening_hours: Mo, We, Fr-Su 09:00-21:00; Tu, Th 08:30-21:00
+website: https://stores.aldi.us/ca/laguna-woods/24270-el-toro-rd

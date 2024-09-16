@@ -1,11 +1,11 @@
 id: 311711042
-type: way
+type: node
 latitude: 37.30515
 longitude: -120.49052
 postcode: "95340"
 city: Merced
-street: "West 18th Street"
-housenumber: 1006
+street: West 18th Street
+housenumber: "1006"
 phone: ""
 opening_hours: ""
 website: ""

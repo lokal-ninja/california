@@ -1,11 +1,11 @@
 id: 239269692
-type: way
+type: node
 latitude: 38.45174
 longitude: -122.75311
 postcode: "95401"
 city: Santa Rosa
-street: "Marlow Road"
-housenumber: 1799
-phone: "+1 707-528-3062"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/ca/santa-rosa/1799-marlow-rd.html"
+street: Marlow Road
+housenumber: "1799"
+phone: +1 707-528-3062
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/ca/santa-rosa/1799-marlow-rd.html

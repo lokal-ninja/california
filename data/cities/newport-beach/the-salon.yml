@@ -4,8 +4,8 @@ latitude: 33.61543
 longitude: -117.87772
 postcode: "92660"
 city: Newport Beach
-street: "Newport Center Drive"
-housenumber: 1165
-phone: "+1-949-721-1666"
-opening_hours: "Mo 09:00-20:00; Tu-Fr 09:00-21:00; Sa 08:00-20:00; Su 10:00-18:00"
-website: "https://www.thesalonnewportbeach.com/"
+street: Newport Center Drive
+housenumber: "1165"
+phone: +1-949-721-1666
+opening_hours: Mo 09:00-20:00; Tu-Fr 09:00-21:00; Sa 08:00-20:00; Su 10:00-18:00
+website: https://www.thesalonnewportbeach.com/

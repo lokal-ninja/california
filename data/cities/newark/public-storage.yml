@@ -1,11 +1,11 @@
 id: 1193246490
-type: way
+type: node
 latitude: 37.53486
 longitude: -122.01214
 postcode: ""
 city: Newark
-street: "Cedar Boulevard"
-housenumber: 38290
+street: Cedar Boulevard
+housenumber: "38290"
 phone: ""
 opening_hours: ""
 website: ""

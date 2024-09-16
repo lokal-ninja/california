@@ -1,11 +1,11 @@
 id: 253008229
-type: way
+type: node
 latitude: 39.23956
 longitude: -120.03443
 postcode: "96143"
 city: Kings Beach
-street: "North Lake Boulevard"
-housenumber: 7815
-phone: "+1 530-546-0170"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/ca/kings-beach/7815-n-lake-blvd.html"
+street: North Lake Boulevard
+housenumber: "7815"
+phone: +1 530-546-0170
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/ca/kings-beach/7815-n-lake-blvd.html

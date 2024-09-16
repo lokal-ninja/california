@@ -1,11 +1,11 @@
 id: 430964714
-type: way
+type: node
 latitude: 34.27927
 longitude: -118.45422
 postcode: "91340"
 city: San Fernando
-street: "Laurel Canyon Boulevard"
-housenumber: 11527
-phone: "+1-818-361-1205"
-opening_hours: "Mo-Fr 08:30-18:00, Sa 08:30-15:00"
+street: Laurel Canyon Boulevard
+housenumber: "11527"
+phone: +1-818-361-1205
+opening_hours: Mo-Fr 08:30-18:00, Sa 08:30-15:00
 website: ""

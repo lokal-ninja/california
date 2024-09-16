@@ -1,11 +1,11 @@
 id: 993611258
-type: way
+type: node
 latitude: 36.60373
 longitude: -121.8619
 postcode: "93940"
 city: Monterey
-street: "Del Monte Avenue"
-housenumber: 2338
+street: Del Monte Avenue
+housenumber: "2338"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/CA/Monterey/2338-Del-Monte-Ave"
+website: https://www.speedway.com/locations/CA/Monterey/2338-Del-Monte-Ave

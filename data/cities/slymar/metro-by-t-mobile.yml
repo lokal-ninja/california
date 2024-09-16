@@ -1,11 +1,11 @@
 id: 1136665756
-type: way
+type: node
 latitude: 34.29862
 longitude: -118.45925
 postcode: "91342"
 city: Slymar
-street: "San Fernando Road"
-housenumber: 12637
+street: San Fernando Road
+housenumber: "12637"
 phone: ""
 opening_hours: ""
-website: "https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-sylmar-ca-10230173/"
+website: https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-sylmar-ca-10230173/

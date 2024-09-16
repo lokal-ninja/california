@@ -1,11 +1,11 @@
 id: 125008653
-type: way
+type: node
 latitude: 37.60212
 longitude: -122.39257
-postcode: "94030-2616"
+postcode: 94030-2616
 city: Millbrae
-street: "El Camino Real"
-housenumber: 401
-phone: "+1 650-697-1441"
+street: El Camino Real
+housenumber: "401"
+phone: +1 650-697-1441
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/millbrae/401-el-camino-real-18858"
+website: https://www.7-eleven.com/locations/ca/millbrae/401-el-camino-real-18858

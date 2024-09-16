@@ -1,11 +1,11 @@
 id: 31819353
-type: way
+type: node
 latitude: 32.87799
 longitude: -117.17812
 postcode: "92121"
 city: San Diego
-street: "Miramar Road"
-housenumber: 6310
-phone: "+1 619-239-2433"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-17:00"
-website: "https://chefstoys.com/locations/restaurant-supply-equipment-san-diego"
+street: Miramar Road
+housenumber: "6310"
+phone: +1 619-239-2433
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-17:00
+website: https://chefstoys.com/locations/restaurant-supply-equipment-san-diego

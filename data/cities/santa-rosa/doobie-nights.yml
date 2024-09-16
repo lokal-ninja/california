@@ -1,11 +1,11 @@
 id: 783763993
-type: way
+type: node
 latitude: 38.40457
 longitude: -122.71428
 postcode: "95407"
 city: Santa Rosa
-street: "Santa Rosa Avenue"
-housenumber: 3011
+street: Santa Rosa Avenue
+housenumber: "3011"
 phone: ""
-opening_hours: "Mo-Su 10:00-19:00"
-website: "https://doobienights.com/"
+opening_hours: Mo-Su 10:00-19:00
+website: https://doobienights.com/

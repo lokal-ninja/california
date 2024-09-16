@@ -1,11 +1,11 @@
 id: 235933074
-type: way
+type: node
 latitude: 34.02874
 longitude: -117.83122
 postcode: "91789"
 city: City of Industry
-street: "Valley Boulevard"
-housenumber: 21818
-phone: "+1 909-594-6458"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/ca/cityofindustry-197.shtml"
+street: Valley Boulevard
+housenumber: "21818"
+phone: +1 909-594-6458
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/ca/cityofindustry-197.shtml

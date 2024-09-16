@@ -1,11 +1,11 @@
 id: 677868888
-type: way
+type: node
 latitude: 36.98224
 longitude: -122.02741
 postcode: "95060"
 city: Santa Cruz
-street: "River Street"
-housenumber: 490
-phone: "+1 831-429-2780"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ca/santa-cruz-store0073.html"
+street: River Street
+housenumber: "490"
+phone: +1 831-429-2780
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ca/santa-cruz-store0073.html

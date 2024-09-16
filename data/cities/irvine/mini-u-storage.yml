@@ -1,11 +1,11 @@
 id: 60118531
-type: way
+type: node
 latitude: 33.63827
 longitude: -117.71951
 postcode: "92618"
 city: Irvine
-street: "Burroughs"
-housenumber: 1
+street: Burroughs
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

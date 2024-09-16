@@ -1,11 +1,11 @@
 id: 1015400832
-type: way
+type: node
 latitude: 34.63605
 longitude: -120.11488
 postcode: "93463"
 city: Ballard
-street: "Baseline Avenue"
-housenumber: 2449
+street: Baseline Avenue
+housenumber: "2449"
 phone: ""
 opening_hours: ""
 website: ""

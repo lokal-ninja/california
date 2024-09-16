@@ -4,8 +4,8 @@ latitude: 37.22857
 longitude: -121.88522
 postcode: "95120"
 city: San Jose
-street: "Redmond Avenue"
-housenumber: 1341
+street: Redmond Avenue
+housenumber: "1341"
 phone: ""
 opening_hours: ""
-website: "https://callakins.com/almaden-valley/"
+website: https://callakins.com/almaden-valley/

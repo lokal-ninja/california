@@ -1,11 +1,11 @@
 id: 228751933
-type: way
+type: node
 latitude: 33.67306
 longitude: -117.95556
 postcode: "92646"
 city: Huntington Beach
-street: "Adams Avenue"
-housenumber: 9811
-phone: "+1 714-962-8917"
-opening_hours: "Mo-Th 09:00-22:00, Fr 09:00-23:00, Sa 08:00-23:00, Su 09:00-21:00"
-website: "https://www.kohls.com/stores/ca/huntingtonbeach-1365.shtml"
+street: Adams Avenue
+housenumber: "9811"
+phone: +1 714-962-8917
+opening_hours: Mo-Th 09:00-22:00, Fr 09:00-23:00, Sa 08:00-23:00, Su 09:00-21:00
+website: https://www.kohls.com/stores/ca/huntingtonbeach-1365.shtml

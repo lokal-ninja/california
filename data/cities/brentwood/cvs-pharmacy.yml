@@ -1,11 +1,11 @@
 id: 813728896
-type: way
+type: node
 latitude: 37.92652
 longitude: -121.72144
 postcode: "94513"
 city: Brentwood
-street: "Balfour Road"
-housenumber: 3171
+street: Balfour Road
+housenumber: "3171"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/brentwood-ca-pharmacies/3171-balfour-rd-brentwood-ca-94513/storeid=4283"
+website: https://www.cvs.com/store-locator/brentwood-ca-pharmacies/3171-balfour-rd-brentwood-ca-94513/storeid=4283

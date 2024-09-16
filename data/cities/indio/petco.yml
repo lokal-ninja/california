@@ -1,11 +1,11 @@
 id: 150980446
-type: way
+type: node
 latitude: 33.7388
 longitude: -116.2135
 postcode: "92203"
 city: Indio
-street: "Jackson Street"
-housenumber: 42700
-phone: "+1 760-347-7326"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ca/indio/pet-supplies-indio-ca-1172.html"
+street: Jackson Street
+housenumber: "42700"
+phone: +1 760-347-7326
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/ca/indio/pet-supplies-indio-ca-1172.html

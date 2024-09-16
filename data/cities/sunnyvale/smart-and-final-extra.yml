@@ -4,8 +4,8 @@ latitude: 37.35341
 longitude: -122.05123
 postcode: "94087"
 city: Sunnyvale
-street: "South Mary Avenue"
-housenumber: 1265
-phone: "+1 408 245 4423"
-opening_hours: "Mo-Su 07:00-21:00"
+street: South Mary Avenue
+housenumber: "1265"
+phone: +1 408 245 4423
+opening_hours: Mo-Su 07:00-21:00
 website: ""

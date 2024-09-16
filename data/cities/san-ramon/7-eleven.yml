@@ -1,11 +1,11 @@
 id: 230398940
-type: way
+type: node
 latitude: 37.77379
 longitude: -121.97435
-postcode: "94583-1604"
+postcode: 94583-1604
 city: San Ramon
-street: "San Ramon Valley"
-housenumber: 2500
-phone: "+1 925-820-5677"
+street: San Ramon Valley
+housenumber: "2500"
+phone: +1 925-820-5677
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/san-ramon/2500-san-ramon-valley-25082"
+website: https://www.7-eleven.com/locations/ca/san-ramon/2500-san-ramon-valley-25082

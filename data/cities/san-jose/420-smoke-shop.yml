@@ -1,11 +1,11 @@
 id: 355059003
-type: way
+type: node
 latitude: 37.34027
 longitude: -121.88159
 postcode: "95112"
 city: San Jose
-street: "East Santa Clara Street"
-housenumber: 420
+street: East Santa Clara Street
+housenumber: "420"
 phone: ""
 opening_hours: ""
-website: "https://www.vaporizerssanjose.com/"
+website: https://www.vaporizerssanjose.com/

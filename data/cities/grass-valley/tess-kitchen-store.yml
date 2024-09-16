@@ -1,11 +1,11 @@
 id: 911104457
-type: way
+type: node
 latitude: 39.21848
 longitude: -121.06288
 postcode: "95945"
 city: Grass Valley
-street: "Mill Street"
-housenumber: 115
-phone: "+1 530-273-6997"
-opening_hours: "Mo-Sa 10:00-18:00; Su 11:00-16:00; PH closed"
-website: "https://www.tesskitchenstore.com/"
+street: Mill Street
+housenumber: "115"
+phone: +1 530-273-6997
+opening_hours: Mo-Sa 10:00-18:00; Su 11:00-16:00; PH closed
+website: https://www.tesskitchenstore.com/

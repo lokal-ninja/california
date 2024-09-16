@@ -1,11 +1,11 @@
 id: 620226044
-type: way
+type: node
 latitude: 40.41167
 longitude: -120.6397
 postcode: "96130"
 city: Susanville
-street: "Robs"
-housenumber: 142
-phone: "+1 530 257 1222"
-opening_hours: "Mo-Sa 08:00-21:00, Su 09:00-18:00"
-website: "https://www.tractorsupply.com/tsc/store_SUSANVILLE-CA-96130_1905"
+street: Robs
+housenumber: "142"
+phone: +1 530 257 1222
+opening_hours: Mo-Sa 08:00-21:00, Su 09:00-18:00
+website: https://www.tractorsupply.com/tsc/store_SUSANVILLE-CA-96130_1905

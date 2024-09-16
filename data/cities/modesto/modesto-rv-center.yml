@@ -1,11 +1,11 @@
 id: 1301877772
-type: way
+type: node
 latitude: 37.69676
 longitude: -121.0695
 postcode: ""
 city: Modesto
-street: "Salida Boulevard"
-housenumber: 4000
-phone: "+1-209-606-9176"
+street: Salida Boulevard
+housenumber: "4000"
+phone: +1-209-606-9176
 opening_hours: ""
 website: ""

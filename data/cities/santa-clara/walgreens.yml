@@ -1,11 +1,11 @@
 id: 385445780
-type: way
+type: node
 latitude: 37.35215
 longitude: -121.96171
 postcode: "95050"
 city: Santa Clara
-street: "El Camino Real"
-housenumber: 2140
+street: El Camino Real
+housenumber: "2140"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-2140+el+camino+real-santa+clara-ca-95050/id=15246"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-2140+el+camino+real-santa+clara-ca-95050/id=15246

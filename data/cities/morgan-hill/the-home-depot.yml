@@ -1,11 +1,11 @@
 id: 252243420
-type: way
+type: node
 latitude: 37.12876
 longitude: -121.63512
 postcode: "95037"
 city: Morgan Hill
-street: "East Dunne Avenue"
-housenumber: 860
-phone: "+1 408-779-9755"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/morgan-hill/ca/morgan-hill/95037/8572"
+street: East Dunne Avenue
+housenumber: "860"
+phone: +1 408-779-9755
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/morgan-hill/ca/morgan-hill/95037/8572

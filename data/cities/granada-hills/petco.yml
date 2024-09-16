@@ -1,11 +1,11 @@
 id: 1077619234
-type: way
+type: node
 latitude: 34.26701
 longitude: -118.52473
 postcode: "91344"
 city: Granada Hills
-street: "Zelzah Avenue"
-housenumber: 10819
-phone: "+1 818-368-7386"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ca/granadahills/pet-supplies-granadahills-ca-1189.html"
+street: Zelzah Avenue
+housenumber: "10819"
+phone: +1 818-368-7386
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/ca/granadahills/pet-supplies-granadahills-ca-1189.html

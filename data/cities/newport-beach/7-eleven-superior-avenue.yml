@@ -1,11 +1,11 @@
 id: 553418020
-type: way
+type: node
 latitude: 33.62866
 longitude: -117.93165
 postcode: "92663"
 city: Newport Beach
-street: "Superior Avenue"
-housenumber: 1495
-phone: "+1 949-650-4239"
+street: Superior Avenue
+housenumber: "1495"
+phone: +1 949-650-4239
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/newport-beach/1495-superior-25703"
+website: https://www.7-eleven.com/locations/ca/newport-beach/1495-superior-25703

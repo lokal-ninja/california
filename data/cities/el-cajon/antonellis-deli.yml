@@ -1,11 +1,11 @@
 id: 963002923
-type: way
+type: node
 latitude: 32.81498
 longitude: -116.96278
 postcode: "92020"
 city: El Cajon
-street: "North Magnolia Avenue"
-housenumber: 1354
+street: North Magnolia Avenue
+housenumber: "1354"
 phone: "+16194408460"
-opening_hours: "Tu-Fr 07:00-16:00, Sa 08:00-16:00"
-website: "https://antonellisdeli.com/"
+opening_hours: Tu-Fr 07:00-16:00, Sa 08:00-16:00
+website: https://antonellisdeli.com/

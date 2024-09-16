@@ -1,11 +1,11 @@
 id: 407207556
-type: way
+type: node
 latitude: 33.95355
 longitude: -118.29125
 postcode: "90044"
 city: Los Angeles
-street: "South Vermont Avenue"
-housenumber: 9124
+street: South Vermont Avenue
+housenumber: "9124"
 phone: "+13237561532"
 opening_hours: ""
 website: ""

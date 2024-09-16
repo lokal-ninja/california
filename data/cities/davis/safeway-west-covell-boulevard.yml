@@ -1,11 +1,11 @@
 id: 253731412
-type: way
+type: node
 latitude: 38.56172
 longitude: -121.76675
 postcode: "95616"
 city: Davis
-street: "West Covell Boulevard"
-housenumber: 1451
-phone: "+1 530-757-4540"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/ca/davis/1451-w-covell-blvd.html"
+street: West Covell Boulevard
+housenumber: "1451"
+phone: +1 530-757-4540
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/ca/davis/1451-w-covell-blvd.html

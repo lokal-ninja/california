@@ -1,11 +1,11 @@
 id: 133957496
-type: way
+type: node
 latitude: 33.89352
 longitude: -117.77603
 postcode: "92886"
 city: Yorba Linda
-street: "Yorba Linda Boulevard"
-housenumber: 20445
-phone: "+1 714-777-0781"
+street: Yorba Linda Boulevard
+housenumber: "20445"
+phone: +1 714-777-0781
 opening_hours: ""
-website: "https://local.vons.com/ca/yorba-linda/20445-yorba-linda-blvd.html"
+website: https://local.vons.com/ca/yorba-linda/20445-yorba-linda-blvd.html

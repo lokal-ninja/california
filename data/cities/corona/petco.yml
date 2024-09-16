@@ -1,11 +1,11 @@
 id: 1054726467
-type: way
+type: node
 latitude: 33.82624
 longitude: -117.51264
 postcode: "92881"
 city: Corona
-street: "Grand Oaks"
-housenumber: 3485
-phone: "+1 951-808-4765"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ca/corona/pet-supplies-corona-ca-1127.html"
+street: Grand Oaks
+housenumber: "3485"
+phone: +1 951-808-4765
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/ca/corona/pet-supplies-corona-ca-1127.html

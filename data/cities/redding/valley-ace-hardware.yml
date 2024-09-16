@@ -1,11 +1,11 @@
 id: 776150633
-type: way
+type: node
 latitude: 40.56411
 longitude: -122.34599
 postcode: "96002"
 city: Redding
-street: "Hartnell Avenue"
-housenumber: 1350
-phone: "+1 530-222-6461"
-opening_hours: "Mo-Sa 08:00-18:00; Su 08:00-17:00"
-website: "https://www.acehardware.com/store-details/06646"
+street: Hartnell Avenue
+housenumber: "1350"
+phone: +1 530-222-6461
+opening_hours: Mo-Sa 08:00-18:00; Su 08:00-17:00
+website: https://www.acehardware.com/store-details/06646

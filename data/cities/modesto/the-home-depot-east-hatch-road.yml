@@ -1,11 +1,11 @@
 id: 1309434215
-type: way
+type: node
 latitude: 37.61097
 longitude: -120.97106
 postcode: "95351"
 city: Modesto
-street: "East Hatch Road"
-housenumber: 1415
-phone: "+1 209-538-1820"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/ceres/ca/modesto/95351/6947"
+street: East Hatch Road
+housenumber: "1415"
+phone: +1 209-538-1820
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/ceres/ca/modesto/95351/6947

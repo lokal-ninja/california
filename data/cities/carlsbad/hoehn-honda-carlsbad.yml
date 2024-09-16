@@ -1,11 +1,11 @@
 id: 836495563
-type: way
+type: node
 latitude: 33.131
 longitude: -117.32546
 postcode: "92008"
 city: Carlsbad
-street: "Paseo del Norte"
-housenumber: 5454
+street: Paseo del Norte
+housenumber: "5454"
 phone: ""
 opening_hours: ""
 website: ""

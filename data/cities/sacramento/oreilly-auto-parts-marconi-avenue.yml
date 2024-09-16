@@ -1,11 +1,11 @@
 id: 403733532
-type: way
+type: node
 latitude: 38.61717
 longitude: -121.36425
 postcode: "95821"
 city: Sacramento
-street: "Marconi Avenue"
-housenumber: 4300
+street: Marconi Avenue
+housenumber: "4300"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ca/sacramento/autoparts-2587.html"
+website: https://locations.oreillyauto.com/ca/sacramento/autoparts-2587.html

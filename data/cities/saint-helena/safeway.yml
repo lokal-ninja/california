@@ -1,11 +1,11 @@
 id: 239963987
-type: way
+type: node
 latitude: 38.50621
 longitude: -122.46828
 postcode: "94574"
 city: Saint Helena
-street: "Hunt Avenue"
-housenumber: 1026
-phone: "+1 707-968-3620"
-opening_hours: "06:00-24:00"
-website: "https://local.safeway.com/safeway/ca/saint-helena/1026-hunt-ave.html"
+street: Hunt Avenue
+housenumber: "1026"
+phone: +1 707-968-3620
+opening_hours: 06:00-24:00
+website: https://local.safeway.com/safeway/ca/saint-helena/1026-hunt-ave.html

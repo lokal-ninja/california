@@ -4,8 +4,8 @@ latitude: 37.75191
 longitude: -122.42247
 postcode: ""
 city: San Francisco
-street: "24th Street"
-housenumber: 3547
+street: 24th Street
+housenumber: "3547"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

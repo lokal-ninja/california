@@ -4,8 +4,8 @@ latitude: 34.13885
 longitude: -118.13206
 postcode: ""
 city: Pasadena
-street: "South Lake Avenue"
-housenumber: 406
-phone: "626-395-7422"
-opening_hours: "Su 11:00-18:00;Mo-Fr 10:00-9:00;Sa 9:30-9:00"
-website: "https://www.menswearhouse.com/store-locator/2716?address=pasadena"
+street: South Lake Avenue
+housenumber: "406"
+phone: 626-395-7422
+opening_hours: Su 11:00-18:00;Mo-Fr 10:00-9:00;Sa 9:30-9:00
+website: https://www.menswearhouse.com/store-locator/2716?address=pasadena

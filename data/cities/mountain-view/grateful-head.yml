@@ -1,11 +1,11 @@
 id: 304760972
-type: way
+type: node
 latitude: 37.40198
 longitude: -122.10753
 postcode: "94040"
 city: Mountain View
-street: "Showers Drive"
-housenumber: 530
+street: Showers Drive
+housenumber: "530"
 phone: ""
 opening_hours: ""
 website: ""

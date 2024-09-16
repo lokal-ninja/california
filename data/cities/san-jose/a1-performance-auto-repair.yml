@@ -1,11 +1,11 @@
 id: 340605180
-type: way
+type: node
 latitude: 37.3439
 longitude: -121.91229
 postcode: "95110"
 city: San Jose
-street: "Coleman Avenue"
-housenumber: 780
+street: Coleman Avenue
+housenumber: "780"
 phone: ""
 opening_hours: ""
-website: "https://a1performanceeuropeanautorepair.com/"
+website: https://a1performanceeuropeanautorepair.com/

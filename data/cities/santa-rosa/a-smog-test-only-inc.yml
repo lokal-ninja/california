@@ -1,11 +1,11 @@
 id: 693686546
-type: way
+type: node
 latitude: 38.42518
 longitude: -122.71332
 postcode: ""
 city: Santa Rosa
-street: "Santa Rosa Avenue"
-housenumber: 1300
+street: Santa Rosa Avenue
+housenumber: "1300"
 phone: ""
 opening_hours: ""
 website: ""

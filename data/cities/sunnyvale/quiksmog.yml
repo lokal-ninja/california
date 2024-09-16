@@ -4,8 +4,8 @@ latitude: 37.37426
 longitude: -122.05841
 postcode: "94087"
 city: Sunnyvale
-street: "West El Camino Real"
-housenumber: 1240
-phone: "408-773-1878"
-opening_hours: "Mo-Sa 08:00-19:00, Su 11:30-19:00"
-website: "https://smogtestsunnyvale.com/"
+street: West El Camino Real
+housenumber: "1240"
+phone: 408-773-1878
+opening_hours: Mo-Sa 08:00-19:00, Su 11:30-19:00
+website: https://smogtestsunnyvale.com/

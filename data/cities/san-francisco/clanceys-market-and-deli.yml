@@ -4,8 +4,8 @@ latitude: 37.76266
 longitude: -122.50053
 postcode: "94122"
 city: San Francisco
-street: "Irving Street"
-housenumber: 3960
+street: Irving Street
+housenumber: "3960"
 phone: ""
-opening_hours: "Tu-Sa 10:00-21:00; Su 10:00-20:00"
+opening_hours: Tu-Sa 10:00-21:00; Su 10:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 894148070
-type: way
+type: node
 latitude: 35.36583
 longitude: -120.8504
 postcode: ""
 city: Morro Bay
-street: "Morro Bay Boulevard"
-housenumber: 280
-phone: "+1 805-772-9262"
-opening_hours: "Mo-Sa 09:00-17:00; Su 11-16:00"
-website: "http://www.morrobaybarbershop.com"
+street: Morro Bay Boulevard
+housenumber: "280"
+phone: +1 805-772-9262
+opening_hours: Mo-Sa 09:00-17:00; Su 11-16:00
+website: http://www.morrobaybarbershop.com

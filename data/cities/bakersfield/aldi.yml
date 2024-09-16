@@ -1,11 +1,11 @@
 id: 59731048
-type: way
+type: node
 latitude: 35.35604
 longitude: -119.05891
-postcode: "93309-2671"
+postcode: 93309-2671
 city: Bakersfield
-street: "Stockdale Highway"
-housenumber: 5190
-phone: "+1 661-335-6139"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://stores.aldi.us/ca/bakersfield/5190-stockdale-hwy"
+street: Stockdale Highway
+housenumber: "5190"
+phone: +1 661-335-6139
+opening_hours: Mo-Su 09:00-21:00
+website: https://stores.aldi.us/ca/bakersfield/5190-stockdale-hwy

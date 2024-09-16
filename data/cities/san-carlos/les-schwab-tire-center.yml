@@ -1,11 +1,11 @@
 id: 99979817
-type: way
+type: node
 latitude: 37.51049
 longitude: -122.26549
 postcode: "94070"
 city: San Carlos
-street: "El Camino Real"
-housenumber: 260
+street: El Camino Real
+housenumber: "260"
 phone: ""
 opening_hours: ""
 website: ""

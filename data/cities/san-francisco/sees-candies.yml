@@ -4,8 +4,8 @@ latitude: 37.79009
 longitude: -122.40069
 postcode: "94104"
 city: San Francisco
-street: "Market Street"
-housenumber: 542
-phone: "+1-415-362-1593"
-opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://chocolateshops.sees.com/ca/sanfrancisco/chocolate_shops_san-francisco_ca_2ca047.html"
+street: Market Street
+housenumber: "542"
+phone: +1-415-362-1593
+opening_hours: Mo-Sa 10:00-19:00; Su 11:00-18:00
+website: https://chocolateshops.sees.com/ca/sanfrancisco/chocolate_shops_san-francisco_ca_2ca047.html

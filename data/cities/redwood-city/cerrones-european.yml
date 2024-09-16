@@ -1,11 +1,11 @@
 id: 240593344
-type: way
+type: node
 latitude: 37.47503
 longitude: -122.22065
 postcode: "94063"
 city: Redwood City
-street: "El Camino Real"
-housenumber: 2306
-phone: "(650) 365-4145"
+street: El Camino Real
+housenumber: "2306"
+phone: (650) 365-4145
 opening_hours: ""
-website: "https://www.cerroneseuropean.com/"
+website: https://www.cerroneseuropean.com/

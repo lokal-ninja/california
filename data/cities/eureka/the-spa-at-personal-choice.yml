@@ -1,11 +1,11 @@
 id: 238365963
-type: way
+type: node
 latitude: 40.80478
 longitude: -124.16577
 postcode: "95501"
 city: Eureka
-street: "G Street"
-housenumber: 130
-phone: "707-445-2041"
+street: G Street
+housenumber: "130"
+phone: 707-445-2041
 opening_hours: ""
-website: "http://www.thespaatpersonalchoice.com/"
+website: http://www.thespaatpersonalchoice.com/

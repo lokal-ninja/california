@@ -1,11 +1,11 @@
 id: 39041637
-type: way
+type: node
 latitude: 37.42551
 longitude: -121.88833
 postcode: "95035"
 city: Milpitas
-street: "Yosemite Drive"
-housenumber: 1001
+street: Yosemite Drive
+housenumber: "1001"
 phone: ""
 opening_hours: ""
 website: ""

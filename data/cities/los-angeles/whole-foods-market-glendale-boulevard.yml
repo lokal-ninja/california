@@ -1,11 +1,11 @@
 id: 429013525
-type: way
+type: node
 latitude: 34.10328
 longitude: -118.2583
 postcode: "90039"
 city: Los Angeles
-street: "Glendale Boulevard"
-housenumber: 2520
-phone: "+1 323-378-3891"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/silverlake"
+street: Glendale Boulevard
+housenumber: "2520"
+phone: +1 323-378-3891
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.wholefoodsmarket.com/stores/silverlake

@@ -1,11 +1,11 @@
 id: 119402587
-type: way
+type: node
 latitude: 33.12796
 longitude: -117.0864
 postcode: "92025"
 city: Escondido
-street: "North Broadway"
-housenumber: 635
+street: North Broadway
+housenumber: "635"
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.staterbros.com/"
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.staterbros.com/

@@ -1,11 +1,11 @@
 id: 765933979
-type: way
+type: node
 latitude: 36.98059
 longitude: -120.07486
 postcode: "93638"
 city: Madera
-street: "Country Club Drive"
-housenumber: 1520
+street: Country Club Drive
+housenumber: "1520"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ca/madera/1520-country-club-dr.html"
+website: https://www.autozone.com/locations/ca/madera/1520-country-club-dr.html

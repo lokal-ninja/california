@@ -1,11 +1,11 @@
 id: 961180884
-type: way
+type: node
 latitude: 32.85854
 longitude: -116.92149
 postcode: "92040"
 city: Lakeside
-street: "Maine Avenue"
-housenumber: 9841
-phone: "+1 619-443-1077"
+street: Maine Avenue
+housenumber: "9841"
+phone: +1 619-443-1077
 opening_hours: ""
-website: "http://www.paytonhardware.com"
+website: http://www.paytonhardware.com

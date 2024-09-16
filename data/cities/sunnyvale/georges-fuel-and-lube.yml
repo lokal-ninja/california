@@ -1,11 +1,11 @@
 id: 222923634
-type: way
+type: node
 latitude: 37.38257
 longitude: -122.04456
 postcode: ""
 city: Sunnyvale
-street: "West Evelyn Avenue"
-housenumber: 996
+street: West Evelyn Avenue
+housenumber: "996"
 phone: ""
 opening_hours: ""
 website: ""

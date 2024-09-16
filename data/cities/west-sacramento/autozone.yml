@@ -1,11 +1,11 @@
 id: 120651955
-type: way
+type: node
 latitude: 38.5812
 longitude: -121.52697
 postcode: "95691"
 city: West Sacramento
-street: "West Capitol Avenue"
-housenumber: 1400
+street: West Capitol Avenue
+housenumber: "1400"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ca/west-sacramento/1400-w-capitol-ave.html"
+website: https://www.autozone.com/locations/ca/west-sacramento/1400-w-capitol-ave.html

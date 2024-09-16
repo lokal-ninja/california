@@ -1,11 +1,11 @@
 id: 25366944
-type: way
+type: node
 latitude: 38.54987
 longitude: -121.74001
 postcode: ""
 city: Davis
-street: "G Street"
-housenumber: 620
+street: G Street
+housenumber: "620"
 phone: ""
 opening_hours: ""
-website: "https://davisfood.coop/"
+website: https://davisfood.coop/

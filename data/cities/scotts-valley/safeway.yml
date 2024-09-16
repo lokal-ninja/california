@@ -1,11 +1,11 @@
 id: 239720736
-type: way
+type: node
 latitude: 37.04654
 longitude: -122.03125
 postcode: "95066"
 city: Scotts Valley
-street: "Mount Hermon Road"
-housenumber: 253
-phone: "+1 831-438-7431"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/ca/scotts-valley/253-mt-hermon-rd.html"
+street: Mount Hermon Road
+housenumber: "253"
+phone: +1 831-438-7431
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/ca/scotts-valley/253-mt-hermon-rd.html

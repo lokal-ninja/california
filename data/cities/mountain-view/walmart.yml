@@ -1,11 +1,11 @@
 id: 29494712
-type: way
+type: node
 latitude: 37.40158
 longitude: -122.11004
 postcode: "94040"
 city: Mountain View
-street: "Showers Drive"
-housenumber: 600
-phone: "+1 650-917-0796"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.walmart.com/store/2280/mountain-view-ca/whats-new"
+street: Showers Drive
+housenumber: "600"
+phone: +1 650-917-0796
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.walmart.com/store/2280/mountain-view-ca/whats-new

@@ -1,11 +1,11 @@
 id: 995061665
-type: way
+type: node
 latitude: 32.80735
 longitude: -116.93547
 postcode: "92021"
 city: El Cajon
-street: "Broadway"
-housenumber: 1303
+street: Broadway
+housenumber: "1303"
 phone: "+16194443101"
 opening_hours: ""
-website: "https://www.conroysflowerselcajon.com/about-us"
+website: https://www.conroysflowerselcajon.com/about-us

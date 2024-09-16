@@ -1,11 +1,11 @@
 id: 407988984
-type: way
+type: node
 latitude: 33.80035
 longitude: -118.31411
 postcode: ""
 city: Lomita
-street: "Lomita Boulevard"
-housenumber: 1973
+street: Lomita Boulevard
+housenumber: "1973"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ca/lomita/1973-lomita-blvd.html"
+website: https://www.autozone.com/locations/ca/lomita/1973-lomita-blvd.html

@@ -1,11 +1,11 @@
 id: 993504283
-type: way
+type: node
 latitude: 36.32693
 longitude: -119.2779
 postcode: "93292"
 city: Visalia
-street: "East Mineral King Avenue"
-housenumber: 1375
+street: East Mineral King Avenue
+housenumber: "1375"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/CA/Visalia/1375-E-MINERAL-KING"
+website: https://www.speedway.com/locations/CA/Visalia/1375-E-MINERAL-KING

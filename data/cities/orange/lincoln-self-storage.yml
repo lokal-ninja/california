@@ -1,11 +1,11 @@
 id: 629171217
-type: way
+type: node
 latitude: 33.8355
 longitude: -117.85562
 postcode: "92865"
 city: Orange
-street: "West Lincoln Avenue"
-housenumber: 15777
-phone: "+1-714-998-1032"
-opening_hours: "Mo-Sa 07:00-18:00; Su 09:00-16:00"
-website: "https://www.lincolnselfstorage-ca.com/"
+street: West Lincoln Avenue
+housenumber: "15777"
+phone: +1-714-998-1032
+opening_hours: Mo-Sa 07:00-18:00; Su 09:00-16:00
+website: https://www.lincolnselfstorage-ca.com/

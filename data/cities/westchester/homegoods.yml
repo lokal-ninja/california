@@ -1,11 +1,11 @@
 id: 420983695
-type: way
+type: node
 latitude: 33.95937
 longitude: -118.39693
 postcode: "90045"
 city: Westchester
-street: "South Sepulveda Boulevard"
-housenumber: 8621
-phone: "+1 310-670-7098"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
+street: South Sepulveda Boulevard
+housenumber: "8621"
+phone: +1 310-670-7098
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 132600368
-type: way
+type: node
 latitude: 34.24157
 longitude: -116.91763
 postcode: ""
 city: Big Bear Lake
-street: "Big Bear Boulevard"
-housenumber: 40544
+street: Big Bear Boulevard
+housenumber: "40544"
 phone: "+19098663222"
 opening_hours: ""
-website: "http://bigbearlakesportinggoods.com"
+website: http://bigbearlakesportinggoods.com

@@ -1,11 +1,11 @@
 id: 252696548
-type: way
+type: node
 latitude: 37.95795
 longitude: -122.09435
 postcode: "94553"
 city: Martinez
-street: "Alhambra Avenue"
-housenumber: 6688
-phone: "+1 925-933-0540"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/ca/martinez/6688-alhambra-ave.html"
+street: Alhambra Avenue
+housenumber: "6688"
+phone: +1 925-933-0540
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/ca/martinez/6688-alhambra-ave.html

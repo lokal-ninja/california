@@ -1,11 +1,11 @@
 id: 161390826
-type: way
+type: node
 latitude: 33.74102
 longitude: -116.2195
 postcode: "92203"
 city: Indio
-street: "Jackson Street"
-housenumber: 42425
+street: Jackson Street
+housenumber: "42425"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 37.75268
 longitude: -122.42088
 postcode: ""
 city: San Francisco
-street: "Valencia Street"
-housenumber: 1264
+street: Valencia Street
+housenumber: "1264"
 phone: ""
-opening_hours: "Mo-Sa 11:00-19:00; Su 12:00-17:00"
+opening_hours: Mo-Sa 11:00-19:00; Su 12:00-17:00
 website: ""

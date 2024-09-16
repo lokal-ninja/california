@@ -1,11 +1,11 @@
 id: 311695778
-type: way
+type: node
 latitude: 37.34362
 longitude: -120.61236
 postcode: "95301"
 city: Atwater
-street: "Commerce Avenue"
-housenumber: 1261
+street: Commerce Avenue
+housenumber: "1261"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/ca/atwater/4770/"
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/ca/atwater/4770/

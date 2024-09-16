@@ -1,11 +1,11 @@
 id: 239271710
-type: way
+type: node
 latitude: 38.46394
 longitude: -122.71745
 postcode: "95403"
 city: Santa Rosa
-street: "Mendocino Avenue"
-housenumber: 2300
-phone: "+1 707-569-3100"
-opening_hours: "06:00-24:00"
-website: "https://local.safeway.com/safeway/ca/santa-rosa/2300-mendocino-ave.html"
+street: Mendocino Avenue
+housenumber: "2300"
+phone: +1 707-569-3100
+opening_hours: 06:00-24:00
+website: https://local.safeway.com/safeway/ca/santa-rosa/2300-mendocino-ave.html

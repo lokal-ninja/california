@@ -1,11 +1,11 @@
 id: 959567846
-type: way
+type: node
 latitude: 32.79828
 longitude: -116.93634
 postcode: "92021"
 city: El Cajon
-street: "North 2nd Street"
-housenumber: 340
+street: North 2nd Street
+housenumber: "340"
 phone: ""
 opening_hours: ""
 website: ""

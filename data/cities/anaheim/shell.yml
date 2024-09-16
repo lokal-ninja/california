@@ -1,11 +1,11 @@
 id: 120871483
-type: way
+type: node
 latitude: 33.81861
 longitude: -117.91604
 postcode: "92805"
 city: Anaheim
-street: "West Ball Road"
-housenumber: 601
+street: West Ball Road
+housenumber: "601"
 phone: ""
 opening_hours: ""
 website: ""

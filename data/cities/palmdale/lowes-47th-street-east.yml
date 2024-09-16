@@ -1,11 +1,11 @@
 id: 439102815
-type: way
+type: node
 latitude: 34.55527
 longitude: -118.04296
 postcode: "93552"
 city: Palmdale
-street: "47th Street East"
-housenumber: 37080
-phone: "+1 661-533-9900"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-21:00"
-website: "https://www.lowes.com/store/ca-palmdale/2547"
+street: 47th Street East
+housenumber: "37080"
+phone: +1 661-533-9900
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-21:00
+website: https://www.lowes.com/store/ca-palmdale/2547

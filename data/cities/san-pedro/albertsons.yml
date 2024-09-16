@@ -1,11 +1,11 @@
 id: 208096047
-type: way
+type: node
 latitude: 33.76526
 longitude: -118.30959
 postcode: "90732"
 city: San Pedro
-street: "South Western Avenue"
-housenumber: 28090
-phone: "+1 310-831-1323"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.albertsons.com/ca/san-pedro/28090-s-western-ave.html"
+street: South Western Avenue
+housenumber: "28090"
+phone: +1 310-831-1323
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.albertsons.com/ca/san-pedro/28090-s-western-ave.html

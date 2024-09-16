@@ -1,11 +1,11 @@
 id: 292127848
-type: way
+type: node
 latitude: 34.01615
 longitude: -118.49281
-postcode: "90401-2405"
+postcode: 90401-2405
 city: Santa Monica
-street: "Broadway"
-housenumber: 501
-phone: "+1 310 451 9977"
-opening_hours: "Mo-Sa 10:00-20:00;Su 10:00-18:00"
-website: "https://www.performancebike.com/"
+street: Broadway
+housenumber: "501"
+phone: +1 310 451 9977
+opening_hours: Mo-Sa 10:00-20:00;Su 10:00-18:00
+website: https://www.performancebike.com/

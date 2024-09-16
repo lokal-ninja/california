@@ -1,11 +1,11 @@
 id: 100402789
-type: way
+type: node
 latitude: 33.13147
 longitude: -117.06771
 postcode: "92027"
 city: Escondido
-street: "North Ash Street"
-housenumber: 433
+street: North Ash Street
+housenumber: "433"
 phone: ""
 opening_hours: ""
-website: "http://www.expresstire.com/"
+website: http://www.expresstire.com/

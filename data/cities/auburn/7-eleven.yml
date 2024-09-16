@@ -1,11 +1,11 @@
 id: 436378956
-type: way
+type: node
 latitude: 38.89082
 longitude: -121.07581
-postcode: "95603-5509"
+postcode: 95603-5509
 city: Auburn
-street: "Sacramento Street"
-housenumber: 303
-phone: "+1 530-885-1107"
+street: Sacramento Street
+housenumber: "303"
+phone: +1 530-885-1107
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/auburn/303-sacramento-st-15882"
+website: https://www.7-eleven.com/locations/ca/auburn/303-sacramento-st-15882

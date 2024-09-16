@@ -1,11 +1,11 @@
 id: 221073981
-type: way
+type: node
 latitude: 37.82584
 longitude: -122.25302
 postcode: "94611"
 city: Oakland
-street: "Piedmont Avenue"
-housenumber: 4038
+street: Piedmont Avenue
+housenumber: "4038"
 phone: ""
 opening_hours: ""
-website: "https://piedmontgrocery.com/"
+website: https://piedmontgrocery.com/

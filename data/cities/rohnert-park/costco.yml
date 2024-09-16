@@ -1,11 +1,11 @@
 id: 132688382
-type: way
+type: node
 latitude: 38.35359
 longitude: -122.71836
-postcode: "94928-2076"
+postcode: 94928-2076
 city: Rohnert Park
-street: "Redwood Drive"
-housenumber: 5901
-phone: "+1 707-540-9113"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-19:00; Su 10:00-19:00"
-website: "https://www.costco.com/warehouse-locations/rohnert-park-ca-659.html"
+street: Redwood Drive
+housenumber: "5901"
+phone: +1 707-540-9113
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-19:00; Su 10:00-19:00
+website: https://www.costco.com/warehouse-locations/rohnert-park-ca-659.html

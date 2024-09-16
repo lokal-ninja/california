@@ -1,11 +1,11 @@
 id: 35343322
-type: way
+type: node
 latitude: 37.76727
 longitude: -122.4115
 postcode: "94103"
 city: San Francisco
-street: "Bryant Street"
-housenumber: 1590
-phone: "+1-415-234-7965"
-opening_hours: "Mo-Fr 09:00-21:00; Sa-Su 08:00-20:00"
-website: "http://www.sportsbasement.com"
+street: Bryant Street
+housenumber: "1590"
+phone: +1-415-234-7965
+opening_hours: Mo-Fr 09:00-21:00; Sa-Su 08:00-20:00
+website: http://www.sportsbasement.com

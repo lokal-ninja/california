@@ -1,11 +1,11 @@
 id: 779514975
-type: way
+type: node
 latitude: 40.52308
 longitude: -122.38323
 postcode: "96001"
 city: Redding
-street: "Westwood Avenue"
-housenumber: 2220
+street: Westwood Avenue
+housenumber: "2220"
 phone: ""
 opening_hours: ""
 website: ""

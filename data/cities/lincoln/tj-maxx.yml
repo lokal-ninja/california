@@ -1,11 +1,11 @@
 id: 258983963
-type: way
+type: node
 latitude: 38.87086
 longitude: -121.30472
 postcode: "95648"
 city: Lincoln
-street: "Groveland Lane"
-housenumber: 930
+street: Groveland Lane
+housenumber: "930"
 phone: ""
 opening_hours: ""
 website: ""

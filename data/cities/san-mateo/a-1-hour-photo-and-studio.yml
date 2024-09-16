@@ -1,11 +1,11 @@
 id: 387056667
-type: way
+type: node
 latitude: 37.55302
 longitude: -122.31522
 postcode: "94402"
 city: San Mateo
-street: "El Camino Real"
-housenumber: 1612
+street: El Camino Real
+housenumber: "1612"
 phone: ""
 opening_hours: ""
 website: ""

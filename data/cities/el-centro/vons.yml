@@ -1,11 +1,11 @@
 id: 131288686
-type: way
+type: node
 latitude: 32.79934
 longitude: -115.57205
 postcode: "92243"
 city: El Centro
-street: "North Imperial Avenue"
-housenumber: 750
-phone: "+1 760-353-4603"
+street: North Imperial Avenue
+housenumber: "750"
+phone: +1 760-353-4603
 opening_hours: ""
-website: "https://local.vons.com/ca/el-centro/750-n-imperial-ave.html"
+website: https://local.vons.com/ca/el-centro/750-n-imperial-ave.html

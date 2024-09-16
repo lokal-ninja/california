@@ -1,11 +1,11 @@
 id: 1301319541
-type: way
+type: node
 latitude: 36.96124
 longitude: -120.05801
 postcode: ""
 city: Madera
-street: "East 6th Street"
-housenumber: 100
-phone: "+1-844-233-9047"
+street: East 6th Street
+housenumber: "100"
+phone: +1-844-233-9047
 opening_hours: ""
-website: "https://www.wilsonspowersports.com/"
+website: https://www.wilsonspowersports.com/

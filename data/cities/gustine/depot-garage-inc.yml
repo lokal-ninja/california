@@ -1,11 +1,11 @@
 id: 311695761
-type: way
+type: node
 latitude: 37.25629
 longitude: -120.99891
 postcode: "95322"
 city: Gustine
-street: "4th Avenue"
-housenumber: 435
+street: 4th Avenue
+housenumber: "435"
 phone: ""
 opening_hours: ""
 website: ""

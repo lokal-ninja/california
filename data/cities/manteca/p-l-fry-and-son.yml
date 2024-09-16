@@ -1,11 +1,11 @@
 id: 318564372
-type: way
+type: node
 latitude: 37.80113
 longitude: -121.23405
 postcode: "95336"
 city: Manteca
-street: "North Union Road"
-housenumber: 290
+street: North Union Road
+housenumber: "290"
 phone: ""
 opening_hours: ""
-website: "https://www.plfryandson.com/"
+website: https://www.plfryandson.com/

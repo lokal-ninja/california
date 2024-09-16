@@ -1,11 +1,11 @@
 id: 902785803
-type: way
+type: node
 latitude: 33.80972
 longitude: -117.83543
 postcode: "92867"
 city: Orange
-street: "East Katella Avenue"
-housenumber: 1715
-phone: "+1-714-538-7546"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-17:00"
-website: "https://time-center-orange.edan.io/"
+street: East Katella Avenue
+housenumber: "1715"
+phone: +1-714-538-7546
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-17:00
+website: https://time-center-orange.edan.io/

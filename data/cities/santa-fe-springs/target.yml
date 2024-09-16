@@ -1,11 +1,11 @@
 id: 455831407
-type: way
+type: node
 latitude: 33.93816
 longitude: -118.04779
 postcode: "90670"
 city: Santa Fe Springs
-street: "Carmenita Road"
-housenumber: 10621
-phone: "+1 562-946-0851"
-opening_hours: "08:00-23:00"
-website: "https://www.target.com/sl/santa-fe-springs/227"
+street: Carmenita Road
+housenumber: "10621"
+phone: +1 562-946-0851
+opening_hours: 08:00-23:00
+website: https://www.target.com/sl/santa-fe-springs/227

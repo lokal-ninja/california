@@ -1,11 +1,11 @@
 id: 42392113
-type: way
+type: node
 latitude: 37.3828
 longitude: -121.99722
 postcode: "94085"
 city: Sunnyvale
-street: "Kern Avenue"
-housenumber: 1177
-phone: "(408)-732-0300"
-opening_hours: "Mo-Fr 09:00-21:00; Sa-Su 09:00-20:00"
-website: "http://www.sportsbasement.com/"
+street: Kern Avenue
+housenumber: "1177"
+phone: (408)-732-0300
+opening_hours: Mo-Fr 09:00-21:00; Sa-Su 09:00-20:00
+website: http://www.sportsbasement.com/

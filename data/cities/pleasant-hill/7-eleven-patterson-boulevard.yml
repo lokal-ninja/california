@@ -1,11 +1,11 @@
 id: 401254512
-type: way
+type: node
 latitude: 37.93429
 longitude: -122.07395
-postcode: "94523-4120"
+postcode: 94523-4120
 city: Pleasant Hill
-street: "Patterson Boulevard"
-housenumber: 601
-phone: "+1 925-945-8086"
+street: Patterson Boulevard
+housenumber: "601"
+phone: +1 925-945-8086
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/pleasant-hill/601-patterson-blvd-24268"
+website: https://www.7-eleven.com/locations/ca/pleasant-hill/601-patterson-blvd-24268

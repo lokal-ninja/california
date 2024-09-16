@@ -4,8 +4,8 @@ latitude: 33.80417
 longitude: -116.97078
 postcode: "92583"
 city: San Jacinto
-street: "North State Street"
-housenumber: 1271
-phone: "+1 951-487-9070"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.staterbros.com/stores/180"
+street: North State Street
+housenumber: "1271"
+phone: +1 951-487-9070
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.staterbros.com/stores/180

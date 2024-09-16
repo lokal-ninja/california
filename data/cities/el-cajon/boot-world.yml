@@ -1,11 +1,11 @@
 id: 1050907115
-type: way
+type: node
 latitude: 32.80456
 longitude: -116.9715
 postcode: "92020"
 city: El Cajon
-street: "North Johnson Avenue"
-housenumber: 700
+street: North Johnson Avenue
+housenumber: "700"
 phone: "+16194422506"
 opening_hours: ""
-website: "https://www.bootworld.com/"
+website: https://www.bootworld.com/

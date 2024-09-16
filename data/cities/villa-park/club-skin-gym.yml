@@ -1,11 +1,11 @@
 id: 663607357
-type: way
+type: node
 latitude: 33.81548
 longitude: -117.82196
 postcode: "92861"
 city: Villa Park
-street: "Santiago Boulevard"
-housenumber: 17757
-phone: "+1-714-363-3431"
+street: Santiago Boulevard
+housenumber: "17757"
+phone: +1-714-363-3431
 opening_hours: ""
-website: "https://www.clubskingym.com/"
+website: https://www.clubskingym.com/

@@ -1,11 +1,11 @@
 id: 202344963
-type: way
+type: node
 latitude: 37.31185
 longitude: -121.87044
 postcode: "95125"
 city: San Jose
-street: "San Jose Avenue"
-housenumber: 6
+street: San Jose Avenue
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

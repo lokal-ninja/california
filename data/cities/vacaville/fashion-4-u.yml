@@ -1,11 +1,11 @@
 id: 688086596
-type: way
+type: node
 latitude: 38.36061
 longitude: -121.9778
 postcode: "95688"
 city: Vacaville
-street: "Brown Street"
-housenumber: 111
+street: Brown Street
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

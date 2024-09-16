@@ -4,8 +4,8 @@ latitude: 34.67681
 longitude: -118.15477
 postcode: "93534"
 city: Lancaster
-street: "15th Street West"
-housenumber: 43668
-phone: "+1 661-499-2651"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/ca/lancaster/15th-st/"
+street: 15th Street West
+housenumber: "43668"
+phone: +1 661-499-2651
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/ca/lancaster/15th-st/

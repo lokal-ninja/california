@@ -1,11 +1,11 @@
 id: 356629240
-type: way
+type: node
 latitude: 33.63211
 longitude: -117.72276
 postcode: "92618"
 city: Irvine
-street: "Auto Center Drive"
-housenumber: 20
+street: Auto Center Drive
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

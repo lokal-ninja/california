@@ -1,11 +1,11 @@
 id: 892003411
-type: way
+type: node
 latitude: 36.97268
 longitude: -121.95066
 postcode: "95010"
 city: Capitola
-street: "Capitola Avenue"
-housenumber: 101
-phone: "+1-831-854-2490"
-opening_hours: "Mo-Su 11:00-17:00"
-website: "https://www.ethossantacruz.com/"
+street: Capitola Avenue
+housenumber: "101"
+phone: +1-831-854-2490
+opening_hours: Mo-Su 11:00-17:00
+website: https://www.ethossantacruz.com/

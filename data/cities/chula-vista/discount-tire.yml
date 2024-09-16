@@ -1,11 +1,11 @@
 id: 738895917
-type: way
+type: node
 latitude: 32.63709
 longitude: -117.02372
 postcode: "91910"
 city: Chula Vista
-street: "East H Street"
-housenumber: 831
+street: East H Street
+housenumber: "831"
 phone: "+16192051652"
 opening_hours: ""
-website: "https://www.discounttire.com/store/ca/chula-vista/s/2203"
+website: https://www.discounttire.com/store/ca/chula-vista/s/2203

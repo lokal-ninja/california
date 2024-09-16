@@ -1,11 +1,11 @@
 id: 506320440
-type: way
+type: node
 latitude: 38.01572
 longitude: -122.1371
 postcode: "94553"
 city: Martinez
-street: "Alhambra Avenue"
-housenumber: 835
-phone: "(925) 229-4775"
+street: Alhambra Avenue
+housenumber: "835"
+phone: (925) 229-4775
 opening_hours: ""
 website: ""

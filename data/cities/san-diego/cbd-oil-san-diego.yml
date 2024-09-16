@@ -1,11 +1,11 @@
 id: 875999313
-type: way
+type: node
 latitude: 32.72562
 longitude: -117.16264
 postcode: "92101"
 city: San Diego
-street: "2nd Avenue"
-housenumber: 1929
+street: 2nd Avenue
+housenumber: "1929"
 phone: ""
 opening_hours: ""
 website: ""

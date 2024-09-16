@@ -1,11 +1,11 @@
 id: 387560712
-type: way
+type: node
 latitude: 37.56297
 longitude: -122.32027
 postcode: "94401"
 city: San Mateo
-street: "South B Street"
-housenumber: 606
+street: South B Street
+housenumber: "606"
 phone: ""
 opening_hours: ""
-website: "https://www.tapplastics.com/"
+website: https://www.tapplastics.com/

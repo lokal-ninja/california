@@ -4,8 +4,8 @@ latitude: 38.54129
 longitude: -121.77175
 postcode: "94566"
 city: Davis
-street: "Sage Street"
-housenumber: 201
-phone: "+1 530-759-0663"
-opening_hours: "Mo-Fr 12:00-19:00"
-website: "https://housing.ucdavis.edu/dining/sage-street/"
+street: Sage Street
+housenumber: "201"
+phone: +1 530-759-0663
+opening_hours: Mo-Fr 12:00-19:00
+website: https://housing.ucdavis.edu/dining/sage-street/

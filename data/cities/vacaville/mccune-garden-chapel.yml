@@ -1,11 +1,11 @@
 id: 407110607
-type: way
+type: node
 latitude: 38.35628
 longitude: -121.99041
 postcode: "95688"
 city: Vacaville
-street: "Main Street"
-housenumber: 212
-phone: "707-448-6546"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "http://mccunechapel.com"
+street: Main Street
+housenumber: "212"
+phone: 707-448-6546
+opening_hours: Mo-Fr 08:00-17:00
+website: http://mccunechapel.com

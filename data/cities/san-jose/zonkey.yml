@@ -4,8 +4,8 @@ latitude: 37.34865
 longitude: -121.89537
 postcode: "95112"
 city: San Jose
-street: "Jackson Street"
-housenumber: 161
+street: Jackson Street
+housenumber: "161"
 phone: ""
-opening_hours: "Mo off; Tu-Fr 12:00-19:00; Sa 11:00-19:00; Su 11:00-16:00"
-website: "https://zonkeytoys.com/"
+opening_hours: Mo off; Tu-Fr 12:00-19:00; Sa 11:00-19:00; Su 11:00-16:00
+website: https://zonkeytoys.com/

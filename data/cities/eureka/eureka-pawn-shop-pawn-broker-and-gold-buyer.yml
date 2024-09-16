@@ -1,11 +1,11 @@
 id: 238226069
-type: way
+type: node
 latitude: 40.8023
 longitude: -124.16882
 postcode: ""
 city: Eureka
-street: "4th Street"
-housenumber: 230
-phone: "707-443-2000"
-opening_hours: "Mo-Sa 9:30-17:30; Su 11:00-16:00"
-website: "http://eurekapawnshop.com/"
+street: 4th Street
+housenumber: "230"
+phone: 707-443-2000
+opening_hours: Mo-Sa 9:30-17:30; Su 11:00-16:00
+website: http://eurekapawnshop.com/

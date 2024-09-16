@@ -1,11 +1,11 @@
 id: 1169784306
-type: way
+type: node
 latitude: 36.29649
 longitude: -119.14086
 postcode: "93221"
 city: Exeter
-street: "East Pine Street"
-housenumber: 201
+street: East Pine Street
+housenumber: "201"
 phone: "+15595924170"
 opening_hours: ""
 website: ""

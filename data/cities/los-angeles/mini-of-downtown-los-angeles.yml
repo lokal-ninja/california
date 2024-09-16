@@ -1,11 +1,11 @@
 id: 411637906
-type: way
+type: node
 latitude: 33.98375
 longitude: -118.23774
 postcode: "90001"
 city: Los Angeles
-street: "South Alameda Street"
-housenumber: 6201
-phone: "+1-855-487-5422"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-18:00"
-website: "https://www.minidtla.com/"
+street: South Alameda Street
+housenumber: "6201"
+phone: +1-855-487-5422
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-18:00
+website: https://www.minidtla.com/

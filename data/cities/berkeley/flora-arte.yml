@@ -1,11 +1,11 @@
 id: 315997905
-type: way
+type: node
 latitude: 37.87089
 longitude: -122.27322
 postcode: "94703"
 city: Berkeley
-street: "Martin Luther King Jr Way"
-housenumber: 2070
-phone: "(510) 910-9221"
-opening_hours: "13:00-20:00"
-website: "https://www.onlinefloraarte.com/"
+street: Martin Luther King Jr Way
+housenumber: "2070"
+phone: (510) 910-9221
+opening_hours: 13:00-20:00
+website: https://www.onlinefloraarte.com/

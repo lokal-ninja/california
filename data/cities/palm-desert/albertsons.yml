@@ -4,8 +4,8 @@ latitude: 33.74268
 longitude: -116.30544
 postcode: "92211"
 city: Palm Desert
-street: "Washington Street"
-housenumber: 42095
-phone: "+1 760-360-6322"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.albertsons.com/ca/palm-desert/42095-washington-st.html"
+street: Washington Street
+housenumber: "42095"
+phone: +1 760-360-6322
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.albertsons.com/ca/palm-desert/42095-washington-st.html

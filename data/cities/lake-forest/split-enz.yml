@@ -4,8 +4,8 @@ latitude: 33.61649
 longitude: -117.70887
 postcode: "92630"
 city: Lake Forest
-street: "Bridger Road"
-housenumber: 23811
-phone: "+1 949-798-9268"
-opening_hours: "Appointments only"
+street: Bridger Road
+housenumber: "23811"
+phone: +1 949-798-9268
+opening_hours: '"Appointments only"'
 website: ""

@@ -4,8 +4,8 @@ latitude: 33.99994
 longitude: -118.46549
 postcode: "90291"
 city: Venice
-street: "Lincoln Boulevard"
-housenumber: 609
-phone: "+1 310 399 4888"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://www.floydsbarbershop.com/"
+street: Lincoln Boulevard
+housenumber: "609"
+phone: +1 310 399 4888
+opening_hours: Mo-Su 09:00-21:00
+website: https://www.floydsbarbershop.com/

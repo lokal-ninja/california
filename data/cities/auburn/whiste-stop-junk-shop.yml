@@ -1,11 +1,11 @@
 id: 376549297
-type: way
+type: node
 latitude: 38.89725
 longitude: -121.08025
 postcode: "95603"
 city: Auburn
-street: "Nevada Street"
-housenumber: 111
+street: Nevada Street
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

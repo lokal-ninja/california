@@ -1,11 +1,11 @@
 id: 1313217356
-type: way
+type: node
 latitude: 39.72649
 longitude: -121.80029
 postcode: "95928"
 city: Chico
-street: "Forest Avenue"
-housenumber: 2005
-phone: "+1 530-566-1012"
+street: Forest Avenue
+housenumber: "2005"
+phone: +1 530-566-1012
 opening_hours: ""
-website: "https://stores.bestbuy.com/ca/chico/2005-forest-ave-191.html"
+website: https://stores.bestbuy.com/ca/chico/2005-forest-ave-191.html

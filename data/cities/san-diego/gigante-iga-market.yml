@@ -1,11 +1,11 @@
 id: 31801000
-type: way
+type: node
 latitude: 32.69561
 longitude: -117.12551
 postcode: "92113"
 city: San Diego
-street: "National Avenue"
-housenumber: 3175
+street: National Avenue
+housenumber: "3175"
 phone: ""
 opening_hours: ""
 website: ""

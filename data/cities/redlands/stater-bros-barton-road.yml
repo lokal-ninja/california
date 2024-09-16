@@ -1,11 +1,11 @@
 id: 34321604
-type: way
+type: node
 latitude: 34.04827
 longitude: -117.20751
 postcode: "92373"
 city: Redlands
-street: "Barton Road"
-housenumber: 1536
-phone: "+1 909-798-0072"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.staterbros.com/stores/112"
+street: Barton Road
+housenumber: "1536"
+phone: +1 909-798-0072
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.staterbros.com/stores/112

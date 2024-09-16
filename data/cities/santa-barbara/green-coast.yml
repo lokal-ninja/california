@@ -1,11 +1,11 @@
 id: 596603480
-type: way
+type: node
 latitude: 34.43925
 longitude: -119.77152
 postcode: "93111"
 city: Santa Barbara
-street: "Nogal Drive"
-housenumber: 135
+street: Nogal Drive
+housenumber: "135"
 phone: ""
 opening_hours: ""
 website: ""

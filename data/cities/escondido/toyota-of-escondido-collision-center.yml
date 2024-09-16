@@ -1,11 +1,11 @@
 id: 122299582
-type: way
+type: node
 latitude: 33.11421
 longitude: -117.08445
 postcode: "92025"
 city: Escondido
-street: "South Pine Street"
-housenumber: 559
+street: South Pine Street
+housenumber: "559"
 phone: ""
 opening_hours: ""
-website: "https://www.toyotaescondido.com/collision.html"
+website: https://www.toyotaescondido.com/collision.html

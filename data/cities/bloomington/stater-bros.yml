@@ -1,11 +1,11 @@
 id: 1024115752
-type: way
+type: node
 latitude: 34.07424
 longitude: -117.38912
 postcode: "92316"
 city: Bloomington
-street: "Bloomington Avenue"
-housenumber: 1045
-phone: "+1 909-877-0090"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.staterbros.com/stores/61/"
+street: Bloomington Avenue
+housenumber: "1045"
+phone: +1 909-877-0090
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.staterbros.com/stores/61/

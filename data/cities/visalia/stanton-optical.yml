@@ -1,11 +1,11 @@
 id: 1253783989
-type: way
+type: node
 latitude: 36.29888
 longitude: -119.31342
 postcode: "93277"
 city: Visalia
-street: "South Mooney Boulevard"
-housenumber: 3530
-phone: "+1-559-628-2498"
-opening_hours: "mo-Sa 09:00-19:00; Su 12:00-17:00"
-website: "https://www.stantonoptical.com/locations/visalia/"
+street: South Mooney Boulevard
+housenumber: "3530"
+phone: +1-559-628-2498
+opening_hours: mo-Sa 09:00-19:00; Su 12:00-17:00
+website: https://www.stantonoptical.com/locations/visalia/

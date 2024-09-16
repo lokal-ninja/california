@@ -4,8 +4,8 @@ latitude: 37.33646
 longitude: -122.06744
 postcode: "94024"
 city: Los Altos
-street: "Homestead Road"
-housenumber: 2310
-phone: "+1-408-773-0134"
-opening_hours: "Mo-Fr 08:00-22:00; Sa-Su 09:00-21:00"
-website: "https://www.riteaid.com/locations/ca/los-altos/2310-homestead-rd.html"
+street: Homestead Road
+housenumber: "2310"
+phone: +1-408-773-0134
+opening_hours: Mo-Fr 08:00-22:00; Sa-Su 09:00-21:00
+website: https://www.riteaid.com/locations/ca/los-altos/2310-homestead-rd.html

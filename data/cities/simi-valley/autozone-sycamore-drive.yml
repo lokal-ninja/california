@@ -4,8 +4,8 @@ latitude: 34.27821
 longitude: -118.74411
 postcode: "93065"
 city: Simi Valley
-street: "Sycamore Drive"
-housenumber: 2375
-phone: "+1 805-583-4877"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.autozone.com/locations/ca/simi-valley/2375-sycamore-dr.html"
+street: Sycamore Drive
+housenumber: "2375"
+phone: +1 805-583-4877
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.autozone.com/locations/ca/simi-valley/2375-sycamore-dr.html

@@ -1,11 +1,11 @@
 id: 267539881
-type: way
+type: node
 latitude: 32.7428
 longitude: -117.03969
 postcode: "91945"
 city: Lemon Grove
-street: "Broadway"
-housenumber: 7342
+street: Broadway
+housenumber: "7342"
 phone: "+16194605495"
 opening_hours: ""
 website: ""

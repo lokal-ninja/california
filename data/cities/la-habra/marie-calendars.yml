@@ -1,11 +1,11 @@
 id: 1182579758
-type: way
+type: node
 latitude: 33.93886
 longitude: -117.94304
 postcode: "90631"
 city: La Habra
-street: "East Whittier Boulevard"
-housenumber: 310
+street: East Whittier Boulevard
+housenumber: "310"
 phone: ""
 opening_hours: ""
 website: ""

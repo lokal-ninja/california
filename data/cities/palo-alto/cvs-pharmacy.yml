@@ -1,11 +1,11 @@
 id: 231148409
-type: way
+type: node
 latitude: 37.43384
 longitude: -122.12883
 postcode: "94306"
 city: Palo Alto
-street: "Middlefield Road"
-housenumber: 2701
+street: Middlefield Road
+housenumber: "2701"
 phone: ""
-opening_hours: "Mo-Sa 07:00-23:00; Su 08:00-23:00"
-website: "https://www.cvs.com/store-locator/palo-alto-ca-pharmacies/2701-middlefield-rd-palo-alto-ca-94306/storeid=9984"
+opening_hours: Mo-Sa 07:00-23:00; Su 08:00-23:00
+website: https://www.cvs.com/store-locator/palo-alto-ca-pharmacies/2701-middlefield-rd-palo-alto-ca-94306/storeid=9984

@@ -1,11 +1,11 @@
 id: 44123466
-type: way
+type: node
 latitude: 33.57265
 longitude: -117.72594
 postcode: "92656"
 city: Aliso Viejo
-street: "Aliso Creek Road"
-housenumber: 26881
+street: Aliso Creek Road
+housenumber: "26881"
 phone: ""
 opening_hours: ""
 website: ""

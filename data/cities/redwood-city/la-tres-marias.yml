@@ -1,11 +1,11 @@
 id: 259451960
-type: way
+type: node
 latitude: 37.47895
 longitude: -122.21431
 postcode: ""
 city: Redwood City
-street: "Middlefield Road"
-housenumber: 2505
+street: Middlefield Road
+housenumber: "2505"
 phone: "6502602940"
 opening_hours: ""
 website: ""

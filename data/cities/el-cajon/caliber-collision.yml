@@ -1,11 +1,11 @@
 id: 995099351
-type: way
+type: node
 latitude: 32.79831
 longitude: -116.93178
 postcode: "92019"
 city: El Cajon
-street: "East Main Street"
-housenumber: 1375
+street: East Main Street
+housenumber: "1375"
 phone: ""
 opening_hours: ""
-website: "https://caliber.com/find-a-location/el-cajon-east-main-st"
+website: https://caliber.com/find-a-location/el-cajon-east-main-st

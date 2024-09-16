@@ -1,11 +1,11 @@
 id: 1279935417
-type: way
+type: node
 latitude: 33.19245
 longitude: -117.36037
 postcode: "92054"
 city: Oceanside
-street: "Oceanside Boulevard"
-housenumber: 1702
-phone: "+1 760-453-0661"
-opening_hours: "09:00-21:00"
-website: "https://local.biglots.com/ca/oceanside/1702-oceanside-blvd"
+street: Oceanside Boulevard
+housenumber: "1702"
+phone: +1 760-453-0661
+opening_hours: 09:00-21:00
+website: https://local.biglots.com/ca/oceanside/1702-oceanside-blvd

@@ -1,11 +1,11 @@
 id: 417497903
-type: way
+type: node
 latitude: 34.07171
 longitude: -117.21217
 postcode: "92374"
 city: Redlands
-street: "Alabama Street"
-housenumber: 10000
+street: Alabama Street
+housenumber: "10000"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 37.76268
 longitude: -122.3967
 postcode: "94107"
 city: San Francisco
-street: "18th Street"
-housenumber: 1400
-phone: "+1 415-255-8802"
-opening_hours: "Mo-Su 10:00-21:00; PH closed"
-website: "https://christophersbooks.com/"
+street: 18th Street
+housenumber: "1400"
+phone: +1 415-255-8802
+opening_hours: Mo-Su 10:00-21:00; PH closed
+website: https://christophersbooks.com/

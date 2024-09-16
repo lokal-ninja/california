@@ -4,8 +4,8 @@ latitude: 33.65157
 longitude: -117.94713
 postcode: "92627"
 city: Costa Mesa
-street: "Victoria Street"
-housenumber: 1125
-phone: "+1 949-650-0830"
-opening_hours: "09:00-19:00"
-website: "https://fermfarm.com"
+street: Victoria Street
+housenumber: "1125"
+phone: +1 949-650-0830
+opening_hours: 09:00-19:00
+website: https://fermfarm.com

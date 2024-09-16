@@ -1,11 +1,11 @@
 id: 375432796
-type: way
+type: node
 latitude: 37.95792
 longitude: -122.35705
 postcode: "94806"
 city: San Pablo
-street: "Rumrill Boulevard"
-housenumber: 1701
+street: Rumrill Boulevard
+housenumber: "1701"
 phone: ""
 opening_hours: ""
-website: "https://www.thisandthatreuse.com/"
+website: https://www.thisandthatreuse.com/

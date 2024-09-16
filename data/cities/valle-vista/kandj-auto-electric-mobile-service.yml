@@ -1,11 +1,11 @@
 id: 645836458
-type: way
+type: node
 latitude: 33.74564
 longitude: -116.86633
 postcode: "92544"
 city: Valle Vista
-street: "CA-74"
-housenumber: 45465
+street: CA-74
+housenumber: "45465"
 phone: ""
 opening_hours: ""
 website: ""

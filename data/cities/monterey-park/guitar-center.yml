@@ -1,11 +1,11 @@
 id: 806316893
-type: way
+type: node
 latitude: 34.03762
 longitude: -118.10244
 postcode: "91755"
 city: Monterey Park
-street: "Market Place Drive"
-housenumber: 3000
+street: Market Place Drive
+housenumber: "3000"
 phone: ""
-opening_hours: "Su-Sa 12:00-19:00"
+opening_hours: Su-Sa 12:00-19:00
 website: ""

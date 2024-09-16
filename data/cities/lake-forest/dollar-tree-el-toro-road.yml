@@ -1,11 +1,11 @@
 id: 361093529
-type: way
+type: node
 latitude: 33.63647
 longitude: -117.68268
 postcode: "92630"
 city: Lake Forest
-street: "El Toro Road"
-housenumber: 22477
+street: El Toro Road
+housenumber: "22477"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.dollartree.com/locations/ca/lake-forest/8622/"
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.dollartree.com/locations/ca/lake-forest/8622/

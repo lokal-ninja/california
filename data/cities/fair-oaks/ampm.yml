@@ -1,11 +1,11 @@
 id: 403742271
-type: way
+type: node
 latitude: 38.64506
 longitude: -121.27158
 postcode: "95628"
 city: Fair Oaks
-street: "Sunrise Boulevard"
-housenumber: 4400
+street: Sunrise Boulevard
+housenumber: "4400"
 phone: ""
 opening_hours: ""
 website: ""

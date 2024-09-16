@@ -1,11 +1,11 @@
 id: 206227858
-type: way
+type: node
 latitude: 33.78676
 longitude: -117.85299
 postcode: "92866"
 city: Orange
-street: "South Glassell Street"
-housenumber: 155
-phone: "714.633.3934"
-opening_hours: "Mo-Sa 9:30-17:30; Su 10:00-17:30"
-website: "http://www.antiquestationdepot.com"
+street: South Glassell Street
+housenumber: "155"
+phone: 714.633.3934
+opening_hours: Mo-Sa 9:30-17:30; Su 10:00-17:30
+website: http://www.antiquestationdepot.com

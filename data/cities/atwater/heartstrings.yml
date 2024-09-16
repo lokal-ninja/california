@@ -1,11 +1,11 @@
 id: 311696061
-type: way
+type: node
 latitude: 37.35157
 longitude: -120.61416
 postcode: "95301"
 city: Atwater
-street: "Elm Avenue"
-housenumber: 1801
+street: Elm Avenue
+housenumber: "1801"
 phone: ""
 opening_hours: ""
 website: ""

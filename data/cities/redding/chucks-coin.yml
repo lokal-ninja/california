@@ -1,11 +1,11 @@
 id: 777467558
-type: way
+type: node
 latitude: 40.56541
 longitude: -122.36294
 postcode: "96002"
 city: Redding
-street: "Bechelli Lane"
-housenumber: 2930
-phone: "+1 (530) 246-2370"
+street: Bechelli Lane
+housenumber: "2930"
+phone: +1 (530) 246-2370
 opening_hours: ""
-website: "https://chuckscoin.com/"
+website: https://chuckscoin.com/

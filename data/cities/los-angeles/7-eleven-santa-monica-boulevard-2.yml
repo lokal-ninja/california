@@ -2,10 +2,10 @@ id: 4901842621
 type: node
 latitude: 34.09116
 longitude: -118.35536
-postcode: "90046-6408"
+postcode: 90046-6408
 city: Los Angeles
-street: "Santa Monica Boulevard"
-housenumber: 7609
-phone: "+1 323-650-1684"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ca/los-angeles/7609-santa-monica-blvd-24131"
+street: Santa Monica Boulevard
+housenumber: "7609"
+phone: +1 323-650-1684
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ca/los-angeles/7609-santa-monica-blvd-24131

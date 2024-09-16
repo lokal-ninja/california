@@ -4,8 +4,8 @@ latitude: 37.87637
 longitude: -122.28325
 postcode: "94702"
 city: Berkeley
-street: "Sacramento Street"
-housenumber: 1600
-phone: "+1 (510) 525-2280"
+street: Sacramento Street
+housenumber: "1600"
+phone: +1 (510) 525-2280
 opening_hours: ""
-website: "https://www.berkeleyfoodpantry.org/"
+website: https://www.berkeleyfoodpantry.org/

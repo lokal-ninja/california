@@ -1,11 +1,11 @@
 id: 358985303
-type: way
+type: node
 latitude: 37.70425
 longitude: -121.92769
 postcode: "94568"
 city: Dublin
-street: "Amador Plaza Road"
-housenumber: 6766
+street: Amador Plaza Road
+housenumber: "6766"
 phone: ""
 opening_hours: ""
 website: ""

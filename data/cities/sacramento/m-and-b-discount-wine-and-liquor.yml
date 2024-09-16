@@ -1,11 +1,11 @@
 id: 545764403
-type: way
+type: node
 latitude: 38.61002
 longitude: -121.41351
 postcode: "95821"
 city: Sacramento
-street: "El Camino Avenue"
-housenumber: 2230
+street: El Camino Avenue
+housenumber: "2230"
 phone: "+19169272334"
-opening_hours: "10:00-21:00"
-website: "https://mbdiscountwinesliquors.com/"
+opening_hours: 10:00-21:00
+website: https://mbdiscountwinesliquors.com/

@@ -1,11 +1,11 @@
 id: 287600078
-type: way
+type: node
 latitude: 38.02059
 longitude: -121.27454
 postcode: ""
 city: Stockton
-street: "East Hammer Lane"
-housenumber: 3228
+street: East Hammer Lane
+housenumber: "3228"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ca/stockton/autoparts-2917.html"
+website: https://locations.oreillyauto.com/ca/stockton/autoparts-2917.html

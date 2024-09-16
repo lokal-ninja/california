@@ -1,11 +1,11 @@
 id: 249819424
-type: way
+type: node
 latitude: 38.68922
 longitude: -121.29458
 postcode: "95621"
 city: Citrus Heights
-street: "Auburn Boulevard"
-housenumber: 7010
-phone: "+1 916-729-8077"
-opening_hours: "Mo-Su 05:30-22:30"
-website: "https://www.walmart.com/store/3712/citrus-heights-ca/whats-new"
+street: Auburn Boulevard
+housenumber: "7010"
+phone: +1 916-729-8077
+opening_hours: Mo-Su 05:30-22:30
+website: https://www.walmart.com/store/3712/citrus-heights-ca/whats-new

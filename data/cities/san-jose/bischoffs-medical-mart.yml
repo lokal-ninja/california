@@ -1,11 +1,11 @@
 id: 363653458
-type: way
+type: node
 latitude: 37.32718
 longitude: -121.93234
 postcode: "95128"
 city: San Jose
-street: "North Bascom Avenue"
-housenumber: 225
+street: North Bascom Avenue
+housenumber: "225"
 phone: ""
 opening_hours: ""
-website: "https://www.bischoffsmedical.com/"
+website: https://www.bischoffsmedical.com/

@@ -1,11 +1,11 @@
 id: 358456051
-type: way
+type: node
 latitude: 37.32389
 longitude: -121.9295
 postcode: "95128"
 city: San Jose
-street: "West San Carlos Street"
-housenumber: 1915
+street: West San Carlos Street
+housenumber: "1915"
 phone: ""
 opening_hours: ""
-website: "https://locations.99only.com/ca/sanjose/discount-store-270.html"
+website: https://locations.99only.com/ca/sanjose/discount-store-270.html

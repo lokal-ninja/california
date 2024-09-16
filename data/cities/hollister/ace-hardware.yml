@@ -1,11 +1,11 @@
 id: 27767360
-type: way
+type: node
 latitude: 36.83705
 longitude: -121.38832
-postcode: "95023-5612"
+postcode: 95023-5612
 city: Hollister
-street: "Airline Highway"
-housenumber: 1725
-phone: "+1 831-634-1590"
-opening_hours: "08:00-20:00"
+street: Airline Highway
+housenumber: "1725"
+phone: +1 831-634-1590
+opening_hours: 08:00-20:00
 website: ""

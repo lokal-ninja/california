@@ -1,11 +1,11 @@
 id: 205252642
-type: way
+type: node
 latitude: 37.30578
 longitude: -120.49226
 postcode: "95340"
 city: Merced
-street: "West Main Street"
-housenumber: 1115
+street: West Main Street
+housenumber: "1115"
 phone: ""
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.dollartree.com/locations/ca/merced/1222/"
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.dollartree.com/locations/ca/merced/1222/

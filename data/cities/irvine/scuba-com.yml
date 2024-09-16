@@ -1,11 +1,11 @@
 id: 186379562
-type: way
+type: node
 latitude: 33.69573
 longitude: -117.84786
 postcode: "92614"
 city: Irvine
-street: "Langley Avenue"
-housenumber: 1752
+street: Langley Avenue
+housenumber: "1752"
 phone: ""
 opening_hours: ""
-website: "https://www.scuba.com/"
+website: https://www.scuba.com/

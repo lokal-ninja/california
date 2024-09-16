@@ -4,8 +4,8 @@ latitude: 32.82228
 longitude: -117.17988
 postcode: "92117"
 city: San Diego
-street: "Genesee Avenue"
-housenumber: 4253
-phone: "+1 858-300-6501"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ca/san-diego-store2398.html"
+street: Genesee Avenue
+housenumber: "4253"
+phone: +1 858-300-6501
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ca/san-diego-store2398.html

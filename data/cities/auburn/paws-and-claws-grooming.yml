@@ -1,11 +1,11 @@
 id: 1027562335
-type: way
+type: node
 latitude: 38.9578
 longitude: -121.10087
 postcode: "95602"
 city: Auburn
-street: "Grass Valley Highway"
-housenumber: 4076
-phone: "(530) 268-8035"
-opening_hours: "Mo-Sa 08:00-12:00"
-website: "https://www.yelp.com/biz/paws-and-claws-grooming-auburn"
+street: Grass Valley Highway
+housenumber: "4076"
+phone: (530) 268-8035
+opening_hours: Mo-Sa 08:00-12:00
+website: https://www.yelp.com/biz/paws-and-claws-grooming-auburn

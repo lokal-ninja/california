@@ -4,8 +4,8 @@ latitude: 32.74291
 longitude: -117.18066
 postcode: "92103"
 city: San Diego
-street: "India Street"
-housenumber: 3731
-phone: "+1-619-295-3939"
-opening_hours: "Th-Fr 17:30+; Sa 17:00+ || for events or by appointment"
-website: "https://www.winevaultbistro.com/"
+street: India Street
+housenumber: "3731"
+phone: +1-619-295-3939
+opening_hours: Th-Fr 17:30+; Sa 17:00+ || "for events or by appointment"
+website: https://www.winevaultbistro.com/

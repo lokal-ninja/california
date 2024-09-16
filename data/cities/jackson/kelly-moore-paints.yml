@@ -1,11 +1,11 @@
 id: 606633868
-type: way
+type: node
 latitude: 38.36325
 longitude: -120.80019
 postcode: "95642"
 city: Jackson
-street: "CA-88"
-housenumber: 11990
-phone: "+1-209-257-1093"
-opening_hours: "Mo-Fr 06:30-17:00; Sa 08:00-16:00"
-website: "https://www.kellymoore.com"
+street: CA-88
+housenumber: "11990"
+phone: +1-209-257-1093
+opening_hours: Mo-Fr 06:30-17:00; Sa 08:00-16:00
+website: https://www.kellymoore.com

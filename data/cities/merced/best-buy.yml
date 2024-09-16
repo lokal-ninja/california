@@ -1,11 +1,11 @@
 id: 205149914
-type: way
+type: node
 latitude: 37.31751
 longitude: -120.49865
 postcode: "95348"
 city: Merced
-street: "West Olive Avenue"
-housenumber: 1764
-phone: "+1 209-626-3541"
+street: West Olive Avenue
+housenumber: "1764"
+phone: +1 209-626-3541
 opening_hours: ""
-website: "https://stores.bestbuy.com/ca/merced/3125-r-street-1260.html"
+website: https://stores.bestbuy.com/ca/merced/3125-r-street-1260.html

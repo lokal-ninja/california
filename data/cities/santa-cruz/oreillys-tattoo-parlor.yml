@@ -1,11 +1,11 @@
 id: 265275727
-type: way
+type: node
 latitude: 36.97045
 longitude: -122.0369
 postcode: "95060"
 city: Santa Cruz
-street: "Mission Street"
-housenumber: 1108
-phone: "+1-831-425-7690"
-opening_hours: "Mo-Su 12:00-20:00"
-website: "https://oreillystattoo.com"
+street: Mission Street
+housenumber: "1108"
+phone: +1-831-425-7690
+opening_hours: Mo-Su 12:00-20:00
+website: https://oreillystattoo.com

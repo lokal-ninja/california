@@ -1,11 +1,11 @@
 id: 31819563
-type: way
+type: node
 latitude: 32.90505
 longitude: -117.17256
 postcode: "92121"
 city: San Diego
-street: "Flanders Drive"
-housenumber: 7044
-phone: "+1 858-453-0511"
+street: Flanders Drive
+housenumber: "7044"
+phone: +1 858-453-0511
 opening_hours: ""
-website: "https://www.sandiegoselfstorage.com/self-storage/ca/san-diego/mira-mesa-self-storage/#/units?category=Small"
+website: https://www.sandiegoselfstorage.com/self-storage/ca/san-diego/mira-mesa-self-storage/#/units?category=Small

@@ -1,11 +1,11 @@
 id: 991102906
-type: way
+type: node
 latitude: 39.14338
 longitude: -123.20429
 postcode: "95482"
 city: Ukiah
-street: "East Gobbi Street"
-housenumber: 163
+street: East Gobbi Street
+housenumber: "163"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1184506841
-type: way
+type: node
 latitude: 35.44346
 longitude: -119.24999
 postcode: "93263"
 city: Shafter
-street: "Broken Court"
-housenumber: 19487
+street: Broken Court
+housenumber: "19487"
 phone: ""
 opening_hours: ""
-website: "https://ccp-jcb.com/"
+website: https://ccp-jcb.com/

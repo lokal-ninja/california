@@ -1,11 +1,11 @@
 id: 311044668
-type: way
+type: node
 latitude: 32.71739
 longitude: -116.87774
 postcode: "91935"
 city: Jamul
-street: "Campo"
-housenumber: 13881
+street: Campo
+housenumber: "13881"
 phone: "+16196690300"
 opening_hours: ""
-website: "https://www.truevalue.com/jamultruevalue"
+website: https://www.truevalue.com/jamultruevalue

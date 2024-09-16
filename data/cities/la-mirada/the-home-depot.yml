@@ -1,11 +1,11 @@
 id: 450482294
-type: way
+type: node
 latitude: 33.91802
 longitude: -118.00925
 postcode: "90638"
 city: La Mirada
-street: "La Mirada Boulevard"
-housenumber: 12300
-phone: "+1 562-947-3742"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/la-mirada/ca/la-mirada/90638/684"
+street: La Mirada Boulevard
+housenumber: "12300"
+phone: +1 562-947-3742
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/la-mirada/ca/la-mirada/90638/684

@@ -1,11 +1,11 @@
 id: 150728136
-type: way
+type: node
 latitude: 33.71213
 longitude: -116.29444
 postcode: "92253"
 city: La Quinta
-street: "Washington Street"
+street: Washington Street
 housenumber: 46-400
-phone: "+1 760-777-1553"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://locations.traderjoes.com/ca/la-quinta/189/"
+phone: +1 760-777-1553
+opening_hours: Mo-Su 08:00-21:00
+website: https://locations.traderjoes.com/ca/la-quinta/189/

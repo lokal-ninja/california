@@ -1,11 +1,11 @@
 id: 31810307
-type: way
+type: node
 latitude: 32.71396
 longitude: -117.14996
 postcode: "92101"
 city: San Diego
-street: "F Street"
-housenumber: 1548
+street: F Street
+housenumber: "1548"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

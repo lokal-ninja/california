@@ -1,11 +1,11 @@
 id: 883376079
-type: way
+type: node
 latitude: 34.106
 longitude: -117.67252
 postcode: "91786"
 city: Upland
-street: "West Foothill Boulevard"
-housenumber: 1284
-phone: "+1 909-949-1321"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/ca/upland/1284-w-foothill-blvd"
+street: West Foothill Boulevard
+housenumber: "1284"
+phone: +1 909-949-1321
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/ca/upland/1284-w-foothill-blvd

@@ -1,11 +1,11 @@
 id: 105907318
-type: way
+type: node
 latitude: 37.31505
 longitude: -122.03191
 postcode: "95014"
 city: Cupertino
-street: "South De Anza Boulevard"
-housenumber: 10550
+street: South De Anza Boulevard
+housenumber: "10550"
 phone: ""
 opening_hours: ""
 website: ""

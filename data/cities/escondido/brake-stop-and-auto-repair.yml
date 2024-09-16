@@ -1,11 +1,11 @@
 id: 118962160
-type: way
+type: node
 latitude: 33.12745
 longitude: -117.08356
 postcode: "92025"
 city: Escondido
-street: "North Broadway"
-housenumber: 600
+street: North Broadway
+housenumber: "600"
 phone: ""
 opening_hours: ""
-website: "https://brakestopandautorepair.com/"
+website: https://brakestopandautorepair.com/

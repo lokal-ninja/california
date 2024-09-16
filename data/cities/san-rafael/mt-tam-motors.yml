@@ -1,11 +1,11 @@
 id: 1174105356
-type: way
+type: node
 latitude: 37.96444
 longitude: -122.50949
 postcode: "94901"
 city: San Rafael
-street: "Medway Road"
-housenumber: 49
+street: Medway Road
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

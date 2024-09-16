@@ -1,11 +1,11 @@
 id: 366052143
-type: way
+type: node
 latitude: 37.33162
 longitude: -121.85324
 postcode: "95122"
 city: San Jose
-street: "McLaughlin Avenue"
-housenumber: 1173
-phone: "+1 408-279-0243"
+street: McLaughlin Avenue
+housenumber: "1173"
+phone: +1 408-279-0243
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/san-jose/1173-mclaughlin-ave-14256"
+website: https://www.7-eleven.com/locations/ca/san-jose/1173-mclaughlin-ave-14256

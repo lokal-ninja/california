@@ -4,8 +4,8 @@ latitude: 34.21749
 longitude: -119.06133
 postcode: "93010"
 city: Camarillo
-street: "Ventura Boulevard"
-housenumber: 690
-phone: "+1-805-484-1138"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-19:00"
-website: "https://www.converse.com/stores/store?StoreID=converse-camarillo"
+street: Ventura Boulevard
+housenumber: "690"
+phone: +1-805-484-1138
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-19:00
+website: https://www.converse.com/stores/store?StoreID=converse-camarillo

@@ -4,8 +4,8 @@ latitude: 37.38153
 longitude: -121.82616
 postcode: "95127"
 city: San Jose
-street: "Toyon Avenue"
-housenumber: 302
+street: Toyon Avenue
+housenumber: "302"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-18:00; We off; Sa 09:00-17:00; Su off"
+opening_hours: Mo,Tu,Th,Fr 09:00-18:00; We off; Sa 09:00-17:00; Su off
 website: ""

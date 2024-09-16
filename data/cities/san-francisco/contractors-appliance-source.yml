@@ -4,8 +4,8 @@ latitude: 37.78158
 longitude: -122.45648
 postcode: "94118"
 city: San Francisco
-street: "Geary Boulevard"
-housenumber: 3460
-phone: "+1 415 668 8484"
-opening_hours: "Open by appointment"
+street: Geary Boulevard
+housenumber: "3460"
+phone: +1 415 668 8484
+opening_hours: '"Open by appointment"'
 website: ""

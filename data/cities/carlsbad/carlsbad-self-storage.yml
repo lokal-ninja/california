@@ -1,11 +1,11 @@
 id: 665453021
-type: way
+type: node
 latitude: 33.12627
 longitude: -117.27348
 postcode: "92011"
 city: Carlsbad
-street: "Palomar Airport Road"
-housenumber: 2235
+street: Palomar Airport Road
+housenumber: "2235"
 phone: "7606020909"
 opening_hours: ""
-website: "https://www.sandiegoselfstorage.com/self-storage/ca/carlsbad/carlsbad-self-storage/#/units?category=Small"
+website: https://www.sandiegoselfstorage.com/self-storage/ca/carlsbad/carlsbad-self-storage/#/units?category=Small

@@ -1,11 +1,11 @@
 id: 34401879
-type: way
+type: node
 latitude: 36.98694
 longitude: -121.98211
 postcode: "95065"
 city: Santa Cruz
-street: "Commercial Way"
-housenumber: 1664
-phone: "+1-831-462-2168"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://www.marshalls.com"
+street: Commercial Way
+housenumber: "1664"
+phone: +1-831-462-2168
+opening_hours: Mo-Su 07:00-21:00
+website: https://www.marshalls.com

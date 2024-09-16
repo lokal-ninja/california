@@ -1,11 +1,11 @@
 id: 54264915
-type: way
+type: node
 latitude: 36.98044
 longitude: -122.0181
 postcode: "95060"
 city: Santa Cruz
-street: "Water Street"
-housenumber: 620
+street: Water Street
+housenumber: "620"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:30, Sa 09:00-13:00"
-website: "http://www.bariteaus.com"
+opening_hours: Mo-Fr 07:00-17:30, Sa 09:00-13:00
+website: http://www.bariteaus.com

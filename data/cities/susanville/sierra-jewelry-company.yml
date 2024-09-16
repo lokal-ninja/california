@@ -4,8 +4,8 @@ latitude: 40.41843
 longitude: -120.66031
 postcode: ""
 city: Susanville
-street: "Main Street"
-housenumber: 801
+street: Main Street
+housenumber: "801"
 phone: ""
-opening_hours: "closed"
-website: "https://www.sierrajewelrycompany.com/"
+opening_hours: closed
+website: https://www.sierrajewelrycompany.com/

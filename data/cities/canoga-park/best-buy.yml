@@ -1,11 +1,11 @@
 id: 133574233
-type: way
+type: node
 latitude: 34.18876
 longitude: -118.59995
 postcode: "91303"
 city: Canoga Park
-street: "West Victory Boulevard"
-housenumber: 21601
-phone: "+1 818-713-1007"
+street: West Victory Boulevard
+housenumber: "21601"
+phone: +1 818-713-1007
 opening_hours: ""
-website: "https://stores.bestbuy.com/ca/canoga-park/21601-victory-blvd-116.html"
+website: https://stores.bestbuy.com/ca/canoga-park/21601-victory-blvd-116.html

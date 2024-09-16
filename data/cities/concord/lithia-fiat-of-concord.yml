@@ -1,11 +1,11 @@
 id: 485893377
-type: way
+type: node
 latitude: 37.999
 longitude: -122.0554
 postcode: "94520"
 city: Concord
-street: "Marsh Drive"
-housenumber: 4905
-phone: "(925) 246-2296"
+street: Marsh Drive
+housenumber: "4905"
+phone: (925) 246-2296
 opening_hours: ""
-website: "https://www.lithiafiatconcord.com/"
+website: https://www.lithiafiatconcord.com/

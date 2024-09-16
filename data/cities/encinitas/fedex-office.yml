@@ -1,11 +1,11 @@
 id: 229013942
-type: way
+type: node
 latitude: 33.04735
 longitude: -117.28375
 postcode: "92024"
 city: Encinitas
-street: "Encinitas Boulevard"
-housenumber: 411
+street: Encinitas Boulevard
+housenumber: "411"
 phone: ""
 opening_hours: ""
 website: ""

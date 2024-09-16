@@ -1,11 +1,11 @@
 id: 916399033
-type: way
+type: node
 latitude: 32.56788
 longitude: -116.996
 postcode: "92154"
 city: San Diego
-street: "Camino Maquiladora"
-housenumber: 6630
+street: Camino Maquiladora
+housenumber: "6630"
 phone: "6196615900"
 opening_hours: ""
-website: "https://www.sandiegoselfstorage.com/self-storage/ca/san-diego/otay-mesa-self-storage/#/units?category=Small"
+website: https://www.sandiegoselfstorage.com/self-storage/ca/san-diego/otay-mesa-self-storage/#/units?category=Small

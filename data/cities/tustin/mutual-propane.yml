@@ -1,11 +1,11 @@
 id: 495072328
-type: way
+type: node
 latitude: 33.72747
 longitude: -117.83396
 postcode: "92780"
 city: Tustin
-street: "East Edinger Avenue"
-housenumber: 1001
+street: East Edinger Avenue
+housenumber: "1001"
 phone: ""
 opening_hours: ""
 website: ""

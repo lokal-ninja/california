@@ -1,11 +1,11 @@
 id: 1286955363
-type: way
+type: node
 latitude: 39.72278
 longitude: -121.84882
 postcode: "95928"
 city: Chico
-street: "Walnut Street"
-housenumber: 324
+street: Walnut Street
+housenumber: "324"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 32.7381
 longitude: -117.21248
 postcode: "92106"
 city: San Diego
-street: "Dewey Road"
-housenumber: 2750
+street: Dewey Road
+housenumber: "2750"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; We off; Sa 08:00-18:00; Su 08:00-16:00"
-website: "https://links.esri.com/sandiego/places/con_pane"
+opening_hours: Mo-Fr 07:00-18:00; We off; Sa 08:00-18:00; Su 08:00-16:00
+website: https://links.esri.com/sandiego/places/con_pane

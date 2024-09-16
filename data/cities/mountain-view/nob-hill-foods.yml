@@ -4,8 +4,8 @@ latitude: 37.37834
 longitude: -122.07635
 postcode: "94040"
 city: Mountain View
-street: "Grant Road"
-housenumber: 1250
-phone: "(650) 390-9222"
-opening_hours: "Mo-Su 06:00-23:00"
+street: Grant Road
+housenumber: "1250"
+phone: (650) 390-9222
+opening_hours: Mo-Su 06:00-23:00
 website: ""

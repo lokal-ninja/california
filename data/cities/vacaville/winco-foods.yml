@@ -1,11 +1,11 @@
 id: 614132985
-type: way
+type: node
 latitude: 38.34609
 longitude: -121.98474
 postcode: "95688"
 city: Vacaville
-street: "Davis Street"
-housenumber: 855
+street: Davis Street
+housenumber: "855"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 544665327
-type: way
+type: node
 latitude: 38.44574
 longitude: -122.72657
 postcode: "95401"
 city: Santa Rosa
-street: "College Avenue"
-housenumber: 104
+street: College Avenue
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

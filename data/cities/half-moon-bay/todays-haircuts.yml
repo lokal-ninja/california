@@ -4,8 +4,8 @@ latitude: 37.46968
 longitude: -122.43135
 postcode: "94019"
 city: Half Moon Bay
-street: "Main St, #D"
-housenumber: 101
-phone: "650-712-8191"
-opening_hours: "Mo-Sa 09:00-18:00, Su 09:00-15:00"
-website: "https://todayshaircuts-ca.com"
+street: 'Main St, #D'
+housenumber: "101"
+phone: 650-712-8191
+opening_hours: Mo-Sa 09:00-18:00, Su 09:00-15:00
+website: https://todayshaircuts-ca.com

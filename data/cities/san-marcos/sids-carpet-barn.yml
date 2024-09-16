@@ -1,11 +1,11 @@
 id: 402834495
-type: way
+type: node
 latitude: 33.13743
 longitude: -117.1583
 postcode: "92078"
 city: San Marcos
-street: "East Carmel Street"
-housenumber: 285
+street: East Carmel Street
+housenumber: "285"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 685891091
-type: way
+type: node
 latitude: 41.77455
 longitude: -124.18935
 postcode: "95531"
 city: Crescent City
-street: "East Washington Boulevard"
-housenumber: 900
-phone: "+1 707-464-1198"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1910/crescent-city-ca/whats-new"
+street: East Washington Boulevard
+housenumber: "900"
+phone: +1 707-464-1198
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1910/crescent-city-ca/whats-new

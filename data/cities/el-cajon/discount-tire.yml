@@ -1,11 +1,11 @@
 id: 957710388
-type: way
+type: node
 latitude: 32.80738
 longitude: -116.94795
 postcode: "92021"
 city: El Cajon
-street: "Broadway"
-housenumber: 1001
+street: Broadway
+housenumber: "1001"
 phone: "+16194426688"
 opening_hours: ""
-website: "https://www.discounttire.com/store/ca/el-cajon/s/1069"
+website: https://www.discounttire.com/store/ca/el-cajon/s/1069

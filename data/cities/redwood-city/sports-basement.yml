@@ -4,8 +4,8 @@ latitude: 37.49319
 longitude: -122.22584
 postcode: "94063"
 city: Redwood City
-street: "Walnut Street"
-housenumber: 202
+street: Walnut Street
+housenumber: "202"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa,Su 10:00-18:00"
-website: "https://shop.sportsbasement.com/"
+opening_hours: Mo-Fr 11:00-19:00; Sa,Su 10:00-18:00
+website: https://shop.sportsbasement.com/

@@ -1,11 +1,11 @@
 id: 995061683
-type: way
+type: node
 latitude: 32.80077
 longitude: -116.93679
 postcode: "92021"
 city: El Cajon
-street: "North 2nd Street"
-housenumber: 534
+street: North 2nd Street
+housenumber: "534"
 phone: ""
 opening_hours: ""
-website: "https://www.advanceamerica.net/store-locations/california/534-n-2nd-street-el-cajon-92021"
+website: https://www.advanceamerica.net/store-locations/california/534-n-2nd-street-el-cajon-92021

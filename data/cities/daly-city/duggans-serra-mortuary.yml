@@ -1,11 +1,11 @@
 id: 389829619
-type: way
+type: node
 latitude: 37.70059
 longitude: -122.46986
 postcode: "94014"
 city: Daly City
-street: "Westlake Avenue"
-housenumber: 500
+street: Westlake Avenue
+housenumber: "500"
 phone: ""
 opening_hours: ""
-website: "https://www.duggans-serra.com/"
+website: https://www.duggans-serra.com/

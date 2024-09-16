@@ -1,11 +1,11 @@
 id: 438734745
-type: way
+type: node
 latitude: 33.91367
 longitude: -117.86666
-postcode: "92821-6123"
+postcode: 92821-6123
 city: Brea
-street: "East Imperial Highway"
-housenumber: 2565
-phone: "+1 714-256-1024"
-opening_hours: "10:00-22:00"
+street: East Imperial Highway
+housenumber: "2565"
+phone: +1 714-256-1024
+opening_hours: 10:00-22:00
 website: ""

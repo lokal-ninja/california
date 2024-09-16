@@ -1,11 +1,11 @@
 id: 753164274
-type: way
+type: node
 latitude: 39.01045
 longitude: -123.36894
 postcode: "95415"
 city: Boonville
-street: "State Route 128"
-housenumber: 13981
-phone: "+1 (707) 895-3576"
+street: State Route 128
+housenumber: "13981"
+phone: +1 (707) 895-3576
 opening_hours: ""
-website: "https://boont-berry-farm-store.business.site/"
+website: https://boont-berry-farm-store.business.site/

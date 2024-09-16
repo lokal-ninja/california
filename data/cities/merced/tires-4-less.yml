@@ -1,11 +1,11 @@
 id: 311696314
-type: way
+type: node
 latitude: 37.30137
 longitude: -120.49343
 postcode: "95340"
 city: Merced
-street: "West 14th Street"
-housenumber: 1027
+street: West 14th Street
+housenumber: "1027"
 phone: ""
 opening_hours: ""
 website: ""

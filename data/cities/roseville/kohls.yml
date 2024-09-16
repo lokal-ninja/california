@@ -1,11 +1,11 @@
 id: 89183180
-type: way
+type: node
 latitude: 38.78848
 longitude: -121.28646
 postcode: "95678"
 city: Roseville
-street: "Fairway Drive"
-housenumber: 10375
-phone: "+1 916-352-0678"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/ca/roseville-680.shtml"
+street: Fairway Drive
+housenumber: "10375"
+phone: +1 916-352-0678
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/ca/roseville-680.shtml

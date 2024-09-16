@@ -1,11 +1,11 @@
 id: 971832809
-type: way
+type: node
 latitude: 38.36724
 longitude: -120.79672
 postcode: "95642"
 city: Jackson
-street: "CA 49"
-housenumber: 10923
+street: CA 49
+housenumber: "10923"
 phone: ""
 opening_hours: ""
 website: ""

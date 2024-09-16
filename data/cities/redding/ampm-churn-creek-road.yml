@@ -1,11 +1,11 @@
 id: 402349948
-type: way
+type: node
 latitude: 40.57796
 longitude: -122.35432
 postcode: "96002"
 city: Redding
-street: "Churn Creek Road"
-housenumber: 2010
+street: Churn Creek Road
+housenumber: "2010"
 phone: ""
 opening_hours: ""
 website: ""

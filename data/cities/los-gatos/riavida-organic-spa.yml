@@ -4,8 +4,8 @@ latitude: 37.23227
 longitude: -121.97978
 postcode: "95030"
 city: Los Gatos
-street: "North Santa Cruz Avenue"
-housenumber: 501
-phone: "+1-408-354-0777"
+street: North Santa Cruz Avenue
+housenumber: "501"
+phone: +1-408-354-0777
 opening_hours: ""
-website: "http://www.riavida.com/index.php"
+website: http://www.riavida.com/index.php

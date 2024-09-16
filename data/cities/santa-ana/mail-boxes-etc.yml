@@ -1,11 +1,11 @@
 id: 801771764
-type: way
+type: node
 latitude: 33.69866
 longitude: -117.88317
 postcode: "92707"
 city: Santa Ana
-street: "MacArthur Boulevard"
-housenumber: 1040
+street: MacArthur Boulevard
+housenumber: "1040"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 993510018
-type: way
+type: node
 latitude: 32.74772
 longitude: -116.9807
 postcode: "91977"
 city: Spring Valley
-street: "Campo Road"
-housenumber: 9995
+street: Campo Road
+housenumber: "9995"
 phone: "+16196601041"
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 472532248
-type: way
+type: node
 latitude: 34.37766
 longitude: -118.55668
 postcode: "91321"
 city: Santa Clarita
-street: "Lyons Avenue"
-housenumber: 24160
-phone: "+1 661-259-9214"
+street: Lyons Avenue
+housenumber: "24160"
+phone: +1 661-259-9214
 opening_hours: ""
-website: "https://local.vons.com/ca/newhall/24160-lyons-ave.html"
+website: https://local.vons.com/ca/newhall/24160-lyons-ave.html

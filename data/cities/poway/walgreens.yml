@@ -1,11 +1,11 @@
 id: 544658200
-type: way
+type: node
 latitude: 32.95717
 longitude: -117.04137
 postcode: "92064"
 city: Poway
-street: "Poway Road"
-housenumber: 13390
+street: Poway Road
+housenumber: "13390"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-13390+poway+rd-poway-ca-92064/id=12421"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-13390+poway+rd-poway-ca-92064/id=12421

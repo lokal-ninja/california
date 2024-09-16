@@ -4,8 +4,8 @@ latitude: 37.4389
 longitude: -122.15904
 postcode: "94301"
 city: Palo Alto
-street: "Town and Country Village"
-housenumber: 855
-phone: "650-328-3223"
-opening_hours: "Mo-Sa 10:00-19:00; Su 12:00-17:00"
-website: "http://www.tennistownandcountry.com/"
+street: Town and Country Village
+housenumber: "855"
+phone: 650-328-3223
+opening_hours: Mo-Sa 10:00-19:00; Su 12:00-17:00
+website: http://www.tennistownandcountry.com/

@@ -1,11 +1,11 @@
 id: 415932525
-type: way
+type: node
 latitude: 35.24765
 longitude: -120.67174
 postcode: "93401"
 city: San Luis Obispo
-street: "Tank Farm Road"
-housenumber: 120
-phone: "+1-805-595-1055"
-opening_hours: "Su 09:00-19:00; Mo-Sa 08:00-21:00"
-website: "https://www.tractorsupply.com/"
+street: Tank Farm Road
+housenumber: "120"
+phone: +1-805-595-1055
+opening_hours: Su 09:00-19:00; Mo-Sa 08:00-21:00
+website: https://www.tractorsupply.com/

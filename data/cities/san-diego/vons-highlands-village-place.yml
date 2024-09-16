@@ -1,11 +1,11 @@
 id: 61862583
-type: way
+type: node
 latitude: 32.96143
 longitude: -117.15389
 postcode: "92129"
 city: San Diego
-street: "Highlands Village Place"
-housenumber: 7895
-phone: "+1 858-780-9026"
+street: Highlands Village Place
+housenumber: "7895"
+phone: +1 858-780-9026
 opening_hours: ""
-website: "https://local.vons.com/ca/san-diego/7895-highland-village-place.html"
+website: https://local.vons.com/ca/san-diego/7895-highland-village-place.html

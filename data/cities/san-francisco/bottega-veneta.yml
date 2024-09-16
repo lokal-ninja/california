@@ -4,8 +4,8 @@ latitude: 37.78784
 longitude: -122.4056
 postcode: "94108"
 city: San Francisco
-street: "Geary Street"
-housenumber: 124
-phone: "+1 415-981-1700"
-opening_hours: "Mo-Sa 10:00-18:00; Su 12:00-17:00"
+street: Geary Street
+housenumber: "124"
+phone: +1 415-981-1700
+opening_hours: Mo-Sa 10:00-18:00; Su 12:00-17:00
 website: ""

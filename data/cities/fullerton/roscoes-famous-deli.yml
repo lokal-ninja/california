@@ -1,11 +1,11 @@
 id: 604267673
-type: way
+type: node
 latitude: 33.87021
 longitude: -117.92519
 postcode: "92832"
 city: Fullerton
-street: "West Commonwealth Avenue"
-housenumber: 116
+street: West Commonwealth Avenue
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

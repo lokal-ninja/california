@@ -1,11 +1,11 @@
 id: 390947842
-type: way
+type: node
 latitude: 34.04885
 longitude: -118.44193
 postcode: "90025"
 city: Los Angeles
-street: "Santa Monica Boulevard"
-housenumber: 11011
-phone: "888-391-3469"
+street: Santa Monica Boulevard
+housenumber: "11011"
+phone: 888-391-3469
 opening_hours: ""
-website: "https://beverlyhillsporsche.com/"
+website: https://beverlyhillsporsche.com/

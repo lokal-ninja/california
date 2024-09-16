@@ -1,11 +1,11 @@
 id: 474091349
-type: way
+type: node
 latitude: 33.06718
 longitude: -117.26705
 postcode: "92024"
 city: Encinitas
-street: "North El Camino Real"
-housenumber: 1048
-phone: "+1 760-943-7738"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.staterbros.com/stores/158"
+street: North El Camino Real
+housenumber: "1048"
+phone: +1 760-943-7738
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.staterbros.com/stores/158

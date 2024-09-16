@@ -1,11 +1,11 @@
 id: 426960504
-type: way
+type: node
 latitude: 34.10591
 longitude: -118.19942
-postcode: "90042-3922"
+postcode: 90042-3922
 city: Los Angeles
-street: "North Figueroa Street"
-housenumber: 5138
-phone: "+1 323-257-1784"
+street: North Figueroa Street
+housenumber: "5138"
+phone: +1 323-257-1784
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/los-angeles/5138-n.-figueroa-st.-22381"
+website: https://www.7-eleven.com/locations/ca/los-angeles/5138-n.-figueroa-st.-22381

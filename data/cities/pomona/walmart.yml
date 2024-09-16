@@ -1,11 +1,11 @@
 id: 470018987
-type: way
+type: node
 latitude: 34.02919
 longitude: -117.757
 postcode: "91766"
 city: Pomona
-street: "Rio Rancho Road"
-housenumber: 80
-phone: "+1 909-620-4602"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/2288/pomona-ca/whats-new"
+street: Rio Rancho Road
+housenumber: "80"
+phone: +1 909-620-4602
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/2288/pomona-ca/whats-new

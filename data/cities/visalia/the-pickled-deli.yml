@@ -1,11 +1,11 @@
 id: 1295806946
-type: way
+type: node
 latitude: 36.29282
 longitude: -119.31231
 postcode: "93277"
 city: Visalia
-street: "South Mooney Boulevard"
-housenumber: 4130
-phone: "+1 559 627 3354"
-opening_hours: "Mo-Su 11:00-20:00"
-website: "https://thepickleddeli.com/"
+street: South Mooney Boulevard
+housenumber: "4130"
+phone: +1 559 627 3354
+opening_hours: Mo-Su 11:00-20:00
+website: https://thepickleddeli.com/

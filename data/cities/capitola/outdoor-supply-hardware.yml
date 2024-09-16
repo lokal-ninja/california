@@ -4,8 +4,8 @@ latitude: 36.97312
 longitude: -121.96628
 postcode: "95010"
 city: Capitola
-street: "41st Avenue"
-housenumber: 1601
-phone: "+1 831 316 3823"
-opening_hours: "Mo-Sa 07:00-20:00; Su 08:00-18:00"
+street: 41st Avenue
+housenumber: "1601"
+phone: +1 831 316 3823
+opening_hours: Mo-Sa 07:00-20:00; Su 08:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1002520255
-type: way
+type: node
 latitude: 32.79435
 longitude: -116.94532
 postcode: "92020"
 city: El Cajon
-street: "East Main Street"
-housenumber: 1097
+street: East Main Street
+housenumber: "1097"
 phone: ""
 opening_hours: ""
-website: "https://locations.rentacenter.com/california/el-cajon/1097-e-main-st/"
+website: https://locations.rentacenter.com/california/el-cajon/1097-e-main-st/

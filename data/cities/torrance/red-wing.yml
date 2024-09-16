@@ -4,8 +4,8 @@ latitude: 33.86215
 longitude: -118.35314
 postcode: "90504"
 city: Torrance
-street: "Hawthorne Boulevard"
-housenumber: 18533
-phone: "+1 310 371 5068"
-opening_hours: "Mo-Fr 10:00-19:00,Sa 10:00-18:00,Su 10:00-16:00"
-website: "https://stores.redwing.com/torrance-ca"
+street: Hawthorne Boulevard
+housenumber: "18533"
+phone: +1 310 371 5068
+opening_hours: Mo-Fr 10:00-19:00,Sa 10:00-18:00,Su 10:00-16:00
+website: https://stores.redwing.com/torrance-ca

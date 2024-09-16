@@ -4,8 +4,8 @@ latitude: 37.23134
 longitude: -121.98021
 postcode: "95030"
 city: Los Gatos
-street: "North Santa Cruz Avenue"
-housenumber: 465
-phone: "+1-408-354-4460"
+street: North Santa Cruz Avenue
+housenumber: "465"
+phone: +1-408-354-4460
 opening_hours: ""
-website: "https://losgatosvacuum.com/"
+website: https://losgatosvacuum.com/

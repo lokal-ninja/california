@@ -1,11 +1,11 @@
 id: 993780730
-type: way
+type: node
 latitude: 32.95531
 longitude: -117.04136
 postcode: "92064"
 city: Poway
-street: "Poway Road"
-housenumber: 13379
+street: Poway Road
+housenumber: "13379"
 phone: "+18588832914"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://www.t-mobile.com/store-locator/ca/poway/poway-community-2"
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
+website: https://www.t-mobile.com/store-locator/ca/poway/poway-community-2

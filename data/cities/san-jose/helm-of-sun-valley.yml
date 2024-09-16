@@ -1,11 +1,11 @@
 id: 104920058
-type: way
+type: node
 latitude: 37.30536
 longitude: -121.97899
 postcode: "95129"
 city: San Jose
-street: "Saratoga Avenue"
-housenumber: 1111
+street: Saratoga Avenue
+housenumber: "1111"
 phone: ""
 opening_hours: ""
-website: "https://helmofsunvalley.com/"
+website: https://helmofsunvalley.com/

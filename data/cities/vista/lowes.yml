@@ -1,11 +1,11 @@
 id: 55056225
-type: way
+type: node
 latitude: 33.19495
 longitude: -117.24804
 postcode: "92083"
 city: Vista
-street: "Vista Village Drive"
-housenumber: 151
-phone: "+1 760-631-6255"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/ca-vista/1616"
+street: Vista Village Drive
+housenumber: "151"
+phone: +1 760-631-6255
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/ca-vista/1616

@@ -1,11 +1,11 @@
 id: 232153042
-type: way
+type: node
 latitude: 37.41499
 longitude: -122.12585
 postcode: ""
 city: Palo Alto
-street: "El Camino Way"
-housenumber: 4085
+street: El Camino Way
+housenumber: "4085"
 phone: ""
 opening_hours: ""
 website: ""

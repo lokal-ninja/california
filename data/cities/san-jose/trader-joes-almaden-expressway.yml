@@ -1,11 +1,11 @@
 id: 200828487
-type: way
+type: node
 latitude: 37.25159
 longitude: -121.8796
 postcode: "95118"
 city: San Jose
-street: "Almaden Expressway"
-housenumber: 5353
-phone: "+1 408-264-8120"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://locations.traderjoes.com/ca/san-jose/63/"
+street: Almaden Expressway
+housenumber: "5353"
+phone: +1 408-264-8120
+opening_hours: Mo-Su 08:00-21:00
+website: https://locations.traderjoes.com/ca/san-jose/63/

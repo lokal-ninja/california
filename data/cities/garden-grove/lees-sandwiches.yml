@@ -1,11 +1,11 @@
 id: 184839246
-type: way
+type: node
 latitude: 33.76008
 longitude: -117.95564
 postcode: ""
 city: Garden Grove
-street: "Brookhurst Street"
-housenumber: 13991
-phone: "+1-714-636-2288"
-opening_hours: "24/7"
+street: Brookhurst Street
+housenumber: "13991"
+phone: +1-714-636-2288
+opening_hours: 24/7
 website: ""

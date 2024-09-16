@@ -1,11 +1,11 @@
 id: 1288317192
-type: way
+type: node
 latitude: 34.23537
 longitude: -118.48585
 postcode: "91343"
 city: North Hills
-street: "Nordhoff Street"
-housenumber: 16214
+street: Nordhoff Street
+housenumber: "16214"
 phone: ""
 opening_hours: ""
-website: "https://www.kneedle.com/"
+website: https://www.kneedle.com/

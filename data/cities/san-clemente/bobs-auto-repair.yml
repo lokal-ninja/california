@@ -1,11 +1,11 @@
 id: 436797665
-type: way
+type: node
 latitude: 33.43469
 longitude: -117.6246
 postcode: "92672"
 city: San Clemente
-street: "Calle de Los Molinos"
-housenumber: 219
+street: Calle de Los Molinos
+housenumber: "219"
 phone: ""
 opening_hours: ""
 website: ""

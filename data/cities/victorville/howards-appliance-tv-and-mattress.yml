@@ -1,11 +1,11 @@
 id: 1021538012
-type: way
+type: node
 latitude: 34.51331
 longitude: -117.31948
 postcode: "92395"
 city: Victorville
-street: "Atstar Street"
-housenumber: 14444
-phone: "+1-760-245-3731"
+street: Atstar Street
+housenumber: "14444"
+phone: +1-760-245-3731
 opening_hours: ""
-website: "https://www.howards.com/"
+website: https://www.howards.com/

@@ -1,11 +1,11 @@
 id: 31816431
-type: way
+type: node
 latitude: 32.89128
 longitude: -117.21092
 postcode: "92121"
 city: San Diego
-street: "Sorrento Valley Road"
-housenumber: 10345
+street: Sorrento Valley Road
+housenumber: "10345"
 phone: "8584531001"
 opening_hours: ""
-website: "https://www.sandiegoselfstorage.com/self-storage/ca/san-diego/golden-triangle-self-storage/#/units?category=Small"
+website: https://www.sandiegoselfstorage.com/self-storage/ca/san-diego/golden-triangle-self-storage/#/units?category=Small

@@ -1,11 +1,11 @@
 id: 1080658103
-type: way
+type: node
 latitude: 35.63651
 longitude: -117.6709
 postcode: "93555"
 city: Ridgecrest
-street: "Drummond Avenue"
-housenumber: 101
+street: Drummond Avenue
+housenumber: "101"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-101+drummond+ave-ridgecrest-ca-93555/id=9030"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.walgreens.com/locator/walgreens-101+drummond+ave-ridgecrest-ca-93555/id=9030

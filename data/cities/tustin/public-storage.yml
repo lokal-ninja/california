@@ -1,11 +1,11 @@
 id: 111877177
-type: way
+type: node
 latitude: 33.71469
 longitude: -117.8125
 postcode: "92780"
 city: Tustin
-street: "Franklin Avenue"
-housenumber: 14861
-phone: "657-622-0712"
-opening_hours: "Mo-Fr 06:00-18:00; Sa-Su 06:00-17:00"
-website: "https://www.publicstorage.com/self-storage-ca-tustin/261.html"
+street: Franklin Avenue
+housenumber: "14861"
+phone: 657-622-0712
+opening_hours: Mo-Fr 06:00-18:00; Sa-Su 06:00-17:00
+website: https://www.publicstorage.com/self-storage-ca-tustin/261.html

@@ -1,11 +1,11 @@
 id: 465944864
-type: way
+type: node
 latitude: 37.75917
 longitude: -122.23818
 postcode: "94501"
 city: Alameda
-street: "Encinal Avenue"
-housenumber: 2801
-phone: "+1 510-523-4821"
+street: Encinal Avenue
+housenumber: "2801"
+phone: +1 510-523-4821
 opening_hours: ""
-website: "https://www.truevalue.com/encinaltruevaluehardware"
+website: https://www.truevalue.com/encinaltruevaluehardware

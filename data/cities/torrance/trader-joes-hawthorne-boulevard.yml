@@ -1,11 +1,11 @@
 id: 337923805
-type: way
+type: node
 latitude: 33.85238
 longitude: -118.35345
 postcode: "90503"
 city: Torrance
-street: "Hawthorne Boulevard"
-housenumber: 19720
-phone: "+1 310-793-8585"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://locations.traderjoes.com/ca/torrance/121/"
+street: Hawthorne Boulevard
+housenumber: "19720"
+phone: +1 310-793-8585
+opening_hours: Mo-Su 08:00-21:00
+website: https://locations.traderjoes.com/ca/torrance/121/

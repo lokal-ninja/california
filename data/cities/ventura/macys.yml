@@ -1,11 +1,11 @@
 id: 781984586
-type: way
+type: node
 latitude: 34.2678
 longitude: -119.24854
 postcode: "93003"
 city: Ventura
-street: "South Mills Road"
-housenumber: 477
+street: South Mills Road
+housenumber: "477"
 phone: ""
 opening_hours: ""
-website: "https://www.macys.com/stores/ca/ventura/pacific-view_494.html"
+website: https://www.macys.com/stores/ca/ventura/pacific-view_494.html

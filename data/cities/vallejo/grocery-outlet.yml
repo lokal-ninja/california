@@ -1,11 +1,11 @@
 id: 175985869
-type: way
+type: node
 latitude: 38.11135
 longitude: -122.22834
 postcode: "94591"
 city: Vallejo
-street: "Admiral Callaghan Lane"
-housenumber: 66
+street: Admiral Callaghan Lane
+housenumber: "66"
 phone: ""
 opening_hours: ""
 website: ""

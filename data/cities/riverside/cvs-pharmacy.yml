@@ -1,11 +1,11 @@
 id: 233662991
-type: way
+type: node
 latitude: 33.93248
 longitude: -117.42331
 postcode: "92504"
 city: Riverside
-street: "Magnolia Avenue"
-housenumber: 8280
-phone: "+1-951-687-1308"
-opening_hours: "24/7"
-website: "https://www.cvs.com/store-locator/cvs-pharmacy-address/8280+Magnolia+Avenue-Riverside-CA-92504/storeid=9849"
+street: Magnolia Avenue
+housenumber: "8280"
+phone: +1-951-687-1308
+opening_hours: 24/7
+website: https://www.cvs.com/store-locator/cvs-pharmacy-address/8280+Magnolia+Avenue-Riverside-CA-92504/storeid=9849

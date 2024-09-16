@@ -1,11 +1,11 @@
 id: 482563935
-type: way
+type: node
 latitude: 39.67681
 longitude: -120.24188
 postcode: "96118"
 city: Loyalton
-street: "School Street"
-housenumber: 605
+street: School Street
+housenumber: "605"
 phone: ""
-opening_hours: "Tu,Th,Fr 10:00-14:00"
+opening_hours: Tu,Th,Fr 10:00-14:00
 website: ""

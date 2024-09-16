@@ -1,11 +1,11 @@
 id: 259804439
-type: way
+type: node
 latitude: 37.77408
 longitude: -122.21814
 postcode: "94601"
 city: oakland
-street: "International Boulevard"
-housenumber: 3958
-phone: "510-534-9694"
+street: International Boulevard
+housenumber: "3958"
+phone: 510-534-9694
 opening_hours: ""
-website: "www.yoyisbridal.net"
+website: www.yoyisbridal.net

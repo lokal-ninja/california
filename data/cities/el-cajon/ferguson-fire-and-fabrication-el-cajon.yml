@@ -1,11 +1,11 @@
 id: 962064310
-type: way
+type: node
 latitude: 32.82275
 longitude: -116.96286
 postcode: "92020"
 city: El Cajon
-street: "North Magnolia Avenue"
-housenumber: 1710
+street: North Magnolia Avenue
+housenumber: "1710"
 phone: "+16195968857"
 opening_hours: ""
-website: "https://www.ferguson.com/branch/el-cajon-ca-fire-fabrication"
+website: https://www.ferguson.com/branch/el-cajon-ca-fire-fabrication

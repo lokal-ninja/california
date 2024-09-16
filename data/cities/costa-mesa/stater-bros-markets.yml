@@ -4,8 +4,8 @@ latitude: 33.65069
 longitude: -117.90874
 postcode: "92627"
 city: Costa Mesa
-street: "Newport Boulevard"
-housenumber: 2180
-phone: "+1 949-646-2324"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.staterbros.com/stores/25"
+street: Newport Boulevard
+housenumber: "2180"
+phone: +1 949-646-2324
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.staterbros.com/stores/25

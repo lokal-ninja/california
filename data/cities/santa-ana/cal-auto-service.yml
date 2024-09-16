@@ -1,11 +1,11 @@
 id: 827213827
-type: way
+type: node
 latitude: 33.75947
 longitude: -117.92717
 postcode: "92703"
 city: Santa Ana
-street: "Westminster Boulevard"
-housenumber: 4320
+street: Westminster Boulevard
+housenumber: "4320"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-17:00"
+opening_hours: Mo-Fr 08:00-19:00, Sa 08:00-17:00
 website: ""

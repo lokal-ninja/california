@@ -1,11 +1,11 @@
 id: 426813428
-type: way
+type: node
 latitude: 34.01269
 longitude: -118.21013
 postcode: "90058"
 city: Los Angeles
-street: "East 26th Street"
-housenumber: 3411
-phone: "+1-323-263-9361"
-opening_hours: "Mo-Fr 08:00-15:00"
-website: "https://bohnhofflumber.com/"
+street: East 26th Street
+housenumber: "3411"
+phone: +1-323-263-9361
+opening_hours: Mo-Fr 08:00-15:00
+website: https://bohnhofflumber.com/

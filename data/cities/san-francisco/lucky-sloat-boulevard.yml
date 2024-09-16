@@ -1,11 +1,11 @@
 id: 28694027
-type: way
+type: node
 latitude: 37.73347
 longitude: -122.48915
 postcode: "94132"
 city: San Francisco
-street: "Sloat Boulevard"
-housenumber: 1515
+street: Sloat Boulevard
+housenumber: "1515"
 phone: ""
 opening_hours: ""
 website: ""

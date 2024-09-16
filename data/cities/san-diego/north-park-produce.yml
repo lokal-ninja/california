@@ -1,11 +1,11 @@
 id: 31807348
-type: way
+type: node
 latitude: 32.75482
 longitude: -117.11634
 postcode: ""
 city: San Diego
-street: "El Cajon Boulevard"
-housenumber: 3551
+street: El Cajon Boulevard
+housenumber: "3551"
 phone: ""
 opening_hours: ""
-website: "https://northparkproduceonline.com/"
+website: https://northparkproduceonline.com/

@@ -1,11 +1,11 @@
 id: 1164986398
-type: way
+type: node
 latitude: 32.83474
 longitude: -117.18869
 postcode: "92117"
 city: San Diego
-street: "Clairemont Mesa Boulevard"
-housenumber: 4724
+street: Clairemont Mesa Boulevard
+housenumber: "4724"
 phone: ""
 opening_hours: ""
-website: "https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-san-diego-ca-10222369/"
+website: https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-san-diego-ca-10222369/

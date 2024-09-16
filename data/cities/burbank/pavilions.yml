@@ -1,11 +1,11 @@
 id: 129381748
-type: way
+type: node
 latitude: 34.16122
 longitude: -118.3131
 postcode: "91506"
 city: Burbank
-street: "West Alameda Ave"
-housenumber: 1110
+street: West Alameda Ave
+housenumber: "1110"
 phone: ""
-opening_hours: "06:00-24:00"
-website: "https://local.pavilions.com/ca/burbank/1110-w-alameda-ave.html"
+opening_hours: 06:00-24:00
+website: https://local.pavilions.com/ca/burbank/1110-w-alameda-ave.html

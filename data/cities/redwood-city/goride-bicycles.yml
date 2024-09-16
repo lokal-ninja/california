@@ -1,11 +1,11 @@
 id: 130819247
-type: way
+type: node
 latitude: 37.47123
 longitude: -122.21432
 postcode: "94061"
 city: Redwood City
-street: "El Camino Real"
-housenumber: 2757
-phone: "(650) 366-2453"
+street: El Camino Real
+housenumber: "2757"
+phone: (650) 366-2453
 opening_hours: ""
-website: "https://goridebicycles.com/"
+website: https://goridebicycles.com/

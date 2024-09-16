@@ -4,8 +4,8 @@ latitude: 37.85671
 longitude: -122.28851
 postcode: ""
 city: Berkeley
-street: "San Pablo Avenue"
-housenumber: 2734
-phone: "(510) 296-8885"
-opening_hours: "Mo-Su 10:00-18:00"
-website: "https://www.radpowerbikes.com/pages/showroom#s-0f8701cc-8ba8-4cbc-9e15-d7f8d6cbba85"
+street: San Pablo Avenue
+housenumber: "2734"
+phone: (510) 296-8885
+opening_hours: Mo-Su 10:00-18:00
+website: https://www.radpowerbikes.com/pages/showroom#s-0f8701cc-8ba8-4cbc-9e15-d7f8d6cbba85

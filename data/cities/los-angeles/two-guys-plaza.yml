@@ -1,11 +1,11 @@
 id: 1083096996
-type: way
+type: node
 latitude: 34.05016
 longitude: -118.29214
 postcode: ""
 city: Los Angeles
-street: "South Vermont Avenue"
-housenumber: 1133
+street: South Vermont Avenue
+housenumber: "1133"
 phone: ""
 opening_hours: ""
 website: ""

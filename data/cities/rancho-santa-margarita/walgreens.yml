@@ -1,11 +1,11 @@
 id: 291218663
-type: way
+type: node
 latitude: 33.64315
 longitude: -117.59813
 postcode: "92688"
 city: Rancho Santa Margarita
-street: "Santa Margarita Parkway"
-housenumber: 30592
+street: Santa Margarita Parkway
+housenumber: "30592"
 phone: ""
 opening_hours: ""
 website: ""

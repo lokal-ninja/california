@@ -4,8 +4,8 @@ latitude: 38.43718
 longitude: -122.71923
 postcode: "95401"
 city: Santa Rosa
-street: "3rd Street"
-housenumber: 145
+street: 3rd Street
+housenumber: "145"
 phone: "+17075081363"
 opening_hours: ""
-website: "https://soledesire.com/"
+website: https://soledesire.com/

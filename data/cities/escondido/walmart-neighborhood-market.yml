@@ -1,11 +1,11 @@
 id: 75837395
-type: way
+type: node
 latitude: 33.13197
 longitude: -117.06697
 postcode: "92027"
 city: Escondido
-street: "East Valley Parkway"
-housenumber: 1266
-phone: "+1 760-871-6760"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/3084-escondido-ca"
+street: East Valley Parkway
+housenumber: "1266"
+phone: +1 760-871-6760
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/3084-escondido-ca

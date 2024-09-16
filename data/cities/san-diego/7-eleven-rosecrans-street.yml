@@ -1,11 +1,11 @@
 id: 31810154
-type: way
+type: node
 latitude: 32.73032
 longitude: -117.22481
 postcode: "92106"
 city: San Diego
-street: "Rosecrans Street"
-housenumber: 1826
+street: Rosecrans Street
+housenumber: "1826"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

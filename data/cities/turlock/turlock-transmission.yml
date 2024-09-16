@@ -4,8 +4,8 @@ latitude: 37.50256
 longitude: -120.85289
 postcode: "95380"
 city: Turlock
-street: "North Golden State Boulevard"
-housenumber: 1000
+street: North Golden State Boulevard
+housenumber: "1000"
 phone: "+12096684486"
-opening_hours: "8:00-16:00"
+opening_hours: 8:00-16:00
 website: ""

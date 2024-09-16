@@ -1,11 +1,11 @@
 id: 678563822
-type: way
+type: node
 latitude: 33.70718
 longitude: -116.26783
 postcode: "92201"
 city: Indio
-street: "Highway 111"
-housenumber: 80225
-phone: "+1-760-347-0996"
+street: Highway 111
+housenumber: "80225"
+phone: +1-760-347-0996
 opening_hours: ""
-website: "https://shieldsdategarden.com"
+website: https://shieldsdategarden.com

@@ -1,11 +1,11 @@
 id: 31803326
-type: way
+type: node
 latitude: 32.83601
 longitude: -117.12701
 postcode: "92123"
 city: San Diego
-street: "Ruffin Road"
-housenumber: 5560
+street: Ruffin Road
+housenumber: "5560"
 phone: ""
-opening_hours: "Mo-Th 07:30-17:30; Fr 07:30-17:00"
-website: "https://mesareprographics.com/"
+opening_hours: Mo-Th 07:30-17:30; Fr 07:30-17:00
+website: https://mesareprographics.com/

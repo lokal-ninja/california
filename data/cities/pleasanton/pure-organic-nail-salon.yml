@@ -1,11 +1,11 @@
 id: 384584258
-type: way
+type: node
 latitude: 37.6568
 longitude: -121.89779
 postcode: "94566"
 city: Pleasanton
-street: "Bernal Avenue"
-housenumber: 6754
+street: Bernal Avenue
+housenumber: "6754"
 phone: ""
 opening_hours: ""
 website: ""

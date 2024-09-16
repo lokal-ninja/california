@@ -4,8 +4,8 @@ latitude: 32.95664
 longitude: -117.26468
 postcode: "92014"
 city: Del Mar
-street: "12th Street"
-housenumber: 220
-phone: "+1-858-336-3999"
-opening_hours: "24/7"
-website: "https://healthyhairnectar.com/"
+street: 12th Street
+housenumber: "220"
+phone: +1-858-336-3999
+opening_hours: 24/7
+website: https://healthyhairnectar.com/

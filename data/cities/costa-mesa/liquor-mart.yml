@@ -1,11 +1,11 @@
 id: 552693748
-type: way
+type: node
 latitude: 33.65171
 longitude: -117.9465
 postcode: "92627"
 city: Costa Mesa
-street: "Victoria Street"
-housenumber: 1125
+street: Victoria Street
+housenumber: "1125"
 phone: ""
 opening_hours: ""
 website: ""

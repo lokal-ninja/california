@@ -1,11 +1,11 @@
 id: 39019287
-type: way
+type: node
 latitude: 37.36121
 longitude: -121.89719
 postcode: "95112"
 city: San Jose
-street: "North 10th Street"
-housenumber: 1075
+street: North 10th Street
+housenumber: "1075"
 phone: ""
 opening_hours: ""
 website: ""

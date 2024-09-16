@@ -1,11 +1,11 @@
 id: 501456424
-type: way
+type: node
 latitude: 33.73483
 longitude: -117.81563
 postcode: "92780"
 city: Tustin
-street: "El Camino Real"
-housenumber: 1431
+street: El Camino Real
+housenumber: "1431"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 764260726
-type: way
+type: node
 latitude: 33.62112
 longitude: -117.65982
 postcode: "92691"
 city: Mission Viejo
-street: "Trabuco Road"
-housenumber: 26911
+street: Trabuco Road
+housenumber: "26911"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.smartandfinal.com/"
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.smartandfinal.com/

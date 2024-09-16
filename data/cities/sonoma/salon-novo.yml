@@ -4,8 +4,8 @@ latitude: 38.28937
 longitude: -122.4596
 postcode: "95476"
 city: Sonoma
-street: "1st Street West"
-housenumber: 651
+street: 1st Street West
+housenumber: "651"
 phone: ""
 opening_hours: ""
-website: "https://salonnovo.com/"
+website: https://salonnovo.com/

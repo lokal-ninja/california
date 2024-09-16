@@ -4,8 +4,8 @@ latitude: 37.77105
 longitude: -122.42417
 postcode: "94103"
 city: San Francisco
-street: "Market Street"
-housenumber: 1831
+street: Market Street
+housenumber: "1831"
 phone: ""
-opening_hours: "24/7 off closed for summer cleaning"
-website: "http://www.dlxsf.com/shop/"
+opening_hours: 24/7 off "closed for summer cleaning"
+website: http://www.dlxsf.com/shop/

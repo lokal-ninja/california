@@ -1,11 +1,11 @@
 id: 1239826684
-type: way
+type: node
 latitude: 36.3094
 longitude: -119.20762
 postcode: "93223"
 city: Farmersville
-street: "North Farmersville Boulevard"
-housenumber: 1409
-phone: "+1-559-747-3005"
+street: North Farmersville Boulevard
+housenumber: "1409"
+phone: +1-559-747-3005
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ca/farmersville/autoparts-4734.html"
+website: https://locations.oreillyauto.com/ca/farmersville/autoparts-4734.html

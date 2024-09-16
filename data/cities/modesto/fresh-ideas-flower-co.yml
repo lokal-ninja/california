@@ -4,8 +4,8 @@ latitude: 37.64308
 longitude: -121.00467
 postcode: "95354"
 city: Modesto
-street: "9th Street"
-housenumber: 1302
-phone: "+1-209-572-0287"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-13:00"
-website: "https://freshideasmodesto.com"
+street: 9th Street
+housenumber: "1302"
+phone: +1-209-572-0287
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-13:00
+website: https://freshideasmodesto.com

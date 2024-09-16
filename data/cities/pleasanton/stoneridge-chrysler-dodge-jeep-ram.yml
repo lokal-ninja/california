@@ -1,11 +1,11 @@
 id: 436810985
-type: way
+type: node
 latitude: 37.69879
 longitude: -121.85068
 postcode: "94588"
 city: Pleasanton
-street: "Stoneridge Drive"
-housenumber: 2700
+street: Stoneridge Drive
+housenumber: "2700"
 phone: ""
 opening_hours: ""
 website: ""

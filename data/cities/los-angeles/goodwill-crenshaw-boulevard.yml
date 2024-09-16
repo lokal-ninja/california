@@ -1,11 +1,11 @@
 id: 409386166
-type: way
+type: node
 latitude: 34.01878
 longitude: -118.33347
 postcode: "90018"
 city: Los Angeles
-street: "Crenshaw Boulevard"
-housenumber: 3726
-phone: "+1-323-2930-0907"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-20:00"
-website: "https://www.goodwillsocal.org"
+street: Crenshaw Boulevard
+housenumber: "3726"
+phone: +1-323-2930-0907
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-20:00
+website: https://www.goodwillsocal.org

@@ -1,11 +1,11 @@
 id: 337497191
-type: way
+type: node
 latitude: 33.98927
 longitude: -118.36375
 postcode: "90056"
 city: Los Angeles
-street: "West Slauson Avenue"
-housenumber: 4925
-phone: "+1 323-298-4610"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Ladera-Heights/CA/Los-Angeles/90056/1061"
+street: West Slauson Avenue
+housenumber: "4925"
+phone: +1 323-298-4610
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Ladera-Heights/CA/Los-Angeles/90056/1061

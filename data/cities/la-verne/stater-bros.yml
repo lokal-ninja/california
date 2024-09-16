@@ -1,11 +1,11 @@
 id: 461966013
-type: way
+type: node
 latitude: 34.11242
 longitude: -117.76591
 postcode: "91750"
 city: La Verne
-street: "Foothill Boulevard"
-housenumber: 2090
-phone: "+1 909-593-1591"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.staterbros.com/stores/48"
+street: Foothill Boulevard
+housenumber: "2090"
+phone: +1 909-593-1591
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.staterbros.com/stores/48

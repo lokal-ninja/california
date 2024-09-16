@@ -4,8 +4,9 @@ latitude: 37.99977
 longitude: -121.31448
 postcode: "95207"
 city: Stockton
-street: "Pacific Avenue"
-housenumber: 5406
-phone: "+1 209-478-7726"
-opening_hours: "Mo 09:00-20:00; Tu 09:00-19:00; We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ca/stockton/pet-supplies-stockton-ca-1319.html"
+street: Pacific Avenue
+housenumber: "5406"
+phone: +1 209-478-7726
+opening_hours: Mo 09:00-20:00; Tu 09:00-19:00; We 09:00-20:00; Th 09:00-19:00; Fr-Sa
+    09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/ca/stockton/pet-supplies-stockton-ca-1319.html

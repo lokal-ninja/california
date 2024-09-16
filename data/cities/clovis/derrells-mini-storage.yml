@@ -1,11 +1,11 @@
 id: 61715854
-type: way
+type: node
 latitude: 36.84659
 longitude: -119.72734
 postcode: "93611"
 city: Clovis
-street: "North Willow Avenue"
-housenumber: 955
+street: North Willow Avenue
+housenumber: "955"
 phone: "+15593222093"
-opening_hours: "Mo-Su 07:00-19:00"
-website: "https://www.derrels.com/storage-units/california/clovis/derrels-mini-storage-inc-350051/?utm_source=google&utm_medium=GoogleMaps"
+opening_hours: Mo-Su 07:00-19:00
+website: https://www.derrels.com/storage-units/california/clovis/derrels-mini-storage-inc-350051/?utm_source=google&utm_medium=GoogleMaps

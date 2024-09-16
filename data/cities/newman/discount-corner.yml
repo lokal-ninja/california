@@ -1,11 +1,11 @@
 id: 177228753
-type: way
+type: node
 latitude: 37.31469
 longitude: -121.02172
 postcode: "95360"
 city: Newman
-street: "N Street"
-housenumber: 1405
+street: N Street
+housenumber: "1405"
 phone: ""
 opening_hours: ""
 website: ""

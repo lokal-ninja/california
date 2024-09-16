@@ -1,11 +1,11 @@
 id: 363529046
-type: way
+type: node
 latitude: 37.32356
 longitude: -121.89843
 postcode: "95126"
 city: San Jose
-street: "Auzerais Avenue"
-housenumber: 570
+street: Auzerais Avenue
+housenumber: "570"
 phone: ""
 opening_hours: ""
 website: ""

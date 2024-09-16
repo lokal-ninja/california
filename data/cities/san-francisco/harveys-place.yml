@@ -1,11 +1,11 @@
 id: 256969995
-type: way
+type: node
 latitude: 37.77984
 longitude: -122.40307
 postcode: ""
 city: San Francisco
-street: "5th Street"
-housenumber: 330
+street: 5th Street
+housenumber: "330"
 phone: ""
 opening_hours: ""
 website: ""

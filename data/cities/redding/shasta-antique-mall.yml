@@ -1,11 +1,11 @@
 id: 731218140
-type: way
+type: node
 latitude: 40.56821
 longitude: -122.36315
 postcode: "96002"
 city: Redding
-street: "Bechelli Lane"
-housenumber: 2680
-phone: "+1 (530) 223-2296"
+street: Bechelli Lane
+housenumber: "2680"
+phone: +1 (530) 223-2296
 opening_hours: ""
 website: ""

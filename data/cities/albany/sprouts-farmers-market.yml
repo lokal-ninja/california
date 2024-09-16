@@ -4,8 +4,8 @@ latitude: 37.88521
 longitude: -122.29788
 postcode: "94706"
 city: Albany
-street: "Monroe Street"
-housenumber: 1075
-phone: "+1 510-345-0461"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/ca/albany/albany/"
+street: Monroe Street
+housenumber: "1075"
+phone: +1 510-345-0461
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/ca/albany/albany/

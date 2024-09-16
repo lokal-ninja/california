@@ -4,8 +4,8 @@ latitude: 34.14295
 longitude: -118.25865
 postcode: "91204"
 city: Glendale
-street: "Colorado Street"
-housenumber: 317
-phone: "+1 818-334-1400"
-opening_hours: "08:00-23:00"
-website: "https://www.target.com/sl/glendale/2307"
+street: Colorado Street
+housenumber: "317"
+phone: +1 818-334-1400
+opening_hours: 08:00-23:00
+website: https://www.target.com/sl/glendale/2307

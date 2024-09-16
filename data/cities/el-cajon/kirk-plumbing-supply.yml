@@ -1,11 +1,11 @@
 id: 956996558
-type: way
+type: node
 latitude: 32.79452
 longitude: -116.97161
 postcode: "92020"
 city: El Cajon
-street: "South Johnson Avenue"
-housenumber: 132
-phone: "1 619 440 6737"
+street: South Johnson Avenue
+housenumber: "132"
+phone: 1 619 440 6737
 opening_hours: ""
-website: "https://www.kirkplumbingsupply.com/"
+website: https://www.kirkplumbingsupply.com/

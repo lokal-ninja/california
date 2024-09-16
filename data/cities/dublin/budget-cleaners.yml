@@ -4,8 +4,8 @@ latitude: 37.70596
 longitude: -121.93305
 postcode: "94568"
 city: Dublin
-street: "Regional Street"
-housenumber: 7257
+street: Regional Street
+housenumber: "7257"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00;Sa 08:00-17:00;Su 10:00-16:00"
+opening_hours: Mo-Fr 07:30-19:00;Sa 08:00-17:00;Su 10:00-16:00
 website: ""

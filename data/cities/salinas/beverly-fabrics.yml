@@ -1,11 +1,11 @@
 id: 201721732
-type: way
+type: node
 latitude: 36.67266
 longitude: -121.65523
 postcode: "93901"
 city: Salinas
-street: "Midtown Lane"
-housenumber: 344
-phone: "831-422-1508"
-opening_hours: "Mo-Fr 9:00-19:00; Sa 9:00-18:00; Su 10:00-17:00"
-website: "https://beverlys.com/salinas-store.html"
+street: Midtown Lane
+housenumber: "344"
+phone: 831-422-1508
+opening_hours: Mo-Fr 9:00-19:00; Sa 9:00-18:00; Su 10:00-17:00
+website: https://beverlys.com/salinas-store.html

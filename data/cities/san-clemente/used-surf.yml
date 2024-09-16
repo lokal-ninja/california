@@ -1,11 +1,11 @@
 id: 436797702
-type: way
+type: node
 latitude: 33.4346
 longitude: -117.6242
 postcode: "92672"
 city: San Clemente
-street: "Calle de Los Molinos"
-housenumber: 216
+street: Calle de Los Molinos
+housenumber: "216"
 phone: "9493106602"
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://usedsurf.com"
+opening_hours: Mo-Fr 10:00-18:00
+website: https://usedsurf.com

@@ -1,11 +1,11 @@
 id: 636349593
-type: way
+type: node
 latitude: 33.70983
 longitude: -117.90802
 postcode: "92704"
 city: Santa Ana
-street: "South Fairview Street"
-housenumber: 2850
+street: South Fairview Street
+housenumber: "2850"
 phone: ""
 opening_hours: ""
 website: ""

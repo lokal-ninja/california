@@ -1,11 +1,11 @@
 id: 672472077
-type: way
+type: node
 latitude: 40.86557
 longitude: -124.08368
 postcode: "95521"
 city: Arcata
-street: "F Street"
-housenumber: 600
-phone: "+1 707-822-5217"
-opening_hours: "05:00-02:00"
-website: "https://local.safeway.com/safeway/ca/arcata/600-f-st.html"
+street: F Street
+housenumber: "600"
+phone: +1 707-822-5217
+opening_hours: 05:00-02:00
+website: https://local.safeway.com/safeway/ca/arcata/600-f-st.html

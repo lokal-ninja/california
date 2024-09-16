@@ -1,11 +1,11 @@
 id: 130819520
-type: way
+type: node
 latitude: 37.47853
 longitude: -122.21844
 postcode: "94063"
 city: Redwood City
-street: "Middlefield Road"
-housenumber: 2110
-phone: "+1 650 480 1057"
-opening_hours: "Mo-Sa 07:00-20:00; Su 08:00-18:00"
-website: "https://www.outdoorsupplyhardware.com/"
+street: Middlefield Road
+housenumber: "2110"
+phone: +1 650 480 1057
+opening_hours: Mo-Sa 07:00-20:00; Su 08:00-18:00
+website: https://www.outdoorsupplyhardware.com/

@@ -1,11 +1,11 @@
 id: 107403805
-type: way
+type: node
 latitude: 33.80925
 longitude: -117.92444
 postcode: "92802"
 city: Anaheim
-street: "South Disneyland Drive"
-housenumber: 1501
+street: South Disneyland Drive
+housenumber: "1501"
 phone: ""
 opening_hours: ""
-website: "https://disneyland.disney.go.com/shops/downtown-disney-district/disneys-pin-traders/"
+website: https://disneyland.disney.go.com/shops/downtown-disney-district/disneys-pin-traders/

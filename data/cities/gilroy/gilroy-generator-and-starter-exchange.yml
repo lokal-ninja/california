@@ -1,11 +1,11 @@
 id: 138625134
-type: way
+type: node
 latitude: 37.00636
 longitude: -121.56645
 postcode: "95020"
 city: Gilroy
-street: "Railroad Street"
-housenumber: 7330
+street: Railroad Street
+housenumber: "7330"
 phone: ""
 opening_hours: ""
 website: ""

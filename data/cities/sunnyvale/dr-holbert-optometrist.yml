@@ -4,8 +4,8 @@ latitude: 37.3679
 longitude: -122.03598
 postcode: "94087"
 city: Sunnyvale
-street: "West El Camino Real"
-housenumber: 320
-phone: "+1 408 245 5722"
+street: West El Camino Real
+housenumber: "320"
+phone: +1 408 245 5722
 opening_hours: ""
-website: "https://holbert.com/"
+website: https://holbert.com/

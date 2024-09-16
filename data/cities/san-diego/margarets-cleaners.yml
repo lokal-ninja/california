@@ -4,8 +4,8 @@ latitude: 32.83962
 longitude: -117.27828
 postcode: ""
 city: San Diego
-street: "La Jolla Boulevard"
-housenumber: 7511
+street: La Jolla Boulevard
+housenumber: "7511"
 phone: ""
-opening_hours: "07:00-18:00"
+opening_hours: 07:00-18:00
 website: ""

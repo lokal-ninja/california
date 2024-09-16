@@ -1,11 +1,11 @@
 id: 986501147
-type: way
+type: node
 latitude: 38.93448
 longitude: -121.09303
 postcode: "95603"
 city: Auburn
-street: "Drive In Way"
-housenumber: 2280
+street: Drive In Way
+housenumber: "2280"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/CA/Auburn/2280-DRIVE-IN-WAY"
+website: https://www.speedway.com/locations/CA/Auburn/2280-DRIVE-IN-WAY

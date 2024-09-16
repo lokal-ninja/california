@@ -1,11 +1,11 @@
 id: 28239339
-type: way
+type: node
 latitude: 36.85297
 longitude: -121.40087
-postcode: "95023-3922"
+postcode: 95023-3922
 city: Hollister
-street: "4th St"
-housenumber: 140
+street: 4th St
+housenumber: "140"
 phone: ""
 opening_hours: ""
 website: ""

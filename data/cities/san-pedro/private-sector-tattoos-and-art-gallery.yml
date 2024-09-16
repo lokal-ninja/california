@@ -4,8 +4,8 @@ latitude: 33.73857
 longitude: -118.28388
 postcode: "90731"
 city: San Pedro
-street: "West 6th Street"
-housenumber: 315
+street: West 6th Street
+housenumber: "315"
 phone: ""
-opening_hours: "by appointment"
-website: "https://www.instagram.com/private_sector_tattoo/"
+opening_hours: '"by appointment"'
+website: https://www.instagram.com/private_sector_tattoo/

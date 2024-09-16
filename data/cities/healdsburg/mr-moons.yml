@@ -1,11 +1,11 @@
 id: 238156962
-type: way
+type: node
 latitude: 38.61112
 longitude: -122.86945
 postcode: ""
 city: Healdsburg
-street: "Center street"
-housenumber: 316
-phone: "+1 707-433-6666"
-opening_hours: "Mo-Su 10:00-18:00"
-website: "https://www.facebook.com/pages/Mr-Moons/446118968800663?id=446118968800663&sk=info"
+street: Center street
+housenumber: "316"
+phone: +1 707-433-6666
+opening_hours: Mo-Su 10:00-18:00
+website: https://www.facebook.com/pages/Mr-Moons/446118968800663?id=446118968800663&sk=info

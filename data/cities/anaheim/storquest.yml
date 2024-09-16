@@ -1,11 +1,11 @@
 id: 608012555
-type: way
+type: node
 latitude: 33.82722
 longitude: -117.92828
 postcode: "92802"
 city: Anaheim
-street: "South Walnut Street"
-housenumber: 500
-phone: "+1-714-243-8799"
-opening_hours: "Mo-Su 06:00-20:00"
-website: "https://www.storquest.com/self-storage/ca/anaheim/1435/"
+street: South Walnut Street
+housenumber: "500"
+phone: +1-714-243-8799
+opening_hours: Mo-Su 06:00-20:00
+website: https://www.storquest.com/self-storage/ca/anaheim/1435/

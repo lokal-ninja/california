@@ -1,11 +1,11 @@
 id: 375228929
-type: way
+type: node
 latitude: 32.83969
 longitude: -117.27848
 postcode: ""
 city: San Diego
-street: "La Jolla Boulevard"
-housenumber: 7527
+street: La Jolla Boulevard
+housenumber: "7527"
 phone: ""
 opening_hours: ""
 website: ""

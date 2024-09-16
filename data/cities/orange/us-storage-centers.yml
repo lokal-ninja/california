@@ -1,11 +1,11 @@
 id: 448988186
-type: way
+type: node
 latitude: 33.81215
 longitude: -117.86782
 postcode: "92867"
 city: Orange
-street: "North Main Street"
-housenumber: 1406
+street: North Main Street
+housenumber: "1406"
 phone: ""
 opening_hours: ""
 website: ""

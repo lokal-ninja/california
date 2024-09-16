@@ -1,11 +1,11 @@
 id: 1235145368
-type: way
+type: node
 latitude: 32.81057
 longitude: -115.38277
 postcode: "92250"
 city: Holtville
-street: "West 5th Street"
-housenumber: 308
+street: West 5th Street
+housenumber: "308"
 phone: ""
 opening_hours: ""
 website: ""

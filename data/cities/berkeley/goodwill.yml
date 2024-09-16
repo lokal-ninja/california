@@ -4,8 +4,8 @@ latitude: 37.87187
 longitude: -122.26931
 postcode: ""
 city: Berkeley
-street: "University Avenue"
-housenumber: 2058
+street: University Avenue
+housenumber: "2058"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00, Su 10:00-19:00"
-website: "https://eastbaygoodwill.org/"
+opening_hours: Mo-Sa 09:00-20:00, Su 10:00-19:00
+website: https://eastbaygoodwill.org/

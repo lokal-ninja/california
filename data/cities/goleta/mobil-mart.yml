@@ -1,11 +1,11 @@
 id: 567357681
-type: way
+type: node
 latitude: 34.43511
 longitude: -119.8722
 postcode: "93117"
 city: Goleta
-street: "Glen Annie Road"
-housenumber: 49
+street: Glen Annie Road
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

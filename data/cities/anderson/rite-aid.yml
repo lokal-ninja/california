@@ -4,8 +4,8 @@ latitude: 40.45642
 longitude: -122.2935
 postcode: "96007"
 city: Anderson
-street: "McMurray Drive"
-housenumber: 3095
-phone: "+1 530-365-5753"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://locations2.riteaid.com.yext-cdn.com/ca/anderson/3095-mcmurray-drive.html"
+street: McMurray Drive
+housenumber: "3095"
+phone: +1 530-365-5753
+opening_hours: Mo-Su 08:00-22:00
+website: https://locations2.riteaid.com.yext-cdn.com/ca/anderson/3095-mcmurray-drive.html

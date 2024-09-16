@@ -1,11 +1,11 @@
 id: 1006767318
-type: way
+type: node
 latitude: 34.57561
 longitude: -118.04805
 postcode: "93552"
 city: Palmdale
-street: "47th Street East"
-housenumber: 38147
-phone: "+1 661-533-9148"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ca/palmdale-store1762.html"
+street: 47th Street East
+housenumber: "38147"
+phone: +1 661-533-9148
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ca/palmdale-store1762.html

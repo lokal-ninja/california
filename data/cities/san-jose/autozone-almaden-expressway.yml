@@ -1,11 +1,11 @@
 id: 452403889
-type: way
+type: node
 latitude: 37.26354
 longitude: -121.87643
 postcode: "95136"
 city: San Jose
-street: "Almaden Expressway"
-housenumber: 4580
+street: Almaden Expressway
+housenumber: "4580"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ca/san-jose/4580-almaden-expy.html"
+website: https://www.autozone.com/locations/ca/san-jose/4580-almaden-expy.html

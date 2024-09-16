@@ -1,11 +1,11 @@
 id: 431471101
-type: way
+type: node
 latitude: 33.63815
 longitude: -117.59092
 postcode: "92688"
 city: Rancho Santa Margarita
-street: "Antonio Parkway"
-housenumber: 22361
+street: Antonio Parkway
+housenumber: "22361"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/rancho-santa-margarita-ca-pharmacies/22361-antonio-pkwy-rancho-santa-margarita-ca-92688/storeid=6770"
+website: https://www.cvs.com/store-locator/rancho-santa-margarita-ca-pharmacies/22361-antonio-pkwy-rancho-santa-margarita-ca-92688/storeid=6770

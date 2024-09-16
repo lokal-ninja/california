@@ -1,11 +1,11 @@
 id: 551782863
-type: way
+type: node
 latitude: 37.96071
 longitude: -122.06091
 postcode: "94523"
 city: Pleasant Hill
-street: "Contra Costa Boulevard"
-housenumber: 1150
+street: Contra Costa Boulevard
+housenumber: "1150"
 phone: ""
 opening_hours: ""
 website: ""

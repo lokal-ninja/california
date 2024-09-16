@@ -1,11 +1,11 @@
 id: 273331515
-type: way
+type: node
 latitude: 37.78659
 longitude: -122.45071
 postcode: "94118"
 city: San Francisco
-street: "California Street"
-housenumber: 3445
+street: California Street
+housenumber: "3445"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Su off"
+opening_hours: Mo-Sa 09:00-18:00; Su off
 website: ""

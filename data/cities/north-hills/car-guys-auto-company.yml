@@ -1,11 +1,11 @@
 id: 1314527209
-type: way
+type: node
 latitude: 34.22715
 longitude: -118.46752
 postcode: "91343"
 city: North Hills
-street: "Sepulveda Boulevard"
-housenumber: 8646
+street: Sepulveda Boulevard
+housenumber: "8646"
 phone: ""
 opening_hours: ""
-website: "https://www.carguysca.com/"
+website: https://www.carguysca.com/

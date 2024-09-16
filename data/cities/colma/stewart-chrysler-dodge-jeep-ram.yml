@@ -1,11 +1,11 @@
 id: 382759639
-type: way
+type: node
 latitude: 37.67425
 longitude: -122.46338
 postcode: "94014"
 city: Colma
-street: "Serramonte Boulevard"
-housenumber: 800
+street: Serramonte Boulevard
+housenumber: "800"
 phone: ""
 opening_hours: ""
 website: ""

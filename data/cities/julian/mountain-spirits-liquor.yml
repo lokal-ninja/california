@@ -1,11 +1,11 @@
 id: 526639082
-type: way
+type: node
 latitude: 33.07849
 longitude: -116.60181
 postcode: ""
 city: Julian
-street: "Main Street"
-housenumber: 2120
+street: Main Street
+housenumber: "2120"
 phone: ""
 opening_hours: ""
 website: ""

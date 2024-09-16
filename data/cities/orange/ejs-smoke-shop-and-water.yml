@@ -1,11 +1,11 @@
 id: 1119956640
-type: way
+type: node
 latitude: 33.83369
 longitude: -117.83826
 postcode: "92865"
 city: Orange
-street: "East Lincoln Avenue"
-housenumber: 1514
-phone: "+1-714-912-4341"
-opening_hours: "Mo-Sa 09:00-22:00; Su 10:00-22:00"
+street: East Lincoln Avenue
+housenumber: "1514"
+phone: +1-714-912-4341
+opening_hours: Mo-Sa 09:00-22:00; Su 10:00-22:00
 website: ""

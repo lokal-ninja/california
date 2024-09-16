@@ -1,11 +1,11 @@
 id: 269108649
-type: way
+type: node
 latitude: 37.30451
 longitude: -120.50694
 postcode: "95341"
 city: Merced
-street: "Virginia Street"
-housenumber: 1735
-phone: "+1 209-722-2600"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/merced/ca/merced/95341/6618"
+street: Virginia Street
+housenumber: "1735"
+phone: +1 209-722-2600
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/merced/ca/merced/95341/6618

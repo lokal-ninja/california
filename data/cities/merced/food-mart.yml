@@ -1,11 +1,11 @@
 id: 311695951
-type: way
+type: node
 latitude: 37.29544
 longitude: -120.41563
 postcode: "95340"
 city: Merced
-street: "East Highway 140"
-housenumber: 3990
+street: East Highway 140
+housenumber: "3990"
 phone: ""
 opening_hours: ""
 website: ""

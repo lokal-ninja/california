@@ -1,11 +1,11 @@
 id: 120377528
-type: way
+type: node
 latitude: 37.7017
 longitude: -122.12593
 postcode: "94578"
 city: San Leandro
-street: "East 14th Street"
-housenumber: 15555
-phone: "+1 510-317-6420"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/ca/sanleandro-762.shtml"
+street: East 14th Street
+housenumber: "15555"
+phone: +1 510-317-6420
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/ca/sanleandro-762.shtml

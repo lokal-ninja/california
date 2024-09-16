@@ -1,11 +1,11 @@
 id: 442357892
-type: way
+type: node
 latitude: 33.94601
 longitude: -118.35159
 postcode: "90304"
 city: Inglewood
-street: "West Century Boulevard"
-housenumber: 4345
+street: West Century Boulevard
+housenumber: "4345"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/inglewood-ca-pharmacies/4345-west-century-boulevard-inglewood-ca-90304/storeid=9584"
+website: https://www.cvs.com/store-locator/inglewood-ca-pharmacies/4345-west-century-boulevard-inglewood-ca-90304/storeid=9584

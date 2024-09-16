@@ -4,8 +4,8 @@ latitude: 38.64102
 longitude: -121.49965
 postcode: "95834"
 city: Sacramento
-street: "North Freeway Boulevard"
-housenumber: 3591
-phone: "+1 916-285-6450"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/sacramento-ca-189"
+street: North Freeway Boulevard
+housenumber: "3591"
+phone: +1 916-285-6450
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/sacramento-ca-189

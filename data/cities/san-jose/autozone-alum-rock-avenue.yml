@@ -1,11 +1,11 @@
 id: 681650783
-type: way
+type: node
 latitude: 37.35841
 longitude: -121.84426
 postcode: "95116"
 city: San Jose
-street: "Alum Rock Avenue"
-housenumber: 2277
+street: Alum Rock Avenue
+housenumber: "2277"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ca/san-jose/2277-alum-rock-rd.html"
+website: https://www.autozone.com/locations/ca/san-jose/2277-alum-rock-rd.html

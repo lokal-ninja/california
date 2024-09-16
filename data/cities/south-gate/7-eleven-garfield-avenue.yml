@@ -1,11 +1,11 @@
 id: 1183724038
-type: way
+type: node
 latitude: 33.9304
 longitude: -118.16779
 postcode: "90280"
 city: South Gate
-street: "Garfield Avenue"
-housenumber: 10840
-phone: "+1 323-203-6349"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ca/south-gate/10840-garfield-ave-37200"
+street: Garfield Avenue
+housenumber: "10840"
+phone: +1 323-203-6349
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ca/south-gate/10840-garfield-ave-37200

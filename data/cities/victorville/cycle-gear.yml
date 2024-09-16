@@ -1,11 +1,11 @@
 id: 122304261
-type: way
+type: node
 latitude: 34.50564
 longitude: -117.327
 postcode: "92392"
 city: Victorville
-street: "Park Avenue"
-housenumber: 14052
+street: Park Avenue
+housenumber: "14052"
 phone: ""
 opening_hours: ""
 website: ""

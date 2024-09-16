@@ -1,11 +1,11 @@
 id: 623254254
-type: way
+type: node
 latitude: 34.41918
 longitude: -119.67875
 postcode: "93103"
 city: Santa Barbara
-street: "Carpinteria Street"
-housenumber: 736
-phone: "+1 805 628 2444"
+street: Carpinteria Street
+housenumber: "736"
+phone: +1 805 628 2444
 opening_hours: ""
-website: "https://www.calcoastadventures.com/"
+website: https://www.calcoastadventures.com/

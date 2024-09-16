@@ -4,8 +4,8 @@ latitude: 33.98586
 longitude: -118.44264
 postcode: "90292"
 city: Marina Del Rey
-street: "Maxella Avenue"
-housenumber: 13488
-phone: "+1-310-827-2297"
-opening_hours: "Mo-Fr 08:00-20:00; Su 12:00-18:00; Sa 09:00-18:00"
-website: "https://local.fedex.com/en-us/ca/marina-del-rey/office-1015"
+street: Maxella Avenue
+housenumber: "13488"
+phone: +1-310-827-2297
+opening_hours: Mo-Fr 08:00-20:00; Su 12:00-18:00; Sa 09:00-18:00
+website: https://local.fedex.com/en-us/ca/marina-del-rey/office-1015

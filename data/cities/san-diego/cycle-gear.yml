@@ -4,8 +4,8 @@ latitude: 32.81785
 longitude: -117.14985
 postcode: "92111"
 city: San Diego
-street: "Kearny Mesa Rd, San Diego, CA 92111"
-housenumber: 4240
-phone: "(858) 565-2500"
-opening_hours: "Mo-Fr 10:00-19:00; Sa, Su 10:00-18:00"
-website: "https://www.cyclegear.com/stores/cycle-gear-san-diego-california-store-110"
+street: Kearny Mesa Rd, San Diego, CA 92111
+housenumber: "4240"
+phone: (858) 565-2500
+opening_hours: Mo-Fr 10:00-19:00; Sa, Su 10:00-18:00
+website: https://www.cyclegear.com/stores/cycle-gear-san-diego-california-store-110

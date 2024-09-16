@@ -1,11 +1,11 @@
 id: 43086776
-type: way
+type: node
 latitude: 34.1334
 longitude: -117.9834
 postcode: "91010"
 city: Duarte
-street: "Mountain Avenue"
-housenumber: 1600
-phone: "+1 626-359-7708"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/2401/duarte-ca/whats-new"
+street: Mountain Avenue
+housenumber: "1600"
+phone: +1 626-359-7708
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/2401/duarte-ca/whats-new

@@ -1,11 +1,11 @@
 id: 132883480
-type: way
+type: node
 latitude: 37.44811
 longitude: -122.15929
 postcode: "94301"
 city: Palo Alto
-street: "University Avenue"
-housenumber: 490
+street: University Avenue
+housenumber: "490"
 phone: ""
 opening_hours: ""
-website: "https://www.instagram.com/presidentbarbershop/"
+website: https://www.instagram.com/presidentbarbershop/

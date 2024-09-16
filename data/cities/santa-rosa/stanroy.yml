@@ -4,8 +4,8 @@ latitude: 38.44259
 longitude: -122.70896
 postcode: "95404"
 city: Santa Rosa
-street: "4th Street"
-housenumber: 850
-phone: "707-545-4827"
+street: 4th Street
+housenumber: "850"
+phone: 707-545-4827
 opening_hours: ""
-website: "https://stanroy.com/"
+website: https://stanroy.com/

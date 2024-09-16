@@ -1,11 +1,11 @@
 id: 741345049
-type: way
+type: node
 latitude: 34.02522
 longitude: -117.68986
 postcode: "91710"
 city: Chino
-street: "Central Avenue"
-housenumber: 12550
-phone: "+1 909-591-8026"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/ca/chino/12550-central-ave"
+street: Central Avenue
+housenumber: "12550"
+phone: +1 909-591-8026
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/ca/chino/12550-central-ave

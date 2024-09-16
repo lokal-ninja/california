@@ -1,11 +1,11 @@
 id: 612123578
-type: way
+type: node
 latitude: 35.39248
 longitude: -120.60653
 postcode: ""
 city: Santa Margarita
-street: "El Camino Real"
-housenumber: 22210
+street: El Camino Real
+housenumber: "22210"
 phone: ""
-opening_hours: "W-Th 10:30AM-4PM"
+opening_hours: W-Th 10:30AM-4PM
 website: ""

@@ -1,11 +1,11 @@
 id: 138516508
-type: way
+type: node
 latitude: 33.62013
 longitude: -117.70522
 postcode: "92630"
 city: Lake Forest
-street: "El Toro Road"
-housenumber: 23651
-phone: "+1 949-206-0113"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/El-Toro/CA/Lake-Forest/92630/1840"
+street: El Toro Road
+housenumber: "23651"
+phone: +1 949-206-0113
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/El-Toro/CA/Lake-Forest/92630/1840

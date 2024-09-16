@@ -1,11 +1,11 @@
 id: 957710406
-type: way
+type: node
 latitude: 32.7994
 longitude: -116.9309
 postcode: "92019"
 city: El Cajon
-street: "East Main Street"
-housenumber: 1405
+street: East Main Street
+housenumber: "1405"
 phone: "+16194013232"
 opening_hours: ""
-website: "https://www.bobbycombsrvcenter.com/"
+website: https://www.bobbycombsrvcenter.com/

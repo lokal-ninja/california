@@ -1,11 +1,11 @@
 id: 827132371
-type: way
+type: node
 latitude: 38.38096
 longitude: -121.36526
 postcode: "95624"
 city: Elk Grove
-street: "East Stockton Boulevard"
-housenumber: 10391
+street: East Stockton Boulevard
+housenumber: "10391"
 phone: ""
 opening_hours: ""
-website: "https://calcustomtrailers.com/"
+website: https://calcustomtrailers.com/

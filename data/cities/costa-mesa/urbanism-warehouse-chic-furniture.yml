@@ -1,11 +1,11 @@
 id: 70004143
-type: way
+type: node
 latitude: 33.63664
 longitude: -117.92584
 postcode: "92627"
 city: Costa Mesa
-street: "West 17th Street"
-housenumber: 660
+street: West 17th Street
+housenumber: "660"
 phone: ""
 opening_hours: ""
 website: ""

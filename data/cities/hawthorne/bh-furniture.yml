@@ -1,11 +1,11 @@
 id: 442595439
-type: way
+type: node
 latitude: 33.90561
 longitude: -118.34353
 postcode: "90250"
 city: Hawthorne
-street: "Prairie Avenue"
-housenumber: 13840
+street: Prairie Avenue
+housenumber: "13840"
 phone: "+13103497252"
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

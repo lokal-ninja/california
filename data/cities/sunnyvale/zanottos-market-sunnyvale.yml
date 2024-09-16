@@ -4,8 +4,8 @@ latitude: 37.35018
 longitude: -122.04956
 postcode: "94087"
 city: Sunnyvale
-street: "South Mary Avenue"
-housenumber: 1356
+street: South Mary Avenue
+housenumber: "1356"
 phone: ""
-opening_hours: "08:00-20:00"
-website: "https://www.zanottos.com/"
+opening_hours: 08:00-20:00
+website: https://www.zanottos.com/

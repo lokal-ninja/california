@@ -1,11 +1,11 @@
 id: 891347896
-type: way
+type: node
 latitude: 37.26038
 longitude: -121.85204
 postcode: "95136"
 city: San Jose
-street: "Glouchester Court"
-housenumber: 5059
-phone: "+1-650-825-5252"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.bayarea-locksmith.com/"
+street: Glouchester Court
+housenumber: "5059"
+phone: +1-650-825-5252
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.bayarea-locksmith.com/

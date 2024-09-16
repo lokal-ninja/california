@@ -1,11 +1,11 @@
 id: 145657140
-type: way
+type: node
 latitude: 33.1275
 longitude: -117.08392
 postcode: "92025"
 city: Escondido
-street: "North Broadway"
-housenumber: 618
+street: North Broadway
+housenumber: "618"
 phone: ""
 opening_hours: ""
-website: "https://www.idealmattress.net/"
+website: https://www.idealmattress.net/

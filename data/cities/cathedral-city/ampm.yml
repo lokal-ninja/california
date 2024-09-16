@@ -1,11 +1,11 @@
 id: 404166840
-type: way
+type: node
 latitude: 33.84565
 longitude: -116.45773
 postcode: "92234"
 city: Cathedral City
-street: "Date Palm Drive"
-housenumber: 27900
-phone: "+1-760-322-4421"
-opening_hours: "24/7"
+street: Date Palm Drive
+housenumber: "27900"
+phone: +1-760-322-4421
+opening_hours: 24/7
 website: ""

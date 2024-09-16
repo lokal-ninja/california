@@ -4,8 +4,8 @@ latitude: 39.14321
 longitude: -123.20508
 postcode: "95482"
 city: Ukiah
-street: "S State St"
-housenumber: 721
-phone: "(707) 462-4778"
-opening_hours: "08:00-20:00"
+street: S State St
+housenumber: "721"
+phone: (707) 462-4778
+opening_hours: 08:00-20:00
 website: ""

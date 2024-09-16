@@ -1,11 +1,11 @@
 id: 1308333509
-type: way
+type: node
 latitude: 32.80589
 longitude: -116.96334
 postcode: "92020"
 city: El Cajon
-street: "Fletcher Parkway"
-housenumber: 149
-phone: "+1 619-401-6705"
+street: Fletcher Parkway
+housenumber: "149"
+phone: +1 619-401-6705
 opening_hours: ""
-website: "https://stores.bestbuy.com/ca/el-cajon/149-fletcher-pkwy-184.html"
+website: https://stores.bestbuy.com/ca/el-cajon/149-fletcher-pkwy-184.html

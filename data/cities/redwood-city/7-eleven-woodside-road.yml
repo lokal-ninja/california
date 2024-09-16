@@ -1,11 +1,11 @@
 id: 240586002
-type: way
+type: node
 latitude: 37.47116
 longitude: -122.22369
 postcode: "94061"
 city: Redwood City
-street: "Woodside Road"
-housenumber: 460
-phone: "+1 650-365-0151"
+street: Woodside Road
+housenumber: "460"
+phone: +1 650-365-0151
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/redwood-city/460-woodside-road-25411"
+website: https://www.7-eleven.com/locations/ca/redwood-city/460-woodside-road-25411

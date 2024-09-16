@@ -1,11 +1,11 @@
 id: 948970900
-type: way
+type: node
 latitude: 34.09789
 longitude: -117.43556
 postcode: "92335"
 city: Fontana
-street: "Sierra Avenue"
-housenumber: 8585
+street: Sierra Avenue
+housenumber: "8585"
 phone: ""
 opening_hours: ""
 website: ""

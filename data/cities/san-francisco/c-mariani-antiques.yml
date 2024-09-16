@@ -1,11 +1,11 @@
 id: 356986496
-type: way
+type: node
 latitude: 37.77204
 longitude: -122.41016
 postcode: "94103"
 city: San Francisco
-street: "Harrison Street"
-housenumber: 1301
+street: Harrison Street
+housenumber: "1301"
 phone: ""
 opening_hours: ""
 website: ""

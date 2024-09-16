@@ -4,8 +4,8 @@ latitude: 37.30386
 longitude: -121.86322
 postcode: "95125"
 city: San Jose
-street: "Curtner Avenue"
-housenumber: 11
-phone: "+1 408-947-1318"
-opening_hours: "09:00-23:00"
+street: Curtner Avenue
+housenumber: "11"
+phone: +1 408-947-1318
+opening_hours: 09:00-23:00
 website: ""

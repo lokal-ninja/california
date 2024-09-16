@@ -1,11 +1,11 @@
 id: 922325950
-type: way
+type: node
 latitude: 34.06852
 longitude: -117.43852
 postcode: "92335"
 city: Fontana
-street: "Valley Boulevard"
-housenumber: 16721
+street: Valley Boulevard
+housenumber: "16721"
 phone: ""
 opening_hours: ""
-website: "https://locations.cardenasmarkets.com/ll/us/ca/fontana/16721-valley-blvd/"
+website: https://locations.cardenasmarkets.com/ll/us/ca/fontana/16721-valley-blvd/

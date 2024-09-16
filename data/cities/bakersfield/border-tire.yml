@@ -1,11 +1,11 @@
 id: 1215434598
-type: way
+type: node
 latitude: 35.4492
 longitude: -119.08221
 postcode: "93308"
 city: Bakersfield
-street: "Quinn Road"
-housenumber: 19384
+street: Quinn Road
+housenumber: "19384"
 phone: ""
 opening_hours: ""
 website: ""

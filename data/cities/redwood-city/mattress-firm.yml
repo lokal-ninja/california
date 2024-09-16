@@ -1,11 +1,11 @@
 id: 159268781
-type: way
+type: node
 latitude: 37.47493
 longitude: -122.21945
 postcode: "94063"
 city: Redwood City
-street: "El Camino Real"
-housenumber: 2341
-phone: "+1 650-261-1120"
+street: El Camino Real
+housenumber: "2341"
+phone: +1 650-261-1120
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/ca/redwood-city/502005/"
+website: https://www.mattressfirm.com/en-us/stores/ca/redwood-city/502005/

@@ -4,8 +4,8 @@ latitude: 34.21685
 longitude: -119.06469
 postcode: "93010"
 city: Camarillo
-street: "Ventura Boulevard"
-housenumber: 630
-phone: "+1-805-465-1918"
-opening_hours: "Mo-Th 11:00-19:00; Fr-Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://locations.forever21.com/us/stores/ca/camarillo/630-ventura-blvd"
+street: Ventura Boulevard
+housenumber: "630"
+phone: +1-805-465-1918
+opening_hours: Mo-Th 11:00-19:00; Fr-Sa 10:00-20:00; Su 11:00-18:00
+website: https://locations.forever21.com/us/stores/ca/camarillo/630-ventura-blvd

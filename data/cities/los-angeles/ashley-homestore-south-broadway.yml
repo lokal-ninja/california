@@ -1,11 +1,11 @@
 id: 426617622
-type: way
+type: node
 latitude: 34.03154
 longitude: -118.2653
 postcode: "90015"
 city: Los Angeles
-street: "South Broadway"
-housenumber: 1810
-phone: "+1 213-745-2980"
+street: South Broadway
+housenumber: "1810"
+phone: +1 213-745-2980
 opening_hours: ""
-website: "https://stores.ashleyfurniture.com/store/us/california/los-angeles/7710000044/"
+website: https://stores.ashleyfurniture.com/store/us/california/los-angeles/7710000044/

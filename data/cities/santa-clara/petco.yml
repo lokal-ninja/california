@@ -2,10 +2,10 @@ id: 6964071595
 type: node
 latitude: 37.35299
 longitude: -121.97661
-postcode: "95051-3005"
+postcode: 95051-3005
 city: Santa Clara
-street: "El Camino Real"
-housenumber: 2775
-phone: "+1 408-423-9110"
-opening_hours: "Mo-Sa 09:00-21:00, Su 10:00-19:00"
-website: "https://petco.com"
+street: El Camino Real
+housenumber: "2775"
+phone: +1 408-423-9110
+opening_hours: Mo-Sa 09:00-21:00, Su 10:00-19:00
+website: https://petco.com

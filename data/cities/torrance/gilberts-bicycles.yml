@@ -1,11 +1,11 @@
 id: 442254195
-type: way
+type: node
 latitude: 33.86592
 longitude: -118.34423
 postcode: "90504"
 city: Torrance
-street: "West 182nd Street"
-housenumber: 4011
+street: West 182nd Street
+housenumber: "4011"
 phone: ""
 opening_hours: ""
 website: ""

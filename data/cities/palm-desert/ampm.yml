@@ -1,11 +1,11 @@
 id: 295312732
-type: way
+type: node
 latitude: 33.78192
 longitude: -116.35622
 postcode: "92211"
 city: Palm Desert
-street: "Gerald Ford Drive"
-housenumber: 74950
-phone: "760-341-3448"
+street: Gerald Ford Drive
+housenumber: "74950"
+phone: 760-341-3448
 opening_hours: ""
 website: ""

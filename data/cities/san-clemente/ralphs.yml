@@ -1,11 +1,11 @@
 id: 292692616
-type: way
+type: node
 latitude: 33.45765
 longitude: -117.65201
 postcode: "92673"
 city: San Clemente
-street: "Camino De Los Mares"
-housenumber: 638
-phone: "+1 949-496-8616"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.ralphs.com/stores/grocery/ca/san-clemente/ocean-view-plaza/703/00015"
+street: Camino De Los Mares
+housenumber: "638"
+phone: +1 949-496-8616
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.ralphs.com/stores/grocery/ca/san-clemente/ocean-view-plaza/703/00015

@@ -1,11 +1,11 @@
 id: 626072085
-type: way
+type: node
 latitude: 33.80861
 longitude: -117.86419
 postcode: "92867"
 city: Orange
-street: "West Katella Avenue"
-housenumber: 1140
-phone: "657-888-6686"
+street: West Katella Avenue
+housenumber: "1140"
+phone: 657-888-6686
 opening_hours: ""
 website: ""

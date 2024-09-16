@@ -1,11 +1,11 @@
 id: 131536274
-type: way
+type: node
 latitude: 33.99477
 longitude: -117.96699
 postcode: "91745"
 city: Hacienda Heights
-street: "South Hacienda Boulevard"
-housenumber: 2122
-phone: "+1 626-330-4216"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.vons.com/ca/hacienda-heights/2122-s-hacienda-blvd.html"
+street: South Hacienda Boulevard
+housenumber: "2122"
+phone: +1 626-330-4216
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.vons.com/ca/hacienda-heights/2122-s-hacienda-blvd.html

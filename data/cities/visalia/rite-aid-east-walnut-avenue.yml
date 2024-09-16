@@ -1,11 +1,11 @@
 id: 1097689928
-type: way
+type: node
 latitude: 36.31182
 longitude: -119.27314
 postcode: "93292"
 city: Visalia
-street: "East Walnut Avenue"
-housenumber: 1735
+street: East Walnut Avenue
+housenumber: "1735"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.riteaid.com/locations/ca/visalia/1735-e-walnut-avenue.html"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.riteaid.com/locations/ca/visalia/1735-e-walnut-avenue.html

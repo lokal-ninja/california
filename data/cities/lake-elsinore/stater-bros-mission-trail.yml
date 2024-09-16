@@ -1,11 +1,11 @@
 id: 1307058596
-type: way
+type: node
 latitude: 33.65338
 longitude: -117.29863
 postcode: "92530"
 city: Lake Elsinore
-street: "Mission Trail"
-housenumber: 32281
-phone: "+1 951-245-5802"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.staterbros.com/stores/189"
+street: Mission Trail
+housenumber: "32281"
+phone: +1 951-245-5802
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.staterbros.com/stores/189

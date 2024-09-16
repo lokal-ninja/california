@@ -1,11 +1,11 @@
 id: 1230901058
-type: way
+type: node
 latitude: 36.75001
 longitude: -120.38824
 postcode: ""
 city: Mendota
-street: "Belmont Avenue"
-housenumber: 111
+street: Belmont Avenue
+housenumber: "111"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00; Su 10:00-20:00"
-website: "https://www.dollartree.com/locations/ca/mendota/6452/"
+opening_hours: Mo-Sa 09:00-22:00; Su 10:00-20:00
+website: https://www.dollartree.com/locations/ca/mendota/6452/

@@ -1,11 +1,11 @@
 id: 663623184
-type: way
+type: node
 latitude: 33.81571
 longitude: -117.82189
 postcode: "92861"
 city: Villa Park
-street: "Santiago Boulevard"
-housenumber: 17801
-phone: "+1 714-998-0041"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.ralphs.com/stores/details/703/00068"
+street: Santiago Boulevard
+housenumber: "17801"
+phone: +1 714-998-0041
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.ralphs.com/stores/details/703/00068

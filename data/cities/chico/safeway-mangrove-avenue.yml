@@ -1,11 +1,11 @@
 id: 253895559
-type: way
+type: node
 latitude: 39.73647
 longitude: -121.83329
 postcode: "95926"
 city: Chico
-street: "Mangrove Avenue"
-housenumber: 720
-phone: "+1 530-895-6300"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/ca/chico/720-mangrove-ave.html"
+street: Mangrove Avenue
+housenumber: "720"
+phone: +1 530-895-6300
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/ca/chico/720-mangrove-ave.html

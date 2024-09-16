@@ -1,11 +1,11 @@
 id: 688784408
-type: way
+type: node
 latitude: 38.36016
 longitude: -121.98224
 postcode: "95688"
 city: Vacaville
-street: "East Monte Vista Avenue"
-housenumber: 779
+street: East Monte Vista Avenue
+housenumber: "779"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ca/vacaville/779-e-monte-vista-ave.html"
+website: https://www.autozone.com/locations/ca/vacaville/779-e-monte-vista-ave.html

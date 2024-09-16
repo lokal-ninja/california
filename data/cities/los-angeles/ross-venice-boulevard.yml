@@ -4,8 +4,8 @@ latitude: 34.02787
 longitude: -118.3928
 postcode: "90034"
 city: Los Angeles
-street: "Venice Boulevard"
-housenumber: 8985
-phone: "+1 310-280-0317"
-opening_hours: "Mo-Th 10:00-22:00; Fr-Sa 09:00-22:00; Su 10:00-22:00"
+street: Venice Boulevard
+housenumber: "8985"
+phone: +1 310-280-0317
+opening_hours: Mo-Th 10:00-22:00; Fr-Sa 09:00-22:00; Su 10:00-22:00
 website: ""

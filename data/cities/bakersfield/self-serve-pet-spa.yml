@@ -1,11 +1,11 @@
 id: 155512909
-type: way
+type: node
 latitude: 35.38566
 longitude: -119.10902
 postcode: "93312"
 city: Bakersfield
-street: "Calloway Drive"
-housenumber: 2816
-phone: "(661) 588-7858"
+street: Calloway Drive
+housenumber: "2816"
+phone: (661) 588-7858
 opening_hours: ""
-website: "https://selfservepetspa.com/"
+website: https://selfservepetspa.com/

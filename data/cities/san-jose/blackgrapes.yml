@@ -4,8 +4,8 @@ latitude: 37.31182
 longitude: -121.90328
 postcode: "95125"
 city: San Jose
-street: "Lincoln Avenue"
-housenumber: 1016
+street: Lincoln Avenue
+housenumber: "1016"
 phone: ""
 opening_hours: ""
-website: "https://blackgrapes.co/"
+website: https://blackgrapes.co/

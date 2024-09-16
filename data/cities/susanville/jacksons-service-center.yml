@@ -4,8 +4,8 @@ latitude: 40.4143
 longitude: -120.64504
 postcode: "96130"
 city: Susanville
-street: "Main Street"
-housenumber: 2000
+street: Main Street
+housenumber: "2000"
 phone: "5302575309"
-opening_hours: "Mo-Fr 06:00-18:00, Sa 07:00-17:00"
-website: "https://www.jacksonsservicecenter.com/"
+opening_hours: Mo-Fr 06:00-18:00, Sa 07:00-17:00
+website: https://www.jacksonsservicecenter.com/

@@ -1,11 +1,11 @@
 id: 263239927
-type: way
+type: node
 latitude: 37.38019
 longitude: -121.99651
 postcode: "94085"
 city: Sunnyvale
-street: "Lawrence Expressway"
-housenumber: 295
+street: Lawrence Expressway
+housenumber: "295"
 phone: ""
 opening_hours: ""
 website: ""

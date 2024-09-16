@@ -1,11 +1,11 @@
 id: 462250317
-type: way
+type: node
 latitude: 39.16152
 longitude: -123.2099
 postcode: "95482"
 city: Ukiah
-street: "North State Street"
-housenumber: 1020
+street: North State Street
+housenumber: "1020"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1070719035
-type: way
+type: node
 latitude: 39.22031
 longitude: -121.0521
 postcode: "95945"
 city: Grass Valley
-street: "Railroad Avenue"
-housenumber: 302
-phone: "+1 530 273 0064"
-opening_hours: "Mo-Fr 07:00-17:00, Sa-Su 07:00-16:00"
-website: "https://www.yellowpages.com/grass-valley-ca/mip/gold-n-green-equipment-rentals-13352090"
+street: Railroad Avenue
+housenumber: "302"
+phone: +1 530 273 0064
+opening_hours: Mo-Fr 07:00-17:00, Sa-Su 07:00-16:00
+website: https://www.yellowpages.com/grass-valley-ca/mip/gold-n-green-equipment-rentals-13352090

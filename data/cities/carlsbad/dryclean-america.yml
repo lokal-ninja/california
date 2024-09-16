@@ -1,11 +1,11 @@
 id: 625657223
-type: way
+type: node
 latitude: 33.13116
 longitude: -117.26046
 postcode: "92010"
 city: Carlsbad
-street: "Loker Avenue West"
-housenumber: 2708
+street: Loker Avenue West
+housenumber: "2708"
 phone: ""
 opening_hours: ""
 website: ""

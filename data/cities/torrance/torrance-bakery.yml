@@ -1,11 +1,11 @@
 id: 412295041
-type: way
+type: node
 latitude: 33.83442
 longitude: -118.31684
 postcode: "90501"
 city: Torrance
-street: "El Prado Avenue"
-housenumber: 1341
+street: El Prado Avenue
+housenumber: "1341"
 phone: ""
 opening_hours: ""
 website: ""

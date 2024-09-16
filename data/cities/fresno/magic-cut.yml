@@ -4,8 +4,8 @@ latitude: 36.73749
 longitude: -119.73301
 postcode: "93727"
 city: Fresno
-street: "East Kings Canyon Road"
-housenumber: 4887
-phone: "+1-559-251-5110"
-opening_hours: "Mo-Sa 09:00-17:00"
-website: "https://magic-cuts-fresno.edan.io/"
+street: East Kings Canyon Road
+housenumber: "4887"
+phone: +1-559-251-5110
+opening_hours: Mo-Sa 09:00-17:00
+website: https://magic-cuts-fresno.edan.io/

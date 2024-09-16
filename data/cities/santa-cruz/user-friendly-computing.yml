@@ -4,8 +4,8 @@ latitude: 36.98256
 longitude: -122.02989
 postcode: "95060"
 city: Santa Cruz
-street: "River Street"
-housenumber: 505
-phone: "+1-831-423-9653"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 10:00-16:00"
-website: "http://www.userfriendlycomputing.com/"
+street: River Street
+housenumber: "505"
+phone: +1-831-423-9653
+opening_hours: Mo-Fr 08:00-18:00; Sa 10:00-16:00
+website: http://www.userfriendlycomputing.com/

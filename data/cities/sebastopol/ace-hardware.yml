@@ -1,11 +1,11 @@
 id: 961492885
-type: way
+type: node
 latitude: 38.40673
 longitude: -122.83833
-postcode: "95472-2895"
+postcode: 95472-2895
 city: Sebastopol
-street: "Highway 116"
-housenumber: 660
-phone: "+1 707-823-7688"
-opening_hours: "Mo-Sa 07:30-19:00; Su 08:00-18:00"
+street: Highway 116
+housenumber: "660"
+phone: +1 707-823-7688
+opening_hours: Mo-Sa 07:30-19:00; Su 08:00-18:00
 website: ""

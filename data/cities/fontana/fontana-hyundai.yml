@@ -1,11 +1,11 @@
 id: 1071237637
-type: way
+type: node
 latitude: 34.1341
 longitude: -117.4368
 postcode: "92336"
 city: Fontana
-street: "South Highland Avenue"
-housenumber: 16850
+street: South Highland Avenue
+housenumber: "16850"
 phone: ""
 opening_hours: ""
-website: "https://fontanahyundai.com/"
+website: https://fontanahyundai.com/

@@ -1,11 +1,11 @@
 id: 138046689
-type: way
+type: node
 latitude: 33.56929
 longitude: -117.71288
 postcode: "92677"
 city: Laguna Niguel
-street: "Alicia Parkway"
-housenumber: 27110
-phone: "+1 949-448-0808"
+street: Alicia Parkway
+housenumber: "27110"
+phone: +1 949-448-0808
 opening_hours: ""
-website: "https://stores.partycity.com/us/ca/lagunaniguel/party-store-pc751.html"
+website: https://stores.partycity.com/us/ca/lagunaniguel/party-store-pc751.html

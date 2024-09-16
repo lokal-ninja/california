@@ -1,11 +1,11 @@
 id: 242991006
-type: way
+type: node
 latitude: 37.76285
 longitude: -122.41167
 postcode: "94110"
 city: San Francisco
-street: "Florida Street"
-housenumber: 500
+street: Florida Street
+housenumber: "500"
 phone: ""
 opening_hours: ""
-website: "https://panoramabaking.com/"
+website: https://panoramabaking.com/

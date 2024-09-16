@@ -1,11 +1,11 @@
 id: 99823640
-type: way
+type: node
 latitude: 38.52813
 longitude: -121.96619
 postcode: "95694"
 city: Winters
-street: "East Grant Avenue"
-housenumber: 121
-phone: "(530) 795-3214"
-opening_hours: "07:00-22:00"
-website: "http://www.lorenzosmarket.com/"
+street: East Grant Avenue
+housenumber: "121"
+phone: (530) 795-3214
+opening_hours: 07:00-22:00
+website: http://www.lorenzosmarket.com/

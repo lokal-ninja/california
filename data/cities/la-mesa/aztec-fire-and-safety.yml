@@ -1,11 +1,11 @@
 id: 962989613
-type: way
+type: node
 latitude: 32.77231
 longitude: -117.02389
 postcode: "91942"
 city: La Mesa
-street: "Commercial Street"
-housenumber: 8108
+street: Commercial Street
+housenumber: "8108"
 phone: "+16194645625"
 opening_hours: ""
-website: "https://www.aztecfireandsafety.com/"
+website: https://www.aztecfireandsafety.com/

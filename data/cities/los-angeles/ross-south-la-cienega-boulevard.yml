@@ -1,11 +1,11 @@
 id: 335929111
-type: way
+type: node
 latitude: 34.04344
 longitude: -118.37824
 postcode: "90035"
 city: Los Angeles
-street: "South La Cienega Boulevard"
-housenumber: 1839
-phone: "+1 310-815-1822"
-opening_hours: "Mo-Sa 09:00-23:00; Su 09:00-22:00"
+street: South La Cienega Boulevard
+housenumber: "1839"
+phone: +1 310-815-1822
+opening_hours: Mo-Sa 09:00-23:00; Su 09:00-22:00
 website: ""

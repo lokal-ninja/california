@@ -4,8 +4,8 @@ latitude: 33.85529
 longitude: -118.35227
 postcode: "90503"
 city: Torrance
-street: "Hawthorne Boulevard"
-housenumber: 19340
-phone: "+1 310-750-1983"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.walmart.com/store/2226/torrance-ca/whats-new"
+street: Hawthorne Boulevard
+housenumber: "19340"
+phone: +1 310-750-1983
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.walmart.com/store/2226/torrance-ca/whats-new

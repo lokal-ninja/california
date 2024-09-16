@@ -4,8 +4,8 @@ latitude: 37.69674
 longitude: -121.74264
 postcode: "94551"
 city: Livermore
-street: "First Street"
-housenumber: 4405
+street: First Street
+housenumber: "4405"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/livermore-ca-pharmacies/4405-1st-st-livermore-ca-94551/storeid=9397"
+website: https://www.cvs.com/store-locator/livermore-ca-pharmacies/4405-1st-st-livermore-ca-94551/storeid=9397

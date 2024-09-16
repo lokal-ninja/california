@@ -4,8 +4,9 @@ latitude: 34.2023
 longitude: -118.40983
 postcode: "91605"
 city: North Hollywood
-street: "Sherman Way"
-housenumber: 12711
-phone: "+1 818-764-9991"
-opening_hours: "Mo 08:00-22:00; Tu 07:00-22:00; We 08:00-22:00; Th 07:00-22:00; Fr-Su 08:00-22:00"
-website: "https://locations.99only.com/ca/northhollywood/discount-store-61.html"
+street: Sherman Way
+housenumber: "12711"
+phone: +1 818-764-9991
+opening_hours: Mo 08:00-22:00; Tu 07:00-22:00; We 08:00-22:00; Th 07:00-22:00; Fr-Su
+    08:00-22:00
+website: https://locations.99only.com/ca/northhollywood/discount-store-61.html

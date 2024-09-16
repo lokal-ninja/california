@@ -1,11 +1,11 @@
 id: 238701310
-type: way
+type: node
 latitude: 32.85372
 longitude: -117.20345
 postcode: "92122"
 city: San Diego
-street: "Governor Drive"
-housenumber: 3993
-phone: "+1 858-453-1883"
-opening_hours: "06:00-24:00"
-website: "https://local.vons.com/ca/san-diego/3993-governor-dr.html"
+street: Governor Drive
+housenumber: "3993"
+phone: +1 858-453-1883
+opening_hours: 06:00-24:00
+website: https://local.vons.com/ca/san-diego/3993-governor-dr.html

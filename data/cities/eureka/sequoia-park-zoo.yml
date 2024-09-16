@@ -1,11 +1,11 @@
 id: 775580806
-type: way
+type: node
 latitude: 40.77697
 longitude: -124.14481
 postcode: "95503"
 city: Eureka
-street: "W Street"
-housenumber: 3414
+street: W Street
+housenumber: "3414"
 phone: ""
-opening_hours: "Tu-Su 10:00-16:30"
+opening_hours: Tu-Su 10:00-16:30
 website: ""

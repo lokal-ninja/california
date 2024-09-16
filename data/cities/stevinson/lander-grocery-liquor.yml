@@ -1,11 +1,11 @@
 id: 311711149
-type: way
+type: node
 latitude: 37.32832
 longitude: -120.85153
 postcode: "95374"
 city: Stevinson
-street: "North Highway 165"
-housenumber: 2799
+street: North Highway 165
+housenumber: "2799"
 phone: ""
 opening_hours: ""
 website: ""

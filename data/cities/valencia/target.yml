@@ -1,11 +1,11 @@
 id: 472507220
-type: way
+type: node
 latitude: 34.42073
 longitude: -118.56093
-postcode: "91355-3403"
+postcode: 91355-3403
 city: Valencia
-street: "Magic Mountain Parkway"
-housenumber: 24425
-phone: "+1 661-254-8001"
-opening_hours: "07:00-22:00"
-website: "https://www.target.com/sl/valencia/257"
+street: Magic Mountain Parkway
+housenumber: "24425"
+phone: +1 661-254-8001
+opening_hours: 07:00-22:00
+website: https://www.target.com/sl/valencia/257

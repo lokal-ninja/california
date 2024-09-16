@@ -1,11 +1,11 @@
 id: 311696074
-type: way
+type: node
 latitude: 37.25985
 longitude: -121.00143
 postcode: "95322"
 city: Gustine
-street: "1st Avenue"
-housenumber: 515
+street: 1st Avenue
+housenumber: "515"
 phone: ""
 opening_hours: ""
 website: ""

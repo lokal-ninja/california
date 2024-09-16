@@ -1,11 +1,11 @@
 id: 779141643
-type: way
+type: node
 latitude: 39.2031
 longitude: -121.06496
 postcode: "95949"
 city: Grass Valley
-street: "Freeman Lane"
-housenumber: 672
-phone: "+1 530-274-7547"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-19:00"
-website: "https://stores.petco.com/ca/grassvalley/pet-supplies-grassvalley-ca-1336.html"
+street: Freeman Lane
+housenumber: "672"
+phone: +1 530-274-7547
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-19:00
+website: https://stores.petco.com/ca/grassvalley/pet-supplies-grassvalley-ca-1336.html

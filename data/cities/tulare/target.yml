@@ -1,11 +1,11 @@
 id: 1153400663
-type: way
+type: node
 latitude: 36.22446
 longitude: -119.31503
 postcode: "93274"
 city: Tulare
-street: "East Prosperity Avenue"
-housenumber: 2195
-phone: "+1 559-631-1128"
-opening_hours: "Mo-Su 08:00-23:00"
-website: "https://www.target.com/sl/tulare/2349"
+street: East Prosperity Avenue
+housenumber: "2195"
+phone: +1 559-631-1128
+opening_hours: Mo-Su 08:00-23:00
+website: https://www.target.com/sl/tulare/2349

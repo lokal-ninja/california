@@ -1,11 +1,11 @@
 id: 752002481
-type: way
+type: node
 latitude: 37.00029
 longitude: -121.55252
 postcode: "95020"
 city: Gilroy
-street: "Camino Arroyo"
-housenumber: 6741
+street: Camino Arroyo
+housenumber: "6741"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-21:00"
-website: "https://www.dollartree.com/locations/ca/gilroy/7810/"
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-21:00
+website: https://www.dollartree.com/locations/ca/gilroy/7810/

@@ -1,11 +1,11 @@
 id: 133625496
-type: way
+type: node
 latitude: 38.38925
 longitude: -121.35995
 postcode: ""
 city: Elk Grove
-street: "Iron Rock Way"
-housenumber: 10143
+street: Iron Rock Way
+housenumber: "10143"
 phone: ""
 opening_hours: ""
 website: ""

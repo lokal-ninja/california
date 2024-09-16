@@ -1,11 +1,11 @@
 id: 58672115
-type: way
+type: node
 latitude: 32.77908
 longitude: -117.0134
 postcode: "91942"
 city: La Mesa
-street: "Grossmont Center Drive"
-housenumber: 5500
-phone: "+1 619-461-1960"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/grossmont/997"
+street: Grossmont Center Drive
+housenumber: "5500"
+phone: +1 619-461-1960
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/grossmont/997

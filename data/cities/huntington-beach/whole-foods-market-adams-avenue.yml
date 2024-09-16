@@ -1,11 +1,11 @@
 id: 228751975
-type: way
+type: node
 latitude: 33.67397
 longitude: -117.95254
 postcode: "92646"
 city: Huntington Beach
-street: "Adams Avenue"
-housenumber: 10071
-phone: "+1 714-594-6850"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://www.wholefoodsmarket.com/stores/brookhurst"
+street: Adams Avenue
+housenumber: "10071"
+phone: +1 714-594-6850
+opening_hours: Mo-Su 07:00-21:00
+website: https://www.wholefoodsmarket.com/stores/brookhurst

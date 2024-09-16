@@ -4,8 +4,8 @@ latitude: 37.84851
 longitude: -122.25234
 postcode: "94168"
 city: Oakland
-street: "College Avenue"
-housenumber: 6025
-phone: "+1 510 4150956"
-opening_hours: "Mo-Fr 11:00-19:00; Sa-Su 11:00-18:00"
-website: "https://reuprefills.org/"
+street: College Avenue
+housenumber: "6025"
+phone: +1 510 4150956
+opening_hours: Mo-Fr 11:00-19:00; Sa-Su 11:00-18:00
+website: https://reuprefills.org/

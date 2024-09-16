@@ -1,11 +1,11 @@
 id: 455831434
-type: way
+type: node
 latitude: 33.94066
 longitude: -118.0506
-postcode: "90670-4048"
+postcode: 90670-4048
 city: Santa Fe Springs
-street: "Telegraph Road"
-housenumber: 13210
-phone: "+1 562-222-4233"
-opening_hours: "Mo, We, Fr-Su 09:00-21:00; Tu, Th 08:30-21:00"
-website: "https://stores.aldi.us/ca/santa-fe-springs/13210-telegraph-rd"
+street: Telegraph Road
+housenumber: "13210"
+phone: +1 562-222-4233
+opening_hours: Mo, We, Fr-Su 09:00-21:00; Tu, Th 08:30-21:00
+website: https://stores.aldi.us/ca/santa-fe-springs/13210-telegraph-rd

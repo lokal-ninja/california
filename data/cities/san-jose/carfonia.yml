@@ -1,11 +1,11 @@
 id: 783738174
-type: way
+type: node
 latitude: 37.31958
 longitude: -121.88221
 postcode: "95110"
 city: San Jose
-street: "Almaden Avenue"
-housenumber: 976
+street: Almaden Avenue
+housenumber: "976"
 phone: ""
 opening_hours: ""
-website: "https://www.carfornia.net"
+website: https://www.carfornia.net

@@ -1,11 +1,11 @@
 id: 30358617
-type: way
+type: node
 latitude: 37.96638
 longitude: -122.30995
 postcode: "94803"
 city: El Sobrante
-street: "San Pablo Dam Road"
-housenumber: 4071
+street: San Pablo Dam Road
+housenumber: "4071"
 phone: ""
 opening_hours: ""
 website: ""

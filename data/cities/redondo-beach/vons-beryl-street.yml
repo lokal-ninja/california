@@ -1,11 +1,11 @@
 id: 132911038
-type: way
+type: node
 latitude: 33.85388
 longitude: -118.3805
 postcode: "90277"
 city: Redondo Beach
-street: "Beryl Street"
-housenumber: 1212
-phone: "+1 310-374-7987"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.vons.com/ca/redondo-beach/1212-beryl-st.html"
+street: Beryl Street
+housenumber: "1212"
+phone: +1 310-374-7987
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.vons.com/ca/redondo-beach/1212-beryl-st.html

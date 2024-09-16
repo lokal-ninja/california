@@ -1,11 +1,11 @@
 id: 67141928
-type: way
+type: node
 latitude: 32.99589
 longitude: -117.25997
 postcode: "92075"
 city: Solana Beach
-street: "Lomas Santa Fe Drive"
-housenumber: 659
-phone: "+1 858-350-7900"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/ca/solana-beach/lomas-sante-fe-dr/"
+street: Lomas Santa Fe Drive
+housenumber: "659"
+phone: +1 858-350-7900
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/ca/solana-beach/lomas-sante-fe-dr/

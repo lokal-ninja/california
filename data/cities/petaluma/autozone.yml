@@ -1,11 +1,11 @@
 id: 195463470
-type: way
+type: node
 latitude: 38.23669
 longitude: -122.63859
 postcode: ""
 city: Petaluma
-street: "East Washington Street"
-housenumber: 101
+street: East Washington Street
+housenumber: "101"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ca/petaluma/101-e-washington-st.html"
+website: https://www.autozone.com/locations/ca/petaluma/101-e-washington-st.html

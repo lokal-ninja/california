@@ -1,11 +1,11 @@
 id: 444448967
-type: way
+type: node
 latitude: 33.93767
 longitude: -117.24996
 postcode: "92553"
 city: Moreno Valley
-street: "Sunnymead Boulevard"
-housenumber: 23689
-phone: "+1 951-488-1628"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/23689-sunnymead-blvd-moreno-valley-92553?number=380"
+street: Sunnymead Boulevard
+housenumber: "23689"
+phone: +1 951-488-1628
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/23689-sunnymead-blvd-moreno-valley-92553?number=380

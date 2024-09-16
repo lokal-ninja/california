@@ -1,11 +1,11 @@
 id: 55881448
-type: way
+type: node
 latitude: 33.52802
 longitude: -117.15531
 postcode: "92591"
 city: Temecula
-street: "Winchester Road"
-housenumber: 40570
-phone: "951-296-0253"
-opening_hours: "Su-Th 09:00-10:00, Fr-Sa 09:00-11:00"
+street: Winchester Road
+housenumber: "40570"
+phone: 951-296-0253
+opening_hours: Su-Th 09:00-10:00, Fr-Sa 09:00-11:00
 website: ""

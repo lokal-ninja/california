@@ -4,8 +4,8 @@ latitude: 37.7765
 longitude: -122.42505
 postcode: "94102"
 city: San Francisco
-street: "Hayes Street"
-housenumber: 519
-phone: "+1 646-798-7447"
-opening_hours: "Mo-Su 11:00-19:00"
+street: Hayes Street
+housenumber: "519"
+phone: +1 646-798-7447
+opening_hours: Mo-Su 11:00-19:00
 website: ""

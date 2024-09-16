@@ -1,11 +1,11 @@
 id: 259757333
-type: way
+type: node
 latitude: 37.77615
 longitude: -122.22412
 postcode: "94601"
 city: Oakland
-street: "East 12th Street"
-housenumber: 3352
-phone: "510-290-0952"
+street: East 12th Street
+housenumber: "3352"
+phone: 510-290-0952
 opening_hours: ""
 website: ""

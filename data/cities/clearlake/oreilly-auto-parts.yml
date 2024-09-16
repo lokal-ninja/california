@@ -1,11 +1,11 @@
 id: 458946614
-type: way
+type: node
 latitude: 38.94966
 longitude: -122.63215
 postcode: "95422"
 city: Clearlake
-street: "Lakeshore Drive"
-housenumber: 14993
-phone: "+1-707-995-9295"
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:00-20:00"
-website: "https://locations.oreillyauto.com/ca/clearlake/autoparts-3200.html"
+street: Lakeshore Drive
+housenumber: "14993"
+phone: +1-707-995-9295
+opening_hours: Mo-Sa 07:30-21:00; Su 08:00-20:00
+website: https://locations.oreillyauto.com/ca/clearlake/autoparts-3200.html

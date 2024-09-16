@@ -1,11 +1,11 @@
 id: 181385499
-type: way
+type: node
 latitude: 38.55219
 longitude: -121.71498
 postcode: "95618"
 city: Davis
-street: "Spafford Street"
-housenumber: 2801
-phone: "(530) 759-9648"
-opening_hours: "Tu-Sa 11:00-17:30"
-website: "http://www.rrconsignments.org/"
+street: Spafford Street
+housenumber: "2801"
+phone: (530) 759-9648
+opening_hours: Tu-Sa 11:00-17:30
+website: http://www.rrconsignments.org/

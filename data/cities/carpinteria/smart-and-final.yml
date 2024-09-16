@@ -1,11 +1,11 @@
 id: 128850078
-type: way
+type: node
 latitude: 34.3972
 longitude: -119.51923
 postcode: "93013"
 city: Carpinteria
-street: "Linden Avenue"
-housenumber: 850
+street: Linden Avenue
+housenumber: "850"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://locations.smartandfinal.com/ca/carpinteria/915/"
+opening_hours: Mo-Su 06:00-22:00
+website: https://locations.smartandfinal.com/ca/carpinteria/915/

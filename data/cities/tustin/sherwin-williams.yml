@@ -1,11 +1,11 @@
 id: 899673953
-type: way
+type: node
 latitude: 33.74771
 longitude: -117.80914
 postcode: "92780"
 city: Tustin
-street: "Irvine Boulevard"
-housenumber: 1150
-phone: "714-573-3965"
-opening_hours: "Mo-Fr 06:30-19:00; Sa 08:00-17:00; Su 10:00-16:00"
-website: "https://www.sherwin-williams.com/store-locator/paint-store/tustin/ca/708218"
+street: Irvine Boulevard
+housenumber: "1150"
+phone: 714-573-3965
+opening_hours: Mo-Fr 06:30-19:00; Sa 08:00-17:00; Su 10:00-16:00
+website: https://www.sherwin-williams.com/store-locator/paint-store/tustin/ca/708218

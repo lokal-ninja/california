@@ -1,11 +1,11 @@
 id: 688525041
-type: way
+type: node
 latitude: 34.89857
 longitude: -117.01905
 postcode: ""
 city: Barstow
-street: "East Main Street"
-housenumber: 708
+street: East Main Street
+housenumber: "708"
 phone: ""
 opening_hours: ""
 website: ""

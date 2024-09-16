@@ -1,11 +1,11 @@
 id: 231482468
-type: way
+type: node
 latitude: 37.41821
 longitude: -122.10231
 postcode: ""
 city: Palo Alto
-street: "San Antonio Avenue"
-housenumber: 760
+street: San Antonio Avenue
+housenumber: "760"
 phone: "8002482224"
 opening_hours: ""
-website: "http://www.bachcompany.com/"
+website: http://www.bachcompany.com/

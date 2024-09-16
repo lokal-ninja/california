@@ -1,11 +1,11 @@
 id: 134726917
-type: way
+type: node
 latitude: 33.65043
 longitude: -117.58175
 postcode: "92688"
 city: Rancho Santa Margarita
-street: "Santa Margarita Parkway"
-housenumber: 31481
-phone: "+1 949-589-0156"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.ralphs.com/stores/grocery/ca/rancho-santa-margarita/mercado-del-lago-rancho-santa-margarita-shopping-center/703/00078"
+street: Santa Margarita Parkway
+housenumber: "31481"
+phone: +1 949-589-0156
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.ralphs.com/stores/grocery/ca/rancho-santa-margarita/mercado-del-lago-rancho-santa-margarita-shopping-center/703/00078

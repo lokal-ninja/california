@@ -1,11 +1,11 @@
 id: 1190505434
-type: way
+type: node
 latitude: 32.83882
 longitude: -116.96727
 postcode: "92071"
 city: Santee
-street: "Woodside Avenue"
-housenumber: 10710
-phone: "+1 619-449-3882"
+street: Woodside Avenue
+housenumber: "10710"
+phone: +1 619-449-3882
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ca/santee/10710-woodside-ave-18469"
+website: https://www.7-eleven.com/locations/ca/santee/10710-woodside-ave-18469

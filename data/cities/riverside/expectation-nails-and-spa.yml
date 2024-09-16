@@ -1,11 +1,11 @@
 id: 559600551
-type: way
+type: node
 latitude: 33.93565
 longitude: -117.43489
 postcode: "92504"
 city: Riverside
-street: "California Avenue"
-housenumber: 8610
-phone: "+1-951-687-9999"
-opening_hours: "Mo-Sa 09:00-19:00; Su 10:00-17:00"
+street: California Avenue
+housenumber: "8610"
+phone: +1-951-687-9999
+opening_hours: Mo-Sa 09:00-19:00; Su 10:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 130504214
-type: way
+type: node
 latitude: 39.45088
 longitude: -123.80791
 postcode: "95437"
 city: Fort Bragg
-street: "Stewart Street"
-housenumber: 835
-phone: "+1 707-964-4086"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 08:00-17:00; Su 09:00-16:00"
-website: "http://www.rossi-ace.com/"
+street: Stewart Street
+housenumber: "835"
+phone: +1 707-964-4086
+opening_hours: Mo-Fr 07:30-17:30; Sa 08:00-17:00; Su 09:00-16:00
+website: http://www.rossi-ace.com/

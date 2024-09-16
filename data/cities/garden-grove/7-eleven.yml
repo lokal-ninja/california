@@ -1,11 +1,11 @@
 id: 170818968
-type: way
+type: node
 latitude: 33.78117
 longitude: -117.91437
 postcode: "92840"
 city: Garden Grove
-street: "Harbor Boulevard"
-housenumber: 12502
-phone: "+1 714-703-1315"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ca/garden-grove/12502-harbor-blvd-39011"
+street: Harbor Boulevard
+housenumber: "12502"
+phone: +1 714-703-1315
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ca/garden-grove/12502-harbor-blvd-39011

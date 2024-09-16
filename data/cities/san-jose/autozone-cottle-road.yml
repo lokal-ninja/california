@@ -1,11 +1,11 @@
 id: 921934110
-type: way
+type: node
 latitude: 37.25312
 longitude: -121.80323
 postcode: "95123"
 city: San Jose
-street: "Cottle Road"
-housenumber: 5566
+street: Cottle Road
+housenumber: "5566"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ca/san-jose/5566-cottle-rd.html"
+website: https://www.autozone.com/locations/ca/san-jose/5566-cottle-rd.html

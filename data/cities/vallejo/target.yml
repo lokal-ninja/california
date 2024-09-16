@@ -1,11 +1,11 @@
 id: 59441205
-type: way
+type: node
 latitude: 38.13106
 longitude: -122.22238
 postcode: "94591"
 city: Vallejo
-street: "Admiral Callaghan Lane"
-housenumber: 904
-phone: "(707) 642-0419"
-opening_hours: "Mo-Su 08:00-23:00"
-website: "https://www.target.com/sl/vallejo/331"
+street: Admiral Callaghan Lane
+housenumber: "904"
+phone: (707) 642-0419
+opening_hours: Mo-Su 08:00-23:00
+website: https://www.target.com/sl/vallejo/331

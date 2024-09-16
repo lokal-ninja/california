@@ -4,8 +4,8 @@ latitude: 37.33733
 longitude: -121.8877
 postcode: "95112"
 city: San Jose
-street: "East Santa Clara Street"
-housenumber: 136
+street: East Santa Clara Street
+housenumber: "136"
 phone: ""
 opening_hours: ""
-website: "http://hibiscussj.com/"
+website: http://hibiscussj.com/

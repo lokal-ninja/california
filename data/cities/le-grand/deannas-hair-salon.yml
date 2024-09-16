@@ -1,11 +1,11 @@
 id: 311695738
-type: way
+type: node
 latitude: 37.29041
 longitude: -120.31787
 postcode: "95365"
 city: Le Grand
-street: "East Broadway"
-housenumber: 9387
+street: East Broadway
+housenumber: "9387"
 phone: ""
 opening_hours: ""
 website: ""

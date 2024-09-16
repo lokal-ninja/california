@@ -1,11 +1,11 @@
 id: 709511491
-type: way
+type: node
 latitude: 37.22982
 longitude: -121.98293
 postcode: "95030"
 city: Los Gatos
-street: "Los Gatos Saratoga Road"
-housenumber: 255
+street: Los Gatos Saratoga Road
+housenumber: "255"
 phone: ""
 opening_hours: ""
-website: "https://locations.valero.com/en-us/LocationDetails/Index/255-LOS-GATOS-SARATOGA-RD/0000027731"
+website: https://locations.valero.com/en-us/LocationDetails/Index/255-LOS-GATOS-SARATOGA-RD/0000027731

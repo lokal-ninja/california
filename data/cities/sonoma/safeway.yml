@@ -1,11 +1,11 @@
 id: 239147331
-type: way
+type: node
 latitude: 38.29173
 longitude: -122.467
 postcode: "95476"
 city: Sonoma
-street: "West Napa Street"
-housenumber: 477
-phone: "+1 707-996-0633"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/ca/sonoma/477-w-napa-st.html"
+street: West Napa Street
+housenumber: "477"
+phone: +1 707-996-0633
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/ca/sonoma/477-w-napa-st.html

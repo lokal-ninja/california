@@ -1,11 +1,11 @@
 id: 930864736
-type: way
+type: node
 latitude: 38.7001
 longitude: -121.78333
 postcode: "95695"
 city: Woodland
-street: "County Road 99"
-housenumber: 16435
+street: County Road 99
+housenumber: "16435"
 phone: ""
 opening_hours: ""
 website: ""

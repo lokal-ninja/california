@@ -1,11 +1,11 @@
 id: 229352071
-type: way
+type: node
 latitude: 33.86954
 longitude: -118.05603
 postcode: "90703"
 city: Cerritos
-street: "Park Plaza Drive"
-housenumber: 12989
-phone: "+1 562-402-1555"
+street: Park Plaza Drive
+housenumber: "12989"
+phone: +1 562-402-1555
 opening_hours: ""
-website: "https://stores.bestbuy.com/ca/cerritos/12989-park-plaza-dr-117.html"
+website: https://stores.bestbuy.com/ca/cerritos/12989-park-plaza-dr-117.html

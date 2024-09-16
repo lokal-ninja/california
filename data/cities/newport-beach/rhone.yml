@@ -4,8 +4,8 @@ latitude: 33.6152
 longitude: -117.87683
 postcode: "92660"
 city: Newport Beach
-street: "Newport Center Drive"
-housenumber: 1117
-phone: "+1-949-287-6384"
-opening_hours: "Mo-Th 10:00-19:00; Fr-Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://www.rhone.com/"
+street: Newport Center Drive
+housenumber: "1117"
+phone: +1-949-287-6384
+opening_hours: Mo-Th 10:00-19:00; Fr-Sa 10:00-20:00; Su 11:00-18:00
+website: https://www.rhone.com/

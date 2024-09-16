@@ -1,11 +1,11 @@
 id: 202215436
-type: way
+type: node
 latitude: 34.26127
 longitude: -119.22512
 postcode: "93003"
 city: Ventura
-street: "Telephone Road"
-housenumber: 4950
-phone: "+1 805-642-0474"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/ca/ventura-583.shtml"
+street: Telephone Road
+housenumber: "4950"
+phone: +1 805-642-0474
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/ca/ventura-583.shtml

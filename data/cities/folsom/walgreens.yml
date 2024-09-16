@@ -1,11 +1,11 @@
 id: 220543520
-type: way
+type: node
 latitude: 38.65835
 longitude: -121.1295
 postcode: "95630"
 city: Folsom
-street: "East Bidwell Street"
-housenumber: 2595
-phone: "(916) 817-6533"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-2595+e+bidwell+st-folsom-ca-95630/id=9048"
+street: East Bidwell Street
+housenumber: "2595"
+phone: (916) 817-6533
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-2595+e+bidwell+st-folsom-ca-95630/id=9048

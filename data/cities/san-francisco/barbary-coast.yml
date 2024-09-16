@@ -4,8 +4,8 @@ latitude: 37.78193
 longitude: -122.40779
 postcode: "94103"
 city: San Francisco
-street: "Mission Street"
-housenumber: 952
-phone: "+1 415-243-4400"
-opening_hours: "Mo-Su 08:00-21:45"
-website: "http://barbarycoastsf.org"
+street: Mission Street
+housenumber: "952"
+phone: +1 415-243-4400
+opening_hours: Mo-Su 08:00-21:45
+website: http://barbarycoastsf.org

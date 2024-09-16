@@ -1,11 +1,11 @@
 id: 100227975
-type: way
+type: node
 latitude: 34.10845
 longitude: -117.56545
 postcode: "91730"
 city: Rancho Cucamonga
-street: "Foothill Boulevard"
-housenumber: 10940
-phone: "+1 909-481-8700"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ca/rancho-cucamonga-store1163.html"
+street: Foothill Boulevard
+housenumber: "10940"
+phone: +1 909-481-8700
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ca/rancho-cucamonga-store1163.html

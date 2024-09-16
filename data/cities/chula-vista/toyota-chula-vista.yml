@@ -4,8 +4,8 @@ latitude: 32.59399
 longitude: -117.02618
 postcode: "91911"
 city: Chula Vista
-street: "Main Street"
-housenumber: 650
+street: Main Street
+housenumber: "650"
 phone: ""
 opening_hours: ""
-website: "https://www.toyotachulavista.com/"
+website: https://www.toyotachulavista.com/

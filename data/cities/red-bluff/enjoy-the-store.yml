@@ -1,11 +1,11 @@
 id: 658068066
-type: way
+type: node
 latitude: 40.17681
 longitude: -122.23452
 postcode: "96080"
 city: Red Bluff
-street: "Main Street"
-housenumber: 615
-phone: "+1 (530) 727-9016"
+street: Main Street
+housenumber: "615"
+phone: +1 (530) 727-9016
 opening_hours: ""
 website: ""

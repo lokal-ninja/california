@@ -1,11 +1,11 @@
 id: 241077434
-type: way
+type: node
 latitude: 37.79858
 longitude: -122.18252
 postcode: "94619"
 city: Oakland
-street: "Redwood Road"
-housenumber: 4100
-phone: "+1 510-531-0565"
-opening_hours: "06:00-24:00"
-website: "https://local.safeway.com/safeway/ca/oakland/4100-redwood-rd.html"
+street: Redwood Road
+housenumber: "4100"
+phone: +1 510-531-0565
+opening_hours: 06:00-24:00
+website: https://local.safeway.com/safeway/ca/oakland/4100-redwood-rd.html

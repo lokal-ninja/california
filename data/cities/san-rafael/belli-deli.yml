@@ -1,11 +1,11 @@
 id: 402959529
-type: way
+type: node
 latitude: 37.97174
 longitude: -122.53157
 postcode: "94901"
 city: San Rafael
-street: "2nd Street"
-housenumber: 1304
+street: 2nd Street
+housenumber: "1304"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 07:00-18:00; Su 08:00-17:00"
+opening_hours: Mo-Fr 06:00-18:00; Sa 07:00-18:00; Su 08:00-17:00
 website: ""

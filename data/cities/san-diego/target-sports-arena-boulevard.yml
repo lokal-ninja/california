@@ -4,8 +4,8 @@ latitude: 32.75148
 longitude: -117.20967
 postcode: "92110"
 city: San Diego
-street: "Sports Arena Boulevard"
-housenumber: 3245
-phone: "+1 619-223-2491"
-opening_hours: "Mo-Fr 08:00-24:00; Sa 07:00-24:00; Su 08:00-23:00"
-website: "https://www.target.com/sl/sports-arena/201"
+street: Sports Arena Boulevard
+housenumber: "3245"
+phone: +1 619-223-2491
+opening_hours: Mo-Fr 08:00-24:00; Sa 07:00-24:00; Su 08:00-23:00
+website: https://www.target.com/sl/sports-arena/201

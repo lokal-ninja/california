@@ -4,8 +4,8 @@ latitude: 37.76522
 longitude: -122.46628
 postcode: "94122"
 city: San Francisco
-street: "9th Avenue"
-housenumber: 1236
-phone: "+1 415-566-2180"
+street: 9th Avenue
+housenumber: "1236"
+phone: +1 415-566-2180
 opening_hours: ""
-website: "https://www.misdirections.com/"
+website: https://www.misdirections.com/

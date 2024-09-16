@@ -1,11 +1,11 @@
 id: 742378160
-type: way
+type: node
 latitude: 33.9963
 longitude: -117.71949
 postcode: "91710"
 city: Chino
-street: "Grand Avenue"
-housenumber: 3943
-phone: "+1 909-364-1968"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/3464/chino-ca/whats-new"
+street: Grand Avenue
+housenumber: "3943"
+phone: +1 909-364-1968
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/3464/chino-ca/whats-new

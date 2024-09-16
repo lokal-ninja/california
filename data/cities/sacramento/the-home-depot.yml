@@ -1,11 +1,11 @@
 id: 39990454
-type: way
+type: node
 latitude: 38.6333
 longitude: -121.50662
 postcode: "95834"
 city: Sacramento
-street: "Truxel Road"
-housenumber: 3611
-phone: "+1 916-928-0722"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Truxel-Rd/CA/Sacramento/95834/6649"
+street: Truxel Road
+housenumber: "3611"
+phone: +1 916-928-0722
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Truxel-Rd/CA/Sacramento/95834/6649

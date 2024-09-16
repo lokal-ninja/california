@@ -1,11 +1,11 @@
 id: 656120164
-type: way
+type: node
 latitude: 33.5513
 longitude: -117.14133
 postcode: "92563"
 city: Murrieta
-street: "Winchester Road"
-housenumber: 39055
+street: Winchester Road
+housenumber: "39055"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/CA/Murrieta/39055-WINCHESTER-RD"
+website: https://www.speedway.com/locations/CA/Murrieta/39055-WINCHESTER-RD

@@ -1,11 +1,11 @@
 id: 1002514112
-type: way
+type: node
 latitude: 32.79819
 longitude: -116.97316
 postcode: "92020"
 city: El Cajon
-street: "Benedict Avenue"
-housenumber: 800
+street: Benedict Avenue
+housenumber: "800"
 phone: ""
 opening_hours: ""
 website: ""

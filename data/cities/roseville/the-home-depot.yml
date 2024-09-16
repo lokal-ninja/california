@@ -1,11 +1,11 @@
 id: 45373099
-type: way
+type: node
 latitude: 38.78288
 longitude: -121.27513
 postcode: "95678"
 city: Roseville
-street: "Fairway Drive"
-housenumber: 10001
-phone: "+1 916-787-0201"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/stanford-ranch/ca/roseville/95678/6688"
+street: Fairway Drive
+housenumber: "10001"
+phone: +1 916-787-0201
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/stanford-ranch/ca/roseville/95678/6688

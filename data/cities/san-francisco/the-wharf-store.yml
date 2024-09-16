@@ -4,8 +4,8 @@ latitude: 37.80797
 longitude: -122.41887
 postcode: "94109"
 city: San Francisco
-street: "Jefferson Street"
-housenumber: 398
-phone: "(415) 318-8016"
+street: Jefferson Street
+housenumber: "398"
+phone: (415) 318-8016
 opening_hours: ""
-website: "https://www.thewharfstore.com/"
+website: https://www.thewharfstore.com/

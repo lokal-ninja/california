@@ -1,11 +1,11 @@
 id: 740431416
-type: way
+type: node
 latitude: 33.54421
 longitude: -117.78438
 postcode: "92651"
 city: Laguna Beach
-street: "Broadway Street"
-housenumber: 290
+street: Broadway Street
+housenumber: "290"
 phone: ""
 opening_hours: ""
 website: ""

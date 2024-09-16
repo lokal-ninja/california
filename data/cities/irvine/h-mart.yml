@@ -1,11 +1,11 @@
 id: 99985443
-type: way
+type: node
 latitude: 33.72456
 longitude: -117.7723
 postcode: "92602"
 city: Irvine
-street: "Irvine Boulevard"
-housenumber: 3931
-phone: "+1-949-739-7474"
-opening_hours: "Mo-Sa 08:00-22:00"
-website: "https://www.hmart.com/storelocator/index/index/id/128"
+street: Irvine Boulevard
+housenumber: "3931"
+phone: +1-949-739-7474
+opening_hours: Mo-Sa 08:00-22:00
+website: https://www.hmart.com/storelocator/index/index/id/128

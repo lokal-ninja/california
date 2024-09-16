@@ -1,11 +1,11 @@
 id: 933101674
-type: way
+type: node
 latitude: 34.10365
 longitude: -117.43673
 postcode: "92335"
 city: Fontana
-street: "Sierra Avenue"
-housenumber: 8270
+street: Sierra Avenue
+housenumber: "8270"
 phone: ""
 opening_hours: ""
-website: "https://www.goodwillsocal.org/shop/goodwill-locator/"
+website: https://www.goodwillsocal.org/shop/goodwill-locator/

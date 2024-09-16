@@ -1,11 +1,11 @@
 id: 101564463
-type: way
+type: node
 latitude: 33.6996
 longitude: -117.74294
 postcode: "92620"
 city: Irvine
-street: "Irvine Boulevard"
-housenumber: 6200
-phone: "+1 949-262-0685"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/East-Irvine/CA/Irvine/92620/8525"
+street: Irvine Boulevard
+housenumber: "6200"
+phone: +1 949-262-0685
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/East-Irvine/CA/Irvine/92620/8525

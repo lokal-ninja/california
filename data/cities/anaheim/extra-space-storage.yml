@@ -1,11 +1,11 @@
 id: 645069231
-type: way
+type: node
 latitude: 33.83027
 longitude: -117.93211
 postcode: "92802"
 city: Anaheim
-street: "South Adams Street"
-housenumber: 155
+street: South Adams Street
+housenumber: "155"
 phone: ""
 opening_hours: ""
 website: ""

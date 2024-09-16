@@ -1,11 +1,11 @@
 id: 826793551
-type: way
+type: node
 latitude: 39.21605
 longitude: -121.06006
 postcode: "95945"
 city: Grass Valley
-street: "Colfax Avenue"
-housenumber: 135
-phone: "+1 (530) 271-7111"
+street: Colfax Avenue
+housenumber: "135"
+phone: +1 (530) 271-7111
 opening_hours: ""
-website: "https://www.backporchmarket.com/"
+website: https://www.backporchmarket.com/

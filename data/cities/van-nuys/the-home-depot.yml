@@ -1,11 +1,11 @@
 id: 179642358
-type: way
+type: node
 latitude: 34.22046
 longitude: -118.5
 postcode: "91406"
 city: Van Nuys
-street: "Roscoe Boulevard"
-housenumber: 16800
-phone: "+1 818-780-5448"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-21:00"
-website: "https://www.homedepot.com/l/van-nuys/ca/van-nuys/91406/6661"
+street: Roscoe Boulevard
+housenumber: "16800"
+phone: +1 818-780-5448
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-21:00
+website: https://www.homedepot.com/l/van-nuys/ca/van-nuys/91406/6661

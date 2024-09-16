@@ -1,11 +1,11 @@
 id: 265330798
-type: way
+type: node
 latitude: 36.97601
 longitude: -122.02663
 postcode: "95060"
 city: Santa Cruz
-street: "Pacific Avenue"
-housenumber: 1534
+street: Pacific Avenue
+housenumber: "1534"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00; Su 10:00-18:00"
+opening_hours: Mo-Sa 08:00-18:00; Su 10:00-18:00
 website: ""

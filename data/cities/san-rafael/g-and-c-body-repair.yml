@@ -1,11 +1,11 @@
 id: 1174105354
-type: way
+type: node
 latitude: 37.96627
 longitude: -122.51234
 postcode: "94901"
 city: San Rafael
-street: "Mill Street"
-housenumber: 191
+street: Mill Street
+housenumber: "191"
 phone: ""
 opening_hours: ""
 website: ""

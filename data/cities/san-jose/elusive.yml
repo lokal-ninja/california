@@ -4,8 +4,8 @@ latitude: 37.34872
 longitude: -121.89456
 postcode: "95112"
 city: San Jose
-street: "Jackson Street"
-housenumber: 196
+street: Jackson Street
+housenumber: "196"
 phone: ""
 opening_hours: ""
-website: "https://elusiveca.com/"
+website: https://elusiveca.com/

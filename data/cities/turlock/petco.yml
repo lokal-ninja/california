@@ -1,11 +1,11 @@
 id: 577952664
-type: way
+type: node
 latitude: 37.51516
 longitude: -120.87895
 postcode: "95380"
 city: Turlock
-street: "Countryside Drive"
-housenumber: 2687
-phone: "+1 209-226-7142"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-19:00"
-website: "https://stores.petco.com/ca/turlock/pet-supplies-turlock-ca-1349.html"
+street: Countryside Drive
+housenumber: "2687"
+phone: +1 209-226-7142
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-19:00
+website: https://stores.petco.com/ca/turlock/pet-supplies-turlock-ca-1349.html

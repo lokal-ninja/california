@@ -1,11 +1,11 @@
 id: 966913873
-type: way
+type: node
 latitude: 32.72198
 longitude: -117.24525
 postcode: "92106"
 city: San Diego
-street: "Catalina Boulevard"
-housenumber: 955
+street: Catalina Boulevard
+housenumber: "955"
 phone: ""
 opening_hours: ""
 website: ""

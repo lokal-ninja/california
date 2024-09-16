@@ -1,11 +1,11 @@
 id: 252924352
-type: way
+type: node
 latitude: 38.56176
 longitude: -121.44458
 postcode: "95819"
 city: Sacramento
-street: "Folsom Boulevard"
-housenumber: 5039
+street: Folsom Boulevard
+housenumber: "5039"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/sacramento-ca-pharmacies/5039-folsom-blvd-sacramento-ca-95819/storeid=3943"
+website: https://www.cvs.com/store-locator/sacramento-ca-pharmacies/5039-folsom-blvd-sacramento-ca-95819/storeid=3943

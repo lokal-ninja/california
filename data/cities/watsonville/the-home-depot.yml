@@ -1,11 +1,11 @@
 id: 35262300
-type: way
+type: node
 latitude: 36.9331
 longitude: -121.77822
 postcode: "95076"
 city: Watsonville
-street: "South Green Valley Road"
-housenumber: 355
-phone: "+1 831-786-9877"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/watsonville/ca/watsonville/95076/1069"
+street: South Green Valley Road
+housenumber: "355"
+phone: +1 831-786-9877
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/watsonville/ca/watsonville/95076/1069

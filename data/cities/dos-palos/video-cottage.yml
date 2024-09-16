@@ -1,11 +1,11 @@
 id: 311712094
-type: way
+type: node
 latitude: 36.98618
 longitude: -120.631
 postcode: "93620"
 city: Dos Palos
-street: "Blossom Street"
-housenumber: 2218
+street: Blossom Street
+housenumber: "2218"
 phone: ""
 opening_hours: ""
 website: ""

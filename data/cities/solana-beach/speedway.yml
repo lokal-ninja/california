@@ -1,11 +1,11 @@
 id: 993449860
-type: way
+type: node
 latitude: 32.97974
 longitude: -117.25621
 postcode: "92075"
 city: Solana Beach
-street: "Via de la Valle"
-housenumber: 660
+street: Via de la Valle
+housenumber: "660"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/CA/Solana-Beach/660-VIA-DE-LA-VALLE"
+website: https://www.speedway.com/locations/CA/Solana-Beach/660-VIA-DE-LA-VALLE

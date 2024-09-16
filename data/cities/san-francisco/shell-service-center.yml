@@ -1,11 +1,11 @@
 id: 283457590
-type: way
+type: node
 latitude: 37.74343
 longitude: -122.47608
 postcode: "94116"
 city: San Francisco
-street: "19th Avenue"
-housenumber: 2399
+street: 19th Avenue
+housenumber: "2399"
 phone: ""
 opening_hours: ""
 website: ""

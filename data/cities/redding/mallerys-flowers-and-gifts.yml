@@ -1,11 +1,11 @@
 id: 775220296
-type: way
+type: node
 latitude: 40.57736
 longitude: -122.3882
 postcode: "96001"
 city: Redding
-street: "Market Street"
-housenumber: 2172
-phone: "+1 (530) 243-0434"
+street: Market Street
+housenumber: "2172"
+phone: +1 (530) 243-0434
 opening_hours: ""
-website: "https://www.mallerysflowers.com/"
+website: https://www.mallerysflowers.com/

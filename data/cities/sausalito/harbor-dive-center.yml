@@ -4,8 +4,8 @@ latitude: 37.86811
 longitude: -122.49886
 postcode: "94965"
 city: Sausalito
-street: "Harbor Drive"
-housenumber: 200
-phone: "1-415-331-0904"
-opening_hours: "Mo-Fr 10:00-19:00; Sa-Su 10:00-17:00"
-website: "https://www.harbordive.com/get-in-touch"
+street: Harbor Drive
+housenumber: "200"
+phone: 1-415-331-0904
+opening_hours: Mo-Fr 10:00-19:00; Sa-Su 10:00-17:00
+website: https://www.harbordive.com/get-in-touch

@@ -1,11 +1,11 @@
 id: 404166171
-type: way
+type: node
 latitude: 33.92513
 longitude: -116.86847
 postcode: "92220"
 city: Banning
-street: "East Ramsey Street"
-housenumber: 780
+street: East Ramsey Street
+housenumber: "780"
 phone: ""
 opening_hours: ""
 website: ""

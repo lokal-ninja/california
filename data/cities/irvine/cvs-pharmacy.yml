@@ -1,11 +1,11 @@
 id: 378241198
-type: way
+type: node
 latitude: 33.70568
 longitude: -117.78412
 postcode: "92604"
 city: Irvine
-street: "Culver Drive"
-housenumber: 14330
+street: Culver Drive
+housenumber: "14330"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/irvine-ca-pharmacies/14330-culver-drive-irvine-ca-92604/storeid=9497"
+website: https://www.cvs.com/store-locator/irvine-ca-pharmacies/14330-culver-drive-irvine-ca-92604/storeid=9497

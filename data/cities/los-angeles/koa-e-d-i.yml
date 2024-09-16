@@ -1,11 +1,11 @@
 id: 428536049
-type: way
+type: node
 latitude: 34.02496
 longitude: -118.3516
 postcode: ""
 city: Los Angeles
-street: "Exposition Boulevard"
-housenumber: 4921
+street: Exposition Boulevard
+housenumber: "4921"
 phone: ""
 opening_hours: ""
 website: ""

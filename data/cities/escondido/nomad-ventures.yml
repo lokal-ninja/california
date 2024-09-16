@@ -1,11 +1,11 @@
 id: 94807737
-type: way
+type: node
 latitude: 33.11932
 longitude: -117.08586
 postcode: "92025"
 city: Escondido
-street: "West Grand Avenue"
-housenumber: 405
+street: West Grand Avenue
+housenumber: "405"
 phone: ""
 opening_hours: ""
-website: "http://www.joshuatreevillage.com/515/nv.htm"
+website: http://www.joshuatreevillage.com/515/nv.htm

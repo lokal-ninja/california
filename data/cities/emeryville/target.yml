@@ -1,11 +1,11 @@
 id: 23014328
-type: way
+type: node
 latitude: 37.82864
 longitude: -122.29069
 postcode: "94608"
 city: Emeryville
-street: "40th Street"
-housenumber: 1555
-phone: "+1 510-285-0559"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.target.com/sl/oakland-emeryville/2767"
+street: 40th Street
+housenumber: "1555"
+phone: +1 510-285-0559
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.target.com/sl/oakland-emeryville/2767

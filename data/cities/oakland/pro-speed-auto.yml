@@ -1,11 +1,11 @@
 id: 258958674
-type: way
+type: node
 latitude: 37.77848
 longitude: -122.2263
 postcode: "94601"
 city: oakland
-street: "31st Avenue"
-housenumber: 1410
-phone: "510-261-2288"
+street: 31st Avenue
+housenumber: "1410"
+phone: 510-261-2288
 opening_hours: ""
 website: ""

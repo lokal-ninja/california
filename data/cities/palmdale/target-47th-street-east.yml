@@ -1,11 +1,11 @@
 id: 1006767313
-type: way
+type: node
 latitude: 34.57476
 longitude: -118.04894
-postcode: "93552-3103"
+postcode: 93552-3103
 city: Palmdale
-street: "47th Street East"
-housenumber: 38019
-phone: "+1 661-998-2500"
-opening_hours: "07:00-23:00"
-website: "https://www.target.com/sl/palmdale-east/2350"
+street: 47th Street East
+housenumber: "38019"
+phone: +1 661-998-2500
+opening_hours: 07:00-23:00
+website: https://www.target.com/sl/palmdale-east/2350

@@ -1,11 +1,11 @@
 id: 385242006
-type: way
+type: node
 latitude: 33.42543
 longitude: -117.61263
 postcode: "92672"
 city: San Clemente
-street: "Avenida Victoria"
-housenumber: 135
+street: Avenida Victoria
+housenumber: "135"
 phone: ""
 opening_hours: ""
 website: ""

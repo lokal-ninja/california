@@ -1,11 +1,11 @@
 id: 70288543
-type: way
+type: node
 latitude: 33.81045
 longitude: -118.28562
-postcode: "90745-6314"
+postcode: 90745-6314
 city: Carson
-street: "West Sepulveda Boulevard"
-housenumber: 651
-phone: "+1 310-507-0020"
-opening_hours: "08:00-23:00"
-website: "https://www.target.com/sl/carson/2328"
+street: West Sepulveda Boulevard
+housenumber: "651"
+phone: +1 310-507-0020
+opening_hours: 08:00-23:00
+website: https://www.target.com/sl/carson/2328

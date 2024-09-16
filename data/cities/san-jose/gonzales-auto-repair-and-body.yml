@@ -1,11 +1,11 @@
 id: 227068922
-type: way
+type: node
 latitude: 37.31506
 longitude: -121.86271
 postcode: "95112"
 city: San Jose
-street: "Phelan Avenue"
-housenumber: 372
+street: Phelan Avenue
+housenumber: "372"
 phone: ""
 opening_hours: ""
 website: ""

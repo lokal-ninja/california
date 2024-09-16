@@ -1,11 +1,11 @@
 id: 31818372
-type: way
+type: node
 latitude: 32.82837
 longitude: -117.15753
 postcode: "92111"
 city: San Diego
-street: "Ruffner Street"
-housenumber: 4783
+street: Ruffner Street
+housenumber: "4783"
 phone: ""
 opening_hours: ""
-website: "http://www.visplumbing.com/"
+website: http://www.visplumbing.com/

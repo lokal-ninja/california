@@ -1,11 +1,11 @@
 id: 219072560
-type: way
+type: node
 latitude: 37.76878
 longitude: -122.42878
 postcode: "94114"
 city: San Francisco
-street: "Market Street"
-housenumber: 2020
-phone: "+1 415-861-7660"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/ca/san-francisco/2020-market-st.html"
+street: Market Street
+housenumber: "2020"
+phone: +1 415-861-7660
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/ca/san-francisco/2020-market-st.html

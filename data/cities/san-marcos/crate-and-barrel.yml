@@ -1,11 +1,11 @@
 id: 402144205
-type: way
+type: node
 latitude: 33.13566
 longitude: -117.17552
 postcode: "92078"
 city: San Marcos
-street: "Grand Avenue"
-housenumber: 563
+street: Grand Avenue
+housenumber: "563"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 776177617
-type: way
+type: node
 latitude: 40.56409
 longitude: -122.34038
 postcode: "96002"
 city: Redding
-street: "Hartnell Avenue"
-housenumber: 1670
+street: Hartnell Avenue
+housenumber: "1670"
 phone: ""
 opening_hours: ""
 website: ""

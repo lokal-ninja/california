@@ -4,8 +4,8 @@ latitude: 33.04539
 longitude: -117.29356
 postcode: "92024"
 city: Encinitas
-street: "South Coast Highway 101"
-housenumber: 543
+street: South Coast Highway 101
+housenumber: "543"
 phone: ""
-opening_hours: "07:30-16:30"
-website: "https://www.pragerbrothers.com"
+opening_hours: 07:30-16:30
+website: https://www.pragerbrothers.com

@@ -1,11 +1,11 @@
 id: 1094678481
-type: way
+type: node
 latitude: 34.2389
 longitude: -116.92315
 postcode: "92315"
 city: Big Bear Lake
-street: "Big Bear Boulevard"
-housenumber: 40298
+street: Big Bear Boulevard
+housenumber: "40298"
 phone: "+19098668000"
-opening_hours: "Mo-Tu off; We-Su 10:00-17:00"
-website: "https://www.bvbikes.com/"
+opening_hours: Mo-Tu off; We-Su 10:00-17:00
+website: https://www.bvbikes.com/

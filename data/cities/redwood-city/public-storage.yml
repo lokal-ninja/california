@@ -1,11 +1,11 @@
 id: 1263142561
-type: way
+type: node
 latitude: 37.48927
 longitude: -122.20746
 postcode: ""
 city: Redwood City
-street: "East Bayshore Road"
-housenumber: 1893
+street: East Bayshore Road
+housenumber: "1893"
 phone: ""
 opening_hours: ""
 website: ""

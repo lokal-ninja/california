@@ -1,11 +1,11 @@
 id: 302320382
-type: way
+type: node
 latitude: 37.30257
 longitude: -120.61457
 postcode: "95301"
 city: Atwater
-street: "North Applegate Road"
-housenumber: 1044
+street: North Applegate Road
+housenumber: "1044"
 phone: ""
 opening_hours: ""
 website: ""

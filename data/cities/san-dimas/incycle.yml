@@ -4,8 +4,8 @@ latitude: 34.10384
 longitude: -117.81674
 postcode: "91773"
 city: San Dimas
-street: "West Arrow Highway"
-housenumber: 501
+street: West Arrow Highway
+housenumber: "501"
 phone: ""
-opening_hours: "Mo 10:00-18:00, Tu-Fr 10:00-19:00, Sa 10:00-18:00, Su 11:00-17:00"
-website: "https://www.incycle.com/"
+opening_hours: Mo 10:00-18:00, Tu-Fr 10:00-19:00, Sa 10:00-18:00, Su 11:00-17:00
+website: https://www.incycle.com/

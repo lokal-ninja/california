@@ -4,8 +4,8 @@ latitude: 37.78676
 longitude: -122.41946
 postcode: "94109"
 city: San Francisco
-street: "Post Street"
-housenumber: 1077
+street: Post Street
+housenumber: "1077"
 phone: ""
-opening_hours: "Mo-Su 8:00-22:00"
-website: "https://www.grassrootssf.com/"
+opening_hours: Mo-Su 8:00-22:00
+website: https://www.grassrootssf.com/

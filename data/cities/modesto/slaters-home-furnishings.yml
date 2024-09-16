@@ -1,11 +1,11 @@
 id: 502497677
-type: way
+type: node
 latitude: 37.64547
 longitude: -120.99453
 postcode: "95354"
 city: Modesto
-street: "J Street"
-housenumber: 1605
+street: J Street
+housenumber: "1605"
 phone: ""
 opening_hours: ""
 website: ""

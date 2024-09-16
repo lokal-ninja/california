@@ -4,8 +4,8 @@ latitude: 37.78947
 longitude: -122.41339
 postcode: ""
 city: San Francisco
-street: "Bush Street"
-housenumber: 985
-phone: "+1 415 4746110"
+street: Bush Street
+housenumber: "985"
+phone: +1 415 4746110
 opening_hours: ""
-website: "https://marketmayflower.com/"
+website: https://marketmayflower.com/

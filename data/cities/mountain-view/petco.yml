@@ -4,8 +4,8 @@ latitude: 37.39308
 longitude: -122.09734
 postcode: "94040"
 city: Mountain View
-street: "El Camino Real"
-housenumber: 1919
-phone: "+1 650-966-1233"
-opening_hours: "Mo-Sa 09:00-21:00, Su 10:00-20:00"
-website: "https://stores.petco.com/ca/mountainview/pet-supplies-mountainview-ca-313.html"
+street: El Camino Real
+housenumber: "1919"
+phone: +1 650-966-1233
+opening_hours: Mo-Sa 09:00-21:00, Su 10:00-20:00
+website: https://stores.petco.com/ca/mountainview/pet-supplies-mountainview-ca-313.html

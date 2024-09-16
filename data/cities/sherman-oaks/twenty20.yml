@@ -1,11 +1,11 @@
 id: 432343798
-type: way
+type: node
 latitude: 34.15118
 longitude: -118.45227
 postcode: "91403"
 city: Sherman Oaks
-street: "Ventura Boulevard"
-housenumber: 14622
-phone: "+1 818 385 1700"
-opening_hours: "11:00-20:00"
+street: Ventura Boulevard
+housenumber: "14622"
+phone: +1 818 385 1700
+opening_hours: 11:00-20:00
 website: ""

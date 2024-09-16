@@ -1,11 +1,11 @@
 id: 691358713
-type: way
+type: node
 latitude: 34.44895
 longitude: -119.2464
 postcode: "93023"
 city: Ojai
-street: "North Signal Street"
-housenumber: 201
+street: North Signal Street
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

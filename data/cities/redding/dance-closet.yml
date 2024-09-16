@@ -1,11 +1,11 @@
 id: 564547089
-type: way
+type: node
 latitude: 40.57433
 longitude: -122.35511
 postcode: "96002"
 city: Redding
-street: "Larkspur Lane"
-housenumber: 2227
-phone: "+1 (530) 255-8222"
+street: Larkspur Lane
+housenumber: "2227"
+phone: +1 (530) 255-8222
 opening_hours: ""
-website: "https://www.danceclosetredding.com"
+website: https://www.danceclosetredding.com

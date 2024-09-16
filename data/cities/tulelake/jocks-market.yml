@@ -1,11 +1,11 @@
 id: 1001932475
-type: way
+type: node
 latitude: 41.95823
 longitude: -121.47636
 postcode: "96134"
 city: Tulelake
-street: "Modoc Avenue"
-housenumber: 395
+street: Modoc Avenue
+housenumber: "395"
 phone: ""
 opening_hours: ""
 website: ""

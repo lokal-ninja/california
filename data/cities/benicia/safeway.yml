@@ -4,8 +4,8 @@ latitude: 38.05477
 longitude: -122.15572
 postcode: "94510"
 city: Benicia
-street: "Solano Square"
-housenumber: 50
-phone: "+1 707-745-4047"
-opening_hours: "Mo-Su 06:00-23:59"
-website: "https://local.safeway.com/safeway/ca/benicia/50-solano-sq.html"
+street: Solano Square
+housenumber: "50"
+phone: +1 707-745-4047
+opening_hours: Mo-Su 06:00-23:59
+website: https://local.safeway.com/safeway/ca/benicia/50-solano-sq.html

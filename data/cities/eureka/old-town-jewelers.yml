@@ -1,11 +1,11 @@
 id: 238307061
-type: way
+type: node
 latitude: 40.80335
 longitude: -124.16599
 postcode: "95501"
 city: Eureka
-street: "F Street"
-housenumber: 311
-phone: "(707) 441-9244"
+street: F Street
+housenumber: "311"
+phone: (707) 441-9244
 opening_hours: ""
-website: "http://www.stevenvictordesign.com/order.html"
+website: http://www.stevenvictordesign.com/order.html

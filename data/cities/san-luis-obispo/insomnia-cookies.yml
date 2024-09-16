@@ -4,8 +4,8 @@ latitude: 35.29391
 longitude: -120.67028
 postcode: "93405"
 city: San Luis Obispo
-street: "Chorro Street"
-housenumber: 22
+street: Chorro Street
+housenumber: "22"
 phone: "+18053605723"
-opening_hours: "Mo-Fr 11:00-1:00; Sa-Su 11:00-3:00"
+opening_hours: Mo-Fr 11:00-1:00; Sa-Su 11:00-3:00
 website: ""

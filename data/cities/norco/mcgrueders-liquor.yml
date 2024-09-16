@@ -1,11 +1,11 @@
 id: 276346476
-type: way
+type: node
 latitude: 33.90863
 longitude: -117.58102
 postcode: "92860"
 city: Norco
-street: "River Road"
-housenumber: 1943
+street: River Road
+housenumber: "1943"
 phone: ""
 opening_hours: ""
 website: ""

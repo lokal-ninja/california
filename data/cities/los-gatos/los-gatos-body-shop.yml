@@ -1,11 +1,11 @@
 id: 206894425
-type: way
+type: node
 latitude: 37.23822
 longitude: -121.97573
 postcode: "95030"
 city: Los Gatos
-street: "Shelburne Way"
-housenumber: 17450
+street: Shelburne Way
+housenumber: "17450"
 phone: ""
 opening_hours: ""
 website: ""

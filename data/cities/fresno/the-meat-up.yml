@@ -1,11 +1,11 @@
 id: 1181505731
-type: way
+type: node
 latitude: 36.83772
 longitude: -119.84719
 postcode: "93711"
 city: Fresno
-street: "N Marks Ave"
-housenumber: 7010
-phone: "(559) 963-6328"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-16:00"
-website: "https://www.themeatup.com/"
+street: N Marks Ave
+housenumber: "7010"
+phone: (559) 963-6328
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-16:00
+website: https://www.themeatup.com/

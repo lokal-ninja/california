@@ -1,11 +1,11 @@
 id: 1006868822
-type: way
+type: node
 latitude: 33.02054
 longitude: -117.11379
 postcode: "92127"
 city: San Diego
-street: "Reserve Drive"
-housenumber: 10455
-phone: "+1 858-676-6831"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/san-diego-ca-1100"
+street: Reserve Drive
+housenumber: "10455"
+phone: +1 858-676-6831
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/san-diego-ca-1100

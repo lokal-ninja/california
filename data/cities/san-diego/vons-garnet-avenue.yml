@@ -1,11 +1,11 @@
 id: 133090564
-type: way
+type: node
 latitude: 32.80215
 longitude: -117.2394
 postcode: "92109"
 city: San Diego
-street: "Garnet Avenue"
-housenumber: 1702
-phone: "+1 858-273-8340"
-opening_hours: "Mo-Su 05:00-24:00"
-website: "https://local.vons.com/ca/san-diego/1702-garnet-ave.html"
+street: Garnet Avenue
+housenumber: "1702"
+phone: +1 858-273-8340
+opening_hours: Mo-Su 05:00-24:00
+website: https://local.vons.com/ca/san-diego/1702-garnet-ave.html

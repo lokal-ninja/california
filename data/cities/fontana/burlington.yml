@@ -1,11 +1,11 @@
 id: 760192109
-type: way
+type: node
 latitude: 34.06852
 longitude: -117.43819
 postcode: "92335"
 city: Fontana
-street: "Valley Boulevard"
-housenumber: 16795
-phone: "+1 951-335-7183"
-opening_hours: "Mo-Th 08:00-23:00; Fr-Sa 09:00-23:30; Su 09:00-23:00"
-website: "https://stores.burlington.com/ca/fontana/1261/"
+street: Valley Boulevard
+housenumber: "16795"
+phone: +1 951-335-7183
+opening_hours: Mo-Th 08:00-23:00; Fr-Sa 09:00-23:30; Su 09:00-23:00
+website: https://stores.burlington.com/ca/fontana/1261/

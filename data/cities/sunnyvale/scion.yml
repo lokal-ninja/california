@@ -1,11 +1,11 @@
 id: 45757976
-type: way
+type: node
 latitude: 37.37063
 longitude: -122.04551
 postcode: "94087"
 city: Sunnyvale
-street: "West El Camino Real"
-housenumber: 916
+street: West El Camino Real
+housenumber: "916"
 phone: ""
 opening_hours: ""
 website: ""

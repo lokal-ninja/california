@@ -1,11 +1,11 @@
 id: 120653454
-type: way
+type: node
 latitude: 38.57615
 longitude: -121.57576
 postcode: "95691"
 city: West Sacramento
-street: "West Capitol Avenue"
-housenumber: 4790
+street: West Capitol Avenue
+housenumber: "4790"
 phone: ""
 opening_hours: ""
 website: ""

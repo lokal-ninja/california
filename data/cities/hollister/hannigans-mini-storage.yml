@@ -1,11 +1,11 @@
 id: 91534430
-type: way
+type: node
 latitude: 36.86
 longitude: -121.403
 postcode: ""
 city: Hollister
-street: "San Felipe Road"
-housenumber: 180
-phone: "+1 831 637 6220"
+street: San Felipe Road
+housenumber: "180"
+phone: +1 831 637 6220
 opening_hours: ""
 website: ""

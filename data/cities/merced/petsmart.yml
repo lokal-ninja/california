@@ -1,11 +1,11 @@
 id: 202762085
-type: way
+type: node
 latitude: 37.31879
 longitude: -120.4902
 postcode: "95348"
 city: Merced
-street: "West Olive Avenue"
-housenumber: 1196
-phone: "+1 209-722-0844"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ca/merced-store1701.html"
+street: West Olive Avenue
+housenumber: "1196"
+phone: +1 209-722-0844
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ca/merced-store1701.html

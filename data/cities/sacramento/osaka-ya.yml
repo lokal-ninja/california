@@ -4,8 +4,8 @@ latitude: 38.56659
 longitude: -121.49926
 postcode: "95818"
 city: Sacramento
-street: "10th Street"
-housenumber: 2215
-phone: "+1-916-446-6857"
-opening_hours: "Mo 09:00-16:00; Tu-Su 09:00-17:00"
-website: "https://www.osakaya-wagashi.com/"
+street: 10th Street
+housenumber: "2215"
+phone: +1-916-446-6857
+opening_hours: Mo 09:00-16:00; Tu-Su 09:00-17:00
+website: https://www.osakaya-wagashi.com/

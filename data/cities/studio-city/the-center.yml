@@ -1,11 +1,11 @@
 id: 432169373
-type: way
+type: node
 latitude: 34.14519
 longitude: -118.41515
 postcode: "91604"
 city: Studio City
-street: "Ventura Boulevard"
-housenumber: 12930
+street: Ventura Boulevard
+housenumber: "12930"
 phone: ""
 opening_hours: ""
 website: ""

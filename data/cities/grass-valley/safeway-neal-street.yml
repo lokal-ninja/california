@@ -1,11 +1,11 @@
 id: 253141185
-type: way
+type: node
 latitude: 39.21625
 longitude: -121.06256
 postcode: "95945"
 city: Grass Valley
-street: "Neal Street"
-housenumber: 105
-phone: "+1 530-273-0115"
-opening_hours: "06:00-24:00"
-website: "https://local.safeway.com/safeway/ca/grass-valley/105-neal-st.html"
+street: Neal Street
+housenumber: "105"
+phone: +1 530-273-0115
+opening_hours: 06:00-24:00
+website: https://local.safeway.com/safeway/ca/grass-valley/105-neal-st.html

@@ -2,10 +2,10 @@ id: 1388946946
 type: node
 latitude: 36.68616
 longitude: -121.79495
-postcode: "93933-3182"
+postcode: 93933-3182
 city: Marina
-street: "Reservation Road"
-housenumber: 265
-phone: "+1 831-884-9476"
-opening_hours: "Mo-Fr 08:00-19:00; Sa-Su 08:00-18:00"
+street: Reservation Road
+housenumber: "265"
+phone: +1 831-884-9476
+opening_hours: Mo-Fr 08:00-19:00; Sa-Su 08:00-18:00
 website: ""

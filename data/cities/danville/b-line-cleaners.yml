@@ -1,11 +1,11 @@
 id: 1021534544
-type: way
+type: node
 latitude: 37.82455
 longitude: -122.00254
 postcode: "94526"
 city: Danville
-street: "Hartz Avenue"
-housenumber: 120
+street: Hartz Avenue
+housenumber: "120"
 phone: "+19258310202"
 opening_hours: ""
 website: ""

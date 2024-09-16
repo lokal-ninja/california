@@ -1,11 +1,11 @@
 id: 638081432
-type: way
+type: node
 latitude: 33.6933
 longitude: -117.34506
 postcode: "92530"
 city: Lake Elsinore
-street: "Collier Avenue"
-housenumber: 18123
-phone: "+1 951-674-1704"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Collier Avenue
+housenumber: "18123"
+phone: +1 951-674-1704
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 505613606
-type: way
+type: node
 latitude: 36.81874
 longitude: -119.78986
 postcode: "93710"
 city: Fresno
-street: "North Blackstone Avenue"
-housenumber: 5580
-phone: "559-475-6617"
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:00-19:00"
-website: "https://www.lithianissanfresno.com/"
+street: North Blackstone Avenue
+housenumber: "5580"
+phone: 559-475-6617
+opening_hours: Mo-Sa 08:00-20:00; Su 10:00-19:00
+website: https://www.lithianissanfresno.com/

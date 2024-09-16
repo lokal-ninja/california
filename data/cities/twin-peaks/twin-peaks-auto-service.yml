@@ -4,8 +4,8 @@ latitude: 34.23913
 longitude: -117.23388
 postcode: "92391"
 city: Twin Peaks
-street: "Highway 189"
-housenumber: 26100
-phone: "(909) 337-0082"
-opening_hours: "Mo-Fr 08:30-17:00"
-website: "https://www.twinpeaksautoservice.com/"
+street: Highway 189
+housenumber: "26100"
+phone: (909) 337-0082
+opening_hours: Mo-Fr 08:30-17:00
+website: https://www.twinpeaksautoservice.com/

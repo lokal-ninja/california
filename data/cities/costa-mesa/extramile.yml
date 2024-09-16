@@ -1,11 +1,11 @@
 id: 83348154
-type: way
+type: node
 latitude: 33.63535
 longitude: -117.91934
 postcode: "92627"
 city: Costa Mesa
-street: "Orange Avenue"
-housenumber: 1687
+street: Orange Avenue
+housenumber: "1687"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 398074440
-type: way
+type: node
 latitude: 34.17035
 longitude: -118.56989
 postcode: "91364"
 city: Woodland Hills
-street: "Ventura Boulevard"
-housenumber: 20060
-phone: "+1 818-883-7552"
-opening_hours: "Mo-Su 05:00-01:00"
-website: "https://www.ralphs.com/stores/grocery/ca/woodland-hills/ralphs-shopping-center/703/00070"
+street: Ventura Boulevard
+housenumber: "20060"
+phone: +1 818-883-7552
+opening_hours: Mo-Su 05:00-01:00
+website: https://www.ralphs.com/stores/grocery/ca/woodland-hills/ralphs-shopping-center/703/00070

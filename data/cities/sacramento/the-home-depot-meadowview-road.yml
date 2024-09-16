@@ -1,11 +1,11 @@
 id: 200341716
-type: way
+type: node
 latitude: 38.48319
 longitude: -121.50424
 postcode: "95832"
 city: Sacramento
-street: "Meadowview Road"
-housenumber: 1461
-phone: "+1 916-399-9905"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Meadowview/CA/Sacramento/95832/1003"
+street: Meadowview Road
+housenumber: "1461"
+phone: +1 916-399-9905
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Meadowview/CA/Sacramento/95832/1003

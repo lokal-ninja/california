@@ -4,8 +4,8 @@ latitude: 37.78476
 longitude: -122.43185
 postcode: "94115"
 city: San Francisco
-street: "Webster Street"
-housenumber: 1581
-phone: "+1 415 9297732"
-opening_hours: "Mo off; Tu-Th,Su 11:00-21:00; Fr,Sa 12:00-22:00"
-website: "http://www.sophiescrepessf.com"
+street: Webster Street
+housenumber: "1581"
+phone: +1 415 9297732
+opening_hours: Mo off; Tu-Th,Su 11:00-21:00; Fr,Sa 12:00-22:00
+website: http://www.sophiescrepessf.com

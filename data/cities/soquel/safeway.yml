@@ -1,11 +1,11 @@
 id: 239725293
-type: way
+type: node
 latitude: 36.98567
 longitude: -121.96288
 postcode: "95073"
 city: Soquel
-street: "41st Avenue"
-housenumber: 2720
-phone: "+1 831-477-7212"
-opening_hours: "24/7"
-website: "https://local.safeway.com/safeway/ca/soquel/2720-41st-ave.html"
+street: 41st Avenue
+housenumber: "2720"
+phone: +1 831-477-7212
+opening_hours: 24/7
+website: https://local.safeway.com/safeway/ca/soquel/2720-41st-ave.html

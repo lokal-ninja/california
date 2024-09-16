@@ -1,11 +1,11 @@
 id: 381153197
-type: way
+type: node
 latitude: 34.2101
 longitude: -118.84219
-postcode: "91362-1354"
+postcode: 91362-1354
 city: Thousand Oaks
-street: "East Avenida De Los Arboles"
-housenumber: 1934
-phone: "+1 805-267-1785"
-opening_hours: "Mo-Sa 07:00-20:00; Su 08:00-18:00"
+street: East Avenida De Los Arboles
+housenumber: "1934"
+phone: +1 805-267-1785
+opening_hours: Mo-Sa 07:00-20:00; Su 08:00-18:00
 website: ""

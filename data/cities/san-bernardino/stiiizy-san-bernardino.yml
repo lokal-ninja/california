@@ -1,11 +1,11 @@
 id: 775463963
-type: way
+type: node
 latitude: 34.10632
 longitude: -117.30144
 postcode: "92410"
 city: San Bernardino
-street: "N H St"
-housenumber: 390
+street: N H St
+housenumber: "390"
 phone: "+19093084201"
-opening_hours: "Mo-Su 06:00-21:45"
-website: "https://www.stiiizy.com/pages/san-bernardino-dispensary"
+opening_hours: Mo-Su 06:00-21:45
+website: https://www.stiiizy.com/pages/san-bernardino-dispensary

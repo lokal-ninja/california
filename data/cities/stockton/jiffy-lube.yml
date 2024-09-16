@@ -1,11 +1,11 @@
 id: 287560632
-type: way
+type: node
 latitude: 38.02071
 longitude: -121.29231
 postcode: ""
 city: Stockton
-street: "East Hammer Lane"
-housenumber: 1648
-phone: "+1 (209) 952-8760"
-opening_hours: "Mo-Sa 07:30-17:30"
-website: "https://www.jiffylube.com/locations/ca/stockton/1478"
+street: East Hammer Lane
+housenumber: "1648"
+phone: +1 (209) 952-8760
+opening_hours: Mo-Sa 07:30-17:30
+website: https://www.jiffylube.com/locations/ca/stockton/1478

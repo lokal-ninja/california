@@ -1,11 +1,11 @@
 id: 117755669
-type: way
+type: node
 latitude: 37.37903
 longitude: -122.11614
 postcode: "94022"
 city: Los Altos
-street: "Main Street"
-housenumber: 216
+street: Main Street
+housenumber: "216"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 363054684
-type: way
+type: node
 latitude: 37.76831
 longitude: -122.41824
 postcode: "94103"
 city: San Francisco
-street: "South Van Ness Avenue"
-housenumber: 300
-phone: "+1 (888) 896-1405"
+street: South Van Ness Avenue
+housenumber: "300"
+phone: +1 (888) 896-1405
 opening_hours: ""
-website: "https://www.audisanfrancisco.com/"
+website: https://www.audisanfrancisco.com/

@@ -4,8 +4,8 @@ latitude: 40.56843
 longitude: -122.36346
 postcode: "96002"
 city: Redding
-street: "Bechelli Lane"
-housenumber: 2672
-phone: "+1-530-221-8551"
-opening_hours: "Mo-Th 07:30-18:00; Fr 09:00-18:00; Sa, Su by appointment"
+street: Bechelli Lane
+housenumber: "2672"
+phone: +1-530-221-8551
+opening_hours: Mo-Th 07:30-18:00; Fr 09:00-18:00; Sa, Su "by appointment"
 website: ""

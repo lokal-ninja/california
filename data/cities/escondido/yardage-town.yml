@@ -1,11 +1,11 @@
 id: 94333937
-type: way
+type: node
 latitude: 33.12195
 longitude: -117.08062
 postcode: "92025"
 city: Escondido
-street: "East Grand Avenue"
-housenumber: 141
+street: East Grand Avenue
+housenumber: "141"
 phone: ""
 opening_hours: ""
-website: "http://www.yardagetown.com/"
+website: http://www.yardagetown.com/

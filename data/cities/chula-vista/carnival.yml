@@ -1,11 +1,11 @@
 id: 130006408
-type: way
+type: node
 latitude: 32.6222
 longitude: -117.07331
 postcode: "91911"
 city: Chula Vista
-street: "Third Ave."
-housenumber: 870
+street: Third Ave.
+housenumber: "870"
 phone: ""
 opening_hours: ""
 website: ""

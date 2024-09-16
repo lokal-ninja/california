@@ -1,11 +1,11 @@
 id: 693762846
-type: way
+type: node
 latitude: 37.67297
 longitude: -121.0368
 postcode: "95350"
 city: Modesto
-street: "Plaza Parkway"
-housenumber: 2225
-phone: "+1 209-524-4733"
-opening_hours: "Mo-Su 06:00-10:00"
-website: "https://www.walmart.com/store/1587/modesto-ca/whats-new"
+street: Plaza Parkway
+housenumber: "2225"
+phone: +1 209-524-4733
+opening_hours: Mo-Su 06:00-10:00
+website: https://www.walmart.com/store/1587/modesto-ca/whats-new

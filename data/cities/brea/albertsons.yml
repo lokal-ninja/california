@@ -1,11 +1,11 @@
 id: 437245939
-type: way
+type: node
 latitude: 33.90998
 longitude: -117.86476
 postcode: "92821"
 city: Brea
-street: "East Imperial Highway"
-housenumber: 2500
-phone: "+1 714-671-1180"
+street: East Imperial Highway
+housenumber: "2500"
+phone: +1 714-671-1180
 opening_hours: ""
-website: "https://local.albertsons.com/ca/brea/2500-e-imperial-hwy.html"
+website: https://local.albertsons.com/ca/brea/2500-e-imperial-hwy.html

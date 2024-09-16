@@ -1,11 +1,11 @@
 id: 429338539
-type: way
+type: node
 latitude: 34.03288
 longitude: -118.36303
 postcode: "90016"
 city: Los Angeles
-street: "West Adams Boulevard"
-housenumber: 5511
-phone: "+1 323-933-8434"
-opening_hours: "Mo-Sa 08:00-16:30"
-website: "https://dadsonlaundry.com/"
+street: West Adams Boulevard
+housenumber: "5511"
+phone: +1 323-933-8434
+opening_hours: Mo-Sa 08:00-16:30
+website: https://dadsonlaundry.com/

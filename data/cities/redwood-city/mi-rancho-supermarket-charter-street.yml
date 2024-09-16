@@ -1,11 +1,11 @@
 id: 240583623
-type: way
+type: node
 latitude: 37.47657
 longitude: -122.21803
 postcode: "94063"
 city: Redwood City
-street: "Charter Street"
-housenumber: 150
-phone: "(650) 780-0330"
+street: Charter Street
+housenumber: "150"
+phone: (650) 780-0330
 opening_hours: ""
-website: "https://miranchosupermarket.com/"
+website: https://miranchosupermarket.com/

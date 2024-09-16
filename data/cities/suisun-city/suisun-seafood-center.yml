@@ -1,11 +1,11 @@
 id: 1193243491
-type: way
+type: node
 latitude: 38.24242
 longitude: -122.01828
 postcode: "94585"
 city: Suisun City
-street: "Lawler Center Drive"
-housenumber: 303
+street: Lawler Center Drive
+housenumber: "303"
 phone: ""
-opening_hours: "Mo-Su 09:00-18:00; PH unknown"
+opening_hours: Mo-Su 09:00-18:00; PH unknown
 website: ""

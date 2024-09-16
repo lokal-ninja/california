@@ -1,11 +1,11 @@
 id: 384587418
-type: way
+type: node
 latitude: 37.67005
 longitude: -121.85697
 postcode: "94566"
 city: Pleasanton
-street: "Bernal Avenue"
-housenumber: 3010
+street: Bernal Avenue
+housenumber: "3010"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/pleasanton-ca-pharmacies/3010-bernal-avenue-pleasanton-ca-94566/storeid=10924"
+website: https://www.cvs.com/store-locator/pleasanton-ca-pharmacies/3010-bernal-avenue-pleasanton-ca-94566/storeid=10924

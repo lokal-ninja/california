@@ -1,11 +1,11 @@
 id: 175581274
-type: way
+type: node
 latitude: 38.10365
 longitude: -122.23149
 postcode: "94590"
 city: Vallejo
-street: "Solano Avenue"
-housenumber: 2001
-phone: "+1 707-645-0185"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/2001-solano-ave-vallejo-94590?number=17"
+street: Solano Avenue
+housenumber: "2001"
+phone: +1 707-645-0185
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/2001-solano-ave-vallejo-94590?number=17

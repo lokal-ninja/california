@@ -1,11 +1,11 @@
 id: 267730623
-type: way
+type: node
 latitude: 37.76529
 longitude: -122.47689
 postcode: "94122"
 city: San Francisco
-street: "Lincoln Way"
-housenumber: 1759
+street: Lincoln Way
+housenumber: "1759"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

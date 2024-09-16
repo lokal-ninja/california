@@ -4,8 +4,8 @@ latitude: 34.03261
 longitude: -118.36486
 postcode: "90016"
 city: Los Angeles
-street: "West Adams Boulevard"
-housenumber: 5601
-phone: "+1 844-492-9675"
-opening_hours: "Mo-Su 11:00-20:00"
-website: "https://hya.la/"
+street: West Adams Boulevard
+housenumber: "5601"
+phone: +1 844-492-9675
+opening_hours: Mo-Su 11:00-20:00
+website: https://hya.la/

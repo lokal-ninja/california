@@ -1,11 +1,11 @@
 id: 961427376
-type: way
+type: node
 latitude: 32.81475
 longitude: -116.91784
 postcode: "92021"
 city: El Cajon
-street: "East Main Street"
-housenumber: 1780
+street: East Main Street
+housenumber: "1780"
 phone: "+16194411305"
 opening_hours: ""
-website: "https://abc-baby-resale.business.site/"
+website: https://abc-baby-resale.business.site/

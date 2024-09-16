@@ -4,8 +4,8 @@ latitude: 37.71346
 longitude: -120.9531
 postcode: "95367"
 city: Riverbank
-street: "Claribel Road"
-housenumber: 2425
-phone: "+1 209-863-1270"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/riverbank/2096"
+street: Claribel Road
+housenumber: "2425"
+phone: +1 209-863-1270
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/riverbank/2096

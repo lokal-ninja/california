@@ -1,11 +1,11 @@
 id: 42153814
-type: way
+type: node
 latitude: 37.78237
 longitude: -119.07632
 postcode: "93529"
 city: June Lake
-street: "Brenner Street"
-housenumber: 120
+street: Brenner Street
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

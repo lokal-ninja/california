@@ -1,11 +1,11 @@
 id: 296133772
-type: way
+type: node
 latitude: 37.10282
 longitude: -121.0151
 postcode: "95322"
 city: Gustine
-street: "South Highway 33"
-housenumber: 12860
+street: South Highway 33
+housenumber: "12860"
 phone: ""
 opening_hours: ""
 website: ""

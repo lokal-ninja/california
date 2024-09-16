@@ -4,8 +4,8 @@ latitude: 32.72079
 longitude: -117.23258
 postcode: "92106"
 city: San Diego
-street: "Rosecrans Street"
-housenumber: 1026
+street: Rosecrans Street
+housenumber: "1026"
 phone: "+16192262601"
-opening_hours: "Tu-Su 10:00-17:00"
-website: "https://www.laplayabooks.com/"
+opening_hours: Tu-Su 10:00-17:00
+website: https://www.laplayabooks.com/

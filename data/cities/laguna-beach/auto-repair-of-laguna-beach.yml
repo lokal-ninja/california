@@ -1,11 +1,11 @@
 id: 565840500
-type: way
+type: node
 latitude: 33.53633
 longitude: -117.77828
 postcode: "92651"
 city: Laguna Beach
-street: "Pacific Coast Highway"
-housenumber: 890
+street: Pacific Coast Highway
+housenumber: "890"
 phone: ""
 opening_hours: ""
 website: ""

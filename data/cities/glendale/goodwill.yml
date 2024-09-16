@@ -4,8 +4,8 @@ latitude: 34.14255
 longitude: -118.22919
 postcode: "91205"
 city: Glendale
-street: "East Colorado Street"
-housenumber: 1600
-phone: "+1-818-543-0166"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-20:00"
-website: "https://www.goodwillsocal.org/"
+street: East Colorado Street
+housenumber: "1600"
+phone: +1-818-543-0166
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-20:00
+website: https://www.goodwillsocal.org/

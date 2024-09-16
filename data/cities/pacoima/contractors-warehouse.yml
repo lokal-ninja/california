@@ -1,11 +1,11 @@
 id: 1240954721
-type: way
+type: node
 latitude: 34.27761
 longitude: -118.43011
 postcode: "91340"
 city: Pacoima
-street: "Vaughn Street"
-housenumber: 1357
+street: Vaughn Street
+housenumber: "1357"
 phone: ""
 opening_hours: ""
 website: ""

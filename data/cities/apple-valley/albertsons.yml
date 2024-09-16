@@ -1,11 +1,11 @@
 id: 460848368
-type: way
+type: node
 latitude: 34.52502
 longitude: -117.22083
 postcode: "92307"
 city: Apple Valley
-street: "Highway 18"
-housenumber: 20261
-phone: "+1 760-242-3660"
+street: Highway 18
+housenumber: "20261"
+phone: +1 760-242-3660
 opening_hours: ""
-website: "https://local.albertsons.com/ca/apple-valley/20261-hwy-18.html"
+website: https://local.albertsons.com/ca/apple-valley/20261-hwy-18.html

@@ -1,11 +1,11 @@
 id: 616450390
-type: way
+type: node
 latitude: 38.66386
 longitude: -121.34419
 postcode: "95841"
 city: Sacramento
-street: "Auburn Boulevard"
-housenumber: 5181
+street: Auburn Boulevard
+housenumber: "5181"
 phone: ""
 opening_hours: ""
 website: ""

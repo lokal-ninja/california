@@ -1,11 +1,11 @@
 id: 225853643
-type: way
+type: node
 latitude: 33.04909
 longitude: -117.26037
 postcode: "92024"
 city: Encinitas
-street: "North El Camino Real"
-housenumber: 204
-phone: "760-634-2900"
+street: North El Camino Real
+housenumber: "204"
+phone: 760-634-2900
 opening_hours: ""
-website: "https://busybody.com/stores/encinitas"
+website: https://busybody.com/stores/encinitas

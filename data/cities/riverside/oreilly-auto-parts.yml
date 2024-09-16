@@ -1,11 +1,11 @@
 id: 279492506
-type: way
+type: node
 latitude: 33.88801
 longitude: -117.33996
 postcode: "92508"
 city: Riverside
-street: "Van Buren Boulevard"
-housenumber: 18570
+street: Van Buren Boulevard
+housenumber: "18570"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ca/riverside/autoparts-3814.html"
+website: https://locations.oreillyauto.com/ca/riverside/autoparts-3814.html

@@ -1,11 +1,11 @@
 id: 132979647
-type: way
+type: node
 latitude: 32.90308
 longitude: -117.10087
 postcode: "92131"
 city: San Diego
-street: "Scrpps Ranch Boulevard"
-housenumber: 10016
-phone: "+1 858-271-5350"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://local.vons.com/ca/san-diego/10016-scripps-ranch-blvd.html"
+street: Scrpps Ranch Boulevard
+housenumber: "10016"
+phone: +1 858-271-5350
+opening_hours: Mo-Su 06:00-24:00
+website: https://local.vons.com/ca/san-diego/10016-scripps-ranch-blvd.html

@@ -1,11 +1,11 @@
 id: 466366207
-type: way
+type: node
 latitude: 37.77513
 longitude: -122.26508
 postcode: "94501"
 city: Alameda
-street: "Lincoln Avenue"
-housenumber: 1127
-phone: "+1-510-522-2667"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
-website: "https://www.royalautorepair.net/"
+street: Lincoln Avenue
+housenumber: "1127"
+phone: +1-510-522-2667
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
+website: https://www.royalautorepair.net/

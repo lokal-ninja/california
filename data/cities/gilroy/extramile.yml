@@ -1,11 +1,11 @@
 id: 28790351
-type: way
+type: node
 latitude: 36.98435
 longitude: -121.55797
 postcode: "95020"
 city: Gilroy
-street: "Monterey Road"
-housenumber: 5887
+street: Monterey Road
+housenumber: "5887"
 phone: ""
 opening_hours: ""
 website: ""
