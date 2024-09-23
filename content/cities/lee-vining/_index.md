@@ -1,6 +1,6 @@
 ---
 title: Lee Vining
 url: /lee-vining/
-latitude: 37.957
+latitude: 37.956
 longitude: -119.119
 ---
