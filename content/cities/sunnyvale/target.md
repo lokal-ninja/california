@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /sunnyvale/target/
-shop: supermarket
+shop: department store
 ---
