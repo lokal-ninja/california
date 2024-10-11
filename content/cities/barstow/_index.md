@@ -1,6 +1,6 @@
 ---
 title: Barstow
 url: /barstow/
-latitude: 34.898
-longitude: -117.027
+latitude: 34.848
+longitude: -117.085
 ---

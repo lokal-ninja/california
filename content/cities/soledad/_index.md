@@ -1,6 +1,6 @@
 ---
 title: Soledad
 url: /soledad/
-latitude: 36.426
-longitude: -121.328
+latitude: 36.416
+longitude: -121.32
 ---

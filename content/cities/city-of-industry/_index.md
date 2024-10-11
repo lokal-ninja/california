@@ -1,6 +1,6 @@
 ---
 title: City of Industry
 url: /city-of-industry/
-latitude: 34.003
-longitude: -117.846
+latitude: 34.022
+longitude: -117.958
 ---
