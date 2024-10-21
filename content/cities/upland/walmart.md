@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /upland/walmart/
-shop: supermarket
+shop: department store
 ---

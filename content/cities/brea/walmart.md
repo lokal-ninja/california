@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /brea/walmart/
-shop: supermarket
+shop: department store
 ---

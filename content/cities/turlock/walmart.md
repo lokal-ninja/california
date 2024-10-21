@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /turlock/walmart/
-shop: supermarket
+shop: department store
 ---
