@@ -1,5 +1,5 @@
 ---
-title: "In The Cut Barber Salon"
+title: "In the Cut Barber Salon"
 url: /inglewood/in-the-cut-barber-salon/
 shop: hairdresser
 ---
