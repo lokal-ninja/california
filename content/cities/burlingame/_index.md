@@ -1,6 +1,6 @@
 ---
 title: Burlingame
 url: /burlingame/
-latitude: 37.578
-longitude: -122.346
+latitude: 37.587
+longitude: -122.364
 ---
