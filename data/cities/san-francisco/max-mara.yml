@@ -1,11 +1,11 @@
-id: 4625205165
+id: 4625203722
 type: node
-latitude: 37.78864
-longitude: -122.40479
+latitude: 37.78853
+longitude: -122.40574
 postcode: "94108"
 city: San Francisco
 street: Post Street
-housenumber: "175"
-phone: +1 415-981-0900
-opening_hours: Mo-Sa 11:00-18:00
+housenumber: "231"
+phone: ""
+opening_hours: Mo-Sa 11:00-18:00; Su 12:00-17:00
 website: ""
