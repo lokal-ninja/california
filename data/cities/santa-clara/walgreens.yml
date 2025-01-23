@@ -7,5 +7,5 @@ city: Santa Clara
 street: El Camino Real
 housenumber: "2140"
 phone: ""
-opening_hours: Mo-Su 08:00-22:00
+opening_hours: Mo-Su 08:00-22:00;Mo-Fr 08:00-21:00;Sa 09:00-18:00;Su 10:00-18:00
 website: https://www.walgreens.com/locator/walgreens-2140+el+camino+real-santa+clara-ca-95050/id=15246
