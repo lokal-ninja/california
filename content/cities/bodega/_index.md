@@ -1,6 +1,6 @@
 ---
 title: Bodega
 url: /bodega/
-latitude: 38.345
+latitude: 38.346
 longitude: -122.974
 ---

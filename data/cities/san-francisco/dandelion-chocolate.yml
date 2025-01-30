@@ -7,5 +7,5 @@ city: San Francisco
 street: Valencia Street
 housenumber: "740"
 phone: +1 415 3490942
-opening_hours: Mo-Th 11:00-19:00; Fr-Su 10:00-21:00
+opening_hours: Mo-Th,Su 07:30-21:00; Fr-Sa 07:30-22:00
 website: https://store.dandelionchocolate.com/pages/visit-us

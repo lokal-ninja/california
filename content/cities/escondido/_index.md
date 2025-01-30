@@ -1,6 +1,6 @@
 ---
 title: Escondido
 url: /escondido/
-latitude: 33.14
-longitude: -117.043
+latitude: 33.109
+longitude: -117.106
 ---
