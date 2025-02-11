@@ -1,5 +1,5 @@
 ---
 title: "Pep Boys"
 url: /lake-forest/pep-boys/
-shop: shop
+shop: car repair
 ---

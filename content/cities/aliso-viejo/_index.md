@@ -1,6 +1,6 @@
 ---
 title: Aliso Viejo
 url: /aliso-viejo/
-latitude: 33.57
-longitude: -117.707
+latitude: 33.558
+longitude: -117.724
 ---

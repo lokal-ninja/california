@@ -1,6 +1,6 @@
 ---
 title: Diamond Springs
 url: /diamond-springs/
-latitude: 38.697
-longitude: -120.832
+latitude: 38.695
+longitude: -120.806
 ---
