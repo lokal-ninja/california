@@ -1,6 +1,6 @@
 ---
 title: Alhambra
 url: /alhambra/
-latitude: 34.079
-longitude: -118.118
+latitude: 34.068
+longitude: -118.149
 ---
