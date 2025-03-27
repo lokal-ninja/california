@@ -1,6 +1,6 @@
 ---
 title: Prunedale
 url: /prunedale/
-latitude: 36.772
-longitude: -121.667
+latitude: 36.801
+longitude: -121.665
 ---
