@@ -1,6 +1,6 @@
 ---
 title: Lockeford
 url: /lockeford/
-latitude: 38.164
-longitude: -121.15
+latitude: 38.155
+longitude: -121.154
 ---
