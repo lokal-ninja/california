@@ -1,6 +1,6 @@
 ---
 title: National City
 url: /national-city/
-latitude: 32.682
-longitude: -117.073
+latitude: 32.659
+longitude: -117.089
 ---

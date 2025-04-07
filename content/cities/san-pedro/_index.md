@@ -1,6 +1,6 @@
 ---
 title: San Pedro
 url: /san-pedro/
-latitude: 33.722
-longitude: -118.312
+latitude: 33.738
+longitude: -118.287
 ---
