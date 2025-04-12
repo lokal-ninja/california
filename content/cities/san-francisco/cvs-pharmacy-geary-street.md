@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /san-francisco/cvs-pharmacy-geary-street/
-shop: convenience
+shop: chemist
 ---

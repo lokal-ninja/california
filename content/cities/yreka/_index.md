@@ -2,5 +2,5 @@
 title: Yreka
 url: /yreka/
 latitude: 41.732
-longitude: -122.636
+longitude: -122.639
 ---

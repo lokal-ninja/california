@@ -1,5 +1,5 @@
 ---
 title: "Brownie's Hardware"
 url: /san-francisco/brownies-hardware/
-shop: hardware
+shop: doityourself
 ---
