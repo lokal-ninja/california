@@ -7,5 +7,5 @@ city: San Francisco
 street: Sutter Street
 housenumber: "522"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Tu 08:30-19:00; We 08:30-20:00; Th-Sa 08:30-21:00; Su 08:30-20:00
 website: ""

@@ -1,6 +1,6 @@
 ---
 title: Dublin
 url: /dublin/
-latitude: 37.708
-longitude: -121.925
+latitude: 37.706
+longitude: -121.923
 ---
