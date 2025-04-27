@@ -1,6 +1,6 @@
 ---
 title: Simi Valley
 url: /simi-valley/
-latitude: 34.271
-longitude: -118.739
+latitude: 34.282
+longitude: -118.789
 ---

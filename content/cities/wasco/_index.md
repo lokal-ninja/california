@@ -1,6 +1,6 @@
 ---
 title: Wasco
 url: /wasco/
-latitude: 35.602
-longitude: -119.348
+latitude: 35.6
+longitude: -119.352
 ---

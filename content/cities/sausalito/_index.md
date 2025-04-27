@@ -1,6 +1,6 @@
 ---
 title: Sausalito
 url: /sausalito/
-latitude: 37.859
-longitude: -122.485
+latitude: 37.855
+longitude: -122.479
 ---
