@@ -1,6 +1,6 @@
 ---
 title: Belmont
 url: /belmont/
-latitude: 37.521
-longitude: -122.274
+latitude: 37.524
+longitude: -122.281
 ---

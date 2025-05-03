@@ -1,6 +1,6 @@
 ---
 title: Santa Cruz
 url: /santa-cruz/
-latitude: 36.96
-longitude: -122.049
+latitude: 36.975
+longitude: -122.026
 ---
