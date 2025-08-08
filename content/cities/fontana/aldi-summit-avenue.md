@@ -1,5 +1,5 @@
 ---
-title: "ALDI"
+title: "Aldi"
 url: /fontana/aldi-summit-avenue/
 shop: supermarket
 ---

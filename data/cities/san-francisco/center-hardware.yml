@@ -7,5 +7,5 @@ city: San Francisco
 street: 3rd Street
 housenumber: 3003;3095
 phone: +1 415-861-1800
-opening_hours: Mo-Fr 07:00-18:00; Sa-Su 10:00-18:00
+opening_hours: Mo-Sa 07:00-18:00; Sa-Su 10:00-18:00
 website: ""

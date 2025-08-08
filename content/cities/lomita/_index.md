@@ -1,6 +1,6 @@
 ---
 title: Lomita
 url: /lomita/
-latitude: 33.8
-longitude: -118.315
+latitude: 33.79
+longitude: -118.309
 ---

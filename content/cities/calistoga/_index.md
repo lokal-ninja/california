@@ -1,6 +1,6 @@
 ---
 title: Calistoga
 url: /calistoga/
-latitude: 38.58
+latitude: 38.579
 longitude: -122.579
 ---

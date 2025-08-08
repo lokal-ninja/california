@@ -1,5 +1,5 @@
 ---
-title: "The shade store"
+title: "The Shade Store"
 url: /berkeley/the-shade-store/
-shop: interior decoration
+shop: window blind
 ---

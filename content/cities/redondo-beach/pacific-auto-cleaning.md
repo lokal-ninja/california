@@ -1,5 +1,5 @@
 ---
 title: "Pacific Auto Cleaning"
 url: /redondo-beach/pacific-auto-cleaning/
-shop: shop
+shop: car repair
 ---
