@@ -1,6 +1,6 @@
 ---
 title: San Gabriel
 url: /san-gabriel/
-latitude: 34.08
-longitude: -118.107
+latitude: 34.105
+longitude: -118.087
 ---
