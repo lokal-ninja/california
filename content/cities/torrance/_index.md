@@ -1,6 +1,6 @@
 ---
 title: Torrance
 url: /torrance/
-latitude: 33.858
-longitude: -118.364
+latitude: 33.83
+longitude: -118.311
 ---

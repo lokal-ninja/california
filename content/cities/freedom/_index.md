@@ -1,6 +1,6 @@
 ---
 title: Freedom
 url: /freedom/
-latitude: 36.938
-longitude: -121.776
+latitude: 36.94
+longitude: -121.775
 ---
