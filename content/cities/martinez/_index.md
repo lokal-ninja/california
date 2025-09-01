@@ -1,6 +1,6 @@
 ---
 title: Martinez
 url: /martinez/
-latitude: 38.018
-longitude: -122.135
+latitude: 37.992
+longitude: -122.12
 ---

@@ -1,6 +1,6 @@
 ---
 title: Templeton
 url: /templeton/
-latitude: 35.554
-longitude: -120.702
+latitude: 35.547
+longitude: -120.708
 ---
