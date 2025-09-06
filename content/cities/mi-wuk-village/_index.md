@@ -1,6 +1,6 @@
 ---
-title: MI-WUK VILLAGE
+title: Mi-Wuk Village
 url: /mi-wuk-village/
 latitude: 38.062
-longitude: -120.198
+longitude: -120.199
 ---
