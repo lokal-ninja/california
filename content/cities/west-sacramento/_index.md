@@ -1,6 +1,6 @@
 ---
 title: West Sacramento
 url: /west-sacramento/
-latitude: 38.579
-longitude: -121.55
+latitude: 38.568
+longitude: -121.526
 ---
