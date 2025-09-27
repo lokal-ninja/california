@@ -1,6 +1,6 @@
 ---
 title: Orinda
 url: /orinda/
-latitude: 37.882
-longitude: -122.188
+latitude: 37.884
+longitude: -122.192
 ---
