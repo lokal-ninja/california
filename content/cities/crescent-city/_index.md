@@ -1,6 +1,6 @@
 ---
 title: Crescent City
 url: /crescent-city/
-latitude: 41.756
-longitude: -124.193
+latitude: 41.753
+longitude: -124.194
 ---
