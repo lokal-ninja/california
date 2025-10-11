@@ -7,5 +7,5 @@ city: Los Altos
 street: Main Street
 housenumber: "123"
 phone: ""
-opening_hours: ""
+opening_hours: '"by appointment"'
 website: ""
