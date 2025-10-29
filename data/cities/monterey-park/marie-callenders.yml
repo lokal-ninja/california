@@ -7,5 +7,5 @@ city: Monterey Park
 street: South Atlantic Boulevard
 housenumber: "220"
 phone: ""
-opening_hours: Mo-Th 11:00-22:00; Fr 11:00-23:00; Sa-Su 09:00-23:00
+opening_hours: Mo-Th,Sa-Su 11:00-21:00; Fr 11:00-22:00
 website: ""
