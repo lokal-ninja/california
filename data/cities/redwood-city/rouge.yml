@@ -7,5 +7,5 @@ city: Redwood City
 street: Main Street
 housenumber: "980"
 phone: +1 650 780 0959
-opening_hours: ""
+opening_hours: Mo,Su off; Tu,Fr 09:00-18:00; We-Th 11:00-20:00; Sa 09:00-16:00
 website: https://www.rougethesalononmain.com/
