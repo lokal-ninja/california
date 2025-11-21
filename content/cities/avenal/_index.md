@@ -1,6 +1,6 @@
 ---
 title: Avenal
 url: /avenal/
-latitude: 36.004
-longitude: -120.129
+latitude: 36.002
+longitude: -120.135
 ---
