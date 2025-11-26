@@ -7,5 +7,5 @@ city: San Pedro
 street: South Pacific Avenue
 housenumber: "1101"
 phone: ""
-opening_hours: 'Mon/Wed/Thurs: 5pm-11:30pm • Fri 5pm-1am • Sat: 4pm-1am'
+opening_hours: Mo,We,Th 17:00-23:30, Fr 17:00-01:00, Sa 16:00-01:00
 website: ""
