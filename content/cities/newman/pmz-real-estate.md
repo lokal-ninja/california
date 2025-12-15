@@ -1,5 +1,5 @@
 ---
 title: "PMZ Real Estate"
 url: /newman/pmz-real-estate/
-shop: shop
+shop: estate agent
 ---

@@ -7,5 +7,5 @@ city: Redlands
 street: Eureka Street
 housenumber: "606"
 phone: ""
-opening_hours: ""
+opening_hours: Tu,We,Fr,Sa 10:00-20:00; Th 10:00-17:00
 website: ""

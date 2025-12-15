@@ -1,6 +1,6 @@
 ---
 title: Costa Mesa
 url: /costa-mesa/
-latitude: 33.666
-longitude: -117.882
+latitude: 33.682
+longitude: -117.884
 ---

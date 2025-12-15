@@ -1,5 +1,5 @@
 ---
 title: "Daum Commercial Real Estate Services"
 url: /ontario/daum-commercial-real-estate-services/
-shop: shop
+shop: estate agent
 ---
