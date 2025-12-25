@@ -7,6 +7,5 @@ city: Alameda
 street: West Tower Avenue
 housenumber: "650"
 phone: +1-510-626-9044
-opening_hours: Mo 12:00-18:00; Tu-Th 14:00-18:00; Fr 13:00-19:00; Sa 12:00-18:00;
-    Su 13:00-18:00
+opening_hours: Mo-Fr 14:00-18:00; Sa 12:00-18:00; Su 15:00-18:00
 website: https://www.deepoceanexplorestore.com/
