@@ -1,6 +1,6 @@
 ---
 title: Seal Beach
 url: /seal-beach/
-latitude: 33.74
-longitude: -118.106
+latitude: 33.741
+longitude: -118.105
 ---

@@ -1,6 +1,6 @@
 ---
 title: Menlo Park
 url: /menlo-park/
-latitude: 37.452
-longitude: -122.184
+latitude: 37.451
+longitude: -122.185
 ---
