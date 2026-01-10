@@ -1,6 +1,6 @@
 ---
 title: Tecopa
 url: /tecopa/
-latitude: 35.843
-longitude: -116.202
+latitude: 35.848
+longitude: -116.225
 ---
