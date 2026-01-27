@@ -1,5 +1,5 @@
 ---
-title: "J. Crew"
+title: "J.Crew"
 url: /pasadena/j-crew/
 shop: clothes
 ---

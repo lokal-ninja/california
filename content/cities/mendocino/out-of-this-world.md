@@ -1,5 +1,5 @@
 ---
-title: "Out of this World"
+title: "Out of This World"
 url: /mendocino/out-of-this-world/
-shop: shop
+shop: toys
 ---
