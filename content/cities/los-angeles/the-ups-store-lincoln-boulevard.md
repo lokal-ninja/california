@@ -1,0 +1,5 @@
+---
+title: "The UPS Store"
+url: /los-angeles/the-ups-store-lincoln-boulevard/
+shop: copyshop
+---
