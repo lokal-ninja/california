@@ -1,6 +1,6 @@
 ---
 title: Gustine
 url: /gustine/
-latitude: 37.103
-longitude: -121.015
+latitude: 37.256
+longitude: -121
 ---

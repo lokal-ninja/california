@@ -1,6 +1,6 @@
 ---
 title: Fresno
 url: /fresno/
-latitude: 36.659
-longitude: -119.719
+latitude: 36.742
+longitude: -119.78
 ---
