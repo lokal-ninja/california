@@ -1,11 +1,12 @@
-id: 13282613960
+id: 13241404244
 type: node
-latitude: 34.35218
-longitude: -119.05429
+latitude: 34.34692
+longitude: -119.07086
 postcode: "93060"
 city: Santa Paula
 street: East Harvard Boulevard
-housenumber: "1203"
+housenumber: "135"
 phone: ""
-opening_hours: ""
+opening_hours: Mo 11:00-19:00; Tu-Fr 10:00-19:00; Mo 11:00-19:00; Sa 10:00-17:00;
+    Su "by appointment"
 website: ""

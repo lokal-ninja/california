@@ -1,6 +1,6 @@
 ---
 title: Yuba City
 url: /yuba-city/
-latitude: 39.142
-longitude: -121.624
+latitude: 39.112
+longitude: -121.628
 ---
