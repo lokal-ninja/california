@@ -1,6 +1,6 @@
 ---
 title: Berkeley
 url: /berkeley/
-latitude: 37.865
-longitude: -122.267
+latitude: 37.881
+longitude: -122.269
 ---
