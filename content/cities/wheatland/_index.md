@@ -1,6 +1,6 @@
 ---
 title: Wheatland
 url: /wheatland/
-latitude: 39.002
-longitude: -121.452
+latitude: 39.015
+longitude: -121.433
 ---
