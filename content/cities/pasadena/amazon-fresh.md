@@ -1,5 +1,5 @@
 ---
 title: "Amazon Fresh"
 url: /pasadena/amazon-fresh/
-shop: supermarket
+shop: vacant
 ---
