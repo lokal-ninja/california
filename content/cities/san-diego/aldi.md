@@ -1,5 +1,5 @@
 ---
-title: "ALDI"
+title: "Aldi"
 url: /san-diego/aldi/
 shop: supermarket
 ---

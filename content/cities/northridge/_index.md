@@ -1,6 +1,6 @@
 ---
 title: Northridge
 url: /northridge/
-latitude: 34.234
-longitude: -118.556
+latitude: 34.241
+longitude: -118.559
 ---
