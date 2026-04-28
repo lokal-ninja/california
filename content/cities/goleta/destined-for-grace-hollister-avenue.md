@@ -1,5 +1,5 @@
 ---
-title: "Destined For Grace"
+title: "Destined for Grace"
 url: /goleta/destined-for-grace-hollister-avenue/
 shop: charity
 ---

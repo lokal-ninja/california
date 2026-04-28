@@ -7,5 +7,5 @@ city: Palo Alto
 street: University Avenue
 housenumber: "255"
 phone: ""
-opening_hours: Mo-Sa 11:00-17:00
+opening_hours: Mo,Su off; Tu-Sa 11:00-17:00
 website: ""
