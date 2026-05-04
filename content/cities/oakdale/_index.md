@@ -1,6 +1,6 @@
 ---
 title: Oakdale
 url: /oakdale/
-latitude: 37.767
-longitude: -120.845
+latitude: 37.771
+longitude: -120.832
 ---

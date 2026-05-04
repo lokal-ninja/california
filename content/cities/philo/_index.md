@@ -1,6 +1,6 @@
 ---
 title: Philo
 url: /philo/
-latitude: 39.086
-longitude: -123.482
+latitude: 39.065
+longitude: -123.44
 ---

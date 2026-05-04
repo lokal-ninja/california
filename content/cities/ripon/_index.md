@@ -1,6 +1,6 @@
 ---
 title: Ripon
 url: /ripon/
-latitude: 37.741
-longitude: -121.136
+latitude: 37.75
+longitude: -121.142
 ---

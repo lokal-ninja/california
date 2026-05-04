@@ -1,6 +1,6 @@
 ---
 title: San Fernando
 url: /san-fernando/
-latitude: 34.281
-longitude: -118.441
+latitude: 34.283
+longitude: -118.428
 ---
