@@ -1,6 +1,6 @@
 ---
 title: Tustin
 url: /tustin/
-latitude: 33.732
-longitude: -117.816
+latitude: 33.749
+longitude: -117.831
 ---

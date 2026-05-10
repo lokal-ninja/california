@@ -1,5 +1,5 @@
 ---
-title: "Boont berry farm"
+title: "Boont Berry Farm"
 url: /boonville/boont-berry-farm/
-shop: supermarket
+shop: deli
 ---
