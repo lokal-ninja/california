@@ -7,5 +7,5 @@ city: Los Angeles
 street: 9th Avenue
 housenumber: "3650"
 phone: +1 323-838-4262
-opening_hours: by appointment
+opening_hours: '"by appointment"'
 website: https://orchidsdeoro.com/
