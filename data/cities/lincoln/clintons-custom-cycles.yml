@@ -7,5 +7,5 @@ city: Lincoln
 street: Lincoln Boulevard
 housenumber: "555"
 phone: +1-916-645-0954
-opening_hours: ""
+opening_hours: Mo,Su off; Tu-Sa 09:00-17:00
 website: https://clintonscustomcycle.com/

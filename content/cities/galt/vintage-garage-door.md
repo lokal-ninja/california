@@ -1,5 +1,5 @@
 ---
-title: "vintage garage door"
+title: "Vintage Garage Door"
 url: /galt/vintage-garage-door/
 shop: doors
 ---
