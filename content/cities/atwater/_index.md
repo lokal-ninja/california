@@ -1,6 +1,6 @@
 ---
 title: Atwater
 url: /atwater/
-latitude: 37.337
-longitude: -120.577
+latitude: 37.339
+longitude: -120.589
 ---
