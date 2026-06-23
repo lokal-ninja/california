@@ -1,11 +1,11 @@
 id: 7929192827
 type: node
-latitude: 34.05284
-longitude: -118.30682
+latitude: 34.053
+longitude: -118.30726
 postcode: "90006"
 city: Los Angeles
 street: West Olympic Blvd
 housenumber: "3225"
 phone: +1-213-365-0244
-opening_hours: Mo-Sa 08:00-18:00
-website: ""
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su off
+website: https://www.choismog.com/

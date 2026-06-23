@@ -1,6 +1,6 @@
 ---
 title: McFarland
 url: /mcfarland/
-latitude: 35.6
-longitude: -119.209
+latitude: 35.682
+longitude: -119.229
 ---

@@ -1,6 +1,6 @@
 ---
 title: Daly City
 url: /daly-city/
-latitude: 37.664
-longitude: -122.469
+latitude: 37.707
+longitude: -122.409
 ---

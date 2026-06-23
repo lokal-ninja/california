@@ -1,5 +1,5 @@
 ---
-title: "Destined for Grace"
+title: "Destined For Grace"
 url: /goleta/destined-for-grace/
 shop: charity
 ---
