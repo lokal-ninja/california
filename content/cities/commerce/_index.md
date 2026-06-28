@@ -1,6 +1,6 @@
 ---
 title: Commerce
 url: /commerce/
-latitude: 33.991
-longitude: -118.14
+latitude: 34
+longitude: -118.16
 ---
