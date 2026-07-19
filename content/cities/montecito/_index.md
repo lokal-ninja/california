@@ -1,6 +1,6 @@
 ---
 title: Montecito
 url: /montecito/
-latitude: 34.423
-longitude: -119.652
+latitude: 34.421
+longitude: -119.641
 ---

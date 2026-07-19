@@ -1,5 +1,5 @@
 ---
-title: "Hookah & More Smoke Shop"
+title: "Hookah and More Smoke Shop"
 url: /santa-ana/hookah-and-more-smoke-shop/
 shop: tobacco
 ---

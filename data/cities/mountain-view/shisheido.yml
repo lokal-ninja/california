@@ -7,5 +7,5 @@ city: Mountain View
 street: Castro Street
 housenumber: "380"
 phone: ""
-opening_hours: ""
+opening_hours: Mo-Tu,Su off; We 12:30-17:00; Th-Fr 12:30-18:00; Sa 11:30-17:00
 website: ""

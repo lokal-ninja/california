@@ -1,5 +1,5 @@
 ---
-title: "Dita"
+title: "DITA"
 url: /newport-beach/dita/
 shop: optician
 ---

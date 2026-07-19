@@ -7,5 +7,5 @@ city: Los Angeles
 street: South Alameda Street
 housenumber: "333"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Tu,Th-Sa 10:00-19:00; We 10:00-18:00
 website: ""
