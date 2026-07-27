@@ -7,5 +7,5 @@ city: San Francisco
 street: Polk Street
 housenumber: "2001"
 phone: +1 415 9212001
-opening_hours: Mo-Su 10:00-19:00
+opening_hours: Mo-Fr 10:00-19:30; Sa 09:00-19:30; Su 10:00-19:00
 website: https://cheeseplus.com/

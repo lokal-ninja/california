@@ -1,6 +1,6 @@
 ---
 title: Nevada City
 url: /nevada-city/
-latitude: 39.253
-longitude: -121.025
+latitude: 39.263
+longitude: -121.018
 ---

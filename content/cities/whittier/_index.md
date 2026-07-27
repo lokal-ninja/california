@@ -1,6 +1,6 @@
 ---
 title: Whittier
 url: /whittier/
-latitude: 34.02
-longitude: -118.033
+latitude: 33.995
+longitude: -118.071
 ---
