@@ -7,5 +7,5 @@ city: Los Angeles
 street: Hollywood Boulevard
 housenumber: "6660"
 phone: +1 323-462-8108
-opening_hours: Mo-Th 12:00-0:00; Fr-Sa 12:00-2:00; Su 12:00-0:00
+opening_hours: Mo-Th,Su 12:00-00:00; Fr-Sa 12:00-02:00
 website: http://www.facebook.com/pages/Zebra-Tattoo-Hollywood/104505792947386

@@ -7,6 +7,6 @@ city: San Francisco
 street: Florida Street
 housenumber: 650H
 phone: ""
-opening_hours: '6pm-9pm Tuesday, Wednesday, Thursday; noon-3pm Saturday; Womens/Trans/Fem
-    night: 6pm-9pm 2nd and 4th Mondays'
+opening_hours: Tu-Th 18:00-21:00; Sa 12:00-15:00; Mo[2,4] 18:00-21:00 "Women's/Trans/Fem
+    night"
 website: https://bikekitchen.org/

@@ -7,7 +7,5 @@ city: Fresno
 street: ""
 housenumber: 1010 E St
 phone: +1-559-233-6500
-opening_hours: 'Sunday: Open 24 Hours Monday: Open 24 Hours Tuesday: Open 24 Hours
-    Wednesday: Open 24 Hours Thursday: Open 24 Hours Friday: Open 24 Hours Saturday:
-    Open 24 Hours'
+opening_hours: Mo-Su 24/7
 website: https://hbmedtrans.com

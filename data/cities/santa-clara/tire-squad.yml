@@ -7,5 +7,5 @@ city: Santa Clara
 street: El Camino Real
 housenumber: "2977"
 phone: +1-408-869-0441
-opening_hours: Mo-Fr 10:00-19:00  Sa 10:00-18:30  Su 10:00-16:30
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:30; Su 10:00-16:30
 website: ""

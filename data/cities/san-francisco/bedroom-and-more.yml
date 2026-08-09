@@ -7,5 +7,5 @@ city: San Francisco
 street: Market Street
 housenumber: "1676"
 phone: +1 415-865-0933
-opening_hours: By Appointment - phone
+opening_hours: '"by appointment - phone"'
 website: ""

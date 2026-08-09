@@ -7,5 +7,5 @@ city: Lebec
 street: Landfill Road
 housenumber: "180"
 phone: +1-661-519-5716
-opening_hours: Mo-Tu 1:00-5:00   Th-Fr 1:00-5:00
+opening_hours: Mo-Tu,Th-Fr 01:00-05:00
 website: ""

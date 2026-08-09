@@ -1,5 +1,5 @@
 ---
-title: "AMPM"
+title: "ampm"
 url: /coalinga/ampm/
 shop: convenience
 ---
