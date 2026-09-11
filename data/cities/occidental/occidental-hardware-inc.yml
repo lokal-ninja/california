@@ -7,7 +7,5 @@ city: Occidental
 street: Bohemian Highway
 housenumber: "3799"
 phone: ""
-opening_hours: Monday - Saturday   8:00 am to 6 pm  Sundays               9:00 am
-    to 4 pm  Most holidays      9:00 am to 4 pm  Closed Christmas, New Years, Thanksgiving,
-    and Easter
+opening_hours: Mo-Sa 08:00-18:00; Su 09:00-16:00; PH closed
 website: http://www.occidentalhardware.com/home.html

@@ -7,6 +7,5 @@ city: Walnut Creek
 street: Pringle Avenue
 housenumber: "101"
 phone: +1-925-323-5130
-opening_hours: 'Mon to Thu – 8:00AM to 6:00PM || Fri - 8:00AM to 5:00PM || Sat : Closed
-    || Sun - 8:00AM to 4:00PM'
+opening_hours: Mo-Th 08:00-18:00; Fr 08:00-17:00; Sa off; Su 08:00-16:00
 website: https://gsbuildersgroup.com/

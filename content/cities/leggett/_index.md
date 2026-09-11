@@ -1,6 +1,6 @@
 ---
 title: Leggett
 url: /leggett/
-latitude: 39.878
-longitude: -123.728
+latitude: 39.865
+longitude: -123.715
 ---
