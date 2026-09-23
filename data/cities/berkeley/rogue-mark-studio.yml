@@ -7,5 +7,5 @@ city: Berkeley
 street: Ashby Avenue
 housenumber: "2101"
 phone: ""
-opening_hours: ""
+opening_hours: '"this is a one person consulting office that has no walk in hours."'
 website: ""
