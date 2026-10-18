@@ -1,6 +1,6 @@
 ---
 title: Hayward
 url: /hayward/
-latitude: 37.672
-longitude: -122.084
+latitude: 37.673
+longitude: -122.083
 ---

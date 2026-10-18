@@ -7,5 +7,5 @@ city: San Francisco
 street: 18th Street
 housenumber: "1345"
 phone: ""
-opening_hours: ""
+opening_hours: Tu-Th,Su 10:00-16:00; Fr,Sa 10:00-17:30; Mo off
 website: ""
