@@ -1,6 +1,6 @@
 ---
 title: Emeryville
 url: /emeryville/
-latitude: 37.836
-longitude: -122.293
+latitude: 37.835
+longitude: -122.292
 ---
