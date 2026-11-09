@@ -7,5 +7,5 @@ city: Elk Grove
 street: Bruceville Road
 housenumber: "10044"
 phone: +1-916-500-3757
-opening_hours: Tu-Fr 8:00-14:30; Sa 8:00-13:30
+opening_hours: Tu-Fr 08:00-14:30; Sa 08:00-13:30; Sa[3] off
 website: ""

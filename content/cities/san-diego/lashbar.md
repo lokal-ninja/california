@@ -1,5 +1,5 @@
 ---
-title: "Lashbar"
+title: "LASHBAR"
 url: /san-diego/lashbar/
 shop: beauty
 ---
