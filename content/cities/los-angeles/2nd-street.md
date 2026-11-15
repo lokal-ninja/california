@@ -1,5 +1,5 @@
 ---
-title: "2nd Street"
+title: "2nd STREET"
 url: /los-angeles/2nd-street/
-shop: clothes
+shop: charity
 ---

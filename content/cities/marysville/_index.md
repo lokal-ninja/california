@@ -1,6 +1,6 @@
 ---
 title: Marysville
 url: /marysville/
-latitude: 39.143
-longitude: -121.6
+latitude: 39.126
+longitude: -121.575
 ---

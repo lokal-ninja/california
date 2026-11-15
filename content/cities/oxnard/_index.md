@@ -1,6 +1,6 @@
 ---
 title: Oxnard
 url: /oxnard/
-latitude: 34.237
-longitude: -119.179
+latitude: 34.223
+longitude: -119.157
 ---
